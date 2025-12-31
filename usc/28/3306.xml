@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/3306" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/3306/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/3306/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3306"><akn:num>3306</akn:num><akn:heading>Remedies of the United States</akn:heading><akn:content><akn:p>§ 3306. Remedies of the United States(a) In General.—In an action or proceeding under this subchapter for relief against a transfer or obligation, the United States, subject to section 3307 and to applicable principles of equity and in accordance with the Federal Rules of Civil Procedure, may obtain—(1) avoidance of the transfer or obligation to the extent necessary to satisfy the debt to the United States;
+
+(2) a remedy under this chapter against the asset transferred or other property of the transferee; or
+
+(3) any other relief the circumstances may require.
+
+
+(b) Limitation.—A claim for relief with respect to a fraudulent transfer or obligation under this subchapter is extinguished unless action is brought—(1) under section 3304(b)(1)(A) within 6 years after the transfer was made or the obligation was incurred or, if later, within 2 years after the transfer or obligation was or could reasonably have been discovered by the claimant;
+
+(2) under subsection (a)(1) or (b)(1)(B) of section 3304 within 6 years after the transfer was made or the obligation was incurred; or
+
+(3) under section 3304(a)(2) within 2 years after the transfer was made or the obligation was incurred.
+
+
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4963.)
+
+Editorial Notes
+
+References in TextThe Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.</akn:p></akn:content><akn:subsection eId="subsec_3306_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In an action or proceeding under this subchapter for relief against a transfer or obligation, the United States, subject to section 3307 and to applicable principles of equity and in accordance with the Federal Rules of Civil Procedure, may obtain—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3306_b"><akn:num>(b)</akn:num><akn:heading>Limitation.—</akn:heading><akn:content><akn:p>(b) A claim for relief with respect to a fraudulent transfer or obligation under this subchapter is extinguished unless action is brought—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

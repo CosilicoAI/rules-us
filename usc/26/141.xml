@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/141" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/141/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/141/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_141"><akn:num>141</akn:num><akn:heading>Private activity bond; qualified bond</akn:heading><akn:content><akn:p>§ 141. Private activity bond; qualified bond(a) Private activity bondFor purposes of this title, the term “private activity bond” means any bond issued as part of an issue—(1) which meets—(A) the private business use test of paragraph (1) of subsection (b), and
+
+(B) the private security or payment test of paragraph (2) of subsection (b), or
+
+
+(2) which meets the private loan financing test of subsection (c).
+
+
+(b) Private business tests(1) Private business use testExcept as otherwise provided in this subsection, an issue meets the test of this paragraph if more than 10 percent of the proceeds of the issue are to be used for any private business use.
+
+
+(2) Private security or payment testExcept as otherwise provided in this subsection, an issue meets the test of this paragraph if the payment of the principal of, or the interest on, more than 10 percent of the proceeds of such issue is (under the terms of such issue or any underlying arrangement) directly or indirectly—(A) secured by any interest in—(i) property used or to be used for a private business use, or
+
+(ii) payments in respect of such property, or
+
+
+(B) to be derived from payments (whether or not to the issuer) in respect of property, or borrowed money, used or to be used for a private business use.
+
+
+(3) 5 percent test for private business use not related or disproportionate to government use financed by the issue(A) In generalAn issue shall be treated as meeting the tests of paragraphs (1) and (2) if such tests would be met if such paragraphs were applied—(i) by substituting “5 percent” for “10 percent” each place it appears, and
+
+(ii) by taking into account only—(I) the proceeds of the issue which are to be used for any private business use which is not related to any government use of such proceeds,
+
+(II) the disproportionate related business use proceeds of the issue, and
+
+(III) payments, property, and borrowed money with respect to any use of proceeds described in subclause (I) or (II).
+
+
+
+(B) Dispropo</akn:p></akn:content><akn:subsection eId="subsec_141_a"><akn:num>(a)</akn:num><akn:heading>Private activity bond</akn:heading><akn:content><akn:p>(a) Private activity bond For purposes of this title, the term “private activity bond” means any bond issued as part of an issue—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_141_b"><akn:num>(b)</akn:num><akn:heading>Private business tests</akn:heading><akn:content><akn:p>(b) Private business tests</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_141_c"><akn:num>(c)</akn:num><akn:heading>Private loan financing test</akn:heading><akn:content><akn:p>(c) Private loan financing test</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_141_d"><akn:num>(d)</akn:num><akn:heading>Certain issues used to acquire nongovernmental output property treated as private activity bonds</akn:heading><akn:content><akn:p>(d) Certain issues used to acquire nongovernmental output property treated as private activity bonds</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_141_e"><akn:num>(e)</akn:num><akn:heading>Qualified bond</akn:heading><akn:content><akn:p>(e) Qualified bond For purposes of this part, the term “qualified bond” means any private activity bond if—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

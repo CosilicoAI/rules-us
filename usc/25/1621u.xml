@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/1621u" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/1621u/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/1621u/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1621u"><akn:num>1621u</akn:num><akn:heading>Liability for payment</akn:heading><akn:content><akn:p>§ 1621u. Liability for payment(a) No patient liabilityA patient who receives contract health care services that are authorized by the Service shall not be liable for the payment of any charges or costs associated with the provision of such services.
+
+
+(b) NotificationThe Secretary shall notify a contract care provider and any patient who receives contract health care services authorized by the Service that such patient is not liable for the payment of any charges or costs associated with the provision of such services not later than 5 business days after receipt of a notification of a claim by a provider of contract care services.
+
+
+(c) No recourseFollowing receipt of the notice provided under subsection (b), or, if a claim has been deemed accepted under section 1621s(b) of this title, the provider shall have no further recourse against the patient who received the services.
+
+
+(Pub. L. 94–437, title II, § 222, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+Editorial Notes
+Codification
+Amendment by Pub. L. 111–148 is based on section 135 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+Amendments2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to absence of patient liability for payment of charges or costs for contract health care services and requirement that Secretary notify contract care provider and patient of absence of patient’s liability.
+
+Statutory Notes and Related Subsidiaries
+Rule of ConstructionPub. L. 116–260, div. BB, title I, § 102(d)(3), Dec. 27, 2020, 134 Stat. 2797, provided that: 
+“Nothing in this title [probably means “this section”, enacting sections 9816 and 9822 of Title 26, Internal Revenue Code, sections 1185e and 1185k of Title 29, Labor, and sections 300gg–1</akn:p></akn:content><akn:subsection eId="subsec_1621u_a"><akn:num>(a)</akn:num><akn:heading>No patient liability</akn:heading><akn:content><akn:p>(a) No patient liability A patient who receives contract health care services that are authorized by the Service shall not be liable for the payment of any charges or costs associated with the provision of such services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1621u_b"><akn:num>(b)</akn:num><akn:heading>Notification</akn:heading><akn:content><akn:p>(b) Notification The Secretary shall notify a contract care provider and any patient who receives contract health care services authorized by the Service that such patient is not liable for the payment of any charges or costs associated with the provision of such services not later than 5 business days after receipt of a notification of a claim by a provider of contract care services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1621u_c"><akn:num>(c)</akn:num><akn:heading>No recourse</akn:heading><akn:content><akn:p>(c) No recourse Following receipt of the notice provided under subsection (b), or, if a claim has been deemed accepted under section 1621s(b) of this title, the provider shall have no further recourse against the patient who received the services.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

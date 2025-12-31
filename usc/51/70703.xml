@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/70703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/70703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/70703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70703"><akn:num>70703</akn:num><akn:heading>Tasks of Commission</akn:heading><akn:content><akn:p>§ 70703. Tasks of Commission
+A Commission established pursuant to this chapter shall, to the extent possible, undertake the following tasks:(1) Investigation.—Investigate the incident.
+
+(2) Cause.—Determine the cause of the incident.
+
+(3) Contributing factors.—Identify all contributing factors to the cause of the incident.
+
+(4) Recommendations.—Make recommendations for corrective actions.
+
+(5) Additional findings or recommendations.—Provide any additional findings or recommendations deemed by the Commission to be important, whether or not they are related to the specific incident under investigation.
+
+(6) Report.—Prepare a report to Congress, the President, and the public.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3432.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+7070342 U.S.C. 16843.Pub. L. 109–155, title VIII, § 823, Dec. 30, 2005, 119 Stat. 2941.</akn:p></akn:content><akn:subsection eId="subsec_70703_1"><akn:num>(1)</akn:num><akn:heading>Investigation.—</akn:heading><akn:content><akn:p>(1) Investigate the incident.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70703_2"><akn:num>(2)</akn:num><akn:heading>Cause.—</akn:heading><akn:content><akn:p>(2) Determine the cause of the incident.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70703_3"><akn:num>(3)</akn:num><akn:heading>Contributing factors.—</akn:heading><akn:content><akn:p>(3) Identify all contributing factors to the cause of the incident.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70703_4"><akn:num>(4)</akn:num><akn:heading>Recommendations.—</akn:heading><akn:content><akn:p>(4) Make recommendations for corrective actions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70703_5"><akn:num>(5)</akn:num><akn:heading>Additional findings or recommendations.—</akn:heading><akn:content><akn:p>(5) Provide any additional findings or recommendations deemed by the Commission to be important, whether or not they are related to the specific incident under investigation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70703_6"><akn:num>(6)</akn:num><akn:heading>Report.—</akn:heading><akn:content><akn:p>(6) Prepare a report to Congress, the President, and the public.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

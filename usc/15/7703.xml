@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7703"><akn:num>7703</akn:num><akn:heading>Prohibition against predatory and abusive commercial e-mail</akn:heading><akn:content><akn:p>§ 7703. Prohibition against predatory and abusive commercial e-mail(a) Omitted
+
+(b) United States Sentencing Commission(1) DirectivePursuant to its authority under section 994(p) of title 28 and in accordance with this section, the United States Sentencing Commission shall review and, as appropriate, amend the sentencing guidelines and policy statements to provide appropriate penalties for violations of section 1037 of title 18, as added by this section, and other offenses that may be facilitated by the sending of large quantities of unsolicited electronic mail.
+
+
+(2) RequirementsIn carrying out this subsection, the Sentencing Commission shall consider providing sentencing enhancements for—(A) those convicted under section 1037 of title 18 who—(i) obtained electronic mail addresses through improper means, including—(I) harvesting electronic mail addresses of the users of a website, proprietary service, or other online public forum operated by another person, without the authorization of such person; and
+
+(II) randomly generating electronic mail addresses by computer; or
+
+
+(ii) knew that the commercial electronic mail messages involved in the offense contained or advertised an Internet domain for which the registrant of the domain had provided false registration information; and
+
+
+(B) those convicted of other offenses, including offenses involving fraud, identity theft, obscenity, child pornography, and the sexual exploitation of children, if such offenses involved the sending of large quantities of electronic mail.
+
+
+
+(c) Sense of CongressIt is the sense of Congress that—(1) Spam has become the method of choice for those who distribute pornography, perpetrate fraudulent schemes, and introduce viruses, worms, and Trojan horses into personal and business computer systems; and
+
+(2) the Department of Justice should use all existing law enforcement tools to investigate and prosecute those who send bulk commercial e-mail to facilitate the commission of Federal crimes, inc</akn:p></akn:content><akn:subsection eId="subsec_7703_a"><akn:num>(a)</akn:num><akn:heading>Omitted</akn:heading><akn:content><akn:p>(a) Omitted</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7703_b"><akn:num>(b)</akn:num><akn:heading>United States Sentencing Commission</akn:heading><akn:content><akn:p>(b) United States Sentencing Commission</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7703_c"><akn:num>(c)</akn:num><akn:heading>Sense of Congress</akn:heading><akn:content><akn:p>(c) Sense of Congress It is the sense of Congress that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

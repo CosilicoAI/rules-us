@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1113" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1113/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1113/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1113"><akn:num>1113</akn:num><akn:heading>Limitation of actions</akn:heading><akn:content><akn:p>§ 1113. Limitation of actions
+No action may be commenced under this subchapter with respect to a fiduciary’s breach of any responsibility, duty, or obligation under this part, or with respect to a violation of this part, after the earlier of—(1) six years after (A) the date of the last action which constituted a part of the breach or violation, or (B) in the case of an omission the latest date on which the fiduciary could have cured the breach or violation, or
+
+(2) three years after the earliest date on which the plaintiff had actual knowledge of the breach or violation;
+
+
+except that in the case of fraud or concealment, such action may be commenced not later than six years after the date of discovery of such breach or violation.
+(Pub. L. 93–406, title I, § 413, Sept. 2, 1974, 88 Stat. 889; Pub. L. 100–203, title IX, § 9342(b), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §§ 7881(j)(4), 7894(e)(5), Dec. 19, 1989, 103 Stat. 2443, 2450.)
+
+Editorial Notes
+Amendments1989—Pub. L. 101–239, § 7894(e)(5), struck out “(a)” before “No action”.
+Par. (2). Pub. L. 101–239, § 7881(j)(4), struck out comma after “violation”.
+1987—Subsec. (a)(2). Pub. L. 100–203 struck out “(A)” after “date” and struck out “or (B) on which a report from which he could reasonably be expected to have obtained knowledge of such breach or violation was filed with the Secretary under this subchapter”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1989 AmendmentAmendment by section 7881(j)(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§ 9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7894(e)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub</akn:p></akn:content><akn:subsection eId="subsec_1113_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) six years after (A) the date of the last action which constituted a part of the breach or violation, or (B) in the case of an omission the latest date on which the fiduciary could have cured the breach or violation, or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1113_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) three years after the earliest date on which the plaintiff had actual knowledge of the breach or violation;</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

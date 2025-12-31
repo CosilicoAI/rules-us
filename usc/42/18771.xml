@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18771" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18771/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18771/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18771"><akn:num>18771</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 18771. Definitions
+In this subchapter:(1) AdministratorThe term “Administrator” means the Administrator of the Energy Information Administration.
+
+
+(2) Annual Critical Minerals OutlookThe term “Annual Critical Minerals Outlook” means the Annual Critical Minerals Outlook prepared under section 1606(j)(1)(B) of title 30.
+
+
+(3) Critical mineralThe term “critical mineral” has the meaning given the term in section 1606(a) of title 30.
+
+
+(4) Household energy burdenThe term “household energy burden” means the quotient obtained by dividing—(A) the residential energy expenditures (as defined in section 440.3 of title 10, Code of Federal Regulations (as in effect on November 15, 2021)) of the applicable household; by
+
+(B) the annual income of that household.
+
+
+(5) Household with a high energy burdenThe term “household with a high energy burden” has the meaning given the term in section 440.3 of title 10, Code of Federal Regulations (as in effect on November 15, 2021).
+
+
+(6) Large manufacturing facilityThe term “large manufacturing facility” means a manufacturing facility that—(A) annually consumes more than 35,000 megawatt-hours of electricity; or
+
+(B) has a peak power demand of more than 10 megawatts.
+
+
+(7) Load-serving entityThe term “load-serving entity” has the meaning given the term in section 824q(a) of title 16.
+
+
+(8) Miscellaneous electric loadThe term “miscellaneous electric load” means electricity that—(A) is used by an appliance or device—(i) within a building; or
+
+(ii) to serve a building; and
+
+
+(B) is not used for heating, ventilation, air conditioning, lighting, water heating, or refrigeration.
+
+
+(9) Regional Transmission OrganizationThe term “Regional Transmission Organization” has the meaning given the term in section 796 of title 16.
+
+
+(10) Rural areaThe term “rural area” has the meaning given the term in section 918c(a) of title 7.
+
+
+(Pub. L. 117–58, div. D, title IV, § 40411, Nov. 15, 2021, 135 Stat. 1038.)
+
+Statutory Notes and Related Subsidiaries
+Wage R</akn:p></akn:content><akn:subsection eId="subsec_18771_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the Energy Information Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_2"><akn:num>(2)</akn:num><akn:heading>Annual Critical Minerals Outlook</akn:heading><akn:content><akn:p>(2) Annual Critical Minerals Outlook The term “Annual Critical Minerals Outlook” means the Annual Critical Minerals Outlook prepared under section 1606(j)(1)(B) of title 30.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_3"><akn:num>(3)</akn:num><akn:heading>Critical mineral</akn:heading><akn:content><akn:p>(3) Critical mineral The term “critical mineral” has the meaning given the term in section 1606(a) of title 30.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_4"><akn:num>(4)</akn:num><akn:heading>Household energy burden</akn:heading><akn:content><akn:p>(4) Household energy burden The term “household energy burden” means the quotient obtained by dividing—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_5"><akn:num>(5)</akn:num><akn:heading>Household with a high energy burden</akn:heading><akn:content><akn:p>(5) Household with a high energy burden The term “household with a high energy burden” has the meaning given the term in section 440.3 of title 10, Code of Federal Regulations (as in effect on November 15, 2021).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_6"><akn:num>(6)</akn:num><akn:heading>Large manufacturing facility</akn:heading><akn:content><akn:p>(6) Large manufacturing facility The term “large manufacturing facility” means a manufacturing facility that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_7"><akn:num>(7)</akn:num><akn:heading>Load-serving entity</akn:heading><akn:content><akn:p>(7) Load-serving entity The term “load-serving entity” has the meaning given the term in section 824q(a) of title 16.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_8"><akn:num>(8)</akn:num><akn:heading>Miscellaneous electric load</akn:heading><akn:content><akn:p>(8) Miscellaneous electric load The term “miscellaneous electric load” means electricity that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_9"><akn:num>(9)</akn:num><akn:heading>Regional Transmission Organization</akn:heading><akn:content><akn:p>(9) Regional Transmission Organization The term “Regional Transmission Organization” has the meaning given the term in section 796 of title 16.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18771_10"><akn:num>(10)</akn:num><akn:heading>Rural area</akn:heading><akn:content><akn:p>(10) Rural area The term “rural area” has the meaning given the term in section 918c(a) of title 7.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

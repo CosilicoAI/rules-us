@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/3301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/3301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/3301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3301"><akn:num>3301</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3301. Definitions
+For purposes of this chapter—(1) Natural gasThe term “natural gas” means either natural gas unmixed, or any mixture of natural and artificial gas.
+
+
+(2) WellThe term “well” means any well for the discovery or production of natural gas, crude oil, or both.
+
+
+(3) New wellThe term “new well” means any well—(A) the surface drilling of which began on or after February 19, 1977; or
+
+(B) the depth of which was increased, by means of drilling on or after February 19, 1977, to a completion location which is located at least 1,000 feet below the depth of the deepest completion location of such well attained before February 19, 1977.
+
+
+(4) Old wellThe term “old well” means any well other than a new well.
+
+
+(5) Marker well(A) General ruleThe term “marker well” means any well from which natural gas was produced in commercial quantities at any time after January 1, 1970, and before April 20, 1977.
+
+
+(B) New wellsThe term “marker well” does not include any new well under paragraph (3)(A) but includes any new well under paragraph (3)(B) if such well qualifies as a marker well under subparagraph (A) of this paragraph.
+
+
+
+(6) ReservoirThe term “reservoir” means any producible natural accumulation of natural gas, crude oil, or both, confined—(A) by impermeable rock or water barriers and characterized by a single natural pressure system; or
+
+(B) by lithologic or structural barriers which prevent pressure communication.
+
+
+(7) Completion location(A) General ruleThe term “completion location” means any subsurface location from which natural gas is being or has been produced in commercial quantities.
+
+
+(B) Marker wellThe term “completion location”, when used with reference to any marker well, means any subsurface location from which natural gas was produced from such well in commercial quantities after January 1, 1970, and before April 20, 1977.
+
+
+
+(8) Proration unitThe term “proration unit” means—(A) any portion of a reservoir, as designated by the State or Federal age</akn:p></akn:content><akn:subsection eId="subsec_3301_1"><akn:num>(1)</akn:num><akn:heading>Natural gas</akn:heading><akn:content><akn:p>(1) Natural gas The term “natural gas” means either natural gas unmixed, or any mixture of natural and artificial gas.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_2"><akn:num>(2)</akn:num><akn:heading>Well</akn:heading><akn:content><akn:p>(2) Well The term “well” means any well for the discovery or production of natural gas, crude oil, or both.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_3"><akn:num>(3)</akn:num><akn:heading>New well</akn:heading><akn:content><akn:p>(3) New well The term “new well” means any well—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_4"><akn:num>(4)</akn:num><akn:heading>Old well</akn:heading><akn:content><akn:p>(4) Old well The term “old well” means any well other than a new well.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_5"><akn:num>(5)</akn:num><akn:heading>Marker well</akn:heading><akn:content><akn:p>(5) Marker well</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_6"><akn:num>(6)</akn:num><akn:heading>Reservoir</akn:heading><akn:content><akn:p>(6) Reservoir The term “reservoir” means any producible natural accumulation of natural gas, crude oil, or both, confined—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_7"><akn:num>(7)</akn:num><akn:heading>Completion location</akn:heading><akn:content><akn:p>(7) Completion location</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_8"><akn:num>(8)</akn:num><akn:heading>Proration unit</akn:heading><akn:content><akn:p>(8) Proration unit The term “proration unit” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_9"><akn:num>(9)</akn:num><akn:heading>New lease</akn:heading><akn:content><akn:p>(9) New lease The term “new lease”, when used with respect to the Outer Continental Shelf, means a lease, entered into on or after April 20, 1977, of submerged acreage.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_10"><akn:num>(10)</akn:num><akn:heading>Old lease</akn:heading><akn:content><akn:p>(10) Old lease The term “old lease”, when used with respect to the Outer Continental Shelf, means any lease other than a new lease.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

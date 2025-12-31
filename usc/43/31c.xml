@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/31c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/31c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/31c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31c"><akn:num>31c</akn:num><akn:heading>Geologic mapping program</akn:heading><akn:content><akn:p>§ 31c. Geologic mapping program(a) Establishment(1) In generalThere is established a national cooperative geologic mapping program between the United States Geological Survey and the State geological surveys, acting through the Association.
+
+
+(2) Design, development, and administrationThe cooperative geologic mapping program shall be—(A) designed and administered to achieve the objectives set forth in subsection (c);
+
+(B) developed in consultation with the advisory committee; and
+
+(C) administered through the Survey.
+
+
+
+(b) Responsibilities of the Survey(1) Lead agencyThe Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 12, 2019;
+
+(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 12, 2019, in accordance with section 31d of this title; and
+
+(C) submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—(i) how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;
+
+(ii) how the Survey and the Association establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and
+
+(iii) how long-term staffing plans for the various components of the geologic mapping program affect successful implementation of the geologic mapping program.
+
+
+
+(2) Responsibilities of the SecretaryIn a</akn:p></akn:content><akn:subsection eId="subsec_31c_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31c_b"><akn:num>(b)</akn:num><akn:heading>Responsibilities of the Survey</akn:heading><akn:content><akn:p>(b) Responsibilities of the Survey</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31c_c"><akn:num>(c)</akn:num><akn:heading>Program objectives</akn:heading><akn:content><akn:p>(c) Program objectives The objectives of the geologic mapping program shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31c_d"><akn:num>(d)</akn:num><akn:heading>Program components</akn:heading><akn:content><akn:p>(d) Program components</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

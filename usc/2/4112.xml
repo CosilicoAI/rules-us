@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/4112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/4112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/4112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4112"><akn:num>4112</akn:num><akn:heading>Requirement for information sharing agreements</akn:heading><akn:content><akn:p>§ 4112. Requirement for information sharing agreements(a) Short titleThis section may be cited as the “Intragovernmental Cybersecurity and Counterintelligence Information Sharing Act”.
+
+
+(b) FindingsCongress finds the following:(1) The legislative branch, as a separate and equal branch of the United States Government, is a target of adversary cyber actors and intelligence services.
+
+(2) The legislative branch relies on the executive branch to provide timely and urgent tactical and operational information to ensure that Congress can protect the constitutional officers, personnel, and facilities of Congress and the institution of Congress more broadly.
+
+(3) The legislative branch currently is not receiving this information in a timely manner nor as a matter of course.
+
+
+(c) DefinitionsIn this section—(1) the term “congressional leadership” means—(A) the Majority and Minority Leader of the Senate with respect to an agreement with the Sergeant at Arms and Doorkeeper of the Senate or the Secretary of the Senate; and
+
+(B) the Speaker and Minority Leader of the House of Representatives with respect to an agreement with the Chief Administrative Officer of the House of Representatives or the Sergeant at Arms of the House of Representatives; and
+
+
+(2) the terms “cybersecurity threat” and “security vulnerability” have the meanings given those terms in section 650 of title 6, as added by section 5171 11 See References in Text note below. of this division.
+
+
+(d) Requirement(1) Designation(A) In generalNot later than 30 days after December 23, 2022, the President shall designate—(i) an individual appointed by the President, by and with the advice and consent of the Senate, to serve as a single point of contact to the legislative branch on matters related to tactical and operational cybersecurity threats and security vulnerabilities; and
+
+(ii) an individual appointed by the President, by and with the advice and consent of the Senate, to serve as a single point of contact to the le</akn:p></akn:content><akn:subsection eId="subsec_4112_a"><akn:num>(a)</akn:num><akn:heading>Short title</akn:heading><akn:content><akn:p>(a) Short title This section may be cited as the “Intragovernmental Cybersecurity and Counterintelligence Information Sharing Act”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_b"><akn:num>(b)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(b) Findings Congress finds the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions In this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_d"><akn:num>(d)</akn:num><akn:heading>Requirement</akn:heading><akn:content><akn:p>(d) Requirement</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_e"><akn:num>(e)</akn:num><akn:heading>Elements</akn:heading><akn:content><akn:p>(e) Elements</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

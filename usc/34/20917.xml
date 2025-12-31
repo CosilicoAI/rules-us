@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/20917" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/20917/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/20917/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20917"><akn:num>20917</akn:num><akn:heading>Checking system for social networking websites</akn:heading><akn:content><akn:p>§ 20917. Checking system for social networking websites(a) In general(1) Secure system for comparisonsThe Attorney General shall establish and maintain a secure system that permits social networking websites to compare the information contained in the National Sex Offender Registry with the Internet identifiers of users of the social networking websites, and view only those Internet identifiers that match. The system—(A) shall not require or permit any social networking website to transmit Internet identifiers of its users to the operator of the system, and
+
+(B) shall use secure procedures that preserve the secrecy of the information made available by the Attorney General, including protection measures that render the Internet identifiers and other data elements indecipherable.
+
+
+(2) Provision of information relating to identityUpon receiving a matched Internet identifier, the social networking website may make a request of the Attorney General for, and the Attorney General shall provide promptly, information related to the identity of the individual that has registered the matched Internet identifier. This information is limited to the name, sex, resident address, photograph, and physical description.
+
+
+
+(b) Qualification for use of systemA social networking website seeking to use the system shall submit an application to the Attorney General which provides—(1) the name and legal status of the website;
+
+(2) the contact information for the website;
+
+(3) a description of the nature and operations of the website;
+
+(4) a statement explaining why the website seeks to use the system;
+
+(5) a description of policies and procedures to ensure that—(A) any individual who is denied access to that website on the basis of information obtained through the system is promptly notified of the basis for the denial and has the ability to challenge the denial of access; and
+
+(B) if the social networking website finds that information is inaccurate, incomplete, or cannot be verified, th</akn:p></akn:content><akn:subsection eId="subsec_20917_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20917_b"><akn:num>(b)</akn:num><akn:heading>Qualification for use of system</akn:heading><akn:content><akn:p>(b) Qualification for use of system A social networking website seeking to use the system shall submit an application to the Attorney General which provides—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20917_c"><akn:num>(c)</akn:num><akn:heading>Searches against the system</akn:heading><akn:content><akn:p>(c) Searches against the system</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/35/111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/35/111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/35/111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_111"><akn:num>111</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>§ 111. Application(a) In General.—(1) Written application.—An application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Director.
+
+(2) Contents.—Such application shall include—(A) a specification as prescribed by section 112;
+
+(B) a drawing as prescribed by section 113; and
+
+(C) an oath or declaration as prescribed by section 115.
+
+
+(3) Fee, oath or declaration, and claims.—The application shall be accompanied by the fee required by law. The fee, oath or declaration, and 1 or more claims may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee, oath or declaration, and 1 or more claims within such prescribed period, the application shall be regarded as abandoned.
+
+(4) Filing date.—The filing date of an application shall be the date on which a specification, with or without claims, is received in the United States Patent and Trademark Office.
+
+
+(b) Provisional Application.—(1) Authorization.—A provisional application for patent shall be made or authorized to be made by the inventor, except as otherwise provided in this title, in writing to the Director. Such application shall include—(A) a specification as prescribed by section 112(a); and
+
+(B) a drawing as prescribed by section 113.
+
+
+(2) Claim.—A claim, as required by subsections (b) through (e) of section 112, shall not be required in a provisional application.
+
+(3) Fee.—The application shall be accompanied by the fee required by law. The fee may be submitted after the filing date of the application, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director. Upon failure to submit the fee within such prescribed period, the application shall be regarded as abandoned.
+
+(4) Filing date.—The filing date of a provisional </akn:p></akn:content><akn:subsection eId="subsec_111_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_b"><akn:num>(b)</akn:num><akn:heading>Provisional Application.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_c"><akn:num>(c)</akn:num><akn:heading>Prior Filed Application.—</akn:heading><akn:content><akn:p>(c) Notwithstanding the provisions of subsection (a), the Director may prescribe the conditions, including the payment of a surcharge, under which a reference made upon the filing of an application under subsection (a) to a previously filed application, specifying the previously filed application by application number and the intellectual property authority or country in which the application was filed, shall constitute the specification and any drawings of the subsequent application for purposes of a filing date. A copy of the specification and any drawings of the previously filed application shall be submitted within such period and under such conditions as may be prescribed by the Director. A failure to submit the copy of the specification and any drawings of the previously filed application within the prescribed period shall result in the application being regarded as abandoned. Such application shall be treated as having never been filed, unless—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

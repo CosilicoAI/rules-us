@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/555" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/555/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/555/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_555"><akn:num>555</akn:num><akn:heading>Donation of law enforcement canines to handlers</akn:heading><akn:content><akn:p>§ 555. Donation of law enforcement canines to handlers
+The head of a federal agency having control of a canine that has been used by a federal agency in the performance of law enforcement duties and that has been determined by the agency to be no longer needed for official purposes may donate the canine to an individual who has experience handling canines in the performance of those duties.
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1102.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+55540:484(r).June 30, 1949, ch. 288, title II, § 203(r), as added Pub. L. 105–27, § 1, July 18, 1997, 111 Stat. 244.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5307" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5307/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5307/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5307"><akn:num>5307</akn:num><akn:heading>Limitation on certain payments</akn:heading><akn:content><akn:p>§ 5307. Limitation on certain payments(a)(1) Except as otherwise permitted by or under law, or as otherwise provided under subsection (d), no allowance, differential, bonus, award, or other similar cash payment under this title may be paid to an employee in a calendar year if, or to the extent that, when added to the total basic pay paid or payable to such employee for service performed in such calendar year as an employee in the executive branch (or as an employee outside the executive branch to whom chapter 51 applies), such payment would cause the total to exceed the annual rate of basic pay payable for level I of the Executive Schedule, as of the end of such calendar year.
+
+(2) This section shall not apply to any payment under—(A) subchapter III or VII of chapter 55 or section 5596;
+
+(B) chapter 57 (other than section 5753, 5754, 5755, or 5757); 11 See References in Text note below. or
+
+(C) chapter 59 (other than section 5925, 5928, 5941(a)(2), or 5948).
+
+
+
+(b)(1) Any amount which is not paid to an employee in a calendar year because of the limitation under subsection (a) shall be paid to such employee in a lump sum at the beginning of the following calendar year.
+
+(2) Any amount paid under this subsection in a calendar year shall be taken into account for purposes of appying 22 So in original. Probably should be “applying”. the limitations under subsection (a) with respect to such calendar year.
+
+
+(c) The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this section (subject to subsection (d)), including regulations (consistent with section 5582) concerning how a lump-sum payment under subsection (b) shall be made with respect to any employee who dies before an amount payable to such employee under subsection (b) is made.
+
+(d)(1) Notwithstanding any other provision of this section, subsection (a)(1) shall be applied by substituting “the total annual compensation payable to the Vice President under section 104 of t</akn:p></akn:content><akn:subsection eId="subsec_5307_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5307_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5307_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this section (subject to subsection (d)), including regulations (consistent with section 5582) concerning how a lump-sum payment under subsection (b) shall be made with respect to any employee who dies before an amount payable to such employee under subsection (b) is made.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5307_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

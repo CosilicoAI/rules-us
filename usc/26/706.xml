@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/706" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/706/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/706/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_706"><akn:num>706</akn:num><akn:heading>Taxable years of partner and partnership</akn:heading><akn:content><akn:p>§ 706. Taxable years of partner and partnership(a) Year in which partnership income is includibleIn computing the taxable income of a partner for a taxable year, the inclusions required by section 702 and section 707(c) with respect to a partnership shall be based on the income, gain, loss, deduction, or credit of the partnership for any taxable year of the partnership ending within or with the taxable year of the partner.
+
+
+(b) Taxable year(1) Partnership’s taxable year(A) Partnership treated as taxpayerThe taxable year of a partnership shall be determined as though the partnership were a taxpayer.
+
+
+(B) Taxable year determined by reference to partnersExcept as provided in subparagraph (C), a partnership shall not have a taxable year other than—(i) the majority interest taxable year (as defined in paragraph (4)),
+
+(ii) if there is no taxable year described in clause (i), the taxable year of all the principal partners of the partnership, or
+
+(iii) if there is no taxable year described in clause (i) or (ii), the calendar year unless the Secretary by regulations prescribes another period.
+
+
+(C) Business purposeA partnership may have a taxable year not described in subparagraph (B) if it establishes, to the satisfaction of the Secretary, a business purpose therefor. For purposes of this subparagraph, any deferral of income to partners shall not be treated as a business purpose.
+
+
+
+(2) Partner’s taxable yearA partner may not change to a taxable year other than that of a partnership in which he is a principal partner unless he establishes, to the satisfaction of the Secretary, a business purpose therefor.
+
+
+(3) Principal partnerFor the purpose of this subsection, a principal partner is a partner having an interest of 5 percent or more in partnership profits or capital.
+
+
+(4) Majority interest taxable year; limitation on required changes(A) Majority interest taxable year definedFor purposes of paragraph (1)(B)(i)—(i) In generalThe term “majority interest taxable year” mea</akn:p></akn:content><akn:subsection eId="subsec_706_a"><akn:num>(a)</akn:num><akn:heading>Year in which partnership income is includible</akn:heading><akn:content><akn:p>(a) Year in which partnership income is includible In computing the taxable income of a partner for a taxable year, the inclusions required by section 702 and section 707(c) with respect to a partnership shall be based on the income, gain, loss, deduction, or credit of the partnership for any taxable year of the partnership ending within or with the taxable year of the partner.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_706_b"><akn:num>(b)</akn:num><akn:heading>Taxable year</akn:heading><akn:content><akn:p>(b) Taxable year</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_706_c"><akn:num>(c)</akn:num><akn:heading>Closing of partnership year</akn:heading><akn:content><akn:p>(c) Closing of partnership year</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_706_d"><akn:num>(d)</akn:num><akn:heading>Determination of distributive share when partner’s interest changes</akn:heading><akn:content><akn:p>(d) Determination of distributive share when partner’s interest changes</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

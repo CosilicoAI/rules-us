@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/3451" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/3451/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/3451/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3451"><akn:num>3451</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3451. Definitions
+In this subchapter:(1) Area planThe term “area plan” means a resource conservation and use plan developed through a locally led planning process by a council for a designated area of 1 or more States, or of land under the jurisdiction of an Indian tribe, that includes 1 or more of the following elements:(A) A land conservation element, the purpose of which is to control erosion and sedimentation.
+
+(B) A water management element that provides 1 or more clear environmental or conservation benefits, the purpose of which is to provide for—(i) the conservation, use, and quality of water, including irrigation and rural water supplies;
+
+(ii) the mitigation of floods and high water tables;
+
+(iii) the repair and improvement of reservoirs;
+
+(iv) the improvement of agricultural water management; and
+
+(v) the improvement of water quality.
+
+
+(C) A community development element, the purpose of which is to improve—(i) the development of resources-based industries;
+
+(ii) the protection of rural industries from natural resource hazards;
+
+(iii) the development of adequate rural water and waste disposal systems;
+
+(iv) the improvement of recreation facilities;
+
+(v) the improvement in the quality of rural housing;
+
+(vi) the provision of adequate health and education facilities;
+
+(vii) the satisfaction of essential transportation and communication needs; and
+
+(viii) the promotion of food security, economic development, and education.
+
+
+(D) A land management element, the purpose of which is—(i) energy conservation, including the production of energy crops;
+
+(ii) the protection of agricultural land, as appropriate, from conversion to other uses;
+
+(iii) farmland protection; and
+
+(iv) the protection of fish and wildlife habitats.
+
+
+
+(2) BoardThe term “Board” means the Resource Conservation and Development Policy Advisory Board established under section 3456(a) of this title.
+
+
+(3) CouncilThe term “council” means a nonprofit entity (including an affiliate of the entity) op</akn:p></akn:content><akn:subsection eId="subsec_3451_1"><akn:num>(1)</akn:num><akn:heading>Area plan</akn:heading><akn:content><akn:p>(1) Area plan The term “area plan” means a resource conservation and use plan developed through a locally led planning process by a council for a designated area of 1 or more States, or of land under the jurisdiction of an Indian tribe, that includes 1 or more of the following elements:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_2"><akn:num>(2)</akn:num><akn:heading>Board</akn:heading><akn:content><akn:p>(2) Board The term “Board” means the Resource Conservation and Development Policy Advisory Board established under section 3456(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_3"><akn:num>(3)</akn:num><akn:heading>Council</akn:heading><akn:content><akn:p>(3) Council The term “council” means a nonprofit entity (including an affiliate of the entity) operating in a State that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_4"><akn:num>(4)</akn:num><akn:heading>Designated area</akn:heading><akn:content><akn:p>(4) Designated area The term “designated area” means a geographic area designated by the Secretary to receive technical assistance and financial assistance under this subchapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_5"><akn:num>(5)</akn:num><akn:heading>Financial assistance</akn:heading><akn:content><akn:p>(5) Financial assistance The term “financial assistance” means a grant or loan provided by the Secretary (or the Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_6"><akn:num>(6)</akn:num><akn:heading>Indian tribe</akn:heading><akn:content><akn:p>(6) Indian tribe The term “Indian tribe” has the meaning given the term in section 5304 of title 25.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_7"><akn:num>(7)</akn:num><akn:heading>Local unit of government</akn:heading><akn:content><akn:p>(7) Local unit of government The term “local unit of government” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_8"><akn:num>(8)</akn:num><akn:heading>Locally led planning process</akn:heading><akn:content><akn:p>(8) Locally led planning process The term “planning process” means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_9"><akn:num>(9)</akn:num><akn:heading>Nonprofit organization</akn:heading><akn:content><akn:p>(9) Nonprofit organization The term “nonprofit organization” means any organization that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3451_10"><akn:num>(10)</akn:num><akn:heading>Project</akn:heading><akn:content><akn:p>(10) Project The term “project” means a project that is carried out by a council to achieve any of the elements of an area plan.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

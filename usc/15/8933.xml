@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8933" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8933/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8933/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8933"><akn:num>8933</akn:num><akn:heading>Nationwide sampling</akn:heading><akn:content><akn:p>§ 8933. Nationwide sampling(a) In generalThe Director shall carry out a nationwide sampling to determine the concentration of highly fluorinated compounds in estuaries, lakes, streams, springs, wells, wetlands, rivers, aquifers, and soil using the performance standard developed under section 8932(a) of this title.
+
+
+(b) RequirementsIn carrying out the sampling under subsection (a), the Director shall—(1) first carry out the sampling at sources of drinking water near locations with known or suspected releases of highly fluorinated compounds;
+
+(2) when carrying out sampling of sources of drinking water under paragraph (1), carry out the sampling prior to and, at the request of the Administrator, after any treatment of the water;
+
+(3) survey for ecological exposure to highly fluorinated compounds, with a priority in determining direct human exposure through drinking water; and
+
+(4) consult with—(A) States to determine areas that are a priority for sampling; and
+
+(B) the Administrator—(i) to enhance coverage of the sampling; and
+
+(ii) to avoid unnecessary duplication.
+
+
+
+
+(c) ReportNot later than 120 days after the completion of the sampling under subsection (a), the Director shall prepare a report describing the results of the sampling and submit the report to—(1) the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate;
+
+(2) the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives;
+
+(3) the Senators of each State in which the Director carried out the sampling; and
+
+(4) each Member of the House of Representatives who represents a district in which the Director carried out the sampling.
+
+
+(Pub. L. 116–92, div. F, title LXXIII, § 7333, Dec. 20, 2019, 133 Stat. 2282.)</akn:p></akn:content><akn:subsection eId="subsec_8933_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Director shall carry out a nationwide sampling to determine the concentration of highly fluorinated compounds in estuaries, lakes, streams, springs, wells, wetlands, rivers, aquifers, and soil using the performance standard developed under section 8932(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8933_b"><akn:num>(b)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(b) Requirements In carrying out the sampling under subsection (a), the Director shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8933_c"><akn:num>(c)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(c) Report Not later than 120 days after the completion of the sampling under subsection (a), the Director shall prepare a report describing the results of the sampling and submit the report to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

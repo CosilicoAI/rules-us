@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/167m" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/167m/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/167m/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_167m"><akn:num>167m</akn:num><akn:heading>Information</akn:heading><akn:content><akn:p>§ 167m. Information(a) TransparencyThe Secretary, acting through the Bureau of Land Management, shall make available on the Internet information relating to the Federal Helium System that includes—(1) continued publication of an open market and in-kind price;
+
+(2) aggregated projections of excess refining capacity;
+
+(3) ownership of helium held in the Federal Helium Reserve;
+
+(4) the volume of helium delivered to persons through the Federal Helium Pipeline;
+
+(5) pressure constraints of the Federal Helium Pipeline;
+
+(6) an estimate of the projected date when 3,000,000,000 standard cubic feet of crude helium will remain in the Federal Helium Reserve and the final phase described in section 167d(c) of this title will begin;
+
+(7) the amount of the fees charged under section 167c of this title;
+
+(8) the scheduling of crude helium deliveries through the Federal Helium Pipeline; and
+
+(9) other factors that will increase transparency.
+
+
+(b) ReportingNot later than 90 days after October 2, 2013, to provide the market with appropriate and timely information affecting the helium resource, the Director of the Bureau of Land Management shall establish a timely and public reporting process to provide data that affects the helium industry, including—(1) annual maintenance schedules and quarterly updates, that shall include—(A) the date and duration of planned shutdowns of the Federal Helium Pipeline;
+
+(B) the nature of work to be undertaken on the Federal Helium System, whether routine, extended, or extraordinary;
+
+(C) the anticipated impact of the work on the helium supply;
+
+(D) the efforts being made to minimize any impact on the supply chain; and
+
+(E) any concerns regarding maintenance of the Federal Helium Pipeline, including the pressure of the pipeline or deviation from normal operation of the pipeline;
+
+
+(2) for each unplanned outage, a description of—(A) the beginning of the outage;
+
+(B) the expected duration of the outage;
+
+(C) the nature of the problem;
+
+(D) the estimate</akn:p></akn:content><akn:subsection eId="subsec_167m_a"><akn:num>(a)</akn:num><akn:heading>Transparency</akn:heading><akn:content><akn:p>(a) Transparency The Secretary, acting through the Bureau of Land Management, shall make available on the Internet information relating to the Federal Helium System that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_167m_b"><akn:num>(b)</akn:num><akn:heading>Reporting</akn:heading><akn:content><akn:p>(b) Reporting Not later than 90 days after October 2, 2013, to provide the market with appropriate and timely information affecting the helium resource, the Director of the Bureau of Land Management shall establish a timely and public reporting process to provide data that affects the helium industry, including—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

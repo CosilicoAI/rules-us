@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53111"><akn:num>53111</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 53111. Authorization of appropriations
+There are authorized to be appropriated for payments under section 53106, to remain available until expended—(1) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
+
+(2) $494,008,000 for fiscal year 2021;
+
+(3) $318,000,000 for each of fiscal years 2022, 2023, and 2024;
+
+(4) $390,000,000 for each of fiscal years 2025 and 2026;
+
+(5) $400,500,000 for each of fiscal years 2027 and 2028;
+
+(6) $411,300,000 for each of fiscal years 2029and 2030;
+
+(7) $422,400,000 for each of fiscal years 2031 and 2032.
+
+(8) $433,800,000 for each of fiscal years 2033 and 2034;
+
+(9) $445,560,000 for each of fiscal years 2035 and 2036;
+
+(10) $457,560,000 for each of fiscal years 2037 and 2038; and
+
+(11) $469,920,000 for each of fiscal years 2039 and 2040.
+
+(Added Pub. L. 108–136, div. C, title XXXV, § 3531(a), Nov. 24, 2003, 117 Stat. 1817; amended Pub. L. 111–383, div. C, title XXXV, § 3502(3), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, § 3508(i), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–92, div. C, title XXXV, § 3504(b), Nov. 25, 2015, 129 Stat. 1219; Pub. L. 114–113, div. O, title I, § 101(e)(2), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 115–232, div. C, title XXXV, § 3546(p), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, § 3502(d), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. C, title XXXV, § 3501(c)(1), Jan. 1, 2021, 134 Stat. 4397; Pub. L. 118–159, div. C, title XXXV, § 3502(d), Dec. 23, 2024, 138 Stat. 2305.)
+
+Editorial Notes
+Amendments2024—Par. (3). Pub. L. 118–159, § 3502(d)(1), substituted “and 2024” for “2024, and 2025”.
+Par. (4). Pub. L. 118–159, § 3502(d)(3), added par. (4). Former par. (4) redesignated (5).
+Par. (5). Pub. L. 118–159, § 3502(d)(4), substituted “$400,500,000” for “$348,000,000” and “2027” for “2026, 2027,”.
+Pub. L. 118–159, § 3502(d)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Par. (6). Pub. L. 118–159, § 3502(d)(5), substituted “$411,300,000</akn:p></akn:content><akn:subsection eId="subsec_53111_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) $300,000,000 for each of fiscal years 2018, 2019, and 2020;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) $494,008,000 for fiscal year 2021;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) $318,000,000 for each of fiscal years 2022, 2023, and 2024;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) $390,000,000 for each of fiscal years 2025 and 2026;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) $400,500,000 for each of fiscal years 2027 and 2028;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) $411,300,000 for each of fiscal years 2029and 2030;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) $422,400,000 for each of fiscal years 2031 and 2032.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) $433,800,000 for each of fiscal years 2033 and 2034;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) $445,560,000 for each of fiscal years 2035 and 2036;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53111_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) $457,560,000 for each of fiscal years 2037 and 2038; and</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

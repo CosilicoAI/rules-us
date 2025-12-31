@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/56105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/56105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/56105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_56105"><akn:num>56105</akn:num><akn:heading>Forfeiture procedure</akn:heading><akn:content><akn:p>§ 56105. Forfeiture procedure(a) In General.—A forfeiture under this chapter may be enforced in the same way as a forfeiture under the laws on the collection of duties. However, such a forfeiture may be remitted without seizure of the vessel.
+
+(b) Prior Convictions.—In a proceeding under this chapter to enforce a forfeiture, a prior criminal conviction of a person for a violation of this chapter with respect to the subject matter of the forfeiture is prima facie evidence of the violation against the person convicted.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1654.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+56105(a)46 App.:836.Sept. 7, 1916, ch. 451, § 38, as added July 15, 1918, ch. 152, § 4, 40 Stat. 902; Pub. L. 101–225, title III, § 304(b), Dec. 12, 1989, 103 Stat. 1924.
+56105(b)46 App.:837.Sept. 7, 1916, ch. 451, § 39, as added July 15, 1918, ch. 152, § 4, 40 Stat. 902.</akn:p></akn:content><akn:subsection eId="subsec_56105_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A forfeiture under this chapter may be enforced in the same way as a forfeiture under the laws on the collection of duties. However, such a forfeiture may be remitted without seizure of the vessel.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_56105_b"><akn:num>(b)</akn:num><akn:heading>Prior Convictions.—</akn:heading><akn:content><akn:p>(b) In a proceeding under this chapter to enforce a forfeiture, a prior criminal conviction of a person for a violation of this chapter with respect to the subject matter of the forfeiture is prima facie evidence of the violation against the person convicted.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

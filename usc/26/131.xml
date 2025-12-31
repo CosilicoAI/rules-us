@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/131" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/131/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/131/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_131"><akn:num>131</akn:num><akn:heading>Certain foster care payments</akn:heading><akn:content><akn:p>§ 131. Certain foster care payments(a) General ruleGross income shall not include amounts received by a foster care provider during the taxable year as qualified foster care payments.
+
+
+(b) Qualified foster care payment definedFor purposes of this section—(1) In generalThe term “qualified foster care payment” means any payment made pursuant to a foster care program of a State or political subdivision thereof—(A) which is paid by—(i) a State or political subdivision thereof, or
+
+(ii) a qualified foster care placement agency, and
+
+
+(B) which is—(i) paid to the foster care provider for caring for a qualified foster individual in the foster care provider’s home, or
+
+(ii) a difficulty of care payment.
+
+
+
+(2) Qualified foster individualThe term “qualified foster individual” means any individual who is living in a foster family home in which such individual was placed by—(A) an agency of a State or political subdivision thereof, or
+
+(B) a qualified foster care placement agency.
+
+
+(3) Qualified foster care placement agencyThe term “qualified foster care placement agency” means any placement agency which is licensed or certified by—(A) a State or political subdivision thereof, or
+
+(B) an entity designated by a State or political subdivision thereof,
+
+
+for the foster care program of such State or political subdivision to make foster care payments to providers of foster care.
+
+(4) Limitation based on number of individuals over the age of 18In the case of any foster home in which there is a qualified foster care individual who has attained age 19, foster care payments (other than difficulty of care payments) for any period to which such payments relate shall not be excludable from gross income under subsection (a) to the extent such payments are made for more than 5 such qualified foster individuals.
+
+
+
+(c) Difficulty of care paymentsFor purposes of this section—(1) Difficulty of care paymentsThe term “difficulty of care payments” means payments to individuals which are not des</akn:p></akn:content><akn:subsection eId="subsec_131_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Gross income shall not include amounts received by a foster care provider during the taxable year as qualified foster care payments.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_131_b"><akn:num>(b)</akn:num><akn:heading>Qualified foster care payment defined</akn:heading><akn:content><akn:p>(b) Qualified foster care payment defined For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_131_c"><akn:num>(c)</akn:num><akn:heading>Difficulty of care payments</akn:heading><akn:content><akn:p>(c) Difficulty of care payments For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

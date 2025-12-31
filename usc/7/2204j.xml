@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/2204j" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/2204j/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/2204j/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2204j"><akn:num>2204j</akn:num><akn:heading>National agriculture imagery program</akn:heading><akn:content><akn:p>§ 2204j. National agriculture imagery program(a) In generalThe Secretary of Agriculture, acting through the Administrator of the Farm Service Agency, shall carry out a national agriculture imagery program to annually acquire aerial imagery during agricultural growing seasons from the continental United States.
+
+
+(b) DataThe aerial imagery acquired under this section shall—(1) consist of high resolution processed digital imagery;
+
+(2) be made available in a format that can be provided to Federal, State, and private sector entities;
+
+(3) be technologically compatible with geospatial information technology; and
+
+(4) be consistent with the standards established by the Federal Geographic Data Committee.
+
+
+(c) Supplemental satellite imageryThe Secretary of Agriculture may supplement the aerial imagery collected under this section with satellite imagery.
+
+
+(d) Authorization of appropriationsThere is authorized to be appropriated to carry out this section $23,000,000 for fiscal year 2019 and each fiscal year thereafter.
+
+
+(Pub. L. 115–334, title XII, § 12612, Dec. 20, 2018, 132 Stat. 5013.)</akn:p></akn:content><akn:subsection eId="subsec_2204j_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Agriculture, acting through the Administrator of the Farm Service Agency, shall carry out a national agriculture imagery program to annually acquire aerial imagery during agricultural growing seasons from the continental United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2204j_b"><akn:num>(b)</akn:num><akn:heading>Data</akn:heading><akn:content><akn:p>(b) Data The aerial imagery acquired under this section shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2204j_c"><akn:num>(c)</akn:num><akn:heading>Supplemental satellite imagery</akn:heading><akn:content><akn:p>(c) Supplemental satellite imagery The Secretary of Agriculture may supplement the aerial imagery collected under this section with satellite imagery.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2204j_d"><akn:num>(d)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(d) Authorization of appropriations There is authorized to be appropriated to carry out this section $23,000,000 for fiscal year 2019 and each fiscal year thereafter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

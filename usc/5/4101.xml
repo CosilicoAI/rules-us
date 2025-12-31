@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/4101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/4101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/4101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4101"><akn:num>4101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 4101. Definitions
+For the purpose of this chapter—(1) “agency”, subject to section 4102 of this title, means—(A) an Executive department;
+
+(B) an independent establishment;
+
+(C) a Government corporation subject to chapter 91 of title 31;
+
+(D) the Library of Congress;
+
+(E) the Government Publishing Office; and
+
+(F) the government of the District of Columbia;
+
+
+(2) “employee”, subject to section 4102 of this title, means—(A) an individual employed in or under an agency; and
+
+(B) a commissioned officer of the Environmental Science Services Administration;
+
+
+(3) “Government” means the Government of the United States and the government of the District of Columbia;
+
+(4) “training” means the process of providing for and making available to an employee, and placing or enrolling the employee in, a planned, prepared, and coordinated program, course, curriculum, subject, system, or routine of instruction or education, in scientific, professional, technical, mechanical, trade, clerical, fiscal, administrative, or other fields which will improve individual and organizational performance and assist in achieving the agency’s mission and performance goals;
+
+(5) “Government facility” means property owned or substantially controlled by the Government and the services of any civilian and military personnel of the Government; and
+
+(6) “non-Government facility” means—(A) the government of a State or of a territory or possession of the United States including the Commonwealth of Puerto Rico, and an interstate governmental organization, or a unit, subdivision, or instrumentality of any of the foregoing;
+
+(B) a foreign government or international organization, or instrumentality of either, which is designated by the President as eligible to provide training under this chapter;
+
+(C) a medical, scientific, technical, educational, research, or professional institution, foundation, or organization;
+
+(D) a business, commercial, or industrial firm, corporation, partnership, proprietorship, or </akn:p></akn:content><akn:subsection eId="subsec_4101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “agency”, subject to section 4102 of this title, means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “employee”, subject to section 4102 of this title, means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “Government” means the Government of the United States and the government of the District of Columbia;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “training” means the process of providing for and making available to an employee, and placing or enrolling the employee in, a planned, prepared, and coordinated program, course, curriculum, subject, system, or routine of instruction or education, in scientific, professional, technical, mechanical, trade, clerical, fiscal, administrative, or other fields which will improve individual and organizational performance and assist in achieving the agency’s mission and performance goals;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) “Government facility” means property owned or substantially controlled by the Government and the services of any civilian and military personnel of the Government; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) “non-Government facility” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

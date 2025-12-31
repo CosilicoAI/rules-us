@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/391" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/391/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/391/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_391"><akn:num>391</akn:num><akn:heading>Summary trials authorized</akn:heading><akn:content><akn:p>§ 391. Summary trials authorized
+Whenever a complaint shall be made against any master, officer, or seaman of any vessel belonging, in whole or in part, to any citizen of the United States, of the commission of any offense, not capital or otherwise infamous, against any law of the United States made for the protection of persons or property engaged in commerce or navigation, it shall be the duty of the United States attorney to investigate the same, and the general nature thereof, and if, in his opinion, the case is such as should be summarily tried, he shall report the same to the district judge, and the judge shall forthwith, or as soon as the ordinary business of the court will permit, proceed to try the cause, and for that purpose may, if necessary, hold a special session of the court, either in term time or vacation.
+(R.S. § 4300; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+
+Editorial Notes
+Codification
+R.S. § 4300 derived from act June 11, 1864, ch. 121, § 2, 13 Stat. 124.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes set out thereunder.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/1440" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/1440/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/1440/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1440"><akn:num>1440</akn:num><akn:heading>Research, monitoring, and education</akn:heading><akn:content><akn:p>§ 1440. Research, monitoring, and education(a) In generalThe Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) and the purposes and policies of this chapter.
+
+
+(b) Research and monitoring(1) In generalThe Secretary may—(A) support, promote, and coordinate research on, and long-term monitoring of, sanctuary resources and natural processes that occur in national marine sanctuaries, including exploration, mapping, and environmental and socioeconomic assessment;
+
+(B) develop and test methods to enhance degraded habitats or restore damaged, injured, or lost sanctuary resources; and
+
+(C) support, promote, and coordinate research on, and the conservation, curation, and public display of, the cultural, archeological, and historical resources of national marine sanctuaries.
+
+
+(2) Availability of resultsThe results of research and monitoring conducted, supported, or permitted by the Secretary under this subsection shall be made available to the public.
+
+
+
+(c) Education(1) In generalThe Secretary may support, promote, and coordinate efforts to enhance public awareness, understanding, and appreciation of national marine sanctuaries and the System. Efforts supported, promoted, or coordinated under this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries and the System.
+
+
+(2) Educational activitiesActivities under this subsection may include education of the general public, teachers, students, national marine sanctuary users, and ocean and coastal resource managers.
+
+
+
+(d) Interpretive facilities(1) In generalThe Secretary may develop interpretive facilities near any national marine sanctuary.
+
+
+(2) Facility requirementAny facility developed under this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries by providing the public with information about the conservation, recreatio</akn:p></akn:content><akn:subsection eId="subsec_1440_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) and the purposes and policies of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1440_b"><akn:num>(b)</akn:num><akn:heading>Research and monitoring</akn:heading><akn:content><akn:p>(b) Research and monitoring</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1440_c"><akn:num>(c)</akn:num><akn:heading>Education</akn:heading><akn:content><akn:p>(c) Education</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1440_d"><akn:num>(d)</akn:num><akn:heading>Interpretive facilities</akn:heading><akn:content><akn:p>(d) Interpretive facilities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1440_e"><akn:num>(e)</akn:num><akn:heading>Consultation and coordination</akn:heading><akn:content><akn:p>(e) Consultation and coordination In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) and developing interpretive facilities under subsection (d), the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5406" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5406/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5406/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5406"><akn:num>5406</akn:num><akn:heading>Agency plan</akn:heading><akn:content><akn:p>§ 5406. Agency plan(a) To be eligible for consideration by the Office for an allocation under this section, an agency shall—(1) develop a plan that incorporates the following elements:(A) adherence to merit principles set forth in section 2301;
+
+(B) a fair, credible, and transparent employee performance appraisal system;
+
+(C) a link between the pay-for-performance system, the employee performance appraisal system, and the agency’s strategic plan;
+
+(D) a means for ensuring employee involvement in the design and implementation of the system;
+
+(E) adequate training and retraining for supervisors, managers, and employees in the implementation and operation of the pay-for-performance system;
+
+(F) a process for ensuring ongoing performance feedback and dialogue between supervisors, managers, and employees throughout the appraisal period, and setting timetables for review;
+
+(G) effective safeguards to ensure that the management of the system is fair and equitable and based on employee performance; and
+
+(H) a means for ensuring that adequate agency resources are allocated for the design, implementation, and administration of the pay-for-performance system;
+
+
+(2) upon approval, receive an allocation of funding from the Office;
+
+(3) make payments to individual employees in accordance with the agency’s approved plan; and
+
+(4) provide such information to the Office regarding payments made and use of funds received under this section as the Office may specify.
+
+
+(b) The Office, in consultation with the Chief Human Capital Officers Council, shall review and approve an agency’s plan before the agency is eligible to receive an allocation of funding from the Office.
+
+(c) The Chief Human Capital Officers Council shall include in its annual report to Congress under section 1303(d) of the Homeland Security Act of 2002 an evaluation of the formulation and implementation of agency performance management systems.
+
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Sta</akn:p></akn:content><akn:subsection eId="subsec_5406_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) To be eligible for consideration by the Office for an allocation under this section, an agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5406_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Office, in consultation with the Chief Human Capital Officers Council, shall review and approve an agency’s plan before the agency is eligible to receive an allocation of funding from the Office.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5406_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Chief Human Capital Officers Council shall include in its annual report to Congress under section 1303(d) of the Homeland Security Act of 2002 an evaluation of the formulation and implementation of agency performance management systems.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

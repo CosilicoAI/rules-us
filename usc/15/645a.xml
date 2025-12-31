@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/645a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/645a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/645a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_645a"><akn:num>645a</akn:num><akn:heading>Annual report on suspensions and debarments proposed by Small Business Administration</akn:heading><akn:content><akn:p>§ 645a. Annual report on suspensions and debarments proposed by Small Business Administration(a) Report requirementThe Administrator of the Small Business Administration shall submit each year to the Committee on Small Business and Entrepreneurship of the Senate, and the Committee on Small Business of the House of Representatives a report on the suspension and debarment actions taken by the Administrator during the year preceding the year of submission of the report.
+
+
+(b) Matters coveredThe report required by subsection (a) shall include the following information for the year covered by the report:(1) NumberThe number of contractors proposed for suspension or debarment.
+
+
+(2) SourceThe office within a Federal agency that originated each proposal for suspension or debarment.
+
+
+(3) ReasonsThe reason for each proposal for suspension or debarment.
+
+
+(4) ResultsThe result of each proposal for suspension or debarment, and the reason for such result.
+
+
+(5) ReferralsThe number of suspensions or debarments referred to the Inspector General of the Small Business Administration or another agency, or to the Attorney General (for purposes of this paragraph, the Administrator may redact identifying information on names of companies or other information in order to protect the integrity of any ongoing criminal or civil investigation).
+
+
+
+(Pub. L. 112–239, div. A, title XVI, § 1683, Jan. 2, 2013, 126 Stat. 2086.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Small Business Act which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_645a_a"><akn:num>(a)</akn:num><akn:heading>Report requirement</akn:heading><akn:content><akn:p>(a) Report requirement The Administrator of the Small Business Administration shall submit each year to the Committee on Small Business and Entrepreneurship of the Senate, and the Committee on Small Business of the House of Representatives a report on the suspension and debarment actions taken by the Administrator during the year preceding the year of submission of the report.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_645a_b"><akn:num>(b)</akn:num><akn:heading>Matters covered</akn:heading><akn:content><akn:p>(b) Matters covered The report required by subsection (a) shall include the following information for the year covered by the report:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

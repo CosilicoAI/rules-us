@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/10101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/10101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/10101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10101"><akn:num>10101</akn:num><akn:heading>Reserve components named</akn:heading><akn:content><akn:p>§ 10101. Reserve components named
+The reserve components of the armed forces are:(1) The Army National Guard of the United States.
+
+(2) The Army Reserve.
+
+(3) The Navy Reserve.
+
+(4) The Marine Corps Reserve.
+
+(5) The Air National Guard of the United States.
+
+(6) The Air Force Reserve.
+
+(7) The Coast Guard Reserve.
+
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(Z), Jan. 6, 2006, 119 Stat. 3233.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 261(a) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+Amendments2006—Par. (3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Pub. L. 109–163, div. A, title V, § 515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: “The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve.”
+
+Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, § 1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve.”
+
+Pub. L. 108–375, div. A, title V, § 517, Oct. 28, 2004, 118 Stat. 1884, which authorized the Secretary of the Navy, with the President’s approval, to redesignate the Naval Reserve as the “Navy Reserve”, was repealed by Pub. L. 109–163, div. A, title V, § 515(a)(2), Jan. 6, 2006, 119 Stat. 3233.
+
+Effective DateSection effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+
+
+Transfer of Functions
+For transfer of authorities, functio</akn:p></akn:content><akn:subsection eId="subsec_10101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The Army National Guard of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The Army Reserve.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The Navy Reserve.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The Marine Corps Reserve.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The Air National Guard of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The Air Force Reserve.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The Coast Guard Reserve.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

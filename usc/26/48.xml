@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/48" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/48/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/48/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_48"><akn:num>48</akn:num><akn:heading>Energy credit</akn:heading><akn:content><akn:p>§ 48. Energy credit(a) Energy credit(1) In generalFor purposes of section 46, except as provided in paragraphs (1)(B), (2)(B), and (3)(B) of subsection (c), the energy credit for any taxable year is the energy percentage of the basis of each energy property placed in service during such taxable year.
+
+
+(2) Energy percentage(A) In generalExcept as provided in paragraphs (6) and (7), the energy percentage is—(i) 6 percent in the case of—(I) qualified fuel cell property,
+
+(II) energy property described in clause (i) or (iii) of paragraph (3)(A) but only with respect to property the construction of which begins before January 1, 2025,
+
+(III) energy property described in paragraph (3)(A)(ii),
+
+(IV) qualified small wind energy property,
+
+(V) waste energy recovery property,
+
+(VI) energy storage technology,
+
+(VII) qualified biogas property,
+
+(VIII) microgrid controllers, and
+
+(IX) energy property described in clauses (v) and (vii) of paragraph (3)(A), and
+
+
+(ii) in the case of any energy property to which clause (i) does not apply, 0 percent.
+
+
+(B) Coordination with rehabilitation creditThe energy percentage shall not apply to that portion of the basis of any property which is attributable to qualified rehabilitation expenditures.
+
+
+(C) Nonapplication of increases to energy percentageFor purposes of energy property described in subparagraph (A)(ii), the energy percentage applicable to such property pursuant to such subparagraph shall not be increased or otherwise adjusted by any provision of this section.
+
+
+
+(3) Energy propertyFor purposes of this subpart, the term “energy property” means any property—(A) which is—(i) equipment which uses solar energy to generate electricity, to heat or cool (or provide hot water for use in) a structure, or to provide solar process heat, excepting property used to generate energy for the purposes of heating a swimming pool,
+
+(ii) equipment which uses solar energy to illuminate the inside of a structure using fiber-optic distributed sunlight</akn:p></akn:content><akn:subsection eId="subsec_48_a"><akn:num>(a)</akn:num><akn:heading>Energy credit</akn:heading><akn:content><akn:p>(a) Energy credit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48_b"><akn:num>(b)</akn:num><akn:heading>Certain progress expenditure rules made applicable</akn:heading><akn:content><akn:p>(b) Certain progress expenditure rules made applicable Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48_d"><akn:num>(d)</akn:num><akn:heading>Coordination with Department of Treasury grants</akn:heading><akn:content><akn:p>(d) Coordination with Department of Treasury grants In the case of any property with respect to which the Secretary makes a grant under section 1603 of the American Recovery and Reinvestment Tax Act of 2009—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48_e"><akn:num>(e)</akn:num><akn:heading>Special rules for certain solar and wind facilities placed in service in connection with low-income communities</akn:heading><akn:content><akn:p>(e) Special rules for certain solar and wind facilities placed in service in connection with low-income communities</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/1105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/1105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/1105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1105"><akn:num>1105</akn:num><akn:heading>Prohibition on use of lead systems integrators</akn:heading><akn:content><akn:p>§ 1105. Prohibition on use of lead systems integrators(a) In General.—(1) Use of lead systems integrator.—The Commandant may not use a private sector entity as a lead systems integrator.
+
+(2) Full and open competition.—The Commandant shall use full and open competition for any acquisition contract unless otherwise excepted in accordance with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
+
+(3) No effect on small business act.—Nothing in this subsection shall be construed to supersede or otherwise affect the authorities provided by and under the Small Business Act (15 U.S.C. 631 et seq.).
+
+
+(b) Limitation on Financial Interest in Subcontractors.—Neither an entity performing lead systems integrator functions for a Coast Guard acquisition nor a Tier 1 subcontractor for any acquisition may have a financial interest in a subcontractor below the Tier 1 subcontractor level unless—(1) the subcontractor was selected by the prime contractor through full and open competition for such procurement;
+
+(2) the procurement was awarded by an entity performing lead systems integrator functions or a subcontractor through full and open competition;
+
+(3) the procurement was awarded by a subcontractor through a process over which the entity performing lead systems integrator functions or a Tier 1 subcontractor exercised no control; or
+
+(4) the Commandant has determined that the procurement was awarded in a manner consistent with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
+
+
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2935, § 564; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, § 217(7), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(D), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1105 and amended Pub. L. 115–282, title I, § 108(b), title III, § 304(d</akn:p></akn:content><akn:subsection eId="subsec_1105_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1105_b"><akn:num>(b)</akn:num><akn:heading>Limitation on Financial Interest in Subcontractors.—</akn:heading><akn:content><akn:p>(b) Neither an entity performing lead systems integrator functions for a Coast Guard acquisition nor a Tier 1 subcontractor for any acquisition may have a financial interest in a subcontractor below the Tier 1 subcontractor level unless—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

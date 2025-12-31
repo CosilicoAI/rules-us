@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5568" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5568/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5568/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5568"><akn:num>5568</akn:num><akn:heading>Income tax deferment</akn:heading><akn:content><akn:p>§ 5568. Income tax deferment
+Notwithstanding other statutes, any Federal income tax return of, or the payment of any Federal income tax by, an employee who, at the time the return or payment would otherwise become due, is in a missing status does not become due until the earlier of the following dates:(1) the fifteenth day of the third month in which he ceased (except because of death or incompetency) being in a missing status, unless before the end of that fifteenth day he is again in a missing status; or
+
+(2) the fifteenth day of the third month after the month in which an executor, administrator, or conservator of the estate of the taxpayer is appointed.
+
+
+That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of title 26 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 494.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 50A U.S.C. 1013.Mar. 7, 1942, ch. 166, § 13, 56 Stat. 146.
+  Aug. 8, 1947, ch. 515, § 6, 61 Stat. 918.Aug. 14, 1964, Pub. L. 88–428, § 1(9), 78 Stat. 437.
+
+
+Only that portion of the source law which is applicable to civilian officers and employees and their dependents is codified in this section.
+The words “in the case of any taxable year beginning after December 31, 1940” are omitted as unnecessary.
+The words “an employee” are substituted for “any civilian officer or employee of any department” to conform to the definition in section 5561(2). The words “in a missing status” are substituted for “absent from his duty station under the conditions specified in section 2 of this Act” to conform to the definition in section 5561(5) and in view of the provisions of section 5562 establishing the entitlem</akn:p></akn:content><akn:subsection eId="subsec_5568_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the fifteenth day of the third month in which he ceased (except because of death or incompetency) being in a missing status, unless before the end of that fifteenth day he is again in a missing status; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5568_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the fifteenth day of the third month after the month in which an executor, administrator, or conservator of the estate of the taxpayer is appointed.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

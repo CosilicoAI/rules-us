@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2711" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2711/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2711/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2711"><akn:num>2711</akn:num><akn:heading>Annual report on defense environmental programs</akn:heading><akn:content><akn:p>§ 2711. Annual report on defense environmental programs(a) Report Required.—Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on progress made by environmental programs of the Department of Defense during the preceding fiscal year.
+
+(b) Elements.—Each report under subsection (a) shall include, for the year covered by the report, the following:(1) With respect to environmental restoration activities of the Department of Defense, and for each of the military departments, information on the Defense Environmental Restoration Program under section 2701 of this title, including—(A) the total number of sites at which such program was carried out;
+
+(B) the progress of remediation for sites that have not yet completed cleanup;
+
+(C) the remaining cost to complete cleanup of known sites; and
+
+(D) an assessment by the Secretary of Defense of the overall progress of such program.
+
+
+(2) An assessment by the Secretary of achievements for environmental conservation and planning by the Department.
+
+(3) An assessment by the Secretary of achievements for environmental compliance by the Department.
+
+(4) An assessment by the Secretary of achievements for climate resiliency by the Department.
+
+(5) An assessment by the Secretary of the progress made by the Department in achieving the objectives and goals of the Environmental Technology Program of the Department.
+
+
+(c) Consolidation.—The Secretary of Defense may consolidate, attach with, or otherwise include in any report required under subsection (a) any annual report or other requirement that is aligned or associated with, or would be better understood if presented as part of a consolidated report addressing environmental restoration, compliance, and resilience.
+
+(Added Pub. L. 112–81, div. A, title III, § 317(a), Dec. 31, 2011, 125 Stat. 1359; amended Pub. L. 117–263, div. A, title III, § 314(a), Dec. 23, 2022, 136 Stat. 2503.)
+
+Editorial Notes
+Amendments2022—Pub. L. 117–263 added subsecs. </akn:p></akn:content><akn:subsection eId="subsec_2711_a"><akn:num>(a)</akn:num><akn:heading>Report Required.—</akn:heading><akn:content><akn:p>(a) Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on progress made by environmental programs of the Department of Defense during the preceding fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2711_b"><akn:num>(b)</akn:num><akn:heading>Elements.—</akn:heading><akn:content><akn:p>(b) Each report under subsection (a) shall include, for the year covered by the report, the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2711_c"><akn:num>(c)</akn:num><akn:heading>Consolidation.—</akn:heading><akn:content><akn:p>(c) The Secretary of Defense may consolidate, attach with, or otherwise include in any report required under subsection (a) any annual report or other requirement that is aligned or associated with, or would be better understood if presented as part of a consolidated report addressing environmental restoration, compliance, and resilience.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/6402" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/6402/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/6402/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6402"><akn:num>6402</akn:num><akn:heading>Federal coral reef management and restoration activities</akn:heading><akn:content><akn:p>§ 6402. Federal coral reef management and restoration activities(a) In generalThe Administrator, the Secretary of the Interior, or the Secretary of Commerce may conduct activities described in subsection (b) to conserve and restore coral reefs and coral reef ecosystems that are consistent with—(1) all applicable laws governing resource management in Federal and State waters, including this chapter;
+
+(2) the National Coral Reef Resilience Strategy; and
+
+(3) coral reef action plans in effect under section 6404 of this title, as applicable.
+
+
+(b) Activities describedActivities described in this subsection are activities to conserve, research, monitor, assess, and restore coral reefs and coral reef ecosystems in waters managed under the jurisdiction of a Federal agency specified in subsection (c) or in coordination with a State in waters managed under the jurisdiction of such State, including—(1) developing, including through the collection of requisite in situ and remotely sensed data, high-quality and digitized maps reflecting—(A) current and historical live coral cover data;
+
+(B) coral reef habitat quality data;
+
+(C) priority areas for coral reef conservation to maintain biodiversity and ecosystem structure and function, including the reef matrix, that benefit coastal communities and living marine resources;
+
+(D) priority areas for coral reef restoration to enhance biodiversity and ecosystem structure and function, including the reef matrix, to benefit coastal communities and living marine resources; and
+
+(E) areas of concern that may require enhanced monitoring of coral health and cover;
+
+
+(2) enhancing compliance with Federal laws that prohibit or regulate—(A) the taking of coral products or species associated with coral reefs; or
+
+(B) the use and management of coral reef ecosystems;
+
+
+(3) long-term ecological monitoring of coral reef ecosystems;
+
+(4) implementing species-specific recovery plans for listed coral species consistent with the Endangered Species Act of</akn:p></akn:content><akn:subsection eId="subsec_6402_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Administrator, the Secretary of the Interior, or the Secretary of Commerce may conduct activities described in subsection (b) to conserve and restore coral reefs and coral reef ecosystems that are consistent with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_b"><akn:num>(b)</akn:num><akn:heading>Activities described</akn:heading><akn:content><akn:p>(b) Activities described Activities described in this subsection are activities to conserve, research, monitor, assess, and restore coral reefs and coral reef ecosystems in waters managed under the jurisdiction of a Federal agency specified in subsection (c) or in coordination with a State in waters managed under the jurisdiction of such State, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_c"><akn:num>(c)</akn:num><akn:heading>Federal agencies specified</akn:heading><akn:content><akn:p>(c) Federal agencies specified A Federal agency specified in this subsection is one of the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

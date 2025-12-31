@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/3145" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/3145/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/3145/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3145"><akn:num>3145</akn:num><akn:heading>Regulations governing contractors and subcontractors</akn:heading><akn:content><akn:p>§ 3145. Regulations governing contractors and subcontractors(a) In General.—The Secretary of Labor shall prescribe reasonable regulations for contractors and subcontractors engaged in constructing, carrying out, completing, or repairing public buildings, public works, or buildings or works that at least partly are financed by a loan or grant from the Federal Government. The regulations shall include a provision that each contractor and subcontractor each week must furnish a statement on the wages paid each employee during the prior week.
+
+(b) Application.—Section 1001 of title 18 applies to the statements.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1152.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3145(a)40:276c (1st sentence).June 13, 1934, ch. 482, § 2, 48 Stat. 948; May 24, 1949, ch. 139, § 134, 63 Stat. 108; Pub. L. 85–800, § 12, Aug. 28, 1958, 72 Stat. 967.
+3145(b)40:276c (last sentence).</akn:p></akn:content><akn:subsection eId="subsec_3145_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary of Labor shall prescribe reasonable regulations for contractors and subcontractors engaged in constructing, carrying out, completing, or repairing public buildings, public works, or buildings or works that at least partly are financed by a loan or grant from the Federal Government. The regulations shall include a provision that each contractor and subcontractor each week must furnish a statement on the wages paid each employee during the prior week.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3145_b"><akn:num>(b)</akn:num><akn:heading>Application.—</akn:heading><akn:content><akn:p>(b) Section 1001 of title 18 applies to the statements.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

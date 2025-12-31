@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/2109" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/2109/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/2109/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2109"><akn:num>2109</akn:num><akn:heading>Air traffic controller; Secretary</akn:heading><akn:content><akn:p>§ 2109. Air traffic controller; Secretary
+For the purpose of this title—(1) “air traffic controller” or “controller” means a civilian employee of the Department of Transportation or the Department of Defense who, in an air traffic control facility or flight service station facility—(A) is actively engaged—(i) in the separation and control of air traffic; or
+
+(ii) in providing preflight, inflight, or airport advisory service to aircraft operators; or
+
+
+(B) is the immediate supervisor of any employee described in subparagraph (A); and
+
+
+(2) “Secretary”, when used in connection with “air traffic controller” or “controller”, means the Secretary of Transportation with respect to controllers in the Department of Transportation, and the Secretary of Defense with respect to controllers in the Department of Defense.
+
+(Added Pub. L. 92–297, § 1(a), May 16, 1972, 86 Stat. 141; amended Pub. L. 96–347, § 1(a), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 99–335, title II, § 207(b), June 6, 1986, 100 Stat. 594.)
+
+Editorial Notes
+Amendments1986—Par. (1). Pub. L. 99–335 amended par. (1) generally including within term “air traffic controller” or “controller” references to a flight service station facility and to employment providing preflight, inflight, or airport advisory service to aircraft operators and striking out provision that regulations prescribed by the Secretary be used in determining who is an air traffic controller.
+1980—Pub. L. 96–347 substituted “controller; Secretary” for “controller” in section catchline, and in text included employees of the Department of Defense within the meaning of air traffic controller or controller and defined “Secretary” to mean Secretary of Transportation with respect to controllers in the Department of Transportation and Secretary of Defense with respect to controllers in the Department of Defense.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of </akn:p></akn:content><akn:subsection eId="subsec_2109_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “air traffic controller” or “controller” means a civilian employee of the Department of Transportation or the Department of Defense who, in an air traffic control facility or flight service station facility—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2109_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “Secretary”, when used in connection with “air traffic controller” or “controller”, means the Secretary of Transportation with respect to controllers in the Department of Transportation, and the Secretary of Defense with respect to controllers in the Department of Defense.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

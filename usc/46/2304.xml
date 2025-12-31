@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/2304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/2304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/2304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2304"><akn:num>2304</akn:num><akn:heading>Duty to provide assistance at sea</akn:heading><akn:content><akn:p>§ 2304. Duty to provide assistance at sea(a)(1) A master or individual in charge of a vessel shall render assistance to any individual found at sea in danger of being lost, so far as the master or individual in charge can do so without serious danger to the master’s or individual’s vessel or individuals on board.
+
+(2) Paragraph (1) does not apply to a vessel of war or a vessel owned by the United States Government appropriated only to a public service.
+
+
+(b) A master or individual violating this section shall be fined not more than $1,000, imprisoned for not more than 2 years, or both.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 509; Pub. L. 109–304, § 15(8), Oct. 6, 2006, 120 Stat. 1703.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+230446:728
+
+
+Section 2304 requires a master or individual in charge of a vessel to render assistance to those in danger at sea if able to do so without seriously endangering the vessel or crew.
+
+Editorial Notes
+Amendments2006—Subsec. (a). Pub. L. 109–304 designated existing provisions as par. (1) and added par. (2).</akn:p></akn:content><akn:subsection eId="subsec_2304_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2304_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A master or individual violating this section shall be fined not more than $1,000, imprisoned for not more than 2 years, or both.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

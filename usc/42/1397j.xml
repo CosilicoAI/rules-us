@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1397j" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1397j/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1397j/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1397j"><akn:num>1397j</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1397j. Definitions
+In this division:(1) AbuseThe term “abuse” means the knowing infliction of physical or psychological harm or the knowing deprivation of goods or services that are necessary to meet essential needs or to avoid physical or psychological harm.
+
+
+(2) Adult protective servicesThe term “adult protective services” means such services provided to adults as the Secretary may specify and includes services such as—(A) receiving reports of adult abuse, neglect, or exploitation;
+
+(B) investigating the reports described in subparagraph (A);
+
+(C) case planning, monitoring, evaluation, and other case work and services; and
+
+(D) providing, arranging for, or facilitating the provision of medical, social service, economic, legal, housing, law enforcement, or other protective, emergency, or support services.
+
+
+(3) CaregiverThe term “caregiver” means an individual who has the responsibility for the care of an elder, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law, and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an elder who needs supportive services in any setting.
+
+
+(4) Direct careThe term “direct care” means care by an employee or contractor who provides assistance or long-term care services to a recipient.
+
+
+(5) ElderThe term “elder” means an individual age 60 or older.
+
+
+(6) Elder justiceThe term “elder justice” means—(A) from a societal perspective, efforts to—(i) prevent, detect, treat, intervene in, and prosecute elder abuse, neglect, and exploitation; and
+
+(ii) protect elders with diminished capacity while maximizing their autonomy; and
+
+
+(B) from an individual perspective, the recognition of an elder’s rights, including the right to be free of abuse, neglect, and exploitation.
+
+
+(7) Eligible entityThe term “eligible entity” means a State or local government agenc</akn:p></akn:content><akn:subsection eId="subsec_1397j_1"><akn:num>(1)</akn:num><akn:heading>Abuse</akn:heading><akn:content><akn:p>(1) Abuse The term “abuse” means the knowing infliction of physical or psychological harm or the knowing deprivation of goods or services that are necessary to meet essential needs or to avoid physical or psychological harm.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_2"><akn:num>(2)</akn:num><akn:heading>Adult protective services</akn:heading><akn:content><akn:p>(2) Adult protective services The term “adult protective services” means such services provided to adults as the Secretary may specify and includes services such as—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_3"><akn:num>(3)</akn:num><akn:heading>Caregiver</akn:heading><akn:content><akn:p>(3) Caregiver The term “caregiver” means an individual who has the responsibility for the care of an elder, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law, and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an elder who needs supportive services in any setting.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_4"><akn:num>(4)</akn:num><akn:heading>Direct care</akn:heading><akn:content><akn:p>(4) Direct care The term “direct care” means care by an employee or contractor who provides assistance or long-term care services to a recipient.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_5"><akn:num>(5)</akn:num><akn:heading>Elder</akn:heading><akn:content><akn:p>(5) Elder The term “elder” means an individual age 60 or older.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_6"><akn:num>(6)</akn:num><akn:heading>Elder justice</akn:heading><akn:content><akn:p>(6) Elder justice The term “elder justice” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_7"><akn:num>(7)</akn:num><akn:heading>Eligible entity</akn:heading><akn:content><akn:p>(7) Eligible entity The term “eligible entity” means a State or local government agency, Indian tribe or tribal organization, or any other public or private entity that is engaged in and has expertise in issues relating to elder justice or in a field necessary to promote elder justice efforts.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_8"><akn:num>(8)</akn:num><akn:heading>Exploitation</akn:heading><akn:content><akn:p>(8) Exploitation The term “exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an elder for monetary or personal benefit, profit, or gain, or that results in depriving an elder of rightful access to, or use of, benefits, resources, belongings, or assets.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_9"><akn:num>(9)</akn:num><akn:heading>Fiduciary</akn:heading><akn:content><akn:p>(9) Fiduciary The term “fiduciary”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397j_10"><akn:num>(10)</akn:num><akn:heading>Grant</akn:heading><akn:content><akn:p>(10) Grant The term “grant” includes a contract, cooperative agreement, or other mechanism for providing financial assistance.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

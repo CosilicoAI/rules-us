@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/807" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/807/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/807/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_807"><akn:num>807</akn:num><akn:heading>Art. 7. Apprehension</akn:heading><akn:content><akn:p>§ 807. Art. 7. Apprehension(a) Apprehension is the taking of a person into custody.
+
+(b) Any person authorized under regulations governing the armed forces to apprehend persons subject to this chapter or to trial thereunder may do so upon reasonable belief that an offense has been committed and that the person apprehended committed it.
+
+(c) Commissioned officers, warrant officers, petty officers, and noncommissioned officers have authority to quell quarrels, frays, and disorders among persons subject to this chapter and to apprehend persons subject to this chapter who take part therein.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 39.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+807(a)807(b)50:561(a).50:561(b).May 5, 1950, ch. 169, § 1 (Art. 7), 64 Stat. 111.
+807(c)50:561(c).
+
+
+In subsection (a), the words “into custody” and “of a person” are transposed.
+In subsection (c), the words “All” and “shall” are omitted as surplusage. The word “Commissioned” is inserted before the word “officers” for clarity. The word “therein” is substituted for the words “in the same”.</akn:p></akn:content><akn:subsection eId="subsec_807_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Apprehension is the taking of a person into custody.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_807_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Any person authorized under regulations governing the armed forces to apprehend persons subject to this chapter or to trial thereunder may do so upon reasonable belief that an offense has been committed and that the person apprehended committed it.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_807_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Commissioned officers, warrant officers, petty officers, and noncommissioned officers have authority to quell quarrels, frays, and disorders among persons subject to this chapter and to apprehend persons subject to this chapter who take part therein.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/4574" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/4574/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/4574/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4574"><akn:num>4574</akn:num><akn:heading>Limit on rate of compensation of Senate officers and employees</akn:heading><akn:content><akn:p>§ 4574. Limit on rate of compensation of Senate officers and employees
+No officer or employee of the Senate shall receive pay for any services performed by him at any rate higher than that provided for the office or employment to which he has been regularly appointed.
+(Aug. 5, 1882, ch. 390, § 1, 22 Stat. 270.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 61 of this title prior to editorial reclassification and renumbering as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/335" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/335/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/335/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_335"><akn:num>335</akn:num><akn:heading>Extension of provisions as to allotments</akn:heading><akn:content><akn:p>§ 335. Extension of provisions as to allotments
+Unless otherwise specifically provided, the provisions of the Act of February 8, 1887 (Twenty-fourth Statutes at Large, page 388), as amended, are extended to all lands heretofore purchased or which may be purchased by authority of Congress for the use or benefit of any individual Indian or band or tribe of Indians.
+(Feb. 14, 1923, ch. 76, 42 Stat. 1246.)
+
+Editorial Notes
+
+References in TextAct of February 8, 1887, referred to in text, is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

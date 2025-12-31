@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/4101a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/4101a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/4101a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4101a"><akn:num>4101a</akn:num><akn:heading>Technical Mapping Advisory Council</akn:heading><akn:content><akn:p>§ 4101a. Technical Mapping Advisory Council(a) EstablishmentThere is established a council to be known as the Technical Mapping Advisory Council (in this section referred to as the “Council”).
+
+
+(b) Membership(1) In generalThe Council shall consist of—(A) the Administrator (or the designee thereof);
+
+(B) the Secretary of the Interior (or the designee thereof);
+
+(C) the Secretary of Agriculture (or the designee thereof);
+
+(D) the Under Secretary of Commerce for Oceans and Atmosphere (or the designee thereof); and
+
+(E) 16 additional members appointed by the Administrator or the designee of the Administrator, who shall be—(i) a member of a recognized professional surveying association or organization;
+
+(ii) a member of a recognized professional mapping association or organization;
+
+(iii) a member of a recognized professional engineering association or organization;
+
+(iv) a member of a recognized professional association or organization representing flood hazard determination firms;
+
+(v) a representative of the United States Geological Survey;
+
+(vi) a representative of a recognized professional association or organization representing State geographic information;
+
+(vii) a representative of State national flood insurance coordination offices;
+
+(viii) a representative of the Corps of Engineers;
+
+(ix) a member of a recognized regional flood and storm water management organization;
+
+(x) 2 representatives of different State government agencies that have entered into cooperating technical partnerships with the Administrator and have demonstrated the capability to produce flood insurance rate maps;
+
+(xi) 2 representatives of different local government agencies that have entered into cooperating technical partnerships with the Administrator and have demonstrated the capability to produce flood insurance maps;
+
+(xii) a member of a recognized floodplain management association or organization;
+
+(xiii) a member of a recognized risk management association or organization; and
+
+(xiv</akn:p></akn:content><akn:subsection eId="subsec_4101a_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment There is established a council to be known as the Technical Mapping Advisory Council (in this section referred to as the “Council”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_b"><akn:num>(b)</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>(b) Membership</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_c"><akn:num>(c)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(c) Duties The Council shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_d"><akn:num>(d)</akn:num><akn:heading>Future conditions risk assessment and modeling report</akn:heading><akn:content><akn:p>(d) Future conditions risk assessment and modeling report</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_e"><akn:num>(e)</akn:num><akn:heading>Chairperson</akn:heading><akn:content><akn:p>(e) Chairperson The members of the Council shall elect 1 member to serve as the chairperson of the Council (in this section referred to as the “Chairperson”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_f"><akn:num>(f)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(f) Coordination To ensure that the Council’s recommendations are consistent, to the maximum extent practicable, with national digital spatial data collection and management standards, the Chairperson shall consult with the Chairperson of the Federal Geographic Data Committee (established pursuant to Office of Management and Budget Circular A–16).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_g"><akn:num>(g)</akn:num><akn:heading>Compensation</akn:heading><akn:content><akn:p>(g) Compensation Members of the Council shall receive no additional compensation by reason of their service on the Council.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_h"><akn:num>(h)</akn:num><akn:heading>Meetings and actions</akn:heading><akn:content><akn:p>(h) Meetings and actions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_i"><akn:num>(i)</akn:num><akn:heading>Officers</akn:heading><akn:content><akn:p>(i) Officers The Chairperson may appoint officers to assist in carrying out the duties of the Council under subsection (c).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101a_j"><akn:num>(j)</akn:num><akn:heading>Staff</akn:heading><akn:content><akn:p>(j) Staff</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

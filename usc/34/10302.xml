@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/10302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/10302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/10302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10302"><akn:num>10302</akn:num><akn:heading>Basic eligibility</akn:heading><akn:content><akn:p>§ 10302. Basic eligibility(a) Benefits(1) The Attorney General shall provide financial assistance to a person who attends a program of education and is—(A) the child of any eligible public safety officer under part A; or
+
+(B) the spouse of an officer described in subparagraph (A) at the time of the officer’s death or on the date of a totally and permanently disabling injury.
+
+
+(2) Except as provided in paragraph (3), financial assistance under this part shall consist of direct payments to an eligible person and shall be computed on the basis set forth in section 3532 of title 38.
+
+(3) The financial assistance referred to in paragraph (2) shall be reduced by the amount, if any, determined under section 10304(b) of this title.
+
+
+(b) Duration of benefitsNo person shall receive assistance under this part for a period in excess of forty-five months of full-time education or training or a proportional period of time for a part-time program.
+
+
+(c) Age limitation for children(1) In generalSubject to paragraph (2), no child shall be eligible for assistance under this part after the child’s 27th birthday absent a finding by the Attorney General of extraordinary circumstances precluding the child from pursuing a program of education.
+
+
+(2) Delayed approvals(A) Educational assistance applicationIf a claim for assistance under this part is approved more than 1 year after the date on which the application for such assistance is filed with the Attorney General, the age limitation under this subsection shall be extended by the length of the period—(i) beginning on the day after the date that is 1 year after the date on which the application is filed; and
+
+(ii) ending on the date on which the application is approved.
+
+
+(B) Claim for benefits for death or permanent and total disabilityIn addition to an extension under subparagraph (A), if any, for an application for assistance under this part that relates to a claim for benefits under part A that was approved more than 1 year after t</akn:p></akn:content><akn:subsection eId="subsec_10302_a"><akn:num>(a)</akn:num><akn:heading>Benefits</akn:heading><akn:content><akn:p>(a) Benefits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10302_b"><akn:num>(b)</akn:num><akn:heading>Duration of benefits</akn:heading><akn:content><akn:p>(b) Duration of benefits No person shall receive assistance under this part for a period in excess of forty-five months of full-time education or training or a proportional period of time for a part-time program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10302_c"><akn:num>(c)</akn:num><akn:heading>Age limitation for children</akn:heading><akn:content><akn:p>(c) Age limitation for children</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

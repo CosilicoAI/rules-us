@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2273" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2273/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2273/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2273"><akn:num>2273</akn:num><akn:heading>Policy regarding assured access to space: national security payloads</akn:heading><akn:content><akn:p>§ 2273. Policy regarding assured access to space: national security payloads(a) Policy.—It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
+
+(b) Included Actions.—The appropriate actions referred to in subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—(1) the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload;
+
+(2) a robust space launch infrastructure and industrial base; and
+
+(3) the availability of rapid, responsive, and reliable space launches for national security space programs to—(A) improve the responsiveness and flexibility of a national security space system;
+
+(B) lower the costs of launching a national security space system; and
+
+(C) maintain risks of mission success at acceptable levels.
+
+
+
+(c) Coordination.—The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration and the Director of National Intelligence.
+
+(Added Pub. L. 108–136, div. A, title IX, § 912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, § 931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 115–232, div. A, title XVI, § 1603(a), Aug. 13, 2018, 132 Stat. 2105; Pub. L. 116–92, div. A, title XVII, § 1731(a)(34), Dec. 20, 2019, 133 Stat. 1814.)
+
+Editorial Notes
+</akn:p></akn:content><akn:subsection eId="subsec_2273_a"><akn:num>(a)</akn:num><akn:heading>Policy.—</akn:heading><akn:content><akn:p>(a) It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2273_b"><akn:num>(b)</akn:num><akn:heading>Included Actions.—</akn:heading><akn:content><akn:p>(b) The appropriate actions referred to in subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2273_c"><akn:num>(c)</akn:num><akn:heading>Coordination.—</akn:heading><akn:content><akn:p>(c) The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration and the Director of National Intelligence.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

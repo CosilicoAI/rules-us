@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/679a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/679a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/679a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_679a"><akn:num>679a</akn:num><akn:heading>National Adoption Information Clearinghouse</akn:heading><akn:content><akn:p>§ 679a. National Adoption Information Clearinghouse
+The Secretary of Health and Human Services shall establish, either directly or by grant or contract, a National Adoption Information Clearinghouse. The Clearinghouse shall—(1) collect, compile, and maintain information obtained from available research, studies, and reports by public and private agencies, institutions, or individuals concerning all aspects of infant adoption and adoption of children with special needs;
+
+(2) compile, maintain, and periodically revise directories of information concerning—(A) crisis pregnancy centers,
+
+(B) shelters and residences for pregnant women,
+
+(C) training programs on adoption,
+
+(D) educational programs on adoption,
+
+(E) licensed adoption agencies,
+
+(F) State laws relating to adoption,
+
+(G) intercountry adoption, and
+
+(H) any other information relating to adoption for pregnant women, infertile couples, adoptive parents, unmarried individuals who want to adopt children, individuals who have been adopted, birth parents who have placed a child for adoption, adoption agencies, social workers, counselors, or other individuals who work in the adoption field;
+
+
+(3) disseminate the information compiled and maintained pursuant to paragraph (1) and the directories compiled and maintained pursuant to paragraph (2); and
+
+(4) upon the establishment of an adoption and foster care data collection system pursuant to section 679 of this title, disseminate the data and information made available through that system.
+
+(Pub. L. 99–509, title IX, § 9442, Oct. 21, 1986, 100 Stat. 2073.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and also as part of the Omnibus Budget Reconciliation Act of 1986, and not as part of the Social Security Act which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_679a_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) collect, compile, and maintain information obtained from available research, studies, and reports by public and private agencies, institutions, or individuals concerning all aspects of infant adoption and adoption of children with special needs;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_679a_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) compile, maintain, and periodically revise directories of information concerning—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_679a_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) disseminate the information compiled and maintained pursuant to paragraph (1) and the directories compiled and maintained pursuant to paragraph (2); and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_679a_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) upon the establishment of an adoption and foster care data collection system pursuant to section 679 of this title, disseminate the data and information made available through that system.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

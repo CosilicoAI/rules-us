@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1138c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1138c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1138c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1138c"><akn:num>1138c</akn:num><akn:heading>Special projects</akn:heading><akn:content><akn:p>§ 1138c. Special projects(a) Grant authorityThe Secretary is authorized to make grants to institutions of higher education, or consortia thereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.
+
+
+(b) ApplicationNo grant shall be made under this part unless an application is made at such time, in such manner, and contains or is accompanied by such information as the Secretary may require.
+
+
+(c) Areas of national needAreas of national need shall include, at a minimum, the following:(1) Institutional restructuring to improve learning and promote productivity, efficiency, quality improvement, and cost reduction.
+
+(2) Improvements in academic instruction and student learning, including efforts designed to assess the learning gains made by postsecondary students.
+
+(3) Articulation between two- and four-year institutions of higher education, including developing innovative methods for ensuring the successful transfer of students from two- to four-year institutions of higher education.
+
+(4) Development, evaluation, and dissemination of model courses, including model courses that—(A) provide students with a broad and integrated knowledge base;
+
+(B) include, at a minimum, broad survey courses in English literature, American and world history, American political institutions, economics, philosophy, college-level mathematics, and the natural sciences; and
+
+(C) include study of a foreign language that leads to reading and writing competency in the foreign language.
+
+
+(5) International cooperation and student exchanges among postsecondary educational institutions.
+
+(6) Support of centers to incorporate education in quality and safety into the preparation of medical and nursing students, through grants to medical schools, nursing schools, and osteopathic schools. Such grants shall be used to assist in providing courses of instruc</akn:p></akn:content><akn:subsection eId="subsec_1138c_a"><akn:num>(a)</akn:num><akn:heading>Grant authority</akn:heading><akn:content><akn:p>(a) Grant authority The Secretary is authorized to make grants to institutions of higher education, or consortia thereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1138c_b"><akn:num>(b)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(b) Application No grant shall be made under this part unless an application is made at such time, in such manner, and contains or is accompanied by such information as the Secretary may require.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1138c_c"><akn:num>(c)</akn:num><akn:heading>Areas of national need</akn:heading><akn:content><akn:p>(c) Areas of national need Areas of national need shall include, at a minimum, the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

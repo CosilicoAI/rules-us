@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/11201" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/11201/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/11201/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11201"><akn:num>11201</akn:num><akn:heading>Eligibility for veterans’ burial and cemetery benefits</akn:heading><akn:content><akn:p>§ 11201. Eligibility for veterans’ burial and cemetery benefits(a) Eligibility.—(1) In general.—The qualified service of an individual referred to in paragraph (2) shall be considered to be active duty in the Armed Forces during a period of war for purposes of eligibility for benefits under the following provisions of title 38:(A) Chapter 23 (relating to burial benefits).
+
+(B) Chapter 24 (relating to interment in national cemeteries).
+
+
+(2) Covered individuals.—Paragraph (1) applies to an individual who—(A) receives an honorable service certificate under section 11203 of this title; and
+
+(B) is not eligible under any other provision of law for benefits under laws administered by the Secretary of Veterans Affairs.
+
+
+
+(b) Reimbursement for Benefits Provided.—The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for an individual by reason of eligibility under this section.
+
+(c) Applicability.—(1) General rule.—Benefits may be provided under the provisions of law referred to in subsection (a)(1) by reason of this chapter only for deaths occurring after the date of the enactment of this chapter.
+
+(2) Burials, etc. in national cemeteries.—Notwithstanding paragraph (1), in the case of an initial burial or columbarium placement after the date of the enactment of this chapter, benefits may be provided under chapter 24 of title 38 by reason of this chapter (regardless of the date of death), and in such a case benefits may be provided under section 2306 of such title.
+
+
+(Added Pub. L. 105–368, title IV, § 402(a), Nov. 11, 1998, 112 Stat. 3336; amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(b)(11), Jan. 1, 2021, 134 Stat. 4751.)
+
+Editorial Notes
+
+References in TextThe date of the enactment of this chapter, referred to in subsec. (c), is the date of enactment of Pub. L. 105–368, which was approved Nov. 11, 1998.
+
+Amendments2021—Pub. L. 116–283 substituted “an individual” for “a pe</akn:p></akn:content><akn:subsection eId="subsec_11201_a"><akn:num>(a)</akn:num><akn:heading>Eligibility.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11201_b"><akn:num>(b)</akn:num><akn:heading>Reimbursement for Benefits Provided.—</akn:heading><akn:content><akn:p>(b) The Secretary shall reimburse the Secretary of Veterans Affairs for the value of benefits that the Secretary of Veterans Affairs provides for an individual by reason of eligibility under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11201_c"><akn:num>(c)</akn:num><akn:heading>Applicability.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

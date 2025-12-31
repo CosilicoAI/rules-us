@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_105"><akn:num>105</akn:num><akn:heading>Biodefense analysis and budget submission</akn:heading><akn:content><akn:p>§ 105. Biodefense analysis and budget submission(a) Annual analysisFor each fiscal year, beginning in fiscal year 2023, the Director of the Office of Management and Budget, in consultation with the Secretary of Health and Human Services shall—(1) conduct a detailed and comprehensive analysis of Federal biodefense programs; and
+
+(2) develop an integrated biodefense budget submission.
+
+
+(b) Definition of biodefenseIn accordance with the National Biodefense Strategy, the Director shall develop and disseminate to all Federal departments and agencies a unified definition of the term “biodefense” to identify which programs and activities are included in the annual budget submission required under subsection (a).
+
+
+(c) Requirements for analysisThe analysis required under subsection (a) shall include—(1) the display of all funds requested for biodefense activities, both mandatory and discretionary, by agency and categorized by biodefense enterprise element, such as threat awareness, prevention, deterrence, preparedness, surveillance and detection, response, attribution (including bioforensic capabilities), recovery, and mitigation; and
+
+(2) detailed explanations of how each program and activity included aligns with biodefense goals and objectives as part of the National Biodefense Strategy required under section 104 of this title.
+
+
+(d) Submittal to CongressThe Director, in consultation with the Secretary of Health and Human Services, shall submit to Congress the analysis required under subsection (a) for a fiscal year concurrently with the President’s annual budget request for that fiscal year.
+
+
+(Pub. L. 116–283, div. A, title III, § 363, Jan. 1, 2021, 134 Stat. 3547.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, and not as part of the Homeland Security Act of 2002 which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_105_a"><akn:num>(a)</akn:num><akn:heading>Annual analysis</akn:heading><akn:content><akn:p>(a) Annual analysis For each fiscal year, beginning in fiscal year 2023, the Director of the Office of Management and Budget, in consultation with the Secretary of Health and Human Services shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_105_b"><akn:num>(b)</akn:num><akn:heading>Definition of biodefense</akn:heading><akn:content><akn:p>(b) Definition of biodefense In accordance with the National Biodefense Strategy, the Director shall develop and disseminate to all Federal departments and agencies a unified definition of the term “biodefense” to identify which programs and activities are included in the annual budget submission required under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_105_c"><akn:num>(c)</akn:num><akn:heading>Requirements for analysis</akn:heading><akn:content><akn:p>(c) Requirements for analysis The analysis required under subsection (a) shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_105_d"><akn:num>(d)</akn:num><akn:heading>Submittal to Congress</akn:heading><akn:content><akn:p>(d) Submittal to Congress The Director, in consultation with the Secretary of Health and Human Services, shall submit to Congress the analysis required under subsection (a) for a fiscal year concurrently with the President’s annual budget request for that fiscal year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/1501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/1501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/1501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1501"><akn:num>1501</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1501. Definitions
+In this subchapter:(1) AgencyThe term “agency” has the meaning given the term in section 3502 of title 44.
+
+
+(2) Antitrust lawsThe term “antitrust laws”—(A) has the meaning given the term in section 12 of title 15;
+
+(B) includes section 45 of title 15 to the extent that section 45 of title 15 applies to unfair methods of competition; and
+
+(C) includes any State antitrust law, but only to the extent that such law is consistent with the law referred to in subparagraph (A) or the law referred to in subparagraph (B).
+
+
+(3) Appropriate Federal entitiesThe term “appropriate Federal entities” means the following:(A) The Department of Commerce.
+
+(B) The Department of Defense.
+
+(C) The Department of Energy.
+
+(D) The Department of Homeland Security.
+
+(E) The Department of Justice.
+
+(F) The Department of the Treasury.
+
+(G) The Office of the Director of National Intelligence.
+
+
+(4) Cybersecurity purposeThe term “cybersecurity purpose” has the meaning given the term in section 650 of this title.
+
+
+(5) Cybersecurity threatThe term “cybersecurity threat” has the meaning given the term in section 650 of this title.
+
+
+(6) Cyber threat indicatorThe term “cyber threat indicator” has the meaning given the term in section 650 of this title.
+
+
+(7) Defensive measureThe term “defensive measure” has the meaning given the term in section 650 of this title.
+
+
+(8) Federal entityThe term “Federal entity” means a department or agency of the United States or any component of such department or agency.
+
+
+(9) Information systemThe term “information system” has the meaning given the term in section 650 of this title.
+
+
+(10) Local governmentThe term “local government” means any borough, city, county, parish, town, township, village, or other political subdivision of a State.
+
+
+(11) Malicious cyber command and controlThe term “malicious cyber command and control” has the meaning given the term in section 650 of this title.
+
+
+(12) Malicious reconnaissanceThe term “malicious reconnai</akn:p></akn:content><akn:subsection eId="subsec_1501_1"><akn:num>(1)</akn:num><akn:heading>Agency</akn:heading><akn:content><akn:p>(1) Agency The term “agency” has the meaning given the term in section 3502 of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_2"><akn:num>(2)</akn:num><akn:heading>Antitrust laws</akn:heading><akn:content><akn:p>(2) Antitrust laws The term “antitrust laws”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_3"><akn:num>(3)</akn:num><akn:heading>Appropriate Federal entities</akn:heading><akn:content><akn:p>(3) Appropriate Federal entities The term “appropriate Federal entities” means the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_4"><akn:num>(4)</akn:num><akn:heading>Cybersecurity purpose</akn:heading><akn:content><akn:p>(4) Cybersecurity purpose The term “cybersecurity purpose” has the meaning given the term in section 650 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_5"><akn:num>(5)</akn:num><akn:heading>Cybersecurity threat</akn:heading><akn:content><akn:p>(5) Cybersecurity threat The term “cybersecurity threat” has the meaning given the term in section 650 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_6"><akn:num>(6)</akn:num><akn:heading>Cyber threat indicator</akn:heading><akn:content><akn:p>(6) Cyber threat indicator The term “cyber threat indicator” has the meaning given the term in section 650 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_7"><akn:num>(7)</akn:num><akn:heading>Defensive measure</akn:heading><akn:content><akn:p>(7) Defensive measure The term “defensive measure” has the meaning given the term in section 650 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_8"><akn:num>(8)</akn:num><akn:heading>Federal entity</akn:heading><akn:content><akn:p>(8) Federal entity The term “Federal entity” means a department or agency of the United States or any component of such department or agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_9"><akn:num>(9)</akn:num><akn:heading>Information system</akn:heading><akn:content><akn:p>(9) Information system The term “information system” has the meaning given the term in section 650 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_10"><akn:num>(10)</akn:num><akn:heading>Local government</akn:heading><akn:content><akn:p>(10) Local government The term “local government” means any borough, city, county, parish, town, township, village, or other political subdivision of a State.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

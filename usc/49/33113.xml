@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/33113" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/33113/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/33113/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_33113"><akn:num>33113</akn:num><akn:heading>Theft reports</akn:heading><akn:content><akn:p>§ 33113. Theft reports(a) Truck, Multipurpose Passenger Vehicle, and Motorcycle Report.—Not later than October 25, 1995, the Secretary of Transportation shall submit a report to Congress that includes—(1) information on the number of trucks, multipurpose passenger vehicles, and motorcycles distributed for sale in interstate commerce that are stolen and recovered annually, compiled by model, make, and line;
+
+(2) information on the extent to which trucks, multipurpose passenger vehicles, and motorcycles stolen annually are dismantled to recover parts or are exported;
+
+(3) a description of the market for the stolen parts;
+
+(4) information on the premiums charged by insurers of comprehensive coverage of trucks, multipurpose passenger vehicles, or motorcycles, including any increase in the premiums charged because any of those motor vehicles is a likely candidate for theft;
+
+(5) an assessment of whether the identification of parts of trucks, multipurpose passenger vehicles, and motorcycles is likely—(A) to decrease the theft rate of those motor vehicles;
+
+(B) to increase the recovery rate of those motor vehicles;
+
+(C) to decrease the trafficking in stolen parts of those motor vehicles;
+
+(D) to stem the export and import of those stolen motor vehicles or parts; or
+
+(E) to have benefits greater than the costs of the identification; and
+
+
+(6) recommendations on whether, and to what extent, the identification of trucks, multipurpose passenger vehicles, and motorcycles should be required by law.
+
+
+(b) Motor Vehicle Report.—Not later than October 25, 1997, the Secretary shall submit a report to Congress that includes—(1) information on—(A) the methods and procedures used by public and private entities to collect, compile, and disseminate information on the theft and recovery of motor vehicles, including classes of motor vehicles; and
+
+(B) the reliability and timeliness of the information and how the information can be improved;
+
+
+(2) information on the number of motor vehicles</akn:p></akn:content><akn:subsection eId="subsec_33113_a"><akn:num>(a)</akn:num><akn:heading>Truck, Multipurpose Passenger Vehicle, and Motorcycle Report.—</akn:heading><akn:content><akn:p>(a) Not later than October 25, 1995, the Secretary of Transportation shall submit a report to Congress that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_33113_b"><akn:num>(b)</akn:num><akn:heading>Motor Vehicle Report.—</akn:heading><akn:content><akn:p>(b) Not later than October 25, 1997, the Secretary shall submit a report to Congress that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_33113_c"><akn:num>(c)</akn:num><akn:heading>Bases of Reports.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

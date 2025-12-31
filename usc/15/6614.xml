@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/6614" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/6614/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/6614/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6614"><akn:num>6614</akn:num><akn:heading>Y2K actions as class actions</akn:heading><akn:content><akn:p>§ 6614. Y2K actions as class actions(a) Material defect requirementA Y2K action involving a claim that a product or service is defective may be maintained as a class action in Federal or State court as to that claim only if—(1) it satisfies all other prerequisites established by applicable Federal or State law, including applicable rules of civil procedure; and
+
+(2) the court finds that the defect in a product or service as alleged would be a material defect for the majority of the members of the class.
+
+
+(b) NotificationIn any Y2K action that is maintained as a class action, the court, in addition to any other notice required by applicable Federal or State law, shall direct notice of the action to each member of the class, which shall include—(1) a concise and clear description of the nature of the action;
+
+(2) the jurisdiction where the case is pending; and
+
+(3) the fee arrangements with class counsel, including the hourly fee being charged, or, if it is a contingency fee, the percentage of the final award which will be paid, including an estimate of the total amount that would be paid if the requested damages were to be granted.
+
+
+(c) Forum for Y2K class actions(1) JurisdictionExcept as provided in paragraph (2), the district courts of the United States shall have original jurisdiction of any Y2K action that is brought as a class action.
+
+
+(2) ExceptionsThe district courts of the United States shall not have original jurisdiction over a Y2K action brought as a class action if—(A)(i) a substantial majority of the members of the proposed plaintiff class are citizens of a single State;
+
+(ii) the primary defendants are citizens of that State; and
+
+(iii) the claims asserted will be governed primarily by the laws of that State;
+
+
+(B) the primary defendants are States, State officials, or other governmental entities against whom the district courts of the United States may be foreclosed from ordering relief;
+
+(C) the plaintiff class does not seek an award of punitive da</akn:p></akn:content><akn:subsection eId="subsec_6614_a"><akn:num>(a)</akn:num><akn:heading>Material defect requirement</akn:heading><akn:content><akn:p>(a) Material defect requirement A Y2K action involving a claim that a product or service is defective may be maintained as a class action in Federal or State court as to that claim only if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6614_b"><akn:num>(b)</akn:num><akn:heading>Notification</akn:heading><akn:content><akn:p>(b) Notification In any Y2K action that is maintained as a class action, the court, in addition to any other notice required by applicable Federal or State law, shall direct notice of the action to each member of the class, which shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6614_c"><akn:num>(c)</akn:num><akn:heading>Forum for Y2K class actions</akn:heading><akn:content><akn:p>(c) Forum for Y2K class actions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6614_d"><akn:num>(d)</akn:num><akn:heading>Effect on rules of civil procedure</akn:heading><akn:content><akn:p>(d) Effect on rules of civil procedure Except as otherwise provided in this section, nothing in this section supersedes any rule of Federal or State civil procedure applicable to class actions.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

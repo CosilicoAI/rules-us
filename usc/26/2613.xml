@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2613" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2613/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2613/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2613"><akn:num>2613</akn:num><akn:heading>Skip person and non-skip person defined</akn:heading><akn:content><akn:p>§ 2613. Skip person and non-skip person defined(a) Skip personFor purposes of this chapter, the term “skip person” means—(1) a natural person assigned to a generation which is 2 or more generations below the generation assignment of the transferor, or
+
+(2) a trust—(A) if all interests in such trust are held by skip persons, or
+
+(B) if—(i) there is no person holding an interest in such trust, and
+
+(ii) at no time after such transfer may a distribution (including distributions on termination) be made from such trust to a nonskip person.
+
+
+
+
+(b) Non-skip personFor purposes of this chapter, the term “non-skip person” means any person who is not a skip person.
+
+
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1884; amended Pub. L. 95–600, title VII, § 702(n)(2), (3), Nov. 6, 1978, 92 Stat. 2935, 2936; Pub. L. 96–222, title I, § 107(a)(2)(B), Apr. 1, 1980, 94 Stat. 222; Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2720; Pub. L. 100–647, title I, § 1014(g)(5)(A), Nov. 10, 1988, 102 Stat. 3564.)
+
+Editorial Notes
+Amendments1988—Subsec. (a)(1). Pub. L. 100–647 inserted “natural” before “person”.
+1986—Pub. L. 99–514 amended section generally, substituting definitions of “skip person” and “non-skip person” for former provisions which defined and applied the terms “taxable distribution”, “taxable termination”, “younger generation beneficiary”, and “related or subordinate trustee”.
+1980—Subsec. (e)(2)(A)(i). Pub. L. 96–222, § 107(a)(2)(B)(i), inserted “(other than as a potential appointee under a power of appointment held by another)” after “trust”.
+Subsec. (e)(2)(B). Pub. L. 96–222, § 107(a)(2)(B)(ii), redesignated cls. (iii) to (v) as (iv) to (vi), added cl. (iii), and struck out cl. (vi) which related to an employee of a corporation in which the grantor or any beneficiary of the trust is an executive.
+1978—Subsec. (b)(2)(B). Pub. L. 95–600, § 702(n)(3), substituted “a present interest and a present power” for “an interest and a power” and “</akn:p></akn:content><akn:subsection eId="subsec_2613_a"><akn:num>(a)</akn:num><akn:heading>Skip person</akn:heading><akn:content><akn:p>(a) Skip person For purposes of this chapter, the term “skip person” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2613_b"><akn:num>(b)</akn:num><akn:heading>Non-skip person</akn:heading><akn:content><akn:p>(b) Non-skip person For purposes of this chapter, the term “non-skip person” means any person who is not a skip person.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

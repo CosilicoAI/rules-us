@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4121" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4121/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4121/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4121"><akn:num>4121</akn:num><akn:heading>Imposition of tax</akn:heading><akn:content><akn:p>§ 4121. Imposition of tax(a) Tax imposed(1) In generalThere is hereby imposed on coal from mines located in the United States sold by the producer, a tax equal to the rate per ton determined under subsection (b).
+
+
+(2) Limitation on taxThe amount of the tax imposed by paragraph (1) with respect to a ton of coal shall not exceed the applicable percentage (determined under subsection (b)) of the price at which such ton of coal is sold by the producer.
+
+
+
+(b) Determination of rates and limitation on taxFor purposes of subsection (a)—(1) the rate of tax on coal from underground mines shall be $1.10,
+
+(2) the rate of tax on coal from surface mines shall be $.55, and
+
+(3) the applicable percentage shall be 4.4 percent.
+
+
+(c) Tax not to apply to ligniteThe tax imposed by subsection (a) shall not apply in the case of lignite.
+
+
+(d) DefinitionsFor purposes of this subchapter—(1) Coal from surface minesCoal shall be treated as produced from a surface mine if all of the geological matter above the coal being mined is removed before the coal is extracted from the earth. Coal extracted by auger shall be treated as coal from a surface mine.
+
+
+(2) Coal from underground minesCoal shall be treated as produced from an underground mine if it is not produced from a surface mine.
+
+
+(3) United StatesThe term “United States” has the meaning given to it by paragraph (1) of section 638.
+
+
+(4) TonThe term “ton” means 2,000 pounds.
+
+
+
+(Added Pub. L. 95–227, § 2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, § 102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, § 13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, § 1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, § 10503, Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 110–343, div. B, title I, § 113(a), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 116–94, div. Q, title I, § 105(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, § 149(a), Dec. 27, 2020, 134 Stat</akn:p></akn:content><akn:subsection eId="subsec_4121_a"><akn:num>(a)</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>(a) Tax imposed</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4121_b"><akn:num>(b)</akn:num><akn:heading>Determination of rates and limitation on tax</akn:heading><akn:content><akn:p>(b) Determination of rates and limitation on tax For purposes of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4121_c"><akn:num>(c)</akn:num><akn:heading>Tax not to apply to lignite</akn:heading><akn:content><akn:p>(c) Tax not to apply to lignite The tax imposed by subsection (a) shall not apply in the case of lignite.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4121_d"><akn:num>(d)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(d) Definitions For purposes of this subchapter—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

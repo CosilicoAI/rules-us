@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300x–4" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300x–4/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300x–4/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300x_4"><akn:num>300x–4</akn:num><akn:heading>Additional provisions</akn:heading><akn:content><akn:p>§ 300x–4. Additional provisions(a) Review of State plan by mental health planning councilThe Secretary may make a grant under section 300x of this title to a State only if—(1) the plan submitted under section 300x–1(a) of this title with respect to the grant and the report of the State under section 300x–52(a) of this title concerning the preceding fiscal year has been reviewed by the State mental health planning council under section 300x–3 of this title; and
+
+(2) the State submits to the Secretary any recommendations received by the State from such council for modifications to the plan (without regard to whether the State has made the recommended modifications) and any comments concerning the annual report.
+
+
+(b) Maintenance of effort regarding State expenditures for mental health(1) In generalA funding agreement for a grant under section 300x of this title is that the State involved will maintain State expenditures for community mental health services at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying for the grant.
+
+
+(2) Exclusion of certain fundsThe Secretary may exclude from the aggregate State expenditures under subsection (a), funds appropriated to the principle agency for authorized activities which are of a non-recurring nature and for a specific purpose.
+
+
+(3) Waiver(A) In generalThe Secretary may, upon the request of a State, waive the requirement established in paragraph (1) in whole or in part if the Secretary determines that extraordinary economic conditions in the State in the fiscal year involved or in the previous fiscal year justify the waiver 11 So in original. Probably should be followed by a period.
+
+
+(B) Date certain for action upon requestThe Secretary shall approve or deny a request for a waiver under this paragraph not later than 120 days after the date on which the request is made.
+
+
+(C) Applicability of waiverA waiv</akn:p></akn:content><akn:subsection eId="subsec_300x_4_a"><akn:num>(a)</akn:num><akn:heading>Review of State plan by mental health planning council</akn:heading><akn:content><akn:p>(a) Review of State plan by mental health planning council The Secretary may make a grant under section 300x of this title to a State only if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300x_4_b"><akn:num>(b)</akn:num><akn:heading>Maintenance of effort regarding State expenditures for mental health</akn:heading><akn:content><akn:p>(b) Maintenance of effort regarding State expenditures for mental health</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

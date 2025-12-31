@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1395w–113" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1395w–113/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1395w–113/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1395w_113"><akn:num>1395w–113</akn:num><akn:heading>Premiums; late enrollment penalty</akn:heading><akn:content><akn:p>§ 1395w–113. Premiums; late enrollment penalty(a) Monthly beneficiary premium(1) Computation(A) In generalThe monthly beneficiary premium for a prescription drug plan is the base beneficiary premium computed under paragraph (2) or (8) (as applicable) as adjusted under this paragraph.
+
+
+(B) Adjustment to reflect difference between bid and national average bid(i) Above average bidIf for a month the amount of the standardized bid amount (as defined in paragraph (5)) exceeds the amount of the adjusted national average monthly bid amount (as defined in clause (iii)), the base beneficiary premium for the month shall be increased by the amount of such excess.
+
+
+(ii) Below average bidIf for a month the amount of the adjusted national average monthly bid amount for the month exceeds the standardized bid amount, the base beneficiary premium for the month shall be decreased by the amount of such excess.
+
+
+(iii) Adjusted national average monthly bid amount definedFor purposes of this subparagraph, the term “adjusted national average monthly bid amount” means the national average monthly bid amount computed under paragraph (4), as adjusted under section 1395w–115(c)(2) of this title.
+
+
+
+(C) Increase for supplemental prescription drug benefitsThe base beneficiary premium shall be increased by the portion of the PDP approved bid that is attributable to supplemental prescription drug benefits.
+
+
+(D) Increase for late enrollment penaltyThe base beneficiary premium shall be increased by the amount of any late enrollment penalty under subsection (b).
+
+
+(E) Decrease for low-income assistanceThe monthly beneficiary premium is subject to decrease in the case of a subsidy eligible individual under section 1395w–114 of this title.
+
+
+(F) Increase based on incomeThe monthly beneficiary premium shall be increased pursuant to paragraph (7).
+
+
+(G) Uniform premiumExcept as provided in subparagraphs (D), (E), and (F), the monthly beneficiary premium for a prescription drug plan in a PDP region is</akn:p></akn:content><akn:subsection eId="subsec_1395w_113_a"><akn:num>(a)</akn:num><akn:heading>Monthly beneficiary premium</akn:heading><akn:content><akn:p>(a) Monthly beneficiary premium</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_113_b"><akn:num>(b)</akn:num><akn:heading>Late enrollment penalty</akn:heading><akn:content><akn:p>(b) Late enrollment penalty</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_113_c"><akn:num>(c)</akn:num><akn:heading>Collection of monthly beneficiary premiums</akn:heading><akn:content><akn:p>(c) Collection of monthly beneficiary premiums</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

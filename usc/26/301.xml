@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_301"><akn:num>301</akn:num><akn:heading>Distributions of property</akn:heading><akn:content><akn:p>§ 301. Distributions of property(a) In generalExcept as otherwise provided in this chapter, a distribution of property (as defined in section 317(a)) made by a corporation to a shareholder with respect to its stock shall be treated in the manner provided in subsection (c).
+
+
+(b) Amount distributed(1) General ruleFor purposes of this section, the amount of any distribution shall be the amount of money received, plus the fair market value of the other property received.
+
+
+(2) Reduction for liabilitiesThe amount of any distribution determined under paragraph (1) shall be reduced (but not below zero) by—(A) the amount of any liability of the corporation assumed by the shareholder in connection with the distribution, and
+
+(B) the amount of any liability to which the property received by the shareholder is subject immediately before, and immediately after, the distribution.
+
+
+(3) Determination of fair market valueFor purposes of this section, fair market value shall be determined as of the date of the distribution.
+
+
+
+(c) Amount taxableIn the case of a distribution to which subsection (a) applies—(1) Amount constituting dividendThat portion of the distribution which is a dividend (as defined in section 316) shall be included in gross income.
+
+
+(2) Amount applied against basisThat portion of the distribution which is not a dividend shall be applied against and reduce the adjusted basis of the stock.
+
+
+(3) Amount in excess of basis(A) In generalExcept as provided in subparagraph (B), that portion of the distribution which is not a dividend, to the extent that it exceeds the adjusted basis of the stock, shall be treated as gain from the sale or exchange of property.
+
+
+(B) Distributions out of increase in value accrued before March 1, 1913That portion of the distribution which is not a dividend, to the extent that it exceeds the adjusted basis of the stock and to the extent that it is out of increase in value accrued before March 1, 1913, shall be exempt from tax.
+
+
+
+
+(d) Bas</akn:p></akn:content><akn:subsection eId="subsec_301_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Except as otherwise provided in this chapter, a distribution of property (as defined in section 317(a)) made by a corporation to a shareholder with respect to its stock shall be treated in the manner provided in subsection (c).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_b"><akn:num>(b)</akn:num><akn:heading>Amount distributed</akn:heading><akn:content><akn:p>(b) Amount distributed</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_c"><akn:num>(c)</akn:num><akn:heading>Amount taxable</akn:heading><akn:content><akn:p>(c) Amount taxable In the case of a distribution to which subsection (a) applies—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_d"><akn:num>(d)</akn:num><akn:heading>Basis</akn:heading><akn:content><akn:p>(d) Basis The basis of property received in a distribution to which subsection (a) applies shall be the fair market value of such property.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_e"><akn:num>(e)</akn:num><akn:heading>Special rule for certain distributions received by 20 percent corporate shareholder</akn:heading><akn:content><akn:p>(e) Special rule for certain distributions received by 20 percent corporate shareholder</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_f"><akn:num>(f)</akn:num><akn:heading>Special rules</akn:heading><akn:content><akn:p>(f) Special rules</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

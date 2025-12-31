@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3907" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3907/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3907/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3907"><akn:num>3907</akn:num><akn:heading>Determination of eligibility and project selection</akn:heading><akn:content><akn:p>§ 3907. Determination of eligibility and project selection(a) Eligibility requirementsTo be eligible to receive financial assistance under this chapter, a project shall meet the following criteria, as determined by the Secretary or Administrator, as applicable:(1) Creditworthiness(A) In generalThe project and obligor shall be creditworthy, which shall be determined by the Secretary or the Administrator, as applicable.
+
+
+(B) ConsiderationsIn determining the creditworthiness of a project and obligor, the Secretary or the Administrator, as applicable, shall take into consideration relevant factors, including—(i) the terms, conditions, financial structure, and security features of the proposed financing;
+
+(ii) the dedicated revenue sources that will secure or fund the project obligations;
+
+(iii) the financial assumptions upon which the project is based; and
+
+(iv) the financial soundness and credit history of the obligor.
+
+
+(C) Security featuresThe Secretary or the Administrator, as applicable, shall ensure that any financing for the project has appropriate security features, such as a rate covenant, supporting the project obligations to ensure repayment.
+
+
+(D) Rating opinion letters(i) Preliminary rating opinion letterThe Secretary or the Administrator, as applicable, shall require each project applicant to provide, at the time of application, a preliminary rating opinion letter from at least 1 rating agency indicating that the senior obligations of the project (which may be the Federal credit instrument) have the potential to achieve an investment-grade rating.
+
+
+(ii) Final rating opinion lettersThe Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, a final rating opinion letter from at least 1 rating agency indicating that the senior obligations of the project have an investment-grade rating.
+
+
+
+(E) Special rule for certain combined projectsThe Administrator shall deve</akn:p></akn:content><akn:subsection eId="subsec_3907_a"><akn:num>(a)</akn:num><akn:heading>Eligibility requirements</akn:heading><akn:content><akn:p>(a) Eligibility requirements To be eligible to receive financial assistance under this chapter, a project shall meet the following criteria, as determined by the Secretary or Administrator, as applicable:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3907_b"><akn:num>(b)</akn:num><akn:heading>Selection criteria</akn:heading><akn:content><akn:p>(b) Selection criteria</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3907_c"><akn:num>(c)</akn:num><akn:heading>Federal requirements</akn:heading><akn:content><akn:p>(c) Federal requirements Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

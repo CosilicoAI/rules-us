@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2651" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2651/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2651/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2651"><akn:num>2651</akn:num><akn:heading>Generation assignment</akn:heading><akn:content><akn:p>§ 2651. Generation assignment(a) In generalFor purposes of this chapter, the generation to which any person (other than the transferor) belongs shall be determined in accordance with the rules set forth in this section.
+
+
+(b) Lineal descendants(1) In generalAn individual who is a lineal descendant of a grandparent of the transferor shall be assigned to that generation which results from comparing the number of generations between the grandparent and such individual with the number of generations between the grandparent and the transferor.
+
+
+(2) On spouse’s sideAn individual who is a lineal descendant of a grandparent of a spouse (or former spouse) of the transferor (other than such spouse) shall be assigned to that generation which results from comparing the number of generations between such grandparent and such individual with the number of generations between such grandparent and such spouse.
+
+
+(3) Treatment of legal adoptions, etc.For purposes of this subsection—(A) Legal adoptionsA relationship by legal adoption shall be treated as a relationship by blood.
+
+
+(B) Relationships by half-bloodA relationship by the half-blood shall be treated as a relationship of the whole-blood.
+
+
+
+
+(c) Marital relationship(1) Marriage to transferorAn individual who has been married at any time to the transferor shall be assigned to the transferor’s generation.
+
+
+(2) Marriage to other lineal descendantsAn individual who has been married at any time to an individual described in subsection (b) shall be assigned to the generation of the individual so described.
+
+
+
+(d) Persons who are not lineal descendantsAn individual who is not assigned to a generation by reason of the foregoing provisions of this section shall be assigned to a generation on the basis of the date of such individual’s birth with—(1) an individual born not more than 12½ years after the date of the birth of the transferor assigned to the transferor’s generation,
+
+(2) an individual born more than 12½ years but not more</akn:p></akn:content><akn:subsection eId="subsec_2651_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For purposes of this chapter, the generation to which any person (other than the transferor) belongs shall be determined in accordance with the rules set forth in this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2651_b"><akn:num>(b)</akn:num><akn:heading>Lineal descendants</akn:heading><akn:content><akn:p>(b) Lineal descendants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2651_c"><akn:num>(c)</akn:num><akn:heading>Marital relationship</akn:heading><akn:content><akn:p>(c) Marital relationship</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2651_d"><akn:num>(d)</akn:num><akn:heading>Persons who are not lineal descendants</akn:heading><akn:content><akn:p>(d) Persons who are not lineal descendants An individual who is not assigned to a generation by reason of the foregoing provisions of this section shall be assigned to a generation on the basis of the date of such individual’s birth with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2651_e"><akn:num>(e)</akn:num><akn:heading>Special rule for persons with a deceased parent</akn:heading><akn:content><akn:p>(e) Special rule for persons with a deceased parent</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2651_f"><akn:num>(f)</akn:num><akn:heading>Other special rules</akn:heading><akn:content><akn:p>(f) Other special rules</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

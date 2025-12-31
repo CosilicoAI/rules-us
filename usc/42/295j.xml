@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/295j" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/295j/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/295j/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_295j"><akn:num>295j</akn:num><akn:heading>Preferences and required information in certain programs</akn:heading><akn:content><akn:p>§ 295j. Preferences and required information in certain programs(a) Preferences in making awards(1) In generalSubject to paragraph (2), in making awards of grants or contracts under any of sections 293k and 294 of this title, the Secretary shall give preference to any qualified applicant that—(A) has a high rate for placing graduates in practice settings having the principal focus of serving residents of medically underserved communities;
+
+(B) during the 2-year period preceding the fiscal year for which such an award is sought, has achieved a significant increase in the rate of placing graduates in such settings; or
+
+(C) utilizes a longitudinal evaluation (as described in section 294n(d)(2) of this title) and reports data from such system to the national workforce database (as established under section 294n(b)(2)(E) of this title).
+
+
+(2) Limitation regarding peer reviewFor purposes of paragraph (1), the Secretary may not give an applicant preference if the proposal of the applicant is ranked at or below the 20th percentile of proposals that have been recommended for approval by peer review groups.
+
+
+
+(b) “Graduate” definedFor purposes of this section, the term “graduate” means, unless otherwise specified, an individual who has successfully completed all training and residency requirements necessary for full certification in the health profession selected by the individual.
+
+
+(c) Exceptions for new programs(1) In generalTo permit new programs to compete equitably for funding under this section, those new programs that meet at least 4 of the criteria described in paragraph (3) shall qualify for a funding preference under this section.
+
+
+(2) DefinitionAs used in this subsection, the term “new program” means any program that has graduated less than three classes. Upon graduating at least three classes, a program shall have the capability to provide the information necessary to qualify the program for the general funding preferences described in subsection (a).
+
+
+(3) Cri</akn:p></akn:content><akn:subsection eId="subsec_295j_a"><akn:num>(a)</akn:num><akn:heading>Preferences in making awards</akn:heading><akn:content><akn:p>(a) Preferences in making awards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_295j_b"><akn:num>(b)</akn:num><akn:heading>“Graduate” defined</akn:heading><akn:content><akn:p>(b) “Graduate” defined For purposes of this section, the term “graduate” means, unless otherwise specified, an individual who has successfully completed all training and residency requirements necessary for full certification in the health profession selected by the individual.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_295j_c"><akn:num>(c)</akn:num><akn:heading>Exceptions for new programs</akn:heading><akn:content><akn:p>(c) Exceptions for new programs</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

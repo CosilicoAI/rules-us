@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/4130" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/4130/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/4130/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4130"><akn:num>4130</akn:num><akn:heading>Additional markets</akn:heading><akn:content><akn:p>§ 4130. Additional markets(a) In General.—Except as provided in subsection (b), notwithstanding any other provision of law, Federal Prison Industries may sell products to—(1) public entities for use in penal or correctional institutions;
+
+(2) public entities for use in disaster relief or emergency response;
+
+(3) the government of the District of Columbia; and
+
+(4) any organization described in subsection (c)(3), (c)(4), or (d) of section 501 of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
+
+
+(b) Office Furniture.—Federal Prison Industries may not sell office furniture to the organizations described in subsection (a)(4).
+
+(c) Definitions.—In this section:(1) The term “office furniture” means any product or service offering intended to meet the furnishing needs of the workplace, including office, healthcare, educational, and hospitality environments.
+
+(2) The term “public entity” means a State, a subdivision of a State, an Indian tribe, and an agency or governmental corporation or business of any of the foregoing.
+
+(3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands.
+
+
+(Added Pub. L. 115–391, title VI, § 605(a), Dec. 21, 2018, 132 Stat. 5242.)
+
+Editorial Notes
+
+References in TextSection 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to section 501 of Title 26, Internal Revenue Code.</akn:p></akn:content><akn:subsection eId="subsec_4130_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Except as provided in subsection (b), notwithstanding any other provision of law, Federal Prison Industries may sell products to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4130_b"><akn:num>(b)</akn:num><akn:heading>Office Furniture.—</akn:heading><akn:content><akn:p>(b) Federal Prison Industries may not sell office furniture to the organizations described in subsection (a)(4).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4130_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

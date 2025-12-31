@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/727" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/727/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/727/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_727"><akn:num>727</akn:num><akn:heading>Discharge</akn:heading><akn:content><akn:p>§ 727. Discharge(a) The court shall grant the debtor a discharge, unless—(1) the debtor is not an individual;
+
+(2) the debtor, with intent to hinder, delay, or defraud a creditor or an officer of the estate charged with custody of property under this title, has transferred, removed, destroyed, mutilated, or concealed, or has permitted to be transferred, removed, destroyed, mutilated, or concealed—(A) property of the debtor, within one year before the date of the filing of the petition; or
+
+(B) property of the estate, after the date of the filing of the petition;
+
+
+(3) the debtor has concealed, destroyed, mutilated, falsified, or failed to keep or preserve any recorded information, including books, documents, records, and papers, from which the debtor’s financial condition or business transactions might be ascertained, unless such act or failure to act was justified under all of the circumstances of the case;
+
+(4) the debtor knowingly and fraudulently, in or in connection with the case—(A) made a false oath or account;
+
+(B) presented or used a false claim;
+
+(C) gave, offered, received, or attempted to obtain money, property, or advantage, or a promise of money, property, or advantage, for acting or forbearing to act; or
+
+(D) withheld from an officer of the estate entitled to possession under this title, any recorded information, including books, documents, records, and papers, relating to the debtor’s property or financial affairs;
+
+
+(5) the debtor has failed to explain satisfactorily, before determination of denial of discharge under this paragraph, any loss of assets or deficiency of assets to meet the debtor’s liabilities;
+
+(6) the debtor has refused, in the case—(A) to obey any lawful order of the court, other than an order to respond to a material question or to testify;
+
+(B) on the ground of privilege against self-incrimination, to respond to a material question approved by the court or to testify, after the debtor has been granted immunity with respect to the </akn:p></akn:content><akn:subsection eId="subsec_727_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The court shall grant the debtor a discharge, unless—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_727_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as provided in section 523 of this title, a discharge under subsection (a) of this section discharges the debtor from all debts that arose before the date of the order for relief under this chapter, and any liability on a claim that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, whether or not a proof of claim based on any such debt or liability is filed under section 501 of this title, and whether or not a claim based on any such debt or liability is allowed under section 502 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_727_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_727_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) On request of the trustee, a creditor, or the United States trustee, and after notice and a hearing, the court shall revoke a discharge granted under subsection (a) of this section if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_727_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) The trustee, a creditor, or the United States trustee may request a revocation of a discharge—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

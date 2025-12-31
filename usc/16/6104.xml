@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/6104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/6104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/6104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6104"><akn:num>6104</akn:num><akn:heading>Financial assistance</akn:heading><akn:content><akn:p>§ 6104. Financial assistance(a) In generalThe Secretary shall establish a program to provide financial assistance for projects to promote the conservation of neotropical migratory birds.
+
+
+(b) Project applicantsA project proposal may be submitted by—(1) an individual, corporation, partnership, trust, association, or other private entity;
+
+(2) an officer, employee, agent, department, or instrumentality of the Federal Government, of any State, municipality, or political subdivision of a State, or of any foreign government;
+
+(3) a State, municipality, or political subdivision of a State;
+
+(4) any other entity subject to the jurisdiction of the United States or of any foreign country; and
+
+(5) an international organization (as defined in section 288 of title 22).
+
+
+(c) Project proposalsTo be considered for financial assistance for a project under this chapter, an applicant shall submit a project proposal that—(1) includes—(A) the name of the individual responsible for the project;
+
+(B) a succinct statement of the purposes of the project;
+
+(C) a description of the qualifications of individuals conducting the project; and
+
+(D) an estimate of the funds and time necessary to complete the project, including sources and amounts of matching funds;
+
+
+(2) demonstrates that the project will enhance the conservation of neotropical migratory bird species in the United States, Canada, Latin America, or the Caribbean;
+
+(3) includes mechanisms to ensure adequate local public participation in project development and implementation;
+
+(4) contains assurances that the project will be implemented in consultation with relevant wildlife management authorities and other appropriate government officials with jurisdiction over the resources addressed by the project;
+
+(5) demonstrates sensitivity to local historic and cultural resources and complies with applicable laws;
+
+(6) describes how the project will promote sustainable, effective, long-term programs to conserve neotropical migratory birds</akn:p></akn:content><akn:subsection eId="subsec_6104_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall establish a program to provide financial assistance for projects to promote the conservation of neotropical migratory birds.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6104_b"><akn:num>(b)</akn:num><akn:heading>Project applicants</akn:heading><akn:content><akn:p>(b) Project applicants A project proposal may be submitted by—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6104_c"><akn:num>(c)</akn:num><akn:heading>Project proposals</akn:heading><akn:content><akn:p>(c) Project proposals To be considered for financial assistance for a project under this chapter, an applicant shall submit a project proposal that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6104_d"><akn:num>(d)</akn:num><akn:heading>Project reporting</akn:heading><akn:content><akn:p>(d) Project reporting Each recipient of assistance for a project under this chapter shall submit to the Secretary such periodic reports as the Secretary considers to be necessary. Each report shall include all information required by the Secretary for evaluating the progress and outcome of the project.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6104_e"><akn:num>(e)</akn:num><akn:heading>Cost sharing</akn:heading><akn:content><akn:p>(e) Cost sharing</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

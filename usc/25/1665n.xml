@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/1665n" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/1665n/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/1665n/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1665n"><akn:num>1665n</akn:num><akn:heading>Behavioral health research</akn:heading><akn:content><akn:p>§ 1665n. Behavioral health research(a) In generalThe Secretary, in consultation with appropriate Federal agencies, shall make grants to, or enter into contracts with, Indian tribes, tribal organizations, and urban Indian organizations or enter into contracts with, or make grants to appropriate institutions for, the conduct of research on the incidence and prevalence of behavioral health problems among Indians served by the Service, Indian tribes, or tribal organizations and among Indians in urban areas. Research priorities under this section shall include—(1) the multifactorial causes of Indian youth suicide, including—(A) protective and risk factors and scientific data that identifies those factors; and
+
+(B) the effects of loss of cultural identity and the development of scientific data on those effects;
+
+
+(2) the interrelationship and interdependence of behavioral health problems with alcoholism and other substance abuse, suicide, homicides, other injuries, and the incidence of family violence; and
+
+(3) the development of models of prevention techniques.
+
+
+(b) EmphasisThe effect of the interrelationships and interdependencies referred to in subsection (a)(2) on children, and the development of prevention techniques under subsection (a)(3) applicable to children, shall be emphasized.
+
+
+(Pub. L. 94–437, title VII, § 715, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+Editorial Notes
+Codification
+Section 715 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.</akn:p></akn:content><akn:subsection eId="subsec_1665n_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary, in consultation with appropriate Federal agencies, shall make grants to, or enter into contracts with, Indian tribes, tribal organizations, and urban Indian organizations or enter into contracts with, or make grants to appropriate institutions for, the conduct of research on the incidence and prevalence of behavioral health problems among Indians served by the Service, Indian tribes, or tribal organizations and among Indians in urban areas. Research priorities under this section shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1665n_b"><akn:num>(b)</akn:num><akn:heading>Emphasis</akn:heading><akn:content><akn:p>(b) Emphasis The effect of the interrelationships and interdependencies referred to in subsection (a)(2) on children, and the development of prevention techniques under subsection (a)(3) applicable to children, shall be emphasized.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

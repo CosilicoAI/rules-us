@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17213" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17213/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17213/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17213"><akn:num>17213</akn:num><akn:heading>Hydropower research, development, and demonstration</akn:heading><akn:content><akn:p>§ 17213. Hydropower research, development, and demonstration
+The Secretary shall conduct a program of research, development, demonstration, and commercial application for technologies that improve the capacity, efficiency, resilience, security, reliability, affordability, and environmental impact, including potential cumulative environmental impacts, of hydropower systems. In carrying out such program, the Secretary shall prioritize activities designed to—(1) develop technology for—(A) non-powered dams, including aging and potentially hazardous dams;
+
+(B) pumped storage;
+
+(C) constructed waterways;
+
+(D) new stream-reach development;
+
+(E) modular and small dams;
+
+(F) increased operational flexibility; and
+
+(G) enhancement of relevant existing facilities;
+
+
+(2) develop new strategies and technologies, including analytical methods, physical and numerical tools, and advanced computing, as well as methods to validate such methods and tools, in order to—(A) extend the operational lifetime of hydropower systems and their physical structures, while improving environmental impact, including potential cumulative environmental impacts;
+
+(B) assist in device and system design, installation, operation, and maintenance; and
+
+(C) reduce costs, limit outages, and increase unit and plant efficiencies, including by examining the impact of changing water and electricity demand on hydropower generation, flexibility, and provision of grid services;
+
+
+(3) study, in conjunction with other relevant Federal agencies as appropriate, methods to improve the hydropower licensing process, including by compiling current and accepted best practices, public comments, and methodologies to assess the full range of potential environmental and economic impacts;
+
+(4) identify opportunities for joint research, development, and demonstration programs between hydropower systems, which may include—(A) pumped storage systems and other renewable energy systems;
+
+(B) small hydro facilities and other energy sto</akn:p></akn:content><akn:subsection eId="subsec_17213_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) develop technology for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) develop new strategies and technologies, including analytical methods, physical and numerical tools, and advanced computing, as well as methods to validate such methods and tools, in order to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) study, in conjunction with other relevant Federal agencies as appropriate, methods to improve the hydropower licensing process, including by compiling current and accepted best practices, public comments, and methodologies to assess the full range of potential environmental and economic impacts;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) identify opportunities for joint research, development, and demonstration programs between hydropower systems, which may include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) improve the reliability of hydropower technologies, including during extreme weather events;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) develop methods and technologies to improve environmental impact, including potential cumulative environmental impacts, of hydropower and pumped storage technologies, including potential impacts on wildlife, such as—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) identify ways to increase power generation by—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) advance new pumped storage technologies, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) reduce civil works costs and construction times for hydropower and pumped storage systems, including comprehensive data and systems analysis of hydropower and pumped storage construction technologies and processes in order to identify areas for whole-system efficiency gains;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17213_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) advance efficient and reliable integration of hydropower and pumped storage systems with the electric grid by—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

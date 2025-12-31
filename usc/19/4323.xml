@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/4323" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/4323/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/4323/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4323"><akn:num>4323</akn:num><akn:heading>Appropriate congressional committees defined</akn:heading><akn:content><akn:p>§ 4323. Appropriate congressional committees defined
+In this subchapter, the term “appropriate congressional committees” means—(1) the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(2) the Committee on Ways and Means and the Committee on Homeland Security of the House of Representatives.
+
+(Pub. L. 114–125, title I, § 118, Feb. 24, 2016, 130 Stat. 145.)
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 127, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.</akn:p></akn:content><akn:subsection eId="subsec_4323_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4323_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the Committee on Ways and Means and the Committee on Homeland Security of the House of Representatives.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

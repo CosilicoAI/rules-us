@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17231" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17231/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17231/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17231"><akn:num>17231</akn:num><akn:heading>Energy storage competitiveness</akn:heading><akn:content><akn:p>§ 17231. Energy storage competitiveness(a) Short titleThis section may be cited as the “United States Energy Storage Competitiveness Act of 2007”.
+
+
+(b) DefinitionsIn this section:(1) CouncilThe term “Council” means the Energy Storage Advisory Council established under subsection (e).
+
+
+(2) Compressed air energy storageThe term “compressed air energy storage” means, in the case of an electricity grid application, the storage of energy through the compression of air.
+
+
+(3) Electric drive vehicleThe term “electric drive vehicle” means—(A) a vehicle that uses an electric motor for all or part of the motive power of the vehicle, including battery electric, hybrid electric, plug-in hybrid electric, fuel cell, and plug-in fuel cell vehicles and rail transportation vehicles; or
+
+(B) mobile equipment that uses an electric motor to replace an internal combustion engine for all or part of the work of the equipment.
+
+
+(4) IslandingThe term “islanding” means a distributed generator or energy storage device continuing to power a location in the absence of electric power from the primary source.
+
+
+(5) FlywheelThe term “flywheel” means, in the case of an electricity grid application, a device used to store rotational kinetic energy.
+
+
+(6) MicrogridThe term “microgrid” means an integrated energy system consisting of interconnected loads and distributed energy resources (including generators and energy storage devices), which as an integrated system can operate in parallel with the utility grid or in an intentional islanding mode.
+
+
+(7) Self-healing gridThe term “self-healing grid” means a grid that is capable of automatically anticipating and responding to power system disturbances (including the isolation of failed sections and components), while optimizing the performance and service of the grid to customers.
+
+
+(8) Spinning reserve servicesThe term “spinning reserve services” means a quantity of electric generating capacity in excess of the quantity needed to meet peak electric d</akn:p></akn:content><akn:subsection eId="subsec_17231_a"><akn:num>(a)</akn:num><akn:heading>Short title</akn:heading><akn:content><akn:p>(a) Short title This section may be cited as the “United States Energy Storage Competitiveness Act of 2007”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_c"><akn:num>(c)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(c) Program The Secretary shall carry out a research, development, and demonstration program to support the ability of the United States to remain globally competitive in energy storage systems for electric drive vehicles, stationary applications, and electricity transmission and distribution.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_d"><akn:num>(d)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(d) Coordination In carrying out the activities of this section, the Secretary shall coordinate relevant efforts with appropriate Federal agencies, including the Department of Transportation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_e"><akn:num>(e)</akn:num><akn:heading>Energy Storage Advisory Council</akn:heading><akn:content><akn:p>(e) Energy Storage Advisory Council</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_f"><akn:num>(f)</akn:num><akn:heading>Basic research program</akn:heading><akn:content><akn:p>(f) Basic research program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_g"><akn:num>(g)</akn:num><akn:heading>Applied research program</akn:heading><akn:content><akn:p>(g) Applied research program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_h"><akn:num>(h)</akn:num><akn:heading>Energy storage research centers</akn:heading><akn:content><akn:p>(h) Energy storage research centers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_i"><akn:num>(i)</akn:num><akn:heading>Energy storage systems demonstrations</akn:heading><akn:content><akn:p>(i) Energy storage systems demonstrations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17231_j"><akn:num>(j)</akn:num><akn:heading>Vehicle energy storage demonstration</akn:heading><akn:content><akn:p>(j) Vehicle energy storage demonstration</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

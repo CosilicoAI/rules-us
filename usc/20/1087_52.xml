@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1087–52" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1087–52/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1087–52/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1087_52"><akn:num>1087–52</akn:num><akn:heading>Allocation of funds</akn:heading><akn:content><akn:p>§ 1087–52. Allocation of funds(a) Allocation based on previous allocation(1) From the amount appropriated pursuant to section 1087–51(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution for each succeeding fiscal year, an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
+
+(2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—(i) $5,000; or
+
+(ii) 90 percent of the amount received and used under this part for the first year it participated in the program.
+
+
+(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—(i) $5,000;
+
+(ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
+
+(iii) 90 percent of the institution’s allocation under this part for the preceding fiscal year.
+
+
+(C) Notwithstanding subparagraphs (A) and (B) of this paragraph, the Secretary shall allocate to each eligible institution which—(i) was a first-time participant in the program in fiscal year 2000 or any subsequent fiscal year, and
+
+(ii) received a larger amount under this subsection in the second year of participation,
+
+
+an amount equal </akn:p></akn:content><akn:subsection eId="subsec_1087_52_a"><akn:num>(a)</akn:num><akn:heading>Allocation based on previous allocation</akn:heading><akn:content><akn:p>(a) Allocation based on previous allocation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1087_52_b"><akn:num>(b)</akn:num><akn:heading>Allocation of excess based on share of excess eligible amounts</akn:heading><akn:content><akn:p>(b) Allocation of excess based on share of excess eligible amounts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1087_52_c"><akn:num>(c)</akn:num><akn:heading>Determination of institution’s need</akn:heading><akn:content><akn:p>(c) Determination of institution’s need</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1087_52_d"><akn:num>(d)</akn:num><akn:heading>Reallocation of excess allocations</akn:heading><akn:content><akn:p>(d) Reallocation of excess allocations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1087_52_e"><akn:num>(e)</akn:num><akn:heading>Filing deadlines</akn:heading><akn:content><akn:p>(e) Filing deadlines The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

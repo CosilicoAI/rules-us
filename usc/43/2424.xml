@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/2424" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/2424/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/2424/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2424"><akn:num>2424</akn:num><akn:heading>Defaults</akn:heading><akn:content><akn:p>§ 2424. Defaults(a) Payments by Secretary(1) In generalIf a borrower defaults on the obligation, the holder of the loan guarantee shall have the right to demand payment of the unpaid amount from the Secretary.
+
+
+(2) Payment requiredBy such date as may be specified in the loan guarantee or related agreements, the Secretary shall pay to the holder of the loan guarantee the unpaid interest on, and unpaid principal of, the obligation with respect to which the borrower has defaulted, unless the Secretary finds that there was not default by the borrower in the payment of interest or principal or that the default has been remedied.
+
+
+(3) ForbearanceNothing in this subsection precludes any forbearance by the holder of the obligation for the benefit of the non-Federal borrower that may be agreed on by the parties to the obligation and approved by the Secretary.
+
+
+
+(b) Subrogation(1) In generalIf the Secretary makes a payment under subsection (a), the Secretary shall be subrogated to the rights of the recipient of the payment as specified in the loan guarantee or related agreements, including, as appropriate, the authority (notwithstanding any other provision of law) to—(A) complete, maintain, operate, lease, or otherwise dispose of any property acquired pursuant to the loan guarantee or related agreements; or
+
+(B) permit the non-Federal borrower, pursuant to an agreement with the Secretary, to continue to pursue the purposes of the project if the Secretary determines the purposes to be in the public interest.
+
+
+(2) Superiority of rightsThe rights of the Secretary, with respect to any property acquired pursuant to a loan guarantee or related agreement, shall be superior to the rights of any other person with respect to the property.
+
+
+
+(c) Payment of principal and interest by SecretaryWith respect to any obligation guaranteed under this section, the Secretary may enter into a contract to pay, and pay, holders of the obligation, for and on behalf of the non-Federal borrower, f</akn:p></akn:content><akn:subsection eId="subsec_2424_a"><akn:num>(a)</akn:num><akn:heading>Payments by Secretary</akn:heading><akn:content><akn:p>(a) Payments by Secretary</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2424_b"><akn:num>(b)</akn:num><akn:heading>Subrogation</akn:heading><akn:content><akn:p>(b) Subrogation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2424_c"><akn:num>(c)</akn:num><akn:heading>Payment of principal and interest by Secretary</akn:heading><akn:content><akn:p>(c) Payment of principal and interest by Secretary With respect to any obligation guaranteed under this section, the Secretary may enter into a contract to pay, and pay, holders of the obligation, for and on behalf of the non-Federal borrower, from funds appropriated for that purpose, the principal and interest payments that become due and payable on the unpaid balance of the obligation if the Secretary finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2424_d"><akn:num>(d)</akn:num><akn:heading>Action by Attorney General</akn:heading><akn:content><akn:p>(d) Action by Attorney General</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

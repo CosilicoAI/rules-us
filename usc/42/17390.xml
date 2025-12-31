@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17390" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17390/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17390/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17390"><akn:num>17390</akn:num><akn:heading>Voluntary model pathways</akn:heading><akn:content><akn:p>§ 17390. Voluntary model pathways(a) Establishment of voluntary model pathways(1) EstablishmentNot later than 90 days after December 27, 2020, the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the steering committee established under paragraph (3), shall initiate the development of voluntary model pathways for modernizing the electric grid through a collaborative, public-private effort that—(A) produces illustrative policy pathways encompassing a diverse range of technologies that can be adapted for State and regional applications by regulators and policymakers;
+
+(B) facilitates the modernization of the electric grid and associated communications networks to achieve the objectives described in paragraph (2);
+
+(C) ensures a reliable, resilient, affordable, safe, and secure electric grid; and
+
+(D) acknowledges and accounts for different priorities, electric systems, and rate structures across States and regions.
+
+
+(2) ObjectivesThe pathways established under paragraph (1) shall facilitate achievement of as many of the following objectives as practicable:(A) Near real-time situational awareness of the electric system.
+
+(B) Data visualization.
+
+(C) Advanced monitoring and control of the advanced electric grid.
+
+(D) Enhanced certainty of policies for investment in the electric grid.
+
+(E) Increased innovation.
+
+(F) Greater consumer empowerment.
+
+(G) Enhanced grid resilience, reliability, and robustness.
+
+(H) Improved—(i) integration of distributed energy resources;
+
+(ii) interoperability of the electric system; and
+
+(iii) predictive modeling and capacity forecasting.
+
+
+(I) Reduced cost of service for consumers.
+
+(J) Diversification of generation sources.
+
+
+(3) Steering committeeNot later than 90 days after December 27, 2020, the Secretary shall establish a steering committee to help develop the pathways under paragraph (1), to be composed of members appointed by the Secretary, consisting of persons with appropriate expertise re</akn:p></akn:content><akn:subsection eId="subsec_17390_a"><akn:num>(a)</akn:num><akn:heading>Establishment of voluntary model pathways</akn:heading><akn:content><akn:p>(a) Establishment of voluntary model pathways</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17390_b"><akn:num>(b)</akn:num><akn:heading>Technical assistance</akn:heading><akn:content><akn:p>(b) Technical assistance The Secretary may provide technical assistance to States, Indian Tribes, or units of local government to adopt or implement one or more elements of the pathways developed under subsection (a)(1), including on a pilot basis.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

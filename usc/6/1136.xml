@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/1136" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/1136/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/1136/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1136"><akn:num>1136</akn:num><akn:heading>Security exercises</akn:heading><akn:content><akn:p>§ 1136. Security exercises(a) In generalThe Secretary shall establish a program for conducting security exercises for public transportation agencies for the purpose of assessing and improving the capabilities of entities described in subsection (b) to prevent, prepare for, mitigate against, respond to, and recover from acts of terrorism.
+
+
+(b) Covered entitiesEntities to be assessed under the program shall include—(1) Federal, State, and local agencies and tribal governments;
+
+(2) public transportation agencies;
+
+(3) governmental and nongovernmental emergency response providers and law enforcement personnel, including transit police; and
+
+(4) any other organization or entity that the Secretary determines appropriate.
+
+
+(c) RequirementsThe Secretary shall ensure that the program—(1) requires, for public transportation agencies which the Secretary deems appropriate, exercises to be conducted that are—(A) scaled and tailored to the needs of specific public transportation systems, and include taking into account the needs of the elderly and individuals with disabilities;
+
+(B) live;
+
+(C) coordinated with appropriate officials;
+
+(D) as realistic as practicable and based on current risk assessments, including credible threats, vulnerabilities, and consequences;
+
+(E) inclusive, as appropriate, of frontline employees and managers; and
+
+(F) consistent with the National Incident Management System, the National Response Plan, the National Infrastructure Protection Plan, the National Preparedness Guidance, the National Preparedness Goal, and other such national initiatives;
+
+
+(2) provides that exercises described in paragraph (1) will be—(A) evaluated by the Secretary against clear and consistent performance measures;
+
+(B) assessed by the Secretary to learn best practices, which shall be shared with appropriate Federal, State, local, and tribal officials, governmental and nongovernmental emergency response providers, law enforcement personnel, including railroad and transit poli</akn:p></akn:content><akn:subsection eId="subsec_1136_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall establish a program for conducting security exercises for public transportation agencies for the purpose of assessing and improving the capabilities of entities described in subsection (b) to prevent, prepare for, mitigate against, respond to, and recover from acts of terrorism.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1136_b"><akn:num>(b)</akn:num><akn:heading>Covered entities</akn:heading><akn:content><akn:p>(b) Covered entities Entities to be assessed under the program shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1136_c"><akn:num>(c)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(c) Requirements The Secretary shall ensure that the program—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1136_d"><akn:num>(d)</akn:num><akn:heading>National Exercise Program</akn:heading><akn:content><akn:p>(d) National Exercise Program The Secretary shall ensure that the exercise program developed under subsection (a) is a component of the National Exercise Program established under section 748 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1136_e"><akn:num>(e)</akn:num><akn:heading>Ferry system exemption</akn:heading><akn:content><akn:p>(e) Ferry system exemption This section does not apply to any ferry system for which drills are required to be conducted pursuant to section 70103 of title 46.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

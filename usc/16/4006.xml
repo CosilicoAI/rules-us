@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/4006" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/4006/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/4006/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4006"><akn:num>4006</akn:num><akn:heading>Duties of Secretary with regard to National Council</akn:heading><akn:content><akn:p>§ 4006. Duties of Secretary with regard to National Council(a) Duties of SecretaryThe Secretary shall—(1) within sixty days after its submission by the National Council, review the annual marketing and promotion plan and budget and, if the Secretary determines that such plan and budget are in accordance with the purposes and policies of this chapter, approve such plan and budget;
+
+(2) administer the Fund and, in accordance with subsection (b) of this section, withdraw from the Fund such sums as are necessary to carry out the National Council’s approved marketing and promotion plan and budget;
+
+(3) promulgate regulations necessary to carry out the purposes and policies of this chapter;
+
+(4) provide such administrative assistance as the National Council may require for purposes of its initial organization and operation; and
+
+(5) make all initial appointments to the National Council within ninety days after November 14, 1986.
+
+
+(b) Withdrawal of fundsThe Secretary shall make withdrawals of sums from the Fund under this section at the request of the National Council, unless the Secretary determines that the purposes for which such sums are requested are not reasonably likely to further the purposes and policies of this chapter.
+
+
+(Pub. L. 99–659, title II, § 207, Nov. 14, 1986, 100 Stat. 3719; Pub. L. 101–627, title VII, § 704(c), Nov. 28, 1990, 104 Stat. 4464.)
+
+Editorial Notes
+Amendments1990—Subsec. (a)(5). Pub. L. 101–627 inserted “initial” before “appointments”.</akn:p></akn:content><akn:subsection eId="subsec_4006_a"><akn:num>(a)</akn:num><akn:heading>Duties of Secretary</akn:heading><akn:content><akn:p>(a) Duties of Secretary The Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4006_b"><akn:num>(b)</akn:num><akn:heading>Withdrawal of funds</akn:heading><akn:content><akn:p>(b) Withdrawal of funds The Secretary shall make withdrawals of sums from the Fund under this section at the request of the National Council, unless the Secretary determines that the purposes for which such sums are requested are not reasonably likely to further the purposes and policies of this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

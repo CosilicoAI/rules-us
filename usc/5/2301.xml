@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/2301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/2301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/2301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2301"><akn:num>2301</akn:num><akn:heading>Merit system principles</akn:heading><akn:content><akn:p>§ 2301. Merit system principles(a) This section shall apply to—(1) an Executive agency; and
+
+(2) the Government Publishing Office.
+
+
+(b) Federal personnel management should be implemented consistent with the following merit system principles:(1) Recruitment should be from qualified individuals from appropriate sources in an endeavor to achieve a work force from all segments of society, and selection and advancement should be determined solely on the basis of relative ability, knowledge, and skills, after fair and open competition which assures that all receive equal opportunity.
+
+(2) All employees and applicants for employment should receive fair and equitable treatment in all aspects of personnel management without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, or handicapping condition, and with proper regard for their privacy and constitutional rights.
+
+(3) Equal pay should be provided for work of equal value, with appropriate consideration of both national and local rates paid by employers in the private sector, and appropriate incentives and recognition should be provided for excellence in performance.
+
+(4) All employees should maintain high standards of integrity, conduct, and concern for the public interest.
+
+(5) The Federal work force should be used efficiently and effectively.
+
+(6) Employees should be retained on the basis of the adequacy of their performance, inadequate performance should be corrected, and employees should be separated who cannot or will not improve their performance to meet required standards.
+
+(7) Employees should be provided effective education and training in cases in which such education and training would result in better organizational and individual performance.
+
+(8) Employees should be—(A) protected against arbitrary action, personal favoritism, or coercion for partisan political purposes, and
+
+(B) prohibited from using their official authority or influence for the purpose of int</akn:p></akn:content><akn:subsection eId="subsec_2301_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) This section shall apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2301_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Federal personnel management should be implemented consistent with the following merit system principles:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2301_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) In administering the provisions of this chapter— which is consistent with the provisions of this title and which the President or the head, as the case may be, determines is necessary to ensure that personnel management is based on and embodies the merit system principles.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

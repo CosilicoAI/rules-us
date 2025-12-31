@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/6621" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/6621/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/6621/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6621"><akn:num>6621</akn:num><akn:heading>Payment for telecommunications equipment and services; definitions</akn:heading><akn:content><akn:p>§ 6621. Payment for telecommunications equipment and services; definitions
+As used in sections 6621 to 6623 of this title, the term—(1) “Sergeant at Arms” means the Sergeant at Arms and Doorkeeper of the United States Senate; and
+
+(2) “user” means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms.
+
+(Pub. L. 100–123, § 1, Oct. 5, 1987, 101 Stat. 794.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 58a–1 of this title prior to editorial reclassification and renumbering as this section.
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 100–123, § 4, Oct. 5, 1987, 101 Stat. 795, provided that: “This Act [enacting this section and sections 6622 and 6623 of this title] shall take effect on October 1, 1987.”</akn:p></akn:content><akn:subsection eId="subsec_6621_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “Sergeant at Arms” means the Sergeant at Arms and Doorkeeper of the United States Senate; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6621_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “user” means any Senator, Officer of the Senate, Committee, office, or entity provided telephone equipment and services by the Sergeant at Arms.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

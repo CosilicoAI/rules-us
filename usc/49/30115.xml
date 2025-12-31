@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/30115" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/30115/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/30115/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30115"><akn:num>30115</akn:num><akn:heading>Certification of compliance</akn:heading><akn:content><akn:p>§ 30115. Certification of compliance(a) In General.—A manufacturer or distributor of a motor vehicle or motor vehicle equipment shall certify to the distributor or dealer at delivery that the vehicle or equipment complies with applicable motor vehicle safety standards prescribed under this chapter. A person may not issue the certificate if, in exercising reasonable care, the person has reason to know the certificate is false or misleading in a material respect. Certification of a vehicle must be shown by a label or tag permanently fixed to the vehicle. Certification of equipment may be shown by a label or tag on the equipment or on the outside of the container in which the equipment is delivered.
+
+(b) Certification Label.—In the case of the certification label affixed by an intermediate or final stage manufacturer of a motor vehicle built in more than 1 stage, each intermediate or final stage manufacturer shall certify with respect to each applicable Federal motor vehicle safety standard—(1) that it has complied with the specifications set forth in the compliance documentation provided by the incomplete motor vehicle manufacturer in accordance with regulations prescribed by the Secretary; or
+
+(2) that it has elected to assume responsibility for compliance with that standard.
+
+
+If the intermediate or final stage manufacturer elects to assume responsibility for compliance with the standard covered by the documentation provided by an incomplete motor vehicle manufacturer, the intermediate or final stage manufacturer shall notify the incomplete motor vehicle manufacturer in writing within a reasonable time of affixing the certification label. A violation of this subsection shall not be subject to a civil penalty under section 30165.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 947; Pub. L. 106–414, § 9, Nov. 1, 2000, 114 Stat. 1805.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3011515:1397(a)(1)(C), (E) (</akn:p></akn:content><akn:subsection eId="subsec_30115_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A manufacturer or distributor of a motor vehicle or motor vehicle equipment shall certify to the distributor or dealer at delivery that the vehicle or equipment complies with applicable motor vehicle safety standards prescribed under this chapter. A person may not issue the certificate if, in exercising reasonable care, the person has reason to know the certificate is false or misleading in a material respect. Certification of a vehicle must be shown by a label or tag permanently fixed to the vehicle. Certification of equipment may be shown by a label or tag on the equipment or on the outside of the container in which the equipment is delivered.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30115_b"><akn:num>(b)</akn:num><akn:heading>Certification Label.—</akn:heading><akn:content><akn:p>(b) In the case of the certification label affixed by an intermediate or final stage manufacturer of a motor vehicle built in more than 1 stage, each intermediate or final stage manufacturer shall certify with respect to each applicable Federal motor vehicle safety standard— If the intermediate or final stage manufacturer elects to assume responsibility for compliance with the standard covered by the documentation provided by an incomplete motor vehicle manufacturer, the intermediate or final stage manufacturer shall notify the incomplete motor vehicle manufacturer in writing within a reasonable time of affixing the certification label. A violation of this subsection shall not be subject to a civil penalty under section 30165.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

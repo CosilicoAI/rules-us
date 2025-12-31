@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/299b–3" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/299b–3/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/299b–3/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_299b_3"><akn:num>299b–3</akn:num><akn:heading>Information systems for health care improvement</akn:heading><akn:content><akn:p>§ 299b–3. Information systems for health care improvement(a) In generalIn order to foster a range of innovative approaches to the management and communication of health information, the Agency shall conduct and support research, evaluations, and initiatives to advance—(1) the use of information systems for the study of health care quality and outcomes, including the generation of both individual provider and plan-level comparative performance data;
+
+(2) training for health care practitioners and researchers in the use of information systems;
+
+(3) the creation of effective linkages between various sources of health information, including the development of information networks;
+
+(4) the delivery and coordination of evidence-based health care services, including the use of real-time health care decision-support programs;
+
+(5) the utility and comparability of health information data and medical vocabularies by addressing issues related to the content, structure, definitions and coding of such information and data in consultation with appropriate Federal, State and private entities;
+
+(6) the use of computer-based health records in all settings for the development of personal health records for individual health assessment and maintenance, and for monitoring public health and outcomes of care within populations; and
+
+(7) the protection of individually identifiable information in health services research and health care quality improvement.
+
+
+(b) DemonstrationThe Agency shall support demonstrations into the use of new information tools aimed at improving shared decision-making between patients and their care-givers.
+
+
+(c) Facilitating public access to informationThe Director shall work with appropriate public and private sector entities to facilitate public access to information regarding the quality of and consumer satisfaction with health care.
+
+
+(July 1, 1944, ch. 373, title IX, § 914, as added Pub. L. 106–129, § 2(a), Dec. 6, 1999, 113 Stat. 1658.)
+
+Editorial Notes
+Pr</akn:p></akn:content><akn:subsection eId="subsec_299b_3_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In order to foster a range of innovative approaches to the management and communication of health information, the Agency shall conduct and support research, evaluations, and initiatives to advance—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_299b_3_b"><akn:num>(b)</akn:num><akn:heading>Demonstration</akn:heading><akn:content><akn:p>(b) Demonstration The Agency shall support demonstrations into the use of new information tools aimed at improving shared decision-making between patients and their care-givers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_299b_3_c"><akn:num>(c)</akn:num><akn:heading>Facilitating public access to information</akn:heading><akn:content><akn:p>(c) Facilitating public access to information The Director shall work with appropriate public and private sector entities to facilitate public access to information regarding the quality of and consumer satisfaction with health care.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

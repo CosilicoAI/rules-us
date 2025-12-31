@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/2326f" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/2326f/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/2326f/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2326f"><akn:num>2326f</akn:num><akn:heading>Maintenance dredging data</akn:heading><akn:content><akn:p>§ 2326f. Maintenance dredging data(a) In generalThe Secretary shall establish, maintain, and make publicly available a database on maintenance dredging carried out by the Secretary, which shall include information on maintenance dredging carried out by Federal and non-Federal vessels.
+
+
+(b) ScopeThe Secretary shall include in the database maintained under subsection (a), for each maintenance dredging project and contract, estimated and actual data on—(1) the volume of dredged material removed;
+
+(2) the initial cost estimate of the Corps of Engineers;
+
+(3) the total cost, including a separate line item for all Federal costs associated with the disposal of dredged material;
+
+(4) the party and vessel carrying out the work; and
+
+(5) the number of private contractor bids received and the bid amounts, including bids that did not win the final contract award.
+
+
+(Pub. L. 114–322, title I, § 1133, Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, § 8207, Dec. 23, 2022, 136 Stat. 3756.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2022—Subsec. (b)(3). Pub. L. 117–263 inserted “, including a separate line item for all Federal costs associated with the disposal of dredged material” before semicolon at end.
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.</akn:p></akn:content><akn:subsection eId="subsec_2326f_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall establish, maintain, and make publicly available a database on maintenance dredging carried out by the Secretary, which shall include information on maintenance dredging carried out by Federal and non-Federal vessels.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2326f_b"><akn:num>(b)</akn:num><akn:heading>Scope</akn:heading><akn:content><akn:p>(b) Scope The Secretary shall include in the database maintained under subsection (a), for each maintenance dredging project and contract, estimated and actual data on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

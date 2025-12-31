@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7464" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7464/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7464/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7464"><akn:num>7464</akn:num><akn:heading>Identity management research and development</akn:heading><akn:content><akn:p>§ 7464. Identity management research and development(a) In generalThe Director shall carry out a program of research to support the development of voluntary, consensus-based technical standards, best practices, benchmarks, methodologies, metrology, testbeds, and conformance criteria for identity management, taking into account appropriate user concerns to—(1) improve interoperability and portability among identity management technologies;
+
+(2) strengthen identity proofing and verification methods used in identity management systems commensurate with the level of risk, including identity and attribute validation services provided by Federal, State, and local governments;
+
+(3) improve privacy protection in identity management systems; and
+
+(4) improve the accuracy, usability, and inclusivity of identity management systems.
+
+
+(b) Digital identity technical roadmapThe Director, in consultation with other relevant Federal agencies and stakeholders from the private sector, shall develop and maintain a technical roadmap for digital identity management research and development focused on enabling the voluntary use and adoption of modern digital identity solutions that align with the four criteria in subsection (a).
+
+
+(c) Digital identity management guidance(1) In generalThe Director shall develop, and periodically update, in collaboration with other public and private sector organizations, common definitions and voluntary guidance for digital identity management systems, including identity and attribute validation services provided by Federal, State, and local governments.
+
+
+(2) GuidanceThe Guidance shall—(A) align with the four criteria in subsection (a), as practicable;
+
+(B) provide case studies of implementation of guidance;
+
+(C) incorporate voluntary technical standards and industry best practices; and
+
+(D) not prescribe or otherwise require the use of specific technology products or services.
+
+
+(3) ConsultationIn carrying out this subsection, the Director shall consult</akn:p></akn:content><akn:subsection eId="subsec_7464_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Director shall carry out a program of research to support the development of voluntary, consensus-based technical standards, best practices, benchmarks, methodologies, metrology, testbeds, and conformance criteria for identity management, taking into account appropriate user concerns to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7464_b"><akn:num>(b)</akn:num><akn:heading>Digital identity technical roadmap</akn:heading><akn:content><akn:p>(b) Digital identity technical roadmap The Director, in consultation with other relevant Federal agencies and stakeholders from the private sector, shall develop and maintain a technical roadmap for digital identity management research and development focused on enabling the voluntary use and adoption of modern digital identity solutions that align with the four criteria in subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7464_c"><akn:num>(c)</akn:num><akn:heading>Digital identity management guidance</akn:heading><akn:content><akn:p>(c) Digital identity management guidance</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

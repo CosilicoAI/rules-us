@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/2002" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/2002/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/2002/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2002"><akn:num>2002</akn:num><akn:heading>Records, audit, and report</akn:heading><akn:content><akn:p>§ 2002. Records, audit, and report(a) RecordsThe United States Anti-Doping Agency shall keep correct and complete records of account.
+
+
+(b) ReportThe United States Anti-Doping Agency shall submit an annual report to Congress which shall include—(1) an audit conducted and submitted in accordance with section 10101 of title 36; and
+
+(2) a description of the activities of the agency.
+
+
+(Pub. L. 109–469, title VII, § 702, Dec. 29, 2006, 120 Stat. 3534.)</akn:p></akn:content><akn:subsection eId="subsec_2002_a"><akn:num>(a)</akn:num><akn:heading>Records</akn:heading><akn:content><akn:p>(a) Records The United States Anti-Doping Agency shall keep correct and complete records of account.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2002_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report The United States Anti-Doping Agency shall submit an annual report to Congress which shall include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

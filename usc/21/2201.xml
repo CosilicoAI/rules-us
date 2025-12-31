@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/2201" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/2201/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/2201/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2201"><akn:num>2201</akn:num><akn:heading>Performance standards</akn:heading><akn:content><akn:p>§ 2201. Performance standards(a) In generalThe Secretary shall, in coordination with the Secretary of Agriculture, not less frequently than every 2 years, review and evaluate relevant health data and other relevant information, including from toxicological and epidemiological studies and analyses, current Good Manufacturing Practices issued by the Secretary relating to food, and relevant recommendations of relevant advisory committees, including the Food Advisory Committee, to determine the most significant foodborne contaminants.
+
+
+(b) Guidance documents and regulationsBased on the review and evaluation conducted under subsection (a), and when appropriate to reduce the risk of serious illness or death to humans or animals or to prevent adulteration of the food under section 342 of this title or to prevent the spread by food of communicable disease under section 264 of title 42, the Secretary shall issue contaminant-specific and science-based guidance documents, including guidance documents regarding action levels, or regulations. Such guidance, including guidance regarding action levels, or regulations—(1) shall apply to products or product classes;
+
+(2) shall, where appropriate, differentiate between food for human consumption and food intended for consumption by animals other than humans; and
+
+(3) shall not be written to be facility-specific.
+
+
+(c) No duplication of effortsThe Secretary shall coordinate with the Secretary of Agriculture to avoid issuing duplicative guidance on the same contaminants.
+
+
+(d) ReviewThe Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.
+
+
+(Pub. L. 111–353, title I, § 104, Jan. 4, 2011, 124 Stat. 3899.)
+
+Editorial Notes
+
+References in TextThe Secretary, referred to in text, probably means the Secretary of Health and Human Services.
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 111–353,</akn:p></akn:content><akn:subsection eId="subsec_2201_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall, in coordination with the Secretary of Agriculture, not less frequently than every 2 years, review and evaluate relevant health data and other relevant information, including from toxicological and epidemiological studies and analyses, current Good Manufacturing Practices issued by the Secretary relating to food, and relevant recommendations of relevant advisory committees, including the Food Advisory Committee, to determine the most significant foodborne contaminants.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2201_b"><akn:num>(b)</akn:num><akn:heading>Guidance documents and regulations</akn:heading><akn:content><akn:p>(b) Guidance documents and regulations Based on the review and evaluation conducted under subsection (a), and when appropriate to reduce the risk of serious illness or death to humans or animals or to prevent adulteration of the food under section 342 of this title or to prevent the spread by food of communicable disease under section 264 of title 42, the Secretary shall issue contaminant-specific and science-based guidance documents, including guidance documents regarding action levels, or regulations. Such guidance, including guidance regarding action levels, or regulations—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2201_c"><akn:num>(c)</akn:num><akn:heading>No duplication of efforts</akn:heading><akn:content><akn:p>(c) No duplication of efforts The Secretary shall coordinate with the Secretary of Agriculture to avoid issuing duplicative guidance on the same contaminants.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2201_d"><akn:num>(d)</akn:num><akn:heading>Review</akn:heading><akn:content><akn:p>(d) Review The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

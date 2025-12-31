@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/8004" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/8004/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/8004/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8004"><akn:num>8004</akn:num><akn:heading>United States compliance with its nuclear nonproliferation treaty obligations</akn:heading><akn:content><akn:p>§ 8004. United States compliance with its nuclear nonproliferation treaty obligations
+Nothing in this chapter constitutes authority for any action in violation of an obligation of the United States under the NPT.
+(Pub. L. 109–401, title I, § 105, Dec. 18, 2006, 120 Stat. 2738.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

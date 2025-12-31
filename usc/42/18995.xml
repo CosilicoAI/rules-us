@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18995" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18995/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18995/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18995"><akn:num>18995</akn:num><akn:heading>Cyber workforce development research and development</akn:heading><akn:content><akn:p>§ 18995. Cyber workforce development research and development(a) In generalThe Director shall make awards on a merit-reviewed, competitive basis to institutions of higher education or nonprofit organizations (or consortia of such institutions or organizations) to carry out research on the cyber workforce.
+
+
+(b) ResearchIn carrying out research pursuant to subsection (a), the Director shall support research and development activities to—(1) understand the current state of the cyber workforce, including factors that influence growth, retention, and development of that workforce;
+
+(2) examine paths to entry and re-entry into the cyber workforce;
+
+(3) understand trends of the cyber workforce, including demographic representation, educational and professional backgrounds present, competencies available, and factors that shape employee recruitment, development, and retention and how to increase the size, diversity, and capability of the cyber workforce;
+
+(4) examine and evaluate training practices, models, programs, and technologies; and
+
+(5) other closely related topics as the Director determines appropriate.
+
+
+(c) RequirementsIn carrying out the activities described in subsection (b), the Director shall—(1) collaborate with the National Institute of Standards and Technology, including the National Initiative for Cybersecurity Education, the Department of Homeland Security, the Department of Defense, the Office of Personnel Management, and other Federal departments and agencies, as appropriate;
+
+(2) align with or build on the National Initiative on Cybersecurity Education Cybersecurity Workforce Framework wherever practicable and applicable;
+
+(3) leverage the collective body of knowledge from existing cyber workforce development research and education activities; and
+
+(4) engage with other Federal departments and agencies, research communities, and potential users of information produced under this subsection.
+
+
+(Pub. L. 117–167, div. B, title III, § 10315, Aug. 9, 2022,</akn:p></akn:content><akn:subsection eId="subsec_18995_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Director shall make awards on a merit-reviewed, competitive basis to institutions of higher education or nonprofit organizations (or consortia of such institutions or organizations) to carry out research on the cyber workforce.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18995_b"><akn:num>(b)</akn:num><akn:heading>Research</akn:heading><akn:content><akn:p>(b) Research In carrying out research pursuant to subsection (a), the Director shall support research and development activities to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18995_c"><akn:num>(c)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(c) Requirements In carrying out the activities described in subsection (b), the Director shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

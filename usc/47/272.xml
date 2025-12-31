@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/272" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/272/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/272/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_272"><akn:num>272</akn:num><akn:heading>Separate affiliate; safeguards</akn:heading><akn:content><akn:p>§ 272. Separate affiliate; safeguards(a) Separate affiliate required for competitive activities(1) In generalA Bell operating company (including any affiliate) which is a local exchange carrier that is subject to the requirements of section 251(c) of this title may not provide any service described in paragraph (2) unless it provides that service through one or more affiliates that—(A) are separate from any operating company entity that is subject to the requirements of section 251(c) of this title; and
+
+(B) meet the requirements of subsection (b).
+
+
+(2) Services for which a separate affiliate is requiredThe services for which a separate affiliate is required by paragraph (1) are:(A) Manufacturing activities (as defined in section 273(h) of this title).
+
+(B) Origination of interLATA telecommunications services, other than—(i) incidental interLATA services described in paragraphs (1), (2), (3), (5), and (6) of section 271(g) of this title;
+
+(ii) out-of-region services described in section 271(b)(2) of this title; or
+
+(iii) previously authorized activities described in section 271(f) of this title.
+
+
+(C) InterLATA information services, other than electronic publishing (as defined in section 274(h) of this title) and alarm monitoring services (as defined in section 275(e) of this title).
+
+
+
+(b) Structural and transactional requirementsThe separate affiliate required by this section—(1) shall operate independently from the Bell operating company;
+
+(2) shall maintain books, records, and accounts in the manner prescribed by the Commission which shall be separate from the books, records, and accounts maintained by the Bell operating company of which it is an affiliate;
+
+(3) shall have separate officers, directors, and employees from the Bell operating company of which it is an affiliate;
+
+(4) may not obtain credit under any arrangement that would permit a creditor, upon default, to have recourse to the assets of the Bell operating company; and
+
+(5) shall conduct all transa</akn:p></akn:content><akn:subsection eId="subsec_272_a"><akn:num>(a)</akn:num><akn:heading>Separate affiliate required for competitive activities</akn:heading><akn:content><akn:p>(a) Separate affiliate required for competitive activities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_272_b"><akn:num>(b)</akn:num><akn:heading>Structural and transactional requirements</akn:heading><akn:content><akn:p>(b) Structural and transactional requirements The separate affiliate required by this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_272_c"><akn:num>(c)</akn:num><akn:heading>Nondiscrimination safeguards</akn:heading><akn:content><akn:p>(c) Nondiscrimination safeguards In its dealings with its affiliate described in subsection (a), a Bell operating company—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_272_d"><akn:num>(d)</akn:num><akn:heading>Biennial audit</akn:heading><akn:content><akn:p>(d) Biennial audit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_272_e"><akn:num>(e)</akn:num><akn:heading>Fulfillment of certain requests</akn:heading><akn:content><akn:p>(e) Fulfillment of certain requests A Bell operating company and an affiliate that is subject to the requirements of section 251(c) of this title—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_272_f"><akn:num>(f)</akn:num><akn:heading>Sunset</akn:heading><akn:content><akn:p>(f) Sunset</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_272_g"><akn:num>(g)</akn:num><akn:heading>Joint marketing</akn:heading><akn:content><akn:p>(g) Joint marketing</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_272_h"><akn:num>(h)</akn:num><akn:heading>Transition</akn:heading><akn:content><akn:p>(h) Transition With respect to any activity in which a Bell operating company is engaged on February 8, 1996, such company shall have one year from February 8, 1996, to comply with the requirements of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

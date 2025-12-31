@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18724" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18724/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18724/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18724"><akn:num>18724</akn:num><akn:heading>Enhanced grid security</akn:heading><akn:content><akn:p>§ 18724. Enhanced grid security(a) DefinitionsIn this section:(1) Electric utilityThe term “electric utility” has the meaning given the term in section 796 of title 16.
+
+
+(2) E-ISACThe term “E-ISAC” means the Electricity Information Sharing and Analysis Center.
+
+
+
+(b) Cybersecurity for the energy sector research, development, and demonstration program(1) In generalThe Secretary, in coordination with the Secretary of Homeland Security and in consultation with, as determined appropriate, other Federal agencies, the energy sector, the States, Indian Tribes, Tribal organizations, territories or freely associated states, and other stakeholders, shall develop and carry out a program—(A) to develop advanced cybersecurity applications and technologies for the energy sector—(i) to identify and mitigate vulnerabilities, including—(I) dependencies on other critical infrastructure;
+
+(II) impacts from weather and fuel supply;
+
+(III) increased dependence on inverter-based technologies; and
+
+(IV) vulnerabilities from unpatched hardware and software systems; and
+
+
+(ii) to advance the security of field devices and third-party control systems, including—(I) systems for generation, transmission, distribution, end use, and market functions;
+
+(II) specific electric grid elements including advanced metering, demand response, distribution, generation, and electricity storage;
+
+(III) forensic analysis of infected systems;
+
+(IV) secure communications; and
+
+(V) application of in-line edge security solutions;
+
+
+
+(B) to leverage electric grid architecture as a means to assess risks to the energy sector, including by implementing an all-hazards approach to communications infrastructure, control systems architecture, and power systems architecture;
+
+(C) to perform pilot demonstration projects with the energy sector to gain experience with new technologies;
+
+(D) to develop workforce development curricula for energy sector-related cybersecurity; and
+
+(E) to develop improved supply chain concepts f</akn:p></akn:content><akn:subsection eId="subsec_18724_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18724_b"><akn:num>(b)</akn:num><akn:heading>Cybersecurity for the energy sector research, development, and demonstration program</akn:heading><akn:content><akn:p>(b) Cybersecurity for the energy sector research, development, and demonstration program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18724_c"><akn:num>(c)</akn:num><akn:heading>Energy sector operational support for cyberresilience program</akn:heading><akn:content><akn:p>(c) Energy sector operational support for cyberresilience program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18724_d"><akn:num>(d)</akn:num><akn:heading>Modeling and assessing energy infrastructure risk</akn:heading><akn:content><akn:p>(d) Modeling and assessing energy infrastructure risk</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

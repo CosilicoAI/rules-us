@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/910" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/910/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/910/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_910"><akn:num>910</akn:num><akn:heading>Small boat station closures</akn:heading><akn:content><akn:p>§ 910. Small boat station closures(a) Closures.—The Secretary may not close a Coast Guard multimission small boat station or subunit unless the Secretary—(1) determines that—(A) remaining search and rescue capabilities maintain the safety of the maritime public in the area of the station or subunit;
+
+(B) regional or local prevailing weather and marine conditions, including water temperature or unusual tide and current conditions, do not require continued operation of the station or subunit; and
+
+(C) Coast Guard search and rescue standards related to search and rescue response times are met; and
+
+
+(2) provides an opportunity for public comment and for public meetings in the area of the station or subunit with regard to the decision to close the station or subunit.
+
+
+(b) Operational Flexibility.—The Secretary may implement any management efficiencies within the small boat station system, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide. No stations or subunits may be closed under this subsection except in accordance with subsection (a).
+
+(Added Pub. L. 104–324, title III, § 309(a), Oct. 19, 1996, 110 Stat. 3919, § 674; renumbered § 675, Pub. L. 107–295, title IV, § 405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–213, title II, § 217(13), Dec. 20, 2012, 126 Stat. 1558; renumbered § 910, Pub. L. 115–282, title I, § 107(b), Dec. 4, 2018, 132 Stat. 4205.)
+
+Editorial Notes
+Amendments2018—Pub. L. 115–282 renumbered section 675 of this title as this section.
+2012—Subsec. (a). Pub. L. 112–213 substituted “Secretary may not” for “Secretary of Homeland Security may not” in introductory provisions.
+2002—Subsec. (a). Pub. L. 107–296, which directed amendment of section 674 of this title by substituting “of Homeland Security” for “of Transportation” in introductory provisions, was executed to this secti</akn:p></akn:content><akn:subsection eId="subsec_910_a"><akn:num>(a)</akn:num><akn:heading>Closures.—</akn:heading><akn:content><akn:p>(a) The Secretary may not close a Coast Guard multimission small boat station or subunit unless the Secretary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_910_b"><akn:num>(b)</akn:num><akn:heading>Operational Flexibility.—</akn:heading><akn:content><akn:p>(b) The Secretary may implement any management efficiencies within the small boat station system, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide. No stations or subunits may be closed under this subsection except in accordance with subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2571" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2571/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2571/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2571"><akn:num>2571</akn:num><akn:heading>Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(b)(2), Dec. 23, 2022, 136 Stat. 3060</akn:heading><akn:content><akn:p>§§ 2570, 2571. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(b)(2), Dec. 23, 2022, 136 Stat. 3060
+
+Section 2570, Pub. L. 108–375, div. C, title XXXI, § 3133, Oct. 28, 2004, 118 Stat. 2168, authorized the Silk Road Initiative.
+
+
+Section 2571, Pub. L. 108–375, div. C, title XXXI, § 3134, Oct. 28, 2004, 118 Stat. 2169, related to Nuclear Nonproliferation Fellowships for scientists employed by the United States and the Russian Federation.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

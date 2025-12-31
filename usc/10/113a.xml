@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/113a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/113a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/113a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_113a"><akn:num>113a</akn:num><akn:heading>Transmission of annual defense authorization request</akn:heading><akn:content><akn:p>§ 113a. Transmission of annual defense authorization request(a) Time for Transmittal.—The Secretary of Defense shall transmit to Congress the annual defense authorization request for a fiscal year during the first 30 days after the date on which the President transmits to Congress the budget for that fiscal year pursuant to section 1105 of title 31.
+
+(b) Defense Authorization Request Defined.—In this section, the term “defense authorization request”, with respect to a fiscal year, means a legislative proposal submitted to Congress for the enactment of the following:(1) Authorizations of appropriations for that fiscal year, as required by section 114 of this title.
+
+(2) Personnel strengths for that fiscal year, as required by section 115 of this title.
+
+(3) Authority to carry out military construction projects, as required by section 2802 of this title.
+
+(4) Any other matter that is proposed by the Secretary of Defense to be enacted as part of the annual defense authorization bill for that fiscal year.
+
+
+(Added Pub. L. 107–314, div. A, title X, § 1061(a), Dec. 2, 2002, 116 Stat. 2649; amended Pub. L. 108–136, div. A, title X, § 1044(a), Nov. 24, 2003, 117 Stat. 1612.)
+
+Editorial Notes
+Amendments2003—Subsec. (b)(3), (4). Pub. L. 108–136 added par. (3) and redesignated former par. (3) as (4).</akn:p></akn:content><akn:subsection eId="subsec_113a_a"><akn:num>(a)</akn:num><akn:heading>Time for Transmittal.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense shall transmit to Congress the annual defense authorization request for a fiscal year during the first 30 days after the date on which the President transmits to Congress the budget for that fiscal year pursuant to section 1105 of title 31.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_113a_b"><akn:num>(b)</akn:num><akn:heading>Defense Authorization Request Defined.—</akn:heading><akn:content><akn:p>(b) In this section, the term “defense authorization request”, with respect to a fiscal year, means a legislative proposal submitted to Congress for the enactment of the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

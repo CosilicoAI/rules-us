@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/178l" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/178l/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/178l/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_178l"><akn:num>178l</akn:num><akn:heading>Rules and regulations</akn:heading><akn:content><akn:p>§ 178l. Rules and regulations
+The Secretaries may issue rules and regulations necessary to effectuate the purposes of this subchapter.
+(Pub. L. 95–592, § 14, Nov. 4, 1978, 92 Stat. 2533; Pub. L. 98–284, § 13, May 16, 1984, 98 Stat. 184.)
+
+Editorial Notes
+Amendments1984—Pub. L. 98–284 substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

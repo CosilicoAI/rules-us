@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/4000" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/4000/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/4000/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4000"><akn:num>4000</akn:num><akn:heading>Income taxes</akn:heading><akn:content><akn:p>§ 4000. Income taxes(a) Deferral of taxUpon notice to the Internal Revenue Service or the tax authority of a State or a political subdivision of a State, the collection of income tax on the income of a servicemember falling due before or during military service shall be deferred for a period not more than 180 days after termination of or release from military service, if a servicemember’s ability to pay such income tax is materially affected by military service.
+
+
+(b) Accrual of interest or penaltyNo interest or penalty shall accrue for the period of deferment by reason of nonpayment on any amount of tax deferred under this section.
+
+
+(c) Statute of limitationsThe running of a statute of limitations against the collection of tax deferred under this section, by seizure or otherwise, shall be suspended for the period of military service of the servicemember and for an additional period of 270 days thereafter.
+
+
+(d) Application limitationThis section shall not apply to the tax imposed on employees by section 3101 of title 26.
+
+
+(Oct. 17, 1940, ch. 888, title V, § 510, as added Pub. L. 108–189, § 1, Dec. 19, 2003, 117 Stat. 2858.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 570 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+Prior ProvisionsA prior section 510 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1189; Pub. L. 102–12, § 9(23), Mar. 18, 1991, 105 Stat. 41, related to leave of absence for homestead entrymen to perform farm labor, prior to the general amendment of this Act by Pub. L. 108–189.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.</akn:p></akn:content><akn:subsection eId="subsec_4000_a"><akn:num>(a)</akn:num><akn:heading>Deferral of tax</akn:heading><akn:content><akn:p>(a) Deferral of tax Upon notice to the Internal Revenue Service or the tax authority of a State or a political subdivision of a State, the collection of income tax on the income of a servicemember falling due before or during military service shall be deferred for a period not more than 180 days after termination of or release from military service, if a servicemember’s ability to pay such income tax is materially affected by military service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4000_b"><akn:num>(b)</akn:num><akn:heading>Accrual of interest or penalty</akn:heading><akn:content><akn:p>(b) Accrual of interest or penalty No interest or penalty shall accrue for the period of deferment by reason of nonpayment on any amount of tax deferred under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4000_c"><akn:num>(c)</akn:num><akn:heading>Statute of limitations</akn:heading><akn:content><akn:p>(c) Statute of limitations The running of a statute of limitations against the collection of tax deferred under this section, by seizure or otherwise, shall be suspended for the period of military service of the servicemember and for an additional period of 270 days thereafter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4000_d"><akn:num>(d)</akn:num><akn:heading>Application limitation</akn:heading><akn:content><akn:p>(d) Application limitation This section shall not apply to the tax imposed on employees by section 3101 of title 26.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

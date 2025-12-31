@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53907" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53907/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53907/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53907"><akn:num>53907</akn:num><akn:heading>Reinsurance</akn:heading><akn:content><akn:p>§ 53907. Reinsurance(a) In General.—To the extent the Secretary of Transportation is authorized to provide insurance under this chapter, the Secretary may provide reinsurance to a company authorized to do insurance business in a State of the United States. The Secretary may obtain reinsurance from such a company for any insurance provided by the Secretary under this chapter.
+
+(b) Rates.—The Secretary may not provide reinsurance at rates less than, nor obtain reinsurance at rates more than, the rates established by the Secretary on the same or similar risks or the rates charged by the insurance company for the insurance reinsured, whichever is more advantageous to the Secretary. However, the Secretary may provide an allowance to the insurance company for the costs of services and facilities the company provides, in an amount the Secretary considers reasonable according to good business practice. The allowance to the company may not include any amount for soliciting or stimulating insurance business.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1629.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5390746 App.:1287.June 29, 1936, ch. 858, title XII, § 1207, as added Sept. 7, 1950, ch. 906, 64 Stat. 775.
+
+
+In subsection (a), the words “insurance under this chapter” are substituted for “marine, war risk, and liability insurance” for consistency in this chapter. The words “in whole or in part” are omitted as unnecessary. The words “obtain reinsurance from” are substituted for “reinsure with, or cede or retrocede to” for clarity and to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_53907_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) To the extent the Secretary of Transportation is authorized to provide insurance under this chapter, the Secretary may provide reinsurance to a company authorized to do insurance business in a State of the United States. The Secretary may obtain reinsurance from such a company for any insurance provided by the Secretary under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53907_b"><akn:num>(b)</akn:num><akn:heading>Rates.—</akn:heading><akn:content><akn:p>(b) The Secretary may not provide reinsurance at rates less than, nor obtain reinsurance at rates more than, the rates established by the Secretary on the same or similar risks or the rates charged by the insurance company for the insurance reinsured, whichever is more advantageous to the Secretary. However, the Secretary may provide an allowance to the insurance company for the costs of services and facilities the company provides, in an amount the Secretary considers reasonable according to good business practice. The allowance to the company may not include any amount for soliciting or stimulating insurance business.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

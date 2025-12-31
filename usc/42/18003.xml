@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18003" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18003/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18003/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18003"><akn:num>18003</akn:num><akn:heading>Immediate information that allows consumers to identify affordable coverage options</akn:heading><akn:content><akn:p>§ 18003. Immediate information that allows consumers to identify affordable coverage options(a) Internet portal to affordable coverage options(1) Immediate establishmentNot later than July 1, 2010, the Secretary, in consultation with the States, shall establish a mechanism, including an Internet website, through which a resident of, or small business in, any State may identify affordable health insurance coverage options in that State.
+
+
+(2) Connecting to affordable coverageAn Internet website established under paragraph (1) shall, to the extent practicable, provide ways for residents of, and small businesses in, any State to receive information on at least the following coverage options:(A) Health insurance coverage offered by health insurance issuers, other than coverage that provides reimbursement only for the treatment or mitigation of—(i) a single disease or condition; or
+
+(ii) an unreasonably limited set of diseases or conditions (as determined by the Secretary).
+
+
+(B) Medicaid coverage under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.].
+
+(C) Coverage under title XXI of the Social Security Act [42 U.S.C. 1397aa et seq.].
+
+(D) A State health benefits high risk pool, to the extent that such high risk pool is offered in such State; and
+
+(E) Coverage under a high risk pool under section 18001 of this title.
+
+(F) Coverage within the small group market for small businesses and their employees, including reinsurance for early retirees under section 18002 of this title, tax credits available under section 45R of title 26 (as added by section 1421), and other information specifically for small businesses regarding affordable health care options.
+
+
+
+(b) Enhancing comparative purchasing options(1) In generalNot later than 60 days after March 23, 2010, the Secretary shall develop a standardized format to be used for the presentation of information relating to the coverage options described in subsection (a)(2). Such format shall, at a minimum, require the</akn:p></akn:content><akn:subsection eId="subsec_18003_a"><akn:num>(a)</akn:num><akn:heading>Internet portal to affordable coverage options</akn:heading><akn:content><akn:p>(a) Internet portal to affordable coverage options</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18003_b"><akn:num>(b)</akn:num><akn:heading>Enhancing comparative purchasing options</akn:heading><akn:content><akn:p>(b) Enhancing comparative purchasing options</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18003_c"><akn:num>(c)</akn:num><akn:heading>Authority to contract</akn:heading><akn:content><akn:p>(c) Authority to contract The Secretary may carry out this section through contracts entered into with qualified entities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/40501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/40501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/40501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40501"><akn:num>40501</akn:num><akn:heading>Program authorized</akn:heading><akn:content><akn:p>§ 40501. Program authorized(a) In general(1) Grants authorizedThe Attorney General may award grants to eligible entities described in paragraph (2) to enable the eligible entities to improve the transportation, processing, identification, and reporting of missing persons and unidentified remains, including migrants.
+
+
+(2) Eligible entitiesEligible entities described in this paragraph are the following:(A) States and units of local government.
+
+(B) Accredited, publicly funded, Combined DNA Index System (commonly known as “CODIS”) forensic laboratories, which demonstrate the grant funds will be used for DNA typing and uploading biological family DNA reference samples, including samples from foreign nationals, into CODIS, subject to the protocols for inclusion of such forensic DNA profiles into CODIS, and the privacy protections required under section 40502(c) of this title.
+
+(C) Medical examiners offices.
+
+(D) Accredited, publicly funded toxicology laboratories.
+
+(E) Accredited, publicly funded crime laboratories.
+
+(F) Publicly funded university forensic anthropology laboratories.
+
+(G) Nonprofit organizations that have working collaborative agreements with State and county forensic offices, including medical examiners, coroners, and justices of the peace, for entry of data into CODIS or the National Missing and Unidentified Persons System (commonly known as “NamUs”), or both.
+
+
+
+(Pub. L. 106–177, title II, § 202, as added Pub. L. 116–277, § 2(a)(1), Dec. 31, 2020, 134 Stat. 3368.)
+
+Editorial Notes
+Prior ProvisionsA prior section 40501, Pub. L. 106–177, title II, § 202, Mar. 10, 2000, 114 Stat. 36, authorized Attorney General to provide grant awards to States to enable States to improve the reporting of unidentified and missing persons, prior to repeal by Pub. L. 116–277, § 2(a)(1), Dec. 31, 2020, 134 Stat. 3368. Such section was formerly classified to section 14661 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as secti</akn:p></akn:content><akn:subsection eId="subsec_40501_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

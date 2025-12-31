@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/60104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/60104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/60104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60104"><akn:num>60104</akn:num><akn:heading>Depositing certificates of documentation with consular officers</akn:heading><akn:content><akn:p>§ 60104. Depositing certificates of documentation with consular officers(a) Requirement of Master.—When a vessel owned by citizens of the United States, on a voyage from a port in the United States, arrives at a foreign port, the master of the vessel shall deposit the vessel’s certificate of documentation with a consular officer at the foreign port if there is a consular officer at that port.
+
+(b) Return of Certificate.—When the master produces a clearance from the appropriate officer of the foreign port, the consular officer shall return the certificate of documentation to the master if the master has complied with the provisions of law related to the discharge of seamen in a foreign country and the payment of fees of consular officers.
+
+(c) Civil Penalty and Collection.—The master of a vessel failing to deposit the certificate of documentation as required by subsection (a) is liable to the United States Government for a civil penalty of $500. The consular officer shall bring an action to recover the penalty in any court of competent jurisdiction. The action shall be brought in the name of the consular officer for the benefit of the United States.
+
+(Pub. L. 109–304, § 9(b), Oct. 6, 2006, 120 Stat. 1675.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6010446 App.:354.R.S. § 4309; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.
+ 46 App.:355.R.S. § 4310; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100.
+
+
+In this section, the words “certificate of documentation” are substituted for “register” and “papers” for consistency with chapter 121 of title 46. The words “sea-letter, and Mediterranean passport” in R.S. § 4309 are omitted because the use of those documents was discontinued by Presidential proclamation on April 10, 1815. The words “consular officer” are substituted for “consul or vice consul” for consistency with 22 U.S.C. 4205. The words “commercial agent, or vice commercial agent” in R.S. §§ 4309 and 4310 are omitted</akn:p></akn:content><akn:subsection eId="subsec_60104_a"><akn:num>(a)</akn:num><akn:heading>Requirement of Master.—</akn:heading><akn:content><akn:p>(a) When a vessel owned by citizens of the United States, on a voyage from a port in the United States, arrives at a foreign port, the master of the vessel shall deposit the vessel’s certificate of documentation with a consular officer at the foreign port if there is a consular officer at that port.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60104_b"><akn:num>(b)</akn:num><akn:heading>Return of Certificate.—</akn:heading><akn:content><akn:p>(b) When the master produces a clearance from the appropriate officer of the foreign port, the consular officer shall return the certificate of documentation to the master if the master has complied with the provisions of law related to the discharge of seamen in a foreign country and the payment of fees of consular officers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60104_c"><akn:num>(c)</akn:num><akn:heading>Civil Penalty and Collection.—</akn:heading><akn:content><akn:p>(c) The master of a vessel failing to deposit the certificate of documentation as required by subsection (a) is liable to the United States Government for a civil penalty of $500. The consular officer shall bring an action to recover the penalty in any court of competent jurisdiction. The action shall be brought in the name of the consular officer for the benefit of the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

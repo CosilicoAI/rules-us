@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/5706" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/5706/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/5706/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5706"><akn:num>5706</akn:num><akn:heading>Veterans identification card</akn:heading><akn:content><akn:p>§ 5706. Veterans identification card(a) In General.—The Secretary of Veterans Affairs shall issue an identification card described in subsection (b) to each veteran who—(1) requests such card;
+
+(2) presents a copy of Department of Defense form DD–214 or other official document from the official military personnel file of the veteran that describes the service of the veteran; and
+
+(3) pays the fee under subsection (c)(1).
+
+
+(b) Identification Card.—An identification card described in this subsection is a card issued to a veteran that—(1) displays a photograph of the veteran;
+
+(2) displays the name of the veteran;
+
+(3) explains that such card is not proof of any benefits to which the veteran is entitled to;
+
+(4) contains an identification number that is not a social security number; and
+
+(5) serves as proof that such veteran—(A) served in the Armed Forces; and
+
+(B) has a Department of Defense form DD–214 or other official document in the official military personnel file of the veteran that describes the service of the veteran.
+
+
+
+(c) Costs of Card.—(1) The Secretary shall charge a fee to each veteran who receives an identification card issued under this section, including a replacement identification card.
+
+(2)(A) The fee charged under paragraph (1) shall equal such amount as the Secretary determines is necessary to issue an identification card under this section.
+
+(B) In determining the amount of the fee under subparagraph (A), the Secretary shall ensure that the total amount of fees collected under paragraph (1) equals an amount necessary to carry out this section, including costs related to any additional equipment or personnel required to carry out this section.
+
+(C) The Secretary shall review and reassess the determination under subparagraph (A) during each five-year period in which the Secretary issues an identification card under this section.
+
+
+(3) Amounts collected under this subsection shall be deposited in an account of the Department available to carry out</akn:p></akn:content><akn:subsection eId="subsec_5706_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary of Veterans Affairs shall issue an identification card described in subsection (b) to each veteran who—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5706_b"><akn:num>(b)</akn:num><akn:heading>Identification Card.—</akn:heading><akn:content><akn:p>(b) An identification card described in this subsection is a card issued to a veteran that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5706_c"><akn:num>(c)</akn:num><akn:heading>Costs of Card.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5706_d"><akn:num>(d)</akn:num><akn:heading>Effect of Card on Benefits.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5706_e"><akn:num>(e)</akn:num><akn:heading>Administrative Measures.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5706_f"><akn:num>(f)</akn:num><akn:heading>Construction.—</akn:heading><akn:content><akn:p>(f) This section shall not be construed to affect identification cards otherwise provided by the Secretary to veterans enrolled in the health care system established under section 1705(a) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/1001" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/1001/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/1001/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1001"><akn:num>1001</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1001. Definitions
+For purposes of this subchapter—(1) The terms defined in section 2510 of title 18 have, respectively, the meanings stated in that section.
+
+(2) The term “call-identifying information” means dialing or signaling information that identifies the origin, direction, destination, or termination of each communication generated or received by a subscriber by means of any equipment, facility, or service of a telecommunications carrier.
+
+(3) The term “Commission” means the Federal Communications Commission.
+
+(4) The term “electronic messaging services” means software-based services that enable the sharing of data, images, sound, writing, or other information among computing devices controlled by the senders or recipients of the messages.
+
+(5) The term “government” means the government of the United States and any agency or instrumentality thereof, the District of Columbia, any commonwealth, territory, or possession of the United States, and any State or political subdivision thereof authorized by law to conduct electronic surveillance.
+
+(6) The term “information services”—(A) means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications; and
+
+(B) includes—(i) a service that permits a customer to retrieve stored information from, or file information for storage in, information storage facilities;
+
+(ii) electronic publishing; and
+
+(iii) electronic messaging services; but
+
+
+(C) does not include any capability for a telecommunications carrier’s internal management, control, or operation of its telecommunications network.
+
+
+(7) The term “telecommunications support services” means a product, software, or service used by a telecommunications carrier for the internal signaling or switching functions of its telecommunications network.
+
+(8) The term “telecommunications carrier”—(A) means a person or entity engaged in the transmission or switching of wire </akn:p></akn:content><akn:subsection eId="subsec_1001_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The terms defined in section 2510 of title 18 have, respectively, the meanings stated in that section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “call-identifying information” means dialing or signaling information that identifies the origin, direction, destination, or termination of each communication generated or received by a subscriber by means of any equipment, facility, or service of a telecommunications carrier.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “Commission” means the Federal Communications Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The term “electronic messaging services” means software-based services that enable the sharing of data, images, sound, writing, or other information among computing devices controlled by the senders or recipients of the messages.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The term “government” means the government of the United States and any agency or instrumentality thereof, the District of Columbia, any commonwealth, territory, or possession of the United States, and any State or political subdivision thereof authorized by law to conduct electronic surveillance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The term “information services”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The term “telecommunications support services” means a product, software, or service used by a telecommunications carrier for the internal signaling or switching functions of its telecommunications network.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) The term “telecommunications carrier”—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

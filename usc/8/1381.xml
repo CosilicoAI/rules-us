@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/8/1381" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/8/1381/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/8/1381/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1381"><akn:num>1381</akn:num><akn:heading>Secretary of Labor report</akn:heading><akn:content><akn:p>§ 1381. Secretary of Labor report
+Not later than January 31 of each year, the Secretary of Labor shall report to the Committees on the Judiciary of the Senate and the House of Representatives on the investigations undertaken based on—(1) the authorities described in clauses (i) and (ii) of section 1182(n)(2)(G) of this title; and
+
+(2) the expenditures by the Secretary of Labor described in section 1356(v)(2)(D) of this title.
+
+(Pub. L. 108–447, div. J, title IV, § 424(c), Dec. 8, 2004, 118 Stat. 3356.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the H–1B Visa Reform Act of 2004, and also as part of the L–1 Visa and H–1B Visa Reform Act and the Consolidated Appropriations Act, 2005, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 90 days after Dec. 8, 2004, see section 430 of Pub. L. 108–447, set out as an Effective Date of 2004 Amendment note under section 1182 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1381_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the authorities described in clauses (i) and (ii) of section 1182(n)(2)(G) of this title; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1381_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the expenditures by the Secretary of Labor described in section 1356(v)(2)(D) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

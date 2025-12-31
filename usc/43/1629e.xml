@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/1629e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/1629e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/1629e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1629e"><akn:num>1629e</akn:num><akn:heading>Settlement Trust option</akn:heading><akn:content><akn:p>§ 1629e. Settlement Trust option(a) Conveyance of corporate assets(1)(A) A Native Corporation may convey assets (including stock or beneficial interests therein) to a Settlement Trust in accordance with the laws of the State (except to the extent that such laws are inconsistent with this section and section 1629b of this title).
+
+(B) The approval of the shareholders of the corporation in the form of a resolution shall be required to convey all or substantially all of the assets of the corporation to a Settlement Trust. A conveyance in violation of this clause shall be void ab initio and shall not be given effect by any court.
+
+
+(2) No subsurface estate in land shall be conveyed to a Settlement Trust. A conveyance of title to, or any other interest in, subsurface estate in violation of this subparagraph shall be void ab initio and shall not be given effect by any court.
+
+(3) Conveyances made pursuant to this subsection—(A) shall be subject to applicable laws respecting fraudulent conveyance and creditors rights; and
+
+(B) shall give rise to dissenters rights to the extent provided under the laws of the State only if—(i) the rights of beneficiaries in the Settlement Trust receiving a conveyance are inalienable; and
+
+(ii) a shareholder vote on such transfer is required by section 1629b(a)(4) of this title.
+
+
+
+(4) The provisions of this subsection shall not prohibit a Native Corporation from engaging in any conveyance, reorganization, or transaction not otherwise prohibited under the laws of the State or the United States.
+
+
+(b) Authority and limitations of a Settlement Trust(1) The purpose of a Settlement Trust shall be to promote the health, education, and welfare of its beneficiaries and preserve the heritage and culture of Natives. A Settlement Trust shall not—(A) operate as a business;
+
+(B) alienate land or any interest in land received from the settlor Native Corporation (except if the recipient of the land is the settlor corporation or the land is conveyed for a h</akn:p></akn:content><akn:subsection eId="subsec_1629e_a"><akn:num>(a)</akn:num><akn:heading>Conveyance of corporate assets</akn:heading><akn:content><akn:p>(a) Conveyance of corporate assets</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1629e_b"><akn:num>(b)</akn:num><akn:heading>Authority and limitations of a Settlement Trust</akn:heading><akn:content><akn:p>(b) Authority and limitations of a Settlement Trust</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1629e_c"><akn:num>(c)</akn:num><akn:heading>Savings</akn:heading><akn:content><akn:p>(c) Savings</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

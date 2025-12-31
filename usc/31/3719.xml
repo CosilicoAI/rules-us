@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3719" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3719/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3719/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3719"><akn:num>3719</akn:num><akn:heading>Reports on debt collection activities</akn:heading><akn:content><akn:p>§ 3719. Reports on debt collection activities(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—(1) information on—(A) the total amount of loans and accounts receivable owed the agency and when amounts owed the agency are due to be repaid;
+
+(B) the total amount of receivables and number of claims at least 30 days past due;
+
+(C) the total amount written off as actually uncollectible and the total amount allowed for uncollectible loans and accounts receivable;
+
+(D) the rate of interest charged for overdue debts and the amount of interest charged and collected on debts;
+
+(E) the total number of claims and the total amount collected; and
+
+(F) the number and total amount of claims referred to the Attorney General for settlement and the number and total amount of claims the Attorney General settles;
+
+
+(2) the information described in clause (1) of this subsection for each program or activity the head of the agency carries out; and
+
+(3) other information the Secretary considers necessary to decide whether the head of the agency is acting aggressively to collect the claims of the agency.
+
+
+(b) The Secretary shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Secretary under subsection (a).
+
+(Added Pub. L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 104–134, title III, § 31001(aa)(3), Apr. 26, 1996, 110 Stat. 1321–380.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3719(a)31 App.:955(a).Oct.</akn:p></akn:content><akn:subsection eId="subsec_3719_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3719_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Secretary under subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

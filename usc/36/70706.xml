@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/70706" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/70706/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/70706/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70706"><akn:num>70706</akn:num><akn:heading>Property exempt from taxation</akn:heading><akn:content><akn:p>§ 70706. Property exempt from taxation
+Any property formerly occupied by the late Frederick Douglass as his homestead, commonly called Cedar Hill, in the village of Anacostia, District of Columbia, and owned by the corporation, is exempt from taxation as long as the property is used for the purposes of the corporation.
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1355.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+7070636:4407.June 6, 1900, ch. 806, § 7, 31 Stat. 663.
+
+
+This section is substituted for the source provision to eliminate unnecessary words.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

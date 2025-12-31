@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2282c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2282c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2282c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2282c"><akn:num>2282c</akn:num><akn:heading>Worker health and safety rules for Department of Energy nuclear facilities</akn:heading><akn:content><akn:p>§ 2282c. Worker health and safety rules for Department of Energy nuclear facilities(a) Regulations required(1) In generalThe Secretary shall promulgate regulations for industrial and construction health and safety at Department of Energy facilities that are operated by contractors covered by agreements of indemnification under section 2210(d) of this title, after public notice and opportunity for comment under section 553 of title 5 (commonly known as the “Administrative Procedure Act”). Such regulations shall, subject to paragraph (3), provide a level of protection for workers at such facilities that is substantially equivalent to the level of protection currently provided to such workers at such facilities.
+
+
+(2) ApplicabilityThe regulations promulgated under paragraph (1) shall not apply to any facility that is a component of, or any activity conducted under, the Naval Nuclear Propulsion Program provided for under Executive Order No. 12344, dated February 1, 1982 (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525)).
+
+
+(3) FlexibilityIn promulgating the regulations under paragraph (1), the Secretary shall include flexibility—(A) to tailor implementation of such regulations to reflect activities and hazards associated with a particular work environment;
+
+(B) to take into account special circumstances at a facility that is, or is expected to be, permanently closed and that is expected to be demolished, or title to which is expected to be transferred to another entity for reuse; and
+
+(C) to achieve national security missions of the Department of Energy in an efficient and timely manner.
+
+
+(4) No effect on health and safety enforcementThis subsection does not diminish or otherwise affect the enforcement or the application of any other law, regulation, order, or contractual obligation relating to worker health and safety.
+
+
+
+(b) Civil penalties(1) In generalA person (or any subcontractor or supplier of the pers</akn:p></akn:content><akn:subsection eId="subsec_2282c_a"><akn:num>(a)</akn:num><akn:heading>Regulations required</akn:heading><akn:content><akn:p>(a) Regulations required</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2282c_b"><akn:num>(b)</akn:num><akn:heading>Civil penalties</akn:heading><akn:content><akn:p>(b) Civil penalties</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2282c_c"><akn:num>(c)</akn:num><akn:heading>Contract penalties</akn:heading><akn:content><akn:p>(c) Contract penalties</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2282c_d"><akn:num>(d)</akn:num><akn:heading>Coordination of penalties</akn:heading><akn:content><akn:p>(d) Coordination of penalties</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

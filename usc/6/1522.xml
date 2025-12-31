@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/1522" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/1522/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/1522/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1522"><akn:num>1522</akn:num><akn:heading>Advanced internal defenses</akn:heading><akn:content><akn:p>§ 1522. Advanced internal defenses(a) Advanced network security tools(1) In generalThe Secretary shall include, in the efforts of the Department to continuously diagnose and mitigate cybersecurity risks, advanced network security tools to improve visibility of network activity, including through the use of commercial and free or open source tools, and to detect and mitigate intrusions and anomalous activity.
+
+
+(2) Development of planThe Director shall develop and the Secretary shall implement a plan to ensure that each agency utilizes advanced network security tools, including those described in paragraph (1), to detect and mitigate intrusions and anomalous activity.
+
+
+
+(b) Prioritizing advanced security toolsThe Director and the Secretary, in consultation with appropriate agencies, shall—(1) review and update Government-wide policies and programs to ensure appropriate prioritization and use of network security monitoring tools within agency networks; and
+
+(2) brief appropriate congressional committees on such prioritization and use.
+
+
+(c) Improved metricsThe Secretary, in collaboration with the Director, shall review and update the metrics used to measure security under section 3554 of title 44 to include measures of intrusion and incident detection and response times.
+
+
+(d) Transparency and accountabilityThe Director, in consultation with the Secretary, shall increase transparency to the public on agency cybersecurity posture, including by increasing the number of metrics available on Federal Government performance websites and, to the greatest extent practicable, displaying metrics for department components, small agencies, and micro-agencies.
+
+
+(e) Omitted
+
+(f) ExceptionThe requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
+
+
+(Pub. L. 114–113, div. N, title II, § 224, Dec. 18, 2015, 129 Stat. 2967.)
+
+Editorial Notes
+Codification
+Section is comprised of section 224</akn:p></akn:content><akn:subsection eId="subsec_1522_a"><akn:num>(a)</akn:num><akn:heading>Advanced network security tools</akn:heading><akn:content><akn:p>(a) Advanced network security tools</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1522_b"><akn:num>(b)</akn:num><akn:heading>Prioritizing advanced security tools</akn:heading><akn:content><akn:p>(b) Prioritizing advanced security tools The Director and the Secretary, in consultation with appropriate agencies, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1522_c"><akn:num>(c)</akn:num><akn:heading>Improved metrics</akn:heading><akn:content><akn:p>(c) Improved metrics The Secretary, in collaboration with the Director, shall review and update the metrics used to measure security under section 3554 of title 44 to include measures of intrusion and incident detection and response times.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1522_d"><akn:num>(d)</akn:num><akn:heading>Transparency and accountability</akn:heading><akn:content><akn:p>(d) Transparency and accountability The Director, in consultation with the Secretary, shall increase transparency to the public on agency cybersecurity posture, including by increasing the number of metrics available on Federal Government performance websites and, to the greatest extent practicable, displaying metrics for department components, small agencies, and micro-agencies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1522_e"><akn:num>(e)</akn:num><akn:heading>Omitted</akn:heading><akn:content><akn:p>(e) Omitted</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1522_f"><akn:num>(f)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(f) Exception The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

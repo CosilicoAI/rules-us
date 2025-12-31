@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/747" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/747/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/747/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_747"><akn:num>747</akn:num><akn:heading>Equipment and training standards</akn:heading><akn:content><akn:p>§ 747. Equipment and training standards(a) Equipment standards(1) In generalThe Administrator, in coordination with the heads of appropriate Federal agencies and the National Advisory Council, shall support the development, promulgation, and updating, as necessary, of national voluntary consensus standards for the performance, use, and validation of equipment used by Federal, State, local, and tribal governments and nongovernmental emergency response providers.
+
+
+(2) RequirementsThe national voluntary consensus standards shall—(A) be designed to achieve equipment and other capabilities consistent with the national preparedness goal, including the safety and health of emergency response providers;
+
+(B) to the maximum extent practicable, be consistent with existing national voluntary consensus standards;
+
+(C) take into account, as appropriate, threats that may not have been contemplated when the existing standards were developed; and
+
+(D) focus on maximizing operability, interoperability, interchangeability, durability, flexibility, efficiency, efficacy, portability, sustainability, and safety.
+
+
+
+(b) Training standardsThe Administrator shall—(1) support the development, promulgation, and regular updating, as necessary, of national voluntary consensus standards for training; and
+
+(2) ensure that the training provided under the national training program is consistent with the standards.
+
+
+(c) Consultation with standards organizationsIn carrying out this section, the Administrator shall consult with representatives of relevant public and private sector national voluntary consensus standards development organizations.
+
+
+(Pub. L. 109–295, title VI, § 647, Oct. 4, 2006, 120 Stat. 1426.)</akn:p></akn:content><akn:subsection eId="subsec_747_a"><akn:num>(a)</akn:num><akn:heading>Equipment standards</akn:heading><akn:content><akn:p>(a) Equipment standards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_747_b"><akn:num>(b)</akn:num><akn:heading>Training standards</akn:heading><akn:content><akn:p>(b) Training standards The Administrator shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_747_c"><akn:num>(c)</akn:num><akn:heading>Consultation with standards organizations</akn:heading><akn:content><akn:p>(c) Consultation with standards organizations In carrying out this section, the Administrator shall consult with representatives of relevant public and private sector national voluntary consensus standards development organizations.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

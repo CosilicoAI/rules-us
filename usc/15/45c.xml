@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/45c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/45c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/45c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_45c"><akn:num>45c</akn:num><akn:heading>Unfair and deceptive acts and practices relating to circumvention of ticket access control measures</akn:heading><akn:content><akn:p>§ 45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures(a) Conduct prohibited(1) In generalExcept as provided in paragraph (2), it shall be unlawful for any person—(A) to circumvent a security measure, access control system, or other technological control or measure on an Internet website or online service that is used by the ticket issuer to enforce posted event ticket purchasing limits or to maintain the integrity of posted online ticket purchasing order rules; or
+
+(B) to sell or offer to sell any event ticket in interstate commerce obtained in violation of subparagraph (A) if the person selling or offering to sell the ticket either—(i) participated directly in or had the ability to control the conduct in violation of subparagraph (A); or
+
+(ii) knew or should have known that the event ticket was acquired in violation of subparagraph (A).
+
+
+
+(2) ExceptionIt shall not be unlawful under this section for a person to create or use any computer software or system—(A) to investigate, or further the enforcement or defense, of any alleged violation of this section or other statute or regulation; or
+
+(B) to engage in research necessary to identify and analyze flaws and vulnerabilities of measures, systems, or controls described in paragraph (1)(A), if these research activities are conducted to advance the state of knowledge in the field of computer system security or to assist in the development of computer security product.
+
+
+
+(b) Enforcement by the Federal Trade Commission(1) Unfair or deceptive acts or practicesA violation of subsection (a) shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+
+(2) Powers of Commission(A) In generalThe Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and </akn:p></akn:content><akn:subsection eId="subsec_45c_a"><akn:num>(a)</akn:num><akn:heading>Conduct prohibited</akn:heading><akn:content><akn:p>(a) Conduct prohibited</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45c_b"><akn:num>(b)</akn:num><akn:heading>Enforcement by the Federal Trade Commission</akn:heading><akn:content><akn:p>(b) Enforcement by the Federal Trade Commission</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45c_c"><akn:num>(c)</akn:num><akn:heading>Enforcement by States</akn:heading><akn:content><akn:p>(c) Enforcement by States</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

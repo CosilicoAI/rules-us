@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/615b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/615b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/615b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_615b"><akn:num>615b</akn:num><akn:heading>Exportation of timber pulp wood and wood pulp from Alaska</akn:heading><akn:content><akn:p>§ 615b. Exportation of timber pulp wood and wood pulp from Alaska
+Birch timber and pulp wood or wood pulp manufactured from timber in Alaska may be exported therefrom.
+(Feb. 1, 1905, ch. 288, § 2, 33 Stat. 628; June 5, 1920, ch. 235, § 1, 41 Stat. 917.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 422 of Title 48, Territories and Insular Possessions.
+
+Amendments1920—Act June 5, 1920, authorized exportation of birch timber.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

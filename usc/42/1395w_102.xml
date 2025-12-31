@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1395w–102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1395w–102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1395w–102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1395w_102"><akn:num>1395w–102</akn:num><akn:heading>Prescription drug benefits</akn:heading><akn:content><akn:p>§ 1395w–102. Prescription drug benefits(a) Requirements(1) In generalFor purposes of this part and part C, the term “qualified prescription drug coverage” means either of the following:(A) Standard prescription drug coverage with access to negotiated pricesStandard prescription drug coverage (as defined in subsection (b)) and access to negotiated prices under subsection (d).
+
+
+(B) Alternative prescription drug coverage with at least actuarially equivalent benefits and access to negotiated pricesCoverage of covered part D drugs which meets the alternative prescription drug coverage requirements of subsection (c) and access to negotiated prices under subsection (d), but only if the benefit design of such coverage is approved by the Secretary, as provided under subsection (c).
+
+
+
+(2) Permitting supplemental prescription drug coverage(A) In generalSubject to subparagraph (B), qualified prescription drug coverage may include supplemental prescription drug coverage consisting of either or both of the following:(i) Certain reductions in cost-sharing(I) In generalA reduction in the annual deductible, a reduction in the coinsurance percentage or, for a year preceding 2025, an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
+
+
+(II) ConstructionNothing in this paragraph shall be construed as affecting the application of subsection (c)(3).
+
+
+
+(ii) Optional drugsCoverage of any product that would be a covered part D drug but for the application of subsection (e)(2)(A).
+
+
+
+(B) RequirementA PDP sponsor may not offer a prescription drug plan that provides supplemental prescription drug coverage pursuant to subparagraph (A) in an area unless the sponsor also offers a prescription drug plan in the area that only provides basic prescription drug coverage.
+
+
+
+(3) Basic prescription drug c</akn:p></akn:content><akn:subsection eId="subsec_1395w_102_a"><akn:num>(a)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(a) Requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_102_b"><akn:num>(b)</akn:num><akn:heading>Standard prescription drug coverage</akn:heading><akn:content><akn:p>(b) Standard prescription drug coverage For purposes of this part and part C, the term “standard prescription drug coverage” means coverage of covered part D drugs that meets the following requirements:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_102_c"><akn:num>(c)</akn:num><akn:heading>Alternative prescription drug coverage requirements</akn:heading><akn:content><akn:p>(c) Alternative prescription drug coverage requirements A prescription drug plan or an MA–PD plan may provide a different prescription drug benefit design from standard prescription drug coverage so long as the Secretary determines (consistent with section 1395w–111(c) of this title) that the following requirements are met and the plan applies for, and receives, the approval of the Secretary for such benefit design:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_102_d"><akn:num>(d)</akn:num><akn:heading>Access to negotiated prices</akn:heading><akn:content><akn:p>(d) Access to negotiated prices</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_102_e"><akn:num>(e)</akn:num><akn:heading>Covered part D drug defined</akn:heading><akn:content><akn:p>(e) Covered part D drug defined</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

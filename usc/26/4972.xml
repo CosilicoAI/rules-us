@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4972" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4972/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4972/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4972"><akn:num>4972</akn:num><akn:heading>Tax on nondeductible contributions to qualified employer plans</akn:heading><akn:content><akn:p>§ 4972. Tax on nondeductible contributions to qualified employer plans(a) Tax imposedIn the case of any qualified employer plan, there is hereby imposed a tax equal to 10 percent of the nondeductible contributions under the plan (determined as of the close of the taxable year of the employer).
+
+
+(b) Employer liable for taxThe tax imposed by this section shall be paid by the employer making the contributions.
+
+
+(c) Nondeductible contributionsFor purposes of this section—(1) In generalThe term “nondeductible contributions” means, with respect to any qualified employer plan, the sum of—(A) the excess (if any) of—(i) the amount contributed for the taxable year by the employer to or under such plan, over
+
+(ii) the amount allowable as a deduction under section 404 for such contributions (determined without regard to subsection (e) thereof), and
+
+
+(B) the amount determined under this subsection for the preceding taxable year reduced by the sum of—(i) the portion of the amount so determined returned to the employer during the taxable year, and
+
+(ii) the portion of the amount so determined deductible under section 404 for the taxable year (determined without regard to subsection (e) thereof).
+
+
+
+(2) Ordering rule for section 404For purposes of paragraph (1), the amount allowable as a deduction under section 404 for any taxable year shall be treated as—(A) first from carryforwards to such taxable year from preceding taxable years (in order of time), and
+
+(B) then from contributions made during such taxable year.
+
+
+(3) Contributions which may be returned to employerIn determining the amount of nondeductible contributions for any taxable year, there shall not be taken into account any contribution for such taxable year which is distributed to the employer in a distribution described in section 4980(c)(2)(B)(ii) if such distribution is made on or before the last day on which a contribution may be made for such taxable year under section 404(a)(6).
+
+
+(4) Special rule for self-emp</akn:p></akn:content><akn:subsection eId="subsec_4972_a"><akn:num>(a)</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>(a) Tax imposed In the case of any qualified employer plan, there is hereby imposed a tax equal to 10 percent of the nondeductible contributions under the plan (determined as of the close of the taxable year of the employer).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4972_b"><akn:num>(b)</akn:num><akn:heading>Employer liable for tax</akn:heading><akn:content><akn:p>(b) Employer liable for tax The tax imposed by this section shall be paid by the employer making the contributions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4972_c"><akn:num>(c)</akn:num><akn:heading>Nondeductible contributions</akn:heading><akn:content><akn:p>(c) Nondeductible contributions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4972_d"><akn:num>(d)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(d) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

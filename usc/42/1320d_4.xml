@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1320d–4" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1320d–4/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1320d–4/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1320d_4"><akn:num>1320d–4</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>§ 1320d–4. Requirements(a) Conduct of transactions by plans(1) In generalIf a person desires to conduct a transaction referred to in section 1320d–2(a)(1) of this title with a health plan as a standard transaction—(A) the health plan may not refuse to conduct such transaction as a standard transaction;
+
+(B) the insurance plan may not delay such transaction, or otherwise adversely affect, or attempt to adversely affect, the person or the transaction on the ground that the transaction is a standard transaction; and
+
+(C) the information transmitted and received in connection with the transaction shall be in the form of standard data elements of health information.
+
+
+(2) Satisfaction of requirementsA health plan may satisfy the requirements under paragraph (1) by—(A) directly transmitting and receiving standard data elements of health information; or
+
+(B) submitting nonstandard data elements to a health care clearinghouse for processing into standard data elements and transmission by the health care clearinghouse, and receiving standard data elements through the health care clearinghouse.
+
+
+(3) Timetable for complianceParagraph (1) shall not be construed to require a health plan to comply with any standard, implementation specification, or modification to a standard or specification adopted or established by the Secretary under sections 1320d–1 through 1320d–3 of this title at any time prior to the date on which the plan is required to comply with the standard or specification under subsection (b).
+
+
+
+(b) Compliance with standards(1) Initial compliance(A) In generalNot later than 24 months after the date on which an initial standard or implementation specification is adopted or established under sections 1320d–1 and 1320d–2 of this title, each person to whom the standard or implementation specification applies shall comply with the standard or specification.
+
+
+(B) Special rule for small health plansIn the case of a small health plan, paragraph (1) shall be applied by su</akn:p></akn:content><akn:subsection eId="subsec_1320d_4_a"><akn:num>(a)</akn:num><akn:heading>Conduct of transactions by plans</akn:heading><akn:content><akn:p>(a) Conduct of transactions by plans</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_4_b"><akn:num>(b)</akn:num><akn:heading>Compliance with standards</akn:heading><akn:content><akn:p>(b) Compliance with standards</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

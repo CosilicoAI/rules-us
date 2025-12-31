@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/524" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/524/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/524/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_524"><akn:num>524</akn:num><akn:heading>Duties of executive agencies</akn:heading><akn:content><akn:p>§ 524. Duties of executive agencies(a) Required.—Each executive agency shall—(1) maintain adequate inventory controls and accountability systems for property under its control;
+
+(2) continuously survey property under its control to identify excess property;
+
+(3) promptly report excess property to the Administrator of General Services;
+
+(4) perform the care and handling of excess property;
+
+(5) transfer or dispose of excess property as promptly as possible in accordance with authority delegated and regulations prescribed by the Administrator;
+
+(6) develop current and future workforce projections so as to have the capacity to assess the needs of the Federal workforce regarding the use of real property;
+
+(7) establish goals and policies that will lead the executive agency to reduce excess property and underutilized property in the inventory of the executive agency;
+
+(8) submit to the Federal Real Property Council an annual report on all excess property that is real property and underutilized property in the inventory of the executive agency, including—(A) whether underutilized property can be better utilized, including through collocation with other executive agencies or consolidation with other facilities; and
+
+(B) the extent to which the executive agency believes that retention of the underutilized property serves the needs of the executive agency;
+
+
+(9) adopt workplace practices, configurations, and management techniques that can achieve increased levels of productivity and decrease the need for real property assets;
+
+(10) assess leased space to identify space that is not fully used or occupied;
+
+(11) on an annual basis and subject to the guidance of the Federal Real Property Council—(A) conduct an inventory of real property under control of the executive agency; and
+
+(B) make an assessment of each property, which shall include—(i) the age and condition of the property;
+
+(ii) the size of the property in square footage and acreage;
+
+(iii) the geographical location of</akn:p></akn:content><akn:subsection eId="subsec_524_a"><akn:num>(a)</akn:num><akn:heading>Required.—</akn:heading><akn:content><akn:p>(a) Each executive agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_524_b"><akn:num>(b)</akn:num><akn:heading>Required as Far as Practicable.—</akn:heading><akn:content><akn:p>(b) Each executive agency, as far as practicable, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_524_c"><akn:num>(c)</akn:num><akn:heading>Definition of Executive Agency.—</akn:heading><akn:content><akn:p>(c) For the purpose of paragraphs (6) through (12) of subsection (a), the term “executive agency” shall have the meaning given the term “Federal agency” in section 621.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

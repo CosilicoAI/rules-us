@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/6103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/6103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/6103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6103"><akn:num>6103</akn:num><akn:heading>Minimum standards for State one-call notification programs</akn:heading><akn:content><akn:p>§ 6103. Minimum standards for State one-call notification programs(a) Minimum Standards.—(1) In general.—In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—(A) appropriate participation by all underground facility operators, including all government operators;
+
+(B) appropriate participation by all excavators, including all government and contract excavators; and
+
+(C) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+
+
+(2) Exemptions prohibited.—In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
+
+
+(b) Appropriate Participation.—In determining the appropriate extent of participation required for types of underground facilities or excavators under subsection (a), a State shall assess, rank, and take into consideration the risks to the public safety, the environment, excavators, and vital public services associated with—(1) damage to types of underground facilities; and
+
+(2) activities of types of excavators.
+
+
+(c) Implementation.—A State one-call notification program also shall, at a minimum, provide for and document—(1) consideration of the ranking of risks under subsection (b) in the enforcement of its provisions;
+
+(2) a reasonable relationship between the benefits of one-call notification and the cost of implementing and complying with the requirements of the State one-call notification program; and
+
+(3) voluntary participation where the State determines that a type of underground facility or an activity of a type of excavator poses a de minimis risk to public safety or the environment.
+
+
+(d) Penalties.—To the extent the State determines appropriate and necessary to achieve the purposes of this chapter, a State one-call notification program shall, </akn:p></akn:content><akn:subsection eId="subsec_6103_a"><akn:num>(a)</akn:num><akn:heading>Minimum Standards.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6103_b"><akn:num>(b)</akn:num><akn:heading>Appropriate Participation.—</akn:heading><akn:content><akn:p>(b) In determining the appropriate extent of participation required for types of underground facilities or excavators under subsection (a), a State shall assess, rank, and take into consideration the risks to the public safety, the environment, excavators, and vital public services associated with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6103_c"><akn:num>(c)</akn:num><akn:heading>Implementation.—</akn:heading><akn:content><akn:p>(c) A State one-call notification program also shall, at a minimum, provide for and document—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6103_d"><akn:num>(d)</akn:num><akn:heading>Penalties.—</akn:heading><akn:content><akn:p>(d) To the extent the State determines appropriate and necessary to achieve the purposes of this chapter, a State one-call notification program shall, at a minimum, provide for—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

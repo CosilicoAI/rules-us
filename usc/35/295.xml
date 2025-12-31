@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/35/295" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/35/295/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/35/295/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_295"><akn:num>295</akn:num><akn:heading>Presumption: Product made by patented process</akn:heading><akn:content><akn:p>§ 295. Presumption: Product made by patented process
+In actions alleging infringement of a process patent based on the importation, sale, offer for sale, or use of a product which is made from a process patented in the United States, if the court finds—(1) that a substantial likelihood exists that the product was made by the patented process, and
+
+(2) that the plaintiff has made a reasonable effort to determine the process actually used in the production of the product and was unable to so determine,
+
+
+the product shall be presumed to have been so made, and the burden of establishing that the product was not made by the process shall be on the party asserting that it was not so made.
+(Added Pub. L. 100–418, title IX, § 9005(a), Aug. 23, 1988, 102 Stat. 1566; amended Pub. L. 103–465, title V, § 533(b)(7), Dec. 8, 1994, 108 Stat. 4990.)
+
+Editorial Notes
+Amendments1994—Pub. L. 103–465 substituted “sale, offer for sale, or use” for “sale, or use” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1994 AmendmentAmendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
+
+Effective DateSection effective 6 months after Aug. 23, 1988, and, subject to enumerated exceptions, applicable only with respect to products made or imported after such effective date, see section 9006 of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 271 of this title.</akn:p></akn:content><akn:subsection eId="subsec_295_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) that a substantial likelihood exists that the product was made by the patented process, and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_295_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) that the plaintiff has made a reasonable effort to determine the process actually used in the production of the product and was unable to so determine,</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

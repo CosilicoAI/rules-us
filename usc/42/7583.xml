@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/7583" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/7583/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/7583/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7583"><akn:num>7583</akn:num><akn:heading>Standards for light-duty clean-fuel vehicles</akn:heading><akn:content><akn:p>§ 7583. Standards for light-duty clean-fuel vehicles(a) Exhaust standards for light-duty vehicles and certain light-duty trucksThe standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (gvwr) (but not including light-duty trucks of more than 3,750 lbs. loaded vehicle weight (lvw)) or light-duty vehicles:(1) Phase IBeginning with model year 1996, for the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions shall not exceed the levels specified in the following table:
+
+
+
+
+
+
+
+
+
+
+
+Phase I Clean Fuel Vehicle Emission Standards for Light-Duty Trucks of up to 3,750 Lbs. LVW and up to 6,000 Lbs. GVWR and Light-Duty Vehicles
+
+
+PollutantNMOGCONOxPMHCHO (formaldehyde)
+
+
+Standards are expressed in grams per mile (gpm).
+
+
+*Standards for particulates (PM) shall apply only to diesel-fueled vehicles.
+
+
+In the case of the 50,000 mile standards and the 100,000 mile standards, for purposes of certification, the applicable useful life shall be 50,000 miles or 100,000 miles, respectively.
+
+
+
+50,000 mile standard0.1253.40.4.......0.015
+100,000 mile standard0.1564.20.60.08*0.018
+
+
+
+
+
+(2) Phase IIBeginning with model year 2001, for air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions shall not exceed the levels specified in the following table.
+
+
+
+
+
+
+
+
+
+
+
+Phase II Clean Fuel Vehicle Emission Standards for Light-Duty Trucks of up to 3,750 Lbs. LVW and up to 6,000 Lbs. GVWR and Light-Duty Vehicles
+
+
+PollutantNMOGCONOxPM*HCHO (formaldehyde)
+
+
+Standards are expressed in grams per mile (gpm).
+
+
+*Standards for particulates (PM) shall apply only to diesel-fueled vehicles.
+
+
+In the case of the 50,000 mile standards and the 100,000 mile standards, for purposes of certification, the applicable useful life shall</akn:p></akn:content><akn:subsection eId="subsec_7583_a"><akn:num>(a)</akn:num><akn:heading>Exhaust standards for light-duty vehicles and certain light-duty trucks</akn:heading><akn:content><akn:p>(a) Exhaust standards for light-duty vehicles and certain light-duty trucks The standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of up to 6,000 lbs. gross vehicle weight rating (gvwr) (but not including light-duty trucks of more than 3,750 lbs. loaded vehicle weight (lvw)) or light-duty vehicles:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7583_b"><akn:num>(b)</akn:num><akn:heading>Exhaust standards for light-duty trucks of more than 3,750 lbs. LVW and up to 5,750 lbs. LVW and up to 6,000 lbs. GVWR</akn:heading><akn:content><akn:p>(b) Exhaust standards for light-duty trucks of more than 3,750 lbs. LVW and up to 5,750 lbs. LVW and up to 6,000 lbs. GVWR The standards set forth in this paragraph 11 So in original. Probably should be “subsection”. shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 3,750 lbs. loaded vehicle weight (lvw) but not more than 5,750 lbs. lvw and not more than 6,000 lbs. gross weight rating (GVWR):</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7583_c"><akn:num>(c)</akn:num><akn:heading>Exhaust standards for light-duty trucks greater than 6,000 lbs. GVWR</akn:heading><akn:content><akn:p>(c) Exhaust standards for light-duty trucks greater than 6,000 lbs. GVWR The standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 6,000 lbs. gross weight rating (GVWR) and less than or equal to 8,500 lbs. GVWR, beginning with model year 1998. For the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions of vehicles within the test weight categories specified in the following table shall not exceed the levels specified in such table.
+
+
+
+
+
+
+
+
+
+
+
+Clean Fuel Vehicle Emission Standards for Light Duty Trucks Greater Than 6,000 lbs. GVWR
+
+
+
+Test Weight Category: Up to 3,750 lbs. tw
+
+
+PollutantNMOGCONOxPM*HCHO (formaldehyde)
+
+
+50,000 mile standard0.1253.40.4**......0.015
+120,000 mile standard0.1805.00.6 0.080.022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test Weight Category: Above 3,750 but not above 5,750 lbs. tw
+
+
+PollutantNMOGCONOxPM*HCHO (formaldehyde)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7583_d"><akn:num>(d)</akn:num><akn:heading>Flexible and dual-fuel vehicles</akn:heading><akn:content><akn:p>(d) Flexible and dual-fuel vehicles</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7583_e"><akn:num>(e)</akn:num><akn:heading>Replacement by CARB standards</akn:heading><akn:content><akn:p>(e) Replacement by CARB standards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7583_f"><akn:num>(f)</akn:num><akn:heading>Less stringent CARB standards</akn:heading><akn:content><akn:p>(f) Less stringent CARB standards If the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board applicable to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section are modified after November 15, 1990, to provide an emissions standard which is less stringent than the otherwise applicable standard set forth in subsection (a), (b), (c), or (d), or if any effective date contained in such regulations is delayed, such modified standards or such delay (or both, as the case may be) shall apply, for an interim period, in lieu of the standard or effective date otherwise applicable under subsection (a), (b), (c), or (d) to any vehicles covered by such modified standard or delayed effective date. The interim period shall be a period of not more than 2 model years from the effective date otherwise applicable under subsection (a), (b), (c), or (d). After such interim period, the otherwise applicable standard set forth in subsection </akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7583_g"><akn:num>(g)</akn:num><akn:heading>Not applicable to heavy-duty vehicles</akn:heading><akn:content><akn:p>(g) Not applicable to heavy-duty vehicles Notwithstanding any provision of the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board nothing in this section shall apply to heavy-duty engines in vehicles of more than 8,500 lbs. GVWR.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

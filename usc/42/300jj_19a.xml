@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300jj–19a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300jj–19a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300jj–19a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300jj_19a"><akn:num>300jj–19a</akn:num><akn:heading>Electronic health record reporting program</akn:heading><akn:content><akn:p>§ 300jj–19a. Electronic health record reporting program(a) Reporting criteria(1) Convening of stakeholdersNot later than 1 year after December 13, 2016, the Secretary shall convene stakeholders, as described in paragraph (2), for the purpose of developing the reporting criteria in accordance with paragraph (3).
+
+
+(2) Development of reporting criteriaThe reporting criteria under this subsection shall be developed through a public, transparent process that reflects input from relevant stakeholders, including—(A) health care providers, including primary care and specialty care health care professionals;
+
+(B) hospitals and hospital systems;
+
+(C) health information technology developers;
+
+(D) patients, consumers, and their advocates;
+
+(E) data sharing networks, such as health information exchanges;
+
+(F) authorized certification bodies and testing laboratories;
+
+(G) security experts;
+
+(H) relevant manufacturers of medical devices;
+
+(I) experts in health information technology market economics;
+
+(J) public and private entities engaged in the evaluation of health information technology performance;
+
+(K) quality organizations, including the consensus based entity described in section 1395aaa of this title;
+
+(L) experts in human factors engineering and the measurement of user-centered design; and
+
+(M) other entities or individuals, as the Secretary determines appropriate.
+
+
+(3) Considerations for reporting criteriaThe reporting criteria developed under this subsection—(A) shall include measures that reflect categories including—(i) security;
+
+(ii) usability and user-centered design;
+
+(iii) interoperability;
+
+(iv) conformance to certification testing; and
+
+(v) other categories, as appropriate to measure the performance of electronic health record technology;
+
+
+(B) may include categories such as—(i) enabling the user to order and view the results of laboratory tests, imaging tests, and other diagnostic tests;
+
+(ii) submitting, editing, and retrieving data from registries such a</akn:p></akn:content><akn:subsection eId="subsec_300jj_19a_a"><akn:num>(a)</akn:num><akn:heading>Reporting criteria</akn:heading><akn:content><akn:p>(a) Reporting criteria</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300jj_19a_b"><akn:num>(b)</akn:num><akn:heading>Participation</akn:heading><akn:content><akn:p>(b) Participation As a condition of maintaining certification under section 300jj–11(c)(5)(D) of this title, a developer of certified electronic health records shall submit to an appropriate recipient of a grant, contract, or agreement under subsection (c)(1) responses to the criteria developed under subsection (a), with respect to all certified technology offered by such developer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300jj_19a_c"><akn:num>(c)</akn:num><akn:heading>Reporting program</akn:heading><akn:content><akn:p>(c) Reporting program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300jj_19a_d"><akn:num>(d)</akn:num><akn:heading>Publication</akn:heading><akn:content><akn:p>(d) Publication The Secretary shall distribute widely, as appropriate, and publish, on the Internet website of the Office of the National Coordinator—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300jj_19a_e"><akn:num>(e)</akn:num><akn:heading>Review</akn:heading><akn:content><akn:p>(e) Review Each recipient of a grant, contract, or agreement under paragraph (1) shall develop and implement a process through which participating electronic health record technology developers may review and recommend changes to the reports created under subsection (c)(6) for products developed by such developer prior to the publication of such report under subsection (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300jj_19a_f"><akn:num>(f)</akn:num><akn:heading>Additional resources</akn:heading><akn:content><akn:p>(f) Additional resources The Secretary may provide additional resources on the Internet website of the Office of the National Coordinator to better inform consumers of health information technology. Such reports may be carried out through partnerships with private organizations with appropriate expertise.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

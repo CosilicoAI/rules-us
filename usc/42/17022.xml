@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17022" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17022/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17022/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17022"><akn:num>17022</akn:num><akn:heading>Grants for production of advanced biofuels</akn:heading><akn:content><akn:p>§ 17022. Grants for production of advanced biofuels(a) In generalThe Secretary of Energy shall establish a grant program to encourage the production of advanced biofuels.
+
+
+(b) Requirements and priorityIn making grants under this section, the Secretary—(1) shall make awards to the proposals for advanced biofuels with the greatest reduction in lifecycle greenhouse gas emissions compared to the comparable motor vehicle fuel lifecycle emissions during calendar year 2005; and
+
+(2) shall not make an award to a project that does not achieve at least an 80 percent reduction in such lifecycle greenhouse gas emissions.
+
+
+(c) Authorization of appropriationsThere is authorized to be appropriated to carry out this section $500,000,000 for the period of fiscal years 2008 through 2015, except that the amount authorized to be appropriated to carry out this section not appropriated as of October 2, 2013, shall be reduced by $6,000,000.
+
+
+(Pub. L. 110–140, title II, § 207, Dec. 19, 2007, 121 Stat. 1531; Pub. L. 113–40, § 10(f), Oct. 2, 2013, 127 Stat. 546.)
+
+Editorial Notes
+Amendments2013—Subsec. (c). Pub. L. 113–40 inserted “, except that the amount authorized to be appropriated to carry out this section not appropriated as of October 2, 2013, shall be reduced by $6,000,000” before period at end.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.</akn:p></akn:content><akn:subsection eId="subsec_17022_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Energy shall establish a grant program to encourage the production of advanced biofuels.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17022_b"><akn:num>(b)</akn:num><akn:heading>Requirements and priority</akn:heading><akn:content><akn:p>(b) Requirements and priority In making grants under this section, the Secretary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17022_c"><akn:num>(c)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(c) Authorization of appropriations There is authorized to be appropriated to carry out this section $500,000,000 for the period of fiscal years 2008 through 2015, except that the amount authorized to be appropriated to carry out this section not appropriated as of October 2, 2013, shall be reduced by $6,000,000.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

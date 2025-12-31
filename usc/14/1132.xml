@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/1132" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/1132/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/1132/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1132"><akn:num>1132</akn:num><akn:heading>Acquisition</akn:heading><akn:content><akn:p>§ 1132. Acquisition(a) In General.—The Commandant may not establish a Level 1 or Level 2 acquisition project or program until the Commandant—(1) clearly defines the operational requirements for the project or program;
+
+(2) establishes the feasibility of alternatives;
+
+(3) develops an acquisition project or program baseline;
+
+(4) produces a life-cycle cost estimate; and
+
+(5) assesses the relative merits of alternatives to determine a preferred solution in accordance with the requirements of this section.
+
+
+(b) Submission Required Before Proceeding.—Any Coast Guard Level 1 or Level 2 acquisition project or program may not begin to obtain any capability or asset or proceed beyond that phase of its development that entails approving the supporting acquisition until the Commandant submits to the appropriate congressional committees the following:(1) The key performance parameters, the key system attributes, and the operational performance attributes of the capability or asset to be acquired under the proposed acquisition project or program.
+
+(2) A detailed list of the systems or other capabilities with which the capability or asset to be acquired is intended to be interoperable, including an explanation of the attributes of interoperability.
+
+(3) The anticipated acquisition project or program baseline and acquisition unit cost for the capability or asset to be acquired under the project or program.
+
+(4) A detailed schedule for the acquisition process showing when all capability and asset acquisitions are to be completed and when all acquired capabilities and assets are to be initially and fully deployed.
+
+
+(c) Analysis of Alternatives.—(1) In general.—The Coast Guard may not acquire an experimental or technically immature capability or asset or implement a Level 1 or Level 2 acquisition project or program, unless it has prepared an analysis of alternatives for the capability or asset to be acquired in the concept and technology development phase of the acquisition proces</akn:p></akn:content><akn:subsection eId="subsec_1132_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Commandant may not establish a Level 1 or Level 2 acquisition project or program until the Commandant—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1132_b"><akn:num>(b)</akn:num><akn:heading>Submission Required Before Proceeding.—</akn:heading><akn:content><akn:p>(b) Any Coast Guard Level 1 or Level 2 acquisition project or program may not begin to obtain any capability or asset or proceed beyond that phase of its development that entails approving the supporting acquisition until the Commandant submits to the appropriate congressional committees the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1132_c"><akn:num>(c)</akn:num><akn:heading>Analysis of Alternatives.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1132_d"><akn:num>(d)</akn:num><akn:heading>Test and Evaluation Master Plan.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1132_e"><akn:num>(e)</akn:num><akn:heading>Life-Cycle Cost Estimates.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

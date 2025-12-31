@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/7382d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/7382d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/7382d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7382d"><akn:num>7382d</akn:num><akn:heading>Fellowship awards</akn:heading><akn:content><akn:p>§ 7382d. Fellowship awards(a) Fellowship recipient compensationEach recipient of a fellowship under this subchapter shall be paid during the fellowship period at a rate of pay that shall not exceed the minimum annual rate payable for a position under GS–13 of the General Schedule.
+
+
+(b) Local educational agencyThe Secretary shall seek to ensure that no local educational agency penalizes a teacher who elects to participate in the Program.
+
+
+(Pub. L. 103–382, title V, § 516, Oct. 20, 1994, 108 Stat. 4044.)
+
+Editorial Notes
+
+References in TextThe General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5, Government Organization and Employees.</akn:p></akn:content><akn:subsection eId="subsec_7382d_a"><akn:num>(a)</akn:num><akn:heading>Fellowship recipient compensation</akn:heading><akn:content><akn:p>(a) Fellowship recipient compensation Each recipient of a fellowship under this subchapter shall be paid during the fellowship period at a rate of pay that shall not exceed the minimum annual rate payable for a position under GS–13 of the General Schedule.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7382d_b"><akn:num>(b)</akn:num><akn:heading>Local educational agency</akn:heading><akn:content><akn:p>(b) Local educational agency The Secretary shall seek to ensure that no local educational agency penalizes a teacher who elects to participate in the Program.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

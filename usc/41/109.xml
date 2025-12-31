@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/109" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/109/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/109/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_109"><akn:num>109</akn:num><akn:heading>Major system</akn:heading><akn:content><akn:p>§ 109. Major system(a) In General.—In this subtitle, the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. These elements may include hardware, equipment, software, or a combination of hardware, equipment, and software, but do not include construction or other improvements to real property.
+
+(b) System Deemed To Be Major System.—A system is deemed to be a major system if—(1) the Department of Defense is responsible for the system and the total expenditures for research, development, testing, and evaluation for the system are estimated to exceed $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement exceeds $300,000,000 (based on fiscal year 1980 constant dollars);
+
+(2) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed the greater of $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a major system established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”; or
+
+(3) the head of the agency responsible for the system designates the system a major system.
+
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3680.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10941:259(c)(7).June 30, 1949, ch. 288, title III, § 309(c)(7), as added Pub. L. 98–369, title VII, § 2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, § 504(a)(4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1551, Oct. 13, 1994, 108 Stat. 3299.
+ 41:403(9).Pub. L. 93–400, § 4(9), formerly § 4(10), as added Pub. L. 98–577, title I, § 102(3), Oct. 30, 1984, 98 Stat. 3067; redesignated as § 4(9), Pub. L. 100–679, § 3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 103–355, title VIII, § 8001(b)(1)–(3), Oct. 13, 1994, 108 Stat. 3386.</akn:p></akn:content><akn:subsection eId="subsec_109_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In this subtitle, the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. These elements may include hardware, equipment, software, or a combination of hardware, equipment, and software, but do not include construction or other improvements to real property.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_109_b"><akn:num>(b)</akn:num><akn:heading>System Deemed To Be Major System.—</akn:heading><akn:content><akn:p>(b) A system is deemed to be a major system if—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

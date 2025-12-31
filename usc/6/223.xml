@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/223" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/223/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/223/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_223"><akn:num>223</akn:num><akn:heading>Border security metrics</akn:heading><akn:content><akn:p>§ 223. Border security metrics(a) DefinitionsIn this section:(1) Appropriate congressional committeesThe term “appropriate congressional committees” means—(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(B) the Committee on Homeland Security of the House of Representatives.
+
+
+(2) Consequence Delivery SystemThe term “Consequence Delivery System” means the series of consequences applied by U.S. Border Patrol in collaboration with other Federal agencies to persons unlawfully entering the United States, in order to prevent unlawful border crossing recidivism.
+
+
+(3) Got awayThe term “got away” means an unlawful border crosser who—(A) is directly or indirectly observed making an unlawful entry into the United States;
+
+(B) is not apprehended; and
+
+(C) is not a turn back.
+
+
+(4) Known maritime migrant flowThe term “known maritime migrant flow” means the sum of the number of undocumented migrants—(A) interdicted in the waters over which the United States has jurisdiction;
+
+(B) identified at sea either directly or indirectly, but not interdicted;
+
+(C) if not described in subparagraph (A) or (B), who were otherwise reported, with a significant degree of certainty, as having entered, or attempted to enter, the United States through the maritime border.
+
+
+(5) Major violatorThe term “major violator” means a person or entity that has engaged in serious criminal activities at any land, air, or sea port of entry, including the following:(A) Possession of illicit drugs.
+
+(B) Smuggling of prohibited products.
+
+(C) Human smuggling.
+
+(D) Possession of illegal weapons.
+
+(E) Use of fraudulent documents.
+
+(F) Any other offense that is serious enough to result in an arrest.
+
+
+(6) SecretaryThe term “the Secretary” means the Secretary of Homeland Security.
+
+
+(7) Situational awarenessThe term “situational awareness” means knowledge and understanding of current unlawful cross-border activity, including the following:(A) Threats and trends concerning illicit tr</akn:p></akn:content><akn:subsection eId="subsec_223_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_b"><akn:num>(b)</akn:num><akn:heading>Metrics for securing the border between ports of entry</akn:heading><akn:content><akn:p>(b) Metrics for securing the border between ports of entry</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_c"><akn:num>(c)</akn:num><akn:heading>Metrics for securing the border at ports of entry</akn:heading><akn:content><akn:p>(c) Metrics for securing the border at ports of entry</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_d"><akn:num>(d)</akn:num><akn:heading>Metrics for securing the maritime border</akn:heading><akn:content><akn:p>(d) Metrics for securing the maritime border</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_e"><akn:num>(e)</akn:num><akn:heading>Air and Marine security metrics in the land domain</akn:heading><akn:content><akn:p>(e) Air and Marine security metrics in the land domain</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_f"><akn:num>(f)</akn:num><akn:heading>Data transparency</akn:heading><akn:content><akn:p>(f) Data transparency The Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_g"><akn:num>(g)</akn:num><akn:heading>Evaluation by the Government Accountability Office and the Secretary</akn:heading><akn:content><akn:p>(g) Evaluation by the Government Accountability Office and the Secretary</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/396" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/396/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/396/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_396"><akn:num>396</akn:num><akn:heading>Recovery of penalties and forfeitures generally</akn:heading><akn:content><akn:p>§ 396. Recovery of penalties and forfeitures generally
+All the penalties and forfeitures which may be incurred for offenses against title 48 of the Revised Statutes may be sued for, prosecuted, and recovered in such court, and be disposed of in such manner, as any penalties and forfeitures which may be incurred for offenses against the laws relating to the collection of duties, except when otherwise expressly prescribed.
+(R.S. § 4305.)
+
+Editorial Notes
+
+References in TextTitle 48 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 48 of the Revised Statutes, consisting of R.S. §§ 4131 to 4305. For complete classification of R.S. §§ 4131 to 4305 to the Code, see Tables.
+
+Codification
+R.S. § 4305 derived from act Dec. 31, 1792, ch. 1, § 29, 1 Stat. 298.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

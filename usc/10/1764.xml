@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1764" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1764/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1764/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1764"><akn:num>1764</akn:num><akn:heading>Authority to establish different minimum requirements</akn:heading><akn:content><akn:p>§ 1764. Authority to establish different minimum requirements(a) Authority.—(1) The Secretary of Defense may prescribe a different minimum number of years of experience, different minimum education qualifications, and different tenure of service qualifications to be required for eligibility for appointment or advancement to an acquisition position referred to in subsection (b) than is required for such position under or pursuant to any provision of this chapter.
+
+(2) Any requirement prescribed under paragraph (1) for a position referred to in any paragraph of subsection (b) shall be applied uniformly to all positions referred to in such paragraph.
+
+
+(b) Applicability.—This section applies to the following acquisition positions in the Department of Defense:(1) Contracting officer, except a position referred to in paragraph (6).
+
+(2) Program executive officer.
+
+(3) Senior contracting official.
+
+(4) Program manager.
+
+(5) Deputy program manager.
+
+(6) A position in the contract contingency force of an armed force that is filled by a member of that armed force.
+
+
+(c) Definition.—In this section, the term “contract contingency force”, with respect to an armed force, has the meaning given such term in regulations prescribed by the Secretary concerned.
+
+(Added Pub. L. 108–136, div. A, title VIII, § 835(2), Nov. 24, 2003, 117 Stat. 1551; amended Pub. L. 108–375, div. A, title VIII, § 812(c), Oct. 28, 2004, 118 Stat. 2013.)
+
+Editorial Notes
+Prior ProvisionsA prior section 1764, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1656, related to authority to establish different minimum experience requirements, prior to repeal by Pub. L. 107–107, div. A, title X, § 1048(e)(7)(A), Dec. 28, 2001, 115 Stat. 1227.
+
+Amendments2004—Subsec. (b)(1). Pub. L. 108–375, § 812(c)(2), substituted “in paragraph (6)” for “in paragraph (5)”.
+Subsec. (b)(5), (6). Pub. L. 108–375, § 812(c)(1), added par. (5) and redesignated former par. (5) as (6).</akn:p></akn:content><akn:subsection eId="subsec_1764_a"><akn:num>(a)</akn:num><akn:heading>Authority.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1764_b"><akn:num>(b)</akn:num><akn:heading>Applicability.—</akn:heading><akn:content><akn:p>(b) This section applies to the following acquisition positions in the Department of Defense:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1764_c"><akn:num>(c)</akn:num><akn:heading>Definition.—</akn:heading><akn:content><akn:p>(c) In this section, the term “contract contingency force”, with respect to an armed force, has the meaning given such term in regulations prescribed by the Secretary concerned.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

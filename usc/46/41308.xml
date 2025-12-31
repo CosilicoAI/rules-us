@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/41308" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/41308/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/41308/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41308"><akn:num>41308</akn:num><akn:heading>Enforcement of subpoenas and orders</akn:heading><akn:content><akn:p>§ 41308. Enforcement of subpoenas and orders(a) Civil Action.—If a person does not comply with a subpoena or order of the Federal Maritime Commission, the Attorney General, at the request of the Commission, or an injured party, may seek enforcement in a district court of the United States having jurisdiction over the parties. If, after hearing, the court determines that the subpoena or order was regularly made and duly issued, the court shall enforce the subpoena or order.
+
+(b) Time Limit on Bringing Actions.—An action under this section to enforce an order of the Commission must be brought within 3 years after the date the order was violated.
+
+(Pub. L. 109–304, § 7, Oct. 6, 2006, 120 Stat. 1548.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+41308(a)46 App.:1713(c).Pub. L. 98–237, § 14(c), (e), Mar. 20, 1984, 98 Stat. 83, 84.
+41308(b)46 App.:1713(e).
+
+
+In subsection (a), the words “subpoena or” are added in the second sentence for consistency in the subsection. The words “by an appropriate injunction or other process, mandatory or otherwise” are omitted as unnecessary. The words “regularly made and duly issued” are substituted for “properly made and duly issued” for consistency in the subtitle.</akn:p></akn:content><akn:subsection eId="subsec_41308_a"><akn:num>(a)</akn:num><akn:heading>Civil Action.—</akn:heading><akn:content><akn:p>(a) If a person does not comply with a subpoena or order of the Federal Maritime Commission, the Attorney General, at the request of the Commission, or an injured party, may seek enforcement in a district court of the United States having jurisdiction over the parties. If, after hearing, the court determines that the subpoena or order was regularly made and duly issued, the court shall enforce the subpoena or order.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41308_b"><akn:num>(b)</akn:num><akn:heading>Time Limit on Bringing Actions.—</akn:heading><akn:content><akn:p>(b) An action under this section to enforce an order of the Commission must be brought within 3 years after the date the order was violated.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

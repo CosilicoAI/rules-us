@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/3707" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/3707/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/3707/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3707"><akn:num>3707</akn:num><akn:heading>Adjustable rate mortgages</akn:heading><akn:content><akn:p>§ 3707. Adjustable rate mortgages(a) The Secretary shall carry out a project under this section for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act.
+
+(b) Interest rate adjustment provisions of a mortgage guaranteed under this section shall—(1) correspond to a specified national interest rate index approved by the Secretary, information on which is readily accessible to mortgagors from generally available published sources;
+
+(2) be made by adjusting the monthly payment on an annual basis;
+
+(3) be limited, with respect to any single annual interest rate adjustment, to a maximum increase or decrease of 1 percentage point; and
+
+(4) be limited, over the term of the mortgage, to a maximum increase of 5 percentage points above the initial contract interest rate.
+
+
+(c) The Secretary shall promulgate underwriting standards for loans guaranteed under this section, taking into account—(1) the status of the interest rate index referred to in subsection (b)(1) and available at the time an underwriting decision is made, regardless of the actual initial rate offered by the lender;
+
+(2) the maximum and likely amounts of increases in mortgage payments that the loans would require;
+
+(3) the underwriting standards applicable to adjustable rate mortgages insured under title II of the National Housing Act; and
+
+(4) such other factors as the Secretary finds appropriate.
+
+
+(d) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
+
+(Added Pub. L. 102–547, § 3(a)(1), Oct. 28, 1992, 106 Stat. 3634; amended Pub. L. 103–78, § 7, Aug. 13, 1993,</akn:p></akn:content><akn:subsection eId="subsec_3707_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall carry out a project under this section for the purpose of guaranteeing loans in a manner similar to the manner in which the Secretary of Housing and Urban Development insures adjustable rate mortgages under section 251 of the National Housing Act.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3707_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Interest rate adjustment provisions of a mortgage guaranteed under this section shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3707_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary shall promulgate underwriting standards for loans guaranteed under this section, taking into account—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3707_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

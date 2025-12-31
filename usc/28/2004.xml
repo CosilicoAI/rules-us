@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/2004" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/2004/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/2004/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2004"><akn:num>2004</akn:num><akn:heading>Sale of personalty generally</akn:heading><akn:content><akn:p>§ 2004. Sale of personalty generally
+Any personalty sold under any order or decree of any court of the United States shall be sold in accordance with section 2001 of this title, unless the court orders otherwise.
+This section shall not apply to sales and proceedings under Title 11 or by receivers or conservators of banks appointed by the Comptroller of the Currency.
+(June 25, 1948, ch. 646, 62 Stat. 959.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 848 (Mar. 3, 1893, ch. 225, § 2, 27 Stat. 751; Apr. 24, 1935, ch. 77, § 2, 49 Stat. 160; June 19, 1935, ch. 276, 49 Stat. 390).
+A provision making the section applicable to pending proceedings was deleted as obsolete.
+Changes were made in phraseology.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

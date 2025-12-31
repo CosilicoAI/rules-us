@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/7317" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/7317/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/7317/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7317"><akn:num>7317</akn:num><akn:heading>Tankermen</akn:heading><akn:content><akn:p>§ 7317. Tankermen(a) The Secretary shall prescribe procedures, standards, and qualifications for the issuance of certificates or endorsements as tankerman, stating the types of oil or hazardous material that can be handled with safety to the vessel and the marine environment.
+
+(b) An endorsement as tankerman shall indicate the grades or types of cargo the holder is qualified and authorized to handle with safety on board vessels.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 545.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+7317(a)46:391a(10)(C)
+
+
+Section 7317(a) establishes the minimum standards an individual must meet in order to qualify for an endorsement as tankerman for various types of oil or hazardous substances.
+Subsection (b) specifies that the tankerman’s endorsement must specify the grades or types of cargo the holder is qualified and allowed to handle.</akn:p></akn:content><akn:subsection eId="subsec_7317_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall prescribe procedures, standards, and qualifications for the issuance of certificates or endorsements as tankerman, stating the types of oil or hazardous material that can be handled with safety to the vessel and the marine environment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7317_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) An endorsement as tankerman shall indicate the grades or types of cargo the holder is qualified and authorized to handle with safety on board vessels.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

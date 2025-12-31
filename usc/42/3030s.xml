@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/3030s" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/3030s/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/3030s/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3030s"><akn:num>3030s</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3030s. Definitions(a) In generalIn this part:(1) Caregiver assessmentThe term “caregiver assessment” means a defined process of gathering information to identify the specific needs, barriers to carrying out caregiving responsibilities, and existing supports of a family caregiver or older relative caregiver, as identified by the caregiver involved, to appropriately target recommendations for support services described in section 3030s–1(b) of this title. Such assessment shall be administered through direct contact with the caregiver, which may include contact through a home visit, the Internet, telephone or teleconference, or in-person interaction.
+
+
+(2) ChildThe term “child” means an individual who is not more than 18 years of age.
+
+
+(3) Individual with a disabilityThe term “individual with a disability” means an individual with a disability, as defined in section 12102 of this title, who is not less than age 18 and not more than age 59.
+
+
+(4) Older relative caregiverThe term “older relative caregiver” means a caregiver who—(A)(i) is age 55 or older; and
+
+(ii) lives with, is the informal provider of in-home and community care to, and is the primary caregiver for, a child or an individual with a disability;
+
+
+(B) in the case of a caregiver for a child—(i) is the grandparent, stepgrandparent, or other relative (other than the parent) by blood, marriage, or adoption, of the child;
+
+(ii) is the primary caregiver of the child because the biological or adoptive parents are unable or unwilling to serve as the primary caregivers of the child; and
+
+(iii) has a legal relationship to the child, such as legal custody, adoption, or guardianship, or is raising the child informally; and
+
+
+(C) in the case of a caregiver for an individual with a disability, is the parent, grandparent, or other relative by blood, marriage, or adoption, of the individual with a disability.
+
+
+
+(b) RuleIn providing services under this part, for family caregivers who provide care for individuals with A</akn:p></akn:content><akn:subsection eId="subsec_3030s_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In this part:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3030s_b"><akn:num>(b)</akn:num><akn:heading>Rule</akn:heading><akn:content><akn:p>(b) Rule In providing services under this part, for family caregivers who provide care for individuals with Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

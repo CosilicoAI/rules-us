@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/741" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/741/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/741/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_741"><akn:num>741</akn:num><akn:heading>Definitions for this subchapter</akn:heading><akn:content><akn:p>§ 741. Definitions for this subchapter
+In this subchapter—(1) “Commission” means Securities and Exchange Commission;
+
+(2) “customer” includes—(A) entity with whom a person deals as principal or agent and that has a claim against such person on account of a security received, acquired, or held by such person in the ordinary course of such person’s business as a stockbroker, from or for the securities account or accounts of such entity—(i) for safekeeping;
+
+(ii) with a view to sale;
+
+(iii) to cover a consummated sale;
+
+(iv) pursuant to a purchase;
+
+(v) as collateral under a security agreement; or
+
+(vi) for the purpose of effecting registration of transfer; and
+
+
+(B) entity that has a claim against a person arising out of—(i) a sale or conversion of a security received, acquired, or held as specified in subparagraph (A) of this paragraph; or
+
+(ii) a deposit of cash, a security, or other property with such person for the purpose of purchasing or selling a security;
+
+
+
+(3) “customer name security” means security—(A) held for the account of a customer on the date of the filing of the petition by or on behalf of the debtor;
+
+(B) registered in such customer’s name on such date or in the process of being so registered under instructions from the debtor; and
+
+(C) not in a form transferable by delivery on such date;
+
+
+(4) “customer property” means cash, security, or other property, and proceeds of such cash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the securities account of a customer—(A) including—(i) property that was unlawfully converted from and that is the lawful property of the estate;
+
+(ii) a security held as property of the debtor to the extent such security is necessary to meet a net equity claim of a customer based on a security of the same class and series of an issuer;
+
+(iii) resources provided through the use or realization of a customer’s debit cash balance or a debit item includible in the Formula for De</akn:p></akn:content><akn:subsection eId="subsec_741_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “Commission” means Securities and Exchange Commission;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “customer” includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “customer name security” means security—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “customer property” means cash, security, or other property, and proceeds of such cash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the securities account of a customer—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) “margin payment” means payment or deposit of cash, a security, or other property, that is commonly known to the securities trade as original margin, initial margin, maintenance margin, or variation margin, or as a mark-to-market payment, or that secures an obligation of a participant in a securities clearing agency;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) “net equity” means, with respect to all accounts of a customer that such customer has in the same capacity—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) “securities contract”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) “settlement payment” means a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, or any other similar payment commonly used in the securities trade; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) “SIPC” means Securities Investor Protection Corporation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

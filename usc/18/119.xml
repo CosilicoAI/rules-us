@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/119" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/119/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/119/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_119"><akn:num>119</akn:num><akn:heading>Protection of individuals performing certain official duties</akn:heading><akn:content><akn:p>§ 119. Protection of individuals performing certain official duties(a) In General.—Whoever knowingly makes restricted personal information about a covered person, or a member of the immediate family of that covered person, publicly available—(1) with the intent to threaten, intimidate, or incite the commission of a crime of violence against that covered person, or a member of the immediate family of that covered person; or
+
+(2) with the intent and knowledge that the restricted personal information will be used to threaten, intimidate, or facilitate the commission of a crime of violence against that covered person, or a member of the immediate family of that covered person,
+
+
+shall be fined under this title, imprisoned not more than 5 years, or both.
+
+(b) Definitions.—In this section—(1) the term “restricted personal information” means, with respect to an individual, the Social Security number, the home address, home phone number, mobile phone number, personal email, or home fax number of, and identifiable to, that individual;
+
+(2) the term “covered person” means—(A) an individual designated in section 1114;
+
+(B) a grand or petit juror, witness, or other officer in or of, any court of the United States, or an officer who may be, or was, serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate;
+
+(C) an informant or witness in a Federal criminal investigation or prosecution; or
+
+(D) a State or local officer or employee whose restricted personal information is made publicly available because of the participation in, or assistance provided to, a Federal criminal investigation by that officer or employee;
+
+
+(3) the term “crime of violence” has the meaning given the term in section 16; and
+
+(4) the term “immediate family” has the meaning given the term in section 115(c)(2).
+
+
+(Added Pub. L. 110–177, title II, § 202(a), Jan. 7, 2008, 121 Stat. 2536.)</akn:p></akn:content><akn:subsection eId="subsec_119_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Whoever knowingly makes restricted personal information about a covered person, or a member of the immediate family of that covered person, publicly available— shall be fined under this title, imprisoned not more than 5 years, or both.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_119_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

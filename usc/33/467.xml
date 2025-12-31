@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/467" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/467/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/467/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_467"><akn:num>467</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 467. Definitions
+In this subchapter, the following definitions apply:(1) AdministratorThe term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+
+(2) BoardThe term “Board” means a National Dam Safety Review Board established under section 467f(f) of this title.
+
+
+(3) DamThe term “dam”—(A) means any artificial barrier that has the ability to impound water, wastewater, or any liquid-borne material, for the purpose of storage or control of water, that—(i) is 25 feet or more in height from—(I) the natural bed of the stream channel or watercourse measured at the downstream toe of the barrier; or
+
+(II) if the barrier is not across a stream channel or watercourse, from the lowest elevation of the outside limit of the barrier;
+
+
+
+ to the maximum water storage elevation; or
+(ii) has an impounding capacity for maximum storage elevation of 50 acre-feet or more; but
+
+
+(B) does not include—(i) a levee; or
+
+(ii) a barrier described in subparagraph (A) that—(I) is 6 feet or less in height regardless of storage capacity; or
+
+(II) has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;
+
+
+
+ unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Administrator).
+
+
+(4) Eligible high hazard potential dam(A) In generalThe term “eligible high hazard potential dam” means a non-Federal dam that—(i) is located in a State with a State dam safety program;
+
+(ii) is classified as “high hazard potential” by the State dam safety agency in the State in which the dam is located;
+
+(iii) has an emergency action plan that—(I) is approved by the relevant State dam safety agency; or
+
+(II) is in conformance with State law and pending approval by the relevant State dam safety agency;
+
+
+(iv) fails to meet minimum dam safety standards of the State in which </akn:p></akn:content><akn:subsection eId="subsec_467_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the Federal Emergency Management Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_2"><akn:num>(2)</akn:num><akn:heading>Board</akn:heading><akn:content><akn:p>(2) Board The term “Board” means a National Dam Safety Review Board established under section 467f(f) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_3"><akn:num>(3)</akn:num><akn:heading>Dam</akn:heading><akn:content><akn:p>(3) Dam The term “dam”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_4"><akn:num>(4)</akn:num><akn:heading>Eligible high hazard potential dam</akn:heading><akn:content><akn:p>(4) Eligible high hazard potential dam</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_5"><akn:num>(5)</akn:num><akn:heading>Federal agency</akn:heading><akn:content><akn:p>(5) Federal agency The term “Federal agency” means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_6"><akn:num>(6)</akn:num><akn:heading>Federal Guidelines for Dam Safety</akn:heading><akn:content><akn:p>(6) Federal Guidelines for Dam Safety The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_7"><akn:num>(7)</akn:num><akn:heading>FEMA</akn:heading><akn:content><akn:p>(7) FEMA The term “FEMA” means the Federal Emergency Management Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_8"><akn:num>(8)</akn:num><akn:heading>Hazard reduction</akn:heading><akn:content><akn:p>(8) Hazard reduction The term “hazard reduction” means the reduction in the potential consequences to life and property of dam failure.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_9"><akn:num>(9)</akn:num><akn:heading>ICODS</akn:heading><akn:content><akn:p>(9) ICODS The term “ICODS” means the Interagency Committee on Dam Safety established by section 467e of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_10"><akn:num>(10)</akn:num><akn:heading>Eligible subrecipient</akn:heading><akn:content><akn:p>(10) Eligible subrecipient The term “eligible subrecipient”, in the case of a project receiving assistance under section 467f–2 of this title, includes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

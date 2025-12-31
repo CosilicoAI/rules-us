@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/20943" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/20943/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/20943/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20943"><akn:num>20943</akn:num><akn:heading>Membership of Standards Board</akn:heading><akn:content><akn:p>§ 20943. Membership of Standards Board(a) Composition(1) In generalSubject to certification by the chair of the Federal Election Commission under subsection (b), the Standards Board shall be composed of 110 members as follows:(A) Fifty-five shall be State election officials selected by the chief State election official of each State.
+
+(B) Fifty-five shall be local election officials selected in accordance with paragraph (2).
+
+
+(2) List of local election officialsEach State’s local election officials, including the local election officials of Puerto Rico and the United States Virgin Islands, shall select (under a process supervised by the chief election official of the State) a representative local election official from the State for purposes of paragraph (1)(B). In the case of the District of Columbia, Guam, and American Samoa, the chief election official shall establish a procedure for selecting an individual to serve as a local election official for purposes of such paragraph, except that under such a procedure the individual selected may not be a member of the same political party as the chief election official.
+
+
+(3) Requiring mix of political parties representedThe two members of the Standards Board who represent the same State may not be members of the same political party.
+
+
+
+(b) Procedures for notice and certification of appointment(1) Notice to chair of Federal Election CommissionNot later than 90 days after October 29, 2002, the chief State election official of the State shall transmit a notice to the chair of the Federal Election Commission containing—(A) the name of the State election official who agrees to serve on the Standards Board under this subchapter; and
+
+(B) the name of the representative local election official from the State selected under subsection (a)(2) who agrees to serve on the Standards Board under this subchapter.
+
+
+(2) CertificationUpon receiving a notice from a State under paragraph (1), the chair of the Federal Election Commission </akn:p></akn:content><akn:subsection eId="subsec_20943_a"><akn:num>(a)</akn:num><akn:heading>Composition</akn:heading><akn:content><akn:p>(a) Composition</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20943_b"><akn:num>(b)</akn:num><akn:heading>Procedures for notice and certification of appointment</akn:heading><akn:content><akn:p>(b) Procedures for notice and certification of appointment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20943_c"><akn:num>(c)</akn:num><akn:heading>Executive Board</akn:heading><akn:content><akn:p>(c) Executive Board</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

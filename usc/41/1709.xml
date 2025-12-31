@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/1709" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/1709/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/1709/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1709"><akn:num>1709</akn:num><akn:heading>Contracting functions performed by Federal personnel</akn:heading><akn:content><akn:p>§ 1709. Contracting functions performed by Federal personnel(a) Covered Personnel.—Personnel referred to in subsection (b) are—(1) an employee, as defined in section 2105 of title 5;
+
+(2) a member of the armed forces; and
+
+(3) an individual assigned to a Federal agency pursuant to subchapter VI of chapter 33 of title 5.
+
+
+(b) Limitation on Payment for Advisory and Assistance Services.—No individual who is not an individual described in subsection (a) may be paid by an executive agency for services to conduct evaluations or analyses of any aspect of a proposal submitted for an acquisition unless personnel described in subsection (a) with adequate training and capabilities to perform the evaluations and analyses are not readily available in the agency or another Federal agency. When administering this subsection, the head of each executive agency shall determine in accordance with standards and procedures prescribed in the Federal Acquisition Regulation whether—(1) a sufficient number of personnel described in subsection (a) in the agency or another Federal agency are readily available to perform a particular evaluation or analysis for the head of the executive agency making the determination; and
+
+(2) the readily available personnel have the training and capabilities necessary to perform the evaluation or analysis.
+
+
+(c) Certain Relationship Not Affected.—This section does not affect the relationship between the Federal Government and a Federally funded research and development center.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3714.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1709(a)41:419(b).Pub. L. 93–400, § 23, as added Pub. L. 103–355, title VI, § 6002(a), Oct. 13, 1994, 108 Stat. 3363.
+1709(b)41:419(a).
+1709(c)41:419(c).
+
+
+In subsection (a), before paragraph (1), the words “Personnel referred to in subsection (b) are” are substituted for “For purposes of subsection (a) of this section, the person</akn:p></akn:content><akn:subsection eId="subsec_1709_a"><akn:num>(a)</akn:num><akn:heading>Covered Personnel.—</akn:heading><akn:content><akn:p>(a) Personnel referred to in subsection (b) are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1709_b"><akn:num>(b)</akn:num><akn:heading>Limitation on Payment for Advisory and Assistance Services.—</akn:heading><akn:content><akn:p>(b) No individual who is not an individual described in subsection (a) may be paid by an executive agency for services to conduct evaluations or analyses of any aspect of a proposal submitted for an acquisition unless personnel described in subsection (a) with adequate training and capabilities to perform the evaluations and analyses are not readily available in the agency or another Federal agency. When administering this subsection, the head of each executive agency shall determine in accordance with standards and procedures prescribed in the Federal Acquisition Regulation whether—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1709_c"><akn:num>(c)</akn:num><akn:heading>Certain Relationship Not Affected.—</akn:heading><akn:content><akn:p>(c) This section does not affect the relationship between the Federal Government and a Federally funded research and development center.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

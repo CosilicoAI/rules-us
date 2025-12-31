@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6341" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6341/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6341/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6341"><akn:num>6341</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6341. Definitions
+In this part:(1) AdministratorThe term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+
+(2) Combined heat and powerThe term “combined heat and power system” means a facility that—(A) simultaneously and efficiently produces useful thermal energy and electricity; and
+
+(B) recovers not less than 60 percent of the energy value in the fuel (on a higher-heating-value basis) in the form of useful thermal energy and electricity.
+
+
+(3) Net excess powerThe term “net excess power” means, for any facility, recoverable waste energy recovered in the form of electricity in quantities exceeding the total consumption of electricity at the specific time of generation on the site at which the facility is located.
+
+
+(4) ProjectThe term “project” means a recoverable waste energy project or a combined heat and power system project.
+
+
+(5) Recoverable waste energyThe term “recoverable waste energy” means waste energy from which electricity or useful thermal energy may be recovered through modification of an existing facility or addition of a new facility.
+
+
+(6) RegistryThe term “Registry” means the Registry of Recoverable Waste Energy Sources established under section 6342(d) of this title.
+
+
+(7) Useful thermal energyThe term “useful thermal energy” means energy—(A) in the form of direct heat, steam, hot water, or other thermal form that is used in production and beneficial measures for heating, cooling, humidity control, process use, or other valid thermal end-use energy requirements; and
+
+(B) for which fuel or electricity would otherwise be consumed.
+
+
+(8) Waste energyThe term “waste energy” means—(A) exhaust heat or flared gas from any industrial process;
+
+(B) waste gas or industrial tail gas that would otherwise be flared, incinerated, or vented;
+
+(C) a pressure drop in any gas, excluding any pressure drop to a condenser that subsequently vents the resulting heat; and
+
+(D) such other forms of waste energy as the Administrator may det</akn:p></akn:content><akn:subsection eId="subsec_6341_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the Environmental Protection Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_2"><akn:num>(2)</akn:num><akn:heading>Combined heat and power</akn:heading><akn:content><akn:p>(2) Combined heat and power The term “combined heat and power system” means a facility that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_3"><akn:num>(3)</akn:num><akn:heading>Net excess power</akn:heading><akn:content><akn:p>(3) Net excess power The term “net excess power” means, for any facility, recoverable waste energy recovered in the form of electricity in quantities exceeding the total consumption of electricity at the specific time of generation on the site at which the facility is located.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_4"><akn:num>(4)</akn:num><akn:heading>Project</akn:heading><akn:content><akn:p>(4) Project The term “project” means a recoverable waste energy project or a combined heat and power system project.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_5"><akn:num>(5)</akn:num><akn:heading>Recoverable waste energy</akn:heading><akn:content><akn:p>(5) Recoverable waste energy The term “recoverable waste energy” means waste energy from which electricity or useful thermal energy may be recovered through modification of an existing facility or addition of a new facility.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_6"><akn:num>(6)</akn:num><akn:heading>Registry</akn:heading><akn:content><akn:p>(6) Registry The term “Registry” means the Registry of Recoverable Waste Energy Sources established under section 6342(d) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_7"><akn:num>(7)</akn:num><akn:heading>Useful thermal energy</akn:heading><akn:content><akn:p>(7) Useful thermal energy The term “useful thermal energy” means energy—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_8"><akn:num>(8)</akn:num><akn:heading>Waste energy</akn:heading><akn:content><akn:p>(8) Waste energy The term “waste energy” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6341_9"><akn:num>(9)</akn:num><akn:heading>Other terms</akn:heading><akn:content><akn:p>(9) Other terms The terms “electric utility”, “nonregulated electric utility”, “State regulated electric utility”, and other terms have the meanings given those terms in title I of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2611 et seq.).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

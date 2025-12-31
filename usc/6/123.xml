@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/123" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/123/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/123/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_123"><akn:num>123</akn:num><akn:heading>Terrorist travel program</akn:heading><akn:content><akn:p>§ 123. Terrorist travel program(a) Requirement to establishNot later than 90 days after August 3, 2007, the Secretary of Homeland Security, in consultation with the Director of the National Counterterrorism Center and consistent with the strategy developed under section 7201,11 See References in Text note below. shall establish a program to oversee the implementation of the Secretary’s responsibilities with respect to terrorist travel.
+
+
+(b) Head of the programThe Secretary of Homeland Security shall designate an official of the Department of Homeland Security to be responsible for carrying out the program. Such official shall be—(1) the Assistant Secretary for Policy of the Department of Homeland Security; or
+
+(2) an official appointed by the Secretary who reports directly to the Secretary.
+
+
+(c) DutiesThe official designated under subsection (b) shall assist the Secretary of Homeland Security in improving the Department’s ability to prevent terrorists from entering the United States or remaining in the United States undetected by—(1) developing relevant strategies and policies;
+
+(2) reviewing the effectiveness of existing programs and recommending improvements, if necessary;
+
+(3) making recommendations on budget requests and on the allocation of funding and personnel;
+
+(4) ensuring effective coordination, with respect to policies, programs, planning, operations, and dissemination of intelligence and information related to terrorist travel—(A) among appropriate subdivisions of the Department of Homeland Security, as determined by the Secretary and including—(i) United States Customs and Border Protection;
+
+(ii) United States Immigration and Customs Enforcement;
+
+(iii) United States Citizenship and Immigration Services;
+
+(iv) the Transportation Security Administration; and
+
+(v) the United States Coast Guard; and
+
+
+(B) between the Department of Homeland Security and other appropriate Federal agencies; and
+
+
+(5) serving as the Secretary’s primary point of contact with</akn:p></akn:content><akn:subsection eId="subsec_123_a"><akn:num>(a)</akn:num><akn:heading>Requirement to establish</akn:heading><akn:content><akn:p>(a) Requirement to establish Not later than 90 days after August 3, 2007, the Secretary of Homeland Security, in consultation with the Director of the National Counterterrorism Center and consistent with the strategy developed under section 7201,11 See References in Text note below. shall establish a program to oversee the implementation of the Secretary’s responsibilities with respect to terrorist travel.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_123_b"><akn:num>(b)</akn:num><akn:heading>Head of the program</akn:heading><akn:content><akn:p>(b) Head of the program The Secretary of Homeland Security shall designate an official of the Department of Homeland Security to be responsible for carrying out the program. Such official shall be—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_123_c"><akn:num>(c)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(c) Duties The official designated under subsection (b) shall assist the Secretary of Homeland Security in improving the Department’s ability to prevent terrorists from entering the United States or remaining in the United States undetected by—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_123_d"><akn:num>(d)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(d) Report Not later than 180 days after August 3, 2007, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the implementation of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

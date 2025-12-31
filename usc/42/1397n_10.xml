@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1397n–10" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1397n–10/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1397n–10/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1397n_10"><akn:num>1397n–10</akn:num><akn:heading>Website</akn:heading><akn:content><akn:p>§ 1397n–10. Website
+The Federal Interagency Council on Social Impact Partnerships shall establish and maintain a public website that shall display the following:(1) A copy of, or method of accessing, each notice published regarding a social impact partnership project pursuant to this division.
+
+(2) A copy of each feasibility study funded under this division.
+
+(3) For each State or local government that has entered into an agreement with the Secretary for a social impact partnership project, the website shall contain the following information:(A) The outcome goals of the project.
+
+(B) A description of each intervention in the project.
+
+(C) The target population that will be served by the project.
+
+(D) The expected social benefits to participants who receive the intervention and others who may be impacted.
+
+(E) The detailed roles, responsibilities, and purposes of each Federal, State, or local government entity, intermediary, service provider, independent evaluator, investor, or other stakeholder.
+
+(F) The payment terms, methodology used to calculate outcome payments, the payment schedule, and performance thresholds.
+
+(G) The project budget.
+
+(H) The project timeline.
+
+(I) The project eligibility criteria.
+
+(J) The evaluation design.
+
+(K) The metrics used to determine whether the proposed outcomes have been achieved and how these metrics are measured.
+
+
+(4) A copy of the progress reports and the final reports relating to each social impact partnership project.
+
+(5) An estimate of the savings to the Federal, State, and local government, on a program-by-program basis and in the aggregate, resulting from the successful completion of the social impact partnership project.
+
+(Aug. 14, 1935, ch. 531, title XX, § 2061, as added Pub. L. 115–123, div. E, title VIII, § 50802(2), Feb. 9, 2018, 132 Stat. 281.)</akn:p></akn:content><akn:subsection eId="subsec_1397n_10_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) A copy of, or method of accessing, each notice published regarding a social impact partnership project pursuant to this division.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397n_10_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) A copy of each feasibility study funded under this division.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397n_10_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) For each State or local government that has entered into an agreement with the Secretary for a social impact partnership project, the website shall contain the following information:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397n_10_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) A copy of the progress reports and the final reports relating to each social impact partnership project.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397n_10_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) An estimate of the savings to the Federal, State, and local government, on a program-by-program basis and in the aggregate, resulting from the successful completion of the social impact partnership project.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

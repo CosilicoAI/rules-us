@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1094a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1094a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1094a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1094a"><akn:num>1094a</akn:num><akn:heading>Continuing medical education requirements: system for monitoring physician compliance</akn:heading><akn:content><akn:p>§ 1094a. Continuing medical education requirements: system for monitoring physician compliance
+The Secretary of Defense shall establish a mechanism for ensuring that each person under the jurisdiction of the Secretary of a military department who provides health care under this chapter as a physician satisfies the continuing medical education requirements applicable to the physician.
+(Added Pub. L. 105–261, div. A, title VII, § 734(b)(1), Oct. 17, 1998, 112 Stat. 2073.)
+
+Statutory Notes and Related Subsidiaries
+ImplementationPub. L. 105–261, div. A, title VII, § 734(c)(2), Oct. 17, 1998, 112 Stat. 2073, provided that: “The system required by section 1094a of title 10, United States Code (as added by subsection (b)), shall take effect on the date that is three years after the date of the enactment of this Act [Oct. 17, 1998].”
+
+
+Oversight of Graduate Medical Education Programs of Military DepartmentsPub. L. 114–328, div. A, title VII, § 749, Dec. 23, 2016, 130 Stat. 2242, provided that:
+“(a) Process.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall establish and implement a process to provide oversight of the graduate medical education programs of the military departments to ensure that such programs fully support the operational medical force readiness requirements for health care providers of the Armed Forces and the medical readiness of the Armed Forces. The process shall include the following:“(1) A process to review such programs to ensure, to the extent practicable, that such programs are—“(A) conducted jointly among the military departments; and
+
+“(B) focused on, and related to, operational medical force readiness requirements.
+
+
+“(2) A process to minimize duplicative programs relating to such programs among the military departments.
+
+“(3) A process to ensure that—“(A) assignments of faculty, support staff, and students within such programs are coordinated among the military departments; and
+
+“</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

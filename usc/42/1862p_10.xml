@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1862p–10" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1862p–10/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1862p–10/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1862p_10"><akn:num>1862p–10</akn:num><akn:heading>Academic technology transfer and commercialization of university research</akn:heading><akn:content><akn:p>§ 1862p–10. Academic technology transfer and commercialization of university research(a) In generalAny institution of higher education (as such term is defined in section 1001(a) 11 See References in Text note below. of title 20) that receives National Science Foundation research support and has received at least $25,000,000 in total Federal research grants in the most recent fiscal year shall keep, maintain, and report annually to the National Science Foundation the universal record locator for a public website that contains information concerning its general approach to and mechanisms for transfer of technology and the commercialization of research results, including—(1) contact information for individuals and university offices responsible for technology transfer and commercialization;
+
+(2) information for both university researchers and industry on the institution’s technology licensing and commercialization strategies;
+
+(3) success stories, statistics, and examples of how the university supports commercialization of research results;
+
+(4) technologies available for licensing by the university where appropriate; and
+
+(5) any other information deemed by the institution to be helpful to companies with the potential to commercialize university inventions.
+
+
+(b) NSF websiteThe National Science Foundation shall create and maintain a website accessible to the public that links to each website mentioned under (a).
+
+
+(c) Trade secret informationNotwithstanding subsection (a), an institution shall not be required to reveal confidential, trade secret, or proprietary information on its website.
+
+
+(Pub. L. 111–358, title V, § 520, Jan. 4, 2011, 124 Stat. 4016.)
+
+Editorial Notes
+
+References in TextSection 1001(a) of title 20, referred to in subsec. (a), was in the original “section 101(A) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))”, and was translated as reading “section 101(a)” of that Act, to reflect the probable intent of Congress.
+
+Codification
+Section was e</akn:p></akn:content><akn:subsection eId="subsec_1862p_10_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Any institution of higher education (as such term is defined in section 1001(a) 11 See References in Text note below. of title 20) that receives National Science Foundation research support and has received at least $25,000,000 in total Federal research grants in the most recent fiscal year shall keep, maintain, and report annually to the National Science Foundation the universal record locator for a public website that contains information concerning its general approach to and mechanisms for transfer of technology and the commercialization of research results, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1862p_10_b"><akn:num>(b)</akn:num><akn:heading>NSF website</akn:heading><akn:content><akn:p>(b) NSF website The National Science Foundation shall create and maintain a website accessible to the public that links to each website mentioned under (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1862p_10_c"><akn:num>(c)</akn:num><akn:heading>Trade secret information</akn:heading><akn:content><akn:p>(c) Trade secret information Notwithstanding subsection (a), an institution shall not be required to reveal confidential, trade secret, or proprietary information on its website.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

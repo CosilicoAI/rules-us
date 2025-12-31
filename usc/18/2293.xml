@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/2293" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/2293/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/2293/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2293"><akn:num>2293</akn:num><akn:heading>Bar to prosecution</akn:heading><akn:content><akn:p>§ 2293. Bar to prosecution(a) In General.—It is a bar to prosecution under this chapter if—(1) the conduct in question occurred within the United States in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed; or
+
+(2) such conduct is prohibited as a misdemeanor, and not as a felony, under the law of the State in which it was committed.
+
+
+(b) Definitions.—In this section:(1) Labor dispute.—The term “labor dispute” has the same meaning given that term in section 13(c) of the Act to amend the Judicial Code and to define and limit the jurisdiction of courts sitting in equity, and for other purposes (29 U.S.C. 113(c), commonly known as the Norris-LaGuardia Act).
+
+(2) State.—The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+
+(Added Pub. L. 109–177, title III, § 306(a), Mar. 9, 2006, 120 Stat. 239.)</akn:p></akn:content><akn:subsection eId="subsec_2293_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) It is a bar to prosecution under this chapter if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2293_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

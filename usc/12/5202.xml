@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5202" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5202/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5202/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5202"><akn:num>5202</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5202. Definitions
+For purposes of this chapter, the following definitions shall apply:(1) Appropriate committees of CongressThe term “appropriate committees of Congress” means—(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance, the Committee on the Budget, and the Committee on Appropriations of the Senate; and
+
+(B) the Committee on Financial Services, the Committee on Ways and Means, the Committee on the Budget, and the Committee on Appropriations of the House of Representatives.
+
+
+(2) BoardThe term “Board” means the Board of Governors of the Federal Reserve System.
+
+
+(3) Congressional support agenciesThe term “congressional support agencies” means the Congressional Budget Office and the Joint Committee on Taxation.
+
+
+(4) CorporationThe term “Corporation” means the Federal Deposit Insurance Corporation.
+
+
+(5) Financial institutionThe term “financial institution” means any institution, including, but not limited to, any bank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State, territory, or possession of the United States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands, and having significant operations in the United States, but excluding any central bank of, or institution owned by, a foreign government.
+
+
+(6) FundThe term “Fund” means the Troubled Assets Insurance Financing Fund established under section 5212 of this title.
+
+
+(7) SecretaryThe term “Secretary” means the Secretary of the Treasury.
+
+
+(8) TARPThe term “TARP” means the Troubled Asset Relief Program established under section 5211 of this title.
+
+
+(9) Troubled assetsThe term “troubled assets” means—(A) residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was </akn:p></akn:content><akn:subsection eId="subsec_5202_1"><akn:num>(1)</akn:num><akn:heading>Appropriate committees of Congress</akn:heading><akn:content><akn:p>(1) Appropriate committees of Congress The term “appropriate committees of Congress” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_2"><akn:num>(2)</akn:num><akn:heading>Board</akn:heading><akn:content><akn:p>(2) Board The term “Board” means the Board of Governors of the Federal Reserve System.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_3"><akn:num>(3)</akn:num><akn:heading>Congressional support agencies</akn:heading><akn:content><akn:p>(3) Congressional support agencies The term “congressional support agencies” means the Congressional Budget Office and the Joint Committee on Taxation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_4"><akn:num>(4)</akn:num><akn:heading>Corporation</akn:heading><akn:content><akn:p>(4) Corporation The term “Corporation” means the Federal Deposit Insurance Corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_5"><akn:num>(5)</akn:num><akn:heading>Financial institution</akn:heading><akn:content><akn:p>(5) Financial institution The term “financial institution” means any institution, including, but not limited to, any bank, savings association, credit union, security broker or dealer, or insurance company, established and regulated under the laws of the United States or any State, territory, or possession of the United States, the District of Columbia, Commonwealth of Puerto Rico, Commonwealth of Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands, and having significant operations in the United States, but excluding any central bank of, or institution owned by, a foreign government.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_6"><akn:num>(6)</akn:num><akn:heading>Fund</akn:heading><akn:content><akn:p>(6) Fund The term “Fund” means the Troubled Assets Insurance Financing Fund established under section 5212 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_7"><akn:num>(7)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(7) Secretary The term “Secretary” means the Secretary of the Treasury.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_8"><akn:num>(8)</akn:num><akn:heading>TARP</akn:heading><akn:content><akn:p>(8) TARP The term “TARP” means the Troubled Asset Relief Program established under section 5211 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5202_9"><akn:num>(9)</akn:num><akn:heading>Troubled assets</akn:heading><akn:content><akn:p>(9) Troubled assets The term “troubled assets” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

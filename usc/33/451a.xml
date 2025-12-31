@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/451a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/451a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/451a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_451a"><akn:num>451a</akn:num><akn:heading>Harbors subject to this subchapter</akn:heading><akn:content><akn:p>§ 451a. Harbors subject to this subchapter
+The following harbors shall be subject to this subchapter:(1) The harbor of New York.
+
+(2) The harbor of Hampton Roads.
+
+(3) The harbor of Baltimore.
+
+(June 29, 1888, ch. 496, § 6, 25 Stat. 210; Pub. L. 85–802, § 1(7), Aug. 28, 1958, 72 Stat. 970.)
+
+Editorial Notes
+Amendments1958—Pub. L. 85–802 substituted provisions making harbors of New York, Hampton Roads, and Baltimore subject to this subchapter for appropriation provisions.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1958 AmendmentAmendment by Pub. L. 85–802 effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as a note under section 441 of this title.</akn:p></akn:content><akn:subsection eId="subsec_451a_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The harbor of New York.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_451a_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The harbor of Hampton Roads.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_451a_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The harbor of Baltimore.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

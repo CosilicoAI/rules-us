@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/8258b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/8258b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/8258b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8258b"><akn:num>8258b</akn:num><akn:heading>Survey of energy saving potential</akn:heading><akn:content><akn:p>§ 8258b. Survey of energy saving potential(a) In generalThe Secretary shall, in consultation with the Interagency Energy Management Task Force established under section 8257 of this title, carry out an energy survey for the purposes of—(1) determining the maximum potential cost effective energy savings that may be achieved in a representative sample of buildings owned or leased by the Federal Government in different areas of the country;
+
+(2) making recommendations for cost effective energy efficiency and renewable energy improvements in those buildings and in other similar Federal buildings; and
+
+(3) identifying barriers which may prevent an agency’s ability to comply with section 8253 of this title and other energy management goals.
+
+
+(b) Implementation(1) The Secretary shall transmit to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate and the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, within 180 days after October 24, 1992, a plan for implementing this section.
+
+(2) The Secretary shall designate buildings to be surveyed in the project so as to obtain a sample of the buildings of the types and in the climates that is representative of buildings owned or leased by Federal agencies in the United States that consume the major portion of the energy consumed in Federal buildings. Such sample shall include, where appropriate, the following types of Federal facility space:(A) Housing.
+
+(B) Storage.
+
+(C) Office.
+
+(D) Services.
+
+(E) Schools.
+
+(F) Research and Development.
+
+(G) Industrial.
+
+(H) Prisons.
+
+(I) Hospitals.
+
+
+(3) For purposes of this section, an improvement shall be considered cost effective if the cost of the energy saved or displaced by the improvement exceeds the cost of the improvement over the remaining life of a Federal building or the remaining term of a lease of a building leased by the </akn:p></akn:content><akn:subsection eId="subsec_8258b_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall, in consultation with the Interagency Energy Management Task Force established under section 8257 of this title, carry out an energy survey for the purposes of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8258b_b"><akn:num>(b)</akn:num><akn:heading>Implementation</akn:heading><akn:content><akn:p>(b) Implementation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8258b_c"><akn:num>(c)</akn:num><akn:heading>Personnel</akn:heading><akn:content><akn:p>(c) Personnel</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8258b_d"><akn:num>(d)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(d) Report As soon as practicable after the completion of the project carried out under this section, the Secretary shall transmit a report of the findings and conclusions of the project to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate, the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, and the agencies who own the buildings involved in such project. Such report shall include an analysis of the probability of each agency achieving each of the energy reduction goals established under section 8253(a) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

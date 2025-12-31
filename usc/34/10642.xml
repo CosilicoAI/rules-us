@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/10642" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/10642/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/10642/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10642"><akn:num>10642</akn:num><akn:heading>Use of funds</akn:heading><akn:content><akn:p>§ 10642. Use of funds(a) In generalA capacity building grant shall be used to develop a statewide strategic plan as described in section 10643 of this title to prevent and reduce crime, violence, and substance abuse.
+
+
+(b) Permissive useA rural State may also use its grant to provide training and technical assistance to communities and promote innovation in the development of policies, technologies, and programs to prevent and reduce crime.
+
+
+(c) Data collectionA rural State may use up to 5 percent of the grant to assist grant recipients in collecting statewide data related to the costs of crime, violence, and substance abuse for purposes of supporting the statewide strategic plan.
+
+
+(Pub. L. 90–351, title I, § 2986, as added Pub. L. 107–273, div. C, title I, § 11027(b), Nov. 2, 2002, 116 Stat. 1834.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 3797y–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.</akn:p></akn:content><akn:subsection eId="subsec_10642_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general A capacity building grant shall be used to develop a statewide strategic plan as described in section 10643 of this title to prevent and reduce crime, violence, and substance abuse.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10642_b"><akn:num>(b)</akn:num><akn:heading>Permissive use</akn:heading><akn:content><akn:p>(b) Permissive use A rural State may also use its grant to provide training and technical assistance to communities and promote innovation in the development of policies, technologies, and programs to prevent and reduce crime.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10642_c"><akn:num>(c)</akn:num><akn:heading>Data collection</akn:heading><akn:content><akn:p>(c) Data collection A rural State may use up to 5 percent of the grant to assist grant recipients in collecting statewide data related to the costs of crime, violence, and substance abuse for purposes of supporting the statewide strategic plan.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

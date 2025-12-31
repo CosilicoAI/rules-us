@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9705" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9705/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9705/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9705"><akn:num>9705</akn:num><akn:heading>Improving National Oceanic and Atmospheric Administration communication of future flood risks and ha</akn:heading><akn:content><akn:p>§ 9705. Improving National Oceanic and Atmospheric Administration communication of future flood risks and hazardous flash flood events(a) Assessment of flash flood watches and warnings(1) In generalNot later than 2 years after December 27, 2022, the Administrator shall—(A) conduct an assessment of—(i) the flash flood watches and warnings of the National Weather Service; and
+
+(ii) the information delivery to support preparation and responses to floods; and
+
+
+(B) submit to Congress a report on the findings of the Administrator with respect to the assessment required by subparagraph (A).
+
+
+(2) ElementsThe assessment required by paragraph (1)(A) shall include the following:(A) An evaluation of whether the watches, warnings, and information described in paragraph (1)(A) effectively—(i) communicate risk to the general public;
+
+(ii) inform action to prevent loss of life and property;
+
+(iii) inform action to support flood preparation and response; and
+
+(iv) deliver information in a manner designed to lead to appropriate action.
+
+
+(B) Subject to subsection (b)(2), such recommendations as the Administrator may have for—(i) legislative and administrative action to improve the watches and warnings described in paragraph (1)(A)(i); and
+
+(ii) such research as the Administrator considers necessary to address the focus areas described in paragraph (3).
+
+
+
+(3) Focus areasThe assessment required by paragraph (1)(A) shall focus on the following areas:(A) Ways to communicate the risks posed by hazardous flash flood events to the public that are most likely to result in informed decision making regarding the mitigation of those risks.
+
+(B) Ways to provide actionable geographic information to the recipient of a watch or warning for a flash flood, including partnering with emergency response agencies, as appropriate.
+
+(C) Evaluation of information delivery to support the preparation for and response to floods.
+
+
+(4) ConsultationIn conducting the assessment required by paragraph (1)(A), th</akn:p></akn:content><akn:subsection eId="subsec_9705_a"><akn:num>(a)</akn:num><akn:heading>Assessment of flash flood watches and warnings</akn:heading><akn:content><akn:p>(a) Assessment of flash flood watches and warnings</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9705_b"><akn:num>(b)</akn:num><akn:heading>Improvements to flash flood watches and warnings</akn:heading><akn:content><akn:p>(b) Improvements to flash flood watches and warnings</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9705_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

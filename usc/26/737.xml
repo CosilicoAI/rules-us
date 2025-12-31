@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/737" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/737/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/737/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_737"><akn:num>737</akn:num><akn:heading>Recognition of precontribution gain in case of certain distributions to contributing partner</akn:heading><akn:content><akn:p>§ 737. Recognition of precontribution gain in case of certain distributions to contributing partner(a) General ruleIn the case of any distribution by a partnership to a partner, such partner shall be treated as recognizing gain in an amount equal to the lesser of—(1) the excess (if any) of (A) the fair market value of property (other than money) received in the distribution over (B) the adjusted basis of such partner’s interest in the partnership immediately before the distribution reduced (but not below zero) by the amount of money received in the distribution, or
+
+(2) the net precontribution gain of the partner.
+
+
+Gain recognized under the preceding sentence shall be in addition to any gain recognized under section 731. The character of such gain shall be determined by reference to the proportionate character of the net precontribution gain.
+
+(b) Net precontribution gainFor purposes of this section, the term “net precontribution gain” means the net gain (if any) which would have been recognized by the distributee partner under section 704(c)(1)(B) if all property which—(1) had been contributed to the partnership by the distributee partner within 7 years of the distribution, and
+
+(2) is held by such partnership immediately before the distribution,
+
+
+had been distributed by such partnership to another partner.
+
+(c) Basis rules(1) Partner’s interestThe adjusted basis of a partner’s interest in a partnership shall be increased by the amount of any gain recognized by such partner under subsection (a). For purposes of determining the basis of the distributed property (other than money), such increase shall be treated as occurring immediately before the distribution.
+
+
+(2) Partnership’s basis in contributed propertyAppropriate adjustments shall be made to the adjusted basis of the partnership in the contributed property referred to in subsection (b) to reflect gain recognized under subsection (a).
+
+
+
+(d) Exceptions(1) Distributions of previously contributed propertyIf an</akn:p></akn:content><akn:subsection eId="subsec_737_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule In the case of any distribution by a partnership to a partner, such partner shall be treated as recognizing gain in an amount equal to the lesser of— Gain recognized under the preceding sentence shall be in addition to any gain recognized under section 731. The character of such gain shall be determined by reference to the proportionate character of the net precontribution gain.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_737_b"><akn:num>(b)</akn:num><akn:heading>Net precontribution gain</akn:heading><akn:content><akn:p>(b) Net precontribution gain For purposes of this section, the term “net precontribution gain” means the net gain (if any) which would have been recognized by the distributee partner under section 704(c)(1)(B) if all property which— had been distributed by such partnership to another partner.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_737_c"><akn:num>(c)</akn:num><akn:heading>Basis rules</akn:heading><akn:content><akn:p>(c) Basis rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_737_d"><akn:num>(d)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(d) Exceptions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_737_e"><akn:num>(e)</akn:num><akn:heading>Marketable securities treated as money</akn:heading><akn:content><akn:p>(e) Marketable securities treated as money For treatment of marketable securities as money for purposes of this section, see section 731(c).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

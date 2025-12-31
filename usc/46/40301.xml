@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/40301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/40301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/40301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40301"><akn:num>40301</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>§ 40301. Application(a) Ocean Common Carrier Agreements.—This part applies to an agreement between or among ocean common carriers to—(1) discuss, fix, or regulate transportation rates, including through rates, cargo space accommodations, and other conditions of service;
+
+(2) pool or apportion traffic, revenues, earnings, or losses;
+
+(3) allot ports or regulate the number and character of voyages between ports;
+
+(4) regulate the volume or character of cargo or passenger traffic to be carried;
+
+(5) engage in an exclusive, preferential, or cooperative working arrangement between themselves or with a marine terminal operator;
+
+(6) control, regulate, or prevent competition in international ocean transportation; or
+
+(7) discuss and agree on any matter related to a service contract.
+
+
+(b) Marine Terminal Operator Agreements.—This part applies to an agreement between or among marine terminal operators, or between or among one or more marine terminal operators and one or more ocean common carriers, to—(1) discuss, fix, or regulate rates or other conditions of service; or
+
+(2) engage in exclusive, preferential, or cooperative working arrangements, to the extent the agreement involves ocean transportation in the foreign commerce of the United States.
+
+
+(c) Acquisitions.—This part does not apply to an acquisition by any person, directly or indirectly, of any voting security or assets of any other person.
+
+(d) Maritime Labor Agreements.—This part does not apply to a maritime labor agreement. However, this subsection does not exempt from this part any rate, charge, regulation, or practice of a common carrier that is required to be set forth in a tariff or is an essential term of a service contract, whether or not the rate, charge, regulation, or practice arises out of, or is otherwise related to, a maritime labor agreement.
+
+(e) Assessment Agreements.—This part (except sections 40305 and 40307(a)) does not apply to an assessment agreement.
+
+(Pub. L. 109–304, § 7, Oct. 6, 2006, 12</akn:p></akn:content><akn:subsection eId="subsec_40301_a"><akn:num>(a)</akn:num><akn:heading>Ocean Common Carrier Agreements.—</akn:heading><akn:content><akn:p>(a) This part applies to an agreement between or among ocean common carriers to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40301_b"><akn:num>(b)</akn:num><akn:heading>Marine Terminal Operator Agreements.—</akn:heading><akn:content><akn:p>(b) This part applies to an agreement between or among marine terminal operators, or between or among one or more marine terminal operators and one or more ocean common carriers, to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40301_c"><akn:num>(c)</akn:num><akn:heading>Acquisitions.—</akn:heading><akn:content><akn:p>(c) This part does not apply to an acquisition by any person, directly or indirectly, of any voting security or assets of any other person.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40301_d"><akn:num>(d)</akn:num><akn:heading>Maritime Labor Agreements.—</akn:heading><akn:content><akn:p>(d) This part does not apply to a maritime labor agreement. However, this subsection does not exempt from this part any rate, charge, regulation, or practice of a common carrier that is required to be set forth in a tariff or is an essential term of a service contract, whether or not the rate, charge, regulation, or practice arises out of, or is otherwise related to, a maritime labor agreement.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40301_e"><akn:num>(e)</akn:num><akn:heading>Assessment Agreements.—</akn:heading><akn:content><akn:p>(e) This part (except sections 40305 and 40307(a)) does not apply to an assessment agreement.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

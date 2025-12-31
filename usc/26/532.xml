@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/532" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/532/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/532/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_532"><akn:num>532</akn:num><akn:heading>Corporations subject to accumulated earnings tax</akn:heading><akn:content><akn:p>§ 532. Corporations subject to accumulated earnings tax(a) General ruleThe accumulated earnings tax imposed by section 531 shall apply to every corporation (other than those described in subsection (b)) formed or availed of for the purpose of avoiding the income tax with respect to its shareholders or the shareholders of any other corporation, by permitting earnings and profits to accumulate instead of being divided or distributed.
+
+
+(b) ExceptionsThe accumulated earnings tax imposed by section 531 shall not apply to—(1) a personal holding company (as defined in section 542),
+
+(2) a corporation exempt from tax under subchapter F (section 501 and following), or
+
+(3) a passive foreign investment company (as defined in section 1297).
+
+
+(c) Application determined without regard to number of shareholdersThe application of this part to a corporation shall be determined without regard to the number of shareholders of such corporation.
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 98–369, div. A, title I, § 58(a), July 18, 1984, 98 Stat. 574; Pub. L. 99–514, title XII, § 1235(f)(1), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, § 1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 109–135, title IV, § 403(n)(1), Dec. 21, 2005, 119 Stat. 2626.)
+
+Editorial Notes
+Amendments2005—Subsec. (b)(2) to (4). Pub. L. 109–135 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follow: “a foreign personal holding company (as defined in section 552),”.
+1997—Subsec. (b)(4). Pub. L. 105–34 substituted “section 1297” for “section 1296”.
+1986—Subsec. (b)(4). Pub. L. 99–514 added par. (4).
+1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2005 AmendmentAmendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a no</akn:p></akn:content><akn:subsection eId="subsec_532_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule The accumulated earnings tax imposed by section 531 shall apply to every corporation (other than those described in subsection (b)) formed or availed of for the purpose of avoiding the income tax with respect to its shareholders or the shareholders of any other corporation, by permitting earnings and profits to accumulate instead of being divided or distributed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_532_b"><akn:num>(b)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(b) Exceptions The accumulated earnings tax imposed by section 531 shall not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_532_c"><akn:num>(c)</akn:num><akn:heading>Application determined without regard to number of shareholders</akn:heading><akn:content><akn:p>(c) Application determined without regard to number of shareholders The application of this part to a corporation shall be determined without regard to the number of shareholders of such corporation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

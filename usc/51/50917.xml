@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/50917" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/50917/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/50917/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50917"><akn:num>50917</akn:num><akn:heading>Enforcement and penalty</akn:heading><akn:content><akn:p>§ 50917. Enforcement and penalty(a) Prohibitions.—A person may not violate this chapter, a regulation prescribed under this chapter, or any term of a license issued or transferred under this chapter.
+
+(b) General Authority.—(1) In carrying out this chapter, the Secretary of Transportation may—(A) conduct investigations and inquiries;
+
+(B) administer oaths;
+
+(C) take affidavits; and
+
+(D) under lawful process—(i) enter at a reasonable time a launch site, reentry site, production facility, assembly site of a launch vehicle or reentry vehicle, crew or space flight participant training site, or site at which a payload is integrated with a launch vehicle or reentry vehicle to inspect an object to which this chapter applies or a record or report the Secretary requires be made or kept under this chapter; and
+
+(ii) seize the object, record, or report when there is probable cause to believe the object, record, or report was used, is being used, or likely will be used in violation of this chapter.
+
+
+
+(2) The Secretary may delegate a duty or power under this chapter related to enforcement to an officer or employee of another executive agency with the consent of the head of the agency.
+
+
+(c) Civil Penalty.—(1) After notice and an opportunity for a hearing on the record, a person the Secretary finds to have violated subsection (a) of this section is liable to the United States Government for a civil penalty of not more than $100,000. A separate violation occurs for each day the violation continues.
+
+(2) In conducting a hearing under paragraph (1) of this subsection, the Secretary may—(A) subpena witnesses and records; and
+
+(B) enforce a subpena in an appropriate district court of the United States.
+
+
+(3) The Secretary shall impose the civil penalty by written notice. The Secretary may compromise or remit a penalty imposed, or that may be imposed, under this section.
+
+(4) The Secretary shall recover a civil penalty not paid after the penalty is final or after a court enters a fina</akn:p></akn:content><akn:subsection eId="subsec_50917_a"><akn:num>(a)</akn:num><akn:heading>Prohibitions.—</akn:heading><akn:content><akn:p>(a) A person may not violate this chapter, a regulation prescribed under this chapter, or any term of a license issued or transferred under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50917_b"><akn:num>(b)</akn:num><akn:heading>General Authority.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50917_c"><akn:num>(c)</akn:num><akn:heading>Civil Penalty.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/8503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/8503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/8503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8503"><akn:num>8503</akn:num><akn:heading>Federal pilots authorized</akn:heading><akn:content><akn:p>§ 8503. Federal pilots authorized(a) The Secretary may require a pilot licensed under section 7101 of this title on a self-propelled vessel when a pilot is not required by State law and the vessel is—(1) engaged in foreign commerce; and
+
+(2) operating—(A) in internal waters of the United States; or
+
+(B) within 3 nautical miles from the baselines from which the territorial sea of the United States is measured.
+
+
+
+(b) A requirement prescribed under subsection (a) of this section is terminated when the State having jurisdiction over the area involved—(1) establishes a requirement for a State licensed pilot; and
+
+(2) notifies the Secretary of that fact.
+
+
+(c) For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Great Lakes St. Lawrence Seaway Development Corporation.
+
+(d) A person violating this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.
+
+(e) A person that knowingly violates this section or a regulation prescribed under this section commits a class D felony.
+
+(Added Pub. L. 98–557, § 29(f)(3)(A), Oct. 30, 1984, 98 Stat. 2874; amended Pub. L. 101–380, title IV, § 4302(h), Aug. 18, 1990, 104 Stat. 539; Pub. L. 105–383, title III, § 301(b)(8), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 116–260, div. AA, title V, § 512(c)(6)(C), Dec. 27, 2020, 134 Stat. 2757.)
+
+Editorial Notes
+Amendments2020—Subsec. (c). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
+1998—Subsec. (a)(2). Pub. L. 105–383 added par. (2) and struck out former par. (2) which read as follows: “operating on the navigable waters of the United States.”
+1990—Subsec. (e). Pub. L. 101–380 substituted “commits a class D felony” for “shall be fined not more than $</akn:p></akn:content><akn:subsection eId="subsec_8503_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary may require a pilot licensed under section 7101 of this title on a self-propelled vessel when a pilot is not required by State law and the vessel is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8503_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A requirement prescribed under subsection (a) of this section is terminated when the State having jurisdiction over the area involved—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8503_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Great Lakes St. Lawrence Seaway Development Corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8503_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) A person violating this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of not more than $25,000. Each day of a continuing violation is a separate violation. The vessel also is liable in rem for the penalty.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8503_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) A person that knowingly violates this section or a regulation prescribed under this section commits a class D felony.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

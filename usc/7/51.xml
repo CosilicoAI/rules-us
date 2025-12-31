@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/51" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/51/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/51/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_51"><akn:num>51</akn:num><akn:heading>Short title</akn:heading><akn:content><akn:p>§ 51. Short title
+This chapter shall be known by the short title of “United States Cotton Standards Act.”
+(Mar. 4, 1923, ch. 288, § 1, 42 Stat. 1517.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateAct Mar. 4, 1923, ch. 288, § 14, 42 Stat. 1520, provided: “That this Act [enacting this chapter] shall become effective on and after August 1, 1923.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

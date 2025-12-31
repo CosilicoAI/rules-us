@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/540C" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/540C/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/540C/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_540C"><akn:num>540C</akn:num><akn:heading>FBI police</akn:heading><akn:content><akn:p>§ 540C. FBI police(a) Definitions.—In this section:(1) Director.—The term “Director” means the Director of the Federal Bureau of Investigation.
+
+(2) FBI buildings and grounds.—(A) In general.—The term “FBI buildings and grounds” means—(i) the whole or any part of any building or structure which is occupied under a lease or otherwise by the Federal Bureau of Investigation and is subject to supervision and control by the Federal Bureau of Investigation;
+
+(ii) the land upon which there is situated any building or structure which is occupied wholly by the Federal Bureau of Investigation; and
+
+(iii) any enclosed passageway connecting 2 or more buildings or structures occupied in whole or in part by the Federal Bureau of Investigation.
+
+
+(B) Inclusion.—The term “FBI buildings and grounds” includes adjacent streets and sidewalks not to exceed 500 feet from such property.
+
+
+(3) FBI police.—The term “FBI police” means the permanent police force established under subsection (b).
+
+
+(b) Establishment of FBI Police; Duties.—(1) In general.—Subject to the supervision of the Attorney General, the Director may establish a permanent police force, to be known as the FBI police.
+
+(2) Duties.—The FBI police shall perform such duties as the Director may prescribe in connection with the protection of persons and property within FBI buildings and grounds.
+
+(3) Uniformed representative.—The Director, or designated representative duly authorized by the Attorney General, may appoint uniformed representatives of the Federal Bureau of Investigation as FBI police for duty in connection with the policing of all FBI buildings and grounds.
+
+(4) Authority.—(A) In general.—In accordance with regulations prescribed by the Director and approved by the Attorney General, the FBI police may—(i) police the FBI buildings and grounds for the purpose of protecting persons and property;
+
+(ii) in the performance of duties necessary for carrying out subparagraph (A), make arrests and otherwise enforce the laws </akn:p></akn:content><akn:subsection eId="subsec_540C_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_540C_b"><akn:num>(b)</akn:num><akn:heading>Establishment of FBI Police; Duties.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_540C_c"><akn:num>(c)</akn:num><akn:heading>Authority of Metropolitan Police Force.—</akn:heading><akn:content><akn:p>(c) This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

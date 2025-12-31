@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/3510" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/3510/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/3510/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3510"><akn:num>3510</akn:num><akn:heading>Eligibility and entitlement generally</akn:heading><akn:content><akn:p>§ 3510. Eligibility and entitlement generally
+Each eligible person shall, subject to the provisions of this chapter, be entitled to receive educational assistance.
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, § 1710; renumbered § 3510, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+Editorial Notes
+Amendments1991—Pub. L. 102–83 renumbered section 1710 of this title as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

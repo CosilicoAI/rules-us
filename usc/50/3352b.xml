@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3352b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3352b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3352b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3352b"><akn:num>3352b</akn:num><akn:heading>Improving the process for security clearances</akn:heading><akn:content><akn:p>§ 3352b. Improving the process for security clearances(a) ReviewsNot later than 180 days after December 20, 2019, the Security Executive Agent, in coordination with the members of the Council, shall submit to the appropriate congressional committees and make available to appropriate industry partners a report that includes the following:(1) A review of whether the information requested on the Questionnaire for National Security Positions (Standard Form 86) and by the Federal Investigative Standards prescribed by the Suitability and Credentialing Executive Agent and the Security Executive Agent appropriately supports the adjudicative guidelines under Security Executive Agent Directive 4 (known as the “National Security Adjudicative Guidelines”). Such review shall include identification of whether any such information currently collected is unnecessary to support the adjudicative guidelines.
+
+(2) An assessment of whether such Questionnaire, Standards, and guidelines should be revised to account for the prospect of a holder of a security clearance becoming an insider threat.
+
+(3) Recommendations to improve the background investigation process by—(A) simplifying the Questionnaire for National Security Positions (Standard Form 86) and increasing customer support to applicants completing such Questionnaire;
+
+(B) using remote techniques and centralized locations to support or replace field investigation work;
+
+(C) using secure and reliable digitization of information obtained during the clearance process;
+
+(D) building the capacity of the background investigation workforce; and
+
+(E) replacing periodic reinvestigations with continuous vetting techniques in all appropriate circumstances.
+
+
+
+(b) Policy, strategy, and implementationNot later than 180 days after December 20, 2019, the Security Executive Agent shall, in coordination with the members of the Council, establish the following:(1) A policy and implementation plan for the issuance of interim security clearances.
+
+(2) </akn:p></akn:content><akn:subsection eId="subsec_3352b_a"><akn:num>(a)</akn:num><akn:heading>Reviews</akn:heading><akn:content><akn:p>(a) Reviews Not later than 180 days after December 20, 2019, the Security Executive Agent, in coordination with the members of the Council, shall submit to the appropriate congressional committees and make available to appropriate industry partners a report that includes the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3352b_b"><akn:num>(b)</akn:num><akn:heading>Policy, strategy, and implementation</akn:heading><akn:content><akn:p>(b) Policy, strategy, and implementation Not later than 180 days after December 20, 2019, the Security Executive Agent shall, in coordination with the members of the Council, establish the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

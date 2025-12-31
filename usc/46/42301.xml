@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/42301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/42301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/42301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_42301"><akn:num>42301</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 42301. Definitions(a) Defined in Part A.—In this chapter, the terms “common carrier”, “marine terminal operator”, “ocean common carrier”, “ocean transportation intermediary”, “shipper”, and “shippers’ association” have the meaning given those terms in section 40102 of this title.
+
+(b) Other Definitions.—In this chapter:(1) Foreign carrier.—The term “foreign carrier” means an ocean common carrier a majority of whose vessels are documented under the laws of a foreign country.
+
+(2) Maritime services.—The term “maritime services” means port-to-port transportation of cargo by vessels operated by an ocean common carrier.
+
+(3) Maritime-related services.—The term “maritime-related services” means intermodal operations, terminal operations, cargo solicitation, agency services, ocean transportation intermediary services and operations, and all other activities and services integral to total transportation systems of ocean common carriers and their foreign domiciled affiliates for themselves and others.
+
+(4) United states carrier.—The term “United States carrier” means an ocean common carrier operating vessels documented under the laws of the United States.
+
+(5) United states oceanborne trade.—The term “United States oceanborne trade” means the carriage of cargo between the United States and a foreign country, whether directly or indirectly, by an ocean common carrier.
+
+
+(Pub. L. 109–304, § 7, Oct. 6, 2006, 120 Stat. 1551.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+4230146 App.:1710a(a).Pub. L. 100–418, title X, § 10002(a), Aug. 23, 1988, 102 Stat. 1570; Pub. L. 105–258, title I, § 111(1)–(3), Oct. 14, 1998, 112 Stat. 1911.</akn:p></akn:content><akn:subsection eId="subsec_42301_a"><akn:num>(a)</akn:num><akn:heading>Defined in Part A.—</akn:heading><akn:content><akn:p>(a) In this chapter, the terms “common carrier”, “marine terminal operator”, “ocean common carrier”, “ocean transportation intermediary”, “shipper”, and “shippers’ association” have the meaning given those terms in section 40102 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42301_b"><akn:num>(b)</akn:num><akn:heading>Other Definitions.—</akn:heading><akn:content><akn:p>(b) In this chapter:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/500c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/500c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/500c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_500c"><akn:num>500c</akn:num><akn:heading>Annual assessment of budget with respect to electromagnetic spectrum operations capabilities</akn:heading><akn:content><akn:p>§ 500c. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities
+At the same time as the President submits to Congress the budget of the President under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Secretary of Defense shall submit to the congressional defense committees an assessment by the Electromagnetic Spectrum Operations Executive Committee as to whether sufficient funds are requested in such budget for anticipated activities in such fiscal year for each of the following:(1) The development of an electromagnetic battle management capability for joint electromagnetic spectrum operations.
+
+(2) The establishment and operation of associated joint electromagnetic spectrum operations cells.
+
+(3) The development of a capability for modeling and simulating multi-domain joint electromagnetic spectrum operations to—(A) assess the ability of the joint force to conduct such operations in support of the operational plans of the combatant commands; and
+
+(B) inform improvements to such operations.
+
+
+(Added Pub. L. 118–31, div. A, title XVI, § 1682(a), Dec. 22, 2023, 137 Stat. 615, § 503; renumbered § 500c and amended Pub. L. 118–159, div. A, title XVI, § 1653, title XVII, § 1701(a)(10), Dec. 23, 2024, 138 Stat. 2201, 2203.)
+
+Editorial Notes
+Amendments2024—Pub. L. 118–159, § 1701(a)(10), renumbered section 503 of this title, relating to the annual assessment of the budget with respect to electromagnetic spectrum operations capabilities, as this section.
+Par. (3). Pub. L. 118–159, § 1653, added par. (3).</akn:p></akn:content><akn:subsection eId="subsec_500c_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The development of an electromagnetic battle management capability for joint electromagnetic spectrum operations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_500c_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The establishment and operation of associated joint electromagnetic spectrum operations cells.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_500c_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The development of a capability for modeling and simulating multi-domain joint electromagnetic spectrum operations to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

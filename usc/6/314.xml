@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/314" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/314/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/314/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_314"><akn:num>314</akn:num><akn:heading>Authority and responsibilities</akn:heading><akn:content><akn:p>§ 314. Authority and responsibilities(a) In generalThe Administrator shall provide Federal leadership necessary to prepare for, protect against, respond to, recover from, or mitigate against a natural disaster, act of terrorism, or other man-made disaster, including—(1) helping to ensure the effectiveness of emergency response providers to terrorist attacks, major disasters, and other emergencies;
+
+(2) with respect to the Nuclear Incident Response Team (regardless of whether it is operating as an organizational unit of the Department pursuant to this subchapter)—(A) establishing standards and certifying when those standards have been met;
+
+(B) conducting joint and other exercises and training and evaluating performance; and
+
+(C) providing funds to the Department of Energy and the Environmental Protection Agency, as appropriate, for homeland security planning, exercises and training, and equipment;
+
+
+(3) providing the Federal Government’s response to terrorist attacks and major disasters, including—(A) managing such response;
+
+(B) directing the Domestic Emergency Support Team and (when operating as an organizational unit of the Department pursuant to this subchapter) the Nuclear Incident Response Team;
+
+(C) overseeing the Metropolitan Medical Response System; and
+
+(D) coordinating other Federal response resources, including requiring deployment of the Strategic National Stockpile, in the event of a terrorist attack or major disaster;
+
+
+(4) aiding the recovery from terrorist attacks and major disasters;
+
+(5) building a comprehensive national incident management system with Federal, State, and local government personnel, agencies, and authorities, to respond to such attacks and disasters;
+
+(6) consolidating existing Federal Government emergency response plans into a single, coordinated national response plan;
+
+(7) helping ensure the acquisition of operable and interoperable communications capabilities by Federal, State, local, and tribal governments and emergency respo</akn:p></akn:content><akn:subsection eId="subsec_314_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Administrator shall provide Federal leadership necessary to prepare for, protect against, respond to, recover from, or mitigate against a natural disaster, act of terrorism, or other man-made disaster, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_314_b"><akn:num>(b)</akn:num><akn:heading>All-hazards approach</akn:heading><akn:content><akn:p>(b) All-hazards approach In carrying out the responsibilities under this section, the Administrator shall coordinate the implementation of a risk-based, all-hazards strategy that builds those common capabilities necessary to prepare for, protect against, respond to, recover from, or mitigate against natural disasters, acts of terrorism, and other man-made disasters, while also building the unique capabilities necessary to prepare for, protect against, respond to, recover from, or mitigate against the risks of specific types of incidents that pose the greatest risk to the Nation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

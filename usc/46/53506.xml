@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53506"><akn:num>53506</akn:num><akn:heading>Investment and fiduciary requirements</akn:heading><akn:content><akn:p>§ 53506. Investment and fiduciary requirements(a) In General.—Amounts in a capital construction fund shall be kept in the depository specified in the agreement and shall be subject to trustee and other fiduciary requirements prescribed by the Secretary. Except as provided in subsection (b), amounts in the fund may be invested only in interest-bearing securities approved by the Secretary.
+
+(b) Stock Investments.—(1) In general.—With the approval of the Secretary, an agreed percentage (but not more than 60 percent) of the assets of the fund may be invested in the stock of domestic corporations that—(A) is fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange; and
+
+(B) would be acquired by a prudent investor seeking a reasonable income and the preservation of capital.
+
+
+(2) Preferred stock.—The preferred stock of a corporation is deemed to satisfy the requirements of this subsection, even though it may not be registered and listed because it is nonvoting stock, if the common stock of the corporation satisfies the requirements and the preferred stock otherwise would satisfy the requirements.
+
+
+(c) Maintaining Agreed Percentage.—If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in a way that tends to restore the fair market value of the stock to not more than the agreed percentage.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1594.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5350646 App.:1177(c).June 29, 1936, ch. 858, title VI, § 607(c), 49 Stat. 2005; June 23, 1938, ch. 600, §§ 23–28, 52 Stat. 960; Aug. 4, 1939, ch. 417, § 10, 53 Stat. 1185; July 17, 1952, ch. 939, §§ 17–19, 66 Stat. 764; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 216; Pub.</akn:p></akn:content><akn:subsection eId="subsec_53506_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Amounts in a capital construction fund shall be kept in the depository specified in the agreement and shall be subject to trustee and other fiduciary requirements prescribed by the Secretary. Except as provided in subsection (b), amounts in the fund may be invested only in interest-bearing securities approved by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53506_b"><akn:num>(b)</akn:num><akn:heading>Stock Investments.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53506_c"><akn:num>(c)</akn:num><akn:heading>Maintaining Agreed Percentage.—</akn:heading><akn:content><akn:p>(c) If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in a way that tends to restore the fair market value of the stock to not more than the agreed percentage.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5301"><akn:num>5301</akn:num><akn:heading>Policy</akn:heading><akn:content><akn:p>§ 5301. Policy
+It is the policy of Congress that Federal pay fixing for employees under the General Schedule be based on the principles that—(1) there be equal pay for substantially equal work within each local pay area;
+
+(2) within each local pay area, pay distinctions be maintained in keeping with work and performance distinctions;
+
+(3) Federal pay rates be comparable with non-Federal pay rates for the same levels of work within the same local pay area; and
+
+(4) any existing pay disparities between Federal and non-Federal employees should be completely eliminated.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, § 2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L. 96–465, title II, § 2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1429.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 1171.Oct. 11, 1962, Pub. L. 87–793, § 502, 76 Stat. 841.
+
+
+The words “It is the policy of Congress” are substituted for “The Congress hereby declares”. The words “whereas the functions of a Federal salary system are to fix salary rates for the services rendered by Federal employees so as to make possible the employment of persons well qualified to conduct the Government’s programs and to control expenditures of public funds for personal services with equity to the employee and to the taxpayer, and whereas fulfillment of these functions is essential to the development and maintenance of maximum proficiency in the civilian services of Government, then, accordingly” are omitted as unnecessary.
+In the last sentence, the words “and henceforth” are omitted as executed.
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+Editorial Notes
+Amendments1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows:
+“(a) It is the poli</akn:p></akn:content><akn:subsection eId="subsec_5301_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) there be equal pay for substantially equal work within each local pay area;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5301_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) within each local pay area, pay distinctions be maintained in keeping with work and performance distinctions;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5301_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) Federal pay rates be comparable with non-Federal pay rates for the same levels of work within the same local pay area; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5301_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) any existing pay disparities between Federal and non-Federal employees should be completely eliminated.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

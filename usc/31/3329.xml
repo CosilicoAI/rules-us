@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3329" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3329/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3329/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3329"><akn:num>3329</akn:num><akn:heading>Withholding checks to be sent to foreign countries</akn:heading><akn:content><akn:p>§ 3329. Withholding checks to be sent to foreign countries(a) The Secretary of the Treasury shall prohibit a check or warrant drawn on public money from being sent to a foreign country from the United States or from a territory or possession of the United States when the Secretary decides that postal, transportation, or banking facilities generally, or local conditions in the foreign country, do not reasonably ensure that the payee—(1) will receive the check or warrant; and
+
+(2) will be able to negotiate it for full value.
+
+
+(b)(1) If a check or warrant is prohibited from being sent to a foreign country under subsection (a) of this section, the drawer shall hold the check or warrant until the end of the calendar quarter after the date of the check or warrant.
+
+(2) The Secretary may release the check or warrant for delivery during the calendar quarter after the date of the check or warrant if the Secretary decides that conditions have changed to ensure reasonably that the payee—(A) will receive the check or warrant; and
+
+(B) will be able to negotiate it for full value.
+
+
+(3) Unless the Secretary otherwise directs, the drawer shall send at the end of the calendar quarter after the date of the check or warrant the—(A) withheld check or warrant to the drawee; and
+
+(B) report to the Secretary on—(i) the name and address of the payee;
+
+(ii) the date, number, and amount of the check or warrant; and
+
+(iii) the account on which the check or warrant was drawn.
+
+
+
+(4) The drawee shall transfer the amount of a withheld check or warrant from the account of the drawer to the special deposit account “Secretary of the Treasury, Proceeds of Withheld Foreign Checks”. The check or warrant shall be marked “Paid into Withheld Foreign Check Account”. The Secretary shall credit the accounts of the drawer and drawee.
+
+
+(c) The Secretary may pay an amount deposited in the special account under subsection (b)(4) of this section with a check drawn on the account when—(1) a person claiming pay</akn:p></akn:content><akn:subsection eId="subsec_3329_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of the Treasury shall prohibit a check or warrant drawn on public money from being sent to a foreign country from the United States or from a territory or possession of the United States when the Secretary decides that postal, transportation, or banking facilities generally, or local conditions in the foreign country, do not reasonably ensure that the payee—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3329_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3329_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary may pay an amount deposited in the special account under subsection (b)(4) of this section with a check drawn on the account when—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3329_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) This section and section 3330 of this title—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/286" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/286/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/286/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_286"><akn:num>286</akn:num><akn:heading>Repealed. Pub. L. 85–890, § 3, Sept. 2, 1958, 72 Stat. 1712</akn:heading><akn:content><akn:p>§§ 285, 286. Repealed. Pub. L. 85–890, § 3, Sept. 2, 1958, 72 Stat. 1712
+
+Section 285, act July 21, 1950, ch. 485, § 1, 64 Stat. 370, related to functions and activities of National Bureau of Standards for which funds should be available. See section 278e of this title.
+
+
+Section 286, act July 21, 1950, ch. 485, § 2, 64 Stat. 371, related to construction and improvement of buildings and facilities. See section 278d of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

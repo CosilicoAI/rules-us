@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/305" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/305/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/305/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_305"><akn:num>305</akn:num><akn:heading>Archeological and paleontological salvage</akn:heading><akn:content><akn:p>§ 305. Archeological and paleontological salvage
+Funds authorized to be appropriated to carry out this title to the extent approved as necessary by the highway department of any State, may be used for archeological and paleontological salvage in that State in compliance with the Act entitled “An Act for the preservation of American antiquities”, approved June 8, 1906 (34 Stat. 225), and State laws where applicable,
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 86–657, § 8(e), July 14, 1960, 74 Stat. 525.)
+
+Editorial Notes
+
+References in TextAn Act for the preservation of American antiquities, referred to in text, is act June 8, 1906, ch. 3060, 34 Stat. 225, popularly known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Tables.
+
+Amendments1960—Pub. L. 86–657 substituted “appropriated to carry out this title to the extent approved” for “appropriated under the Federal-Aid Highway Act of 1956, to the extent approved”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

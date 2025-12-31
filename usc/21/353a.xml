@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/353a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/353a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/353a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_353a"><akn:num>353a</akn:num><akn:heading>Pharmacy compounding</akn:heading><akn:content><akn:p>§ 353a. Pharmacy compounding(a) In generalSections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—(1) is by—(A) a licensed pharmacist in a State licensed pharmacy or a Federal facility, or
+
+(B) a licensed physician,
+
+
+on the prescription order for such individual patient made by a licensed physician or other licensed practitioner authorized by State law to prescribe drugs; or
+
+(2)(A) is by a licensed pharmacist or licensed physician in limited quantities before the receipt of a valid prescription order for such individual patient; and
+
+(B) is based on a history of the licensed pharmacist or licensed physician receiving valid prescription orders for the compounding of the drug product, which orders have been generated solely within an established relationship between—(i) the licensed pharmacist or licensed physician; and
+
+(ii)(I) such individual patient for whom the prescription order will be provided; or
+
+(II) the physician or other licensed practitioner who will write such prescription order.
+
+
+
+
+
+(b) Compounded drug(1) Licensed pharmacist and licensed physicianA drug product may be compounded under subsection (a) if the licensed pharmacist or licensed physician—(A) compounds the drug product using bulk drug substances, as defined in regulations of the Secretary published at section 207.3(a)(4) of title 21 of the Code of Federal Regulations—(i) that—(I) comply with the standards of an applicable United States Pharmacopoeia or National Formulary monograph, if a monograph exists, and the United States Pharmacopoeia chapter on pharmacy compounding;
+
+(II) if such a monograph does not exi</akn:p></akn:content><akn:subsection eId="subsec_353a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_353a_b"><akn:num>(b)</akn:num><akn:heading>Compounded drug</akn:heading><akn:content><akn:p>(b) Compounded drug</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_353a_c"><akn:num>(c)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(c) Regulations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_353a_d"><akn:num>(d)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(d) Application This section shall not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_353a_e"><akn:num>(e)</akn:num><akn:heading>“Compounding” defined</akn:heading><akn:content><akn:p>(e) “Compounding” defined As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product’s manufacturer and other manufacturer directions consistent with that labeling.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

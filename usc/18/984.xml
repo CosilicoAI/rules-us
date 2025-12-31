@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/984" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/984/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/984/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_984"><akn:num>984</akn:num><akn:heading>Civil forfeiture of fungible property</akn:heading><akn:content><akn:p>§ 984. Civil forfeiture of fungible property(a)(1) In any forfeiture action in rem in which the subject property is cash, monetary instruments in bearer form, funds deposited in an account in a financial institution (as defined in section 20 of this title), or precious metals—(A) it shall not be necessary for the Government to identify the specific property involved in the offense that is the basis for the forfeiture; and
+
+(B) it shall not be a defense that the property involved in such an offense has been removed and replaced by identical property.
+
+
+(2) Except as provided in subsection (b), any identical property found in the same place or account as the property involved in the offense that is the basis for the forfeiture shall be subject to forfeiture under this section.
+
+
+(b) No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be commenced more than 1 year from the date of the offense.
+
+(c)(1) Subsection (a) does not apply to an action against funds held by a financial institution in an interbank account unless the account holder knowingly engaged in the offense that is the basis for the forfeiture.
+
+(2) In this subsection—(A) the term “financial institution” includes a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))); 11 See References in Text note below. and
+
+(B) the term “interbank account” means an account held by one financial institution at another financial institution primarily for the purpose of facilitating customer transactions.
+
+
+
+(d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
+
+(Added Pub. L. 102–550, title XV, § 1522(a), Oct. 28, 1992, 106 Stat. 4063; amended Pub. L. 103–325, title IV, § 411(c)(2)(E)</akn:p></akn:content><akn:subsection eId="subsec_984_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_984_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be commenced more than 1 year from the date of the offense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_984_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_984_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

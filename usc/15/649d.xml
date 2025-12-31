@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/649d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/649d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/649d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_649d"><akn:num>649d</akn:num><akn:heading>Central information clearinghouse</akn:heading><akn:content><akn:p>§ 649d. Central information clearinghouse
+The Secretary through the International Trade Administration, shall, only to such extent and in such amounts as are provided in appropriation Acts on and after October 1, 1980, maintain a central clearinghouse to provide for the collection, dissemination, and exchange of information between programs established pursuant to sections 649a and 649b of this title, the Office of International Trade of the Small Business Administration, and other interested concerns.
+(Pub. L. 96–481, title III, § 304, Oct. 21, 1980, 94 Stat. 2333.)
+
+Editorial Notes
+Codification
+Section was not enacted as part of the Small Business Act which comprises this chapter.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

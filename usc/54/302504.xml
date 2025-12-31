@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/302504" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/302504/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/302504/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_302504"><akn:num>302504</akn:num><akn:heading>Participation of certified local governments in National Register nominations</akn:heading><akn:content><akn:p>§ 302504. Participation of certified local governments in National Register nominations(a) Notice.—Before a property within the jurisdiction of a certified local government may be considered by a State to be nominated to the Secretary for inclusion on the National Register, the State Historic Preservation Officer shall notify the owner, the applicable chief local elected official, and the local historic preservation commission.
+
+(b) Report.—The local historic preservation commission, after reasonable opportunity for public comment, shall prepare a report as to whether the property, in the Commission’s opinion, meets the criteria of the National Register. Within 60 days of notice from the State Historic Preservation Officer, the chief local elected official shall transmit the report of the commission and the recommendation of the local official to the State Historic Preservation Officer.
+
+(c) Recommendation.—(1) Property nominated to national register.—Except as provided in paragraph (2), after receipt of the report and recommendation, or if no report and recommendation are received within 60 days, the State shall make the nomination pursuant to section 302104 of this title. The State may expedite the process with the concurrence of the certified local government.
+
+(2) Property not nominated to national register.—If both the commission and the chief local elected official recommend that a property not be nominated to the National Register, the State Historic Preservation Officer shall take no further action, unless, within 30 days of the receipt of the recommendation by the State Historic Preservation Officer, an appeal is filed with the State. If an appeal is filed, the State shall follow the procedures for making a nomination pursuant to section 302104 of this title. Any report and recommendations made under this section shall be included with any nomination submitted by the State to the Secretary.
+
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3198.)
+
+
+
+
+
+
+
+
+
+
+</akn:p></akn:content><akn:subsection eId="subsec_302504_a"><akn:num>(a)</akn:num><akn:heading>Notice.—</akn:heading><akn:content><akn:p>(a) Before a property within the jurisdiction of a certified local government may be considered by a State to be nominated to the Secretary for inclusion on the National Register, the State Historic Preservation Officer shall notify the owner, the applicable chief local elected official, and the local historic preservation commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_302504_b"><akn:num>(b)</akn:num><akn:heading>Report.—</akn:heading><akn:content><akn:p>(b) The local historic preservation commission, after reasonable opportunity for public comment, shall prepare a report as to whether the property, in the Commission’s opinion, meets the criteria of the National Register. Within 60 days of notice from the State Historic Preservation Officer, the chief local elected official shall transmit the report of the commission and the recommendation of the local official to the State Historic Preservation Officer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_302504_c"><akn:num>(c)</akn:num><akn:heading>Recommendation.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

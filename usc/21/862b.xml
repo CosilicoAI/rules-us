@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/862b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/862b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/862b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_862b"><akn:num>862b</akn:num><akn:heading>Sanctioning for testing positive for controlled substances</akn:heading><akn:content><akn:p>§ 862b. Sanctioning for testing positive for controlled substances
+Notwithstanding any other provision of law, States shall not be prohibited by the Federal Government from testing welfare recipients for use of controlled substances nor from sanctioning welfare recipients who test positive for use of controlled substances.
+(Pub. L. 104–193, title IX, § 902, Aug. 22, 1996, 110 Stat. 2347.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

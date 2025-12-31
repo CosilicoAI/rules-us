@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3331" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3331/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3331/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3331"><akn:num>3331</akn:num><akn:heading>Management of intelligence community personnel</akn:heading><akn:content><akn:p>§ 3331. Management of intelligence community personnel(a) Multi-sector workforce initiative(1) RequirementBeginning on October 1, 2018, the Director of National Intelligence shall improve management of the workforce of the intelligence community by enabling elements of the intelligence community to build and maintain an appropriate mix between employees of the United States Government and core contractors.
+
+
+(2) Briefing to CongressNot later than July 1, 2017, and each 120 days thereafter until July 1, 2018, the Director of National Intelligence shall brief the congressional intelligence committees on the initiative required by paragraph (1).
+
+
+
+(b) Management based on workload requirements and authorized funding(1) In generalBeginning on October 1, 2018, the personnel levels of the intelligence community shall be managed each fiscal year on the basis of—(A) the workload required to carry out the functions and activities of the intelligence community; and
+
+(B) the funds made available to the intelligence community in accordance with section 3094 of this title.
+
+
+(2) Prohibition on constraints or limitationsBeginning on October 1, 2018, the management of such personnel in the intelligence community in any fiscal year shall not be subject to an externally imposed constraint or limitation expressed in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.
+
+
+
+(c) Briefing and report to CongressNot later than 180 days after May 5, 2017, the Director of National Intelligence shall issue a written report and provide a briefing to the congressional intelligence committees on—(1) the methodology used to calculate the number of civilian and contractor full-time equivalent positions in the intelligence community;
+
+(2) the cost analysis tool used to calculate personnel costs in the intelligence community; and
+
+(3) the plans of the Director of National Intelligence and the head of each element of the intelligence community to implement </akn:p></akn:content><akn:subsection eId="subsec_3331_a"><akn:num>(a)</akn:num><akn:heading>Multi-sector workforce initiative</akn:heading><akn:content><akn:p>(a) Multi-sector workforce initiative</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3331_b"><akn:num>(b)</akn:num><akn:heading>Management based on workload requirements and authorized funding</akn:heading><akn:content><akn:p>(b) Management based on workload requirements and authorized funding</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3331_c"><akn:num>(c)</akn:num><akn:heading>Briefing and report to Congress</akn:heading><akn:content><akn:p>(c) Briefing and report to Congress Not later than 180 days after May 5, 2017, the Director of National Intelligence shall issue a written report and provide a briefing to the congressional intelligence committees on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3331_d"><akn:num>(d)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(d) Report Not later than 240 days after May 5, 2017, the Inspector General of the Intelligence Community shall submit to the congressional intelligence committees a written report on the accuracy of intelligence community data for the numbers and costs associated with the civilian and contractor workforce in each element of the intelligence community.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

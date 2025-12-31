@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3604" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3604/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3604/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3604"><akn:num>3604</akn:num><akn:heading>E-Government Fund</akn:heading><akn:content><akn:p>§ 3604. E-Government Fund(a)(1) There is established in the Treasury of the United States the E-Government Fund.
+
+(2) The Fund shall be administered by the Administrator of the General Services Administration to support projects approved by the Director, assisted by the Administrator of the Office of Electronic Government, that enable the Federal Government to expand its ability, through the development and implementation of innovative uses of the Internet or other electronic methods, to conduct activities electronically.
+
+(3) Projects under this subsection may include efforts to—(A) make Federal Government information and services more readily available to members of the public (including individuals, businesses, grantees, and State and local governments);
+
+(B) make it easier for the public to apply for benefits, receive services, pursue business opportunities, submit information, and otherwise conduct transactions with the Federal Government; and
+
+(C) enable Federal agencies to take advantage of information technology in sharing information and conducting transactions with each other and with State and local governments.
+
+
+
+(b)(1) The Administrator shall—(A) establish procedures for accepting and reviewing proposals for funding;
+
+(B) consult with interagency councils, including the Chief Information Officers Council, the Chief Financial Officers Council, and other interagency management councils, in establishing procedures and reviewing proposals; and
+
+(C) assist the Director in coordinating resources that agencies receive from the Fund with other resources available to agencies for similar purposes.
+
+
+(2) When reviewing proposals and managing the Fund, the Administrator shall observe and incorporate the following procedures:(A) A project requiring substantial involvement or funding from an agency shall be approved by a senior official with agencywide authority on behalf of the head of the agency, who shall report directly to the head of the agency.
+
+(B) Projects </akn:p></akn:content><akn:subsection eId="subsec_3604_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3604_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3604_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) In determining which proposals to recommend for funding, the Administrator—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3604_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Fund may be used to fund the integrated Internet-based system under section 204 of the E-Government Act of 2002.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3604_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) None of the funds provided from the Fund may be transferred to any agency until 15 days after the Administrator of the General Services Administration has submitted to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and the appropriate authorizing committees of the Senate and the House of Representatives, a notification and description of how the funds are to be allocated and how the expenditure will further the purposes of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3604_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3604_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

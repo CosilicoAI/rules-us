@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18841" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18841/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18841/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18841"><akn:num>18841</akn:num><akn:heading>Survey, analysis, and report on employment and demographics in the energy, energy efficiency, and mo</akn:heading><akn:content><akn:p>§ 18841. Survey, analysis, and report on employment and demographics in the energy, energy efficiency, and motor vehicle sectors of the United States(a) Energy Jobs Council(1) EstablishmentThe Secretary shall establish a council, to be known as the “Energy Jobs Council” (referred to in this section as the “Council”).
+
+
+(2) MembershipThe Council shall be comprised of—(A) to be appointed by the Secretary—(i) 1 or more representatives of the Energy Information Administration; and
+
+(ii) 1 or more representatives of a State energy office that are serving as members of the State Energy Advisory Board established by section 6325(g) of this title;
+
+
+(B) to be appointed by the Secretary of Commerce—(i) 1 or more representatives of the Department of Commerce; and
+
+(ii) 1 or more representatives of the Bureau of the Census;
+
+
+(C) 1 or more representatives of the Bureau of Labor Statistics, to be appointed by the Secretary of Labor; and
+
+(D) 1 or more representatives of any other Federal agency the assistance of which is required to carry out this section, as determined by the Secretary, to be appointed by the head of the applicable agency.
+
+
+
+(b) Survey and analysis(1) In generalThe Council shall—(A) conduct a survey of employers in the energy, energy efficiency, and motor vehicle sectors of the economy of the United States; and
+
+(B) perform an analysis of the employment figures and demographics in those sectors, including the number of personnel in each sector who devote a substantial portion of working hours, as determined by the Secretary, to regulatory compliance matters.
+
+
+(2) MethodologyIn conducting the survey and analysis under paragraph (1), the Council shall employ a methodology that—(A) was approved in 2016 by the Office of Management and Budget for use in the document entitled “OMB Control Number 1910–5179”;
+
+(B) uses a representative, stratified sampling of businesses in the United States; and
+
+(C) is designed to elicit a comparable number of responses from busine</akn:p></akn:content><akn:subsection eId="subsec_18841_a"><akn:num>(a)</akn:num><akn:heading>Energy Jobs Council</akn:heading><akn:content><akn:p>(a) Energy Jobs Council</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18841_b"><akn:num>(b)</akn:num><akn:heading>Survey and analysis</akn:heading><akn:content><akn:p>(b) Survey and analysis</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18841_c"><akn:num>(c)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(c) Report</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

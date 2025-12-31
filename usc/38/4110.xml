@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/4110" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/4110/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/4110/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4110"><akn:num>4110</akn:num><akn:heading>Advisory Committee on Veterans Employment, Training, and Employer Outreach</akn:heading><akn:content><akn:p>§ 4110. Advisory Committee on Veterans Employment, Training, and Employer Outreach(a)(1) There is hereby established within the Department of Labor an advisory committee to be known as the Advisory Committee on Veterans Employment, Training, and Employer Outreach.
+
+(2) The advisory committee shall—(A) assess the employment and training needs of veterans and their integration into the workforce;
+
+(B) determine the extent to which the programs and activities of the Department of Labor are meeting such needs;
+
+(C) assist the Assistant Secretary of Labor for Veterans’ Employment and Training in carrying out outreach activities to employers with respect to the training and skills of veterans and the advantages afforded employers by hiring veterans;
+
+(D) make recommendations to the Secretary, through the Assistant Secretary of Labor for Veterans’ Employment and Training, with respect to outreach activities and the employment and training of veterans; and
+
+(E) carry out such other activities that are necessary to make the reports and recommendations referred to in subsection (f) of this section.
+
+
+
+(b) The Secretary of Labor shall, on a regular basis, consult with and seek the advice of the advisory committee with respect to the matters referred to in subsection (a)(2) of this section.
+
+(c)(1) The Secretary of Labor shall appoint at least 12, but no more than 16, individuals to serve as members of the advisory committee as follows:(A) Seven individuals, one each from among representatives nominated by each of the following organizations:(i) The National Society of Human Resource Managers.
+
+(ii) The Business Roundtable.
+
+(iii) The National Association of State Workforce Agencies.
+
+(iv) The United States Chamber of Commerce.
+
+(v) The National Federation of Independent Business.
+
+(vi) A nationally recognized labor union or organization.
+
+(vii) The National Governors Association.
+
+
+(B) Not more than five individuals from among representatives nominated by veterans service orga</akn:p></akn:content><akn:subsection eId="subsec_4110_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4110_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary of Labor shall, on a regular basis, consult with and seek the advice of the advisory committee with respect to the matters referred to in subsection (a)(2) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4110_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4110_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The following, or their representatives, shall be ex officio, nonvoting members of the advisory committee:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4110_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4110_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4110_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g) Within 60 days after receiving each annual report referred to in subsection (f)(1), the Secretary of Labor shall transmit to Congress a copy of the report together with any comments concerning the report that the Secretary considers appropriate.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4110_h"><akn:num>(h)</akn:num><akn:content><akn:p>(h) The advisory committee shall continue until terminated by law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

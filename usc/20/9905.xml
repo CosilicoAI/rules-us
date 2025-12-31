@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/9905" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/9905/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/9905/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9905"><akn:num>9905</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 9905. Definitions
+In this chapter:(1) Field-based courseThe term “field-based course” means a course of instruction offered by an institution of higher education that includes a requirement that students teach a minimum of 3 lessons or sequences of lessons to elementary or secondary students.
+
+
+(2) Institution of higher educationThe term “institution of higher education” has the meaning given that term by section 1001 of this title.
+
+
+(3) Master teacherThe term “master teacher” means an individual—(A) who has been awarded a master’s or doctoral degree by an institution of higher education;
+
+(B) whose graduate coursework included courses in mathematics, science, computer science, or engineering;
+
+(C) who has at least 3 years teaching experience in K–12 settings; and
+
+(D) whose teaching has been recognized for exceptional accomplishments in educating students, or is demonstrated to have resulted in improved student achievement.
+
+
+(4) Mentor teacherThe term “mentor teacher” means an elementary or secondary school classroom teacher who assists with the training of students participating in a field-based course.
+
+
+(5) DirectorThe term “Director” means the Director of the National Science Foundation.
+
+
+(Pub. L. 111–358, title V, § 555, Jan. 4, 2011, 124 Stat. 4025.)</akn:p></akn:content><akn:subsection eId="subsec_9905_1"><akn:num>(1)</akn:num><akn:heading>Field-based course</akn:heading><akn:content><akn:p>(1) Field-based course The term “field-based course” means a course of instruction offered by an institution of higher education that includes a requirement that students teach a minimum of 3 lessons or sequences of lessons to elementary or secondary students.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9905_2"><akn:num>(2)</akn:num><akn:heading>Institution of higher education</akn:heading><akn:content><akn:p>(2) Institution of higher education The term “institution of higher education” has the meaning given that term by section 1001 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9905_3"><akn:num>(3)</akn:num><akn:heading>Master teacher</akn:heading><akn:content><akn:p>(3) Master teacher The term “master teacher” means an individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9905_4"><akn:num>(4)</akn:num><akn:heading>Mentor teacher</akn:heading><akn:content><akn:p>(4) Mentor teacher The term “mentor teacher” means an elementary or secondary school classroom teacher who assists with the training of students participating in a field-based course.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9905_5"><akn:num>(5)</akn:num><akn:heading>Director</akn:heading><akn:content><akn:p>(5) Director The term “Director” means the Director of the National Science Foundation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

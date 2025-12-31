@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/3203" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/3203/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/3203/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3203"><akn:num>3203</akn:num><akn:heading>Community participation</akn:heading><akn:content><akn:p>§ 3203. Community participation(a) Business and community participationThe director of each Job Corps center shall ensure the establishment and development of the mutually beneficial business and community relationships and networks described in subsection (b), including the use of local boards, in order to enhance the effectiveness of such centers.
+
+
+(b) NetworksThe activities carried out by each Job Corps center under this section shall include—(1) establishing and developing relationships and networks with—(A) local and distant employers, to the extent practicable, in coordination with entities carrying out other Federal and non-Federal programs that conduct similar outreach to employers;
+
+(B) applicable one-stop centers and applicable local boards, for the purpose of providing—(i) information to, and referral of, potential enrollees; and
+
+(ii) job opportunities for Job Corps graduates; and
+
+
+(C)(i) entities carrying out relevant apprenticeship programs and youth programs;
+
+(ii) labor-management organizations and local labor organizations;
+
+(iii) employers and contractors that support national training contractor programs; and
+
+(iv) community-based organizations, non-profit organizations, and intermediaries providing workforce development-related services; and
+
+
+
+(2) establishing and developing relationships with members of the community in which the Job Corps center is located, informing members of the community about the projects of the Job Corps center and changes in the rules, procedures, or activities of the center that may affect the community, and planning events of mutual interest to the community and the Job Corps center.
+
+
+(c) New centersThe director of a Job Corps center that is not yet operating shall ensure the establishment and development of the relationships and networks described in subsection (b) at least 3 months prior to the date on which the center accepts the first enrollee at the center.
+
+
+(Pub. L. 113–128, title I, § 153, July 22, 2014, 12</akn:p></akn:content><akn:subsection eId="subsec_3203_a"><akn:num>(a)</akn:num><akn:heading>Business and community participation</akn:heading><akn:content><akn:p>(a) Business and community participation The director of each Job Corps center shall ensure the establishment and development of the mutually beneficial business and community relationships and networks described in subsection (b), including the use of local boards, in order to enhance the effectiveness of such centers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3203_b"><akn:num>(b)</akn:num><akn:heading>Networks</akn:heading><akn:content><akn:p>(b) Networks The activities carried out by each Job Corps center under this section shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3203_c"><akn:num>(c)</akn:num><akn:heading>New centers</akn:heading><akn:content><akn:p>(c) New centers The director of a Job Corps center that is not yet operating shall ensure the establishment and development of the relationships and networks described in subsection (b) at least 3 months prior to the date on which the center accepts the first enrollee at the center.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

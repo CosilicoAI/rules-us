@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/5326" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/5326/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/5326/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5326"><akn:num>5326</akn:num><akn:heading>Transit asset management</akn:heading><akn:content><akn:p>§ 5326. Transit asset management(a) Definitions.—In this section the following definitions shall apply:(1) Capital asset.—The term “capital asset” includes equipment, rolling stock, infrastructure, and facilities for use in public transportation and owned or leased by a recipient or subrecipient of Federal financial assistance under this chapter.
+
+(2) Transit asset management plan.—The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—(A) includes, at a minimum, capital asset inventories and condition assessments, decision support tools, and investment prioritization; and
+
+(B) the recipient certifies complies with the rule issued under this section.
+
+
+(3) Transit asset management system.—The term “transit asset management system” means a strategic and systematic process of operating, maintaining, and improving public transportation capital assets effectively throughout the life cycle of such assets.
+
+
+(b) Transit Asset Management System.—The Secretary shall establish and implement a national transit asset management system, which shall include—(1) a definition of the term “state of good repair” that includes objective standards for measuring the condition of capital assets of recipients, including equipment, rolling stock, infrastructure, and facilities;
+
+(2) a requirement that recipients and subrecipients of Federal financial assistance under this chapter develop a transit asset management plan;
+
+(3) a requirement that each designated recipient of Federal financial assistance under this chapter report on the condition of the system of the recipient and provide a description of any change in condition since the last report;
+
+(4) an analytical process or decision support tool for use by public transportation systems that—(A) allows for the estimation of capital investment needs of such systems over time; and
+
+(B) assists with asset investment prioritization by such systems; and
+
+
+(5) technical assistance to </akn:p></akn:content><akn:subsection eId="subsec_5326_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section the following definitions shall apply:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5326_b"><akn:num>(b)</akn:num><akn:heading>Transit Asset Management System.—</akn:heading><akn:content><akn:p>(b) The Secretary shall establish and implement a national transit asset management system, which shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5326_c"><akn:num>(c)</akn:num><akn:heading>Performance Measures and Targets.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5326_d"><akn:num>(d)</akn:num><akn:heading>Rulemaking.—</akn:heading><akn:content><akn:p>(d) Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule to implement the transit asset management system described in subsection (b).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

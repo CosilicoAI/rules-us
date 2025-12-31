@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101116" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101116/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101116/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101116"><akn:num>101116</akn:num><akn:heading>Corporate powers</akn:heading><akn:content><akn:p>§ 101116. Corporate powers
+The National Park Foundation shall have the power to enter into contracts, to execute instruments, and generally to do any and all lawful acts necessary or appropriate to its purposes.
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3121.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10111616 U.S.C. 19j.Pub. L. 90–209, § 6, Dec. 18, 1967, 81 Stat. 657.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

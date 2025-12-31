@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5504" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5504/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5504/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5504"><akn:num>5504</akn:num><akn:heading>Biweekly pay periods; computation of pay</akn:heading><akn:content><akn:p>§ 5504. Biweekly pay periods; computation of pay(a) The pay period for an employee covers two administrative workweeks.
+
+(b) When, in the case of an employee, it is necessary for computation of pay under this subsection to convert an annual rate of basic pay to a basic hourly, daily, weekly, or biweekly rate, the following rules govern:(1) To derive an hourly rate, divide the annual rate by 2,087.
+
+(2) To derive a daily rate, multiply the hourly rate by the number of daily hours of service required.
+
+(3) To derive a weekly or biweekly rate, multiply the hourly rate by 40 or 80, as the case may be.
+
+
+Rates are computed to the nearest cent, counting one-half and over as a whole cent.
+
+(c) For the purposes of this section:(1) The term “employee” means—(A) an employee in or under an Executive agency;
+
+(B) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek is established under section 6101(a)(5) of this title; and
+
+(C) an individual employed by the government of the District of Columbia.
+
+
+(2) The term “employee” does not include—(A) an employee on the Isthmus of Panama in the service of the Panama Canal Commission; or
+
+(B) an employee or individual excluded from the definition of employee in section 5541(2) of this title other than an employee or individual excluded by clauses (ii), (iii), and (xiv) through (xvii) of such section.
+
+
+(3) Notwithstanding paragraph (2), an individual who otherwise would be excluded from the definition of employee shall be deemed to be an employee for purposes of this section if the individual’s employing agency so elects, under guidelines in regulations promulgated by the Office of Personnel Management under subsection (d)(2).
+
+
+(d)(1) The Office of Personnel Management may prescribe regulations, subject to the approval of the President, necessary for the administration of this section insofar as this section affects employees in or u</akn:p></akn:content><akn:subsection eId="subsec_5504_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The pay period for an employee covers two administrative workweeks.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5504_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) When, in the case of an employee, it is necessary for computation of pay under this subsection to convert an annual rate of basic pay to a basic hourly, daily, weekly, or biweekly rate, the following rules govern: Rates are computed to the nearest cent, counting one-half and over as a whole cent.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5504_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) For the purposes of this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5504_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

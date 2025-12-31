@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/921" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/921/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/921/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_921"><akn:num>921</akn:num><akn:heading>Defense dependents’ education system</akn:heading><akn:content><akn:p>§ 921. Defense dependents’ education system(a) EstablishmentThe Secretary of Defense shall establish and operate a program (hereinafter in this chapter referred to as the “defense dependents’ education system”) to provide a free public education through secondary school for dependents in overseas areas.
+
+
+(b) Program purposes and activities(1) The Secretary shall ensure that individuals eligible to receive a free public education under subsection (a) receive an education of high quality.
+
+(2) In establishing the defense dependents’ education system under subsection (a), the Secretary shall provide programs designed to meet the special needs of—(A) the handicapped,
+
+(B) individuals in need of compensatory education,
+
+(C) individuals with an interest in vocational education,
+
+(D) gifted and talented individuals, and
+
+(E) individuals of limited English-speaking ability.
+
+
+(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) who are of preschool age if a preschool program is not otherwise available for such individuals and if funds for such a program are available.
+
+
+(c) Consultation requirementsThe Secretary of Defense shall consult with the Secretary of Education on the educational programs and practices of the defense dependents’ education system.
+
+
+(d) Optional summer school programs(1) The Secretary of Defense may provide optional summer school programs in the defense dependents’ education system.
+
+(2) The Secretary shall provide any summer school program under this subsection on the same financial basis as programs offered during the regular school year, except that the Secretary may charge reasonable fees for all or portions of such summer school programs to the extent that the Secretary determines appropriate.
+
+(3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer scho</akn:p></akn:content><akn:subsection eId="subsec_921_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary of Defense shall establish and operate a program (hereinafter in this chapter referred to as the “defense dependents’ education system”) to provide a free public education through secondary school for dependents in overseas areas.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_921_b"><akn:num>(b)</akn:num><akn:heading>Program purposes and activities</akn:heading><akn:content><akn:p>(b) Program purposes and activities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_921_c"><akn:num>(c)</akn:num><akn:heading>Consultation requirements</akn:heading><akn:content><akn:p>(c) Consultation requirements The Secretary of Defense shall consult with the Secretary of Education on the educational programs and practices of the defense dependents’ education system.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_921_d"><akn:num>(d)</akn:num><akn:heading>Optional summer school programs</akn:heading><akn:content><akn:p>(d) Optional summer school programs</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_921_e"><akn:num>(e)</akn:num><akn:heading>Meal programs</akn:heading><akn:content><akn:p>(e) Meal programs In addition to carrying out the requirement under section 1769b of title 42 to administer lunch programs in certain dependents’ schools, the Secretary of Defense may administer a school breakfast program for students attending a school of the defense dependents’ education system.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

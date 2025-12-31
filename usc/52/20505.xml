@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/20505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/20505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/20505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20505"><akn:num>20505</akn:num><akn:heading>Mail registration</akn:heading><akn:content><akn:p>§ 20505. Mail registration(a) Form(1) Each State shall accept and use the mail voter registration application form prescribed by the Federal Election Commission pursuant to section 20508(a)(2) of this title for the registration of voters in elections for Federal office.
+
+(2) In addition to accepting and using the form described in paragraph (1), a State may develop and use a mail voter registration form that meets all of the criteria stated in section 20508(b) of this title for the registration of voters in elections for Federal office.
+
+(3) A form described in paragraph (1) or (2) shall be accepted and used for notification of a registrant’s change of address.
+
+
+(b) Availability of formsThe chief State election official of a State shall make the forms described in subsection (a) available for distribution through governmental and private entities, with particular emphasis on making them available for organized voter registration programs.
+
+
+(c) First-time voters(1) Subject to paragraph (2), a State may by law require a person to vote in person if—(A) the person was registered to vote in a jurisdiction by mail; and
+
+(B) the person has not previously voted in that jurisdiction.
+
+
+(2) Paragraph (1) does not apply in the case of a person—(A) who is entitled to vote by absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act [52 U.S.C. 20301 et seq.];
+
+(B) who is provided the right to vote otherwise than in person under section 20102(b)(2)(B)(ii) of this title; or
+
+(C) who is entitled to vote otherwise than in person under any other Federal law.
+
+
+
+(d) Undelivered noticesIf a notice of the disposition of a mail voter registration application under section 20507(a)(2) of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 20507(d) of this title.
+
+
+(Pub. L. 103–31, § 6, May 20, 1993, 107 Stat. 79.)
+
+Editorial Notes
+
+References in TextThe Uniformed and Overseas Citizens Absentee Vo</akn:p></akn:content><akn:subsection eId="subsec_20505_a"><akn:num>(a)</akn:num><akn:heading>Form</akn:heading><akn:content><akn:p>(a) Form</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20505_b"><akn:num>(b)</akn:num><akn:heading>Availability of forms</akn:heading><akn:content><akn:p>(b) Availability of forms The chief State election official of a State shall make the forms described in subsection (a) available for distribution through governmental and private entities, with particular emphasis on making them available for organized voter registration programs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20505_c"><akn:num>(c)</akn:num><akn:heading>First-time voters</akn:heading><akn:content><akn:p>(c) First-time voters</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20505_d"><akn:num>(d)</akn:num><akn:heading>Undelivered notices</akn:heading><akn:content><akn:p>(d) Undelivered notices If a notice of the disposition of a mail voter registration application under section 20507(a)(2) of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 20507(d) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/4017a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/4017a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/4017a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4017a"><akn:num>4017a</akn:num><akn:heading>Reserve Fund</akn:heading><akn:content><akn:p>§ 4017a. Reserve Fund(a) Establishment of Reserve FundIn carrying out the flood insurance program authorized by this subchapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Reserve Fund (in this section referred to as the “Reserve Fund”) which shall—(1) be an account separate from any other accounts or funds available to the Administrator; and
+
+(2) be available for meeting the expected future obligations of the flood insurance program, including—(A) the payment of claims;
+
+(B) claims adjustment expenses; and
+
+(C) the repayment of amounts outstanding under any note or other obligation issued by the Administrator under section 4016(a) of this title.
+
+
+
+(b) Reserve ratioSubject to the phase-in requirements under subsection (d), the Reserve Fund shall maintain a balance equal to—(1) 1 percent of the sum of the total potential loss exposure of all outstanding flood insurance policies in force in the prior fiscal year; or
+
+(2) such higher percentage as the Administrator determines to be appropriate, taking into consideration any circumstance that may raise a significant risk of substantial future losses to the Reserve Fund.
+
+
+(c) Maintenance of reserve ratio(1) In generalThe Administrator shall have the authority to establish, increase, or decrease the amount of aggregate annual insurance premiums to be collected for any fiscal year necessary—(A) to maintain the reserve ratio required under subsection (b); and
+
+(B) to achieve such reserve ratio, if the actual balance of such reserve is below the amount required under subsection (b).
+
+
+(2) ConsiderationsIn exercising the authority granted under paragraph (1), the Administrator shall consider—(A) the expected operating expenses of the Reserve Fund;
+
+(B) the insurance loss expenditures under the flood insurance program;
+
+(C) any investment income generated under the flood insurance program; and
+
+(D) any other factor that the Administrator determines appropriate.
+
+
+(3) Lim</akn:p></akn:content><akn:subsection eId="subsec_4017a_a"><akn:num>(a)</akn:num><akn:heading>Establishment of Reserve Fund</akn:heading><akn:content><akn:p>(a) Establishment of Reserve Fund In carrying out the flood insurance program authorized by this subchapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Reserve Fund (in this section referred to as the “Reserve Fund”) which shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4017a_b"><akn:num>(b)</akn:num><akn:heading>Reserve ratio</akn:heading><akn:content><akn:p>(b) Reserve ratio Subject to the phase-in requirements under subsection (d), the Reserve Fund shall maintain a balance equal to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4017a_c"><akn:num>(c)</akn:num><akn:heading>Maintenance of reserve ratio</akn:heading><akn:content><akn:p>(c) Maintenance of reserve ratio</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4017a_d"><akn:num>(d)</akn:num><akn:heading>Phase-in requirements</akn:heading><akn:content><akn:p>(d) Phase-in requirements The phase-in requirements under this subsection are as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4017a_e"><akn:num>(e)</akn:num><akn:heading>Limitation on reserve ratio</akn:heading><akn:content><akn:p>(e) Limitation on reserve ratio In any given fiscal year, if the Administrator determines that the reserve ratio required under subsection (b) cannot be achieved, the Administrator shall submit, on a calendar quarterly basis, a report to Congress that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4017a_f"><akn:num>(f)</akn:num><akn:heading>Investment</akn:heading><akn:content><akn:p>(f) Investment The Secretary of the Treasury shall invest such amounts of the Reserve Fund as the Secretary determines advisable in obligations issued or guaranteed by the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

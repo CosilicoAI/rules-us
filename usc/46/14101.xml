@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/14101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/14101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/14101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_14101"><akn:num>14101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 14101. Definitions
+In this part—(1) “Convention” means the International Convention on Tonnage Measurement of Ships, 1969.
+
+(2) “existing vessel” means a vessel the keel of which was laid or that was at a similar stage of construction before July 18, 1982.
+
+(3) “Great Lakes” means—(A) the Great Lakes; and
+
+(B) the St. Lawrence River west of—(i) a rhumb line drawn from Cap des Rosiers to West Point, Anticosti Island; and
+
+(ii) on the north side of Anticosti Island, the meridian of longitude 63 degrees west.
+
+
+
+(4) “vessel that engages on a foreign voyage” means a vessel—(A) that arrives at a place under the jurisdiction of the United States from a place in a foreign country;
+
+(B) that makes a voyage between places outside the United States;
+
+(C) that departs from a place under the jurisdiction of the United States for a place in a foreign country; or
+
+(D) that makes a voyage between a place within a territory or possession of the United States and another place under the jurisdiction of the United States not within that territory or possession.
+
+
+(Pub. L. 99–509, title V, § 5101(3), Oct. 21, 1986, 100 Stat. 1919; Pub. L. 111–281, title III, § 303(a), Oct. 15, 2010, 124 Stat. 2923.)
+
+Historical and Revision NotesRevised section 14101
+Source: International Convention on Tonnage Measurement of Ships.
+Section 14101 contains definitions that are limited to Part J—Measurement of Vessels. The source of these definitions is the International Convention on Tonnage Measurement of Ships in articles 2 and 4.
+
+Editorial Notes
+Amendments2010—Par. (4). Pub. L. 111–281, § 303(a)(1), substituted “that engages” for “engaged” in introductory provisions.
+Par. (4)(A). Pub. L. 111–281, § 303(a)(2), substituted “that arrives” for “arriving”.
+Par. (4)(B). Pub. L. 111–281, § 303(a)(3), substituted “that makes” for “making” and struck out “(except a foreign vessel engaged on that voyage)” after “United States”.
+Par. (4)(C). Pub. L. 111–281, § 303(a)(4), substituted “that departs” for “depar</akn:p></akn:content><akn:subsection eId="subsec_14101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “Convention” means the International Convention on Tonnage Measurement of Ships, 1969.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “existing vessel” means a vessel the keel of which was laid or that was at a similar stage of construction before July 18, 1982.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “Great Lakes” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “vessel that engages on a foreign voyage” means a vessel—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

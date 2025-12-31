@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/838" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/838/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/838/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_838"><akn:num>838</akn:num><akn:heading>Art. 38. Duties of trial counsel and defense counsel</akn:heading><akn:content><akn:p>§ 838. Art. 38. Duties of trial counsel and defense counsel(a) The trial counsel of a general or special court-martial shall prosecute in the name of the United States, and shall, under the direction of the court, prepare the record of the proceedings.
+
+(b)(1) The accused has the right to be represented in his defense before a general or special court-martial or at a preliminary hearing under section 832 of this title (article 32) as provided in this subsection.
+
+(2) The accused may be represented by civilian counsel if provided by him.
+
+(3) The accused may be represented—(A) by military counsel detailed under section 827 of this title (article 27); or
+
+(B) by military counsel of his own selection if that counsel is reasonably available (as determined under regulations prescribed under paragraph (7)).
+
+
+(4) If the accused is represented by civilian counsel, military counsel detailed or selected under paragraph (3) shall act as associate counsel unless excused at the request of the accused.
+
+(5) Except as provided under paragraph (6), if the accused is represented by military counsel of his own selection under paragraph (3)(B), any military counsel detailed under paragraph (3)(A) shall be excused.
+
+(6) The accused is not entitled to be represented by more than one military counsel. However, the person authorized under regulations prescribed under section 827 of this title (article 27) to detail counsel, in his sole discretion—(A) may detail additional military counsel as assistant defense counsel; and
+
+(B) if the accused is represented by military counsel of his own selection under paragraph (3)(B), may approve a request from the accused that military counsel detailed under paragraph (3)(A) act as associate defense counsel.
+
+
+(7) The Secretary concerned shall, by regulation, define “reasonably available” for the purpose of paragraph (3)(B) and establish procedures for determining whether the military counsel selected by an accused under that paragraph is reasonably a</akn:p></akn:content><akn:subsection eId="subsec_838_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The trial counsel of a general or special court-martial shall prosecute in the name of the United States, and shall, under the direction of the court, prepare the record of the proceedings.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_838_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_838_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) In any court-martial proceeding resulting in a conviction, the defense counsel—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_838_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) An assistant trial counsel of a general court-martial may, under the direction of the trial counsel or when he is qualified to be a trial counsel as required by section 827 of this title (article 27), perform any duty imposed by law, regulation, or the custom of the service upon the trial counsel of the court. An assistant trial counsel of a special court-martial may perform any duty of the trial counsel.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_838_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) An assistant defense counsel of a general or special court-martial may perform any duty imposed by law, regulation, or the custom of the service upon counsel for the accused.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/157" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/157/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/157/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_157"><akn:num>157</akn:num><akn:heading>Procedures</akn:heading><akn:content><akn:p>§ 157. Procedures(a) Each district court may provide that any or all cases under title 11 and any or all proceedings arising under title 11 or arising in or related to a case under title 11 shall be referred to the bankruptcy judges for the district.
+
+(b)(1) Bankruptcy judges may hear and determine all cases under title 11 and all core proceedings arising under title 11, or arising in a case under title 11, referred under subsection (a) of this section, and may enter appropriate orders and judgments, subject to review under section 158 of this title.
+
+(2) Core proceedings include, but are not limited to—(A) matters concerning the administration of the estate;
+
+(B) allowance or disallowance of claims against the estate or exemptions from property of the estate, and estimation of claims or interests for the purposes of confirming a plan under chapter 11, 12, or 13 of title 11 but not the liquidation or estimation of contingent or unliquidated personal injury tort or wrongful death claims against the estate for purposes of distribution in a case under title 11;
+
+(C) counterclaims by the estate against persons filing claims against the estate;
+
+(D) orders in respect to obtaining credit;
+
+(E) orders to turn over property of the estate;
+
+(F) proceedings to determine, avoid, or recover preferences;
+
+(G) motions to terminate, annul, or modify the automatic stay;
+
+(H) proceedings to determine, avoid, or recover fraudulent conveyances;
+
+(I) determinations as to the dischargeability of particular debts;
+
+(J) objections to discharges;
+
+(K) determinations of the validity, extent, or priority of liens;
+
+(L) confirmations of plans;
+
+(M) orders approving the use or lease of property, including the use of cash collateral;
+
+(N) orders approving the sale of property other than property resulting from claims brought by the estate against persons who have not filed claims against the estate;
+
+(O) other proceedings affecting the liquidation of the assets of the estate or the adjustment o</akn:p></akn:content><akn:subsection eId="subsec_157_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Each district court may provide that any or all cases under title 11 and any or all proceedings arising under title 11 or arising in or related to a case under title 11 shall be referred to the bankruptcy judges for the district.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_157_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_157_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_157_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The district court may withdraw, in whole or in part, any case or proceeding referred under this section, on its own motion or on timely motion of any party, for cause shown. The district court shall, on timely motion of a party, so withdraw a proceeding if the court determines that resolution of the proceeding requires consideration of both title 11 and other laws of the United States regulating organizations or activities affecting interstate commerce.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_157_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) If the right to a jury trial applies in a proceeding that may be heard under this section by a bankruptcy judge, the bankruptcy judge may conduct the jury trial if specially designated to exercise such jurisdiction by the district court and with the express consent of all the parties.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/1169" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/1169/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/1169/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1169"><akn:num>1169</akn:num><akn:heading>Reporting of child abuse</akn:heading><akn:content><akn:p>§ 1169. Reporting of child abuse(a) Any person who—(1) is a—(A) physician, surgeon, dentist, podiatrist, chiropractor, nurse, dental hygienist, optometrist, medical examiner, emergency medical technician, paramedic, or health care provider,
+
+(B) teacher, school counselor, instructional aide, teacher’s aide, teacher’s assistant, or bus driver employed by any tribal, Federal, public or private school,
+
+(C) administrative officer, supervisor of child welfare and attendance, or truancy officer of any tribal, Federal, public or private school,
+
+(D) child day care worker, headstart teacher, public assistance worker, worker in a group home or residential or day care facility, or social worker,
+
+(E) psychiatrist, psychologist, or psychological assistant,
+
+(F) licensed or unlicensed marriage, family, or child counselor,
+
+(G) person employed in the mental health profession, or
+
+(H) law enforcement officer, probation officer, worker in a juvenile rehabilitation or detention facility, or person employed in a public agency who is responsible for enforcing statutes and judicial orders;
+
+
+(2) knows, or has reasonable suspicion, that—(A) a child was abused in Indian country, or
+
+(B) actions are being taken, or are going to be taken, that would reasonably be expected to result in abuse of a child in Indian country; and
+
+
+(3) fails to immediately report such abuse or actions described in paragraph (2) to the local child protective services agency or local law enforcement agency,
+
+
+shall be fined under this title or imprisoned for not more than 6 months or both.
+
+(b) Any person who—(1) supervises, or has authority over, a person described in subsection (a)(1), and
+
+(2) inhibits or prevents that person from making the report described in subsection (a),
+
+
+shall be fined under this title or imprisoned for not more than 6 months or both.
+
+(c) For purposes of this section, the term—(1) “abuse” includes—(A) any case in which—(i) a child is dead or exhibits evidence of skin bruising, bleedi</akn:p></akn:content><akn:subsection eId="subsec_1169_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Any person who— shall be fined under this title or imprisoned for not more than 6 months or both.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1169_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Any person who— shall be fined under this title or imprisoned for not more than 6 months or both.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1169_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) For purposes of this section, the term—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1169_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Any person making a report described in subsection (a) which is based upon their reasonable belief and which is made in good faith shall be immune from civil or criminal liability for making that report.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

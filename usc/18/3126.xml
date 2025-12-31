@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/3126" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/3126/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/3126/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3126"><akn:num>3126</akn:num><akn:heading>Reports concerning pen registers and trap and trace devices</akn:heading><akn:content><akn:p>§ 3126. Reports concerning pen registers and trap and trace devices
+The Attorney General shall annually report to Congress on the number of pen register orders and orders for trap and trace devices applied for by law enforcement agencies of the Department of Justice, which report shall include information concerning—(1) the period of interceptions authorized by the order, and the number and duration of any extensions of the order;
+
+(2) the offense specified in the order or application, or extension of an order;
+
+(3) the number of investigations involved;
+
+(4) the number and nature of the facilities affected; and
+
+(5) the identity, including district, of the applying investigative or law enforcement agency making the application and the person authorizing the order.
+
+(Added Pub. L. 99–508, title III, § 301(a), Oct. 21, 1986, 100 Stat. 1871, § 3125; renumbered § 3126, Pub. L. 100–690, title VII, § 7092(a)(1), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 106–197, § 3, May 2, 2000, 114 Stat. 247.)
+
+Editorial Notes
+Prior ProvisionsA prior section 3126 was renumbered section 3127 of this title.
+
+Amendments2000—Pub. L. 106–197 substituted “, which report shall include information concerning—” and pars. (1) to (5) for period at end.
+1988—Pub. L. 100–690 renumbered section 3125 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 302 of Pub. L. 99–508, set out as a note under section 3121 of this title.
+
+Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 3123Pub. L. 107–273, div. A, title III, § 305(a), Nov. 2, 2002, 116 Stat. 1782, provided that: 
+“At the same time that the Attorney General submits to Congress the annual reports required by section 3126 of ti</akn:p></akn:content><akn:subsection eId="subsec_3126_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the period of interceptions authorized by the order, and the number and duration of any extensions of the order;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3126_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the offense specified in the order or application, or extension of an order;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3126_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the number of investigations involved;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3126_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the number and nature of the facilities affected; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3126_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) the identity, including district, of the applying investigative or law enforcement agency making the application and the person authorizing the order.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

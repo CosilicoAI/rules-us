@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1156" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1156/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1156/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1156"><akn:num>1156</akn:num><akn:heading>Temporary disability ratings</akn:heading><akn:content><akn:p>§ 1156. Temporary disability ratings(a) Assignment of Temporary Ratings.—(1) For the purpose of providing disability compensation under this chapter to veterans, the Secretary shall assign a temporary disability rating to a veteran as follows:(A) To a veteran who—(i) was discharged or released from active duty not more than 365 days before the date such veteran submits a claim for disability compensation under this chapter;
+
+(ii) has one or more disabilities for which a rating of total is not immediately assignable—(I) under the regular provisions of the schedule of ratings; or
+
+(II) on the basis of individual unemployability; and
+
+
+(iii) has one or more—(I) severe disabilities that result in substantially gainful employment not being feasible or advisable; or
+
+(II) healed, unhealed, or incompletely healed wounds or injuries that make material impairment of employability likely.
+
+
+
+(B) To a veteran who, as a result of a highly stressful in-service event, has a mental disorder that is severe enough to bring about the veteran’s discharge or release from active duty.
+
+(C) To a veteran who has a service-connected disability that requires hospital treatment or observation in a Department of Veterans Affairs or approved hospital for a period in excess of 21 days.
+
+(D) To a veteran who has a service-connected disability that has required convalescent care or treatment at hospital discharge (regular discharge or release to non-bed care) or outpatient release that meets the requirements of regulations prescribed by the Secretary.
+
+
+(2) With respect to a veteran described in paragraph (1)(A), the Secretary may assign a temporary disability rating to such veteran regardless of whether such veteran has obtained a medical examination or a medical opinion concerning such veteran’s disability.
+
+(3) With respect to a veteran described in paragraph (1)(B), the Secretary shall schedule a medical examination for such veteran not later than six months after the separation or discharge </akn:p></akn:content><akn:subsection eId="subsec_1156_a"><akn:num>(a)</akn:num><akn:heading>Assignment of Temporary Ratings.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1156_b"><akn:num>(b)</akn:num><akn:heading>Termination of Temporary Disability Ratings.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1156_c"><akn:num>(c)</akn:num><akn:heading>Regulations.—</akn:heading><akn:content><akn:p>(c) The Secretary shall prescribe regulations to carry out the provisions of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1156_d"><akn:num>(d)</akn:num><akn:heading>Construction.—</akn:heading><akn:content><akn:p>(d) Nothing in this section shall be construed to preclude the Secretary from providing a temporary disability rating under an authority other than this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30702"><akn:num>30702</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>§ 30702. Application(a) In General.—Except as otherwise provided, this chapter applies to a carrier engaged in the carriage of goods to or from any port in the United States.
+
+(b) Live Animals.—Sections 30703 and 30704 of this title do not apply to the carriage of live animals.
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1516.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30702(a)(no source).
+30702(b)46 App.:195.Feb. 13, 1893, ch. 105, § 7, 27 Stat. 446.
+
+
+Subsection (a) is added based on language appearing in various source provisions restated in this chapter. The word “carriage” is substituted for “transporting”, and the word “goods” is substituted for “merchandise or property”, to use the same terminology as in the Carriage of Goods By Sea Act (Apr. 16, 1936, ch. 229, 49 Stat. 1207). The words “to or from any port in the United States” are substituted for “from or between ports of the United States and foreign ports” in 46 App. U.S.C. 190 and 193, “from or between ports of the United States of America and foreign ports” in 46 App. U.S.C. 191, and “to or from any port in the United States of America” in 46 App. U.S.C. 192, for clarity and consistency. See Knott v. Botany Mills, 179 U.S. 69 (1900).</akn:p></akn:content><akn:subsection eId="subsec_30702_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Except as otherwise provided, this chapter applies to a carrier engaged in the carriage of goods to or from any port in the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30702_b"><akn:num>(b)</akn:num><akn:heading>Live Animals.—</akn:heading><akn:content><akn:p>(b) Sections 30703 and 30704 of this title do not apply to the carriage of live animals.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

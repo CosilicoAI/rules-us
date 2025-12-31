@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1377" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1377/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1377/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1377"><akn:num>1377</akn:num><akn:heading>Definitions and special rule</akn:heading><akn:content><akn:p>§ 1377. Definitions and special rule(a) Pro rata shareFor purposes of this subchapter—(1) In generalExcept as provided in paragraph (2), each shareholder’s pro rata share of any item for any taxable year shall be the sum of the amounts determined with respect to the shareholder—(A) by assigning an equal portion of such item to each day of the taxable year, and
+
+(B) then by dividing that portion pro rata among the shares outstanding on such day.
+
+
+(2) Election to terminate year(A) In generalUnder regulations prescribed by the Secretary, if any shareholder terminates the shareholder’s interest in the corporation during the taxable year and all affected shareholders and the corporation agree to the application of this paragraph, paragraph (1) shall be applied to the affected shareholders as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.
+
+
+(B) Affected shareholdersFor purposes of subparagraph (A), the term “affected shareholders” means the shareholder whose interest is terminated and all shareholders to whom such shareholder has transferred shares during the taxable year. If such shareholder has transferred shares to the corporation, the term “affected shareholders” shall include all persons who are shareholders during the taxable year.
+
+
+
+
+(b) Post-termination transition period(1) In generalFor purposes of this subchapter, the term “post-termination transition period” means—(A) the period beginning on the day after the last day of the corporation’s last taxable year as an S corporation and ending on the later of—(i) the day which is 1 year after such last day, or
+
+(ii) the due date for filing the return for such last year as an S corporation (including extensions),
+
+
+(B) the 120-day period beginning on the date of any determination pursuant to an audit of the taxpayer which follows the termination of the corporation’s election and which adjusts a subchapter S item of income, loss, or deduction of the corporation</akn:p></akn:content><akn:subsection eId="subsec_1377_a"><akn:num>(a)</akn:num><akn:heading>Pro rata share</akn:heading><akn:content><akn:p>(a) Pro rata share For purposes of this subchapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1377_b"><akn:num>(b)</akn:num><akn:heading>Post-termination transition period</akn:heading><akn:content><akn:p>(b) Post-termination transition period</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1377_c"><akn:num>(c)</akn:num><akn:heading>Manner of making elections, etc.</akn:heading><akn:content><akn:p>(c) Manner of making elections, etc. Any election under this subchapter, and any revocation under section 1362(d)(1), shall be made in such manner as the Secretary shall by regulations prescribe.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

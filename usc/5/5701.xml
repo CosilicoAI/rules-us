@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5701"><akn:num>5701</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5701. Definitions
+Except as otherwise provided in section 5707(d),11 See References in Text note below. for the purpose of this subchapter—(1) “agency” means—(A) an Executive agency;
+
+(B) a military department;
+
+(C) an office, agency, or other establishment in the legislative branch;
+
+(D) an office, agency, or other establishment in the judicial branch; and
+
+(E) the government of the District of Columbia;
+
+
+but does not include—
+(i) a Government controlled corporation;
+
+(ii) a Member of Congress; or
+
+(iii) an office or committee of either House of Congress or of the two Houses;
+
+
+(2) “employee” means an individual employed in or under an agency including an individual employed intermittently in the Government service as an expert or consultant and paid on a daily when-actually-employed basis and an individual serving without pay or at $1 a year;
+
+(3) “subsistence” means lodging, meals, and other necessary expenses for the personal sustenance and comfort of the traveler;
+
+(4) “per diem allowance” means a daily payment instead of actual expenses for subsistence and fees or tips to porters and stewards;
+
+(5) “Government” means the Government of the United States and the government of the District of Columbia; and
+
+(6) “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 94–22, § 2(a), May 19, 1975, 89 Stat. 84; Pub. L. 99–234, title I, § 101, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 101–391, § 5(a)(2), Sept. 25, 1990, 104 Stat. 751.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+(1)–(5)5 U.S.C. 835.June 9, 1949, ch. 185, § 2, 63 Stat. 166.
+(6)[Uncodified].Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340.
+
+
+In paragraph (1), the word “agency” is substituted for “departments and establishments”. The terms “Executive agency” and “military department” are substituted for “any executive departmen</akn:p></akn:content><akn:subsection eId="subsec_5701_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “agency” means— but does not include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5701_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “employee” means an individual employed in or under an agency including an individual employed intermittently in the Government service as an expert or consultant and paid on a daily when-actually-employed basis and an individual serving without pay or at $1 a year;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5701_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “subsistence” means lodging, meals, and other necessary expenses for the personal sustenance and comfort of the traveler;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5701_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “per diem allowance” means a daily payment instead of actual expenses for subsistence and fees or tips to porters and stewards;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5701_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) “Government” means the Government of the United States and the government of the District of Columbia; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5701_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

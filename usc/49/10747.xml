@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/10747" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/10747/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/10747/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10747"><akn:num>10747</akn:num><akn:heading>Designation of certain routes by shippers</akn:heading><akn:content><akn:p>§ 10747. Designation of certain routes by shippers(a)(1) When a person delivers property to a rail carrier for transportation subject to the jurisdiction of the Board under this part, the person may direct the rail carrier to transport the property over an established through route. When competing rail lines constitute a part of the route, the person shipping the property may designate the lines over which the property will be transported. The designation must be in writing. A rail carrier may be directed to transport property over a particular through route when—(A) there are at least 2 through routes over which the property could be transported;
+
+(B) a through rate has been established for transportation over each of those through routes; and
+
+(C) the rail carrier is a party to those routes and rates.
+
+
+(2) A rail carrier directed to route property transported under paragraph (1) of this subsection must issue a through bill of lading containing the routing instructions and transport the property according to the instructions. When the property is delivered to a connecting rail carrier, that rail carrier must also receive and transport it according to the routing instructions and deliver it to the next succeeding rail carrier or consignee according to the instructions.
+
+
+(b) The Board may prescribe exceptions to the authority of a person to direct the movement of traffic under subsection (a) of this section.
+
+(Added Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 821.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 10763 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+Prior sections 10747 to 10751, 10761 to 10767, and 10781 to 10786 were omitted in the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+Section 10747, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393, related to transportation services or facilities furnished by shippers. See sectio</akn:p></akn:content><akn:subsection eId="subsec_10747_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10747_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Board may prescribe exceptions to the authority of a person to direct the movement of traffic under subsection (a) of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

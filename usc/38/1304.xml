@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1304"><akn:num>1304</akn:num><akn:heading>Special provisions relating to surviving spouses</akn:heading><akn:content><akn:p>§ 1304. Special provisions relating to surviving spouses
+No dependency and indemnity compensation shall be paid to the surviving spouse of a veteran dying after December 31, 1956, unless such surviving spouse was married to such veteran—(1) before the expiration of fifteen years after the termination of the period of service in which the injury or disease causing the death of the veteran was incurred or aggravated; or
+
+(2) for one year or more; or
+
+(3) for any period of time if a child was born of the marriage, or was born to them before the marriage.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, § 404; Pub. L. 90–77, title I, § 101(a), Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–433, title IV, § 405(4), (5), Sept. 30, 1976, 90 Stat. 1379; renumbered § 1304, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+Editorial Notes
+Amendments1991—Pub. L. 102–83 renumbered section 404 of this title as this section.
+1976—Pub. L. 94–433, § 405(4), (5), substituted “surviving spouse”, “such surviving spouse”, and “such veteran” for “widow”, “she”, and “him”, respectively, in introductory clause and “surviving spouses” for “widows” in section catchline.
+1967—Pub. L. 90–77 qualified widow of a veteran for receipt of compensation by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as a note under section 1101 of this title.
+
+Effective Date of 1967 AmendmentAmendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1304_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) before the expiration of fifteen years after the termination of the period of service in which the injury or disease causing the death of the veteran was incurred or aggravated; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1304_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) for one year or more; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1304_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) for any period of time if a child was born of the marriage, or was born to them before the marriage.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

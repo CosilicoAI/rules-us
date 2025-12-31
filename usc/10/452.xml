@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/452" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/452/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/452/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_452"><akn:num>452</akn:num><akn:heading>Pilot charts</akn:heading><akn:content><akn:p>§ 452. Pilot charts(a) There shall be conspicuously printed on pilot charts prepared in the National Geospatial-Intelligence Agency the following: “Prepared from data furnished by the National Geospatial-Intelligence Agency of the Department of Defense and by the Department of Commerce, and published at the National Geospatial-Intelligence Agency under the authority of the Secretary of Defense”.
+
+(b) The Secretary of Commerce shall furnish to the National Geospatial-Intelligence Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
+
+(Added Pub. L. 97–295, § 1(50)(C), Oct. 12, 1982, 96 Stat. 1299, § 2793; renumbered § 452 and amended Pub. L. 104–201, div. A, title XI, § 1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, § 921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+279310:7393.
+
+
+The words “Secretary of Defense” and “Defense Mapping Agency” are substituted for “Secretary of the Navy” and “United States Naval Oceanographic Office”, respectively, for consistency with 10:2791. The words “Secretary of Commerce” are substituted for “Weather Bureau of the Department of Commerce” to reflect the transfer of functions from the Weather Bureau to the Secretary of Commerce under Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). The word “quickly” is substituted for “expeditiously” for consistency in title 10.
+
+Editorial Notes
+Prior ProvisionsA prior section 452 was renumbered section 482 of this title.
+
+Amendments2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+1996—Pub. L. 104–201 renumbered section 2793 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appeari</akn:p></akn:content><akn:subsection eId="subsec_452_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) There shall be conspicuously printed on pilot charts prepared in the National Geospatial-Intelligence Agency the following: “Prepared from data furnished by the National Geospatial-Intelligence Agency of the Department of Defense and by the Department of Commerce, and published at the National Geospatial-Intelligence Agency under the authority of the Secretary of Defense”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_452_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary of Commerce shall furnish to the National Geospatial-Intelligence Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/142" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/142/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/142/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_142"><akn:num>142</akn:num><akn:heading>Exempt facility bond</akn:heading><akn:content><akn:p>§ 142. Exempt facility bond(a) General ruleFor purposes of this part, the term “exempt facility bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—(1) airports and spaceports,
+
+(2) docks and wharves,
+
+(3) mass commuting facilities,
+
+(4) facilities for the furnishing of water,
+
+(5) sewage facilities,
+
+(6) solid waste disposal facilities,
+
+(7) qualified residential rental projects,
+
+(8) facilities for the local furnishing of electric energy or gas,
+
+(9) local district heating or cooling facilities,
+
+(10) qualified hazardous waste facilities,
+
+(11) high-speed intercity rail facilities,
+
+(12) environmental enhancements of hydroelectric generating facilities,
+
+(13) qualified public educational facilities,
+
+(14) qualified green building and sustainable design projects,
+
+(15) qualified highway or surface freight transfer facilities,
+
+(16) qualified broadband projects, or
+
+(17) qualified carbon dioxide capture facilities.
+
+
+(b) Special exempt facility bond rulesFor purposes of subsection (a)—(1) Certain facilities must be governmentally owned(A) In generalA facility shall be treated as described in paragraph (1), (2), (3), or (12) of subsection (a) only if all of the property to be financed by the net proceeds of the issue is to be owned by a governmental unit.
+
+
+(B) Safe harbor for leases and management contractsFor purposes of subparagraph (A), property leased by a governmental unit shall be treated as owned by such governmental unit if—(i) the lessee makes an irrevocable election (binding on the lessee and all successors in interest under the lease) not to claim depreciation or an investment credit with respect to such property,
+
+(ii) the lease term (as defined in section 168(i)(3)) is not more than 80 percent of the reasonably expected economic life of the property (as determined under section 147(b)), and
+
+(iii) the lessee has no option to purchase the property other than at fair market value (as of</akn:p></akn:content><akn:subsection eId="subsec_142_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of this part, the term “exempt facility bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_b"><akn:num>(b)</akn:num><akn:heading>Special exempt facility bond rules</akn:heading><akn:content><akn:p>(b) Special exempt facility bond rules For purposes of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_c"><akn:num>(c)</akn:num><akn:heading>Airports, spaceports, docks and wharves, mass commuting facilities and high-speed intercity rail facilities</akn:heading><akn:content><akn:p>(c) Airports, spaceports, docks and wharves, mass commuting facilities and high-speed intercity rail facilities For purposes of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_d"><akn:num>(d)</akn:num><akn:heading>Qualified residential rental project</akn:heading><akn:content><akn:p>(d) Qualified residential rental project For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_e"><akn:num>(e)</akn:num><akn:heading>Facilities for the furnishing of water</akn:heading><akn:content><akn:p>(e) Facilities for the furnishing of water For purposes of subsection (a)(4), the term “facilities for the furnishing of water” means any facility for the furnishing of water if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_f"><akn:num>(f)</akn:num><akn:heading>Local furnishing of electric energy or gas</akn:heading><akn:content><akn:p>(f) Local furnishing of electric energy or gas For purposes of subsection (a)(8)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_g"><akn:num>(g)</akn:num><akn:heading>Local district heating or cooling facility</akn:heading><akn:content><akn:p>(g) Local district heating or cooling facility</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_h"><akn:num>(h)</akn:num><akn:heading>Qualified hazardous waste facilities</akn:heading><akn:content><akn:p>(h) Qualified hazardous waste facilities For purposes of subsection (a)(10), the term “qualified hazardous waste facility” means any facility for the disposal of hazardous waste by incineration or entombment but only if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_i"><akn:num>(i)</akn:num><akn:heading>High-speed intercity rail facilities</akn:heading><akn:content><akn:p>(i) High-speed intercity rail facilities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_j"><akn:num>(j)</akn:num><akn:heading>Environmental enhancements of hydroelectric generating facilities</akn:heading><akn:content><akn:p>(j) Environmental enhancements of hydroelectric generating facilities</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

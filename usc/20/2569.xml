@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/2569" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/2569/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/2569/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2569"><akn:num>2569</akn:num><akn:heading>Authorization of appropriations for Humphrey Institute and Dirksen Center</akn:heading><akn:content><akn:p>§ 2569. Authorization of appropriations for Humphrey Institute and Dirksen Center(a) Maximum amount for InstituteThere are authorized to be appropriated such sums, not to exceed $5,000,000, as may be necessary to carry out the provisions of section 2566 of this title.
+
+
+(b) Maximum amount for CenterThere are authorized to be appropriated such sums, not to exceed $2,500,000, as may be necessary to carry out the provisions of section 2567 of this title.
+
+
+(c) Availability of fundsFunds appropriated pursuant to sections 2566 to 2569 of this title shall remain available until expended.
+
+
+(Pub. L. 95–270, § 4(a)–(c), Apr. 27, 1978, 92 Stat. 220.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 1, 1978, see section 4(d) of Pub. L. 95–270, set out as a note under section 2566 of this title.</akn:p></akn:content><akn:subsection eId="subsec_2569_a"><akn:num>(a)</akn:num><akn:heading>Maximum amount for Institute</akn:heading><akn:content><akn:p>(a) Maximum amount for Institute There are authorized to be appropriated such sums, not to exceed $5,000,000, as may be necessary to carry out the provisions of section 2566 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2569_b"><akn:num>(b)</akn:num><akn:heading>Maximum amount for Center</akn:heading><akn:content><akn:p>(b) Maximum amount for Center There are authorized to be appropriated such sums, not to exceed $2,500,000, as may be necessary to carry out the provisions of section 2567 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2569_c"><akn:num>(c)</akn:num><akn:heading>Availability of funds</akn:heading><akn:content><akn:p>(c) Availability of funds Funds appropriated pursuant to sections 2566 to 2569 of this title shall remain available until expended.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

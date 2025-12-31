@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/41725" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/41725/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/41725/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41725"><akn:num>41725</akn:num><akn:heading>Prohibition on certain cell phone voice communications</akn:heading><akn:content><akn:p>§ 41725. Prohibition on certain cell phone voice communications(a) Prohibition.—The Secretary of Transportation shall issue regulations—(1) to prohibit an individual on an aircraft from engaging in voice communications using a mobile communications device during a flight of that aircraft in scheduled passenger interstate or intrastate air transportation; and
+
+(2) that exempt from the prohibition described in paragraph (1) any—(A) member of the flight crew on duty on an aircraft;
+
+(B) flight attendant on duty on an aircraft; and
+
+(C) Federal law enforcement officer acting in an official capacity.
+
+
+
+(b) Definitions.—In this section, the following definitions apply:(1) Flight.—The term “flight” means, with respect to an aircraft, the period beginning when the aircraft takes off and ending when the aircraft lands.
+
+(2) Mobile communications device.—(A) In general.—The term “mobile communications device” means any portable wireless telecommunications equipment utilized for the transmission or reception of voice data.
+
+(B) Limitation.—The term “mobile communications device” does not include a phone installed on an aircraft.
+
+
+
+(Added Pub. L. 115–254, div. B, title IV, § 403(a), Oct. 5, 2018, 132 Stat. 3328.)</akn:p></akn:content><akn:subsection eId="subsec_41725_a"><akn:num>(a)</akn:num><akn:heading>Prohibition.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation shall issue regulations—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41725_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section, the following definitions apply:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

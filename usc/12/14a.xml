@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/14a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/14a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/14a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_14a"><akn:num>14a</akn:num><akn:heading>Data standards; open data publication</akn:heading><akn:content><akn:p>§ 14a. Data standards; open data publication(a) Data standards(1) RequirementThe Comptroller of the Currency shall, by rule, adopt data standards for all collections of information that are regularly filed with or submitted to the Comptroller of the Currency by any entity with respect to which the Office of the Comptroller of the Currency is the appropriate Federal banking agency (as defined in section 1813 of this title).
+
+
+(2) ConsistencyThe data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+
+
+(b) Open data publicationAll public data assets published by the Comptroller of the Currency under title LXII or the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—(1) made available as an open Government data asset (as defined in section 3502 of title 44);
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+
+(R.S. § 333, as added Pub. L. 117–263, div. E, title LVIII, § 5841, Dec. 23, 2022, 136 Stat. 3431.)
+
+Editorial Notes
+
+References in TextTitle LXII, referred to in subsec. (b), probably means title LXII of the Revised Statutes, consisting of R.S. §§ 5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to th</akn:p></akn:content><akn:subsection eId="subsec_14a_a"><akn:num>(a)</akn:num><akn:heading>Data standards</akn:heading><akn:content><akn:p>(a) Data standards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14a_b"><akn:num>(b)</akn:num><akn:heading>Open data publication</akn:heading><akn:content><akn:p>(b) Open data publication All public data assets published by the Comptroller of the Currency under title LXII or the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

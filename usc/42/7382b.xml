@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/7382b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/7382b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/7382b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7382b"><akn:num>7382b</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 7382b. Definitions
+As used in this subchapter—(1) the term “elementary school” has the meaning provided by section 7801 of title 20;
+
+(2) the term “local educational agency” has the meaning provided by section 7801 of title 20;
+
+(3) the term “secondary school” has the meaning provided by section 7801 of title 20;
+
+(4) the term “Secretary” means the Secretary of Energy.
+
+(Pub. L. 103–382, title V, § 514, Oct. 20, 1994, 108 Stat. 4042; Pub. L. 107–110, title X, § 1076(bb), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 114–95, title IX, § 9215(h), Dec. 10, 2015, 129 Stat. 2167.)
+
+Editorial Notes
+Amendments2015—Pars. (1) to (3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+2002—Pars. (1) to (3). Pub. L. 107–110 substituted “7801” for “8801”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.</akn:p></akn:content><akn:subsection eId="subsec_7382b_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “elementary school” has the meaning provided by section 7801 of title 20;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7382b_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “local educational agency” has the meaning provided by section 7801 of title 20;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7382b_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “secondary school” has the meaning provided by section 7801 of title 20;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7382b_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the term “Secretary” means the Secretary of Energy.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

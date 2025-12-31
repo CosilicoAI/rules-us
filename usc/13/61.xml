@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/13/61" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/13/61/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/13/61/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_61"><akn:num>61</akn:num><akn:heading>Collection and publication</akn:heading><akn:content><akn:p>§ 61. Collection and publication(a) The Secretary shall collect, collate, and publish monthly statistics concerning—(1) the quantities of—(A) cotton seed, soybeans, peanuts, flaxseed, corn germs, copra, sesame seed, babassu nuts and kernels, and other oilseeds, nuts, and kernels received, crushed, and on hand at oil mills;
+
+(B) crude and refined oils, cakes, and meals, and other primary products, by type or kind, of the seeds, nuts, and kernels referred to in clause (A) of this paragraph, manufactured, shipped out, and on hand at oil mills and processing establishments;
+
+(C) crude and refined vegetable oils, by type or kind, used by class of product and held by manufacturers of vegetable short­ening, margarine, soap, and other principal products using large quantities of vegetable oils;
+
+(D) crude and refined vegetable oils, by type or kind, held in warehouses and in transit to consuming establishments; and
+
+
+(2) the quantities, by types or kinds, of—(A) animal fats and oils and greases produced;
+
+(B) animal fats and oils and greases shipped and held by producers;
+
+(C) animal fats and oils and greases, fish and marine mammal oils used by class of product and held by manufacturers of short­ening, margarine, soap, and other principal products which require the use of large quantities of animal fats and oils and greases, fish and marine mammal oils;
+
+(D) animal fats and oils and greases, fish and marine mammal oils held in warehouses, cold storage, and in transit to consuming establishments.
+
+
+
+(b) The Secretary shall not be required to collect, more frequently than he deems necessary to provide reliable statistical reports, information from any person who produces, holds, or consumes fats and oils in inconsequential quantities.
+
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1017.)
+
+Historical and Revision NotesBased on title 13, U.S.C., 1952 ed., § 81 (Aug. 7, 1916, ch. 274, § 1, 39 Stat. 436; July 25, 1947, ch. 331, 61 Stat. 457).
+References to the Secretary (of Commerce) were </akn:p></akn:content><akn:subsection eId="subsec_61_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall collect, collate, and publish monthly statistics concerning—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_61_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary shall not be required to collect, more frequently than he deems necessary to provide reliable statistical reports, information from any person who produces, holds, or consumes fats and oils in inconsequential quantities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/3473" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/3473/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/3473/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3473"><akn:num>3473</akn:num><akn:heading>Reorganization of Department</akn:heading><akn:content><akn:p>§ 3473. Reorganization of Department(a) Authorization; limitationsThe Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—(1) any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b);
+
+(2) the abolition of organizational entities established by this chapter; or
+
+(3) the alteration of the delegation of functions to any specific organizational entity required by this chapter.
+
+
+(b) Alteration, consolidation, or discontinuance of statutory and organizational entities(1) The Secretary may, in accordance with paragraph (2) of this subsection, consolidate, alter, or discontinue any of the following statutory entities, or reallocate any functions vested by statute in the following statutory entities:(A) the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students;
+
+(B) the Teacher Corps;
+
+(C) the Community College Unit;
+
+(D) the National Center for Education Statistics;
+
+(E) the National Institute of Education;
+
+(F) the Office of Environmental Education;
+
+(G) the Office of Consumers’ Education;
+
+(H) the Office of Indian Education;
+
+(I) the Office of Career Education;
+
+(J) the Office of Non-Public Education;
+
+(K) the bureau for the education and training for the handicapped; and
+
+(L) the administrative units for guidance and counseling programs, the veterans’ cost of instruction program, and the program for the gifted and talented children.
+
+
+(2) The Secretary may alter, consolidate, or discontinue any organizational entity cont</akn:p></akn:content><akn:subsection eId="subsec_3473_a"><akn:num>(a)</akn:num><akn:heading>Authorization; limitations</akn:heading><akn:content><akn:p>(a) Authorization; limitations The Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3473_b"><akn:num>(b)</akn:num><akn:heading>Alteration, consolidation, or discontinuance of statutory and organizational entities</akn:heading><akn:content><akn:p>(b) Alteration, consolidation, or discontinuance of statutory and organizational entities</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

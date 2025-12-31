@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1599c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1599c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1599c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1599c"><akn:num>1599c</akn:num><akn:heading>Health care professionals: enhanced appointment and compensation authority for personnel for care an</akn:heading><akn:content><akn:p>§ 1599c. Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces(a) In General.—(1) The Secretary of Defense may, at the discretion of the Secretary, exercise any authority for the appointment and pay of health care personnel under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense if the Secretary determines that the exercise of such authority is necessary in order to provide or enhance the capacity of the Department to provide care and treatment for members of the armed forces who are wounded or injured on active duty in the armed forces and to support the ongoing patient care and medical readiness, education, and training requirements of the Department of Defense.
+
+(2)(A) For purposes of section 3304 of title 5, the Secretary of Defense may—(i) designate any category of medical or health professional positions within the Department of Defense as a shortage category occupation or critical need occupation; and
+
+(ii) utilize the authority in such section to recruit and appoint qualified persons directly in the competitive service to positions so designated.
+
+
+(B) In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter I of chapter 33 of title 5.
+
+(C) Any designation by the Secretary for purposes of subparagraph (A)(i) shall be based on an analysis of current and future Department of Defense workforce requirements.
+
+
+
+(b) Termination of Authority.—(1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2030.
+
+(2) The Secretar</akn:p></akn:content><akn:subsection eId="subsec_1599c_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1599c_b"><akn:num>(b)</akn:num><akn:heading>Termination of Authority.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

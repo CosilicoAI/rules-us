@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17122" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17122/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17122/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17122"><akn:num>17122</akn:num><akn:heading>Research and development</akn:heading><akn:content><akn:p>§ 17122. Research and development(a) EstablishmentThe Federal Director and the Commercial Director, jointly and in coordination with the Advisory Committee, shall—(1)(A) survey existing research and studies relating to high-performance green buildings; and
+
+(B) coordinate activities of common interest;
+
+
+(2) develop and recommend a high-performance green building research plan that—(A) identifies information and research needs, including the relationships between human health, occupant productivity, safety, security, and accessibility and each of—(i) emissions from materials and products in the building;
+
+(ii) natural day lighting;
+
+(iii) ventilation choices and technologies;
+
+(iv) heating, cooling, and system control choices and technologies;
+
+(v) moisture control and mold;
+
+(vi) maintenance, cleaning, and pest control activities;
+
+(vii) acoustics;
+
+(viii) access to public transportation; and
+
+(ix) other issues relating to the health, comfort, productivity, and performance of occupants of the building;
+
+
+(B) promotes the development and dissemination of high-performance green building measurement tools that, at a minimum, may be used—(i) to monitor and assess the life-cycle performance of facilities (including demonstration projects) built as high-performance green buildings; and
+
+(ii) to perform life-cycle assessments; and
+
+
+(C) identifies and tests new and emerging technologies for high-performance green buildings;
+
+
+(3) assist the budget and life-cycle costing functions of the Directors’ Offices under section 17092(d) of this title;
+
+(4) study and identify potential benefits of green buildings relating to security, natural disaster, and emergency needs of the Federal Government; and
+
+(5) support other research initiatives determined by the Directors’ Offices.
+
+
+(b) Indoor air qualityThe Federal Director, in consultation with the Administrator of the Environmental Protection Agency and the Advisory Committee, shall develop and carry out a comprehensive indoor air</akn:p></akn:content><akn:subsection eId="subsec_17122_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Federal Director and the Commercial Director, jointly and in coordination with the Advisory Committee, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17122_b"><akn:num>(b)</akn:num><akn:heading>Indoor air quality</akn:heading><akn:content><akn:p>(b) Indoor air quality The Federal Director, in consultation with the Administrator of the Environmental Protection Agency and the Advisory Committee, shall develop and carry out a comprehensive indoor air quality program for all Federal facilities to ensure the safety of Federal workers and facility occupants—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/12591" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/12591/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/12591/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12591"><akn:num>12591</akn:num><akn:heading>Description of participants</akn:heading><akn:content><akn:p>§ 12591. Description of participants(a) In generalFor purposes of this division, an individual shall be considered to be a participant in a national service program carried out using assistance provided under section 12571 of this title if the individual—(1) meets such eligibility requirements, directly related to the tasks to be accomplished, as may be established by the program;
+
+(2) is selected by the program to serve in a position with the program;
+
+(3) is 17 years of age or older at the time the individual begins the term of service;
+
+(4) has received a high school diploma or its equivalent, agrees to obtain a high school diploma or its equivalent (unless this requirement is waived based on an individual education assessment conducted by the program) and the individual did not drop out of an elementary or secondary school to enroll in the program, or is enrolled in an institution of higher education on an ability to benefit basis and is considered eligible for funds under section 1091 of title 20; and
+
+(5) is a citizen or national of the United States or lawful permanent resident alien of the United States.
+
+
+(b) Special rules for certain youth programsAn individual shall be considered to be a participant in a youth corps program described in section 12572(a)(3)(B)(x) of this title that is carried out with assistance provided under section 12571(a) of this title if the individual—(1) satisfies the requirements specified in subsection (a), except paragraph (3) of such subsection; and
+
+(2) is between the ages of 16 and 25, inclusive, at the time the individual begins the term of service.
+
+
+(c) WaiverThe Corporation may waive the requirements of subsection (a)(4) with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.
+
+
+(Pub. L. 101–610, title I, § 137, as added Pub. L. 103–82, title I, §</akn:p></akn:content><akn:subsection eId="subsec_12591_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For purposes of this division, an individual shall be considered to be a participant in a national service program carried out using assistance provided under section 12571 of this title if the individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12591_b"><akn:num>(b)</akn:num><akn:heading>Special rules for certain youth programs</akn:heading><akn:content><akn:p>(b) Special rules for certain youth programs An individual shall be considered to be a participant in a youth corps program described in section 12572(a)(3)(B)(x) of this title that is carried out with assistance provided under section 12571(a) of this title if the individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12591_c"><akn:num>(c)</akn:num><akn:heading>Waiver</akn:heading><akn:content><akn:p>(c) Waiver The Corporation may waive the requirements of subsection (a)(4) with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

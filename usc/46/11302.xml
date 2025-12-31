@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/11302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/11302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/11302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11302"><akn:num>11302</akn:num><akn:heading>Manner of making entries</akn:heading><akn:content><akn:p>§ 11302. Manner of making entries
+Each entry made in the official logbook—(1) shall be made as soon as possible after the occurrence;
+
+(2) if not made on the day of the occurrence, shall be dated and state the date of the occurrence;
+
+(3) if the entry is about an occurrence happening before the vessel’s arrival at the final port of discharge, shall be made not later than 24 hours after the arrival;
+
+(4) shall be signed by the master; and
+
+(5) shall be signed by the chief mate or another seaman.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 581.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1130246:202
+
+
+Section 11302 describes the manner in which entries shall be made in the logbook, specifying when they shall be made, who shall sign them, and requiring that they shall be dated.</akn:p></akn:content><akn:subsection eId="subsec_11302_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) shall be made as soon as possible after the occurrence;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11302_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) if not made on the day of the occurrence, shall be dated and state the date of the occurrence;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11302_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) if the entry is about an occurrence happening before the vessel’s arrival at the final port of discharge, shall be made not later than 24 hours after the arrival;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11302_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) shall be signed by the master; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11302_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) shall be signed by the chief mate or another seaman.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16298d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16298d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16298d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16298d"><akn:num>16298d</akn:num><akn:heading>Carbon removal</akn:heading><akn:content><akn:p>§ 16298d. Carbon removal(a) EstablishmentThe Secretary, in coordination with the heads of appropriate Federal agencies, including the Secretary of Agriculture, shall establish a research, development, and demonstration program (referred to in this section as the “program”) to test, validate, or improve technologies and strategies to remove carbon dioxide from the atmosphere on a large scale.
+
+
+(b) Intraagency coordinationThe Secretary shall ensure that the program includes the coordinated participation of the Office of Fossil Energy, the Office of Science, and the Office of Energy Efficiency and Renewable Energy.
+
+
+(c) Program activitiesThe program may include research, development, and demonstration activities relating to—(1) direct air capture and storage technologies;
+
+(2) bioenergy with carbon capture and sequestration;
+
+(3) enhanced geological weathering;
+
+(4) agricultural practices;
+
+(5) forest management and afforestation; and
+
+(6) planned or managed carbon sinks, including natural and artificial.
+
+
+(d) RequirementsIn developing and identifying carbon removal technologies and strategies under the program, the Secretary shall consider—(1) land use changes, including impacts on natural and managed ecosystems;
+
+(2) ocean acidification;
+
+(3) net greenhouse gas emissions;
+
+(4) commercial viability;
+
+(5) potential for near-term impact;
+
+(6) potential for carbon reductions on a gigaton scale; and
+
+(7) economic cobenefits.
+
+
+(e) Air capture prize competitions(1) DefinitionsIn this subsection:(A) Dilute mediaThe term “dilute media” means media in which the concentration of carbon dioxide is less than 1 percent by volume.
+
+
+(B) Prize competitionThe term “prize competition” means the competitive technology prize competition established under paragraph (2).
+
+
+(C) Qualified carbon dioxide(i) In generalThe term “qualified carbon dioxide” means any carbon dioxide that—(I) is captured directly from the ambient air; and
+
+(II) is measured at the source of capture and verified </akn:p></akn:content><akn:subsection eId="subsec_16298d_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary, in coordination with the heads of appropriate Federal agencies, including the Secretary of Agriculture, shall establish a research, development, and demonstration program (referred to in this section as the “program”) to test, validate, or improve technologies and strategies to remove carbon dioxide from the atmosphere on a large scale.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_b"><akn:num>(b)</akn:num><akn:heading>Intraagency coordination</akn:heading><akn:content><akn:p>(b) Intraagency coordination The Secretary shall ensure that the program includes the coordinated participation of the Office of Fossil Energy, the Office of Science, and the Office of Energy Efficiency and Renewable Energy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_c"><akn:num>(c)</akn:num><akn:heading>Program activities</akn:heading><akn:content><akn:p>(c) Program activities The program may include research, development, and demonstration activities relating to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_d"><akn:num>(d)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(d) Requirements In developing and identifying carbon removal technologies and strategies under the program, the Secretary shall consider—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_e"><akn:num>(e)</akn:num><akn:heading>Air capture prize competitions</akn:heading><akn:content><akn:p>(e) Air capture prize competitions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_f"><akn:num>(f)</akn:num><akn:heading>Direct air capture test center</akn:heading><akn:content><akn:p>(f) Direct air capture test center</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_g"><akn:num>(g)</akn:num><akn:heading>Pilot and demonstration projects</akn:heading><akn:content><akn:p>(g) Pilot and demonstration projects In supporting the technology development activities under this section, the Secretary is encouraged to support carbon removal pilot and demonstration projects, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_h"><akn:num>(h)</akn:num><akn:heading>Intraagency collaboration</akn:heading><akn:content><akn:p>(h) Intraagency collaboration In carrying out the program, the Secretary shall encourage and promote collaborations among relevant offices and agencies within the Department.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_i"><akn:num>(i)</akn:num><akn:heading>Accounting</akn:heading><akn:content><akn:p>(i) Accounting The Secretary shall collaborate with the Administrator of the Environmental Protection Agency and the heads of other relevant Federal agencies to develop and improve accounting frameworks and tools to accurately measure carbon removal and sequestration methods and technologies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298d_j"><akn:num>(j)</akn:num><akn:heading>Regional direct air capture hubs</akn:heading><akn:content><akn:p>(j) Regional direct air capture hubs</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

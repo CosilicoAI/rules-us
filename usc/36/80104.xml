@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/80104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/80104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/80104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_80104"><akn:num>80104</akn:num><akn:heading>Property</akn:heading><akn:content><akn:p>§ 80104. Property
+The corporation may—(1) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation; and
+
+(2) issue instruments of indebtedness in relation to its real property.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1360.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+8010436:3502.Mar. 3, 1901, ch. 860, § 2, 31 Stat. 1439; Apr. 6, 1922, ch. 121, 42 Stat. 490; June 7, 1934, ch. 425, 48 Stat. 925; Dec. 15, 1975, Pub. L. 94–151, § 1, 89 Stat. 809.
+
+
+Clause (1) is substituted for “acquire, by devise, bequest, or otherwise, hold, purchase, and convey such real and personal estate as shall or may be required for the purpose of its incorporation with authority in said corporation, should it be by it deemed necessary so to do, to mortgage or otherwise encumber the real estate which it may hereafter own or acquire” for consistency in the revised title and to eliminate unnecessary words.
+Clause (2) is substituted for “and may give therefor such evidences of indebtedness as such corporation may decide upon” to eliminate unnecessary words. The word “instruments” is substituted for “evidences” for consistency in the revised title.</akn:p></akn:content><akn:subsection eId="subsec_80104_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80104_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) issue instruments of indebtedness in relation to its real property.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

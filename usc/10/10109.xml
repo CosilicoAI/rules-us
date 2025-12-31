@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/10109" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/10109/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/10109/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10109"><akn:num>10109</akn:num><akn:heading>Marine Corps Reserve: administration</akn:heading><akn:content><akn:p>§ 10109. Marine Corps Reserve: administration(a) The Marine Corps Reserve is the reserve component of the Marine Corps. It shall be organized, administered, trained, and supplied under the direction of the Commandant of the Marine Corps.
+
+(b) The departments and offices of Headquarters, Marine Corps have the same relation and responsibilities to the Marine Corps Reserve as they do to the Regular Marine Corps.
+
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2971.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 5252(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.</akn:p></akn:content><akn:subsection eId="subsec_10109_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Marine Corps Reserve is the reserve component of the Marine Corps. It shall be organized, administered, trained, and supplied under the direction of the Commandant of the Marine Corps.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10109_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The departments and offices of Headquarters, Marine Corps have the same relation and responsibilities to the Marine Corps Reserve as they do to the Regular Marine Corps.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

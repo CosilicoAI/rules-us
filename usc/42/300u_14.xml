@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300u–14" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300u–14/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300u–14/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300u_14"><akn:num>300u–14</akn:num><akn:heading>Healthy aging, living well; evaluation of community-based prevention and wellness programs for Medic</akn:heading><akn:content><akn:p>§ 300u–14. Healthy aging, living well; evaluation of community-based prevention and wellness programs for Medicare beneficiaries(a) Healthy aging, living well(1) In generalThe Secretary of Health and Human Services (referred to in this section as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention, shall award grants to State or local health departments and Indian tribes to carry out 5-year pilot programs to provide public health community interventions, screenings, and where necessary, clinical referrals for individuals who are between 55 and 64 years of age.
+
+
+(2) EligibilityTo be eligible to receive a grant under paragraph (1), an entity shall—(A) be—(i) a State health department;
+
+(ii) a local health department; or
+
+(iii) an Indian tribe;
+
+
+(B) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require including a description of the program to be carried out under the grant;
+
+(C) design a strategy for improving the health of the 55-to-64 year-old population through community-based public health interventions; and
+
+(D) demonstrate the capacity, if funded, to develop the relationships necessary with relevant health agencies, health care providers, community-based organizations, and insurers to carry out the activities described in paragraph (3), such relationships to include the identification of a community-based clinical partner, such as a community health center or rural health clinic.
+
+
+(3) Use of funds(A) In generalA State or local health department shall use amounts received under a grant under this subsection to carry out a program to provide the services described in this paragraph to individuals who are between 55 and 64 years of age.
+
+
+(B) Public health interventions(i) In generalIn developing and implementing such activities, a grantee shall collaborate with the Centers for Disease Control and Prevention and the Administration on Aging, and</akn:p></akn:content><akn:subsection eId="subsec_300u_14_a"><akn:num>(a)</akn:num><akn:heading>Healthy aging, living well</akn:heading><akn:content><akn:p>(a) Healthy aging, living well</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300u_14_b"><akn:num>(b)</akn:num><akn:heading>Evaluation and plan for community-based prevention and wellness programs for Medicare beneficiaries</akn:heading><akn:content><akn:p>(b) Evaluation and plan for community-based prevention and wellness programs for Medicare beneficiaries</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

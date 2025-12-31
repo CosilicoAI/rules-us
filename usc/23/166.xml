@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/166" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/166/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/166/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_166"><akn:num>166</akn:num><akn:heading>HOV facilities</akn:heading><akn:content><akn:p>§ 166. HOV facilities(a) In General.—(1) Authority of public authorities.—A public authority that has jurisdiction over the operation of a HOV facility shall establish the occupancy requirements of vehicles operating on the facility.
+
+(2) Occupancy requirement.—Except as otherwise provided by this section, no fewer than two occupants per vehicle may be required for use of a HOV facility.
+
+
+(b) Exceptions.—(1) In general.—Notwithstanding the occupancy requirement of subsection (a)(2), the exceptions in paragraphs (2) through (5) shall apply with respect to a public authority operating a HOV facility.
+
+(2) Motorcycles and bicycles.—(A) In general.—Subject to subparagraph (B), the public authority shall allow motorcycles and bicycles to use the HOV facility.
+
+(B) Safety exception.—(i) In general.—A public authority may restrict use of the HOV facility by motorcycles or bicycles (or both) if the authority certifies to the Secretary that such use would create a safety hazard and the Secretary accepts the certification.
+
+(ii) Acceptance of certification.—The Secretary may accept a certification under this subparagraph only after the Secretary publishes notice of the certification in the Federal Register and provides an opportunity for public comment.
+
+
+
+(3) Public transportation vehicles.—The public authority may allow public transportation vehicles to use the HOV facility if the authority—(A) establishes requirements for clearly identifying the vehicles;
+
+(B) establishes procedures for enforcing the restrictions on the use of the facility by the vehicles; and
+
+(C) provides equal access under the same rates, terms, and conditions for all public transportation vehicles and over-the-road buses serving the public.
+
+
+(4) High occupancy toll vehicles.—The public authority may allow vehicles not otherwise exempt pursuant to this subsection to use the HOV facility if the operators of the vehicles pay a toll charged by the authority for use of the facility and the authority—(A) e</akn:p></akn:content><akn:subsection eId="subsec_166_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_166_b"><akn:num>(b)</akn:num><akn:heading>Exceptions.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_166_c"><akn:num>(c)</akn:num><akn:heading>Requirements Applicable to Tolls.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_166_d"><akn:num>(d)</akn:num><akn:heading>HOV Facility Management, Operation, Monitoring, and Enforcement.—</akn:heading><akn:content><akn:p>(d) HOV</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_166_e"><akn:num>(e)</akn:num><akn:heading>Certification of Low Emission and Energy-Efficient Vehicles.—</akn:heading><akn:content><akn:p>(e) Not later than 180 days after the date of enactment of this section, the Administrator of the Environmental Protection Agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_166_f"><akn:num>(f)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(f) In this section, the following definitions apply:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_166_g"><akn:num>(g)</akn:num><akn:heading>Consultation of MPO.—</akn:heading><akn:content><akn:p>(g) If a HOV facility charging tolls under paragraph (4) or (5) of subsection (b) is on the Interstate System and located in a metropolitan planning area established in accordance with section 134, the public authority shall consult with the metropolitan planning organization for the area concerning the placement and amount of tolls on the facility.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

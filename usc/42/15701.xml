@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15701"><akn:num>15701</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>§ 15701. Findings
+The Congress finds the following:(1) Hurricanes, tropical storms, tornadoes, and thunderstorms can cause significant loss of life, injury, destruction of property, and economic and social disruption. All States and regions are vulnerable to these hazards.
+
+(2) The United States currently sustains several billion dollars in economic damages each year due to these windstorms. In recent decades, rapid development and population growth in high-risk areas has greatly increased overall vulnerability to windstorms.
+
+(3) Improved windstorm impact reduction measures have the potential to reduce these losses through—(A) cost-effective and affordable design and construction methods and practices;
+
+(B) effective mitigation programs at the local, State, and national level;
+
+(C) improved data collection and analysis and impact prediction methodologies;
+
+(D) engineering research on improving new structures and retrofitting existing ones to better withstand windstorms, atmospheric-related research to better understand the behavior and impact of windstorms on the built environment, and subsequent application of those research results; and
+
+(E) public education and outreach.
+
+
+(4) There is an appropriate role for the Federal Government in supporting windstorm impact reduction. An effective Federal program in windstorm impact reduction will require interagency coordination, and input from individuals, academia, the private sector, and other interested non-Federal entities.
+
+(Pub. L. 108–360, title II, § 202, Oct. 25, 2004, 118 Stat. 1675.)
+
+Statutory Notes and Related Subsidiaries
+Short Title of 2015 AmendmentPub. L. 114–52, § 1, Sept. 30, 2015, 129 Stat. 496, provided that: “This Act [amending sections 15702 to 15704 and 15706 of this title] may be cited as the ‘National Windstorm Impact Reduction Act Reauthorization of 2015’.”
+
+
+Short TitlePub. L. 108–360, title II, § 201, Oct. 25, 2004, 118 Stat. 1675, provided that: “This Act [probably should be ‘this title’, ena</akn:p></akn:content><akn:subsection eId="subsec_15701_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) Hurricanes, tropical storms, tornadoes, and thunderstorms can cause significant loss of life, injury, destruction of property, and economic and social disruption. All States and regions are vulnerable to these hazards.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15701_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The United States currently sustains several billion dollars in economic damages each year due to these windstorms. In recent decades, rapid development and population growth in high-risk areas has greatly increased overall vulnerability to windstorms.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15701_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) Improved windstorm impact reduction measures have the potential to reduce these losses through—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15701_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) There is an appropriate role for the Federal Government in supporting windstorm impact reduction. An effective Federal program in windstorm impact reduction will require interagency coordination, and input from individuals, academia, the private sector, and other interested non-Federal entities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

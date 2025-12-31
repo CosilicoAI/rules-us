@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3371c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3371c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3371c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3371c"><akn:num>3371c</akn:num><akn:heading>Notification of significant foreign cyber intrusions and active measures campaigns directed at elect</akn:heading><akn:content><akn:p>§ 3371c. Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices(a) DefinitionsIn this section:(1) Active measures campaignThe term “active measures campaign” means a foreign semi-covert or covert intelligence operation.
+
+
+(2) Candidate, election, and political partyThe terms “candidate”, “election”, and “political party” have the meanings given those terms in section 30101 of title 52.
+
+
+(3) Congressional leadershipThe term “congressional leadership” includes the following:(A) The majority leader of the Senate.
+
+(B) The minority leader of the Senate.
+
+(C) The Speaker of the House of Representatives.
+
+(D) The minority leader of the House of Representatives.
+
+
+(4) Cyber intrusionThe term “cyber intrusion” means an electronic occurrence that actually or imminently jeopardizes, without lawful authority, electronic election infrastructure, or the integrity, confidentiality, or availability of information within such infrastructure.
+
+
+(5) Electronic election infrastructureThe term “electronic election infrastructure” means an electronic information system of any of the following that is related to an election for Federal office:(A) The Federal Government.
+
+(B) A State or local government.
+
+(C) A political party.
+
+(D) The election campaign of a candidate.
+
+
+(6) Federal officeThe term “Federal office” has the meaning given that term in section 30101 of title 52.
+
+
+(7) High confidenceThe term “high confidence”, with respect to a determination, means that the determination is based on high-quality information from multiple sources.
+
+
+(8) Moderate confidenceThe term “moderate confidence”, with respect to a determination, means that a determination is credibly sourced and plausible but not of sufficient quality or corroborated sufficiently to warrant a higher level of confidence.
+
+
+(9) Other appropriate congressional committeesThe term “other appropriate congressional committees” means—(A) the Committee on Ar</akn:p></akn:content><akn:subsection eId="subsec_3371c_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3371c_b"><akn:num>(b)</akn:num><akn:heading>Determinations of significant foreign cyber intrusions and active measures campaigns</akn:heading><akn:content><akn:p>(b) Determinations of significant foreign cyber intrusions and active measures campaigns The Director of National Intelligence, the Director of the Federal Bureau of Investigation, and the Secretary of Homeland Security shall jointly carry out subsection (c) if such Directors and the Secretary jointly determine—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3371c_c"><akn:num>(c)</akn:num><akn:heading>Briefing</akn:heading><akn:content><akn:p>(c) Briefing</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

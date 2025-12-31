@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/129" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/129/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/129/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_129"><akn:num>129</akn:num><akn:heading>National Pearl Harbor Remembrance Day</akn:heading><akn:content><akn:p>§ 129. National Pearl Harbor Remembrance Day(a) Designation.—December 7 is National Pearl Harbor Remembrance Day.
+
+(b) Proclamation.—The President is requested to issue each year a proclamation calling on—(1) the people of the United States to observe National Pearl Harbor Remembrance Day with appropriate ceremonies and activities; and
+
+(2) all departments, agencies, and instrumentalities of the United States Government, and interested organizations, groups, and individuals, to fly the flag of the United States at halfstaff each December 7 in honor of the individuals who died as a result of their service at Pearl Harbor.
+
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1260.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+129(a)36:169l (words before “and the President”).Aug. 23, 1994, Pub. L. 103–308, 108 Stat. 1669.
+129(b)36:169l (words after “Remembrance Day’ ”). 
+
+
+In subsection (b)(2), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” for consistency in the revised title and with other titles of the United States Code.</akn:p></akn:content><akn:subsection eId="subsec_129_a"><akn:num>(a)</akn:num><akn:heading>Designation.—</akn:heading><akn:content><akn:p>(a) December 7 is National Pearl Harbor Remembrance Day.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129_b"><akn:num>(b)</akn:num><akn:heading>Proclamation.—</akn:heading><akn:content><akn:p>(b) The President is requested to issue each year a proclamation calling on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

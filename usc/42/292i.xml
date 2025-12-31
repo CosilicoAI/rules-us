@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/292i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/292i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/292i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_292i"><akn:num>292i</akn:num><akn:heading>Insurance account</akn:heading><akn:content><akn:p>§ 292i. Insurance account(a) In general(1) EstablishmentThere is hereby established a student loan insurance account (in this section referred to as the “Account”) which shall be available without fiscal year limitation to the Secretary for making payments in connection with the collection and default of loans insured under this subpart by the Secretary.
+
+
+(2) Funding(A) Except as provided in subparagraph (B), all amounts received by the Secretary as premium charges for insurance and as receipts, earnings, or proceeds derived from any claim or other assets acquired by the Secretary in connection with his operations under this subpart, and any other moneys, property, or assets derived by the Secretary from the operations of the Secretary in connection with this section, shall be deposited in the Account.
+
+(B) With respect to amounts described in subparagraph (A) that are received by the Secretary for fiscal year 1993 and subsequent fiscal years, the Secretary may, before depositing such amounts in the Account, reserve from the amounts each such fiscal year not more than $1,000,000 for obligation under section 292h(d) of this title.
+
+
+(3) ExpendituresAll payments in connection with the default of loans insured by the Secretary under this subpart shall be paid from the Account.
+
+
+
+(b) Contingent authority for issuance of notes or other obligationsIf at any time the moneys in the Account are insufficient to make payments in connection with the collection or default of any loan insured by the Secretary under this subpart, the Secretary of the Treasury may lend the Account such amounts as may be necessary to make the payments involved, subject to the Federal Credit Reform Act of 1990 [2 U.S.C. 661 et seq.].
+
+
+(July 1, 1944, ch. 373, title VII, § 710, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2007; amended Pub. L. 105–392, title I, § 143, Nov. 13, 1998, 112 Stat. 3581.)
+
+Editorial Notes
+
+References in TextThe Federal Credit Reform Act of 1990, refe</akn:p></akn:content><akn:subsection eId="subsec_292i_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_292i_b"><akn:num>(b)</akn:num><akn:heading>Contingent authority for issuance of notes or other obligations</akn:heading><akn:content><akn:p>(b) Contingent authority for issuance of notes or other obligations If at any time the moneys in the Account are insufficient to make payments in connection with the collection or default of any loan insured by the Secretary under this subpart, the Secretary of the Treasury may lend the Account such amounts as may be necessary to make the payments involved, subject to the Federal Credit Reform Act of 1990 [2 U.S.C. 661 et seq.].</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

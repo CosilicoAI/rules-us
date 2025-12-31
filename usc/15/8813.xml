@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8813" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8813/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8813/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8813"><akn:num>8813</akn:num><akn:heading>Subcommittee on Quantum Information Science</akn:heading><akn:content><akn:p>§ 8813. Subcommittee on Quantum Information Science(a) EstablishmentThe President shall establish, through the National Science and Technology Council, the Subcommittee on Quantum Information Science.
+
+
+(b) MembershipThe Subcommittee shall include a representative of—(1) the National Institute of Standards and Technology;
+
+(2) the National Science Foundation;
+
+(3) the Department of Energy;
+
+(4) the National Aeronautics and Space Administration;
+
+(5) the Department of Defense;
+
+(6) the Office of the Director of National Intelligence;
+
+(7) the Office of Management and Budget;
+
+(8) the Office of Science and Technology Policy; and
+
+(9) such other Federal department or agency as the President considers appropriate.
+
+
+(c) ChairpersonsThe Subcommittee shall be jointly chaired by the Director of the National Institute of Standards and Technology, the Director of the National Science Foundation, and the Secretary of Energy.
+
+
+(d) ResponsibilitiesThe Subcommittee shall—(1) coordinate the quantum information science and technology research, information sharing about international standards development and use, and education activities and programs of the Federal agencies;
+
+(2) establish goals and priorities of the Program, based on identified knowledge and workforce gaps and other national needs;
+
+(3) assess and recommend Federal infrastructure needs to support the Program;
+
+(4) assess the status, development, and diversity of the United States quantum information science workforce;
+
+(5) assess the global outlook for quantum information science research and development efforts;
+
+(6) evaluate opportunities for international cooperation with strategic allies on research and development in quantum information science and technology; and
+
+(7) propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced quantum information science research portfolio and an appropriate level of research effort.
+
+
+(e) Strategi</akn:p></akn:content><akn:subsection eId="subsec_8813_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The President shall establish, through the National Science and Technology Council, the Subcommittee on Quantum Information Science.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8813_b"><akn:num>(b)</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>(b) Membership The Subcommittee shall include a representative of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8813_c"><akn:num>(c)</akn:num><akn:heading>Chairpersons</akn:heading><akn:content><akn:p>(c) Chairpersons The Subcommittee shall be jointly chaired by the Director of the National Institute of Standards and Technology, the Director of the National Science Foundation, and the Secretary of Energy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8813_d"><akn:num>(d)</akn:num><akn:heading>Responsibilities</akn:heading><akn:content><akn:p>(d) Responsibilities The Subcommittee shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8813_e"><akn:num>(e)</akn:num><akn:heading>Strategic plans</akn:heading><akn:content><akn:p>(e) Strategic plans In order to guide the activities of the Program and meet the goals, priorities, and anticipated outcomes of the Federal departments and agencies described in subsection (b), the Subcommittee shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8813_f"><akn:num>(f)</akn:num><akn:heading>Submittal to Congress</akn:heading><akn:content><akn:p>(f) Submittal to Congress The chairpersons of the Subcommittee shall submit to the President, the Advisory Committee, and the appropriate committees of Congress each strategic plan developed under subsection (e) and any updates thereto.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8813_g"><akn:num>(g)</akn:num><akn:heading>Annual program budget report</akn:heading><akn:content><akn:p>(g) Annual program budget report</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8813_h"><akn:num>(h)</akn:num><akn:heading>Report on quantum networking and communications</akn:heading><akn:content><akn:p>(h) Report on quantum networking and communications</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

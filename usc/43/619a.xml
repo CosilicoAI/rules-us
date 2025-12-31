@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/619a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/619a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/619a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_619a"><akn:num>619a</akn:num><akn:heading>Renewal contracts for power</akn:heading><akn:content><akn:p>§ 619a. Renewal contracts for power(a) Offering of contracts by Secretary; total power obligation; conforming of regulations; contract expiration and restrictions(1) The Secretary of Energy shall offer:(A) To each contractor for power generated at Hoover Dam a contract for delivery commencing October 1, 2017, of the amount of capacity and firm energy specified for that contractor in the following table:
+
+
+
+
+
+
+
+
+
+
+Schedule A
+
+
+
+Long-term Schedule A contingent capacity and associated firm energy for offers of contracts to Boulder Canyon project contractors
+
+
+ContractorContingent capacity (kW)Firm energy (thousands of kWh)
+
+SummerWinterTotal
+
+
+Metropolitan Water District of Southern California249,948859,163368,212 1,227,375
+City of Los Angeles495,732464,108199,175663,283
+Southern California Edison Company280,245166,71271,448238,160
+City of Glendale18,17845,02819,29764,325
+City of Pasadena11,10838,62216,55355,175
+City of Burbank5,17614,0706,03020,100
+Arizona Power Authority190,869429,582184,107613,689
+Colorado River Commission of Nevada190,869429,582184,107613,689
+United States, for Boulder City20,19853,20022,80076,000
+Totals1,462,3232,500,0671,071,7293,571,796
+
+
+
+
+(B) To each existing contractor for power generated at Hoover Dam, a contract, for delivery commencing October 1, 2017, of the amount of contingent capacity and firm energy specified for that contractor in the following table:
+
+
+
+
+
+
+
+
+
+
+Schedule B
+
+
+
+Long-term Schedule B contingent capacity and associated firm energy for offers of contracts to Boulder Canyon project contractors
+
+
+ContractorContingent capacity (kW)Firm energy (thousands of kWh)
+
+SummerWinterTotal
+
+
+City of Glendale2,0202,7491,1943,943
+City of Pasadena9,0892,3991,0413,440
+City of Burbank15,1493,6041,5665,170
+City of Anaheim40,39634,44214,95849,400
+City of Azusa4,0393,3121,4384,750
+City of Banning2,0201,3245761,900
+City of Colton3,0302,6501,1503,800
+City of Riverside30,29625,83111,21937,050
+City of Vernon22,21818,5468,05426,600
+Arizona189,860140</akn:p></akn:content><akn:subsection eId="subsec_619a_a"><akn:num>(a)</akn:num><akn:heading>Offering of contracts by Secretary; total power obligation; conforming of regulations; contract expiration and restrictions</akn:heading><akn:content><akn:p>(a) Offering of contracts by Secretary; total power obligation; conforming of regulations; contract expiration and restrictions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_619a_b"><akn:num>(b)</akn:num><akn:heading>Prejudice of rights of contract holders under Boulder Canyon Project Act</akn:heading><akn:content><akn:p>(b) Prejudice of rights of contract holders under Boulder Canyon Project Act Nothing in the Criteria shall be construed to prejudice any rights conferred by the Boulder Canyon Project Act, as amended and supplemented [43 U.S.C. 617 et seq.], on the holder of a contract described in subsection (a) of this section not in default thereunder on September 30, 2067.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_619a_c"><akn:num>(c)</akn:num><akn:heading>Offer of contract to other entities</akn:heading><akn:content><akn:p>(c) Offer of contract to other entities If any existing contractor fails to accept an offered contract, the Secretary of Energy shall offer the contingent capacity and firm energy thus available first to other entities in the same State listed in Schedule A and Schedule B, second to other entities listed in Schedule A and Schedule B, third to other entities in the same State which receive contingent capacity and firm energy under subsection (a)(2) of this section, and last to other entities which receive contingent capacity and firm energy under subsection (a)(2) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_619a_d"><akn:num>(d)</akn:num><akn:heading>Water availability</akn:heading><akn:content><akn:p>(d) Water availability Except with respect to energy purchased at the request of an allottee pursuant to subsection (a)(3), the obligation of the Secretary of Energy to deliver contingent capacity and firm energy pursuant to contracts entered into pursuant to this section shall be subject to availability of the water needed to produce such contingent capacity and firm energy. In the event that water is not available to produce the contingent capacity and firm energy set forth in Schedule A, Schedule B, and Schedule D, the Secretary of Energy shall adjust the contingent capacity and firm energy offered under those Schedules in the same proportion as those contractors’ allocations of Schedule A, Schedule B, and Schedule D contingent capacity and firm energy bears to the full rated contingent capacity and firm energy obligations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_619a_e"><akn:num>(e)</akn:num><akn:heading>Congressional exercise of reserved right</akn:heading><akn:content><akn:p>(e) Congressional exercise of reserved right The provisions of this section constitute an exercise by the Congress of the right reserved by it in section 5(b) of the Boulder Canyon Project Act, as amended and supplemented [43 U.S.C. 617d(b)], to prescribe terms and conditions for contracts for electrical energy generated at Hoover Dam. This section constitutes the exclusive method for disposing of capacity and energy from Hoover Dam for the period beginning October 1, 2017, and ending September 30, 2067.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_619a_f"><akn:num>(f)</akn:num><akn:heading>Court challenges; disputes and disagreements</akn:heading><akn:content><akn:p>(f) Court challenges; disputes and disagreements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_619a_g"><akn:num>(g)</akn:num><akn:heading>Congressional declaration of purpose</akn:heading><akn:content><akn:p>(g) Congressional declaration of purpose It is the purpose of this subchapter to ensure that the rights of contractors for capacity and energy from the Boulder Canyon project for the period beginning October 1, 2017, and ending September 30, 2067, will vest with certainty and finality.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

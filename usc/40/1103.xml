@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/1103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/1103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/1103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1103"><akn:num>1103</akn:num><akn:heading>Selection procedure</akn:heading><akn:content><akn:p>§ 1103. Selection procedure(a) In General.—These procedures apply to the procurement of architectural and engineering services by an agency head.
+
+(b) Annual Statements.—The agency head shall encourage firms to submit annually a statement of qualifications and performance data.
+
+(c) Evaluation.—For each proposed project, the agency head shall evaluate current statements of qualifications and performance data on file with the agency, together with statements submitted by other firms regarding the proposed project. The agency head shall conduct discussions with at least 3 firms to consider anticipated concepts and compare alternative methods for furnishing services.
+
+(d) Selection.—From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required. Selection shall be based on criteria established and published by the agency head.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1130.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+110340:543.June 30, 1949, ch. 288, title IX, § 903, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279.
+
+
+In subsection (b), the words “engaged in the lawful practice of their profession” are omitted as unnecessary because of the definition of “firm” in section 1102 of the revised title.
+In subsection (c), the words “compare alternative methods for furnishing services” are substituted for “the relative utility of alternative methods of approach for furnishing the required services” to eliminate unnecessary words.
+
+Statutory Notes and Related Subsidiaries
+Architectural and Engineering ServicesPub. L. 108–136, div. A, title XIV, § 1427(b), Nov. 24, 2003, 117 Stat. 1670, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(l)(8), Dec. 27, 2021, 135 Stat. 2161, provided that: 
+“Architectural and engineering services (as defined in section 11</akn:p></akn:content><akn:subsection eId="subsec_1103_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) These procedures apply to the procurement of architectural and engineering services by an agency head.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1103_b"><akn:num>(b)</akn:num><akn:heading>Annual Statements.—</akn:heading><akn:content><akn:p>(b) The agency head shall encourage firms to submit annually a statement of qualifications and performance data.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1103_c"><akn:num>(c)</akn:num><akn:heading>Evaluation.—</akn:heading><akn:content><akn:p>(c) For each proposed project, the agency head shall evaluate current statements of qualifications and performance data on file with the agency, together with statements submitted by other firms regarding the proposed project. The agency head shall conduct discussions with at least 3 firms to consider anticipated concepts and compare alternative methods for furnishing services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1103_d"><akn:num>(d)</akn:num><akn:heading>Selection.—</akn:heading><akn:content><akn:p>(d) From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required. Selection shall be based on criteria established and published by the agency head.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

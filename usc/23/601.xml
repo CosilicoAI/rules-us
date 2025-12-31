@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/601" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/601/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/601/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_601"><akn:num>601</akn:num><akn:heading>Generally applicable provisions</akn:heading><akn:content><akn:p>§ 601. Generally applicable provisions(a) Definitions.—The following definitions apply to sections 601 through 609:(1) Contingent commitment.—The term “contingent commitment” means a commitment to obligate an amount from future available budget authority that is—(A) contingent on those funds being made available in law at a future date; and
+
+(B) not an obligation of the Federal Government.
+
+
+(2) Eligible project costs.—The term “eligible project costs” means amounts substantially all of which are paid by, or for the account of, an obligor in connection with a project, including the cost of—(A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
+
+(B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment;
+
+(C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction; and
+
+(D) capitalizing a rural projects fund.
+
+
+(3) Federal credit instrument.—The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under the TIFIA program with respect to a project.
+
+(4) Investment-grade rating.—The term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.
+
+(5) Lender.—The term “lender” means any non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)), including—</akn:p></akn:content><akn:subsection eId="subsec_601_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) The following definitions apply to sections 601 through 609:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_b"><akn:num>(b)</akn:num><akn:heading>Treatment of Chapter.—</akn:heading><akn:content><akn:p>(b) For purposes of this title, this chapter shall be treated as being part of chapter 1.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

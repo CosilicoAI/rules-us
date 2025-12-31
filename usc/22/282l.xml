@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/282l" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/282l/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/282l/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_282l"><akn:num>282l</akn:num><akn:heading>Capital stock increase</akn:heading><akn:content><akn:p>§ 282l. Capital stock increase(a) Subscription authorized(1) In generalThe United States Governor of the Corporation may—(A) vote for an increase of 1,000,000 shares in the authorized capital stock of the Corporation; and
+
+(B) subscribe on behalf of the United States to 250,000 additional shares of the capital stock of the Corporation.
+
+
+(2) Prior appropriation requiredThe subscription authority provided in paragraph (1) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+
+
+(b) Limitations on authorization of appropriationsIn order to pay for the subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.
+
+
+(Aug. 11, 1955, ch. 788, § 14, as added Pub. L. 102–145, § 125(a), Oct. 28, 1991, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 97.)</akn:p></akn:content><akn:subsection eId="subsec_282l_a"><akn:num>(a)</akn:num><akn:heading>Subscription authorized</akn:heading><akn:content><akn:p>(a) Subscription authorized</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_282l_b"><akn:num>(b)</akn:num><akn:heading>Limitations on authorization of appropriations</akn:heading><akn:content><akn:p>(b) Limitations on authorization of appropriations In order to pay for the subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

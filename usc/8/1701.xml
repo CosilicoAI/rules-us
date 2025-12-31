@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/8/1701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/8/1701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/8/1701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1701"><akn:num>1701</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1701. Definitions
+In this chapter:(1) AlienThe term “alien” has the meaning given the term in section 1101(a)(3) of this title.
+
+
+(2) Appropriate committees of CongressThe term “appropriate committees of Congress” means the following:(A) The Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
+
+(B) The Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives.
+
+
+(3) Chimera systemThe term “Chimera system” means the interoperable electronic data system required to be developed and implemented by section 1722(a)(2) of this title.
+
+
+(4) Federal law enforcement agenciesThe term “Federal law enforcement agencies” means the following:(A) The United States Secret Service.
+
+(B) The Drug Enforcement Administration.
+
+(C) The Federal Bureau of Investigation.
+
+(D) The Immigration and Naturalization Service.
+
+(E) The United States Marshall Service.
+
+(F) The Naval Criminal Investigative Service.
+
+(G) The Coast Guard.
+
+(H) The Diplomatic Security Service.
+
+(I) The United States Postal Inspection Service.
+
+(J) The Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.
+
+(K) The United States Customs Service.
+
+(L) The National Park Service.
+
+
+(5) Intelligence communityThe term “intelligence community” has the meaning given that term in section 3003(4) of title 50.
+
+
+(6) PresidentThe term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
+
+
+(7) USA PATRIOT ActThe term “USA PATRIOT Act” means the Uniting </akn:p></akn:content><akn:subsection eId="subsec_1701_1"><akn:num>(1)</akn:num><akn:heading>Alien</akn:heading><akn:content><akn:p>(1) Alien The term “alien” has the meaning given the term in section 1101(a)(3) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1701_2"><akn:num>(2)</akn:num><akn:heading>Appropriate committees of Congress</akn:heading><akn:content><akn:p>(2) Appropriate committees of Congress The term “appropriate committees of Congress” means the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1701_3"><akn:num>(3)</akn:num><akn:heading>Chimera system</akn:heading><akn:content><akn:p>(3) Chimera system The term “Chimera system” means the interoperable electronic data system required to be developed and implemented by section 1722(a)(2) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1701_4"><akn:num>(4)</akn:num><akn:heading>Federal law enforcement agencies</akn:heading><akn:content><akn:p>(4) Federal law enforcement agencies The term “Federal law enforcement agencies” means the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1701_5"><akn:num>(5)</akn:num><akn:heading>Intelligence community</akn:heading><akn:content><akn:p>(5) Intelligence community The term “intelligence community” has the meaning given that term in section 3003(4) of title 50.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1701_6"><akn:num>(6)</akn:num><akn:heading>President</akn:heading><akn:content><akn:p>(6) President The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1701_7"><akn:num>(7)</akn:num><akn:heading>USA PATRIOT Act</akn:heading><akn:content><akn:p>(7) USA PATRIOT Act The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

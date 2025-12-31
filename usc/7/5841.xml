@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/5841" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/5841/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/5841/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5841"><akn:num>5841</akn:num><akn:heading>Establishment, purpose, and functions of National Genetic Resources Program</akn:heading><akn:content><akn:p>§ 5841. Establishment, purpose, and functions of National Genetic Resources Program(a) In generalThe Secretary of Agriculture shall provide for a National Genetic Resources Program.
+
+
+(b) PurposeThe program is established for the purpose of maintaining and enhancing a program providing for the collection, preservation, and dissemination of genetic material of importance to American food and agriculture production.
+
+
+(c) AdministrationThe program shall be administered by the Secretary through the Agricultural Research Service.
+
+
+(d) FunctionsThe Secretary, acting through the program, shall—(1) provide for the collection, classification, preservation, and dissemination of genetic material of importance to the food and agriculture sectors of the United States;
+
+(2) conduct research on the genetic materials collected and on methods for storage and preservation of those materials;
+
+(3) coordinate the activities of the program with similar activities occurring domestically;
+
+(4) unless otherwise prohibited by law, have the right to make available on request, without charge and without regard to the country from which the request originates, the genetic material that the program assembles;
+
+(5) expand the types of genetic resources included in the program to develop a comprehensive genetic resources program which includes plants (including silvicultural species), animal, aquatic, insect, microbiological, and other types of genetic resources of importance to food and agriculture, as resources permit;
+
+(6) develop and implement a national strategic germplasm and cultivar collection assessment and utilization plan that takes into consideration the resources and research necessary to address the significant backlog of characterization and maintenance of existing accessions considered to be critical to preserve the viability of, and public access to, germplasm and cultivars; and
+
+(7) engage in such other activities as the Secretary determines appropriate and as the resources of</akn:p></akn:content><akn:subsection eId="subsec_5841_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Agriculture shall provide for a National Genetic Resources Program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5841_b"><akn:num>(b)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(b) Purpose The program is established for the purpose of maintaining and enhancing a program providing for the collection, preservation, and dissemination of genetic material of importance to American food and agriculture production.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5841_c"><akn:num>(c)</akn:num><akn:heading>Administration</akn:heading><akn:content><akn:p>(c) Administration The program shall be administered by the Secretary through the Agricultural Research Service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5841_d"><akn:num>(d)</akn:num><akn:heading>Functions</akn:heading><akn:content><akn:p>(d) Functions The Secretary, acting through the program, shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

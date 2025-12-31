@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/2204h" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/2204h/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/2204h/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2204h"><akn:num>2204h</akn:num><akn:heading>Local food production and program evaluation</akn:heading><akn:content><akn:p>§ 2204h. Local food production and program evaluation(a) In generalThe Secretary shall—(1) collect data on—(A) the production and marketing of locally or regionally produced agricultural food products; and
+
+(B) direct and indirect regulatory compliance costs affecting the production and marketing of locally or regionally produced agricultural food products;
+
+
+(2) facilitate interagency collaboration and data sharing on programs relating to local and regional food systems;
+
+(3) monitor—(A) the effectiveness of programs designed to expand or facilitate local food systems; and
+
+(B) barriers to local and regional market access due to Federal regulation of small-scale production; and
+
+
+(4) evaluate the manner in which local food systems—(A) contribute to improving community food security; and
+
+(B) assist populations with limited access to healthy food.
+
+
+
+(b) RequirementsIn carrying out this section, the Secretary shall, at a minimum—(1) collect and distribute comprehensive reporting of prices and volume of locally or regionally produced agricultural food products;
+
+(2) conduct surveys and analysis and publish reports relating to the production, handling, distribution, retail sales, and trend studies (including consumer purchasing patterns) of or on locally or regionally produced agricultural food products;
+
+(3) evaluate the effectiveness of existing programs in growing local and regional food systems, including—(A) the impact of local food systems on job creation and economic development;
+
+(B) the level of participation in the Local Agriculture Market Program established under section 1627c of this title, including the percentage of projects funded in comparison to applicants and the types of eligible entities receiving funds;
+
+(C) the ability of participants to leverage private capital and a synopsis of the places from which non-Federal funds are derived; and
+
+(D) any additional resources required to aid in the development or expansion of local and regional food system</akn:p></akn:content><akn:subsection eId="subsec_2204h_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2204h_b"><akn:num>(b)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(b) Requirements In carrying out this section, the Secretary shall, at a minimum—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2204h_c"><akn:num>(c)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(c) Report Not later than 1 year after February 7, 2014, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress that has been made in implementing this section and identifying any additional needs and barriers related to developing local and regional food systems.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

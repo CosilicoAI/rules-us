@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/2338" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/2338/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/2338/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2338"><akn:num>2338</akn:num><akn:heading>Exclusive Federal jurisdiction</akn:heading><akn:content><akn:p>§ 2338. Exclusive Federal jurisdiction
+The district courts of the United States shall have exclusive jurisdiction over an action brought under this chapter.
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4524.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

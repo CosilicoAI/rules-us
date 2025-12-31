@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/9858h" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/9858h/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/9858h/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9858h"><akn:num>9858h</akn:num><akn:heading>Payments</akn:heading><akn:content><akn:p>§ 9858h. Payments(a) In generalSubject to the availability of appropriations, a State that has an application approved by the Secretary under section 9858c(d) of this title shall be entitled to a payment under this section for each fiscal year in an amount equal to its allotment under section 9858m of this title for such fiscal year.
+
+
+(b) Method of payment(1) In generalSubject to paragraph (2), the Secretary may make payments to a State in installments, and in advance or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments, as the Secretary may determine.
+
+
+(2) LimitationThe Secretary may not make such payments in a manner that prevents the State from complying with the requirement specified in section 9858c(c)(3) of this title.
+
+
+
+(c) Spending of funds by StatePayments to a State from the allotment under section 9858m of this title for any fiscal year may be obligated by the State in that fiscal year or in the succeeding fiscal year.
+
+
+(Pub. L. 97–35, title VI, § 658J, as added Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–27, title III, § 310, Apr. 10, 1991, 105 Stat. 153; Pub. L. 102–401, § 3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, § 8(a), (c)(1), Nov. 4, 1992, 106 Stat. 5035, 5036; Pub. L. 103–171, § 8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, § 610, Aug. 22, 1996, 110 Stat. 2284.)
+
+Editorial Notes
+Amendments1996—Subsec. (c). Pub. L. 104–193 substituted “obligated” for “expended” and “succeeding fiscal year” for “succeeding 3 fiscal years”.
+1993—Subsec. (c). Pub. L. 103–171 made technical correction to directory language of Pub. L. 102–586, § 8(a). See 1992 Amendment note below.
+1992—Pub. L. 102–401 and Pub. L. 102–586, § 8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, § 5082(2), which added this section.
+Subsec. (c). Pub. L. 102–586, § 8(a), as amended by Pub. L. 103–171, substituted “expended” for “obligate</akn:p></akn:content><akn:subsection eId="subsec_9858h_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Subject to the availability of appropriations, a State that has an application approved by the Secretary under section 9858c(d) of this title shall be entitled to a payment under this section for each fiscal year in an amount equal to its allotment under section 9858m of this title for such fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9858h_b"><akn:num>(b)</akn:num><akn:heading>Method of payment</akn:heading><akn:content><akn:p>(b) Method of payment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9858h_c"><akn:num>(c)</akn:num><akn:heading>Spending of funds by State</akn:heading><akn:content><akn:p>(c) Spending of funds by State Payments to a State from the allotment under section 9858m of this title for any fiscal year may be obligated by the State in that fiscal year or in the succeeding fiscal year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/2066" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/2066/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/2066/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2066"><akn:num>2066</akn:num><akn:heading>Advisory Committee on Homeless Veterans</akn:heading><akn:content><akn:p>§ 2066. Advisory Committee on Homeless Veterans(a) Establishment.—(1) There is established in the Department the Advisory Committee on Homeless Veterans (hereinafter in this section referred to as the “Committee”).
+
+(2) The Committee shall consist of not more than 15 members appointed by the Secretary from among the following:(A) Veterans service organizations.
+
+(B) Advocates of homeless veterans and other homeless individuals.
+
+(C) Community-based providers of services to homeless individuals.
+
+(D) Previously homeless veterans.
+
+(E) State veterans affairs officials.
+
+(F) Experts in the treatment of individuals with mental illness.
+
+(G) Experts in the treatment of substance use disorders.
+
+(H) Experts in the development of permanent housing alternatives for lower income populations.
+
+(I) Experts in vocational rehabilitation.
+
+(J) Such other organizations or groups as the Secretary considers appropriate.
+
+
+(3) The Committee shall include, as ex officio members, the following:(A) The Secretary of Labor (or a representative of the Secretary selected after consultation with the Assistant Secretary of Labor for Veterans’ Employment).
+
+(B) The Secretary of Defense (or a representative of the Secretary).
+
+(C) The Secretary of Health and Human Services (or a representative of the Secretary).
+
+(D) The Secretary of Housing and Urban Development (or a representative of the Secretary).
+
+(E) The Executive Director of the Interagency Council on Homelessness (or a representative of the Executive Director).
+
+(F) The Under Secretary for Health (or a representative of the Under Secretary after consultation with the Director of the Office of Homeless Veterans Programs).
+
+(G) The Under Secretary for Benefits (or a representative of the Under Secretary after consultation with the Director of the Office of Homeless Veterans Programs).
+
+
+(4)(A) The Secretary shall determine the terms of service and allowances of the members of the Committee, except that a term of service may not exceed th</akn:p></akn:content><akn:subsection eId="subsec_2066_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2066_b"><akn:num>(b)</akn:num><akn:heading>Duties.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2066_c"><akn:num>(c)</akn:num><akn:heading>Reports.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2066_d"><akn:num>(d)</akn:num><akn:heading>Termination.—</akn:heading><akn:content><akn:p>(d) The Committee shall cease to exist September 30, 2026.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

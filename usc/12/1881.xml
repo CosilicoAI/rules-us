@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/1881" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/1881/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/1881/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1881"><akn:num>1881</akn:num><akn:heading>“Federal supervisory agency” defined</akn:heading><akn:content><akn:p>§ 1881. “Federal supervisory agency” defined
+As used in this chapter the term “Federal supervisory agency” means the appropriate Federal banking agency, as defined in section 1813(q) of this title.
+(Pub. L. 90–389, § 2, July 7, 1968, 82 Stat. 294; Pub. L. 101–73, title VII, § 744(h), Aug. 9, 1989, 103 Stat. 439; Pub. L. 108–386, § 8(d), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 111–203, title III, § 356(1), July 21, 2010, 124 Stat. 1547.)
+
+Editorial Notes
+Amendments2010—Pub. L. 111–203 substituted “the term ‘Federal supervisory agency’ means the appropriate Federal banking agency, as defined in section 1813(q) of this title.” for “the term ‘Federal supervisory agency’ means—
+“(1) The Comptroller of the Currency with respect to national banks,
+“(2) The Board of Governors of the Federal Reserve System with respect to Federal Reserve banks and State banks which are members of the Federal Reserve System,
+“(3) The Federal Deposit Insurance Corporation with respect to State banks which are not members of the Federal Reserve System but the deposits of which are insured by the Federal Deposit Insurance Corporation and State savings associations, and
+“(4) The Director of the Office of Thrift Supervision with respect to Federal savings.”
+2004—Par. (1). Pub. L. 108–386 struck out “and district banks” after “national banks”.
+1989—Par. (3). Pub. L. 101–73, § 744(h)(2), inserted reference to State savings associations.
+Par. (4). Pub. L. 101–73, § 744(h)(1), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”, struck out “and loan” after “Federal savings”, and struck out “associations, and institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” before period at end.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
+
+E</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

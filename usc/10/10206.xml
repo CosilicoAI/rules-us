@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/10206" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/10206/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/10206/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10206"><akn:num>10206</akn:num><akn:heading>Members: physical examinations</akn:heading><akn:content><akn:p>§ 10206. Members: physical examinations(a) Each member of the Selected Reserve who is not on active duty shall—(1) have a comprehensive medical readiness health and dental assessment on an annual basis, including routine annual preventive health care screening and periodic comprehensive physical examinations in accordance with regulations prescribed by the Secretary of Defense that reflect morbidity and mortality risks associated with the military service, age, and gender of the member; and
+
+(2) execute and submit to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties.
+
+
+(b) A member of the Individual Ready Reserve or inactive National Guard shall be examined for physical fitness as necessary to determine the member’s physical fitness for—(1) military duty or promotion;
+
+(2) attendance at a school of the armed forces; or
+
+(3) other action related to career progression.
+
+
+(c) Each Reserve in an active status, or on an inactive status list, who is not on active duty shall execute and submit annually to the Secretary concerned a certificate of physical condition.
+
+(d) The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty.
+
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amended Pub. L. 107–107, div. A, title V, § 516, Dec. 28, 2001, 115 Stat. 1094; Pub. L. 109–163, div. A, title VII, § 732(a), (b), Jan. 6, 2006, 119 Stat. 3351, 3352.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 1004(a), (b) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(4)(A).
+
+Amendments2006—Pub. L. 109–163, § 732(b), struck out “periodic” before “physical” in section catchline.
+Subsec. (a)(1). Pub. L. 109–163, § 732(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “be examined as to t</akn:p></akn:content><akn:subsection eId="subsec_10206_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Each member of the Selected Reserve who is not on active duty shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10206_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A member of the Individual Ready Reserve or inactive National Guard shall be examined for physical fitness as necessary to determine the member’s physical fitness for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10206_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Each Reserve in an active status, or on an inactive status list, who is not on active duty shall execute and submit annually to the Secretary concerned a certificate of physical condition.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10206_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

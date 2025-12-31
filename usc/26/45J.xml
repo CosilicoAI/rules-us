@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/45J" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/45J/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/45J/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_45J"><akn:num>45J</akn:num><akn:heading>Credit for production from advanced nuclear power facilities</akn:heading><akn:content><akn:p>§ 45J. Credit for production from advanced nuclear power facilities(a) General ruleFor purposes of section 38, the advanced nuclear power facility production credit of any taxpayer for any taxable year is equal to the product of—(1) 1.8 cents, multiplied by
+
+(2) the kilowatt hours of electricity—(A) produced by the taxpayer at an advanced nuclear power facility during the 8-year period beginning on the date the facility was originally placed in service, and
+
+(B) sold by the taxpayer to an unrelated person during the taxable year.
+
+
+
+(b) National limitation(1) In generalThe amount of credit which would (but for this subsection and subsection (c)) be allowed with respect to any facility for any taxable year shall not exceed the amount which bears the same ratio to such amount of credit as—(A) the national megawatt capacity limitation allocated to the facility, bears to
+
+(B) the total megawatt nameplate capacity of such facility.
+
+
+(2) Amount of national limitationThe aggregate amount of national megawatt capacity limitation allocated by the Secretary under paragraph (3) shall not exceed 6,000 megawatts.
+
+
+(3) Allocation of limitationThe Secretary shall allocate the national megawatt capacity limitation in such manner as the Secretary may prescribe.
+
+
+(4) RegulationsNot later than 6 months after the date of the enactment of or any amendment to this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection. Such regulations shall provide a certification process under which the Secretary, after consultation with the Secretary of Energy, shall approve and allocate the national megawatt capacity limitation.
+
+
+(5) Allocation of unutilized limitation(A) In generalAny unutilized national megawatt capacity limitation shall be allocated by the Secretary under paragraph (3) as rapidly as is practicable after December 31, 2020—(i) first to facilities placed in service on or before such date to the exten</akn:p></akn:content><akn:subsection eId="subsec_45J_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of section 38, the advanced nuclear power facility production credit of any taxpayer for any taxable year is equal to the product of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45J_b"><akn:num>(b)</akn:num><akn:heading>National limitation</akn:heading><akn:content><akn:p>(b) National limitation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45J_c"><akn:num>(c)</akn:num><akn:heading>Other limitations</akn:heading><akn:content><akn:p>(c) Other limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45J_d"><akn:num>(d)</akn:num><akn:heading>Advanced nuclear power facility</akn:heading><akn:content><akn:p>(d) Advanced nuclear power facility For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45J_e"><akn:num>(e)</akn:num><akn:heading>Transfer of credit by certain public entities</akn:heading><akn:content><akn:p>(e) Transfer of credit by certain public entities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45J_f"><akn:num>(f)</akn:num><akn:heading>Other rules to apply</akn:heading><akn:content><akn:p>(f) Other rules to apply Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e) shall apply for purposes of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

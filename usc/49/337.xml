@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/337" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/337/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/337/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_337"><akn:num>337</akn:num><akn:heading>Budget request for the Director of Intelligence and Security</akn:heading><akn:content><akn:p>§ 337. Budget request for the Director of Intelligence and Security
+The annual budget the Secretary of Transportation submits shall include a specific request for the Office of the Director of Intelligence and Security. In deciding on the budget request for the Office, the Secretary shall consider recommendations in the annual report submitted under section 44938(a) of this title.
+(Pub. L. 103–272, § 4(j)(10)(A), July 5, 1994, 108 Stat. 1367.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+33749 App.:1652b (note).Nov. 16, 1990, Pub. L. 101–604, § 102(d), 104 Stat. 3069.
+
+
+The words “the Secretary of Transportation submits” are substituted for “submission for the Department of Transportation”, and the words “budget request for the Office” are substituted for “budget request for the Director”, for clarity and consistency in the revised title and with other titles of the United States Code.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

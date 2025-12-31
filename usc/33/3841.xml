@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3841" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3841/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3841/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3841"><akn:num>3841</akn:num><akn:heading>Prohibitions</akn:heading><akn:content><akn:p>§ 3841. Prohibitions(a) In generalNotwithstanding any other provision of law, it is unlawful for any person—(1) to act in violation of this chapter, or any regulation prescribed under this chapter;
+
+(2) to sell or distribute in domestic or international commerce organotin or an antifouling system containing organotin;
+
+(3) to manufacture, process, or use organotin to formulate an antifouling system;
+
+(4) to apply an antifouling system containing organotin on any vessel to which this chapter applies; or
+
+(5) after the Convention enters into force for the United States, to apply or otherwise use in a manner inconsistent with the Convention, an antifouling system on any vessel that is subject to this chapter.
+
+
+(b) Vessel hullsExcept as provided in subsection (c), no vessel shall bear on its hull or outer surface any antifouling system containing organotin, regardless of when such system was applied, unless that vessel bears an overcoating which forms a barrier to organotin leaching from the underlying antifouling system.
+
+
+(c) Limitations(1) Excepted vesselSubsection (b) does not apply to fixed or floating platforms, FSUs, or FPSOs that were constructed prior to January 1, 2003, and that have not been in dry dock on or after that date.
+
+
+(2) Sale, manufacture, etc.This section does not apply to—(A) the sale, distribution, or use pursuant to any agreement between the Administrator and any person that results in an earlier prohibition or cancellation date than specified in this chapter; or
+
+(B) the manufacture, processing, formulation, sale, distribution, or use of organotin or antifouling systems containing organotin used or intended for use only for sonar domes or in conductivity sensors in oceanographic instruments.
+
+
+
+(Pub. L. 111–281, title X, § 1031, Oct. 15, 2010, 124 Stat. 3027.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a)(1), (4), (5) and (c)(2)(A), was in the original “this title”, meaning title X of Pub. L. 111–281, Oct. 15, </akn:p></akn:content><akn:subsection eId="subsec_3841_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Notwithstanding any other provision of law, it is unlawful for any person—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3841_b"><akn:num>(b)</akn:num><akn:heading>Vessel hulls</akn:heading><akn:content><akn:p>(b) Vessel hulls Except as provided in subsection (c), no vessel shall bear on its hull or outer surface any antifouling system containing organotin, regardless of when such system was applied, unless that vessel bears an overcoating which forms a barrier to organotin leaching from the underlying antifouling system.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3841_c"><akn:num>(c)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(c) Limitations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

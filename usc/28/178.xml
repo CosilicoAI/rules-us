@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/178" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/178/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/178/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_178"><akn:num>178</akn:num><akn:heading>Retirement of judges of the Court of Federal Claims</akn:heading><akn:content><akn:p>§ 178. Retirement of judges of the Court of Federal Claims(a) A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service. The age and service requirements for retirement under this subsection are as follows:
+
+
+
+
+
+
+Attained Age:Years of Service:
+
+
+6515  
+6614  
+6713  
+6812  
+6911  
+7010.
+
+
+
+
+(b) A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, during the remainder of such judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—(1) such judge has served at least 1 full term as judge of the Court of Federal Claims, and
+
+(2) not earlier than 9 months before the date on which the term of office of such judge expired, and not later than 6 months before such date, such judge advised the President in writing that such judge was willing to accept reappointment as a judge of the Court of Federal Claims.
+
+
+(c) A judge of the Court of Federal Claims who has served at least 5 years, whether continuously or otherwise, as such a judge, and who retires or is removed from office upon the sole ground of mental or physical disability shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s lifetime—(1) an annuity equal to 50 percent of the salary payable to Court of Federal Claims judges in regular active service, if before retirement such judge served less than 10 years, or
+
+(2) an annuity equal to the salary payable to Court of Federal Claims judges in regular active servic</akn:p></akn:content><akn:subsection eId="subsec_178_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service. The age and service requirements for retirement under this subsection are as follows:
+
+
+
+
+
+
+Attained Age:Years of Service:
+
+
+6515  
+6614  
+6713  
+6812  
+6911  
+7010.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, during the remainder of such judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) A judge of the Court of Federal Claims who has served at least 5 years, whether continuously or otherwise, as such a judge, and who retires or is removed from office upon the sole ground of mental or physical disability shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s lifetime—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) A judge who retires under subsection (a) or (b) may, at or after such retirement, be called upon by the chief judge of the Court of Federal Claims to perform such judicial duties with the Court of Federal Claims as may be requested of the retired judge for any period or periods specified by the chief judge, except that in the case of any such judge— Any act, or failure to act, by an individual performing judicial duties pursuant to this subsection shall have the same force and effect as if it were the act (or failure to act) of a Court of Federal Claims judge in regular active service. Any individual performing judicial duties pursuant to this subsection shall receive the allowances for official travel and other expenses of a judge in regular active service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g) For purposes of calculating the years of service of an individual under subsections (a) and (c), only those years of service as a judge of the Court of Federal Claims or a commissioner of the United States Court of Claims shall be credited, and that portion of the aggregate number of years of such service that is a fractional part of 1 year shall not be credited if it is less than 6 months, and shall be credited if it is 6 months or more.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_h"><akn:num>(h)</akn:num><akn:content><akn:p>(h) An annuity under this section shall be payable at the times and in the same manner as the salary of a Court of Federal Claims judge in regular active service. Such annuity shall begin to accrue on the day following the day on which the annuitant’s salary as a judge in regular active service ceases to accrue.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_i"><akn:num>(i)</akn:num><akn:content><akn:p>(i)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_j"><akn:num>(j)</akn:num><akn:content><akn:p>(j)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

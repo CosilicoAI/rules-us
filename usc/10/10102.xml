@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/10102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/10102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/10102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10102"><akn:num>10102</akn:num><akn:heading>Purpose of reserve components</akn:heading><akn:content><akn:p>§ 10102. Purpose of reserve components
+The purpose of each reserve component is to provide trained units and qualified persons available for active duty in the armed forces, in time of war or national emergency, and at such other times as the national security may require, to fill the needs of the armed forces whenever more units and persons are needed than are in the regular components.
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 108–375, div. A, title V, § 511, Oct. 28, 2004, 118 Stat. 1877.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 262 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+Amendments2004—Pub. L. 108–375 struck out “, during and after the period needed to procure and train additional units and qualified persons to achieve the planned mobilization,” after “whenever”.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

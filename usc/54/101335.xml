@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101335" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101335/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101335/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101335"><akn:num>101335</akn:num><akn:heading>Housing programs</akn:heading><akn:content><akn:p>§ 101335. Housing programs(a) Joint Public-Private Sector Housing Program.—(1) Lease-to-build program.—Subject to the appropriation of necessary funds in advance, the Secretary may lease—(A) Federal land and interests in land to qualified persons for the construction of field employee quarters for any period not to exceed 50 years; and
+
+(B) developed and undeveloped non-Federal land for providing field employee quarters.
+
+
+(2) Competitive leasing.—Each lease under paragraph (1)(A) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated contracting procedures.
+
+(3) Terms and conditions.—Each lease under paragraph (1)(A)—(A) shall stipulate whether operation and maintenance of field employee quarters is to be provided by the lessee, field employees, or the Federal Government;
+
+(B) shall require that the construction and rehabilitation of field employee quarters be done in accordance with the requirements of the Service and local applicable building codes and industry standards;
+
+(C) shall contain additional terms and conditions as may be appropriate to protect the Federal interest, including limits on rents that the lessee may charge field employees for the occupancy of quarters, conditions on maintenance and repairs, and agreements on the provision of charges for utilities and other infrastructure; and
+
+(D) may be granted at less than fair market value if the Secretary determines that the lease will improve the quality and availability of field employee quarters.
+
+
+(4) Contributions by federal government.—The Secretary may make payments, subject to appropriations, or contributions in kind, in advance or on a continuing basis, to reduce the costs of planning, construction, or rehabilitation of quarters on or off Federal land under a lease under this subsection.
+
+
+(b) Rental Guarantee Program.—(1) General authority.—Subject to the appropriation of necessary funds in advance, the Secretary may enter into a lease-to-build a</akn:p></akn:content><akn:subsection eId="subsec_101335_a"><akn:num>(a)</akn:num><akn:heading>Joint Public-Private Sector Housing Program.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101335_b"><akn:num>(b)</akn:num><akn:heading>Rental Guarantee Program.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

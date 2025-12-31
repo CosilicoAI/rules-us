@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2753" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2753/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2753/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2753"><akn:num>2753</akn:num><akn:heading>Notification of cost overruns for certain Department of Energy projects</akn:heading><akn:content><akn:p>§ 2753. Notification of cost overruns for certain Department of Energy projects(a) Establishment of cost and schedule baselines(1) Stockpile life extension and new nuclear weapon program projects(A) In generalThe Administrator shall establish a cost and schedule baseline for each nuclear stockpile life extension or new nuclear weapon program project of the Administration. In addition to the requirement under subparagraph (B), the cost and schedule baseline of a nuclear stockpile life extension or new nuclear weapon program project established under this subparagraph shall be the cost and schedule as described in the first Selected Acquisition Report submitted under section 2537(a) of this title for the project.
+
+
+(B) Per unit costThe cost baseline developed under subparagraph (A) shall include, with respect to each life extension project,11 See Codification note below. an estimated cost for each warhead in the project.
+
+
+(C) Notification to congressional defense committeesNot later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submit the cost and schedule baseline to the congressional defense committees.
+
+
+
+(2) Major alteration projects(A) In generalThe Administrator shall establish a cost and schedule baseline for each major alteration project.
+
+
+(B) Per unit costThe cost baseline developed under subparagraph (A) shall include, with respect to each major alteration project, an estimated cost for each warhead in the project.
+
+
+(C) Notification to congressional defense committeesNot later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submit the cost and schedule baseline to the congressional defense committees.
+
+
+(D) Major alteration project definedIn this paragraph, the term “major alteration project” means a nuclear weapon system alteration project of the Administration the cost of which exceeds $800,000,000.
+
+
+
+(3) Defense-funded constructi</akn:p></akn:content><akn:subsection eId="subsec_2753_a"><akn:num>(a)</akn:num><akn:heading>Establishment of cost and schedule baselines</akn:heading><akn:content><akn:p>(a) Establishment of cost and schedule baselines</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2753_b"><akn:num>(b)</akn:num><akn:heading>Notification of costs exceeding baseline</akn:heading><akn:content><akn:p>(b) Notification of costs exceeding baseline The Administrator or the Secretary, as applicable, shall notify the congressional defense committees not later than 30 days after determining that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2753_c"><akn:num>(c)</akn:num><akn:heading>Notification of determination with respect to termination or continuation of projects and root cause analyses</akn:heading><akn:content><akn:p>(c) Notification of determination with respect to termination or continuation of projects and root cause analyses Not later than 90 days after submitting a notification under subsection (b) with respect to a project, the Administrator or the Secretary, as applicable, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2753_d"><akn:num>(d)</akn:num><akn:heading>Applicability of requirements to revised cost and schedule baselines</akn:heading><akn:content><akn:p>(d) Applicability of requirements to revised cost and schedule baselines A revised cost and schedule baseline established under subsection (c) shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

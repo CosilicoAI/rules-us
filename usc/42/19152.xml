@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/19152" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/19152/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/19152/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_19152"><akn:num>19152</akn:num><akn:heading>Collection and reporting of data on Federal research awards</akn:heading><akn:content><akn:p>§ 19152. Collection and reporting of data on Federal research awards(a) Collection of data(1) In generalEach Federal research agency shall collect, as practicable, with respect to all applications for merit-reviewed research and development awards made by such agency, standardized record-level annual information on demographics, primary field, award type, institution type, review rating, budget request, funding outcome, and awarded budget.
+
+
+(2) Uniformity and standardizationThe Director, in consultation with the heads of each Federal research agency, shall establish, and update as necessary, a policy to ensure uniformity and standardization of the data collection required under paragraph (1).
+
+
+(3) Record-level data(A) RequirementBeginning not later than two years after the issuance of the policy under paragraph (2) to Federal research agencies, and on an annual basis thereafter, each Federal research agency shall submit to the National Center for Science and Engineering Statistics record-level data collected under paragraph (1) in the form required by the Director of the National Science Foundation.
+
+
+(B) Previous dataAs part of the first submission under subparagraph (A), each Federal research agency, to the extent practicable, shall also submit comparable record-level data, if it is available to the agency, for the five years preceding the date of such submission, or an analysis for why such data cannot be provided.
+
+
+
+
+(b) Reporting of dataThe Director of the National Science Foundation shall publish statistical summary data, as practicable, collected under this section, disaggregated and cross-tabulated by race, ethnicity, sex, socioeconomic indicators, which may include employment status, occupation, educational attainment, parental education, and income, geographic location, and years since completion of doctoral degree, including in conjunction with the National Science Foundation’s report required by section 1885d of this title.
+
+
+(Pub. L. 117–167, div. B,</akn:p></akn:content><akn:subsection eId="subsec_19152_a"><akn:num>(a)</akn:num><akn:heading>Collection of data</akn:heading><akn:content><akn:p>(a) Collection of data</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19152_b"><akn:num>(b)</akn:num><akn:heading>Reporting of data</akn:heading><akn:content><akn:p>(b) Reporting of data The Director of the National Science Foundation shall publish statistical summary data, as practicable, collected under this section, disaggregated and cross-tabulated by race, ethnicity, sex, socioeconomic indicators, which may include employment status, occupation, educational attainment, parental education, and income, geographic location, and years since completion of doctoral degree, including in conjunction with the National Science Foundation’s report required by section 1885d of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

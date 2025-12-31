@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/43" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/43/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/43/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_43"><akn:num>43</akn:num><akn:heading>Enhanced oil recovery credit</akn:heading><akn:content><akn:p>§ 43. Enhanced oil recovery credit(a) General ruleFor purposes of section 38, the enhanced oil recovery credit for any taxable year is an amount equal to 15 percent of the taxpayer’s qualified enhanced oil recovery costs for such taxable year.
+
+
+(b) Phase-out of credit as crude oil prices increase(1) In generalThe amount of the credit determined under subsection (a) for any taxable year shall be reduced by an amount which bears the same ratio to the amount of such credit (determined without regard to this paragraph) as—(A) the amount by which the reference price for the calendar year preceding the calendar year in which the taxable year begins exceeds $28, bears to
+
+(B) $6.
+
+
+(2) Reference priceFor purposes of this subsection, the term “reference price” means, with respect to any calendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
+
+
+(3) Inflation adjustment(A) In generalIn the case of any taxable year beginning in a calendar year after 1991, there shall be substituted for the $28 amount under paragraph (1)(A) an amount equal to the product of—(i) $28, multiplied by
+
+(ii) the inflation adjustment factor for such calendar year.
+
+
+(B) Inflation adjustment factorThe term “inflation adjustment factor” means, with respect to any calendar year, a fraction the numerator of which is the GNP implicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
+
+
+
+
+(c) Qualified enhanced oil recovery costsFor purposes of this section—(1) In generalThe term “qualified enhanced oil recovery costs” means any of the followin</akn:p></akn:content><akn:subsection eId="subsec_43_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of section 38, the enhanced oil recovery credit for any taxable year is an amount equal to 15 percent of the taxpayer’s qualified enhanced oil recovery costs for such taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_43_b"><akn:num>(b)</akn:num><akn:heading>Phase-out of credit as crude oil prices increase</akn:heading><akn:content><akn:p>(b) Phase-out of credit as crude oil prices increase</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_43_c"><akn:num>(c)</akn:num><akn:heading>Qualified enhanced oil recovery costs</akn:heading><akn:content><akn:p>(c) Qualified enhanced oil recovery costs For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_43_d"><akn:num>(d)</akn:num><akn:heading>Other rules</akn:heading><akn:content><akn:p>(d) Other rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_43_e"><akn:num>(e)</akn:num><akn:heading>Election to have credit not apply</akn:heading><akn:content><akn:p>(e) Election to have credit not apply</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

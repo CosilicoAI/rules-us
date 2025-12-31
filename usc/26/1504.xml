@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1504" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1504/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1504/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1504"><akn:num>1504</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1504. Definitions(a) Affiliated group definedFor purposes of this subtitle—(1) In generalThe term “affiliated group” means—(A) 1 or more chains of includible corporations connected through stock ownership with a common parent corporation which is an includible corporation, but only if—
+
+(B)(i) the common parent owns directly stock meeting the requirements of paragraph (2) in at least 1 of the other includible corporations, and
+
+(ii) stock meeting the requirements of paragraph (2) in each of the includible corporations (except the common parent) is owned directly by 1 or more of the other includible corporations.
+
+
+
+(2) 80-percent voting and value testThe ownership of stock of any corporation meets the requirements of this paragraph if it—(A) possesses at least 80 percent of the total voting power of the stock of such corporation, and
+
+(B) has a value equal to at least 80 percent of the total value of the stock of such corporation.
+
+
+(3) 5 years must elapse before reconsolidation(A) In generalIf—(i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group, and
+
+(ii) such corporation ceases to be a member of such group,
+
+
+with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group with the same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
+
+(B) Secretary may waive application of subparagraph (A)The Secretary may waive the application of subparagraph (A) to any corporation for any period subject to such conditions as the Secretary may prescribe.
+
+
+
+(4) Stock not to include certain preferred stockFor purposes of this subsection, the term “stock” does not include any stock which—(A) is not entitled to vote,
+
+(B) is limited and preferred as to d</akn:p></akn:content><akn:subsection eId="subsec_1504_a"><akn:num>(a)</akn:num><akn:heading>Affiliated group defined</akn:heading><akn:content><akn:p>(a) Affiliated group defined For purposes of this subtitle—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1504_b"><akn:num>(b)</akn:num><akn:heading>Definition of “includible corporation”</akn:heading><akn:content><akn:p>(b) Definition of “includible corporation” As used in this chapter, the term “includible corporation” means any corporation except—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1504_c"><akn:num>(c)</akn:num><akn:heading>Includible insurance companies</akn:heading><akn:content><akn:p>(c) Includible insurance companies Notwithstanding the provisions of paragraph (2) of subsection (b)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1504_d"><akn:num>(d)</akn:num><akn:heading>Subsidiary formed to comply with foreign law</akn:heading><akn:content><akn:p>(d) Subsidiary formed to comply with foreign law In the case of a domestic corporation owning or controlling, directly or indirectly, 100 percent of the capital stock (exclusive of directors’ qualifying shares) of a corporation organized under the laws of a contiguous foreign country and maintained solely for the purpose of complying with the laws of such country as to title and operation of property, such foreign corporation may, at the option of the domestic corporation, be treated for the purpose of this subtitle as a domestic corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1504_e"><akn:num>(e)</akn:num><akn:heading>Includible tax-exempt organizations</akn:heading><akn:content><akn:p>(e) Includible tax-exempt organizations Despite the provisions of paragraph (1) of subsection (b), two or more organizations exempt from taxation under section 501, one or more of which is described in section 501(c)(2) and the others of which derive income from such 501(c)(2) organizations, shall be considered as includible corporations for the purpose of the application of subsection (a) to such organizations alone.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1504_f"><akn:num>(f)</akn:num><akn:heading>Special rule for certain amounts derived from a corporation previously treated as a DISC</akn:heading><akn:content><akn:p>(f) Special rule for certain amounts derived from a corporation previously treated as a DISC In determining the consolidated taxable income of an affiliated group for any taxable year beginning after December 31, 1984, a corporation which had been a DISC and which would otherwise be a member of such group shall not be treated as such a member with respect to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

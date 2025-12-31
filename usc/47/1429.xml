@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/1429" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/1429/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/1429/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1429"><akn:num>1429</akn:num><akn:heading>Audit and report</akn:heading><akn:content><akn:p>§ 1429. Audit and report(a) Audit(1) In generalThe Secretary of Commerce shall enter into a contract with an independent auditor to conduct an audit, on an annual basis, of the First Responder Network Authority in accordance with general accounting principles and procedures applicable to commercial corporate transactions. Each audit conducted under this paragraph shall be made available to the appropriate committees of Congress.
+
+
+(2) LocationAny audit conducted under paragraph (1) shall be conducted at the place or places where accounts of the First Responder Network Authority are normally kept.
+
+
+(3) Access to First Responder Network Authority books and documents(A) In generalFor purposes of an audit conducted under paragraph (1), the representatives of the independent auditor shall—(i) have access to all books, accounts, records, reports, files, and all other papers, things, or property belonging to or in use by the First Responder Network Authority that pertain to the financial transactions of the First Responder Network Authority and are necessary to facilitate the audit; and
+
+(ii) be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians.
+
+
+(B) RequirementAll books, accounts, records, reports, files, papers, and property of the First Responder Network Authority shall remain in the possession and custody of the First Responder Network Authority.
+
+
+
+
+(b) Report(1) In generalThe independent auditor selected to conduct an audit under this section shall submit a report of each audit conducted under subsection (a) to—(A) the appropriate committees of Congress;
+
+(B) the President; and
+
+(C) the First Responder Network Authority.
+
+
+(2) ContentsEach report submitted under paragraph (1) shall contain—(A) such comments and information as the independent auditor determines necessary to inform Congress of the financial operations and condition of the First Responder Network Authority;
+
+(B) any </akn:p></akn:content><akn:subsection eId="subsec_1429_a"><akn:num>(a)</akn:num><akn:heading>Audit</akn:heading><akn:content><akn:p>(a) Audit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1429_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

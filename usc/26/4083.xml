@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4083" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4083/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4083/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4083"><akn:num>4083</akn:num><akn:heading>Definitions; special rule; administrative authority</akn:heading><akn:content><akn:p>§ 4083. Definitions; special rule; administrative authority(a) Taxable fuelFor purposes of this subpart—(1) In generalThe term “taxable fuel” means—(A) gasoline,
+
+(B) diesel fuel, and
+
+(C) kerosene.
+
+
+(2) GasolineThe term “gasoline”—(A) includes any gasoline blend, other than qualified methanol or ethanol fuel (as defined in section 4041(b)(2)(B)), partially exempt methanol or ethanol fuel (as defined in section 4041(m)(2)), or a denatured alcohol, and
+
+(B) includes, to the extent prescribed in regulations—(i) any gasoline blend stock, and
+
+(ii) any product commonly used as an additive in gasoline (other than alcohol).
+
+
+
+For purposes of subparagraph (B)(i), the term “gasoline blend stock” means any petroleum product component of gasoline.
+
+(3) Diesel fuel(A) In generalThe term “diesel fuel” means—(i) any liquid (other than gasoline) which is suitable for use as a fuel in a diesel-powered highway vehicle, or a diesel-powered train,
+
+(ii) transmix, and
+
+(iii) diesel fuel blend stocks identified by the Secretary.
+
+
+(B) TransmixFor purposes of subparagraph (A), the term “transmix” means a byproduct of refined products pipeline operations created by the mixing of different specification products during pipeline transportation.
+
+
+
+
+(b) Commercial aviationFor purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2028, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
+
+
+(c) Certain uses defined as removalIf any person uses taxable fuel (other than in the production of taxable </akn:p></akn:content><akn:subsection eId="subsec_4083_a"><akn:num>(a)</akn:num><akn:heading>Taxable fuel</akn:heading><akn:content><akn:p>(a) Taxable fuel For purposes of this subpart—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4083_b"><akn:num>(b)</akn:num><akn:heading>Commercial aviation</akn:heading><akn:content><akn:p>(b) Commercial aviation For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2028, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4083_c"><akn:num>(c)</akn:num><akn:heading>Certain uses defined as removal</akn:heading><akn:content><akn:p>(c) Certain uses defined as removal If any person uses taxable fuel (other than in the production of taxable fuels or special fuels referred to in section 4041), such use shall for the purposes of this chapter be considered a removal.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4083_d"><akn:num>(d)</akn:num><akn:heading>Administrative authority</akn:heading><akn:content><akn:p>(d) Administrative authority</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/12005" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/12005/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/12005/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12005"><akn:num>12005</akn:num><akn:heading>Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower ha</akn:heading><akn:content><akn:p>§ 12005. Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status(a)(1) Subject to paragraph (2), the authorized strength of the Army and the Air Force in reserve commissioned officers in an active status in each grade named in paragraph (2) is as prescribed by the Secretary of the Army or the Secretary of the Air Force, respectively. A vacancy in any grade may be filled by an authorized appointment in any lower grade.
+
+(2) A strength prescribed by the Secretary concerned under paragraph (1) for a grade may not be higher than the percentage of the strength authorized for the Army or the Air Force, as the case may be, under section 12003 of this title that is specified for that grade as follows:
+
+
+
+
+
+
+
+GradeArmy percentageAir Force percentage
+
+
+Colonel21.8
+Lieutenant colonel64.6
+Major1314.0
+Captain3532.0
+First lieutenant and second lieutenant (when combined with the number authorized for general officer grades under section 12004 of this title)4447.6
+
+
+
+
+(3) Medical officers and dental officers shall not be counted for the purposes of this subsection.
+
+
+(b)(1) The authorized strengths of the Navy Reserve in line officers in an active status in the grades of captain, commander, lieutenant commander, and lieutenant, and in the grades of lieutenant (junior grade) and ensign combined, are the following percentages of the total authorized number of those officers:
+
+
+
+
+
+
+
+
+
+
+Captain1.5 percent  
+Commander7   percent  
+Lieutenant commander22   percent  
+Lieutenant37   percent  
+Lieutenant (junior grade) and ensign (when combined with the number authorized for flag officer grades under section 12004 of this title)32.5 percent.
+
+
+
+
+(2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
+
+
+(c)(1) The authorized s</akn:p></akn:content><akn:subsection eId="subsec_12005_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12005_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12005_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12005_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

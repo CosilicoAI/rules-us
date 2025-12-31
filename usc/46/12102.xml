@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/12102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/12102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/12102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12102"><akn:num>12102</akn:num><akn:heading>Vessels requiring documentation</akn:heading><akn:content><akn:p>§ 12102. Vessels requiring documentation(a) In General.—Except as otherwise provided, a vessel may engage in a trade only if the vessel has been issued a certificate of documentation with an endorsement for that trade under this chapter.
+
+(b) Vessels Less Than 5 Net Tons.—A vessel of less than 5 net tons may engage in a trade without being documented if the vessel otherwise satisfies the requirements to engage in the particular trade.
+
+(c) Barges.—A barge qualified to engage in the coastwise trade may engage in the coastwise trade, without being documented, on rivers, harbors, lakes (except the Great Lakes), canals, and inland waters.
+
+(d) Aquaculture Waiver.—(1) Permitting of nonqualified vessels to perform certain aquaculture support operations.—Notwithstanding section 12113 and any other law, the Secretary of Transportation may issue a waiver allowing a documented vessel with a registry endorsement or a foreign flag vessel to be used in operations that treat aquaculture fish for or protect aquaculture fish from disease, parasitic infestation, or other threats to their health if the Secretary finds, after publishing a notice in the Federal Register, that a suitable vessel of the United States is not available that could perform those services.
+
+(2) Prohibition.—Vessels operating under a waiver issued under this subsection may not engage in any coastwise transportation.
+
+
+(Pub. L. 109–304, § 5, Oct. 6, 2006, 120 Stat. 1492; Pub. L. 111–281, title IX, § 901(c)(1), Oct. 15, 2010, 124 Stat. 3008.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+12102(a)46:12106(b).
+ 46:12108(b).
+ 46:12110(a).
+12102(b)46:12102(a) (related to tonnage).
+12102(c)46:12110(b).
+
+
+
+Editorial Notes
+Prior ProvisionsA prior section 12102, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, § 5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, § 7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, § 104(a)(</akn:p></akn:content><akn:subsection eId="subsec_12102_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Except as otherwise provided, a vessel may engage in a trade only if the vessel has been issued a certificate of documentation with an endorsement for that trade under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12102_b"><akn:num>(b)</akn:num><akn:heading>Vessels Less Than 5 Net Tons.—</akn:heading><akn:content><akn:p>(b) A vessel of less than 5 net tons may engage in a trade without being documented if the vessel otherwise satisfies the requirements to engage in the particular trade.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12102_c"><akn:num>(c)</akn:num><akn:heading>Barges.—</akn:heading><akn:content><akn:p>(c) A barge qualified to engage in the coastwise trade may engage in the coastwise trade, without being documented, on rivers, harbors, lakes (except the Great Lakes), canals, and inland waters.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12102_d"><akn:num>(d)</akn:num><akn:heading>Aquaculture Waiver.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

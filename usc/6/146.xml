@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/146" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/146/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/146/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_146"><akn:num>146</akn:num><akn:heading>Cybersecurity workforce assessment and strategy</akn:heading><akn:content><akn:p>§ 146. Cybersecurity workforce assessment and strategy(a) Workforce assessment(1) In generalNot later than 180 days after December 18, 2014, and annually thereafter for 3 years, the Secretary shall assess the cybersecurity workforce of the Department.
+
+
+(2) ContentsThe assessment required under paragraph (1) shall include, at a minimum—(A) an assessment of the readiness and capacity of the workforce of the Department to meet its cybersecurity mission;
+
+(B) information on where cybersecurity workforce positions are located within the Department;
+
+(C) information on which cybersecurity workforce positions are—(i) performed by—(I) permanent full-time equivalent employees of the Department, including, to the greatest extent practicable, demographic information about such employees;
+
+(II) independent contractors; and
+
+(III) individuals employed by other Federal agencies, including the National Security Agency; or
+
+
+(ii) vacant; and
+
+
+(D) information on—(i) the percentage of individuals within each Cybersecurity Category and Specialty Area who received essential training to perform their jobs; and
+
+(ii) in cases in which such essential training was not received, what challenges, if any, were encountered with respect to the provision of such essential training.
+
+
+
+
+(b) Workforce strategy(1) In generalThe Secretary shall—(A) not later than 1 year after December 18, 2014, develop a comprehensive workforce strategy to enhance the readiness, capacity, training, recruitment, and retention of the cybersecurity workforce of the Department; and
+
+(B) maintain and, as necessary, update the comprehensive workforce strategy developed under subparagraph (A).
+
+
+(2) ContentsThe comprehensive workforce strategy developed under paragraph (1) shall include a description of—(A) a multi-phased recruitment plan, including with respect to experienced professionals, members of disadvantaged or underserved communities, the unemployed, and veterans;
+
+(B) a 5-year implementation plan;
+
+(C) a 10-yea</akn:p></akn:content><akn:subsection eId="subsec_146_a"><akn:num>(a)</akn:num><akn:heading>Workforce assessment</akn:heading><akn:content><akn:p>(a) Workforce assessment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_146_b"><akn:num>(b)</akn:num><akn:heading>Workforce strategy</akn:heading><akn:content><akn:p>(b) Workforce strategy</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_146_c"><akn:num>(c)</akn:num><akn:heading>Updates</akn:heading><akn:content><akn:p>(c) Updates The Secretary submit 11 So in original. to the appropriate congressional committees annual updates on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

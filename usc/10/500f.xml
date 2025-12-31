@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/500f" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/500f/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/500f/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_500f"><akn:num>500f</akn:num><akn:heading>Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum </akn:heading><akn:content><akn:p>§ 500f. Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions(a) Evaluations of Armed Forces.—(1) Not later than October 1, 2024, and annually thereafter through 2029, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations shall each carry out an evaluation of the ability of the armed force concerned to perform electromagnetic spectrum operations missions required by each of the following:(A) The Electromagnetic Spectrum Superiority Strategy.
+
+(B) The Joint Staff-developed concept of operations for electromagnetic spectrum operations.
+
+(C) The operations and contingency plans of the combatant commands.
+
+
+(2) Not later than December 31 of each year in which evaluations are required under paragraph (1), each official specified in that paragraph shall certify to the congressional defense committees that the evaluation required to be carried out by that official has occurred.
+
+(3) Each evaluation under paragraph (1) shall include an assessment of the following:(A) Current programs of record, including—(i) the ability of weapon systems to perform missions in contested electromagnetic spectrum environments; and
+
+(ii) the ability of electromagnetic attack with capabilities to disrupt adversary operations.
+
+
+(B) Future programs of record, including—(i) the need for distributed or network-centric electromagnetic warfare and signals intelligence capabilities; and
+
+(ii) the need for automated and machine learning- or artificial intelligence-assisted electromagnetic spectrum operations capabilities.
+
+
+(C) Order of battle.
+
+(D) Individual and unit training.
+
+(E) Tactics, techniques, and procedures, including—(i) maneuver, distribution of assets, and the use of decoys; and
+
+(ii) integration of non-kinetic and kinetic fires.
+
+
+(F) Other matters relevant to evaluating the ability of the armed force conce</akn:p></akn:content><akn:subsection eId="subsec_500f_a"><akn:num>(a)</akn:num><akn:heading>Evaluations of Armed Forces.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_500f_b"><akn:num>(b)</akn:num><akn:heading>Evaluations of Combatant Commands.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

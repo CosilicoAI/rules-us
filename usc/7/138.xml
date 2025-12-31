@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/138" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/138/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/138/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_138"><akn:num>138</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 138. Definitions
+As used in this chapter:(1) Agricultural productThe term “agricultural product” means any fresh fruit or vegetable or any commodity or product derived from livestock or fowl, that is marketed in the United States for human consumption.
+
+
+(2) CertificateThe term “certificate” means a certificate of accreditation issued under this chapter.
+
+
+(3) LaboratoryThe term “laboratory” means any facility or vehicle that is owned by an individual or a public or private entity and is equipped and operated for the purpose of carrying out pesticide residue analysis on agricultural products for commercial purposes.
+
+
+(4) PesticideThe term “pesticide” means any substance that alone, in chemical combination, or in any formulation with one or more substances, is defined as a pesticide in section 136(u) of this title.
+
+
+(5) SecretaryThe term “Secretary” means the Secretary of Agriculture.
+
+
+(Pub. L. 101–624, title XIII, § 1321, Nov. 28, 1990, 104 Stat. 3562.)</akn:p></akn:content><akn:subsection eId="subsec_138_1"><akn:num>(1)</akn:num><akn:heading>Agricultural product</akn:heading><akn:content><akn:p>(1) Agricultural product The term “agricultural product” means any fresh fruit or vegetable or any commodity or product derived from livestock or fowl, that is marketed in the United States for human consumption.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_138_2"><akn:num>(2)</akn:num><akn:heading>Certificate</akn:heading><akn:content><akn:p>(2) Certificate The term “certificate” means a certificate of accreditation issued under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_138_3"><akn:num>(3)</akn:num><akn:heading>Laboratory</akn:heading><akn:content><akn:p>(3) Laboratory The term “laboratory” means any facility or vehicle that is owned by an individual or a public or private entity and is equipped and operated for the purpose of carrying out pesticide residue analysis on agricultural products for commercial purposes.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_138_4"><akn:num>(4)</akn:num><akn:heading>Pesticide</akn:heading><akn:content><akn:p>(4) Pesticide The term “pesticide” means any substance that alone, in chemical combination, or in any formulation with one or more substances, is defined as a pesticide in section 136(u) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_138_5"><akn:num>(5)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(5) Secretary The term “Secretary” means the Secretary of Agriculture.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

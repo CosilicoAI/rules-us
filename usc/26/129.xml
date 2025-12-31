@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/129" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/129/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/129/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_129"><akn:num>129</akn:num><akn:heading>Dependent care assistance programs</akn:heading><akn:content><akn:p>§ 129. Dependent care assistance programs(a) Exclusion(1) In generalGross income of an employee does not include amounts paid or incurred by the employer for dependent care assistance provided to such employee if the assistance is furnished pursuant to a program which is described in subsection (d).
+
+
+(2) Limitation of exclusion(A) In generalThe amount which may be excluded under paragraph (1) for dependent care assistance with respect to dependent care services provided during a taxable year shall not exceed $7,500 ($3,750 in the case of a separate return by a married individual).
+
+
+(B) Year of inclusionThe amount of any excess under subparagraph (A) shall be included in gross income in the taxable year in which the dependent care services were provided (even if payment of dependent care assistance for such services occurs in a subsequent taxable year).
+
+
+(C) Marital statusFor purposes of this paragraph, marital status shall be determined under the rules of paragraphs (3) and (4) of section 21(e).
+
+
+(D) Special rule for 2021In the case of any taxable year beginning after December 31, 2020, and before January 1, 2022, subparagraph (A) shall be applied by substituting “$10,500 (half such dollar amount” for “$5,000 ($2,500”.
+
+
+
+
+(b) Earned income limitation(1) In generalThe amount excluded from the income of an employee under subsection (a) for any taxable year shall not exceed—(A) in the case of an employee who is not married at the close of such taxable year, the earned income of such employee for such taxable year, or
+
+(B) in the case of an employee who is married at the close of such taxable year, the lesser of—(i) the earned income of such employee for such taxable year, or
+
+(ii) the earned income of the spouse of such employee for such taxable year.
+
+
+
+(2) Special rule for certain spousesFor purposes of paragraph (1), the provisions of section 21(d)(2) shall apply in determining the earned income of a spouse who is a student or incapable of caring for himself.
+
+</akn:p></akn:content><akn:subsection eId="subsec_129_a"><akn:num>(a)</akn:num><akn:heading>Exclusion</akn:heading><akn:content><akn:p>(a) Exclusion</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129_b"><akn:num>(b)</akn:num><akn:heading>Earned income limitation</akn:heading><akn:content><akn:p>(b) Earned income limitation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129_c"><akn:num>(c)</akn:num><akn:heading>Payments to related individuals</akn:heading><akn:content><akn:p>(c) Payments to related individuals No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employee shall be excluded under subsection (a) if such amount was paid or incurred to an individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129_d"><akn:num>(d)</akn:num><akn:heading>Dependent care assistance program</akn:heading><akn:content><akn:p>(d) Dependent care assistance program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129_e"><akn:num>(e)</akn:num><akn:heading>Definitions and special rules</akn:heading><akn:content><akn:p>(e) Definitions and special rules For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

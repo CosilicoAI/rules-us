@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/15102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/15102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/15102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15102"><akn:num>15102</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 15102. Definitions
+In this part—(1) Board.—The term “Board” means the Surface Transportation Board.
+
+(2) Pipeline carrier.—The term “pipeline carrier” means a person providing pipeline transportation for compensation.
+
+(3) Rate.—The term “rate” means a rate or charge for transportation.
+
+(4) State.—The term “State” means a State of the United States and the District of Columbia.
+
+(5) Transportation.—The term “transportation” includes—(A) property, facilities, instrumentalities, or equipment of any kind related to the movement of property, regardless of ownership or an agreement concerning use; and
+
+(B) services related to that movement, including receipt, delivery, transfer in transit, storage, handling, and interchange of property.
+
+
+(6) United states.—The term “United States” means the States of the United States and the District of Columbia.
+
+(Added Pub. L. 104–88, title I, § 106(a), Dec. 29, 1995, 109 Stat. 921.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 10102 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.</akn:p></akn:content><akn:subsection eId="subsec_15102_1"><akn:num>(1)</akn:num><akn:heading>Board.—</akn:heading><akn:content><akn:p>(1) The term “Board” means the Surface Transportation Board.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15102_2"><akn:num>(2)</akn:num><akn:heading>Pipeline carrier.—</akn:heading><akn:content><akn:p>(2) The term “pipeline carrier” means a person providing pipeline transportation for compensation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15102_3"><akn:num>(3)</akn:num><akn:heading>Rate.—</akn:heading><akn:content><akn:p>(3) The term “rate” means a rate or charge for transportation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15102_4"><akn:num>(4)</akn:num><akn:heading>State.—</akn:heading><akn:content><akn:p>(4) The term “State” means a State of the United States and the District of Columbia.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15102_5"><akn:num>(5)</akn:num><akn:heading>Transportation.—</akn:heading><akn:content><akn:p>(5) The term “transportation” includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15102_6"><akn:num>(6)</akn:num><akn:heading>United states.—</akn:heading><akn:content><akn:p>(6) The term “United States” means the States of the United States and the District of Columbia.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

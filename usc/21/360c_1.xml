@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/360c–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/360c–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/360c–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_360c_1"><akn:num>360c–1</akn:num><akn:heading>Reporting</akn:heading><akn:content><akn:p>§ 360c–1. Reporting
+The Secretary of Health and Human Services shall annually post on the Internet Web site of the Food and Drug Administration—(1) the number and type of class I and class II devices reclassified as class II or class III in the previous calendar year under section 360c(e)(1) of this title;
+
+(2) the number and type of class II and class III devices reclassified as class I or class II in the previous calendar year under such section 360c(e)(1) of this title; and
+
+(3) the number and type of devices reclassified in the previous calendar year under section 360e of this title.
+
+(Pub. L. 112–144, title VI, § 608(c), July 9, 2012, 126 Stat. 1059.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_360c_1_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the number and type of class I and class II devices reclassified as class II or class III in the previous calendar year under section 360c(e)(1) of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_360c_1_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the number and type of class II and class III devices reclassified as class I or class II in the previous calendar year under such section 360c(e)(1) of this title; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_360c_1_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the number and type of devices reclassified in the previous calendar year under section 360e of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

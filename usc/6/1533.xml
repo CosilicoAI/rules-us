@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/1533" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/1533/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/1533/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1533"><akn:num>1533</akn:num><akn:heading>Improving cybersecurity in the health care industry</akn:heading><akn:content><akn:p>§ 1533. Improving cybersecurity in the health care industry(a) DefinitionsIn this section:(1) Appropriate congressional committeesThe term “appropriate congressional committees” means—(A) the Committee on Health, Education, Labor, and Pensions, the Committee on Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate; and
+
+(B) the Committee on Energy and Commerce, the Committee on Homeland Security, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+
+(2) Business associateThe term “business associate” has the meaning given such term in section 160.103 of title 45, Code of Federal Regulations (as in effect on the day before December 18, 2015).
+
+
+(3) Covered entityThe term “covered entity” has the meaning given such term in section 160.103 of title 45, Code of Federal Regulations (as in effect on the day before December 18, 2015).
+
+
+(4) Cybersecurity threat; cyber threat indicator; defensive measure; Federal entity; non-Federal entity; private entityThe terms “cybersecurity threat”, “cyber threat indicator”, “defensive measure”, “Federal entity”, “non-Federal entity”, and “private entity” have the meanings given such terms in section 1501 of this title.
+
+
+(5) Health care clearinghouse; health care provider; health planThe terms “health care clearinghouse”, “health care provider”, and “health plan” have the meanings given such terms in section 160.103 of title 45, Code of Federal Regulations (as in effect on the day before December 18, 2015).
+
+
+(6) Health care industry stakeholderThe term “health care industry stakeholder” means any—(A) health plan, health care clearinghouse, or health care provider;
+
+(B) advocate for patients or consumers;
+
+(C) pharmacist;
+
+(D) developer or vendor of health information technology;
+
+(E) laboratory;
+
+(F) pharmaceutical or medical device manufacturer; or
+
+(G) additional stakeholder the Secretary determines necessary for purposes of subsection (b)(1), (c)(1), (c)(</akn:p></akn:content><akn:subsection eId="subsec_1533_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1533_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1533_c"><akn:num>(c)</akn:num><akn:heading>Health care industry cybersecurity task force</akn:heading><akn:content><akn:p>(c) Health care industry cybersecurity task force</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1533_d"><akn:num>(d)</akn:num><akn:heading>Aligning health care industry security approaches</akn:heading><akn:content><akn:p>(d) Aligning health care industry security approaches</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1533_e"><akn:num>(e)</akn:num><akn:heading>Incorporating ongoing activities</akn:heading><akn:content><akn:p>(e) Incorporating ongoing activities In carrying out the activities under this section, the Secretary may incorporate activities that are ongoing as of the day before December 18, 2015 and that are consistent with the objectives of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1533_f"><akn:num>(f)</akn:num><akn:heading>Rule of construction</akn:heading><akn:content><akn:p>(f) Rule of construction Nothing in this section shall be construed to limit the antitrust exemption under section 1503(e) of this title or the protection from liability under section 1505 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

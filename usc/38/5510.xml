@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/5510" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/5510/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/5510/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5510"><akn:num>5510</akn:num><akn:heading>Annual report</akn:heading><akn:content><akn:p>§ 5510. Annual report
+The Secretary shall include in the Annual Benefits Report of the Veterans Benefits Administration or the Secretary’s Annual Performance and Accountability Report information concerning fiduciaries who have been appointed to receive payments for beneficiaries of the Department. As part of such information, the Secretary shall separately set forth the following:(1) The number of beneficiaries in each category (veteran, surviving spouse, child, adult disabled child, or parent).
+
+(2) The types of benefit being paid (compensation, pension, dependency and indemnity compensation, death pension or benefits payable to a disabled child under chapter 18 of this title).
+
+(3) The total annual amounts and average annual amounts of benefits paid to fiduciaries for each category and type of benefit.
+
+(4) The number of fiduciaries who are the spouse, parent, legal custodian, court-appointed fiduciary, institutional fiduciary, custodian in fact, and supervised direct payees.
+
+(5) The number of cases in which the fiduciary was changed by the Secretary because of a finding that benefits had been misused.
+
+(6) How such cases of misuse of benefits were addressed by the Secretary.
+
+(7) The final disposition of such cases of misuse of benefits, including the number and dollar amount of any benefits reissued to beneficiaries.
+
+(8) The number of fiduciary cases referred to the Office of the Inspector General and the nature of the actions taken by the Inspector General.
+
+(9) The total amount of money recovered by the Government in cases arising from the misuse of benefits by a fiduciary.
+
+(10) Such other information as the Secretary considers appropriate.
+
+(Added Pub. L. 108–454, title V, § 505(a), Dec. 10, 2004, 118 Stat. 3621; amended Pub. L. 111–275, title X, § 1001(l), Oct. 13, 2010, 124 Stat. 2897.)
+
+Editorial Notes
+Amendments2010—Pub. L. 111–275, § 1001(l)(1), substituted “following:” for “following: —” in introductory provisions.
+Par. (9). Pub. L. 111–275, § 1001(</akn:p></akn:content><akn:subsection eId="subsec_5510_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The number of beneficiaries in each category (veteran, surviving spouse, child, adult disabled child, or parent).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The types of benefit being paid (compensation, pension, dependency and indemnity compensation, death pension or benefits payable to a disabled child under chapter 18 of this title).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The total annual amounts and average annual amounts of benefits paid to fiduciaries for each category and type of benefit.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The number of fiduciaries who are the spouse, parent, legal custodian, court-appointed fiduciary, institutional fiduciary, custodian in fact, and supervised direct payees.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The number of cases in which the fiduciary was changed by the Secretary because of a finding that benefits had been misused.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) How such cases of misuse of benefits were addressed by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The final disposition of such cases of misuse of benefits, including the number and dollar amount of any benefits reissued to beneficiaries.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) The number of fiduciary cases referred to the Office of the Inspector General and the nature of the actions taken by the Inspector General.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) The total amount of money recovered by the Government in cases arising from the misuse of benefits by a fiduciary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5510_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) Such other information as the Secretary considers appropriate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

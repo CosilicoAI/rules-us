@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/645a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/645a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/645a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_645a"><akn:num>645a</akn:num><akn:heading>Human trafficking assessment</akn:heading><akn:content><akn:p>§ 645a. Human trafficking assessment
+Not later than 1 year after December 21, 2018, and annually thereafter, the Executive Associate Director of Homeland Security Investigations shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate, and the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives a report on human trafficking investigations undertaken by Homeland Security Investigations that includes—(1) the number of confirmed human trafficking investigations by category, including labor trafficking, sex trafficking, and transnational and domestic human trafficking;
+
+(2) the number of victims by category, including—(A) whether the victim is a victim of sex trafficking or a victim of labor trafficking; and
+
+(B) whether the victim is a minor or an adult; and
+
+
+(3) an analysis of the data described in paragraphs (1) and (2) and other data available to Homeland Security Investigations that indicates any general human trafficking or investigatory trends.
+
+(Pub. L. 115–393, title IV, § 403, Dec. 21, 2018, 132 Stat. 5275.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Trafficking Victims Protection Act of 2017, and not as part of the Homeland Security Act of 2002 which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_645a_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the number of confirmed human trafficking investigations by category, including labor trafficking, sex trafficking, and transnational and domestic human trafficking;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_645a_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the number of victims by category, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_645a_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) an analysis of the data described in paragraphs (1) and (2) and other data available to Homeland Security Investigations that indicates any general human trafficking or investigatory trends.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

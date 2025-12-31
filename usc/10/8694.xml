@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8694" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8694/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8694/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8694"><akn:num>8694</akn:num><akn:heading>Annual report on ship maintenance</akn:heading><akn:content><akn:p>§ 8694. Annual report on ship maintenance(a) Report Required.—Not later than October 15 of each year, the Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth each of the following:(1) A description of all ship maintenance planned for the fiscal year during which the report is submitted, by hull.
+
+(2) The estimated cost of the maintenance described pursuant to paragraph (1).
+
+(3) A summary of all ship maintenance conducted by the Secretary during the previous fiscal year.
+
+(4) A detailed description of any ship maintenance that was deferred during the previous fiscal year, including specific reasons for the delay or cancellation of any availability.
+
+(5) A detailed description of the effect of each of the planned ship maintenance actions that were delayed or cancelled during the previous fiscal year, including—(A) a summary of the effects on the costs and schedule for each delay or cancellation; and
+
+(B) the accrued operational and fiscal cost of all the deferments over the fiscal year.
+
+
+
+(b) Form of Report.— Each report submitted under subsection (a) shall be submitted in unclassified form and made publicly available on an appropriate internet website in a searchable format, but may contain a classified annex.
+
+(Added Pub. L. 117–81, div. A, title X, § 1016(a), Dec. 27, 2021, 135 Stat. 1895.)</akn:p></akn:content><akn:subsection eId="subsec_8694_a"><akn:num>(a)</akn:num><akn:heading>Report Required.—</akn:heading><akn:content><akn:p>(a) Not later than October 15 of each year, the Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth each of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8694_b"><akn:num>(b)</akn:num><akn:heading>Form of Report.—</akn:heading><akn:content><akn:p>(b) Each report submitted under subsection (a) shall be submitted in unclassified form and made publicly available on an appropriate internet website in a searchable format, but may contain a classified annex.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

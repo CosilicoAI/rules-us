@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/7001" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/7001/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/7001/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7001"><akn:num>7001</akn:num><akn:heading>Conforming amendments relating to National Appeals Division</akn:heading><akn:content><akn:p>§ 7001. Conforming amendments relating to National Appeals Division(a) Decisions of State, county, and area committees(1) Application of subsection(A) In generalExcept as provided in subparagraph (B), this subsection shall apply only with respect to functions of the Farm Service Agency or the Commodity Credit Corporation that are under the jurisdiction of a State, county, or area committee established under section 590h(b)(5) of title 16 or an employee of such a committee.
+
+
+(B) NonapplicabilityThis subsection does not apply to—(i) a function performed under section 2008k of this title; or
+
+(ii) a function performed under a conservation program administered by the Natural Resources Conservation Service.
+
+
+
+(2) FinalityEach decision of a State, county, or area committee (or an employee of such a committee) covered by paragraph (1) that is made in good faith in the absence of misrepresentation, false statement, fraud, or willful misconduct shall be final not later than 90 days after the date of filing of the application for benefits, unless the decision, before the end of the 90-day period, is—(A) appealed under this subchapter; or
+
+(B) modified by the Administrator of the Farm Service Agency or the Executive Vice President of the Commodity Credit Corporation.
+
+
+(3) Recovery of amountsIf the decision of the State, county, or area committee has become final under paragraph (2), no action may be taken by the Farm Service Agency, the Commodity Credit Corporation, or a State, county, or area committee to recover amounts found to have been disbursed as a result of a decision in error unless the participant had reason to believe that the decision was erroneous.
+
+
+(4) Savings provisionFor purposes of this subsection, a reference to the “Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under section 6932 of this title.
+
+
+
+(b), (c) Omitted
+
+(Pub. L. 103–354, title II, </akn:p></akn:content><akn:subsection eId="subsec_7001_a"><akn:num>(a)</akn:num><akn:heading>Decisions of State, county, and area committees</akn:heading><akn:content><akn:p>(a) Decisions of State, county, and area committees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7001_b"><akn:num>(b)</akn:num><akn:heading>, (c) Omitted</akn:heading><akn:content><akn:p>(b) , (c) Omitted</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

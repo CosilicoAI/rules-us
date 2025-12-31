@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/39/3003" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/39/3003/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/39/3003/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3003"><akn:num>3003</akn:num><akn:heading>Mail bearing a fictitious name or address</akn:heading><akn:content><akn:p>§ 3003. Mail bearing a fictitious name or address(a) Upon evidence satisfactory to the Postal Service that any person is using a fictitious, false, or assumed name, title, or address in conducting, promoting, or carrying on or assisting therein, by means of the postal services of the United States, an activity in violation of sections 1302, 1341, and 1342 of title 18, it may—(1) withhold mail so addressed from delivery; and
+
+(2) require the party claiming the mail to furnish proof to it of the claimant’s identity and right to receive the mail.
+
+
+(b) The Postal Service may issue an order directing that mail, covered by subsection (a) of this section, be forwarded to a dead letter office as fictitious matter, or be returned to the sender when—(1) the party claiming the mail fails to furnish proof of his identity and right to receive the mail; or
+
+(2) the Postal Service determines that the mail is addressed to a fictitious, false, or assumed name, title, or address.
+
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 746.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_3003_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Upon evidence satisfactory to the Postal Service that any person is using a fictitious, false, or assumed name, title, or address in conducting, promoting, or carrying on or assisting therein, by means of the postal services of the United States, an activity in violation of sections 1302, 1341, and 1342 of title 18, it may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3003_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Postal Service may issue an order directing that mail, covered by subsection (a) of this section, be forwarded to a dead letter office as fictitious matter, or be returned to the sender when—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1116A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1116A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1116A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1116A"><akn:num>1116A</akn:num><akn:heading>Presumptions of service connection for veterans who served offshore of the Republic of Vietnam</akn:heading><akn:content><akn:p>§ 1116A. Presumptions of service connection for veterans who served offshore of the Republic of Vietnam(a) Service Connection.—For the purposes of section 1110 of this title, and subject to section 1113 of this title, a disease covered by section 1116 of this title becoming manifest as specified in that section in a veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of evidence of such disease during the period of such service.
+
+(b) Exposure.—A veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
+
+(c) Effective Date of Award.—(1) Except as provided by paragraph (2), the effective date of an award under this section shall be determined in accordance with section 5110 of this title.
+
+(2)(A) Notwithstanding subsection (g) of section 5110 of this title, the Secretary shall determine the effective date of an award based on a claim under this section for an individual described in subparagraph (B) by treating the date on which the individual filed the prior claim specified in clause (i) of such subparagraph as the date on which the individual filed the claim so awarded under this section.
+
+(B) An individual described in this subparagraph is a veteran, or a survivor of a veteran, who meets the following criteria:(i) The veteran or survivor submitted a claim for disability compensation on or after September 25, 1985, and before January 1, 2020, for a disease covered by this section, and the claim was denied by rea</akn:p></akn:content><akn:subsection eId="subsec_1116A_a"><akn:num>(a)</akn:num><akn:heading>Service Connection.—</akn:heading><akn:content><akn:p>(a) For the purposes of section 1110 of this title, and subject to section 1113 of this title, a disease covered by section 1116 of this title becoming manifest as specified in that section in a veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of evidence of such disease during the period of such service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116A_b"><akn:num>(b)</akn:num><akn:heading>Exposure.—</akn:heading><akn:content><akn:p>(b) A veteran who, during active military, naval, or air service, served offshore of the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116A_c"><akn:num>(c)</akn:num><akn:heading>Effective Date of Award.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116A_d"><akn:num>(d)</akn:num><akn:heading>Determination of Offshore.—</akn:heading><akn:content><akn:p>(d) Notwithstanding any other provision of law, for purposes of this section, the Secretary shall treat a location as being offshore of Vietnam if the location is not more than 12 nautical miles seaward of a line commencing on the southwestern demarcation line of the waters of Vietnam and Cambodia and intersecting the following points:
+
+
+
+
+
+
+
+Points Geographic NamesLatitudeNorthLongitudeEast
+
+
+At Hon Nhan Island, Tho Chu Archipelago Kien Giang Province9°15.0′103°27.0′
+At Hon Da Island southeast of Hon Khoai Island Minh Hai Province8°22.8′104°52.4′
+At Tai Lon Islet, Con Dao Islet in Con Dao-Vung Toa Special Sector8°37.8′106°37.5′
+At Bong Lai Islet, Con Dao Islet8°38.9′106°40.3′
+At Bay Canh Islet, Con Dao Islet8°39.7′106°42.1′
+At Hon Hai Islet (Phu Qui group of islands) Thuan Hai Province9°58.0′109°5.0′
+At Hon Doi Islet, Thuan Hai Province12°39.0′109°28.0′
+At Dai Lanh point, Phu Khanh Province12°53.8′109°27.2′
+At Ong Can Islet, Phu Khanh Province13°54.0′109°21.0′
+At Ly Son Islet, Nghia B</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116A_e"><akn:num>(e)</akn:num><akn:heading>Herbicide Agent.—</akn:heading><akn:content><akn:p>(e) In this section, the term “herbicide agent” has the meaning given that term in section 1116(a)(3) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

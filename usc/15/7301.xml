@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7301"><akn:num>7301</akn:num><akn:heading>National Construction Safety Teams</akn:heading><akn:content><akn:p>§ 7301. National Construction Safety Teams(a) EstablishmentThe Director of the National Institute of Standards and Technology (in this chapter referred to as the “Director”) is authorized to establish National Construction Safety Teams (in this chapter referred to as a “Team”) for deployment after events causing the failure of a building or buildings that has resulted in substantial loss of life or that posed significant potential for substantial loss of life. To the maximum extent practicable, the Director shall establish and deploy a Team within 48 hours after such an event. The Director shall promptly publish in the Federal Register notice of the establishment of each Team.
+
+
+(b) Purpose of investigation; duties(1) PurposeThe purpose of investigations by Teams is to improve the safety and structural integrity of buildings in the United States.
+
+
+(2) DutiesA Team shall—(A) establish the likely technical cause or causes of the building failure;
+
+(B) evaluate the technical aspects of evacuation and emergency response procedures;
+
+(C) recommend, as necessary, specific improvements to building standards, codes, and practices based on the findings made pursuant to subparagraphs (A) and (B); and
+
+(D) recommend any research and other appropriate actions needed to improve the structural safety of buildings, and improve evacuation and emergency response procedures, based on the findings of the investigation.
+
+
+
+(c) Procedures(1) DevelopmentNot later than 3 months after October 1, 2002, the Director, in consultation with the United States Fire Administration and other appropriate Federal agencies, shall develop procedures for the establishment and deployment of Teams. The Director shall update such procedures as appropriate. Such procedures shall include provisions—(A) regarding conflicts of interest related to service on the Team;
+
+(B) defining the circumstances under which the Director will establish and deploy a Team;
+
+(C) prescribing the appropriate size of Teams;
+
+(D) </akn:p></akn:content><akn:subsection eId="subsec_7301_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Director of the National Institute of Standards and Technology (in this chapter referred to as the “Director”) is authorized to establish National Construction Safety Teams (in this chapter referred to as a “Team”) for deployment after events causing the failure of a building or buildings that has resulted in substantial loss of life or that posed significant potential for substantial loss of life. To the maximum extent practicable, the Director shall establish and deploy a Team within 48 hours after such an event. The Director shall promptly publish in the Federal Register notice of the establishment of each Team.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7301_b"><akn:num>(b)</akn:num><akn:heading>Purpose of investigation; duties</akn:heading><akn:content><akn:p>(b) Purpose of investigation; duties</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7301_c"><akn:num>(c)</akn:num><akn:heading>Procedures</akn:heading><akn:content><akn:p>(c) Procedures</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

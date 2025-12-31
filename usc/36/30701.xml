@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/30701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/30701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/30701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30701"><akn:num>30701</akn:num><akn:heading>Organization</akn:heading><akn:content><akn:p>§ 30701. Organization(a) Federal Charter.—Board for Fundamental Education (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b) Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1322.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3070136:501.July 19, 1954, ch. 536, §§ 1, 2, 68 Stat. 489.
+ 36:502. 
+
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
+The text of 36:502 is omitted as executed and obsolete.</akn:p></akn:content><akn:subsection eId="subsec_30701_a"><akn:num>(a)</akn:num><akn:heading>Federal Charter.—</akn:heading><akn:content><akn:p>(a) Board for Fundamental Education (in this chapter, the “corporation”) is a federally chartered corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30701_b"><akn:num>(b)</akn:num><akn:heading>Perpetual Existence.—</akn:heading><akn:content><akn:p>(b) Except as otherwise provided, the corporation has perpetual existence.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

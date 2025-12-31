@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/9779" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/9779/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/9779/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9779"><akn:num>9779</akn:num><akn:heading>Use of public property</akn:heading><akn:content><akn:p>§ 9779. Use of public property(a) When the economy of the Air Force or the Space Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.
+
+(b) No money appropriated for the support of the Air Force or the Space Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 99–661, div. B, title VII, § 2721, Nov. 14, 1986, 100 Stat. 4042; Pub. L. 116–283, div. A, title IX, § 923(e)(19), Jan. 1, 2021, 134 Stat. 3819.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+9779(a)9779(b)10:1332.10:1345.June 23, 1879, ch. 35, § 8, 21 Stat. 35.
+9779(c)10:1335.Aug. 1, 1914, ch. 223 (2d par. under “Quartermaster Corps”), 38 Stat. 629.
+  July 16, 1892, ch. 195 (last proviso under “Quartermaster’s Department”), 27 Stat. 178; June 28, 1950, ch. 383, § 402(c), 64 Stat. 272.
+
+
+In subsection (a), the words “United States” are substituted for the word “Government”.
+In subsection (b), the words “suitable space” are substituted for the words “proper and suitable room or rooms”. The words “there is a” are substituted for the words “have been established”.
+In subsection (c), the words “the Secretary” are substituted for the words “the Quartermaster General”, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary.
+
+Editorial Notes
+Amendments2021—Subsec. (a). Pub. L. 116–283, § 923(e)(19)(A), inserted “or the Space Force” after “economy of the Air Force”.
+Subsec. (b). Pub. L. 116–283, § 923(e)(19)(B), inserted “or the Space Force” after “support of the Air Force”.
+1986—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (</akn:p></akn:content><akn:subsection eId="subsec_9779_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) When the economy of the Air Force or the Space Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9779_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) No money appropriated for the support of the Air Force or the Space Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

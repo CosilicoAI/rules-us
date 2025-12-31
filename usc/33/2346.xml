@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/2346" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/2346/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/2346/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2346"><akn:num>2346</akn:num><akn:heading>Project administration</akn:heading><akn:content><akn:p>§ 2346. Project administration(a) Project trackingThe Secretary shall assign a unique tracking number to each water resources project under the jurisdiction of the Secretary to be used by each Federal agency throughout the life of the project.
+
+
+(b) Report repository(1) In generalThe Secretary shall provide to the Library of Congress a copy of each final feasibility study, final environmental impact statement, final reevaluation report, final post-authorization change report, record of decision, and report to Congress prepared by the Corps of Engineers.
+
+
+(2) Availability to publicEach document described in paragraph (1) shall be made available to the public, and an electronic copy of each document shall be made permanently available to the public through the Internet.
+
+
+
+(Pub. L. 110–114, title II, § 2041, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, § 1136(b), Dec. 16, 2016, 130 Stat. 1657.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2016—Subsec. (b)(1). Pub. L. 114–322 inserted “final post-authorization change report,” after “final reevaluation report,”.
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.</akn:p></akn:content><akn:subsection eId="subsec_2346_a"><akn:num>(a)</akn:num><akn:heading>Project tracking</akn:heading><akn:content><akn:p>(a) Project tracking The Secretary shall assign a unique tracking number to each water resources project under the jurisdiction of the Secretary to be used by each Federal agency throughout the life of the project.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2346_b"><akn:num>(b)</akn:num><akn:heading>Report repository</akn:heading><akn:content><akn:p>(b) Report repository</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

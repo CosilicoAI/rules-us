@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300d–41" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300d–41/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300d–41/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300d_41"><akn:num>300d–41</akn:num><akn:heading>Grants for certain trauma centers</akn:heading><akn:content><akn:p>§ 300d–41. Grants for certain trauma centers(a) In generalThe Secretary shall establish 3 programs to award grants to qualified public, nonprofit Indian Health Service, Indian tribal, and urban Indian trauma centers—(1) to assist in defraying substantial uncompensated care costs;
+
+(2) to further the core missions of such trauma centers, including by addressing costs associated with patient stabilization and transfer, trauma education and outreach, coordination with local and regional trauma systems, essential personnel and other fixed costs, and expenses associated with employee and non-employee physician services; and
+
+(3) to provide emergency relief to ensure the continued and future availability of trauma services.
+
+
+(b) Minimum qualifications of trauma centers(1) Participation in trauma care system operating under certain professional guidelinesExcept as provided in paragraph (2), the Secretary may not award a grant to a trauma center under subsection (a) unless the trauma center is a participant in a trauma system that substantially complies with section 300d–13 of this title.
+
+
+(2) ExemptionParagraph (1) shall not apply to trauma centers that are located in States with no existing trauma care system.
+
+
+(3) Qualification for substantial uncompensated care costsThe Secretary shall award substantial uncompensated care grants under subsection (a)(1) only to trauma centers meeting at least 1 of the criteria in 1 of the following 3 categories:(A) Category AThe criteria for category A are as follows:(i) At least 40 percent of the visits in the emergency department of the hospital in which the trauma center is located were charity or self-pay patients.
+
+(ii) At least 50 percent of the visits in such emergency department were Medicaid (under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.)) and charity and self-pay patients combined.
+
+
+(B) Category BThe criteria for category B are as follows:(i) At least 35 percent of the visits in the emergency department</akn:p></akn:content><akn:subsection eId="subsec_300d_41_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall establish 3 programs to award grants to qualified public, nonprofit Indian Health Service, Indian tribal, and urban Indian trauma centers—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300d_41_b"><akn:num>(b)</akn:num><akn:heading>Minimum qualifications of trauma centers</akn:heading><akn:content><akn:p>(b) Minimum qualifications of trauma centers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300d_41_c"><akn:num>(c)</akn:num><akn:heading>Additional requirements</akn:heading><akn:content><akn:p>(c) Additional requirements The Secretary may not award a grant to a trauma center under subsection (a)(1) unless such trauma center—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/2705" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/2705/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/2705/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2705"><akn:num>2705</akn:num><akn:heading>Powers of Chairman</akn:heading><akn:content><akn:p>§ 2705. Powers of Chairman(a) The Chairman, on behalf of the Commission, shall have power, subject to an appeal to the Commission, to—(1) issue orders of temporary closure of gaming activities as provided in section 2713(b) of this title;
+
+(2) levy and collect civil fines as provided in section 2713(a) of this title;
+
+(3) approve tribal ordinances or resolutions regulating class II gaming and class III gaming as provided in section 2710 of this title; and
+
+(4) approve management contracts for class II gaming and class III gaming as provided in sections 2710(d)(9) and 2711 of this title.
+
+
+(b) The Chairman shall have such other powers as may be delegated by the Commission.
+
+(Pub. L. 100–497, § 6, Oct. 17, 1988, 102 Stat. 2470.)</akn:p></akn:content><akn:subsection eId="subsec_2705_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Chairman, on behalf of the Commission, shall have power, subject to an appeal to the Commission, to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2705_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Chairman shall have such other powers as may be delegated by the Commission.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

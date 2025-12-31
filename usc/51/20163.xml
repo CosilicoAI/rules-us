@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/20163" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/20163/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/20163/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20163"><akn:num>20163</akn:num><akn:heading>Program authorized</akn:heading><akn:content><akn:p>§ 20163. Program authorized(a) In General.—In order to carry out the purposes of this subchapter, the Administration, in cooperation with other Federal agencies, shall initiate and carry out a program of research, technology, monitoring, and other appropriate activities directed to understand the physics and chemistry of the upper atmosphere.
+
+(b) Activities.—In carrying out the provisions of this subchapter, the Administration shall—(1) arrange for participation by the scientific and engineering community, of both the Nation’s industrial organizations and institutions of higher education, in planning and carrying out appropriate research, in developing necessary technology, and in making necessary observations and measurements;
+
+(2) provide, by way of grant, contract, scholarships, or other arrangements, to the maximum extent practicable and consistent with other laws, for the widest practicable and appropriate participation of the scientific and engineering community in the program authorized by this subchapter; and
+
+(3) make all results of the program authorized by this subchapter available to the appropriate regulatory agencies and provide for the widest practicable dissemination of such results.
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3354.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2016342 U.S.C. 2483.Pub. L. 85–568, title IV, § 403, as added Pub. L. 94–39, § 8, June 19, 1975, 89 Stat. 222.</akn:p></akn:content><akn:subsection eId="subsec_20163_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In order to carry out the purposes of this subchapter, the Administration, in cooperation with other Federal agencies, shall initiate and carry out a program of research, technology, monitoring, and other appropriate activities directed to understand the physics and chemistry of the upper atmosphere.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20163_b"><akn:num>(b)</akn:num><akn:heading>Activities.—</akn:heading><akn:content><akn:p>(b) In carrying out the provisions of this subchapter, the Administration shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

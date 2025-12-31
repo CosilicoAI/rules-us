@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/3063" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/3063/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/3063/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3063"><akn:num>3063</akn:num><akn:heading>Powers of Environmental Protection Agency</akn:heading><akn:content><akn:p>§ 3063. Powers of Environmental Protection Agency(a) Upon designation by the Administrator of the Environmental Protection Agency, any law enforcement officer of the Environmental Protection Agency with responsibility for the investigation of criminal violations of a law administered by the Environmental Protection Agency, may—(1) carry firearms;
+
+(2) execute and serve any warrant or other processes issued under the authority of the United States; and
+
+(3) make arrests without warrant for—(A) any offense against the United States committed in such officer’s presence; or
+
+(B) any felony offense against the United States if such officer has probable cause to believe that the person to be arrested has committed or is committing that felony offense.
+
+
+
+(b) The powers granted under subsection (a) of this section shall be exercised in accordance with guidelines approved by the Attorney General.
+
+(Added Pub. L. 100–582, § 4(a), Nov. 1, 1988, 102 Stat. 2958.)</akn:p></akn:content><akn:subsection eId="subsec_3063_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Upon designation by the Administrator of the Environmental Protection Agency, any law enforcement officer of the Environmental Protection Agency with responsibility for the investigation of criminal violations of a law administered by the Environmental Protection Agency, may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3063_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The powers granted under subsection (a) of this section shall be exercised in accordance with guidelines approved by the Attorney General.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

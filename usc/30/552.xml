@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/552" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/552/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/552/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_552"><akn:num>552</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 552. Definitions
+As used in this chapter:
+“Coal” means any of the recognized classifications and ranks of coal, including anthracite, bituminous, semibituminous, subbituminous, and lignite.
+“Outcrop” means any place where a formation is visible or substantially exposed at the surface.
+“Formation” means any vein, seam, stratum, bed, or other naturally occurring deposit.
+“Coal mine” means any underground, surface, or strip mine from which coal is obtained.
+“State” means any State or Territory of the United States, or any political subdivision thereof.
+“Person” means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
+(Aug. 31, 1954, ch. 1156, § 2, 68 Stat. 1009.)</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

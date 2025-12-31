@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3303"><akn:num>3303</akn:num><akn:heading>Inventory and inspection of levees</akn:heading><akn:content><akn:p>§ 3303. Inventory and inspection of levees(a) Levee database(1) In generalNot later than 1 year after December 16, 2016, the Secretary shall establish and maintain a database with an inventory of the Nation’s levees.
+
+
+(2) ContentsThe database shall include—(A) location information of all Federal levees in the Nation (including global information system information) and updated levee information provided by States, regional districts, Indian tribes, Federal agencies, and other entities;
+
+(B) utilizing such information as is available, the general condition of each levee; and
+
+(C) an estimate of the number of structures and population at risk and protected by each levee that would be adversely impacted if the levee fails or water levels exceed the height of the levee.
+
+
+(3) Availability of information(A) Availability to Federal, State, regional, tribal, and local governmental agenciesThe Secretary shall make all of the information in the database available to appropriate Federal, State, regional, tribal, and local governmental agencies.
+
+
+(B) Availability to the publicThe Secretary shall make the information in the database described in paragraph (2)(A), and such other information in the database as the Secretary determines appropriate, available to the public.
+
+
+
+
+(b) Inventory and inspection of levees(1) Federal leveesThe Secretary, at Federal expense, shall establish an inventory and conduct an inspection of all federally owned and operated levees.
+
+
+(2) Federally constructed, nonfederally operated and maintained leveesThe Secretary shall establish an inventory and conduct an inspection of all federally constructed, non-federally operated and maintained levees, at the original cost share for the project.
+
+
+(3) Participating leveesFor non-Federal levees the owners of which are participating in the emergency response to natural disasters program established under section 701n of this title, the Secretary shall establish an inventory and conduct an inspection of each</akn:p></akn:content><akn:subsection eId="subsec_3303_a"><akn:num>(a)</akn:num><akn:heading>Levee database</akn:heading><akn:content><akn:p>(a) Levee database</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3303_b"><akn:num>(b)</akn:num><akn:heading>Inventory and inspection of levees</akn:heading><akn:content><akn:p>(b) Inventory and inspection of levees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3303_c"><akn:num>(c)</akn:num><akn:heading>Levee review</akn:heading><akn:content><akn:p>(c) Levee review</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3303_d"><akn:num>(d)</akn:num><akn:heading>Identification of deficiencies</akn:heading><akn:content><akn:p>(d) Identification of deficiencies</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

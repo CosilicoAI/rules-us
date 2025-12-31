@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/1828a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/1828a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/1828a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1828a"><akn:num>1828a</akn:num><akn:heading>Prudential safeguards</akn:heading><akn:content><akn:p>§ 1828a. Prudential safeguards(a) Comptroller of the Currency(1) In generalThe Comptroller of the Currency may, by regulation or order, impose restrictions or requirements on relationships or transactions between a national bank and a subsidiary of the national bank that the Comptroller finds are—(A) consistent with the purposes of this Act, title LXII of the Revised Statutes of the United States, and other Federal law applicable to national banks; and
+
+(B) appropriate to avoid any significant risk to the safety and soundness of insured depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+
+
+(2) ReviewThe Comptroller of the Currency shall regularly—(A) review all restrictions or requirements established pursuant to paragraph (1) to determine whether there is a continuing need for any such restriction or requirement to carry out the purposes of the Act, including the avoidance of any adverse effect referred to in paragraph (1)(B); and
+
+(B) modify or eliminate any such restriction or requirement the Comptroller finds is no longer required for such purposes.
+
+
+
+(b) Board of Governors of the Federal Reserve System(1) In generalThe Board of Governors of the Federal Reserve System may, by regulation or order, impose restrictions or requirements on relationships or transactions—(A) between a depository institution subsidiary of a bank holding company and any affiliate of such depository institution (other than a subsidiary of such institution); or
+
+(B) between a State member bank and a subsidiary of such bank;
+
+
+if the Board makes a finding described in paragraph (2) with respect to such restriction or requirement.
+
+(2) FindingThe Board of Governors of the Federal Reserve System may exercise authority under paragraph (1) if the Board finds that the exercise of such authority is—(A) consistent with the purposes of this Ac</akn:p></akn:content><akn:subsection eId="subsec_1828a_a"><akn:num>(a)</akn:num><akn:heading>Comptroller of the Currency</akn:heading><akn:content><akn:p>(a) Comptroller of the Currency</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1828a_b"><akn:num>(b)</akn:num><akn:heading>Board of Governors of the Federal Reserve System</akn:heading><akn:content><akn:p>(b) Board of Governors of the Federal Reserve System</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1828a_c"><akn:num>(c)</akn:num><akn:heading>Federal Deposit Insurance Corporation</akn:heading><akn:content><akn:p>(c) Federal Deposit Insurance Corporation</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

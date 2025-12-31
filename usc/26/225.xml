@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/225" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/225/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/225/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_225"><akn:num>225</akn:num><akn:heading>Qualified overtime compensation</akn:heading><akn:content><akn:p>§ 225. Qualified overtime compensation(a) In generalThere shall be allowed as a deduction an amount equal to the qualified overtime compensation received during the taxable year and included on statements furnished to the individual pursuant to section 6041(d)(4) or 6051(a)(19).
+
+
+(b) Limitation(1) In generalThe amount allowed as a deduction under this section for any taxable year shall not exceed $12,500 ($25,000 in the case of a joint return).
+
+
+(2) Limitation based on adjusted gross income(A) In generalThe amount allowable as a deduction under subsection (a) (after application of paragraph (1)) shall be reduced (but not below zero) by $100 for each $1,000 by which the taxpayer’s modified adjusted gross income exceeds $150,000 ($300,000 in the case of a joint return).
+
+
+(B) Modified adjusted gross incomeFor purposes of this paragraph, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+
+
+
+
+(c) Qualified overtime compensation(1) In generalFor purposes of this section, the term “qualified overtime compensation” means overtime compensation paid to an individual required under section 7 of the Fair Labor Standards Act of 1938 that is in excess of the regular rate (as used in such section) at which such individual is employed.
+
+
+(2) ExclusionsSuch term shall not include any qualified tip (as defined in section 224(d)).
+
+
+
+(d) Social security number required(1) In generalNo deduction shall be allowed under this section unless the taxpayer includes on the return of tax for the taxable year such individual’s social security number.
+
+
+(2) Social security number definedFor purposes of paragraph (1), the term “social security number” shall have the meaning given such term in section 24(h)(7).
+
+
+
+(e) Married individualsIf the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxp</akn:p></akn:content><akn:subsection eId="subsec_225_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general There shall be allowed as a deduction an amount equal to the qualified overtime compensation received during the taxable year and included on statements furnished to the individual pursuant to section 6041(d)(4) or 6051(a)(19).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_225_b"><akn:num>(b)</akn:num><akn:heading>Limitation</akn:heading><akn:content><akn:p>(b) Limitation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_225_c"><akn:num>(c)</akn:num><akn:heading>Qualified overtime compensation</akn:heading><akn:content><akn:p>(c) Qualified overtime compensation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_225_d"><akn:num>(d)</akn:num><akn:heading>Social security number required</akn:heading><akn:content><akn:p>(d) Social security number required</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_225_e"><akn:num>(e)</akn:num><akn:heading>Married individuals</akn:heading><akn:content><akn:p>(e) Married individuals If the taxpayer is a married individual (within the meaning of section 7703), this section shall apply only if the taxpayer and the taxpayer’s spouse file a joint return for the taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_225_f"><akn:num>(f)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(f) Regulations The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance to prevent abuse of the deduction allowed by this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_225_g"><akn:num>(g)</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>(g) Termination No deduction shall be allowed under this section for any taxable year beginning after December 31, 2028.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

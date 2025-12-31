@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/1421c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/1421c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/1421c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1421c"><akn:num>1421c</akn:num><akn:heading>Unusual mortality event response</akn:heading><akn:content><akn:p>§ 1421c. Unusual mortality event response(a) Response(1) Working group(A) The Secretary, acting through the Office, shall establish, in consultation with the Secretary of the Interior, a marine mammal unusual mortality event working group, consisting of individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, marine conservation, and medical science, to provide guidance to the Secretary and the Secretary of the Interior for—(i) determining whether an unusual mortality event is occurring;
+
+(ii) determining, after an unusual mortality event has begun, if response actions with respect to that event are no longer necessary; and
+
+(iii) developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
+
+
+(B) Chapter 10 of title 5 shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
+
+
+(2) Response timingThe Secretary, in consultation with the Secretary of the Interior, shall to the extent necessary and practicable—(A) within 24 hours after receiving notification from a stranding network participant that an unusual mortality event might be occurring, contact as many members as is possible of the unusual mortality event working group for guidance; and
+
+(B) within 48 hours after receiving such notification—(i) make a determination as to whether an unusual mortality event is occurring;
+
+(ii) inform the stranding network participant of that determination; and
+
+(iii) if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c).
+
+
+
+
+(b) Contingency plan(1) In generalThe Secretary shall, in consultation with the Secretary of the Interior and the unusual mortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any</akn:p></akn:content><akn:subsection eId="subsec_1421c_a"><akn:num>(a)</akn:num><akn:heading>Response</akn:heading><akn:content><akn:p>(a) Response</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1421c_b"><akn:num>(b)</akn:num><akn:heading>Contingency plan</akn:heading><akn:content><akn:p>(b) Contingency plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1421c_c"><akn:num>(c)</akn:num><akn:heading>Onsite coordinators</akn:heading><akn:content><akn:p>(c) Onsite coordinators</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

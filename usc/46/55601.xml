@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/55601" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/55601/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/55601/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_55601"><akn:num>55601</akn:num><akn:heading>United States marine highway program</akn:heading><akn:content><akn:p>§ 55601. United States marine highway program(a) Establishment.—(1) In general.—There is in the Department of Transportation a program, to be known as the “United States marine highway program”.
+
+(2) Additional program activities.—In carrying out the program established under this subsection, the Secretary of Transportation may—(A) coordinate with ports, State departments of transportation, localities, other public agencies, and appropriate private sector entities on the development of landside facilities and infrastructure to support marine highway transportation; and
+
+(B) develop performance measures for the program.
+
+
+
+(b) Marine Highway Transportation Routes.—(1) Designation.—The Secretary may designate a route as a marine highway transportation route, or modify such a designation, if—(A) such route—(i) provides a coordinated and capable alternative to landside transportation;
+
+(ii) mitigates or relieves landside congestion;
+
+(iii) promotes marine highway transportation; or
+
+(iv) uses vessels documented under chapter 121; and
+
+
+(B) such designation or modification is requested by—(i) the government of a State or territory;
+
+(ii) a metropolitan planning organization;
+
+(iii) a port authority;
+
+(iv) a non-Federal navigation district; or
+
+(v) a Tribal government.
+
+
+
+(2) Determination.—Not later than 180 days after the date on which the Maritime Administrator receives a request for the designation or modification of a marine highway route under paragraph (1), the Maritime Administrator shall make a determination of whether to make the requested designation or modification.
+
+(3) Notification.—Not later than 14 days after the date on which the Maritime Administrator makes a determination under paragraph (2), the Maritime Administrator shall notify the requester of the determination.
+
+
+(c) Map of Marine Highway Program Routes.—(1) In general.—The Maritime Administrator shall make publicly available a map showing the location of marine highway routes, including such rout</akn:p></akn:content><akn:subsection eId="subsec_55601_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_55601_b"><akn:num>(b)</akn:num><akn:heading>Marine Highway Transportation Routes.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_55601_c"><akn:num>(c)</akn:num><akn:heading>Map of Marine Highway Program Routes.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_55601_d"><akn:num>(d)</akn:num><akn:heading>Assistance.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

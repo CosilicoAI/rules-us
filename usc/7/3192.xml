@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/3192" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/3192/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/3192/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3192"><akn:num>3192</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3192. Definitions
+When used in this subchapter—(1) the term “eligible institution” means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;
+
+(2) the term “dean” means the dean of an accredited school or college of veterinary medicine;
+
+(3) the term “director” means the director of a State agricultural experiment station which qualifies as an eligible institution; and
+
+(4) the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.
+
+(Pub. L. 95–113, title XIV, § 1430, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 97–98, title XIV, § 1427, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 105–185, title VI, § 606(d)(1), June 23, 1998, 112 Stat. 604.)
+
+Editorial Notes
+Amendments1998—Pars. (3) to (5). Pub. L. 105–185 inserted “and” at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: “the term ‘Board’ means the Animal Health Science Research Advisory Board; and”.
+1981—Par. (1). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine or a State agricultural research experiment station that conducts animal health and disease research” for “any college or university having an accredited college of veterinary medicine or a department of veterinary science or animal pathology, or a similar unit conducting animal health and disease research in a State agricultural experiment station”.
+Par. (2). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine” for “a college or university which qualifies as an eligible institution”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1981 AmendmentAmendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+Effective DateSection effective Oct. 1, 19</akn:p></akn:content><akn:subsection eId="subsec_3192_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “eligible institution” means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3192_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “dean” means the dean of an accredited school or college of veterinary medicine;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3192_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “director” means the director of a State agricultural experiment station which qualifies as an eligible institution; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3192_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

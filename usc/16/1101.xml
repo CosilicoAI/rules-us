@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/1101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/1101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/1101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1101"><akn:num>1101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1101. Definitions
+For the purposes of this chapter:(a) The term “Commission” means the Roosevelt Campobello International Park Commission.
+
+(b) The term “United States members” means members of the Commission appointed by the President. The term “Canadian members” means members of the Commission appointed by the appropriate authorities in Canada.
+
+(Pub. L. 88–363, § 2, July 7, 1964, 78 Stat. 299.)
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 88–363, § 1, July 7, 1964, 78 Stat. 299, provided: “That this Act [enacting this chapter] may be cited as the ‘Roosevelt Campobello International Park Act’.”</akn:p></akn:content><akn:subsection eId="subsec_1101_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The term “Commission” means the Roosevelt Campobello International Park Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1101_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The term “United States members” means members of the Commission appointed by the President. The term “Canadian members” means members of the Commission appointed by the appropriate authorities in Canada.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/8901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/8901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/8901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8901"><akn:num>8901</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8901. Definitions
+In this chapter:(1) AgentThe term “agent” means a nuclear, biological, chemical, or radiological substance that causes agricultural disease or the adulteration of products regulated by the Secretary of Agriculture under any provision of law.
+
+
+(2) Agricultural biosecurityThe term “agricultural biosecurity” means protection from an agent that poses a threat to—(A) plant or animal health;
+
+(B) public health as it relates to the adulteration of products regulated by the Secretary of Agriculture under any provision of law that is caused by exposure to an agent; or
+
+(C) the environment as it relates to agriculture facilities, farmland, and air and water within the immediate vicinity of an area associated with an agricultural disease or outbreak.
+
+
+(3) Agricultural countermeasureThe term “agricultural countermeasure”—(A) means a product, practice, or technology that is intended to enhance or maintain the agricultural biosecurity of the United States; and
+
+(B) does not include a product, practice, or technology used solely in response to a human medical incident or public health emergency not related to agriculture.
+
+
+(4) Agricultural diseaseThe term “agricultural disease” has the meaning given the term by the Secretary.
+
+
+(5) Agricultural disease emergencyThe term “agricultural disease emergency” means an incident of agricultural disease that requires prompt action to prevent significant damage to people, plants, or animals.
+
+
+(6) Agroterrorist actThe term “agroterrorist act” means an act that—(A) causes or attempts to cause—(i) damage to agriculture; or
+
+(ii) injury to a person associated with agriculture; and
+
+
+(B) is committed or appears to be committed with the intent to—(i) intimidate or coerce a civilian population; or
+
+(ii) disrupt the agricultural industry in order to influence the policy of a government by intimidation or coercion.
+
+
+
+(7) AnimalThe term “animal” has the meaning given the term in section 8302 of this title.
+
+
+(8) DepartmentThe </akn:p></akn:content><akn:subsection eId="subsec_8901_1"><akn:num>(1)</akn:num><akn:heading>Agent</akn:heading><akn:content><akn:p>(1) Agent The term “agent” means a nuclear, biological, chemical, or radiological substance that causes agricultural disease or the adulteration of products regulated by the Secretary of Agriculture under any provision of law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_2"><akn:num>(2)</akn:num><akn:heading>Agricultural biosecurity</akn:heading><akn:content><akn:p>(2) Agricultural biosecurity The term “agricultural biosecurity” means protection from an agent that poses a threat to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_3"><akn:num>(3)</akn:num><akn:heading>Agricultural countermeasure</akn:heading><akn:content><akn:p>(3) Agricultural countermeasure The term “agricultural countermeasure”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_4"><akn:num>(4)</akn:num><akn:heading>Agricultural disease</akn:heading><akn:content><akn:p>(4) Agricultural disease The term “agricultural disease” has the meaning given the term by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_5"><akn:num>(5)</akn:num><akn:heading>Agricultural disease emergency</akn:heading><akn:content><akn:p>(5) Agricultural disease emergency The term “agricultural disease emergency” means an incident of agricultural disease that requires prompt action to prevent significant damage to people, plants, or animals.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_6"><akn:num>(6)</akn:num><akn:heading>Agroterrorist act</akn:heading><akn:content><akn:p>(6) Agroterrorist act The term “agroterrorist act” means an act that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_7"><akn:num>(7)</akn:num><akn:heading>Animal</akn:heading><akn:content><akn:p>(7) Animal The term “animal” has the meaning given the term in section 8302 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_8"><akn:num>(8)</akn:num><akn:heading>Department</akn:heading><akn:content><akn:p>(8) Department The term “Department” means the Department of Agriculture.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_9"><akn:num>(9)</akn:num><akn:heading>Development</akn:heading><akn:content><akn:p>(9) Development The term “development” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8901_10"><akn:num>(10)</akn:num><akn:heading>Plant</akn:heading><akn:content><akn:p>(10) Plant The term “plant” has the meaning given the term in section 7702 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

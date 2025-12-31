@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/6506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/6506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/6506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6506"><akn:num>6506</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>§ 6506. Reports(a) Definition.—In this section, the term “executive agency” shall not include the Government Accountability Office.
+
+(b) Reports by the Office of Personnel Management.—(1) Submission of reports.—Not later than 18 months after the date of enactment of this chapter and on an annual basis thereafter, the Director of the Office of Personnel Management, in consultation with Chief 11 So in original. Probably should be preceded by “the”. Human Capital Officers Council, shall—(A) submit a report addressing the telework programs of each executive agency to—(i) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(ii) the Committee on Oversight and Government Reform of the House of Representatives; and
+
+
+(B) transmit a copy of the report to the Comptroller General and the Office of Management and Budget.
+
+
+(2) Contents.—Each report submitted under this subsection shall include—(A) the degree of participation by employees of each executive agency in teleworking during the period covered by the report (and for each executive agency whose head is referred to under section 5312, the degree of participation in each bureau, division, or other major administrative unit of that agency), including—(i) the total number of employees in the agency;
+
+(ii) the number and percent of employees in the agency who are eligible to telework; and
+
+(iii) the number and percent of eligible employees in the agency who are teleworking—(I) 3 or more days per pay period;
+
+(II) 1 or 2 days per pay period;
+
+(III) once per month; and
+
+(IV) on an occasional, episodic, or short-term basis;
+
+
+
+(B) the method for gathering telework data in each agency;
+
+(C) if the total number of employees teleworking is 10 percent higher or lower than the previous year in any agency, the reasons for the positive or negative variation;
+
+(D) the agency goal for increasing participation to the extent practicable or necessary for the next reporting period, as indicated by the percent of </akn:p></akn:content><akn:subsection eId="subsec_6506_a"><akn:num>(a)</akn:num><akn:heading>Definition.—</akn:heading><akn:content><akn:p>(a) In this section, the term “executive agency” shall not include the Government Accountability Office.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6506_b"><akn:num>(b)</akn:num><akn:heading>Reports by the Office of Personnel Management.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6506_c"><akn:num>(c)</akn:num><akn:heading>Comptroller General Reports.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6506_d"><akn:num>(d)</akn:num><akn:heading>Chief Human Capital Officer Reports.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

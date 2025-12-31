@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/563b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/563b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/563b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_563b"><akn:num>563b</akn:num><akn:heading>Acquisition baseline establishment and reports</akn:heading><akn:content><akn:p>§ 563b. Acquisition baseline establishment and reports(a) Baseline requirements(1) In generalBefore the Administration implements any security-related technology acquisition, the appropriate acquisition official of the Department shall establish and document a set of formal baseline requirements.
+
+
+(2) ContentsThe baseline requirements under paragraph (1) shall—(A) include the estimated costs (including lifecycle costs), schedule, and performance milestones for the planned duration of the acquisition;
+
+(B) identify the acquisition risks and a plan for mitigating those risks; and
+
+(C) assess the personnel necessary to manage the acquisition process, manage the ongoing program, and support training and other operations as necessary.
+
+
+(3) FeasibilityIn establishing the performance milestones under paragraph (2)(A), the appropriate acquisition official of the Department, to the extent possible and in consultation with the Under Secretary for Science and Technology, shall ensure that achieving those milestones is technologically feasible.
+
+
+(4) Test and evaluation planThe Administrator, in consultation with the Under Secretary for Science and Technology, shall develop a test and evaluation plan that describes—(A) the activities that are expected to be required to assess acquired technologies against the performance milestones established under paragraph (2)(A);
+
+(B) the necessary and cost-effective combination of laboratory testing, field testing, modeling, simulation, and supporting analysis to ensure that such technologies meet the Administration’s mission needs;
+
+(C) an efficient planning schedule to ensure that test and evaluation activities are completed without undue delay; and
+
+(D) if commercial aviation passengers are expected to interact with the security-related technology, methods that could be used to measure passenger acceptance of and familiarization with the security-related technology.
+
+
+(5) Verification and validationThe appropriate acquisition official</akn:p></akn:content><akn:subsection eId="subsec_563b_a"><akn:num>(a)</akn:num><akn:heading>Baseline requirements</akn:heading><akn:content><akn:p>(a) Baseline requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563b_b"><akn:num>(b)</akn:num><akn:heading>Review of baseline requirements and deviation; report to Congress</akn:heading><akn:content><akn:p>(b) Review of baseline requirements and deviation; report to Congress</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/13505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/13505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/13505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13505"><akn:num>13505</akn:num><akn:heading>Transportation furthering a primary business</akn:heading><akn:content><akn:p>§ 13505. Transportation furthering a primary business(a) In General.—Neither the Secretary nor the Board has jurisdiction under this part over the transportation of property by motor vehicle when—(1) the property is transported by a person engaged in a business other than transportation; and
+
+(2) the transportation is within the scope of, and furthers a primary business (other than transportation) of the person.
+
+
+(b) Corporate Families.—(1) In general.—Neither the Secretary nor the Board has jurisdiction under this part over transportation of property by motor vehicle for compensation provided by a person who is a member of a corporate family for other members of such corporate family.
+
+(2) Definition.—In this section, “corporate family” means a group of corporations consisting of a parent corporation and all subsidiaries in which the parent corporation owns directly or indirectly a 100 percent interest.
+
+
+(Added Pub. L. 104–88, title I, § 103, Dec. 29, 1995, 109 Stat. 861.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 10524 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.</akn:p></akn:content><akn:subsection eId="subsec_13505_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Neither the Secretary nor the Board has jurisdiction under this part over the transportation of property by motor vehicle when—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13505_b"><akn:num>(b)</akn:num><akn:heading>Corporate Families.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

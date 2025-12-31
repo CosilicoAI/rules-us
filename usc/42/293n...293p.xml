@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/293n...293p" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/293n...293p/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/293n...293p/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_293n___293p"><akn:num>293n...293p</akn:num><akn:heading>Repealed. Pub. L. 105–392, title I, § 102(4), Nov. 13, 1998, 112 Stat. 3539</akn:heading><akn:content><akn:p>§§ 293n to 293p. Repealed. Pub. L. 105–392, title I, § 102(4), Nov. 13, 1998, 112 Stat. 3539
+
+Section 293n, act July 1, 1944, ch. 373, title VII, § 750, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2044, authorized grants and contracts for development of training programs for physician assistants.
+
+
+Section 293o, act July 1, 1944, ch. 373, title VII, § 751, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2044, authorized grants and contracts for implementation of training projects for podiatric physicians.
+
+
+Section 293p, act July 1, 1944, ch. 373, title VII, § 752, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2045, set forth general provisions relating to traineeships and fellowships.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

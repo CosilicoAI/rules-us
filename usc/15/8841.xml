@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8841" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8841/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8841/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8841"><akn:num>8841</akn:num><akn:heading>Quantum information science research and education program</akn:heading><akn:content><akn:p>§ 8841. Quantum information science research and education program(a) In generalThe Director of the National Science Foundation shall carry out a basic research and education program on quantum information science and engineering, including the competitive award of grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).
+
+
+(b) Program components(1) In generalIn carrying out the program under subsection (a), the Director of the National Science Foundation shall carry out activities that—(A) support basic interdisciplinary quantum information science and engineering research; and
+
+(B) support human resources development in all aspects of quantum information science and engineering.
+
+
+(2) RequirementsThe activities described in paragraph (1) shall include—(A) using the existing programs of the National Science Foundation, in collaboration with other Federal departments and agencies, as appropriate—(i) to improve the teaching and learning of quantum information science and engineering at the undergraduate, graduate, and postgraduate levels; and
+
+(ii) to increase participation in the quantum fields, including by individuals identified in sections 1885a and 1885b of title 42;
+
+
+(B) formulating goals for quantum information science and engineering research and education activities to be supported by the National Science Foundation;
+
+(C) leveraging the collective body of knowledge from existing quantum information science and engineering research and education activities;
+
+(D) coordinating research efforts funded through existing programs across the directorates of the National Science Foundation; and
+
+(E) engaging with other Federal departments and agencies, research communities, and potential users of information produced under this section.
+
+
+
+(c) Graduate traineeshipsThe Director of the National Science Foundation may establish a program to provide traineeships to graduate students at institutions of higher education within </akn:p></akn:content><akn:subsection eId="subsec_8841_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Director of the National Science Foundation shall carry out a basic research and education program on quantum information science and engineering, including the competitive award of grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8841_b"><akn:num>(b)</akn:num><akn:heading>Program components</akn:heading><akn:content><akn:p>(b) Program components</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8841_c"><akn:num>(c)</akn:num><akn:heading>Graduate traineeships</akn:heading><akn:content><akn:p>(c) Graduate traineeships The Director of the National Science Foundation may establish a program to provide traineeships to graduate students at institutions of higher education within the United States who are citizens of the United States and who choose to pursue masters or doctoral degrees in quantum information science.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8841_d"><akn:num>(d)</akn:num><akn:heading>Incorporating QISE into STEM curriculum</akn:heading><akn:content><akn:p>(d) Incorporating QISE into STEM curriculum</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/248c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/248c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/248c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_248c"><akn:num>248c</akn:num><akn:heading>Master account and services database</akn:heading><akn:content><akn:p>§ 248c. Master account and services database(a) DefinitionsIn this section:(1) Access requestThe term “access request” means a request to a Federal reserve bank for access to a reserve bank master account and services, including any written documentation or formal indication that an entity intends to seek access to a reserve bank master account and services.
+
+
+(2) Official accountholderThe term “official accountholder” means—(A) a foreign state, as defined in section 632 of this title;
+
+(B) a central bank, as defined in section 632 of this title, other than a commercial bank;
+
+(C) a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act (22 U.S.C. 288 et seq.); and
+
+(D) any governmental entity for which the Secretary of the Treasury has directed a Federal reserve bank to receive deposits as fiscal agent of the United States under section 391 of this title.
+
+
+(3) Reserve bank master account and servicesThe term “reserve bank master account and services” means an account in which a Federal reserve bank—(A) receives deposits for an entity other than an official accountholder; or
+
+(B) provides any service under section 248a(b) of this title to an entity other than an official accountholder.
+
+
+
+(b) Publishing master account and access information(1) Online databaseThe Board shall create and maintain a public, online, and searchable database that contains—(A) a list of every entity that currently has access to a reserve bank master account and services, including the date on which the access was granted to the extent the date is knowable;
+
+(B) a list of every entity that submits an access request for a reserve bank master account and services after enactment of this section (or that has submitted an access request that is pending on December 23, 2022), including whether, and the dates on which, a request—(i) was submitted; and
+
+(ii) was approved, rejec</akn:p></akn:content><akn:subsection eId="subsec_248c_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_248c_b"><akn:num>(b)</akn:num><akn:heading>Publishing master account and access information</akn:heading><akn:content><akn:p>(b) Publishing master account and access information</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

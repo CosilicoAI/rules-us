@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/3701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/3701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/3701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3701"><akn:num>3701</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3701. Definitions
+For purposes of this chapter—(1) the term “agency” means an Executive agency, but does not include the Government Accountability Office; and
+
+(2) the term “detail” means—(A) the assignment or loan of an employee of an agency to a private sector organization without a change of position from the agency that employs the individual, or
+
+(B) the assignment or loan of an employee of a private sector organization to an agency without a change of position from the private sector organization that employs the individual,
+
+
+whichever is appropriate in the context in which such term is used.
+
+(Added Pub. L. 107–347, title II, § 209(c)(1), Dec. 17, 2002, 116 Stat. 2925; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+
+Editorial Notes
+Amendments2004—Par. (1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of Title 44, Public Printing and Documents.</akn:p></akn:content><akn:subsection eId="subsec_3701_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “agency” means an Executive agency, but does not include the Government Accountability Office; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3701_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “detail” means— whichever is appropriate in the context in which such term is used.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300d–15" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300d–15/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300d–15/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300d_15"><akn:num>300d–15</akn:num><akn:heading>Restrictions on use of payments</akn:heading><akn:content><akn:p>§ 300d–15. Restrictions on use of payments(a) In generalThe Secretary may not, except as provided in subsection (b), make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that the payments will not be expended—(1) for any purpose other than developing, implementing, and monitoring the modifications required by section 300d–11(b) of this title to be made to the State plan for the provision of emergency medical services;
+
+(2) to make cash payments to intended recipients of services provided pursuant to this section;
+
+(3) to purchase or improve real property (other than minor remodeling of existing improvements to real property);
+
+(4) to satisfy any requirement for the expenditure of non-Federal funds as a condition for the receipt of Federal funds; or
+
+(5) to provide financial assistance to any entity other than a public or nonprofit private entity.
+
+
+(b) WaiverThe Secretary may waive a restriction under subsection (a) only if the Secretary determines that the activities outlined by the State plan submitted under section 300d–14(a) of this title by the State involved cannot otherwise be carried out.
+
+
+(July 1, 1944, ch. 373, title XII, § 1215, as added Pub. L. 101–590, § 3, Nov. 16, 1990, 104 Stat. 2923; amended Pub. L. 110–23, § 9, May 3, 2007, 121 Stat. 97.)
+
+Editorial Notes
+Amendments2007—Pub. L. 110–23 amended section generally. Prior to amendment, section related to restrictions on use of payments.</akn:p></akn:content><akn:subsection eId="subsec_300d_15_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may not, except as provided in subsection (b), make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that the payments will not be expended—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300d_15_b"><akn:num>(b)</akn:num><akn:heading>Waiver</akn:heading><akn:content><akn:p>(b) Waiver The Secretary may waive a restriction under subsection (a) only if the Secretary determines that the activities outlined by the State plan submitted under section 300d–14(a) of this title by the State involved cannot otherwise be carried out.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

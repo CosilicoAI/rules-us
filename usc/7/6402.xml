@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/6402" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/6402/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/6402/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6402"><akn:num>6402</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6402. Definitions
+As used in this chapter:(1) AdvertisingThe term “advertising” means any advertising or promotion program involving only fluid milk products and directed toward increasing the general demand for fluid milk products.
+
+
+(2) BoardThe term “Board” means the National Processor Advertising and Promotion Board established under section 6407(b) of this title.
+
+
+(3) Fluid milk productThe term “fluid milk product” has the meaning given the term in—(A) section 1000.15 of title 7, Code of Federal Regulations, subject to such amendments as may be made by the Secretary; or
+
+(B) any successor regulation.
+
+
+(4) Fluid milk processorThe term “fluid milk processor” means any person who processes and markets commercially more than 3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer).
+
+
+(5) DepartmentThe term “Department” means the Department of Agriculture.
+
+
+(6) ResearchThe term “research” means market research to support advertising and promotion efforts, including educational activities, research directed to product characteristics, product development, including new products or improved technology in production, manufacturing or processing of milk and the products of milk.
+
+
+(7) SecretaryThe term “Secretary” means the Secretary of Agriculture.
+
+
+(8) United StatesThe term “United States”, except as used in sections 6410 through 6412 of this title, means the 48 contiguous States in the continental United States and the District of Columbia.
+
+
+(Pub. L. 101–624, title XIX, § 1999C, Nov. 28, 1990, 104 Stat. 3915; Pub. L. 103–72, § 2(a), Aug. 11, 1993, 107 Stat. 717; Pub. L. 104–127, title I, § 146(c), Apr. 4, 1996, 110 Stat. 918; Pub. L. 107–171, title I, § 1506(a), (b), May 13, 2002, 116 Stat. 210.)
+
+Editorial Notes
+Amendments2002—Par. (3). Pub. L. 107–171, § 1506(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The term </akn:p></akn:content><akn:subsection eId="subsec_6402_1"><akn:num>(1)</akn:num><akn:heading>Advertising</akn:heading><akn:content><akn:p>(1) Advertising The term “advertising” means any advertising or promotion program involving only fluid milk products and directed toward increasing the general demand for fluid milk products.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_2"><akn:num>(2)</akn:num><akn:heading>Board</akn:heading><akn:content><akn:p>(2) Board The term “Board” means the National Processor Advertising and Promotion Board established under section 6407(b) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_3"><akn:num>(3)</akn:num><akn:heading>Fluid milk product</akn:heading><akn:content><akn:p>(3) Fluid milk product The term “fluid milk product” has the meaning given the term in—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_4"><akn:num>(4)</akn:num><akn:heading>Fluid milk processor</akn:heading><akn:content><akn:p>(4) Fluid milk processor The term “fluid milk processor” means any person who processes and markets commercially more than 3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_5"><akn:num>(5)</akn:num><akn:heading>Department</akn:heading><akn:content><akn:p>(5) Department The term “Department” means the Department of Agriculture.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_6"><akn:num>(6)</akn:num><akn:heading>Research</akn:heading><akn:content><akn:p>(6) Research The term “research” means market research to support advertising and promotion efforts, including educational activities, research directed to product characteristics, product development, including new products or improved technology in production, manufacturing or processing of milk and the products of milk.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_7"><akn:num>(7)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(7) Secretary The term “Secretary” means the Secretary of Agriculture.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6402_8"><akn:num>(8)</akn:num><akn:heading>United States</akn:heading><akn:content><akn:p>(8) United States The term “United States”, except as used in sections 6410 through 6412 of this title, means the 48 contiguous States in the continental United States and the District of Columbia.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

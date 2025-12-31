@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/3101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/3101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/3101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3101"><akn:num>3101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3101. Definitions
+In this chapter:(1) 3DThe term “3D” means 3-dimensional.
+
+
+(2) 3D elevation data(A) In generalThe term “3D elevation data” means 3D, high-resolution data obtained using LiDAR, IfSAR, or other methods over the United States (including territories).
+
+
+(B) InclusionsThe term “3D elevation data” includes terrestrial and bathymetric elevation data.
+
+
+
+(3) 3D elevation programThe term “3D Elevation Program” means the 3D Elevation Program established under section 3104(a) of this title.
+
+
+(4) IfSARThe term “IfSAR” means interferometric synthetic aperture radar.
+
+
+(5) Indian tribeThe term “Indian tribe” has the meaning given the term in section 5304 of title 25.
+
+
+(6) LaharThe term “lahar” means a large debris flow of mostly volcanic material that is—(A) often fast-moving; and
+
+(B) a hazard in watersheds downstream of volcanic peaks.
+
+
+(7) LiDARThe term “LiDAR” means light detection and ranging.
+
+
+(8) SecretaryThe term “Secretary” means the Secretary of the Interior, acting through the Director of the United States Geological Survey.
+
+
+(9) StateThe term “State” means—(A) a State; and
+
+(B) the District of Columbia.
+
+
+(10) State officeThe term “State office” means any unit of State government that handles the identification, mapping, assessment, and research of landslide hazards or responding to landslide events, including—(A) a State geological survey office;
+
+(B) a State department of emergency response; and
+
+(C) a State department of transportation.
+
+
+(11) TerritoryThe term “territory” means—(A) the Commonwealth of Puerto Rico;
+
+(B) Guam;
+
+(C) American Samoa;
+
+(D) the Commonwealth of the Northern Mariana Islands;
+
+(E) the Federated States of Micronesia;
+
+(F) the Republic of the Marshall Islands;
+
+(G) the Republic of Palau; and
+
+(H) the United States Virgin Islands.
+
+
+(Pub. L. 116–323, § 2, Jan. 5, 2021, 134 Stat. 5075.)
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 116–323, § 1, Jan. 5, 2021, 134 Stat. 5075, provided that: “This Act [enac</akn:p></akn:content><akn:subsection eId="subsec_3101_1"><akn:num>(1)</akn:num><akn:heading>3D</akn:heading><akn:content><akn:p>(1) 3D The term “3D” means 3-dimensional.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_2"><akn:num>(2)</akn:num><akn:heading>3D elevation data</akn:heading><akn:content><akn:p>(2) 3D elevation data</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_3"><akn:num>(3)</akn:num><akn:heading>3D elevation program</akn:heading><akn:content><akn:p>(3) 3D elevation program The term “3D Elevation Program” means the 3D Elevation Program established under section 3104(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_4"><akn:num>(4)</akn:num><akn:heading>IfSAR</akn:heading><akn:content><akn:p>(4) IfSAR The term “IfSAR” means interferometric synthetic aperture radar.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_5"><akn:num>(5)</akn:num><akn:heading>Indian tribe</akn:heading><akn:content><akn:p>(5) Indian tribe The term “Indian tribe” has the meaning given the term in section 5304 of title 25.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_6"><akn:num>(6)</akn:num><akn:heading>Lahar</akn:heading><akn:content><akn:p>(6) Lahar The term “lahar” means a large debris flow of mostly volcanic material that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_7"><akn:num>(7)</akn:num><akn:heading>LiDAR</akn:heading><akn:content><akn:p>(7) LiDAR The term “LiDAR” means light detection and ranging.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_8"><akn:num>(8)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(8) Secretary The term “Secretary” means the Secretary of the Interior, acting through the Director of the United States Geological Survey.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_9"><akn:num>(9)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(9) State The term “State” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3101_10"><akn:num>(10)</akn:num><akn:heading>State office</akn:heading><akn:content><akn:p>(10) State office The term “State office” means any unit of State government that handles the identification, mapping, assessment, and research of landslide hazards or responding to landslide events, including—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

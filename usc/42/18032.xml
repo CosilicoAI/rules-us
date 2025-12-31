@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18032" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18032/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18032/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18032"><akn:num>18032</akn:num><akn:heading>Consumer choice</akn:heading><akn:content><akn:p>§ 18032. Consumer choice(a) Choice(1) Qualified individualsA qualified individual may enroll in any qualified health plan available to such individual and for which such individual is eligible.
+
+
+(2) Qualified employers(A) Employer may specify levelA qualified employer may provide support for coverage of employees under a qualified health plan by selecting any level of coverage under section 18022(d) of this title to be made available to employees through an Exchange.
+
+
+(B) Employee may choose plans within a levelEach employee of a qualified employer that elects a level of coverage under subparagraph (A) may choose to enroll in a qualified health plan that offers coverage at that level.
+
+
+
+
+(b) Payment of premiums by qualified individualsA qualified individual enrolled in any qualified health plan may pay any applicable premium owed by such individual to the health insurance issuer issuing such qualified health plan.
+
+
+(c) Single risk pool(1) Individual marketA health insurance issuer shall consider all enrollees in all health plans (other than grandfathered health plans) offered by such issuer in the individual market, including those enrollees who do not enroll in such plans through the Exchange, to be members of a single risk pool.
+
+
+(2) Small group marketA health insurance issuer shall consider all enrollees in all health plans (other than grandfathered health plans) offered by such issuer in the small group market, including those enrollees who do not enroll in such plans through the Exchange, to be members of a single risk pool.
+
+
+(3) Merger of marketsA State may require the individual and small group insurance markets within a State to be merged if the State determines appropriate.
+
+
+(4) State lawA State law requiring grandfathered health plans to be included in a pool described in paragraph (1) or (2) shall not apply.
+
+
+
+(d) Empowering consumer choice(1) Continued operation of market outside ExchangesNothing in this title 11 See References in Text note below</akn:p></akn:content><akn:subsection eId="subsec_18032_a"><akn:num>(a)</akn:num><akn:heading>Choice</akn:heading><akn:content><akn:p>(a) Choice</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18032_b"><akn:num>(b)</akn:num><akn:heading>Payment of premiums by qualified individuals</akn:heading><akn:content><akn:p>(b) Payment of premiums by qualified individuals A qualified individual enrolled in any qualified health plan may pay any applicable premium owed by such individual to the health insurance issuer issuing such qualified health plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18032_c"><akn:num>(c)</akn:num><akn:heading>Single risk pool</akn:heading><akn:content><akn:p>(c) Single risk pool</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18032_d"><akn:num>(d)</akn:num><akn:heading>Empowering consumer choice</akn:heading><akn:content><akn:p>(d) Empowering consumer choice</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18032_e"><akn:num>(e)</akn:num><akn:heading>Enrollment through agents or brokers</akn:heading><akn:content><akn:p>(e) Enrollment through agents or brokers The Secretary shall establish procedures under which a State may allow agents or brokers—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18032_f"><akn:num>(f)</akn:num><akn:heading>Qualified individuals and employers; access limited to citizens and lawful residents</akn:heading><akn:content><akn:p>(f) Qualified individuals and employers; access limited to citizens and lawful residents</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

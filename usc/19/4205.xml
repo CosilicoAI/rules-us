@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/4205" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/4205/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/4205/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4205"><akn:num>4205</akn:num><akn:heading>Implementation of trade agreements</akn:heading><akn:content><akn:p>§ 4205. Implementation of trade agreements(a) In general(1) Notification and submissionAny agreement entered into under section 4202(b) of this title shall enter into force with respect to the United States if (and only if)—(A) the President, at least 90 calendar days before the day on which the President enters into the trade agreement, notifies the House of Representatives and the Senate of the President’s intention to enter into the agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
+
+(B) the President, at least 60 days before the day on which the President enters into the agreement, publishes the text of the agreement on a publicly available Internet website of the Office of the United States Trade Representative;
+
+(C) within 60 days after entering into the agreement, the President submits to Congress a description of those changes to existing laws that the President considers would be required in order to bring the United States into compliance with the agreement;
+
+(D) the President, at least 30 days before submitting to Congress the materials under subparagraph (E), submits to Congress—(i) a draft statement of any administrative action proposed to implement the agreement; and
+
+(ii) a copy of the final legal text of the agreement;
+
+
+(E) after entering into the agreement, the President submits to Congress, on a day on which both Houses of Congress are in session, a copy of the final legal text of the agreement, together with—(i) a draft of an implementing bill described in section 4202(b)(3) of this title;
+
+(ii) a statement of any administrative action proposed to implement the trade agreement; and
+
+(iii) the supporting information described in paragraph (2)(A);
+
+
+(F) the implementing bill is enacted into law; and
+
+(G) the President, not later than 30 days before the date on which the agreement enters into force with respect to a party to the agreement, submits written notice to Congress that the President has determine</akn:p></akn:content><akn:subsection eId="subsec_4205_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4205_b"><akn:num>(b)</akn:num><akn:heading>Limitations on trade authorities procedures</akn:heading><akn:content><akn:p>(b) Limitations on trade authorities procedures</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4205_c"><akn:num>(c)</akn:num><akn:heading>Rules of House of Representatives and Senate</akn:heading><akn:content><akn:p>(c) Rules of House of Representatives and Senate Subsection (b) of this section, section 4202(c) of this title, and section 4204(b)(3) of this title are enacted by Congress—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

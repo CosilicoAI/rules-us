@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/541" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/541/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/541/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_541"><akn:num>541</akn:num><akn:heading>Advisory Committee on Former Prisoners of War</akn:heading><akn:content><akn:p>§ 541. Advisory Committee on Former Prisoners of War(a)(1) The Secretary shall establish an advisory committee to be known as the Advisory Committee on Former Prisoners of War (hereinafter in this section referred to as the “Committee”).
+
+(2)(A) The members of the Committee shall be appointed by the Secretary from the general public and shall include—(i) appropriate representatives of veterans who are former prisoners of war;
+
+(ii) individuals who are recognized authorities in fields pertinent to disabilities prevalent among former prisoners of war, including authorities in epidemiology, mental health, nutrition, geriatrics, and internal medicine; and
+
+(iii) appropriate representatives of disabled veterans.
+
+
+(B) The Committee shall also include, as ex officio members, the Under Secretary for Health and the Under Secretary for Benefits, or their designees.
+
+
+(3) The Secretary shall determine the number, terms of service, and pay and allowances of members of the Committee appointed by the Secretary, except that the term of service of any such member may not exceed three years.
+
+
+(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits under this title for veterans who are former prisoners of war and the needs of such veterans with respect to compensation, health care, and rehabilitation.
+
+(c)(1) Not later than July 1 of each odd-numbered year through 2009, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to veterans who are former prisoners of war. Each such report shall include—(A) an assessment of the needs of such veterans with respect to compensation, health care, and rehabilitation;
+
+(B) a review of the programs and activities of the Department designed to meet such needs; and
+
+(C) such recommendations (including recommendations for administrative and legislative action) as the Committee considers to be appropriat</akn:p></akn:content><akn:subsection eId="subsec_541_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_541_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits under this title for veterans who are former prisoners of war and the needs of such veterans with respect to compensation, health care, and rehabilitation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_541_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

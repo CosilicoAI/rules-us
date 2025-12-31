@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2872a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2872a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2872a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2872a"><akn:num>2872a</akn:num><akn:heading>Utilities and services</akn:heading><akn:content><akn:p>§ 2872a. Utilities and services(a) Authority To Furnish.—The Secretary concerned may furnish utilities and services referred to in subsection (b) in connection with any military housing acquired or constructed pursuant to the exercise of any authority or combination of authorities under this subchapter if the military housing is located on a military installation.
+
+(b) Covered Utilities and Services.—The utilities and services that may be furnished under subsection (a) are the following:(1) Electric power.
+
+(2) Steam.
+
+(3) Compressed air.
+
+(4) Water.
+
+(5) Sewage and garbage disposal.
+
+(6) Natural gas.
+
+(7) Pest control.
+
+(8) Snow and ice removal.
+
+(9) Mechanical refrigeration.
+
+(10) Telecommunications service.
+
+(11) Firefighting and fire protection services.
+
+(12) Police protection services.
+
+(13) Street sweeping.
+
+(14) Tree trimming and removal.
+
+
+(c) Reimbursement.—(1) The Secretary concerned shall be reimbursed for any utilities or services furnished under subsection (a).
+
+(2) The amount of any cash payment received under paragraph (1) as reimbursement for the cost of furnishing utilities or services shall—(A) in the case of a cost paid using funds appropriated or otherwise made available before October 1, 2014, be credited to the appropriation or working capital account from which the cost of furnishing utilities or services concerned was paid; or
+
+(B) in the case of a cost paid using funds appropriated or otherwise made available on or after October 1, 2014, be credited to the appropriation or working capital account currently available for the purpose of furnishing utilities or services under subsection (a).
+
+
+(3) Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
+
+
+(Added Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2805(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; amended Pub.</akn:p></akn:content><akn:subsection eId="subsec_2872a_a"><akn:num>(a)</akn:num><akn:heading>Authority To Furnish.—</akn:heading><akn:content><akn:p>(a) The Secretary concerned may furnish utilities and services referred to in subsection (b) in connection with any military housing acquired or constructed pursuant to the exercise of any authority or combination of authorities under this subchapter if the military housing is located on a military installation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2872a_b"><akn:num>(b)</akn:num><akn:heading>Covered Utilities and Services.—</akn:heading><akn:content><akn:p>(b) The utilities and services that may be furnished under subsection (a) are the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2872a_c"><akn:num>(c)</akn:num><akn:heading>Reimbursement.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/3910" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/3910/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/3910/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3910"><akn:num>3910</akn:num><akn:heading>Audit authority of Government Accountability Office</akn:heading><akn:content><akn:p>§ 3910. Audit authority of Government Accountability Office(a) Scope of audit(1) Under regulations of the Comptroller General, the Comptroller General shall audit the appropriate Federal banking agencies (as defined in section 3902 of this title), but may carry out an onsite examination of an open insured bank or bank holding company only if the appropriate Federal banking agency has consented in writing.
+
+(2) An audit under this subsection may include a review or evaluation of the international regulation, supervision, and examination activities of the appropriate Federal banking agency, including the coordination of such activities with similar activities of regulatory authorities of a foreign government or international organization.
+
+(3) Audits of the Federal Reserve Board and Federal Reserve banks may not include—(A) transactions for, or with, a foreign central bank, government of a foreign country, or nonprivate international financing organization;
+
+(B) deliberations, decisions, or actions on monetary policy matters, including discount window operations, reserves of member banks, securities credit, interest on deposits, or open market operations;
+
+(C) transactions made under the direction of the Federal Open Market Committee; or
+
+(D) a part of a discussion or communication among or between members of the Board of Governors of the Federal Reserve System and officers and employees of the Federal Reserve System related to subparagraphs (A) through (C) of this paragraph.
+
+
+
+(b) Limits on disclosure(1)(A) Except as provided in this subsection, an officer or employee of the Government Accountability Office may not disclose information identifying an open bank, an open bank holding company, or a customer of an open or closed bank or bank holding company.
+
+(B) The Comptroller General may disclose information related to the affairs of a closed bank or closed bank holding company identifying a customer of the closed bank or closed bank holding company only if the Compt</akn:p></akn:content><akn:subsection eId="subsec_3910_a"><akn:num>(a)</akn:num><akn:heading>Scope of audit</akn:heading><akn:content><akn:p>(a) Scope of audit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3910_b"><akn:num>(b)</akn:num><akn:heading>Limits on disclosure</akn:heading><akn:content><akn:p>(b) Limits on disclosure</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3910_c"><akn:num>(c)</akn:num><akn:heading>Records, property, workpapers, correspondence, and documents; accessibility</akn:heading><akn:content><akn:p>(c) Records, property, workpapers, correspondence, and documents; accessibility</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

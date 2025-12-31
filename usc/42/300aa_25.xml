@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300aa–25" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300aa–25/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300aa–25/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300aa_25"><akn:num>300aa–25</akn:num><akn:heading>Recording and reporting of information</akn:heading><akn:content><akn:p>§ 300aa–25. Recording and reporting of information(a) General ruleEach health care provider who administers a vaccine set forth in the Vaccine Injury Table to any person shall record, or ensure that there is recorded, in such person’s permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—(1) the date of administration of the vaccine,
+
+(2) the vaccine manufacturer and lot number of the vaccine,
+
+(3) the name and address and, if appropriate, the title of the health care provider administering the vaccine, and
+
+(4) any other identifying information on the vaccine required pursuant to regulations promulgated by the Secretary.
+
+
+(b) Reporting(1) Each health care provider and vaccine manufacturer shall report to the Secretary—(A) the occurrence of any event set forth in the Vaccine Injury Table, including the events set forth in section 300aa–14(b) of this title which occur within 7 days of the administration of any vaccine set forth in the Table or within such longer period as is specified in the Table or section,
+
+(B) the occurrence of any contraindicating reaction to a vaccine which is specified in the manufacturer’s package insert, and
+
+(C) such other matters as the Secretary may by regulation require.
+
+
+Reports of the matters referred to in subparagraphs (A) and (B) shall be made beginning 90 days after December 22, 1987. The Secretary shall publish in the Federal Register as soon as practicable after such date a notice of the reporting requirement.
+
+(2) A report under paragraph (1) respecting a vaccine shall include the time periods after the administration of such vaccine within which vaccine-related illnesses, disabilities, injuries, or conditions, the symptoms and manifestations of such illnesses, disabilities, injuries, or conditions, or deaths occur, and the manufacturer and lot number of the vaccine.
+
+(3) The Secretary shall issue the regulations referred</akn:p></akn:content><akn:subsection eId="subsec_300aa_25_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Each health care provider who administers a vaccine set forth in the Vaccine Injury Table to any person shall record, or ensure that there is recorded, in such person’s permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300aa_25_b"><akn:num>(b)</akn:num><akn:heading>Reporting</akn:heading><akn:content><akn:p>(b) Reporting</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300aa_25_c"><akn:num>(c)</akn:num><akn:heading>Release of information</akn:heading><akn:content><akn:p>(c) Release of information</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/2462" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/2462/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/2462/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2462"><akn:num>2462</akn:num><akn:heading>Establishment of grant program for foreign study by American college students of limited financial m</akn:heading><akn:content><akn:p>§ 2462. Establishment of grant program for foreign study by American college students of limited financial means(a) EstablishmentSubject to the availability of appropriations and under the authorities of the Mutual Educational and Cultural Exchange Act of 1961 [22 U.S.C. 2451 et seq.], the Secretary of State shall establish and carry out a program in each fiscal year to award grants of up to $5,000, to individuals who meet the requirements of subsection (b), toward the cost of up to one academic year of undergraduate study abroad. Grants under this Act shall be known as the “Benjamin A. Gilman International Scholarships”.
+
+
+(b) EligibilityAn individual referred to in subsection (a) is an individual who—(1) is a student in good standing at an institution of higher education in the United States (as defined in section 101(a) of the Higher Education Act of 1965 [20 U.S.C. 1001(a)]);
+
+(2) has been accepted for up to one academic year of study on a program of study abroad approved for credit by the student’s home institution;
+
+(3) is receiving any need-based student assistance under title IV of the Higher Education Act of 1965 [20 U.S.C. 1070 et seq.]; and
+
+(4) is a citizen or national of the United States.
+
+
+(c) Application and selection(1) Grant application and selection shall be carried out through accredited institutions of higher education in the United States or a combination of such institutions under such procedures as are established by the Secretary of State.
+
+(2) In considering applications for grants under this section—(A) consideration of financial need shall include the increased costs of study abroad; and
+
+(B) priority consideration shall be given to applicants who are receiving Federal Pell Grants under title IV of the Higher Education Act of 1965 [20 U.S.C. 1070 et seq.].
+
+
+
+(Pub. L. 106–309, title III, § 303, Oct. 17, 2000, 114 Stat. 1095.)
+
+Editorial Notes
+
+References in TextThe Mutual Educational and Cultural Exchange Act of 1961, referred to in subse</akn:p></akn:content><akn:subsection eId="subsec_2462_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment Subject to the availability of appropriations and under the authorities of the Mutual Educational and Cultural Exchange Act of 1961 [22 U.S.C. 2451 et seq.], the Secretary of State shall establish and carry out a program in each fiscal year to award grants of up to $5,000, to individuals who meet the requirements of subsection (b), toward the cost of up to one academic year of undergraduate study abroad. Grants under this Act shall be known as the “Benjamin A. Gilman International Scholarships”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2462_b"><akn:num>(b)</akn:num><akn:heading>Eligibility</akn:heading><akn:content><akn:p>(b) Eligibility An individual referred to in subsection (a) is an individual who—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2462_c"><akn:num>(c)</akn:num><akn:heading>Application and selection</akn:heading><akn:content><akn:p>(c) Application and selection</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

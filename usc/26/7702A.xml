@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/7702A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/7702A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/7702A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7702A"><akn:num>7702A</akn:num><akn:heading>Modified endowment contract defined</akn:heading><akn:content><akn:p>§ 7702A. Modified endowment contract defined(a) General ruleFor purposes of section 72, the term “modified endowment contract” means any contract meeting the requirements of section 7702—(1) which—(A) is entered into on or after June 21, 1988, and
+
+(B) fails to meet the 7-pay test of subsection (b), or
+
+
+(2) which is received in exchange for a contract described in paragraph (1) or this paragraph.
+
+
+(b) 7-pay testFor purposes of subsection (a), a contract fails to meet the 7-pay test of this subsection if the accumulated amount paid under the contract at any time during the 1st 7 contract years exceeds the sum of the net level premiums which would have been paid on or before such time if the contract provided for paid-up future benefits after the payment of 7 level annual premiums.
+
+
+(c) Computational rules(1) In generalExcept as provided in this subsection, the determination under subsection (b) of the 7 level annual premiums shall be made—(A) as of the time the contract is issued, and
+
+(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other than paragraph (2)(C) thereof), except that the death benefit provided for the 1st contract year shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
+
+
+(2) Reduction in benefits during 1st 7 years(A) In generalIf there is a reduction in benefits under the contract within the 1st 7 contract years, this section shall be applied as if the contract had originally been issued at the reduced benefit level.
+
+
+(B) Reductions attributable to nonpayment of premiumsAny reduction in benefits attributable to the nonpayment of premiums due under the contract shall not be taken into account under subparagraph (A) if the benefits are reinstated within 90 days after the reduction in such benefits.
+
+
+
+(3) Treatment of material changes(A) In generalIf there is a material change in the benefits under (or in other terms of) the contract which was not r</akn:p></akn:content><akn:subsection eId="subsec_7702A_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of section 72, the term “modified endowment contract” means any contract meeting the requirements of section 7702—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702A_b"><akn:num>(b)</akn:num><akn:heading>7-pay test</akn:heading><akn:content><akn:p>(b) 7-pay test For purposes of subsection (a), a contract fails to meet the 7-pay test of this subsection if the accumulated amount paid under the contract at any time during the 1st 7 contract years exceeds the sum of the net level premiums which would have been paid on or before such time if the contract provided for paid-up future benefits after the payment of 7 level annual premiums.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702A_c"><akn:num>(c)</akn:num><akn:heading>Computational rules</akn:heading><akn:content><akn:p>(c) Computational rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702A_d"><akn:num>(d)</akn:num><akn:heading>Distributions affected</akn:heading><akn:content><akn:p>(d) Distributions affected If a contract fails to meet the 7-pay test of subsection (b), such contract shall be treated as failing to meet such requirements only in the case of— For purposes of the preceding sentence, any distribution which is made within 2 years before the failure to meet the 7-pay test shall be treated as made in anticipation of such failure.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702A_e"><akn:num>(e)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(e) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

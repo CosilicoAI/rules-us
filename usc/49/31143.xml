@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/31143" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/31143/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/31143/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31143"><akn:num>31143</akn:num><akn:heading>Investigating complaints and protecting complainants</akn:heading><akn:content><akn:p>§ 31143. Investigating complaints and protecting complainants(a) Investigating Complaints.—The Secretary of Transportation shall conduct a timely investigation of a nonfrivolous written complaint alleging that a substantial violation of a regulation prescribed under this subchapter is occurring or has occurred within the prior 60 days. The Secretary shall give the complainant timely notice of the findings of the investigation. The Secretary is not required to conduct separate investigations of duplicative complaints.
+
+(b) Protecting Complainants.—Notwithstanding section 552 of title 5, the Secretary may disclose the identity of a complainant only if disclosure is necessary to prosecute a violation. If disclosure becomes necessary, the Secretary shall take every practical means within the Secretary’s authority to ensure that the complainant is not subject to harassment, intimidation, disciplinary action, discrimination, or financial loss because of the disclosure.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1012.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+31143(a)49 App.:2511(a).Oct. 30, 1984, Pub. L. 98–554, § 212, 98 Stat. 2841.
+31143(b)49 App.:2511(b).
+
+
+
+Statutory Notes and Related Subsidiaries
+Telephone Hotline for Reporting Safety ViolationsPub. L. 105–178, title IV, § 4017, June 9, 1998, 112 Stat. 413, as amended by Pub. L. 106–159, title II, § 213, Dec. 9, 1999, 113 Stat. 1766, provided that:
+“(a) In General.—For a period of not less than 2 years beginning on or before the 90th day following the date of enactment of this Act [June 9, 1998], the Secretary [of Transportation] shall establish, maintain, and promote the use of a nationwide toll-free telephone system to be used by drivers of commercial motor vehicles and others to report potential violations of Federal motor carrier safety regulations.
+
+“(b) Monitoring.—The Secretary shall monitor reports received by the telephone system and may </akn:p></akn:content><akn:subsection eId="subsec_31143_a"><akn:num>(a)</akn:num><akn:heading>Investigating Complaints.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation shall conduct a timely investigation of a nonfrivolous written complaint alleging that a substantial violation of a regulation prescribed under this subchapter is occurring or has occurred within the prior 60 days. The Secretary shall give the complainant timely notice of the findings of the investigation. The Secretary is not required to conduct separate investigations of duplicative complaints.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31143_b"><akn:num>(b)</akn:num><akn:heading>Protecting Complainants.—</akn:heading><akn:content><akn:p>(b) Notwithstanding section 552 of title 5, the Secretary may disclose the identity of a complainant only if disclosure is necessary to prosecute a violation. If disclosure becomes necessary, the Secretary shall take every practical means within the Secretary’s authority to ensure that the complainant is not subject to harassment, intimidation, disciplinary action, discrimination, or financial loss because of the disclosure.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8854" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8854/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8854/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8854"><akn:num>8854</akn:num><akn:heading>Department of Energy Quantum User Expansion for Science and Technology program</akn:heading><akn:content><akn:p>§ 8854. Department of Energy Quantum User Expansion for Science and Technology program(a) In generalThe Secretary of Energy (referred to in this section as the “Secretary”) shall establish and carry out a program, to be known as the “Quantum User Expansion for Science and Technology program” or “QUEST program”, to encourage and facilitate access to United States quantum computing hardware and quantum computing clouds for research purposes—(1) to enhance the United States quantum research enterprise;
+
+(2) to educate the future quantum computing workforce;
+
+(3) to accelerate the advancement of United States quantum computing capabilities; and
+
+(4) to advance the relevant domestic supply chains, manufacturing processes, and associated simulations or modeling capabilities.
+
+
+(b) ProgramIn carrying out this section, the Secretary shall—(1) coordinate with—(A) the Director of the National Science Foundation;
+
+(B) the Director of the National Institute of Standards and Technology;
+
+(C) the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title; and
+
+(D) the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;
+
+
+(2) provide researchers based within the United States with access to, and use of, United States quantum computing resources through a competitive, merit-reviewed process;
+
+(3) consider applications from the National Laboratories, multi-institutional collaborations, institutions of higher education, industry stakeholders, and any other entities that the Secretary determines are appropriate to provide national leadership on quantum computing related issues;
+
+(4) coordinate with private sector stakeholders, the user community, and interagency partners on program development and best management practices; and
+
+(5) to the extent practicable, balance user access to commercial prototypes available for use across a broad class of applications </akn:p></akn:content><akn:subsection eId="subsec_8854_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Energy (referred to in this section as the “Secretary”) shall establish and carry out a program, to be known as the “Quantum User Expansion for Science and Technology program” or “QUEST program”, to encourage and facilitate access to United States quantum computing hardware and quantum computing clouds for research purposes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8854_b"><akn:num>(b)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(b) Program In carrying out this section, the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8854_c"><akn:num>(c)</akn:num><akn:heading>Leveraging</akn:heading><akn:content><akn:p>(c) Leveraging In carrying out this section, the Secretary shall leverage resources and expertise across the Department of Energy and from—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8854_d"><akn:num>(d)</akn:num><akn:heading>Security</akn:heading><akn:content><akn:p>(d) Security In carrying out the activities authorized by this section, the Secretary, in consultation with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology, shall ensure proper security controls are in place to protect sensitive information, as appropriate.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8854_e"><akn:num>(e)</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>(e) Funding Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there are authorized to be appropriated to the Secretary to carry out the activities under this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/302108" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/302108/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/302108/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_302108"><akn:num>302108</akn:num><akn:heading>Review of threats to historic property</akn:heading><akn:content><akn:p>§ 302108. Review of threats to historic property
+At least once every 4 years, the Secretary, in consultation with the Council and with State Historic Preservation Officers, shall review significant threats to historic property to—(1) determine the kinds of historic property that may be threatened;
+
+(2) ascertain the causes of the threats; and
+
+(3) develop and submit to the President and Congress recommendations for appropriate action.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3194.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30210816 U.S.C. 470a(a)(8).Pub. L. 89–665, title I, § 101(a)(8), as added Pub. L. 102–575, title XL, § 4003, Oct. 30, 1992, 106 Stat. 4753.</akn:p></akn:content><akn:subsection eId="subsec_302108_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) determine the kinds of historic property that may be threatened;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_302108_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) ascertain the causes of the threats; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_302108_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) develop and submit to the President and Congress recommendations for appropriate action.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

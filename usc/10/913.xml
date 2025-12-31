@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/913" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/913/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/913/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_913"><akn:num>913</akn:num><akn:heading>Art. 113. Drunken or reckless operation of a vehicle, aircraft, or vessel</akn:heading><akn:content><akn:p>§ 913. Art. 113. Drunken or reckless operation of a vehicle, aircraft, or vessel(a) Any person subject to this chapter who—(1) operates or physically controls any vehicle, aircraft, or vessel in a reckless or wanton manner or while impaired by a substance described in section 912a(b) of this title (article 112a(b)), or
+
+(2) operates or is in actual physical control of any vehicle, aircraft, or vessel while drunk or when the alcohol concentration in the person’s blood or breath is equal to or exceeds the applicable limit under subsection (b),
+
+
+shall be punished as a court-martial may direct.
+
+(b)(1) For purposes of subsection (a), the applicable limit on the alcohol concentration in a person’s blood or breath is as follows:(A) In the case of the operation or control of a vehicle, aircraft, or vessel in the United States, such limit is the lesser of—(i) the blood alcohol content limit under the law of the State in which the conduct occurred, except as may be provided under paragraph (2) for conduct on a military installation that is in more than one State; or
+
+(ii) the blood alcohol content limit specified in paragraph (3).
+
+
+(B) In the case of the operation or control of a vehicle, aircraft, or vessel outside the United States, the applicable blood alcohol content limit is the blood alcohol content limit specified in paragraph (3) or such lower limit as the Secretary of Defense may by regulation prescribe.
+
+
+(2) In the case of a military installation that is in more than one State, if those States have different blood alcohol content limits under their respective State laws, the Secretary may select one such blood alcohol content limit to apply uniformly on that installation.
+
+(3) For purposes of paragraph (1), the blood alcohol content limit with respect to alcohol concentration in a person’s blood is 0.08 grams of alcohol per 100 milliliters of blood and with respect to alcohol concentration in a person’s breath is 0.08 grams of alcohol per 210 liters of breath, a</akn:p></akn:content><akn:subsection eId="subsec_913_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Any person subject to this chapter who— shall be punished as a court-martial may direct.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_913_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

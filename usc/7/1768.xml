@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1768" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1768/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1768/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1768"><akn:num>1768</akn:num><akn:heading>Foreign Operations Administration unaffected</akn:heading><akn:content><akn:p>§ 1768. Foreign Operations Administration unaffected
+Nothing in this chapter shall be construed to affect personnel employed by or funds available to the Foreign Operations Administration or programs conducted under its authorities.
+(Aug. 28, 1954, ch. 1041, title VI, § 608, 68 Stat. 910.)
+
+Executive Documents
+
+Transfer of Functions
+The Foreign Operations Administration was abolished by Ex. Ord. No. 10610 of May 9, 1955, and its functions and offices were transferred to the Department of State and to the Department of Defense, effective June 30, 1955.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5329" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5329/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5329/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5329"><akn:num>5329</akn:num><akn:heading>Resolution of supervisory jurisdictional disputes among member agencies</akn:heading><akn:content><akn:p>§ 5329. Resolution of supervisory jurisdictional disputes among member agencies(a) Request for Council recommendationThe Council shall seek to resolve a dispute among 2 or more member agencies, if—(1) a member agency has a dispute with another member agency about the respective jurisdiction over a particular bank holding company, nonbank financial company, or financial activity or product (excluding matters for which another dispute mechanism specifically has been provided under title X); 11 See References in Text note below.
+
+(2) the Council determines that the disputing agencies cannot, after a demonstrated good faith effort, resolve the dispute without the intervention of the Council; and
+
+(3) any of the member agencies involved in the dispute—(A) provides all other disputants prior notice of the intent to request dispute resolution by the Council; and
+
+(B) requests in writing, not earlier than 14 days after providing the notice described in subparagraph (A), that the Council seek to resolve the dispute.
+
+
+
+(b) Council recommendationThe Council shall seek to resolve each dispute described in subsection (a)—(1) within a reasonable time after receiving the dispute resolution request;
+
+(2) after consideration of relevant information provided by each agency party to the dispute; and
+
+(3) by agreeing with 1 of the disputants regarding the entirety of the matter, or by determining a compromise position.
+
+
+(c) Form of recommendationAny Council recommendation under this section shall—(1) be in writing;
+
+(2) include an explanation of the reasons therefor; and
+
+(3) be approved by the affirmative vote of ⅔ of the voting members of the Council then serving.
+
+
+(d) Nonbinding effectAny recommendation made by the Council under subsection (c) shall not be binding on the Federal agencies that are parties to the dispute.
+
+
+(Pub. L. 111–203, title I, § 119, July 21, 2010, 124 Stat. 1408.)
+
+Editorial Notes
+
+References in TextTitle X, referred to in subsec. (a)(1), is title X of Pub.</akn:p></akn:content><akn:subsection eId="subsec_5329_a"><akn:num>(a)</akn:num><akn:heading>Request for Council recommendation</akn:heading><akn:content><akn:p>(a) Request for Council recommendation The Council shall seek to resolve a dispute among 2 or more member agencies, if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5329_b"><akn:num>(b)</akn:num><akn:heading>Council recommendation</akn:heading><akn:content><akn:p>(b) Council recommendation The Council shall seek to resolve each dispute described in subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5329_c"><akn:num>(c)</akn:num><akn:heading>Form of recommendation</akn:heading><akn:content><akn:p>(c) Form of recommendation Any Council recommendation under this section shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5329_d"><akn:num>(d)</akn:num><akn:heading>Nonbinding effect</akn:heading><akn:content><akn:p>(d) Nonbinding effect Any recommendation made by the Council under subsection (c) shall not be binding on the Federal agencies that are parties to the dispute.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8911" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8911/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8911/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8911"><akn:num>8911</akn:num><akn:heading>Monitoring and detection</akn:heading><akn:content><akn:p>§ 8911. Monitoring and detection(a) Monitoring program for unregulated contaminants(1) In generalThe Administrator shall include each substance described in paragraph (2) in the fifth publication of the list of unregulated contaminants to be monitored under section 300j–4(a)(2)(B)(i) of title 42.
+
+
+(2) Substances describedThe substances referred to in paragraph (1) are perfluoroalkyl and polyfluoroalkyl substances and classes of perfluoroalkyl and polyfluoroalkyl substances—(A) for which a method to measure the level in drinking water has been validated by the Administrator; and
+
+(B) that are not subject to a national primary drinking water regulation.
+
+
+(3) ExceptionThe perfluoroalkyl and polyfluoroalkyl substances and classes of perfluoroalkyl and polyfluoroalkyl substances included in the list of unregulated contaminants to be monitored under section 300j–4(a)(2)(B)(i) of title 42 under paragraph (1) shall not count towards the limit of 30 unregulated contaminants to be monitored by public water systems under that section.
+
+
+
+(b) Applicability(1) In generalThe Administrator shall—(A) require public water systems serving more than 10,000 persons to monitor for the substances described in subsection (a)(2);
+
+(B) subject to paragraph (2) and the availability of appropriations, require public water systems serving not fewer than 3,300 and not more than 10,000 persons to monitor for the substances described in subsection (a)(2); and
+
+(C) subject to paragraph (2) and the availability of appropriations, ensure that only a representative sample of public water systems serving fewer than 3,300 persons are required to monitor for the substances described in subsection (a)(2).
+
+
+(2) RequirementIf the Administrator determines that there is not sufficient laboratory capacity to carry out the monitoring required under subparagraphs (B) and (C) of paragraph (1), the Administrator may waive the monitoring requirements in those subparagraphs.
+
+
+(3) FundsThe Administrator shall pa</akn:p></akn:content><akn:subsection eId="subsec_8911_a"><akn:num>(a)</akn:num><akn:heading>Monitoring program for unregulated contaminants</akn:heading><akn:content><akn:p>(a) Monitoring program for unregulated contaminants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8911_b"><akn:num>(b)</akn:num><akn:heading>Applicability</akn:heading><akn:content><akn:p>(b) Applicability</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

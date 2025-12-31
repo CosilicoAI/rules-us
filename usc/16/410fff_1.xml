@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/410fff–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/410fff–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/410fff–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_410fff_1"><akn:num>410fff–1</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 410fff–1. Definitions
+In this subchapter:(1) Conservation AreaThe term “Conservation Area” means the Gunnison Gorge National Conservation Area, consisting of approximately 57,725 acres surrounding the Gunnison Gorge as depicted on the Map.
+
+
+(2) MapThe term “Map” means the map entitled “Black Canyon of the Gunnison National Park and Gunnison Gorge NCA—1/22/99”. The map shall be on file and available for public inspection in the offices of the Department of the Interior.
+
+
+(3) ParkThe term “Park” means the Black Canyon of the Gunnison National Park established under section 410fff–2 of this title and depicted on the Map.
+
+
+(4) SecretaryThe term “Secretary” means the Secretary of the Interior.
+
+
+(Pub. L. 106–76, § 3, Oct. 21, 1999, 113 Stat. 1127.)</akn:p></akn:content><akn:subsection eId="subsec_410fff_1_1"><akn:num>(1)</akn:num><akn:heading>Conservation Area</akn:heading><akn:content><akn:p>(1) Conservation Area The term “Conservation Area” means the Gunnison Gorge National Conservation Area, consisting of approximately 57,725 acres surrounding the Gunnison Gorge as depicted on the Map.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_410fff_1_2"><akn:num>(2)</akn:num><akn:heading>Map</akn:heading><akn:content><akn:p>(2) Map The term “Map” means the map entitled “Black Canyon of the Gunnison National Park and Gunnison Gorge NCA—1/22/99”. The map shall be on file and available for public inspection in the offices of the Department of the Interior.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_410fff_1_3"><akn:num>(3)</akn:num><akn:heading>Park</akn:heading><akn:content><akn:p>(3) Park The term “Park” means the Black Canyon of the Gunnison National Park established under section 410fff–2 of this title and depicted on the Map.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_410fff_1_4"><akn:num>(4)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(4) Secretary The term “Secretary” means the Secretary of the Interior.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

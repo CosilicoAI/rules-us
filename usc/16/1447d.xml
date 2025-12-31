@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/1447d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/1447d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/1447d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1447d"><akn:num>1447d</akn:num><akn:heading>Research grant program</akn:heading><akn:content><akn:p>§ 1447d. Research grant program(a) Program administrationThe Administrator of the National Oceanic and Atmospheric Administration shall administer a grant program to support the administrative functions of each Board.
+
+
+(b) Research grants(1) Each Board may annually submit a grant application to the Administrator of the National Oceanic and Atmospheric Administration to fund projects aimed at achieving the research priorities set forth in each research plan, including amendments thereto, developed and approved pursuant to section 1447c of this title.
+
+(2) Projects eligible for funding under this section shall include research, investigations, studies, surveys, or demonstrations with respect to—(A) baseline assessment of marine environmental quality, including chemical, physical, and biological indicators of environmental quality;
+
+(B) effects or potential effects of contaminants, including nutrients, toxic chemicals and heavy metals, on the environment, including marine and aquatic organisms;
+
+(C) effects of modification of habitats, including coastal wetlands, seagrass beds and reefs, on the environment, including marine organisms;
+
+(D) assessment of impacts of pollutant sources and pollutant discharges into the coastal environment;
+
+(E) transport, dispersion, transformation, and fate and effect of contaminants in the marine environment;
+
+(F) marine and estuarine habitat assessment and restoration;
+
+(G) methods and techniques for modeling environmental quality conditions and trends;
+
+(H) methods and techniques for sampling of water, sediment, marine and aquatic organisms, and demonstration of such methods and techniques;
+
+(I) the effects on human health and the environment of contaminants or combinations of contaminants at various levels, whether natural or anthropogenic, that are found in the marine environment;
+
+(J) environmental assessment of potential effects of major coastal and offshore development projects in the region;
+
+(K) assessment of the effects of cli</akn:p></akn:content><akn:subsection eId="subsec_1447d_a"><akn:num>(a)</akn:num><akn:heading>Program administration</akn:heading><akn:content><akn:p>(a) Program administration The Administrator of the National Oceanic and Atmospheric Administration shall administer a grant program to support the administrative functions of each Board.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1447d_b"><akn:num>(b)</akn:num><akn:heading>Research grants</akn:heading><akn:content><akn:p>(b) Research grants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1447d_c"><akn:num>(c)</akn:num><akn:heading>Review and approval of project proposals</akn:heading><akn:content><akn:p>(c) Review and approval of project proposals</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1447d_d"><akn:num>(d)</akn:num><akn:heading>Reporting</akn:heading><akn:content><akn:p>(d) Reporting Any recipient of a grant under this section shall report to the appropriate Board, not later than 18 months after award of the grant, on the activities of such recipient conducted pursuant to this subsection. Such report shall include narrative summaries and technical data in such form as the Administrator of the National Oceanic and Atmospheric Administration may require.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

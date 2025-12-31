@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/1310" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/1310/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/1310/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1310"><akn:num>1310</akn:num><akn:heading>Appropriations for private organizations</akn:heading><akn:content><akn:p>§ 1310. Appropriations for private organizations(a) The Secretary of the Treasury shall credit an appropriation for a private organization to the appropriate fiscal official of the organization. The credit shall be carried on the accounts of—(1) the Treasury; or
+
+(2) a designated depositary of the United States Government (except a national bank).
+
+
+(b) The fiscal official may pay an amount out of the appropriation only on a check of the fiscal official—(1) payable to the order of the person to whom payment is to be made; and
+
+(2) that states the specific purpose for which the amount is to be applied.
+
+
+(c)(1) The fiscal official may pay an amount of less than $20 out of the appropriation on a check—(A) payable to the order of the fiscal official; and
+
+(B) that states the amount is to be applied to small claims.
+
+
+(2) The fiscal official shall provide the Secretary or the designated depositary on which the check is drawn with a certified list of the claims. The list shall state the kind and amount of each claim and the name of each claimant.
+
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 919.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1310(a)31:721(words before 14th comma).June 23, 1874, ch. 455, § 1(par. immediately before heading “Smithsonian Institution”), 18 Stat. 216.
+1310(b)31:721(words between 14th comma and proviso).
+1310(c)31:721(proviso).
+
+
+In subsection (a), before clause (1), the words “by warrant” are omitted as unnecessary because of chapter 33 of the revised title. The word “appropriation” is substituted for “moneys appropriated” for consistency in the revised title. The words “for a private organization” are substituted for “for the aid, use, support, or benefit of any charitable, industrial, or other association, institution, or corporation” to eliminate unnecessary words. The word “official” is substituted for “officer” for consistency in the revised title. In clause (1), the word “Treasur</akn:p></akn:content><akn:subsection eId="subsec_1310_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of the Treasury shall credit an appropriation for a private organization to the appropriate fiscal official of the organization. The credit shall be carried on the accounts of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1310_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The fiscal official may pay an amount out of the appropriation only on a check of the fiscal official—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1310_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1400Z–2" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1400Z–2/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1400Z–2/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1400Z_2"><akn:num>1400Z–2</akn:num><akn:heading>Special rules for capital gains invested in opportunity zones</akn:heading><akn:content><akn:p>§ 1400Z–2. Special rules for capital gains invested in opportunity zones(a) In general(1) Treatment of gainsIn the case of gain from the sale to, or exchange with, an unrelated person of any property held by the taxpayer, at the election of the taxpayer—(A) gross income for the taxable year shall not include so much of such gain as does not exceed the aggregate amount invested by the taxpayer in a qualified opportunity fund during the 180-day period beginning on the date of such sale or exchange,
+
+(B) the amount of gain excluded by subparagraph (A) shall be included in gross income as provided by subsection (b), and
+
+(C) subsection (c) shall apply.
+
+
+(2) ElectionNo election may be made under paragraph (1)—(A) with respect to a sale or exchange if an election previously made with respect to such sale or exchange is in effect, or
+
+(B) with respect to any sale or exchange after December 31, 2026.
+
+
+
+(b) Deferral of gain invested in opportunity zone property(1) Year of inclusionGain to which subsection (a)(1)(B) applies shall be included in income in the taxable year which includes the earlier of—(A) the date on which such investment is sold or exchanged, or
+
+(B) December 31, 2026.
+
+
+(2) Amount includible(A) In generalThe amount of gain included in gross income under subsection (a)(1)(A) shall be the excess of—(i) the lesser of the amount of gain excluded under paragraph (1) or the fair market value of the investment as determined as of the date described in paragraph (1), over
+
+(ii) the taxpayer’s basis in the investment.
+
+
+(B) Determination of basis(i) In generalExcept as otherwise provided in this clause or subsection (c), the taxpayer’s basis in the investment shall be zero.
+
+
+(ii) Increase for gain recognized under subsection (a)(1)(B)The basis in the investment shall be increased by the amount of gain recognized by reason of subsection (a)(1)(B) with respect to such property.
+
+
+(iii) Investments held for 5 yearsIn the case of any investment held for at least 5 yea</akn:p></akn:content><akn:subsection eId="subsec_1400Z_2_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1400Z_2_b"><akn:num>(b)</akn:num><akn:heading>Deferral of gain invested in opportunity zone property</akn:heading><akn:content><akn:p>(b) Deferral of gain invested in opportunity zone property</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1400Z_2_c"><akn:num>(c)</akn:num><akn:heading>Special rule for investments held for at least 10 years</akn:heading><akn:content><akn:p>(c) Special rule for investments held for at least 10 years In the case of any investment held by the taxpayer for at least 10 years and with respect to which the taxpayer makes an election under this clause, the basis of such property shall be equal to the fair market value of such investment on the date that the investment is sold or exchanged.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1400Z_2_d"><akn:num>(d)</akn:num><akn:heading>Qualified opportunity fund</akn:heading><akn:content><akn:p>(d) Qualified opportunity fund For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1400Z_2_e"><akn:num>(e)</akn:num><akn:heading>Applicable rules</akn:heading><akn:content><akn:p>(e) Applicable rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1400Z_2_f"><akn:num>(f)</akn:num><akn:heading>Failure of qualified opportunity fund to maintain investment standard</akn:heading><akn:content><akn:p>(f) Failure of qualified opportunity fund to maintain investment standard</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

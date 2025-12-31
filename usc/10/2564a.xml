@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2564a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2564a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2564a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2564a"><akn:num>2564a</akn:num><akn:heading>Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans</akn:heading><akn:content><akn:p>§ 2564a. Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans(a) Program Authorized.—(1) The Secretary of Defense may establish a military adaptive sports program to support the provision of adaptive sports programming for—(A) any member of the armed forces who is eligible to participate in adaptive sports because of an injury, illness, or wound incurred in the line of duty in the armed forces; and
+
+(B) any veteran (as defined in section 101 of title 38), during the one-year period following the veteran’s date of separation, who—(i) is on the Temporary Disability Retirement List or Permanently Disabled Retirement List;
+
+(ii) is eligible to participate in adaptive sports because of an injury, illness, or wound incurred in the line of duty in the armed forces; and
+
+(iii) was enrolled in the program authorized under this section prior to the veteran’s date of separation.
+
+
+
+(2) In establishing the military adaptive sports program, the Secretary of Defense shall—(A) consult with the Secretary of Veterans Affairs; and
+
+(B) avoid duplicating programs conducted by the Secretary of Veterans Affairs under section 521A of title 38.
+
+
+
+(b) Provision of Assistance; Purpose.—(1) Under such criteria as the Secretary of Defense may establish under the military adaptive sports program, the Secretary may award grants to, or enter into contracts and cooperative agreements with, entities for the purpose of planning, developing, managing, and implementing adaptive sports programming for members and veterans described in subsection (a).
+
+(2) The Secretary of Defense shall use competitive procedures to award any grant or to enter into any contract or cooperative agreement under this subsection.
+
+
+(c) Use of Assistance.—Assistance provided under the military adaptive sports program shall be used—(1) for the purposes specified in subsection (b); and
+
+(2) for such related activities and expenses as the Secretary of Defense may authorize.
+
+
+(Add</akn:p></akn:content><akn:subsection eId="subsec_2564a_a"><akn:num>(a)</akn:num><akn:heading>Program Authorized.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2564a_b"><akn:num>(b)</akn:num><akn:heading>Provision of Assistance; Purpose.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2564a_c"><akn:num>(c)</akn:num><akn:heading>Use of Assistance.—</akn:heading><akn:content><akn:p>(c) Assistance provided under the military adaptive sports program shall be used—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

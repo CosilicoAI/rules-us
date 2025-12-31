@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/139I" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/139I/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/139I/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_139I"><akn:num>139I</akn:num><akn:heading>Continuation coverage premium assistance</akn:heading><akn:content><akn:p>§ 139I. Continuation coverage premium assistance
+In the case of an assistance eligible individual (as defined in subsection (a)(3) of section 9501 of the American Rescue Plan Act of 2021), gross income does not include any premium assistance provided under subsection (a)(1) of such section.
+(Added Pub. L. 117–2, title IX, § 9501(b)(4)(A), Mar. 11, 2021, 135 Stat. 137.)
+
+Editorial Notes
+
+References in TextSection 9501 of the American Rescue Plan Act of 2021, referred to in text, is section 9501 of Pub. L. 117–2, which is set out as a note under section 4980B of this title.
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 117–2, title IX, § 9501(b)(4)(C), Mar. 11, 2021, 135 Stat. 138, provided that: “The amendments made by this paragraph [enacting this section] shall apply to taxable years ending after the date of the enactment of this Act [Mar. 11, 2021].”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

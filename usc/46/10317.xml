@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/10317" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/10317/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/10317/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10317"><akn:num>10317</akn:num><akn:heading>Loss of lien and right to wages</akn:heading><akn:content><akn:p>§ 10317. Loss of lien and right to wages
+A master or seaman by any agreement other than one provided for in this chapter may not forfeit the master’s or seaman’s lien on the vessel or be deprived of a remedy to which the master or seaman otherwise would be entitled for the recovery of wages. A stipulation in an agreement inconsistent with this chapter, or a stipulation by which a seaman consents to abandon a right to wages if the vessel is lost, or to abandon a right the seaman may have or obtain in the nature of salvage, is void.
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 568.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1031746:600
+
+
+Section 10317 prohibits a master or seaman from entering into an agreement which forfeits his or her lien on the vessel or other remedy for recovery of wages, and renders such agreements void.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

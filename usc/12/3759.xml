@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/3759" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/3759/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/3759/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3759"><akn:num>3759</akn:num><akn:heading>Presale reinstatement</akn:heading><akn:content><akn:p>§ 3759. Presale reinstatement(a) Withdrawal and cancellation(1) In generalExcept as provided in sections 3756(b) and 3760(c) of this title, the foreclosure commissioner shall withdraw the security property from foreclosure and cancel the foreclosure sale only if—(A) the Secretary directs the foreclosure commissioner to do so before or at the time of the sale;
+
+(B) the foreclosure commissioner finds, upon application of the mortgagor not less than 3 days before the date of the sale, that the default or defaults upon which the foreclosure is based did not exist at the time of service of the notice of default and foreclosure sale; or
+
+(C)(i) in the case of a foreclosure involving a monetary default, there is tendered to the foreclosure commissioner before public auction is completed the entire amount of principal and interest which would be due if payments under the mortgage had not been accelerated;
+
+(ii) in the case of a foreclosure involving a nonmonetary default, the foreclosure commissioner, upon application of the mortgagor before the date of foreclosure sale, finds that such default is cured; and
+
+(iii) there is tendered to the foreclosure commissioner before public auction is completed—(I) all amounts due under the mortgage agreement (excluding additional amounts which would have been due if mortgage payments had been accelerated);
+
+(II) all amounts of expenditures secured by the mortgage; and
+
+(III) all costs of foreclosure incurred for which payment from the proceeds of foreclosure is provided in section 3761 of this title.
+
+
+
+
+(2) Discretionary noncancellationThe Secretary may refuse to cancel a foreclosure sale pursuant to paragraph (1)(C) if the current mortgagor or owner of record has, on one or more previous occasions, caused a foreclosure of the mortgage, commenced pursuant to this chapter or otherwise, to be canceled by curing a default.
+
+
+
+(b) Opportunity of Secretary to dispute withdrawalBefore withdrawing the security property from foreclosure under</akn:p></akn:content><akn:subsection eId="subsec_3759_a"><akn:num>(a)</akn:num><akn:heading>Withdrawal and cancellation</akn:heading><akn:content><akn:p>(a) Withdrawal and cancellation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3759_b"><akn:num>(b)</akn:num><akn:heading>Opportunity of Secretary to dispute withdrawal</akn:heading><akn:content><akn:p>(b) Opportunity of Secretary to dispute withdrawal Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1), the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3759_c"><akn:num>(c)</akn:num><akn:heading>Effect of cancellation</akn:heading><akn:content><akn:p>(c) Effect of cancellation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3759_d"><akn:num>(d)</akn:num><akn:heading>Notice of cancellation</akn:heading><akn:content><akn:p>(d) Notice of cancellation The foreclosure commissioner shall file a notice of cancellation in the same place and manner provided for filing the notice of default and foreclosure sale in section 3758 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

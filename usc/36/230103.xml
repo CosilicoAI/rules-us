@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/230103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/230103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/230103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_230103"><akn:num>230103</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>§ 230103. Membership
+An individual is eligible for membership in the corporation only if the individual served honorably as a member of the Armed Forces of the United States—(1) in a foreign war, insurrection, or expedition in service that—(A) has been recognized as campaign-medal service; and
+
+(B) is governed by the authorization of the award of a campaign badge by the United States Government;
+
+
+(2) on the Korean peninsula or in its territorial waters for at least 30 consecutive days, or a total of 60 days, after June 30, 1949; or
+
+(3) in an area which entitled the individual to receive special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of title 37.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1481; Pub. L. 107–242, § 1(a), Oct. 16, 2002, 116 Stat. 1497; Pub. L. 114–328, div. A, title VI, § 618(g), Dec. 23, 2016, 130 Stat. 2160.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+23010336:115.May 28, 1936, ch. 471, § 5, 49 Stat. 1391; May 29, 1953, ch. 85, § 2, 67 Stat. 40; Mar. 7, 1995, Pub. L. 104–3, 109 Stat. 47.
+
+
+The words “is eligible for membership . . . only if” are substituted for “may not be a member . . . unless” for consistency in the revised title. The words “served honorably as a member of the armed forces of the United States” are substituted for “served honorably as a member of the Armed Forces of the United States” and “while a member of the Armed Forces of the United States, served honorably” to eliminate unnecessary words. In clause (2), the words “at least” are substituted for “not less than” for consistency in the revised title.
+
+Editorial Notes
+Amendments2016—Par. (3). Pub. L. 114–328 inserted “or 351” after “section 310”.
+2002—Par. (3). Pub. L. 107–242 added par. (3).</akn:p></akn:content><akn:subsection eId="subsec_230103_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) in a foreign war, insurrection, or expedition in service that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_230103_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) on the Korean peninsula or in its territorial waters for at least 30 consecutive days, or a total of 60 days, after June 30, 1949; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_230103_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) in an area which entitled the individual to receive special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of title 37.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

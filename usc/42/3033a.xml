@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/3033a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/3033a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/3033a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3033a"><akn:num>3033a</akn:num><akn:heading>Responsibilities of Assistant Secretary</akn:heading><akn:content><akn:p>§ 3033a. Responsibilities of Assistant Secretary(a) In generalThe Assistant Secretary shall be responsible for the administration, implementation, and making of grants and contracts under this subchapter and shall not delegate authority under this subchapter to any other individual, agency, or organization.
+
+
+(b) Report(1) In generalNot later than January 1 following each fiscal year, the Assistant Secretary shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report for such fiscal year that describes each project and each program—(A) for which funds were provided under this subchapter; and
+
+(B) that was completed in the fiscal year for which such report is prepared.
+
+
+(2) ContentsSuch report shall contain—(A) the name or descriptive title of each project or program;
+
+(B) the name and address of the individual or governmental entity that conducted such project or program;
+
+(C) a specification of the period throughout which such project or program was conducted;
+
+(D) the identity of each source of funds expended to carry out such project or program and the amount of funds provided by each such source;
+
+(E) an abstract describing the nature and operation of such project or program; and
+
+(F) a bibliography identifying all published information relating to such project or program.
+
+
+
+(c) Evaluations(1) In generalThe Assistant Secretary shall establish by regulation and implement a process to evaluate the results of projects and programs carried out under this subchapter.
+
+
+(2) ResultsThe Assistant Secretary shall—(A) make available to the public the results of each evaluation carried out under paragraph (1); and
+
+(B) use such evaluation to improve services delivered, or the operation of projects and programs carried out, under this chapter, including preparing an analysis of such services, projects, and programs, and of how the evaluation relates to improvements in such services, projects, and programs and in the s</akn:p></akn:content><akn:subsection eId="subsec_3033a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Assistant Secretary shall be responsible for the administration, implementation, and making of grants and contracts under this subchapter and shall not delegate authority under this subchapter to any other individual, agency, or organization.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3033a_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3033a_c"><akn:num>(c)</akn:num><akn:heading>Evaluations</akn:heading><akn:content><akn:p>(c) Evaluations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/76" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/76/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/76/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_76"><akn:num>76</akn:num><akn:heading>President of bank as member of board; chairman of board</akn:heading><akn:content><akn:p>§ 76. President of bank as member of board; chairman of board
+The president of the bank shall be a member of the board and shall be the chairman thereof, but the board may designate a director in lieu of the president to be chairman of the board, who shall perform such duties as may be designated by the board.
+(R.S. § 5150; Feb. 25, 1927, ch. 191, § 6, 44 Stat. 1228.)
+
+Editorial Notes
+Codification
+R.S. § 5150 derived from act June 3, 1864, ch. 106, § 9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+
+Amendments1927—Act Feb. 25, 1927, amended section generally. Prior to amendment, section read as follows: “One of the directors, to be chosen by the board, shall be president of the board.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

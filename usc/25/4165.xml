@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/4165" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/4165/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/4165/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4165"><akn:num>4165</akn:num><akn:heading>Review and audit by Secretary</akn:heading><akn:content><akn:p>§ 4165. Review and audit by Secretary(a) Requirements under chapter 75 of title 31An entity designated by an Indian tribe as a housing entity shall be treated, for purposes of chapter 75 of title 31, as a non-Federal entity that is subject to the audit requirements that apply to non-Federal entities under that chapter.
+
+
+(b) Additional reviews and audits(1) In generalIn addition to any audit or review under subsection (a), to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—(A) determine whether the recipient—(i) has carried out—(I) eligible activities in a timely manner; and
+
+(II) eligible activities and certification in accordance with this chapter and other applicable law;
+
+
+(ii) has a continuing capacity to carry out eligible activities in a timely manner; and
+
+(iii) is in compliance with the Indian housing plan of the recipient; and
+
+
+(B) verify the accuracy of information contained in any performance report submitted by the recipient under section 4164 of this title.
+
+
+(2) On-site visitsTo the extent practicable, the reviews and audits conducted under this subsection shall include on-site visits by the appropriate official of the Department of Housing and Urban Development.
+
+
+
+(c) Review of reports(1) In generalThe Secretary shall provide each recipient that is the subject of a report made by the Secretary under this section notice that the recipient may review and comment on the report during a period of not less than 30 days after the date on which notice is issued under this paragraph.
+
+
+(2) Public availabilityAfter taking into consideration any comments of the recipient under paragraph (1), the Secretary—(A) may revise the report; and
+
+(B) not later than 30 days after the date on which those comments are received, shall make the comments and the report (with any revisions made under subparagraph (A)) readily available to the public.
+
+
+
+(d) Effect of reviewsSubject to </akn:p></akn:content><akn:subsection eId="subsec_4165_a"><akn:num>(a)</akn:num><akn:heading>Requirements under chapter 75 of title 31</akn:heading><akn:content><akn:p>(a) Requirements under chapter 75 of title 31 An entity designated by an Indian tribe as a housing entity shall be treated, for purposes of chapter 75 of title 31, as a non-Federal entity that is subject to the audit requirements that apply to non-Federal entities under that chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4165_b"><akn:num>(b)</akn:num><akn:heading>Additional reviews and audits</akn:heading><akn:content><akn:p>(b) Additional reviews and audits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4165_c"><akn:num>(c)</akn:num><akn:heading>Review of reports</akn:heading><akn:content><akn:p>(c) Review of reports</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4165_d"><akn:num>(d)</akn:num><akn:heading>Effect of reviews</akn:heading><akn:content><akn:p>(d) Effect of reviews Subject to section 4161(a) of this title, after reviewing the reports and audits relating to a recipient that are submitted to the Secretary under this section, the Secretary may adjust the amount of a grant made to a recipient under this chapter in accordance with the findings of the Secretary with respect to those reports and audits.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

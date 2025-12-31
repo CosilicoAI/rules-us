@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3305" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3305/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3305/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3305"><akn:num>3305</akn:num><akn:heading>Audits of depositaries</akn:heading><akn:content><akn:p>§ 3305. Audits of depositaries
+The Secretary of the Treasury, or an officer, employee, or agent designated by the Secretary, may audit a depositary of public money. For uniformity and accuracy in accounts and safety of public money, an individual conducting an audit shall audit a depositary’s—(1) books;
+
+(2) accounts;
+
+(3) returns; and
+
+(4) public money on hand and the way the money is kept.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+330531:548.R.S. § 3649.
+
+
+In the section, before clause (1), the words “or an officer, employee, or agent designated by the Secretary” are substituted for “and for that purpose to appoint special agents, as occasion may require” for clarity and consistency. The words “may audit a depositary of public money” are substituted for “is authorized to cause examinations to be made of the books, accounts and money on hand, of the several depositaries” to eliminate unnecessary words and for consistency. The words “with such compensation, not exceeding $6 per day and traveling expenses, as he may think reasonable, to be fixed and declared at the time of each appointment” are omitted as superseded by 5:3109 and ch. 57. The words “be instructed to” and “as well” are omitted as surplus.</akn:p></akn:content><akn:subsection eId="subsec_3305_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) books;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3305_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) accounts;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3305_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) returns; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3305_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) public money on hand and the way the money is kept.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

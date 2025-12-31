@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/4319" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/4319/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/4319/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4319"><akn:num>4319</akn:num><akn:heading>Report on oversight of revenue protection and enforcement measures</akn:heading><akn:content><akn:p>§ 4319. Report on oversight of revenue protection and enforcement measures(a) In generalNot later than June 30, 2016, and not later than March 31 of each second year thereafter, the Inspector General of the Department of the Treasury shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report assessing, with respect to the period covered by the report, as specified in subsection (b), the following:(1) The effectiveness of the measures taken by U.S. Customs and Border Protection with respect to protection of revenue, including—(A) the collection of countervailing duties assessed under subtitle A of title VII of the Tariff Act of 1930 (19 U.S.C. 1671 et seq.) and antidumping duties assessed under subtitle B of title VII of the Tariff Act of 1930 (19 U.S.C. 1673 et seq.);
+
+(B) the assessment, collection, and mitigation of commercial fines and penalties;
+
+(C) the use of bonds, including continuous and single transaction bonds, to secure that revenue; and
+
+(D) the adequacy of the policies of U.S. Customs and Border Protection with respect to the monitoring and tracking of merchandise transported in bond and collecting duties, as appropriate.
+
+
+(2) The effectiveness of actions taken by U.S. Customs and Border Protection to measure accountability and performance with respect to protection of revenue.
+
+(3) The number and outcome of investigations instituted by U.S. Customs and Border Protection with respect to the underpayment of duties.
+
+(4) The effectiveness of training with respect to the collection of duties provided for personnel of U.S. Customs and Border Protection.
+
+
+(b) Period covered by reportEach report required by subsection (a) shall cover the period of 2 fiscal years ending on September 30 of the calendar year preceding the submission of the report.
+
+
+(Pub. L. 114–125, title I, § 112, Feb. 24, 2016, 130 Stat. 140.)
+
+Editorial Notes
+
+References in TextThe Tariff Act of 1930, referred to in </akn:p></akn:content><akn:subsection eId="subsec_4319_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than June 30, 2016, and not later than March 31 of each second year thereafter, the Inspector General of the Department of the Treasury shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report assessing, with respect to the period covered by the report, as specified in subsection (b), the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4319_b"><akn:num>(b)</akn:num><akn:heading>Period covered by report</akn:heading><akn:content><akn:p>(b) Period covered by report Each report required by subsection (a) shall cover the period of 2 fiscal years ending on September 30 of the calendar year preceding the submission of the report.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

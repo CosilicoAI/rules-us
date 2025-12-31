@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/60501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/60501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/60501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60501"><akn:num>60501</akn:num><akn:heading>Goal</akn:heading><akn:content><akn:p>§ 60501. Goal
+The goal for the Administration’s Earth Science program shall be to pursue a program of Earth observations, research, and applications activities to better understand the Earth, how it supports life, and how human activities affect its ability to do so in the future. In pursuit of this goal, the Administration’s Earth Science program shall ensure that securing practical benefits for society will be an important measure of its success in addition to securing new knowledge about the Earth system and climate change. In further pursuit of this goal, the Administration shall, together with the National Oceanic and Atmospheric Administration and other relevant agencies, provide United States leadership in developing and carrying out a cooperative international Earth observations-based research program.
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3425.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6050142 U.S.C. 17711.Pub. L. 110–422, title II, § 201, Oct. 15, 2008, 122 Stat. 4784.
+
+
+
+Statutory Notes and Related Subsidiaries
+Earth Science Missions and ProgramsPub. L. 117–167, div. B, title VII, § 10824, Aug. 9, 2022, 136 Stat. 1742, provided that:
+“(a) Sense of Congress.—It is the sense of Congress that—“(1) the Earth science and applications program of the [National Aeronautics and Space] Administration provides increasingly valuable data for natural resource management, agriculture, forestry, food security, air quality monitoring, and many other application areas; and
+
+“(2) a robust and balanced Earth science and applications program contributes significantly to—“(A) the scientific discovery and economic growth of the United States; and
+
+“(B) supporting the health and safety of the people of the United States and the citizens of the world.
+
+
+
+“(b) Reaffirmation.—Congress reaffirms the goal for the Administration’s Earth science and applications program set forth in section 60501 of title 51, Uni</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

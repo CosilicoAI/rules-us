@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17194" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17194/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17194/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17194"><akn:num>17194</akn:num><akn:heading>Enhanced geothermal systems research and development</akn:heading><akn:content><akn:p>§ 17194. Enhanced geothermal systems research and development(a) In generalThe Secretary shall support a program of research, development, demonstration, and commercial application for enhanced geothermal systems, including the programs described in subsection (b).
+
+
+(b) Enhanced geothermal systems technologiesIn collaboration with industry partners, institutions of higher education, and the national laboratories, the Secretary shall support a program of research, development, demonstration, and commercial application of the technologies to achieve higher efficiency and lower cost enhanced geothermal systems, including—(1) reservoir stimulation;
+
+(2) drilled, non-stimulated (e.g. closed-loop) reservoir technologies;
+
+(3) reservoir characterization, monitoring, and modeling and understanding of the surface area and volume of fractures;
+
+(4) stress and fracture mapping including real time monitoring and modeling;
+
+(5) tracer development;
+
+(6) three and four-dimensional seismic imaging and tomography;
+
+(7) well placement and orientation;
+
+(8) long-term reservoir management;
+
+(9) drilling technologies, methods, and tools;
+
+(10) improved exploration tools;
+
+(11) zonal isolation; and
+
+(12) understanding induced seismicity risks from reservoir engineering and stimulation.
+
+
+(c) Frontier observatory for research in geothermal energy(1) In generalThe Secretary shall support the establishment and construction of up to 3 field research sites, which shall each be known as a “Frontier Observatory for Research in Geothermal Energy” or “FORGE” site to develop, test, and enhance techniques and tools for enhanced geothermal energy.
+
+
+(2) DutiesThe Secretary shall—(A) provide financial assistance in support of research and development projects focused on advanced monitoring technologies, new technologies and approaches for implementing multi-zone stimulations, nonstimulation techniques, and dynamic reservoir modeling that incorporates all available high-fidelity characterization data</akn:p></akn:content><akn:subsection eId="subsec_17194_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall support a program of research, development, demonstration, and commercial application for enhanced geothermal systems, including the programs described in subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17194_b"><akn:num>(b)</akn:num><akn:heading>Enhanced geothermal systems technologies</akn:heading><akn:content><akn:p>(b) Enhanced geothermal systems technologies In collaboration with industry partners, institutions of higher education, and the national laboratories, the Secretary shall support a program of research, development, demonstration, and commercial application of the technologies to achieve higher efficiency and lower cost enhanced geothermal systems, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17194_c"><akn:num>(c)</akn:num><akn:heading>Frontier observatory for research in geothermal energy</akn:heading><akn:content><akn:p>(c) Frontier observatory for research in geothermal energy</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17194_d"><akn:num>(d)</akn:num><akn:heading>Enhanced geothermal systems demonstrations</akn:heading><akn:content><akn:p>(d) Enhanced geothermal systems demonstrations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

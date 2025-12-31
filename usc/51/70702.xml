@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/70702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/70702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/70702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70702"><akn:num>70702</akn:num><akn:heading>Establishment of Commission</akn:heading><akn:content><akn:p>§ 70702. Establishment of Commission(a) Establishment.—The President shall establish an independent, nonpartisan Commission within the executive branch to investigate any incident that results in the loss of—(1) a space shuttle;
+
+(2) the International Space Station or its operational viability;
+
+(3) any other orbital or suborbital space vehicle carrying humans that is—(A) owned by the Federal Government; or
+
+(B) being used pursuant to a contract or Space Act Agreement with the Federal Government for carrying a government astronaut or a researcher funded by the Federal Government; or
+
+
+(4) a crew member or passenger of any space vehicle described in this subsection.
+
+
+(b) Deadline for Establishment.—The President shall establish a Commission within 7 days after an incident specified in subsection (a).
+
+(c) Definitions.—In this section:(1) Government astronaut.—The term “government astronaut” has the meaning given the term in section 50902.
+
+(2) Space act agreement.—The term “Space Act Agreement” means an agreement entered into by the Administration pursuant to its other transactions authority under section 20113(e).
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3432; Pub. L. 115–10, title VIII, § 838, Mar. 21, 2017, 131 Stat. 71.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+7070242 U.S.C. 16842.Pub. L. 109–155, title VIII, § 822, Dec. 30, 2005, 119 Stat. 2941.
+
+
+
+Editorial Notes
+Amendments2017—Subsec. (a)(3). Pub. L. 115–10, § 838(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “any other United States space vehicle carrying humans that is owned by the Federal Government or that is being used pursuant to a contract with the Federal Government; or”.
+Subsec. (c). Pub. L. 115–10, § 838(2), added subsec. (c).</akn:p></akn:content><akn:subsection eId="subsec_70702_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) The President shall establish an independent, nonpartisan Commission within the executive branch to investigate any incident that results in the loss of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70702_b"><akn:num>(b)</akn:num><akn:heading>Deadline for Establishment.—</akn:heading><akn:content><akn:p>(b) The President shall establish a Commission within 7 days after an incident specified in subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70702_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

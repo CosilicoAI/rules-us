@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1501"><akn:num>1501</akn:num><akn:heading>Purpose and scope of application</akn:heading><akn:content><akn:p>§ 1501. Purpose and scope of application(a) The purpose of this chapter is to incorporate the Model Law on Cross-Border Insolvency so as to provide effective mechanisms for dealing with cases of cross-border insolvency with the objectives of—(1) cooperation between—(A) courts of the United States, United States trustees, trustees, examiners, debtors, and debtors in possession; and
+
+(B) the courts and other competent authorities of foreign countries involved in cross-border insolvency cases;
+
+
+(2) greater legal certainty for trade and investment;
+
+(3) fair and efficient administration of cross-border insolvencies that protects the interests of all creditors, and other interested entities, including the debtor;
+
+(4) protection and maximization of the value of the debtor’s assets; and
+
+(5) facilitation of the rescue of financially troubled businesses, thereby protecting investment and preserving employment.
+
+
+(b) This chapter applies where—(1) assistance is sought in the United States by a foreign court or a foreign representative in connection with a foreign proceeding;
+
+(2) assistance is sought in a foreign country in connection with a case under this title;
+
+(3) a foreign proceeding and a case under this title with respect to the same debtor are pending concurrently; or
+
+(4) creditors or other interested persons in a foreign country have an interest in requesting the commencement of, or participating in, a case or proceeding under this title.
+
+
+(c) This chapter does not apply to—(1) a proceeding concerning an entity, other than a foreign insurance company, identified by exclusion in section 109(b);
+
+(2) an individual, or to an individual and such individual’s spouse, who have debts within the limits specified in section 109(e) and who are citizens of the United States or aliens lawfully admitted for permanent residence in the United States; or
+
+(3) an entity subject to a proceeding under the Securities Investor Protection Act of 1970, a stockbroker subject to subcha</akn:p></akn:content><akn:subsection eId="subsec_1501_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The purpose of this chapter is to incorporate the Model Law on Cross-Border Insolvency so as to provide effective mechanisms for dealing with cases of cross-border insolvency with the objectives of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) This chapter applies where—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) This chapter does not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The court may not grant relief under this chapter with respect to any deposit, escrow, trust fund, or other security required or permitted under any applicable State insurance law or regulation for the benefit of claim holders in the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/8107" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/8107/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/8107/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8107"><akn:num>8107</akn:num><akn:heading>Rural Energy for America Program</akn:heading><akn:content><akn:p>§ 8107. Rural Energy for America Program(a) EstablishmentThe Secretary, in consultation with the Secretary of Energy, shall establish a Rural Energy for America Program to promote energy efficiency and renewable energy development for agricultural producers and rural small businesses through—(1) grants for energy audits and renewable energy development assistance; and
+
+(2) financial assistance for energy efficiency improvements and renewable energy systems.
+
+
+(b) Energy audits and renewable energy development assistance(1) In generalThe Secretary shall make competitive grants to eligible entities to provide assistance to agricultural producers and rural small businesses—(A) to become more energy efficient; and
+
+(B) to use renewable energy technologies and resources.
+
+
+(2) Eligible entitiesAn eligible entity under this subsection is—(A) a unit of State, tribal, or local government;
+
+(B) a land-grant college or university or other institution of higher education;
+
+(C) a rural electric cooperative or public power entity;
+
+(D) a council (as defined in section 3451 of title 16); and
+
+(E) any other similar entity, as determined by the Secretary.
+
+
+(3) Selection criteriaIn reviewing applications of eligible entities to receive grants under paragraph (1), the Secretary shall consider—(A) the ability and expertise of the eligible entity in providing professional energy audits and renewable energy assessments;
+
+(B) the geographic scope of the program proposed by the eligible entity in relation to the identified need;
+
+(C) the number of agricultural producers and rural small businesses to be assisted by the program;
+
+(D) the potential of the proposed program to produce energy savings and environmental benefits;
+
+(E) the plan of the eligible entity for performing outreach and providing information and assistance to agricultural producers and rural small businesses on the benefits of energy efficiency and renewable energy development; and
+
+(F) the ability of the eligible entity </akn:p></akn:content><akn:subsection eId="subsec_8107_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary, in consultation with the Secretary of Energy, shall establish a Rural Energy for America Program to promote energy efficiency and renewable energy development for agricultural producers and rural small businesses through—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8107_b"><akn:num>(b)</akn:num><akn:heading>Energy audits and renewable energy development assistance</akn:heading><akn:content><akn:p>(b) Energy audits and renewable energy development assistance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8107_c"><akn:num>(c)</akn:num><akn:heading>Financial assistance for energy efficiency improvements and renewable energy systems</akn:heading><akn:content><akn:p>(c) Financial assistance for energy efficiency improvements and renewable energy systems</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8107_d"><akn:num>(d)</akn:num><akn:heading>Outreach</akn:heading><akn:content><akn:p>(d) Outreach The Secretary shall ensure, to the maximum extent practicable, that adequate outreach relating to this section is being conducted at the State and local levels.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8107_e"><akn:num>(e)</akn:num><akn:heading>Lower-cost activities</akn:heading><akn:content><akn:p>(e) Lower-cost activities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8107_f"><akn:num>(f)</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>(f) Funding</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

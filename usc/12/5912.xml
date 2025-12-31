@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5912" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5912/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5912/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5912"><akn:num>5912</akn:num><akn:heading>Interoperability standards</akn:heading><akn:content><akn:p>§ 5912. Interoperability standards
+The primary Federal payment stablecoin regulators, in consultation with the National Institute of Standards and Technology, other relevant standard-setting organizations, and State bank and credit union regulators, shall assess and, if necessary, may, pursuant to section 553 of title 5, and in a manner consistent with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), prescribe standards for permitted payment stablecoin issuers to promote compatibility and interoperability with—(1) other permitted payment stablecoin issuers; and
+
+(2) the broader digital finance ecosystem, including accepted communications protocols and blockchains, permissioned or public.
+
+(Pub. L. 119–27, § 12, July 18, 2025, 139 Stat. 459.)
+
+Delayed Effective Date of SectionFor delayed effective date of section, see Effective Date note below.
+
+Editorial Notes
+
+References in TextThe National Technology Transfer and Advancement Act of 1995, referred to in text, is Pub. L. 104–113, Mar. 7, 1996, 110 Stat. 775. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3701 of Title 15, Commerce and Trade, and Tables.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.</akn:p></akn:content><akn:subsection eId="subsec_5912_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) other permitted payment stablecoin issuers; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5912_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the broader digital finance ecosystem, including accepted communications protocols and blockchains, permissioned or public.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/4321" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/4321/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/4321/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4321"><akn:num>4321</akn:num><akn:heading>Assistance in obtaining reemployment or other employment rights or benefits</akn:heading><akn:content><akn:p>§ 4321. Assistance in obtaining reemployment or other employment rights or benefits
+The Secretary (through the Veterans’ Employment and Training Service) shall provide assistance to any person with respect to the employment and reemployment rights and benefits to which such person is entitled under this chapter. In providing such assistance, the Secretary may request the assistance of existing Federal and State agencies engaged in similar or related activities and utilize the assistance of volunteers.
+(Added Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3164.)
+
+Editorial Notes
+Prior ProvisionsA prior section 4321 was renumbered section 7621 of this title.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that provisions necessary for implementation of section 4311 of this title are effective Oct. 13, 1994, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

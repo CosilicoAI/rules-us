@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/30303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/30303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/30303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30303"><akn:num>30303</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>§ 30303. Membership(a) General Membership.—An individual who served in the Armed Forces of the United States and who, in the line of duty in that service, sustained a substantial impairment of sight or vision as defined by the bylaws of the corporation is eligible for general membership in the corporation.
+
+(b) Honorary and Associate Membership.—In addition to general membership, the corporation shall have special classes of honorary and associate membership. Eligibility for, and the rights and obligations of, those special classes are as provided in the bylaws.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1317.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3030336:856.Aug. 27, 1958, Pub. L. 85–769, § 6, 72 Stat. 925.
+
+
+In subsection (a), the word “individual” is substituted for “person” for clarity and consistency in the revised title and with other titles of the United States Code. The words “served in” are substituted for “was enlisted, drafted, inducted, or commissioned in” to eliminate unnecessary words. The words “from time to time” are omitted as unnecessary.
+In subsection (b), the word “qualification” is omitted as included in “eligibility”. The words “All persons who are members of any class of Blinded Veterans Association, Incorporated, on August 27, 1958 shall be members of such class of the corporation” are omitted as executed.</akn:p></akn:content><akn:subsection eId="subsec_30303_a"><akn:num>(a)</akn:num><akn:heading>General Membership.—</akn:heading><akn:content><akn:p>(a) An individual who served in the Armed Forces of the United States and who, in the line of duty in that service, sustained a substantial impairment of sight or vision as defined by the bylaws of the corporation is eligible for general membership in the corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30303_b"><akn:num>(b)</akn:num><akn:heading>Honorary and Associate Membership.—</akn:heading><akn:content><akn:p>(b) In addition to general membership, the corporation shall have special classes of honorary and associate membership. Eligibility for, and the rights and obligations of, those special classes are as provided in the bylaws.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

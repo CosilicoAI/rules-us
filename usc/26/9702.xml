@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/9702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/9702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/9702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9702"><akn:num>9702</akn:num><akn:heading>Establishment of the United Mine Workers of America Combined Benefit Fund</akn:heading><akn:content><akn:p>§ 9702. Establishment of the United Mine Workers of America Combined Benefit Fund(a) Establishment(1) In generalAs soon as practicable (but not later than 60 days) after the enactment date, the persons described in subsection (b) shall designate the individuals to serve as trustees. Such trustees shall create a new private plan to be known as the United Mine Workers of America Combined Benefit Fund.
+
+
+(2) Merger of retiree benefit plansAs of February 1, 1993, the settlors of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall cause such plans to be merged into the Combined Fund, and such merger shall not be treated as an employer withdrawal for purposes of any 1988 coal wage agreement.
+
+
+(3) Treatment of planThe Combined Fund shall be—(A) a plan described in section 302(c)(5) of the Labor Management Relations Act, 1947 (29 U.S.C. 186(c)(5)),
+
+(B) an employee welfare benefit plan within the meaning of section 3(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(1)), and
+
+(C) a multiemployer plan within the meaning of section 3(37) of such Act (29 U.S.C. 1002(37)).
+
+
+(4) Tax treatmentFor purposes of this title, the Combined Fund and any related trust shall be treated as an organization exempt from tax under section 501(a).
+
+
+
+(b) Board of trustees(1) In generalFor purposes of subsection (a), the board of trustees for the Combined Fund shall be appointed as follows—(A) 2 individuals who represent employers in the coal mining industry shall be designated by the BCOA;
+
+(B) 2 individuals designated by the United Mine Workers of America; and
+
+(C) 3 individuals selected by the individuals appointed under subparagraphs (A) and (B).
+
+
+(2) Successor trusteesAny successor trustee shall be appointed in the same manner as the trustee being succeeded. The plan establishing the Combined Fund shall provide for the removal of trustees.
+
+
+(3) Special ruleIf the BCOA ceases to exist, any trustee or successor under paragraph (1)(A) shall be designated </akn:p></akn:content><akn:subsection eId="subsec_9702_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9702_b"><akn:num>(b)</akn:num><akn:heading>Board of trustees</akn:heading><akn:content><akn:p>(b) Board of trustees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9702_c"><akn:num>(c)</akn:num><akn:heading>Plan year</akn:heading><akn:content><akn:p>(c) Plan year The first plan year of the Combined Fund shall begin February 1, 1993, and end September 30, 1993. Each succeeding plan year shall begin on October 1 of each calendar year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

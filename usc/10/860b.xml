@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/860b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/860b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/860b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_860b"><akn:num>860b</akn:num><akn:heading>Art. 60b. Post-trial actions in summary courts-martial and certain general and special courts-martia</akn:heading><akn:content><akn:p>§ 860b. Art. 60b. Post-trial actions in summary courts-martial and certain general and special courts-martial(a) In General.—(1) In a court-martial not specified in section 860a(a)(2) of this title (article 60a(a)(2)), the convening authority may—(A) dismiss any charge or specification by setting aside the finding of guilty;
+
+(B) change a finding of guilty to a charge or specification to a finding of guilty to a lesser included offense;
+
+(C) disapprove the findings and the sentence and dismiss the charges and specifications;
+
+(D) disapprove the findings and the sentence and order a rehearing as to the findings and the sentence;
+
+(E) disapprove, commute, or suspend the sentence, in whole or in part; or
+
+(F) disapprove the sentence and order a rehearing as to the sentence.
+
+
+(2) In a summary court-martial, the convening authority shall approve the sentence or take other action on the sentence under paragraph (1).
+
+(3) Except as provided in paragraph (4), the convening authority may act under this section only before entry of judgment.
+
+(4) The convening authority may act under this section after entry of judgment in a general or special court-martial in the same manner as the convening authority may act under section 860a(d)(2) of this title (article 60a(d)(2)). Such action shall be forwarded to the chief trial judge, who shall ensure appropriate modification to the entry of judgment and shall transmit the entry of judgment to the Judge Advocate General for appropriate action.
+
+(5) Under regulations prescribed by the Secretary concerned, a commissioned officer commanding for the time being, a successor in command, or any person exercising general court-martial jurisdiction may act under this section in place of the convening authority.
+
+
+(b) Limitations on Rehearings.—The convening authority may not order a rehearing under this section—(1) as to the findings, if there is insufficient evidence in the record to support the findings;
+
+(2) to reconsider a finding of not g</akn:p></akn:content><akn:subsection eId="subsec_860b_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860b_b"><akn:num>(b)</akn:num><akn:heading>Limitations on Rehearings.—</akn:heading><akn:content><akn:p>(b) The convening authority may not order a rehearing under this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860b_c"><akn:num>(c)</akn:num><akn:heading>Submissions by Accused and Victim.—</akn:heading><akn:content><akn:p>(c) In accordance with rules prescribed by the President, in determining whether to act under this section, the convening authority shall consider matters submitted in writing by the accused or any victim of the offense. Such rules shall include the matter required by section 860a(e) of this title (article 60a(e)).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860b_d"><akn:num>(d)</akn:num><akn:heading>Decision of Convening Authority.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

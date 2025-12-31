@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/11317" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/11317/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/11317/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11317"><akn:num>11317</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 11317. Definitions
+For purposes of this subchapter:(1) The term “Council” means the United States Interagency Council on Homelessness established in section 11311 of this title.
+
+(2) The term “Federal agency” has the meaning given the term “agency” in section 551(1) of title 5.
+
+(Pub. L. 100–77, title II, § 207, July 22, 1987, 101 Stat. 489; Pub. L. 108–199, div. G, title II, § 216(4), Jan. 23, 2004, 118 Stat. 394.)
+
+Editorial Notes
+Amendments2004—Par. (1). Pub. L. 108–199 substituted “United States Interagency Council on Homelessness” for “Interagency Council on the Homeless”.</akn:p></akn:content><akn:subsection eId="subsec_11317_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “Council” means the United States Interagency Council on Homelessness established in section 11311 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11317_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “Federal agency” has the meaning given the term “agency” in section 551(1) of title 5.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

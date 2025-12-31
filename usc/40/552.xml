@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/552" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/552/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/552/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_552"><akn:num>552</akn:num><akn:heading>Abandoned or unclaimed property on Government premises</akn:heading><akn:content><akn:p>§ 552. Abandoned or unclaimed property on Government premises(a) Authority To Take Property.—The Administrator of General Services may take possession of abandoned or unclaimed property on premises owned or leased by the Federal Government and determine when title to the property vests in the Government. The Administrator may use, transfer, or otherwise dispose of the property.
+
+(b) Claim Filed by Former Owner.—If a former owner files a proper claim within three years from the date that title to the property vests in the Government, the former owner shall be paid an amount—(1) equal to the proceeds realized from the disposition of the property less costs incident to care and handling as determined by the Administrator; or
+
+(2) if the property has been used or transferred, equal to the fair value of the property as of the time title vested in the Government less costs incident to care and handling as determined by the Administrator.
+
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099; Pub. L. 109–284, § 6(3), Sept. 27, 2006, 120 Stat. 1212.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+55240:484(m).June 30, 1949, ch. 288, title II, § 203(m), formerly § 203(l), 63 Stat. 388; redesignated § 203(m), Aug. 1, 1955, ch. 442, 69 Stat. 430.
+
+
+
+Editorial Notes
+Amendments2006—Subsec. (a). Pub. L. 109–284 substituted “(a) Authority To Take Property.—The Administrator” for “(a) Authority To Take Property Administrator”.</akn:p></akn:content><akn:subsection eId="subsec_552_a"><akn:num>(a)</akn:num><akn:heading>Authority To Take Property.—</akn:heading><akn:content><akn:p>(a) The Administrator of General Services may take possession of abandoned or unclaimed property on premises owned or leased by the Federal Government and determine when title to the property vests in the Government. The Administrator may use, transfer, or otherwise dispose of the property.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_552_b"><akn:num>(b)</akn:num><akn:heading>Claim Filed by Former Owner.—</akn:heading><akn:content><akn:p>(b) If a former owner files a proper claim within three years from the date that title to the property vests in the Government, the former owner shall be paid an amount—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

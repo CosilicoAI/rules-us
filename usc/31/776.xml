@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/776" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/776/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/776/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_776"><akn:num>776</akn:num><akn:heading>Payment of survivor benefits</akn:heading><akn:content><akn:p>§ 776. Payment of survivor benefits(a) An annuity under section 774 of this title accrues monthly and is paid monthly on the first business day of the month after the month in which an annuity accrues.
+
+(b)(1) A surviving spouse’s annuity ends when the spouse remarries before age 55 or dies.
+
+(2) A dependent child’s annuity ends when the child becomes 18 years of age (unless the child is then a student as described in section 771(1)(C) of this title), marries, or dies, whichever is earliest. However, if a child is not self-supporting because of a physical or mental disability, an annuity ends when the child recovers, marries, or dies.
+
+(3) If a surviving spouse dies and a dependent child survives, the child’s annuity is recomputed under section 774(c)(3) of this title.
+
+(4) When a dependent child’s annuity ends, the annuity of another dependent child is recomputed as if the child whose annuity has ended did not survive a Comptroller General or retired Comptroller General.
+
+
+(c) An accrued annuity unpaid when the annuity of a survivor ends—(1) for a reason except death, shall be paid to the survivor; and
+
+(2) when a survivor dies, shall be paid in the following order of precedence:(A) to the executor or administrator of the estate of the individual.
+
+(B) if there is no executor or administrator, then after 30 days after the date of death, to an individual the General Counsel of the Government Accountability Office decides is legally entitled to the payment.
+
+
+
+(d)(1) A payment under subsection (c)(2)(B) of this section or section 775(d) of this title is a bar to recovery by another individual.
+
+(2) A benefit under this section and sections 773–775 of this title is not assignable or subject to legal process.
+
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 906; Pub. L. 100–426, title II, § 206, Sept. 9, 1988, 102 Stat. 1601; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at</akn:p></akn:content><akn:subsection eId="subsec_776_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) An annuity under section 774 of this title accrues monthly and is paid monthly on the first business day of the month after the month in which an annuity accrues.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_776_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_776_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) An accrued annuity unpaid when the annuity of a survivor ends—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_776_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

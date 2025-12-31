@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/193" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/193/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/193/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_193"><akn:num>193</akn:num><akn:heading>Proceedings against goods seized for certain violations</akn:heading><akn:content><akn:p>§ 193. Proceedings against goods seized for certain violations
+When goods or other property shall be seized for any violation of title 28 of the Revised Statutes it shall be lawful for the person prosecuting on behalf of the United States to proceed against such goods, or other property, in the manner directed to be observed in the case of goods, wares, or merchandise brought into the United States in violation of the revenue laws.
+(R.S. § 2125.)
+
+Editorial Notes
+
+References in TextTitle 28 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 28 of the Revised Statutes, consisting of R.S. §§ 2039 to 2157. For complete classification of R.S. §§ 2039 to 2157 to the Code, see Tables.
+
+Codification
+R.S. § 2125 derived from act June 30, 1834, ch. 161, § 28, 4 Stat. 734.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

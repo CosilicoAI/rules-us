@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9041" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9041/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9041/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9041"><akn:num>9041</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 9041. Definitions
+In this part:(1) Air carrierThe term “air carrier” has the meaning such term has under section 40102 of title 49.
+
+
+(2) CoronavirusThe term “coronavirus” means SARS–CoV–2 or another coronavirus with pandemic potential.
+
+
+(3) Covered lossThe term “covered loss” includes losses incurred directly or indirectly as a result of coronavirus, as determined by the Secretary.
+
+
+(4) Eligible businessThe term “eligible business” means—(A) an air carrier; or
+
+(B) a United States business that has not otherwise received adequate economic relief in the form of loans or loan guarantees provided under this Act.
+
+
+(5) EmployeeExcept where the context otherwise requires, the term “employee”—(A) has the meaning given the term in section 152 of title 29; and
+
+(B) includes any individual employed by an employer subject to the Railway Labor Act (45 U.S.C. 151 et seq.).
+
+
+(6) Equity security; exchangeThe terms “equity security” and “exchange” have the meanings given the terms in section 78c(a) of this title.
+
+
+(7) MunicipalityThe term “municipality” includes—(A) a political subdivision of a State, and
+
+(B) an instrumentality of a municipality, a State, or a political subdivision of a State.
+
+
+(8) National securities exchangeThe term “national securities exchange” means an exchange registered as a national securities exchange under section 78f of this title.
+
+
+(9) SecretaryThe term “Secretary” means the Secretary of the Treasury, or the designee of the Secretary of the Treasury.
+
+
+(10) StateThe term “State” means—(A) any of the several States;
+
+(B) the District of Columbia;
+
+(C) any of the territories and possessions of the United States;
+
+(D) any bi-State or multi-State entity; and
+
+(E) any Indian Tribe.
+
+
+(11) Aerospace-related businesses critical to maintaining national securityThe term “businesses critical to maintaining national security” means those businesses that manufacture or produce aerospace-related products, civil or defense, including those that design, int</akn:p></akn:content><akn:subsection eId="subsec_9041_1"><akn:num>(1)</akn:num><akn:heading>Air carrier</akn:heading><akn:content><akn:p>(1) Air carrier The term “air carrier” has the meaning such term has under section 40102 of title 49.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_2"><akn:num>(2)</akn:num><akn:heading>Coronavirus</akn:heading><akn:content><akn:p>(2) Coronavirus The term “coronavirus” means SARS–CoV–2 or another coronavirus with pandemic potential.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_3"><akn:num>(3)</akn:num><akn:heading>Covered loss</akn:heading><akn:content><akn:p>(3) Covered loss The term “covered loss” includes losses incurred directly or indirectly as a result of coronavirus, as determined by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_4"><akn:num>(4)</akn:num><akn:heading>Eligible business</akn:heading><akn:content><akn:p>(4) Eligible business The term “eligible business” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_5"><akn:num>(5)</akn:num><akn:heading>Employee</akn:heading><akn:content><akn:p>(5) Employee Except where the context otherwise requires, the term “employee”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_6"><akn:num>(6)</akn:num><akn:heading>Equity security; exchange</akn:heading><akn:content><akn:p>(6) Equity security; exchange The terms “equity security” and “exchange” have the meanings given the terms in section 78c(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_7"><akn:num>(7)</akn:num><akn:heading>Municipality</akn:heading><akn:content><akn:p>(7) Municipality The term “municipality” includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_8"><akn:num>(8)</akn:num><akn:heading>National securities exchange</akn:heading><akn:content><akn:p>(8) National securities exchange The term “national securities exchange” means an exchange registered as a national securities exchange under section 78f of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_9"><akn:num>(9)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(9) Secretary The term “Secretary” means the Secretary of the Treasury, or the designee of the Secretary of the Treasury.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9041_10"><akn:num>(10)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(10) State The term “State” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

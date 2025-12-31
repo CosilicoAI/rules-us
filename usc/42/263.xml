@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/263" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/263/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/263/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_263"><akn:num>263</akn:num><akn:heading>Preparation of biological products by Service</akn:heading><akn:content><akn:p>§ 263. Preparation of biological products by Service(a) The Service may prepare for its own use any product described in section 262 of this title and any product necessary to carrying out any of the purposes of section 241 of this title.
+
+(b) The Service may prepare any product described in section 262 of this title for the use of other Federal departments or agencies, and public or private agencies and individuals engaged in work in the field of medicine when such product is not available from establishments licensed under such section.
+
+(July 1, 1944, ch. 373, title III, § 352, 58 Stat. 703.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+Executive Documents
+
+Transfer of Functions
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.</akn:p></akn:content><akn:subsection eId="subsec_263_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Service may prepare for its own use any product described in section 262 of this title and any product necessary to carrying out any of the purposes of section 241 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_263_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Service may prepare any product described in section 262 of this title for the use of other Federal departments or agencies, and public or private agencies and individuals engaged in work in the field of medicine when such product is not available from establishments licensed under such section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

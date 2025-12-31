@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2207B" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2207B/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2207B/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2207B"><akn:num>2207B</akn:num><akn:heading>Right of recovery where decedent retained interest</akn:heading><akn:content><akn:p>§ 2207B. Right of recovery where decedent retained interest(a) Estate tax(1) In generalIf any part of the gross estate on which tax has been paid consists of the value of property included in the gross estate by reason of section 2036 (relating to transfers with retained life estate), the decedent’s estate shall be entitled to recover from the person receiving the property the amount which bears the same ratio to the total tax under this chapter which has been paid as—(A) the value of such property, bears to
+
+(B) the taxable estate.
+
+
+(2) Decedent may otherwise directParagraph (1) shall not apply with respect to any property to the extent that the decedent in his will (or a revocable trust) specifically indicates an intent to waive any right of recovery under this subchapter with respect to such property.
+
+
+
+(b) More than one recipientFor purposes of this section, if there is more than 1 person receiving the property, the right of recovery shall be against each such person.
+
+
+(c) Penalties and interestIn the case of penalties and interest attributable to the additional taxes described in subsection (a), rules similar to the rules of subsections (a) and (b) shall apply.
+
+
+(d) No right of recovery against charitable remainder trustsNo person shall be entitled to recover any amount by reason of this section from a trust to which section 664 applies (determined without regard to this section).
+
+
+(Added Pub. L. 100–647, title III, § 3031(f)(1), Nov. 10, 1988, 102 Stat. 3637; amended Pub. L. 101–508, title XI, § 11601(b)(1), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 105–34, title XIII, § 1302(b), Aug. 5, 1997, 111 Stat. 1039.)
+
+Editorial Notes
+Amendments1997—Subsec. (a)(2). Pub. L. 105–34 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply if the decedent otherwise directs in a provision of his will (or a revocable trust) specifically referring to this section.”
+1990—Subsec. (b). Pub. L. 101–508, § 11601</akn:p></akn:content><akn:subsection eId="subsec_2207B_a"><akn:num>(a)</akn:num><akn:heading>Estate tax</akn:heading><akn:content><akn:p>(a) Estate tax</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2207B_b"><akn:num>(b)</akn:num><akn:heading>More than one recipient</akn:heading><akn:content><akn:p>(b) More than one recipient For purposes of this section, if there is more than 1 person receiving the property, the right of recovery shall be against each such person.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2207B_c"><akn:num>(c)</akn:num><akn:heading>Penalties and interest</akn:heading><akn:content><akn:p>(c) Penalties and interest In the case of penalties and interest attributable to the additional taxes described in subsection (a), rules similar to the rules of subsections (a) and (b) shall apply.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2207B_d"><akn:num>(d)</akn:num><akn:heading>No right of recovery against charitable remainder trusts</akn:heading><akn:content><akn:p>(d) No right of recovery against charitable remainder trusts No person shall be entitled to recover any amount by reason of this section from a trust to which section 664 applies (determined without regard to this section).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

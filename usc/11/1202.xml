@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1202" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1202/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1202/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1202"><akn:num>1202</akn:num><akn:heading>Trustee</akn:heading><akn:content><akn:p>§ 1202. Trustee(a) If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.
+
+(b) The trustee shall—(1) perform the duties specified in sections 704(a)(2), 704(a)(3), 704(a)(5), 704(a)(6), 704(a)(7), and 704(a)(9) of this title;
+
+(2) perform the duties specified in section 1106(a)(3) and 1106(a)(4) of this title if the court, for cause and on request of a party in interest, the trustee, or the United States trustee, so orders;
+
+(3) appear and be heard at any hearing that concerns—(A) the value of property subject to a lien;
+
+(B) confirmation of a plan;
+
+(C) modification of the plan after confirmation; or
+
+(D) the sale of property of the estate;
+
+
+(4) ensure that the debtor commences making timely payments required by a confirmed plan;
+
+(5) if the debtor ceases to be a debtor in possession, perform the duties specified in sections 704(a)(8), 1106(a)(1), 1106(a)(2), 1106(a)(6), 1106(a)(7), and 1203; and
+
+(6) if with respect to the debtor there is a claim for a domestic support obligation, provide the applicable notice specified in subsection (c).
+
+
+(c)(1) In a case described in subsection (b)(6) to which subsection (b)(6) applies, the trustee shall—(A)(i) provide written notice to the holder of the claim described in subsection (b)(6) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for the State in which such holder resides, for assistance in collecting child support during and after the case under this title; and
+</akn:p></akn:content><akn:subsection eId="subsec_1202_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) If the United States trustee has appointed an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies as a trustee under section 322 of this title, then such individual shall serve as trustee in any case filed under this chapter. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as trustee in the case if necessary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1202_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The trustee shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1202_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

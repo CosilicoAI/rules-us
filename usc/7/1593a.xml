@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1593a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1593a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1593a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1593a"><akn:num>1593a</akn:num><akn:heading>Seed variety information and survey</akn:heading><akn:content><akn:p>§ 1593a. Seed variety information and survey(a) Information(1) In generalGrain submitted for public testing shall be evaluated for selected specific agronomic performance characteristics and intrinsic end-use performance characteristics, as determined by the Secretary, with the results of the evaluations made available to the Secretary.
+
+
+(2) Dissemination of informationThe Secretary shall disseminate varietal performance information obtained under paragraph (1) to plant breeders, producers, and end users.
+
+
+
+(b) SurveyThe Secretary shall periodically conduct, compile, and publish a survey of grain varieties commercially produced in the United States.
+
+
+(c) Analysis of variety survey dataThe Secretary shall analyze the variety surveys conducted under subsection (b) in conjunction with available applied research information on intrinsic quality characteristics of the varieties, to evaluate general intrinsic crop quality characteristics and trends in production related to intrinsic quality characteristics. This information shall be disseminated as required by subsection (a)(2).
+
+
+(Pub. L. 101–624, title XX, § 2013, Nov. 28, 1990, 104 Stat. 3933.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Grain Quality Incentives Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Federal Seed Act which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_1593a_a"><akn:num>(a)</akn:num><akn:heading>Information</akn:heading><akn:content><akn:p>(a) Information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1593a_b"><akn:num>(b)</akn:num><akn:heading>Survey</akn:heading><akn:content><akn:p>(b) Survey The Secretary shall periodically conduct, compile, and publish a survey of grain varieties commercially produced in the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1593a_c"><akn:num>(c)</akn:num><akn:heading>Analysis of variety survey data</akn:heading><akn:content><akn:p>(c) Analysis of variety survey data The Secretary shall analyze the variety surveys conducted under subsection (b) in conjunction with available applied research information on intrinsic quality characteristics of the varieties, to evaluate general intrinsic crop quality characteristics and trends in production related to intrinsic quality characteristics. This information shall be disseminated as required by subsection (a)(2).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/222d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/222d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/222d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_222d"><akn:num>222d</akn:num><akn:heading>Annual report on industrial base constraints for munitions</akn:heading><akn:content><akn:p>§ 222d. Annual report on industrial base constraints for munitions(a) In General.—Not later than 30 days after the submission of all reports required under section 222c(a) of this title, the Under Secretary of Defense for Acquisition and Sustainment, in coordination with the service acquisition executive of each military department, shall submit to the congressional defense committees a report detailing the industrial base constraints for each munition identified in the Out-Year Unconstrained Total Munitions Requirement.
+
+(b) Elements.—The report required under subsection (a) shall include the following elements, broken down by munition:(1) Programmed purchase quantities per year.
+
+(2) Average procurement unit cost per year.
+
+(3) Contract type.
+
+(4) Current minimum sustaining rate of production per month and year.
+
+(5) Current maximum rate of production per month and year.
+
+(6) Expected date to meet the Out-Year Unconstrained Total Munitions Requirement in section 222c of this title under the programmed purchase quantities established for the period covered by the report.
+
+(7) A description of industrial base constraints on increased production of each munition, including any supply chain weaknesses.
+
+(8) A description of investments or policy changes made by a defense contractor or by the United States Government to increase production, enable more efficient production, or mitigate significant loss of stability in potential production.
+
+(9) A description of potential investments or policy changes identified by a defense contractor or the United States Government to increase munitions production, enable more efficient production, or mitigate significant loss of stability in potential production, including—(A) direct investments in test and tooling equipment, workforce development, or improvements to existing production facilities;
+
+(B) a pool of rotable critical components or subcomponents for munitions;
+
+(C) multiyear contracts or other contracting strategies;
+
+(D)</akn:p></akn:content><akn:subsection eId="subsec_222d_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Not later than 30 days after the submission of all reports required under section 222c(a) of this title, the Under Secretary of Defense for Acquisition and Sustainment, in coordination with the service acquisition executive of each military department, shall submit to the congressional defense committees a report detailing the industrial base constraints for each munition identified in the Out-Year Unconstrained Total Munitions Requirement.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_222d_b"><akn:num>(b)</akn:num><akn:heading>Elements.—</akn:heading><akn:content><akn:p>(b) The report required under subsection (a) shall include the following elements, broken down by munition:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_222d_c"><akn:num>(c)</akn:num><akn:heading>Munition Defined.—</akn:heading><akn:content><akn:p>(c) In this section, the term “munition” has the meaning given by the Under Secretary of Defense for Acquisition.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

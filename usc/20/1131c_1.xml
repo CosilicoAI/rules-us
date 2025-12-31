@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1131c–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1131c–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1131c–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1131c_1"><akn:num>1131c–1</akn:num><akn:heading>Financial assistance</akn:heading><akn:content><akn:p>§ 1131c–1. Financial assistance(a) AuthorityThe Institute may provide financial assistance, in the form of summer stipends described in subsection (b) and Ralph Bunche scholarship assistance described in subsection (c), to low-income students to facilitate the participation of the students in the Institute’s programs under this part.
+
+
+(b) Summer stipends(1) RequirementsA student receiving a summer stipend under this section shall use such stipend to defray the student’s cost of participation in a summer institute program funded under this part, including the costs of travel, living, and educational expenses necessary for the student’s participation in such program.
+
+
+(2) AmountA summer stipend awarded to a student under this section shall not exceed $3,000 per summer.
+
+
+
+(c) Ralph Bunche scholarship(1) RequirementsA student receiving a Ralph Bunche scholarship under this section—(A) shall be a full-time student at an institution of higher education who is accepted into a program funded under this part; and
+
+(B) shall use such scholarship to pay costs related to the cost of attendance, as defined in section 1087ll of this title, at the institution of higher education in which the student is enrolled.
+
+
+(2) Amount and durationA Ralph Bunche scholarship awarded to a student under this section shall not exceed $5,000 per academic year.
+
+
+
+(Pub. L. 89–329, title VI, § 626, as added Pub. L. 110–315, title VI, § 617(2), Aug. 14, 2008, 122 Stat. 3341.)
+
+Editorial Notes
+Prior ProvisionsA prior section 626 of Pub. L. 89–329 was renumbered section 627, and is classified to section 1131d of this title.
+Another prior section 626 of Pub. L. 89–329 was renumbered section 628, and is classified to section 1131e of this title.</akn:p></akn:content><akn:subsection eId="subsec_1131c_1_a"><akn:num>(a)</akn:num><akn:heading>Authority</akn:heading><akn:content><akn:p>(a) Authority The Institute may provide financial assistance, in the form of summer stipends described in subsection (b) and Ralph Bunche scholarship assistance described in subsection (c), to low-income students to facilitate the participation of the students in the Institute’s programs under this part.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1131c_1_b"><akn:num>(b)</akn:num><akn:heading>Summer stipends</akn:heading><akn:content><akn:p>(b) Summer stipends</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1131c_1_c"><akn:num>(c)</akn:num><akn:heading>Ralph Bunche scholarship</akn:heading><akn:content><akn:p>(c) Ralph Bunche scholarship</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

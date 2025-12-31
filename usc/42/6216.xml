@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6216" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6216/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6216/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6216"><akn:num>6216</akn:num><akn:heading>Annual Home Heating Readiness Reports</akn:heading><akn:content><akn:p>§ 6216. Annual Home Heating Readiness Reports(a) In generalOn or before September 1 of each year, the Secretary, acting through the Administrator of the Energy Information Agency, shall submit to Congress a Home Heating Readiness Report on the readiness of the natural gas, heating oil and propane industries to supply fuel under various weather conditions, including rapid decreases in temperature.
+
+
+(b) ContentsThe Home Heating Readiness Report shall include—(1) estimates of the consumption, expenditures, and average price per gallon of heating oil and propane and thousand cubic feet of natural gas for the upcoming period of October through March for various weather conditions, with special attention to extreme weather, and various regions of the country;
+
+(2) an evaluation of—(A) global and regional crude oil and refined product supplies;
+
+(B) the adequacy and utilization of refinery capacity;
+
+(C) the adequacy, utilization, and distribution of regional refined product storage capacity;
+
+(D) weather conditions;
+
+(E) the refined product transportation system;
+
+(F) market inefficiencies; and
+
+(G) any other factor affecting the functional capability of the heating oil industry and propane industry that has the potential to affect national or regional supplies and prices;
+
+
+(3) recommendations on steps that the Federal, State, and local governments can take to prevent or alleviate the impact of sharp and sustained increases in the price of natural gas, heating oil, and propane; and
+
+(4) recommendations on steps that companies engaged in the production, refining, storage, transportation of heating oil or propane, or any other activity related to the heating oil industry or propane industry, can take to prevent or alleviate the impact of sharp and sustained increases in the price of heating oil and propane.
+
+
+(c) Information requestsThe Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4).
+
+</akn:p></akn:content><akn:subsection eId="subsec_6216_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general On or before September 1 of each year, the Secretary, acting through the Administrator of the Energy Information Agency, shall submit to Congress a Home Heating Readiness Report on the readiness of the natural gas, heating oil and propane industries to supply fuel under various weather conditions, including rapid decreases in temperature.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6216_b"><akn:num>(b)</akn:num><akn:heading>Contents</akn:heading><akn:content><akn:p>(b) Contents The Home Heating Readiness Report shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6216_c"><akn:num>(c)</akn:num><akn:heading>Information requests</akn:heading><akn:content><akn:p>(c) Information requests The Secretary may request information necessary to prepare the Home Heating Readiness Report from companies described in subsection (b)(4).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

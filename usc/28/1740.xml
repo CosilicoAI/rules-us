@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/1740" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/1740/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/1740/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1740"><akn:num>1740</akn:num><akn:heading>Copies of consular papers</akn:heading><akn:content><akn:p>§ 1740. Copies of consular papers
+Copies of all official documents and papers in the office of any consul or vice consul of the United States, and of all official entries in the books or records of any such office, authenticated by the consul or vice consul, shall be admissible equally with the originals.
+(June 25, 1948, ch. 646, 62 Stat. 947.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 677 (R.S. § 896; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100).
+Words “authenticated by the consul or vice consul” were substituted for “certified under the hand and seal of such officer”, for clarity. Words “in the courts of the United States”, were omitted after “admissible”. Such papers should be so admitted in all courts consistently with sections 1738 and 1739 of this title.
+See also Rule 44 of the Federal Rules of Civil Procedure.
+Changes were made in phraseology.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

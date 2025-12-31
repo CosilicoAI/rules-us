@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/71103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/71103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/71103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_71103"><akn:num>71103</akn:num><akn:heading>Developing policy and recommending responsible Federal agency</akn:heading><akn:content><akn:p>§ 71103. Developing policy and recommending responsible Federal agency
+Within 2 years after October 15, 2008, the Director of the Office of Science and Technology Policy shall—(1) develop a policy for notifying Federal agencies and relevant emergency response institutions of an impending near-Earth object threat, if near-term public safety is at risk; and
+
+(2) recommend a Federal agency or agencies to be responsible for—(A) protecting the United States from a near-Earth object that is expected to collide with Earth; and
+
+(B) implementing a deflection campaign, in consultation with international bodies, should one be necessary.
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3439.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+7110342 U.S.C. 17794.Pub. L. 110–422, title VIII, § 804, Oct. 15, 2008, 122 Stat. 4804.
+
+
+In the matter before paragraph (1), the date “October 15, 2008” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008.</akn:p></akn:content><akn:subsection eId="subsec_71103_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) develop a policy for notifying Federal agencies and relevant emergency response institutions of an impending near-Earth object threat, if near-term public safety is at risk; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_71103_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) recommend a Federal agency or agencies to be responsible for—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

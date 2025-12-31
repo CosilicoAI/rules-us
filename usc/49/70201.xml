@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/70201" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/70201/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/70201/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70201"><akn:num>70201</akn:num><akn:heading>State freight advisory committees</akn:heading><akn:content><akn:p>§ 70201. State freight advisory committees(a) In General.—The Secretary of Transportation shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of—(1) ports, if applicable;
+
+(2) freight railroads, if applicable;
+
+(3) shippers;
+
+(4) carriers;
+
+(5) freight-related associations;
+
+(6) third-party logistics providers;
+
+(7) the freight industry workforce;
+
+(8) the transportation department of the State;
+
+(9) metropolitan planning organizations;
+
+(10) local governments;
+
+(11) the environmental protection department of the State, if applicable;
+
+(12) the air resources board of the State, if applicable;
+
+(13) economic development agencies of the State; and
+
+(14) not-for-profit organizations or community organizations.
+
+
+(b) Qualifications.—Each member of a freight advisory committee established under subsection (a) shall have qualifications sufficient to serve on a freight advisory committee, including, as applicable—(1) general business and financial experience;
+
+(2) experience or qualifications in the areas of freight transportation and logistics;
+
+(3) experience in transportation planning;
+
+(4) experience representing employees of the freight industry;
+
+(5) experience representing a State, local government, or metropolitan planning organization; or
+
+(6) experience representing the views of a community group or not-for-profit organization.
+
+
+(c) Role of Committee.—A freight advisory committee of a State described in subsection (a) shall—(1) advise the State on freight-related priorities, issues, projects, and funding needs;
+
+(2) serve as a forum for discussion for State transportation decisions affecting freight mobility;
+
+(3) communicate and coordinate regional priorities with other organizations;
+
+(4) promote the sharing of information between the private and public sectors on freight issues; and
+
+(5) participate in the development of t</akn:p></akn:content><akn:subsection eId="subsec_70201_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70201_b"><akn:num>(b)</akn:num><akn:heading>Qualifications.—</akn:heading><akn:content><akn:p>(b) Each member of a freight advisory committee established under subsection (a) shall have qualifications sufficient to serve on a freight advisory committee, including, as applicable—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70201_c"><akn:num>(c)</akn:num><akn:heading>Role of Committee.—</akn:heading><akn:content><akn:p>(c) A freight advisory committee of a State described in subsection (a) shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

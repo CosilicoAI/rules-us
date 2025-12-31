@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3309" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3309/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3309/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3309"><akn:num>3309</akn:num><akn:heading>Notification of establishment of advisory committee</akn:heading><akn:content><akn:p>§ 3309. Notification of establishment of advisory committee
+The Director of National Intelligence and the Director of the Central Intelligence Agency shall each notify the congressional intelligence committees each time each such Director creates an advisory committee. Each notification shall include—(1) a description of such advisory committee, including the subject matter of such committee;
+
+(2) a list of members of such advisory committee; and
+
+(3) in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 1003(b)(3) of title 5 that an advisory committee cannot comply with the requirements of chapter 10 of title 5.
+
+(Pub. L. 111–259, title IV, § 410(b), Oct. 7, 2010, 124 Stat. 2725; Pub. L. 113–126, title III, § 329(b)(1), July 7, 2014, 128 Stat. 1406; Pub. L. 117–286, § 4(a)(319), Dec. 27, 2022, 136 Stat. 4341.)
+
+Editorial Notes
+Codification
+Section was formerly classified as a note under section 405 of this title prior to editorial reclassification as this section.
+
+Amendments2022—Par. (3). Pub. L. 117–286 substituted “section 1003(b)(3) of title 5 that an advisory committee cannot comply with the requirements of chapter 10 of title 5.” for “section 4(b)(3) of the Federal Advisory Committee Act (5 U.S.C. App.) that an advisory committee cannot comply with the requirements of such Act.”
+2014—Pub. L. 113–126 amended section generally. Prior to amendment, section related to annual report on advisory committees created by Director of National Intelligence and Director of the Central Intelligence Agency, contents of report, and inclusion of reasons for ODNI exclusion of advisory committee from Federal Advisory Committee Act.
+
+Statutory Notes and Related Subsidiaries
+
+Definition
+For definition of “congressional intelligence committees” referred to in text, see section 2 of Pub. L. 111–259, set out as a note under section 3003 of this title.</akn:p></akn:content><akn:subsection eId="subsec_3309_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) a description of such advisory committee, including the subject matter of such committee;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3309_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) a list of members of such advisory committee; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3309_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) in the case of an advisory committee created by the Director of National Intelligence, the reasons for a determination by the Director under section 1003(b)(3) of title 5 that an advisory committee cannot comply with the requirements of chapter 10 of title 5.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2876" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2876/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2876/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2876"><akn:num>2876</akn:num><akn:heading>Rental guarantees</akn:heading><akn:content><akn:p>§ 2876. Rental guarantees
+The Secretary concerned may enter into agreements with eligible entities that acquire or construct military family housing units or military unaccompanied housing units under this subchapter in order to assure—(1) the occupancy of such units at levels specified in the agreements; or
+
+(2) rental income derived from rental of such units at levels specified in the agreements.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 106–65, div. B, title XXVIII, § 2803(e), Oct. 5, 1999, 113 Stat. 849.)
+
+Editorial Notes
+Amendments1999—Pub. L. 106–65 substituted “eligible entities” for “private persons” in introductory provisions.</akn:p></akn:content><akn:subsection eId="subsec_2876_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the occupancy of such units at levels specified in the agreements; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2876_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) rental income derived from rental of such units at levels specified in the agreements.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

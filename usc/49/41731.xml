@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/41731" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/41731/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/41731/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41731"><akn:num>41731</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 41731. Definitions(a) General.—In this subchapter—(1) “eligible place” means a place in the United States that—(A)(i)(I) was an eligible point under section 419 of the Federal Aviation Act of 1958 before October 1, 1988;
+
+(II) received scheduled air transportation at any time after January 1, 1990; and
+
+(III) is not listed in Department of Transportation Orders 89–9–37 and 89–12–52 as a place ineligible for compensation under this subchapter; or
+
+
+(ii) was determined, on or after October 1, 1988, and before the date of the enactment of the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190), under this subchapter by the Secretary of Transportation to be eligible to receive subsidized small community air service under section 41736(a);
+
+
+(B) had an average of 10 enplanements per service day or more, as determined by the Secretary, during the most recent fiscal year beginning after September 30, 2012;
+
+(C) had an average subsidy per passenger, as determined by the Secretary—(i) of less than $1,000 during the most recent fiscal year beginning before October 1, 2026, regardless of driving miles to the nearest large or medium hub airport;
+
+(ii) of less than $850 during the most recent fiscal year beginning after September 30, 2026, regardless of driving miles to the nearest medium or large hub airport; and
+
+(iii) of less than $650 during the most recent fiscal year for locations that are less than 175 miles from the nearest large or medium hub airport; and
+
+
+(D) is a community that, at any time during the period between September 30, 2010, and September 30, 2011, inclusive—(i) received essential air service for which compensation was provided to an air carrier under this subchapter; or
+
+(ii) received a 140-day notice of intent to terminate essential air service and the Secretary required the air carrier to continue to provide such service to the community.
+
+
+
+(2) “enhanced essential air service” means scheduled air transportation to an eligible place o</akn:p></akn:content><akn:subsection eId="subsec_41731_a"><akn:num>(a)</akn:num><akn:heading>General.—</akn:heading><akn:content><akn:p>(a) In this subchapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41731_b"><akn:num>(b)</akn:num><akn:heading>Limitation on Authority To Decide a Place Not an Eligible Place.—</akn:heading><akn:content><akn:p>(b) The Secretary may not decide that a place described in subsection (a)(1) of this section is not an eligible place on any basis that is not specifically stated in this subchapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41731_c"><akn:num>(c)</akn:num><akn:heading>Exception for Locations in Alaska and Hawaii.—</akn:heading><akn:content><akn:p>(c) Subparagraphs (B), (C), and (D) of subsection (a)(1) shall not apply with respect to locations in the State of Alaska or the State of Hawaii.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41731_d"><akn:num>(d)</akn:num><akn:heading>Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or Medium Hub Airport.—</akn:heading><akn:content><akn:p>(d) Subsection (a)(1)(B) shall not apply with respect to locations that are more than 175 driving miles from the nearest large or medium hub airport.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41731_e"><akn:num>(e)</akn:num><akn:heading>Waivers.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41731_f"><akn:num>(f)</akn:num><akn:heading>Definition.—</akn:heading><akn:content><akn:p>(f) For purposes of subsection (a)(1)(B), the term “enplanements” means the number of passengers enplaning, at an eligible place, on flights operated by the subsidized essential air service carrier.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

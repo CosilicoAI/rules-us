@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8502"><akn:num>8502</akn:num><akn:heading>Compensation under State agreement</akn:heading><akn:content><akn:p>§ 8502. Compensation under State agreement(a) The Secretary of Labor, on behalf of the United States, may enter into an agreement with a State, or with an agency administering the unemployment compensation law of a State, under which the State agency shall—(1) pay, as agent of the United States, compensation under this subchapter to Federal employees; and
+
+(2) otherwise cooperate with the Secretary and with other State agencies in paying compensation under this subchapter.
+
+
+(b) The agreement shall provide that compensation will be paid by the State to a Federal employee in the same amount, on the same terms, and subject to the same conditions as the compensation which would be payable to him under the unemployment compensation law of the State if his Federal service and Federal wages assigned under section 8504 of this title to the State had been included as employment and wages under that State law.
+
+[(c) Repealed. Pub. L. 90–83, § 1(86)(B), Sept. 11, 1967, 81 Stat. 218.]
+
+(d) A determination by a State agency with respect to entitlement to compensation under an agreement is subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.
+
+(e) Each agreement shall provide the terms and conditions on which it may be amended or terminated.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 586; Pub. L. 90–83, § 1(86), Sept. 11, 1967, 81 Stat. 218.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+1966 Act
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 42 U.S.C. 1362.Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1502”, 68 Stat. 1131.
+  Sept. 13, 1960, Pub. L. 86–778, § 542(b)(1)(A), 74 Stat. 985.
+
+
+In subsection (a), the words “under this subchapter” are substituted for “on the basis provided in subsection (b) of this section”.
+In subsection (b), the words “with respect to unemployment after December 31, 1954” are omitted as obsolete.
+In subsection (c), the words “with re</akn:p></akn:content><akn:subsection eId="subsec_8502_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of Labor, on behalf of the United States, may enter into an agreement with a State, or with an agency administering the unemployment compensation law of a State, under which the State agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8502_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The agreement shall provide that compensation will be paid by the State to a Federal employee in the same amount, on the same terms, and subject to the same conditions as the compensation which would be payable to him under the unemployment compensation law of the State if his Federal service and Federal wages assigned under section 8504 of this title to the State had been included as employment and wages under that State law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8502_c"><akn:num>(c)</akn:num><akn:content><akn:p>[(c) Repealed. Pub. L. 90–83, § 1(86)(B), Sept. 11, 1967, 81 Stat. 218.]</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8502_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) A determination by a State agency with respect to entitlement to compensation under an agreement is subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8502_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) Each agreement shall provide the terms and conditions on which it may be amended or terminated.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

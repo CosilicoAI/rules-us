@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1163" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1163/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1163/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1163"><akn:num>1163</akn:num><akn:heading>Qualifying event</akn:heading><akn:content><akn:p>§ 1163. Qualifying event
+For purposes of this part, the term “qualifying event” means, with respect to any covered employee, any of the following events which, but for the continuation coverage required under this part, would result in the loss of coverage of a qualified beneficiary:(1) The death of the covered employee.
+
+(2) The termination (other than by reason of such employee’s gross misconduct), or reduction of hours, of the covered employee’s employment.
+
+(3) The divorce or legal separation of the covered employee from the employee’s spouse.
+
+(4) The covered employee becoming entitled to benefits under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].
+
+(5) A dependent child ceasing to be a dependent child under the generally applicable requirements of the plan.
+
+(6) A proceeding in a case under title 11, commencing on or after July 1, 1986, with respect to the employer from whose employment the covered employee retired at any time.
+
+
+In the case of an event described in paragraph (6), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in section 1167(3)(C) of this title within one year before or after the date of commencement of the proceeding.
+(Pub. L. 93–406, title I, § 603, as added Pub. L. 99–272, title X, § 10002(a), Apr. 7, 1986, 100 Stat. 229; amended Pub. L. 99–509, title IX, § 9501(a)(2), Oct. 21, 1986, 100 Stat. 2076.)
+
+Editorial Notes
+
+References in TextThe Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Amendments1986—Pub. L. 99–509 added par. (6) and last sentence.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–509 effective, exc</akn:p></akn:content><akn:subsection eId="subsec_1163_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The death of the covered employee.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1163_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The termination (other than by reason of such employee’s gross misconduct), or reduction of hours, of the covered employee’s employment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1163_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The divorce or legal separation of the covered employee from the employee’s spouse.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1163_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The covered employee becoming entitled to benefits under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1163_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) A dependent child ceasing to be a dependent child under the generally applicable requirements of the plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1163_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) A proceeding in a case under title 11, commencing on or after July 1, 1986, with respect to the employer from whose employment the covered employee retired at any time.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

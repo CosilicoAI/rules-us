@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/574" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/574/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/574/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_574"><akn:num>574</akn:num><akn:heading>Exemption from taking other oaths</akn:heading><akn:content><akn:p>§ 574. Exemption from taking other oaths
+Nothing contained in title 34 of the Revised Statutes shall be construed to exempt the masters or owners of vessels from making and subscribing any oaths required by any laws of the United States not immediately relating to the collection of the duties on the importation of merchandise into the United States.
+(R.S. § 3094.)
+
+Editorial Notes
+
+References in TextTitle 34 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 34 of the Revised Statutes, consisting of R.S. §§ 2517 to 3129. For complete classification of R.S. §§ 2517 to 3129 to the Code, see Tables.
+
+Codification
+R.S. § 3094 derived from act Mar. 2, 1799, ch. 22, § 110, 1 Stat. 703.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

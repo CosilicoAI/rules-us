@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17387" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17387/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17387/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17387"><akn:num>17387</akn:num><akn:heading>Integrated energy systems</akn:heading><akn:content><akn:p>§ 17387. Integrated energy systems(a) In generalNot later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program to develop cost-effective integrated energy systems, including—(1) development of computer modeling to design different configurations of integrated energy systems and to optimize system operation;
+
+(2) research on system integration needed to plan, design, build, and operate integrated energy systems, including interconnection requirements with the electric grid;
+
+(3) development of integrated energy systems for various applications, including—(A) thermal energy generation and storage for buildings and manufacturing;
+
+(B) electricity storage coupled with energy generation;
+
+(C) desalination;
+
+(D) production of liquid and gaseous fuels; and
+
+(E) production of chemicals such as ammonia and ethylene;
+
+
+(4) development of testing facilities for integrated energy systems; and
+
+(5) research on incorporation of various technologies for integrated energy systems, including nuclear energy, renewable energy, storage, and carbon capture, utilization, and sequestration technologies.
+
+
+(b) Strategic plan(1) In generalNot later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a strategic plan that identifies opportunities, challenges, and standards needed for the development and commercial application of integrated energy systems. The strategic plan shall include—(A) analysis of the potential benefits of development of integrated electric systems on the electric grid;
+
+(B) analysis of the potential contributions of integrated energy systems to different grid architecture scenarios;
+
+(C) research and development goals for various integrated energy systems, including those identified in subsection (a);
+
+(D) assessment of policy and market barriers</akn:p></akn:content><akn:subsection eId="subsec_17387_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than 180 days after December 27, 2020, the Secretary shall establish a research, development, and demonstration program to develop cost-effective integrated energy systems, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17387_b"><akn:num>(b)</akn:num><akn:heading>Strategic plan</akn:heading><akn:content><akn:p>(b) Strategic plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17387_c"><akn:num>(c)</akn:num><akn:heading>Program implementation</akn:heading><akn:content><akn:p>(c) Program implementation In carrying out the research, development, demonstration, and commercial application aims of subsection (a), the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17387_d"><akn:num>(d)</akn:num><akn:heading>Integrated energy system defined</akn:heading><akn:content><akn:p>(d) Integrated energy system defined The term “integrated energy system” means a system composed of 2 or more co-located or jointly operated sub-systems of energy generation, energy storage, or other energy technologies.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

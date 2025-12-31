@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_505"><akn:num>505</akn:num><akn:heading>Determination of tax liability</akn:heading><akn:content><akn:p>§ 505. Determination of tax liability(a)(1) Except as provided in paragraph (2) of this subsection, the court may determine the amount or legality of any tax, any fine or penalty relating to a tax, or any addition to tax, whether or not previously assessed, whether or not paid, and whether or not contested before and adjudicated by a judicial or administrative tribunal of competent jurisdiction.
+
+(2) The court may not so determine—(A) the amount or legality of a tax, fine, penalty, or addition to tax if such amount or legality was contested before and adjudicated by a judicial or administrative tribunal of competent jurisdiction before the commencement of the case under this title;
+
+(B) any right of the estate to a tax refund, before the earlier of—(i) 120 days after the trustee properly requests such refund from the governmental unit from which such refund is claimed; or
+
+(ii) a determination by such governmental unit of such request; or
+
+
+(C) the amount or legality of any amount arising in connection with an ad valorem tax on real or personal property of the estate, if the applicable period for contesting or redetermining that amount under applicable nonbankruptcy law has expired.
+
+
+
+(b)(1)(A) The clerk shall maintain a list under which a Federal, State, or local governmental unit responsible for the collection of taxes within the district may—(i) designate an address for service of requests under this subsection; and
+
+(ii) describe where further information concerning additional requirements for filing such requests may be found.
+
+
+(B) If such governmental unit does not designate an address and provide such address to the clerk under subparagraph (A), any request made under this subsection may be served at the address for the filing of a tax return or protest with the appropriate taxing authority of such governmental unit.
+
+
+(2) A trustee may request a determination of any unpaid liability of the estate for any tax incurred during the administration of the case b</akn:p></akn:content><akn:subsection eId="subsec_505_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_505_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_505_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Notwithstanding section 362 of this title, after determination by the court of a tax under this section, the governmental unit charged with responsibility for collection of such tax may assess such tax against the estate, the debtor, or a successor to the debtor, as the case may be, subject to any otherwise applicable law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

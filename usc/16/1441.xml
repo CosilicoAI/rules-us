@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/1441" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/1441/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/1441/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1441"><akn:num>1441</akn:num><akn:heading>Special use permits</akn:heading><akn:content><akn:p>§ 1441. Special use permits(a) Issuance of permitsThe Secretary may issue special use permits which authorize the conduct of specific activities in a national marine sanctuary if the Secretary determines such authorization is necessary—(1) to establish conditions of access to and use of any sanctuary resource; or
+
+(2) to promote public use and understanding of a sanctuary resource.
+
+
+(b) Public notice requiredThe Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a).
+
+
+(c) Permit termsA permit issued under this section—(1) shall authorize the conduct of an activity only if that activity is compatible with the purposes for which the sanctuary is designated and with protection of sanctuary resources;
+
+(2) shall not authorize the conduct of any activity for a period of more than 5 years unless renewed by the Secretary;
+
+(3) shall require that activities carried out under the permit be conducted in a manner that does not destroy, cause the loss of, or injure sanctuary resources; and
+
+(4) shall require the permittee to purchase and maintain comprehensive general liability insurance, or post an equivalent bond, against claims arising out of activities conducted under the permit and to agree to hold the United States harmless against such claims.
+
+
+(d) Fees(1) Assessment and collectionThe Secretary may assess and collect fees for the conduct of any activity under a permit issued under this section.
+
+
+(2) AmountThe amount of a fee under this subsection shall be equal to the sum of—(A) costs incurred, or expected to be incurred, by the Secretary in issuing the permit;
+
+(B) costs incurred, or expected to be incurred, by the Secretary as a direct result of the conduct of the activity for which the permit is issued, including costs of monitoring the conduct of the activity; and
+
+(C) an amount which represents the fair market value of the use of the sanctuary resource.
+
+
+(3) Use of feesA</akn:p></akn:content><akn:subsection eId="subsec_1441_a"><akn:num>(a)</akn:num><akn:heading>Issuance of permits</akn:heading><akn:content><akn:p>(a) Issuance of permits The Secretary may issue special use permits which authorize the conduct of specific activities in a national marine sanctuary if the Secretary determines such authorization is necessary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1441_b"><akn:num>(b)</akn:num><akn:heading>Public notice required</akn:heading><akn:content><akn:p>(b) Public notice required The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1441_c"><akn:num>(c)</akn:num><akn:heading>Permit terms</akn:heading><akn:content><akn:p>(c) Permit terms A permit issued under this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1441_d"><akn:num>(d)</akn:num><akn:heading>Fees</akn:heading><akn:content><akn:p>(d) Fees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1441_e"><akn:num>(e)</akn:num><akn:heading>Violations</akn:heading><akn:content><akn:p>(e) Violations Upon violation of a term or condition of a permit issued under this section, the Secretary may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1441_f"><akn:num>(f)</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>(f) Reports Each person issued a permit under this section shall submit an annual report to the Secretary not later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1441_g"><akn:num>(g)</akn:num><akn:heading>Fishing</akn:heading><akn:content><akn:p>(g) Fishing Nothing in this section shall be considered to require a person to obtain a permit under this section for the conduct of any fishing activities in a national marine sanctuary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3701"><akn:num>3701</akn:num><akn:heading>Definitions and application</akn:heading><akn:content><akn:p>§ 3701. Definitions and application(a) In this chapter—(1) “administrative offset” means withholding funds payable by the United States (including funds payable by the United States on behalf of a State government) to, or held by the United States for, a person to satisfy a claim.
+
+(2) “calendar quarter” means a 3-month period beginning on January 1, April 1, July 1, or October 1.
+
+(3) “consumer reporting agency” means—(A) a consumer reporting agency as that term is defined in section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f)); or
+
+(B) a person that, for money or on a cooperative basis, regularly—(i) gets information on consumers to give the information to a consumer reporting agency; or
+
+(ii) serves as a marketing agent under an arrangement allowing a third party to get the information from a consumer reporting agency.
+
+
+
+(4) “executive, judicial, or legislative agency” means a department, agency, court, court administrative office, or instrumentality in the executive, judicial, or legislative branch of Government, including government corporations.
+
+(5) “military department” means the Departments of the Army, Navy, and Air Force.
+
+(6) “system of records” has the same meaning given that term in section 552a(a)(5) of title 5.
+
+(7) “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
+
+(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
+
+
+(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—(A</akn:p></akn:content><akn:subsection eId="subsec_3701_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) In this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3701_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3701_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) In sections 3716 and 3717 of this title, the term “person” does not include an agency of the United States Government.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3701_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Sections 3711(e) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3701_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) In section 3716 of this title—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3701_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) In section 3711 of this title, “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

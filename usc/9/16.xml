@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/9/16" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/9/16/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/9/16/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16"><akn:num>16</akn:num><akn:heading>Appeals</akn:heading><akn:content><akn:p>§ 16. Appeals(a) An appeal may be taken from—(1) an order—(A) refusing a stay of any action under section 3 of this title,
+
+(B) denying a petition under section 4 of this title to order arbitration to proceed,
+
+(C) denying an application under section 206 of this title to compel arbitration,
+
+(D) confirming or denying confirmation of an award or partial award, or
+
+(E) modifying, correcting, or vacating an award;
+
+
+(2) an interlocutory order granting, continuing, or modifying an injunction against an arbitration that is subject to this title; or
+
+(3) a final decision with respect to an arbitration that is subject to this title.
+
+
+(b) Except as otherwise provided in section 1292(b) of title 28, an appeal may not be taken from an interlocutory order—(1) granting a stay of any action under section 3 of this title;
+
+(2) directing arbitration to proceed under section 4 of this title;
+
+(3) compelling arbitration under section 206 of this title; or
+
+(4) refusing to enjoin an arbitration that is subject to this title.
+
+
+(Added Pub. L. 100–702, title X, § 1019(a), Nov. 19, 1988, 102 Stat. 4670, § 15; renumbered § 16, Pub. L. 101–650, title III, § 325(a)(1), Dec. 1, 1990, 104 Stat. 5120.)
+
+Editorial Notes
+Amendments1990—Pub. L. 101–650 renumbered the second section 15 of this title as this section.</akn:p></akn:content><akn:subsection eId="subsec_16_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) An appeal may be taken from—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as otherwise provided in section 1292(b) of title 28, an appeal may not be taken from an interlocutory order—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

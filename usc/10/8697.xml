@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8697" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8697/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8697/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8697"><akn:num>8697</akn:num><akn:heading>Battle force ship employment, maintenance, and manning baseline plans</akn:heading><akn:content><akn:p>§ 8697. Battle force ship employment, maintenance, and manning baseline plans(a) In General.—Not later than 45 days after the date of the delivery of the first ship in a new class of battle force ships, the Secretary of the Navy shall submit to the congressional defense committees a report on the employment, maintenance, and manning baseline plans for the class, including a description of the following:(1) The sustainment and maintenance plans for the class that encompass the number of years the class is expected to be in service, including—(A) the allocation of maintenance tasks among organizational, intermediate, depot, or other activities;
+
+(B) the planned duration and interval of maintenance for all depot-level maintenance availabilities; and
+
+(C) the planned duration and interval of drydock maintenance periods.
+
+
+(2) Any contractually required integrated logistics support deliverables for the ship, including technical manuals, and an identification of—(A) the deliverables provided to the Government on or before the delivery date; and
+
+(B) the deliverables not provided to the Government on or before the delivery date and the expected dates those deliverables will be provided to the Government.
+
+
+(3) The planned maintenance system for the ship, including—(A) the elements of the system, including maintenance requirement cards, completed on or before the delivery date;
+
+(B) the elements of the system not completed on or before the delivery date and the expected completion date of those elements; and
+
+(C) the plans to complete planned maintenance from the delivery date until all elements of the system have been completed.
+
+
+(4) The coordinated shipboard allowance list for the class, including—(A) the items on the list onboard on or before the delivery date; and
+
+(B) the items on the list not onboard on or before the delivery date and the expected arrival date of those items.
+
+
+(5) The ship manpower document for the class, including—(A) the number of officers by grad</akn:p></akn:content><akn:subsection eId="subsec_8697_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Not later than 45 days after the date of the delivery of the first ship in a new class of battle force ships, the Secretary of the Navy shall submit to the congressional defense committees a report on the employment, maintenance, and manning baseline plans for the class, including a description of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8697_b"><akn:num>(b)</akn:num><akn:heading>Notification Required.—</akn:heading><akn:content><akn:p>(b) Not less than 30 days before implementing a significant change to the baseline plans described in subsection (a) or any subsequent significant change, the Secretary of the Navy shall submit to the congressional defense committees written notification of the change, including for each such change the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8697_c"><akn:num>(c)</akn:num><akn:heading>Treatment of Certain Ships.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8697_d"><akn:num>(d)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(d) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

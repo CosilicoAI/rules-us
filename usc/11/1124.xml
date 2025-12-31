@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1124" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1124/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1124/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1124"><akn:num>1124</akn:num><akn:heading>Impairment of claims or interests</akn:heading><akn:content><akn:p>§ 1124. Impairment of claims or interests
+Except as provided in section 1123(a)(4) of this title, a class of claims or interests is impaired under a plan unless, with respect to each claim or interest of such class, the plan—(1) leaves unaltered the legal, equitable, and contractual rights to which such claim or interest entitles the holder of such claim or interest; or
+
+(2) notwithstanding any contractual provision or applicable law that entitles the holder of such claim or interest to demand or receive accelerated payment of such claim or interest after the occurrence of a default—(A) cures any such default that occurred before or after the commencement of the case under this title, other than a default of a kind specified in section 365(b)(2) of this title or of a kind that section 365(b)(2) expressly does not require to be cured;
+
+(B) reinstates the maturity of such claim or interest as such maturity existed before such default;
+
+(C) compensates the holder of such claim or interest for any damages incurred as a result of any reasonable reliance by such holder on such contractual provision or such applicable law;
+
+(D) if such claim or such interest arises from any failure to perform a nonmonetary obligation, other than a default arising from failure to operate a nonresidential real property lease subject to section 365(b)(1)(A), compensates the holder of such claim or such interest (other than the debtor or an insider) for any actual pecuniary loss incurred by such holder as a result of such failure; and
+
+(E) does not otherwise alter the legal, equitable, or contractual rights to which such claim or interest entitles the holder of such claim or interest.
+
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, § 508, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, § 213(d), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title III, § 328(b), Apr. 20, 2005, 119 Stat. 100.)
+
+Historical and Revision Notes
+legislative statementsSection 1124 of</akn:p></akn:content><akn:subsection eId="subsec_1124_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) leaves unaltered the legal, equitable, and contractual rights to which such claim or interest entitles the holder of such claim or interest; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1124_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) notwithstanding any contractual provision or applicable law that entitles the holder of such claim or interest to demand or receive accelerated payment of such claim or interest after the occurrence of a default—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

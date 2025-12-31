@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/6854" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/6854/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/6854/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6854"><akn:num>6854</akn:num><akn:heading>Data consolidation and publication of route and area data for public recreational use</akn:heading><akn:content><akn:p>§ 6854. Data consolidation and publication of route and area data for public recreational use(a) In generalBeginning not later than 5 years after April 29, 2022, each of the Secretaries, to the maximum extent practicable, shall make publicly available on the website of the Department of the Interior, the Forest Service, and the Corps of Engineers, as applicable, geographic information system data with respect to the following:(1) Status information with respect to whether roads and trails on the Federal land are open or closed.
+
+(2) The dates on which roads and trails on the Federal land are seasonally closed.
+
+(3) The classes of vehicles and types of recreational uses that are allowed on each segment of roads and trails on the Federal land, including the permissibility of—(A) off-highway vehicles;
+
+(B) motorcycles;
+
+(C) nonmotorized bicycles;
+
+(D) electric bicycles;
+
+(E) passenger vehicles;
+
+(F) nonmechanized transportation; and
+
+(G) over-snow vehicles.
+
+
+(4) The boundaries of areas where hunting or recreational shooting (including archery, firearm discharge, and target shooting) is regulated or closed on the Federal land.
+
+
+(b) Updates(1) In generalThe Secretaries, to the maximum extent practicable, shall update the data described in subsection (a) not less frequently than twice per year.
+
+
+(2) Public commentThe Secretaries shall develop a process to allow members of the public to submit questions or comments regarding the information described in subsection (a).
+
+
+
+(c) EffectGeographic information system data made publicly available under subsection (a) shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.
+
+
+(Pub. L. 117–114, § 5, Apr. 29, 2022, 136 Stat. 1176; Pub. L. 118–234, title III, § 354(2), Jan. 4, 2025, 138 Stat. 2917.)
+
+Editorial Notes
+Amendments2025—Subsec. (a)(4). Pub. L. 118–234 substituted “regulated or closed” for “permanently</akn:p></akn:content><akn:subsection eId="subsec_6854_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Beginning not later than 5 years after April 29, 2022, each of the Secretaries, to the maximum extent practicable, shall make publicly available on the website of the Department of the Interior, the Forest Service, and the Corps of Engineers, as applicable, geographic information system data with respect to the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6854_b"><akn:num>(b)</akn:num><akn:heading>Updates</akn:heading><akn:content><akn:p>(b) Updates</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6854_c"><akn:num>(c)</akn:num><akn:heading>Effect</akn:heading><akn:content><akn:p>(c) Effect Geographic information system data made publicly available under subsection (a) shall not disclose information regarding the nature, location, character, or ownership of historic, paleontological, or archaeological resources, consistent with applicable law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

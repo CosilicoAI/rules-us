@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/741" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/741/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/741/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_741"><akn:num>741</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 741. Definitions
+In this part:(1) CapabilityThe term “capability” means the ability to provide the means to accomplish one or more tasks under specific conditions and to specific performance standards. A capability may be achieved with any combination of properly planned, organized, equipped, trained, and exercised personnel that achieves the intended outcome.
+
+
+(2) Credentialed; credentialingThe terms “credentialed” and “credentialing” have the meanings given those terms in section 311 of this title.
+
+
+(3) HazardThe term “hazard” has the meaning given that term under section 5195a(a)(1) of title 42.
+
+
+(4) Mission assignmentThe term “mission assignment” means a work order issued to a Federal agency by the Agency, directing completion by that agency of a specified task and setting forth funding, other managerial controls, and guidance.
+
+
+(5) National preparedness goalThe term “national preparedness goal” means the national preparedness goal established under section 743 of this title.
+
+
+(6) National preparedness systemThe term “national preparedness system” means the national preparedness system established under section 744 of this title.
+
+
+(7) National training programThe term “national training program” means the national training program established under section 748(a) of this title.
+
+
+(8) Operational readinessThe term “operational readiness” means the capability of an organization, an asset, a system, or equipment to perform the missions or functions for which it is organized or designed.
+
+
+(9) Performance measureThe term “performance measure” means a quantitative or qualitative characteristic used to gauge the results of an outcome compared to its intended purpose.
+
+
+(10) Performance metricThe term “performance metric” means a particular value or characteristic used to measure the outcome that is generally expressed in terms of a baseline and a target.
+
+
+(11) PreventionThe term “prevention” means any activity undertaken to avoid, prevent, or stop a threatene</akn:p></akn:content><akn:subsection eId="subsec_741_1"><akn:num>(1)</akn:num><akn:heading>Capability</akn:heading><akn:content><akn:p>(1) Capability The term “capability” means the ability to provide the means to accomplish one or more tasks under specific conditions and to specific performance standards. A capability may be achieved with any combination of properly planned, organized, equipped, trained, and exercised personnel that achieves the intended outcome.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_2"><akn:num>(2)</akn:num><akn:heading>Credentialed; credentialing</akn:heading><akn:content><akn:p>(2) Credentialed; credentialing The terms “credentialed” and “credentialing” have the meanings given those terms in section 311 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_3"><akn:num>(3)</akn:num><akn:heading>Hazard</akn:heading><akn:content><akn:p>(3) Hazard The term “hazard” has the meaning given that term under section 5195a(a)(1) of title 42.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_4"><akn:num>(4)</akn:num><akn:heading>Mission assignment</akn:heading><akn:content><akn:p>(4) Mission assignment The term “mission assignment” means a work order issued to a Federal agency by the Agency, directing completion by that agency of a specified task and setting forth funding, other managerial controls, and guidance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_5"><akn:num>(5)</akn:num><akn:heading>National preparedness goal</akn:heading><akn:content><akn:p>(5) National preparedness goal The term “national preparedness goal” means the national preparedness goal established under section 743 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_6"><akn:num>(6)</akn:num><akn:heading>National preparedness system</akn:heading><akn:content><akn:p>(6) National preparedness system The term “national preparedness system” means the national preparedness system established under section 744 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_7"><akn:num>(7)</akn:num><akn:heading>National training program</akn:heading><akn:content><akn:p>(7) National training program The term “national training program” means the national training program established under section 748(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_8"><akn:num>(8)</akn:num><akn:heading>Operational readiness</akn:heading><akn:content><akn:p>(8) Operational readiness The term “operational readiness” means the capability of an organization, an asset, a system, or equipment to perform the missions or functions for which it is organized or designed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_9"><akn:num>(9)</akn:num><akn:heading>Performance measure</akn:heading><akn:content><akn:p>(9) Performance measure The term “performance measure” means a quantitative or qualitative characteristic used to gauge the results of an outcome compared to its intended purpose.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_10"><akn:num>(10)</akn:num><akn:heading>Performance metric</akn:heading><akn:content><akn:p>(10) Performance metric The term “performance metric” means a particular value or characteristic used to measure the outcome that is generally expressed in terms of a baseline and a target.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/115" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/115/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/115/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_115"><akn:num>115</akn:num><akn:heading>Transportation Security Oversight Board</akn:heading><akn:content><akn:p>§ 115. Transportation Security Oversight Board(a) In General.—There is established in the Department of Homeland Security a board to be known as the “Transportation Security Oversight Board”.
+
+(b) Membership.—(1) Number and appointment.—The Board shall be composed of 7 members as follows:(A) The Secretary of Homeland Security, or the Secretary’s designee.
+
+(B) The Secretary of Transportation, or the Secretary’s designee.
+
+(C) The Attorney General, or the Attorney General’s designee.
+
+(D) The Secretary of Defense, or the Secretary’s designee.
+
+(E) The Secretary of the Treasury, or the Secretary’s designee.
+
+(F) The Director of National Intelligence, or the Director’s designee.
+
+(G) One member appointed by the President to represent the National Security Council.
+
+
+(2) Chairperson.—The Chairperson of the Board shall be the Secretary of Homeland Security.
+
+
+(c) Duties.—The Board shall—(1) review and ratify or disapprove any regulation or security directive issued by the Administrator of the Transportation Security Administration under section 114(l)(2) within 30 days after the date of issuance of such regulation or directive;
+
+(2) facilitate the coordination of intelligence, security, and law enforcement activities affecting transportation;
+
+(3) facilitate the sharing of intelligence, security, and law enforcement information affecting transportation among Federal agencies and with carriers and other transportation providers as appropriate;
+
+(4) explore the technical feasibility of developing a common database of individuals who may pose a threat to transportation or national security;
+
+(5) review plans for transportation security;
+
+(6) make recommendations to the Administrator regarding matters reviewed under paragraph (5).
+
+
+(d) Quarterly Meetings.—The Board shall meet at least quarterly.
+
+(e) Consideration of Security Information.—A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenev</akn:p></akn:content><akn:subsection eId="subsec_115_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) There is established in the Department of Homeland Security a board to be known as the “Transportation Security Oversight Board”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_115_b"><akn:num>(b)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_115_c"><akn:num>(c)</akn:num><akn:heading>Duties.—</akn:heading><akn:content><akn:p>(c) The Board shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_115_d"><akn:num>(d)</akn:num><akn:heading>Quarterly Meetings.—</akn:heading><akn:content><akn:p>(d) The Board shall meet at least quarterly.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_115_e"><akn:num>(e)</akn:num><akn:heading>Consideration of Security Information.—</akn:heading><akn:content><akn:p>(e) A majority of the Board may vote to close a meeting of the Board to the public, except that meetings shall be closed to the public whenever classified,11 So in original. The word “information” probably should be inserted. sensitive security information, or information protected in accordance with section 40119(b),22 See References in Text note below. will be discussed.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1513" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1513/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1513/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1513"><akn:num>1513</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1513. Definitions
+In this chapter:(1) The term “missing person” means—(A) a member of the armed forces on active duty who is in a missing status; or
+
+(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves in direct support of, or accompanies, the armed forces in the field under orders and who is in a missing status.
+
+
+Such term includes an unaccounted for person described in subsection (a) of section 1509 of this title who is required by subsection (c) of such section to be considered a missing person.
+
+(2) The term “missing status” means the status of a missing person who is determined to be absent in a category of any of the following:(A) Missing.
+
+(B) Missing in action.
+
+(C) Interned in a foreign country.
+
+(D) Captured.
+
+(E) Beleaguered.
+
+(F) Besieged.
+
+(G) Detained in a foreign country against that person’s will.
+
+
+(3) The term “accounted for”, with respect to a person in a missing status, means that—(A) the person is returned to United States control alive;
+
+(B) the remains of the person are recovered to the extent practicable and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
+
+(C) credible evidence exists to support another determination of the person’s status.
+
+
+(4) The term “primary next of kin”, in the case of a missing person, means the individual authorized to direct disposition of the remains of the person under section 1482(c) of this title.
+
+(5) The term “member of the immediate family”, in the case of a missing person, means the following:(A) The spouse of the person.
+
+(B) A natural child, adopted child, stepchild, or illegitimate child (if acknowledged by the person or parenthood has been established by a court of competent jurisdiction) of the person, except that if such child has not attained the age of 18 years, the term means a surviving parent or l</akn:p></akn:content><akn:subsection eId="subsec_1513_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “missing person” means— Such term includes an unaccounted for person described in subsection (a) of section 1509 of this title who is required by subsection (c) of such section to be considered a missing person.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “missing status” means the status of a missing person who is determined to be absent in a category of any of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “accounted for”, with respect to a person in a missing status, means that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The term “primary next of kin”, in the case of a missing person, means the individual authorized to direct disposition of the remains of the person under section 1482(c) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The term “member of the immediate family”, in the case of a missing person, means the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The term “previously designated person”, in the case of a missing person, means an individual designated by the person under section 655 of this title for purposes of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The term “classified information” means any information the unauthorized disclosure of which (as determined under applicable law and regulations) could reasonably be expected to damage the national security.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1513_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in section 1501(c) of this title who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

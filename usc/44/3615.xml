@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3615" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3615/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3615/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3615"><akn:num>3615</akn:num><akn:heading>Reports to Congress; GAO report</akn:heading><akn:content><akn:p>§ 3615. Reports to Congress; GAO report(a) Reports to Congress.—Not later than 1 year after the date of enactment of this section, and annually thereafter, the Director shall submit to the appropriate congressional committees a report that includes the following:(1) During the preceding year, the status, efficiency, and effectiveness of the General Services Administration under section 3609 and agencies under section 3613 and in supporting the speed, effectiveness, sharing, reuse, and security of authorizations to operate for secure cloud computing products and services.
+
+(2) Progress towards meeting the metrics required under section 3609(d).
+
+(3) Data on FedRAMP authorizations.
+
+(4) The average length of time to issue FedRAMP authorizations.
+
+(5) The number of FedRAMP authorizations submitted, issued, and denied for the preceding year.
+
+(6) A review of progress made during the preceding year in advancing automation techniques to securely automate FedRAMP processes and to accelerate reporting under this section.
+
+(7) The number and characteristics of authorized cloud computing products and services in use at each agency consistent with guidance provided by the Director under section 3614.
+
+(8) A review of FedRAMP measures to ensure the security of data stored or processed by cloud service providers, which may include—(A) geolocation restrictions for provided products or services;
+
+(B) disclosures of foreign elements of supply chains of acquired products or services;
+
+(C) continued disclosures of ownership of cloud service providers by foreign entities; and
+
+(D) encryption for data processed, stored, or transmitted by cloud service providers.
+
+
+
+(b) GAO Report.—Not later than 180 days after the date of enactment of this section, the Comptroller General of the United States shall report to the appropriate congressional committees an assessment of the following:(1) The costs incurred by agencies and cloud service providers relating to the issuance of FedRAMP authoriza</akn:p></akn:content><akn:subsection eId="subsec_3615_a"><akn:num>(a)</akn:num><akn:heading>Reports to Congress.—</akn:heading><akn:content><akn:p>(a) Not later than 1 year after the date of enactment of this section, and annually thereafter, the Director shall submit to the appropriate congressional committees a report that includes the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3615_b"><akn:num>(b)</akn:num><akn:heading>GAO Report.—</akn:heading><akn:content><akn:p>(b) Not later than 180 days after the date of enactment of this section, the Comptroller General of the United States shall report to the appropriate congressional committees an assessment of the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

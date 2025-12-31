@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/20501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/20501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/20501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20501"><akn:num>20501</akn:num><akn:heading>Authority to establish procedures to consider the separation of officers for substandard performance</akn:heading><akn:content><akn:p>§ 20501. Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons(a) Procedures for Review of Record of Officers Relating to Standards of Performance of Duty.—(1) The Secretary of the Air Force shall prescribe, by regulation, procedures for the review at any time of the record of any commissioned officer (other than a retired officer) of the Space Force in a space force active status to determine whether the officer shall be required, because of a reason stated in paragraph (2), to show cause for the officer’s retention in a space force active status.
+
+(2) The reasons referred to in paragraph (1) are the following:(A) The officer’s performance of duty has fallen below standards prescribed by the Secretary of Defense.
+
+(B) The officer has failed to satisfy the standards and qualifications established under section 20403 of this title by the Secretary of the Air Force.
+
+
+
+(b) Procedures for Review of Record of Officers Relating to Certain Other Reasons.—(1) The Secretary of the Air Force shall prescribe, by regulation, procedures for the review at any time of the record of any commissioned officer (other than a retired officer) of the Space Force in a space force active status to determine whether the officer should be required, because of a reason stated in paragraph (2), to show cause for the officer’s retention in a space force active status.
+
+(2) The reasons referred to in paragraph (1) are the following:(A) Misconduct.
+
+(B) Moral or professional dereliction.
+
+(C) The officer’s retention is not clearly consistent with the interests of national security.
+
+
+
+(c) Secretary of Defense Limitations.—Regulations prescribed by the Secretary of the Air Force under this section are subject to such limitations as the Secretary of Defense may prescribe.
+
+(Added Pub. L. 118–31, div. A, title XVII, § 1719, Dec. 22, 2023, 137 Stat. 659.)</akn:p></akn:content><akn:subsection eId="subsec_20501_a"><akn:num>(a)</akn:num><akn:heading>Procedures for Review of Record of Officers Relating to Standards of Performance of Duty.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20501_b"><akn:num>(b)</akn:num><akn:heading>Procedures for Review of Record of Officers Relating to Certain Other Reasons.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20501_c"><akn:num>(c)</akn:num><akn:heading>Secretary of Defense Limitations.—</akn:heading><akn:content><akn:p>(c) Regulations prescribed by the Secretary of the Air Force under this section are subject to such limitations as the Secretary of Defense may prescribe.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

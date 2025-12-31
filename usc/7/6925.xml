@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/6925" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/6925/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/6925/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6925"><akn:num>6925</akn:num><akn:heading>Food Access Liaison</akn:heading><akn:content><akn:p>§ 6925. Food Access Liaison(a) EstablishmentThe Secretary shall establish the position of Food Access Liaison to coordinate Department programs to reduce barriers to food access and monitor and evaluate the progress of such programs in accordance with this section.
+
+
+(b) DutiesThe Food Access Liaison shall—(1) coordinate the efforts of the Department, including regional offices, to experiment and consider programs and policies aimed at reducing barriers to food access for consumers, including but not limited to participants in nutrition assistance programs;
+
+(2) provide outreach to entities engaged in activities to reduce barriers to food access in accordance with the statutory authorization for each program;
+
+(3) provide outreach to entities engaged in activities to reduce barriers to food access, including retailers, markets, producers, and others involved in food production and distribution, with respect to the availability of, and eligibility for, Department programs;
+
+(4) raise awareness of food access issues in interactions with employees of the Department;
+
+(5) make recommendations to the Secretary with respect to efforts to reduce barriers to food access; and
+
+(6) submit to Congress an annual report with respect to the efforts of the Department to reduce barriers to food access.
+
+
+(Pub. L. 103–354, title II, § 225, as added Pub. L. 115–334, title XII, § 12614(a), Dec. 20, 2018, 132 Stat. 5014.)
+
+Editorial Notes
+Codification
+Another section 225 of Pub. L. 103–354 is classified to section 6931 of this title.
+
+Statutory Notes and Related Subsidiaries
+Technical AssistancePub. L. 115–334, title XII, § 12614(b), Dec. 20, 2018, 132 Stat. 5014, provided that: “The Secretary [of Agriculture] shall provide technical assistance to entities that are participants, or seek to participate, in Department of Agriculture programs related to reduction of barriers to food access.”</akn:p></akn:content><akn:subsection eId="subsec_6925_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary shall establish the position of Food Access Liaison to coordinate Department programs to reduce barriers to food access and monitor and evaluate the progress of such programs in accordance with this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6925_b"><akn:num>(b)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(b) Duties The Food Access Liaison shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

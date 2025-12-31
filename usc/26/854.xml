@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/854" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/854/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/854/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_854"><akn:num>854</akn:num><akn:heading>Limitations applicable to dividends received from regulated investment company</akn:heading><akn:content><akn:p>§ 854. Limitations applicable to dividends received from regulated investment company(a) Capital gain dividendFor purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) and section 243 (relating to deductions for dividends received by corporations), a capital gain dividend (as defined in section 852(b)(3)) received from a regulated investment company shall not be considered as a dividend.
+
+
+(b) Other dividends(1) Amount treated as dividend(A) Deduction under section 243In any case in which—(i) a dividend is received from a regulated investment company (other than a dividend to which subsection (a) applies), and
+
+(ii) such investment company meets the requirements of section 852(a) for the taxable year during which it paid such dividend,
+
+
+then, in computing any deduction under section 243, there shall be taken into account only that portion of such dividend reported by the regulated investment company as eligible for such deduction in written statements furnished to its shareholders and such dividend shall be treated as received from a corporation which is not a 20-percent owned corporation.
+
+(B) Maximum rate under section 1(h)(i) In generalIn any case in which—(I) a dividend is received from a regulated investment company (other than a dividend to which subsection (a) applies),
+
+(II) such investment company meets the requirements of section 852(a) for the taxable year during which it paid such dividend, and
+
+(III) the qualified dividend income of such investment company for such taxable year is less than 95 percent of its gross income,
+
+
+
+ then, in computing qualified dividend income, there shall be taken into account only that portion of such dividend reported by the regulated investment company as qualified dividend income in written statements furnished to its shareholders.
+(ii) Gross incomeFor purposes of clause (i), in the case of 1 or more sales or other dispositions of stock or securities, the term “gross income” includes only the excess</akn:p></akn:content><akn:subsection eId="subsec_854_a"><akn:num>(a)</akn:num><akn:heading>Capital gain dividend</akn:heading><akn:content><akn:p>(a) Capital gain dividend For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) and section 243 (relating to deductions for dividends received by corporations), a capital gain dividend (as defined in section 852(b)(3)) received from a regulated investment company shall not be considered as a dividend.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_854_b"><akn:num>(b)</akn:num><akn:heading>Other dividends</akn:heading><akn:content><akn:p>(b) Other dividends</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

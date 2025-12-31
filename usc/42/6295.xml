@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6295" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6295/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6295/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6295"><akn:num>6295</akn:num><akn:heading>Energy conservation standards</akn:heading><akn:content><akn:p>§ 6295. Energy conservation standards(a) PurposesThe purposes of this section are to—(1) provide Federal energy conservation standards applicable to covered products; and
+
+(2) authorize the Secretary to prescribe amended or new energy conservation standards for each type (or class) of covered product.
+
+
+(b) Standards for refrigerators, refrigerator-freezers, and freezers(1) The following is the maximum energy use allowed in kilowatt hours per year for the following products (other than those described in paragraph (2)) manufactured on or after January 1, 1990:
+
+
+
+
+
+
+ EnergyStandardsEquations
+
+
+Refrigerators and Refrigerator-Freezers with manual defrost16.3 AV+316
+Refrigerator-Freezers—partial automatic defrost21.8 AV+429
+Refrigerator-Freezers—automatic defrost with:
+Top mounted freezer without ice23.5 AV+471
+Side mounted freezer without ice27.7 AV+488
+Bottom mounted freezer without ice27.7 AV+488
+Top mounted freezer with through the door ice service26.4 AV+535
+Side mounted freezer with through the door ice30.9 AV+547
+Upright Freezers with:
+Manual defrost10.9 AV+422
+Automatic defrost16.0 AV+623
+Chest Freezers and all other freezers14.8 AV+223
+
+
+
+
+(2) The standards described in paragraph (1) do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet or freezers with total refrigerated volume exceeding 30 cubic feet.
+
+(3)(A)(i) The Secretary shall publish a proposed rule, no later than July 1, 1988, to determine if the standards established by paragraph (1) should be amended. The Secretary shall publish a final rule no later than July 1, 1989, which shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1993. If such a final rule is not published before January 1, 1990, any amendment of such standards shall apply to products manufactured on or after January 1, 1995. Nothing in this subsection provides any justification or defense for a failure b</akn:p></akn:content><akn:subsection eId="subsec_6295_a"><akn:num>(a)</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>(a) Purposes The purposes of this section are to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_b"><akn:num>(b)</akn:num><akn:heading>Standards for refrigerators, refrigerator-freezers, and freezers</akn:heading><akn:content><akn:p>(b) Standards for refrigerators, refrigerator-freezers, and freezers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_c"><akn:num>(c)</akn:num><akn:heading>Standards for room air conditioners</akn:heading><akn:content><akn:p>(c) Standards for room air conditioners</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_d"><akn:num>(d)</akn:num><akn:heading>Standards for central air conditioners and heat pumps</akn:heading><akn:content><akn:p>(d) Standards for central air conditioners and heat pumps</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_e"><akn:num>(e)</akn:num><akn:heading>Standards for water heaters; pool heaters; direct heating equipment</akn:heading><akn:content><akn:p>(e) Standards for water heaters; pool heaters; direct heating equipment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_f"><akn:num>(f)</akn:num><akn:heading>Standards for furnaces and boilers</akn:heading><akn:content><akn:p>(f) Standards for furnaces and boilers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_g"><akn:num>(g)</akn:num><akn:heading>Standards for dishwashers; clothes washers; clothes dryers; fluorescent lamp ballasts</akn:heading><akn:content><akn:p>(g) Standards for dishwashers; clothes washers; clothes dryers; fluorescent lamp ballasts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_h"><akn:num>(h)</akn:num><akn:heading>Standards for kitchen ranges and ovens</akn:heading><akn:content><akn:p>(h) Standards for kitchen ranges and ovens</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_i"><akn:num>(i)</akn:num><akn:heading>General service fluorescent lamps, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps, and incandescent reflector lamps</akn:heading><akn:content><akn:p>(i) General service fluorescent lamps, general service incandescent lamps, intermediate base incandescent lamps, candelabra base incandescent lamps, and incandescent reflector lamps</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6295_j"><akn:num>(j)</akn:num><akn:heading>Standards for showerheads and faucets</akn:heading><akn:content><akn:p>(j) Standards for showerheads and faucets</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

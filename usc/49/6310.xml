@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/6310" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/6310/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/6310/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6310"><akn:num>6310</akn:num><akn:heading>Limitations on statutory construction</akn:heading><akn:content><akn:p>§ 6310. Limitations on statutory construction
+Nothing in this chapter—(1) authorizes the Bureau to require any other Federal agency to collect data; or
+
+(2) alters or diminishes the authority of any other officer of the Department to collect and disseminate data independently.
+
+(Added Pub. L. 112–141, div. E, title II, § 52011(a), July 6, 2012, 126 Stat. 894.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.</akn:p></akn:content><akn:subsection eId="subsec_6310_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) authorizes the Bureau to require any other Federal agency to collect data; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6310_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) alters or diminishes the authority of any other officer of the Department to collect and disseminate data independently.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

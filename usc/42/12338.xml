@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/12338" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/12338/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/12338/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12338"><akn:num>12338</akn:num><akn:heading>Supportive services</akn:heading><akn:content><akn:p>§ 12338. Supportive services(a) AuthorityThe Commissioner shall carry out a program for making grants to a State, that has designated an independent State body under section 12336 of this title and provided for coordinated services under section 12337 of this title, for distribution by the chief executive officer under a State plan approved under section 12337 of this title to demonstrate successful program approaches to fill service gaps identified through State planning and advocacy efforts for any of the areas specified in paragraph (2).
+
+
+(b) Eligible servicesThe services eligible to be provided under subsection (a) are services—(1) that are designed to facilitate the provision of comprehensive community based services that are efficient, coordinated, and readily available through such activities as case planning, case management, intake and assessment, and information and referral; and
+
+(2) that serve any of the following purposes—(A) provide adequate and safe physical shelter to young individuals and the families of such individuals, especially in emergency circumstances;
+
+(B) provide transitional living services to young individuals who are homeless;
+
+(C) enable young individuals to attain and maintain physical and mental well-being;
+
+(D) provide health screening to detect or prevent illnesses, or both, that occur most frequently in young individuals as well as better treatment and counseling;
+
+(E) enhance the development of children to ensure that such children enter school prepared and ready to learn;
+
+(F) promote the highest quality of educational opportunity, especially through drop-out prevention programs, remediation for young individuals who have dropped out of school, and vocational education;
+
+(G) provide effective training apprenticeships and employment opportunities;
+
+(H) promote participation in community service and civic, cultural, and recreational activities that value young individuals as resources and promote self-esteem and a stake in the co</akn:p></akn:content><akn:subsection eId="subsec_12338_a"><akn:num>(a)</akn:num><akn:heading>Authority</akn:heading><akn:content><akn:p>(a) Authority The Commissioner shall carry out a program for making grants to a State, that has designated an independent State body under section 12336 of this title and provided for coordinated services under section 12337 of this title, for distribution by the chief executive officer under a State plan approved under section 12337 of this title to demonstrate successful program approaches to fill service gaps identified through State planning and advocacy efforts for any of the areas specified in paragraph (2).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12338_b"><akn:num>(b)</akn:num><akn:heading>Eligible services</akn:heading><akn:content><akn:p>(b) Eligible services The services eligible to be provided under subsection (a) are services—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

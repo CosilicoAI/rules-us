@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/1725" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/1725/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/1725/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1725"><akn:num>1725</akn:num><akn:heading>Policy research, data collection, analysis and modeling, evaluation, and dissemination</akn:heading><akn:content><akn:p>§ 1725. Policy research, data collection, analysis and modeling, evaluation, and dissemination(a) Reporting requirements(1) In generalNot later than 1 year after the date on which the Assistant Secretary begins awarding grants under section 1723(d)(1) of this title, and annually thereafter, the Assistant Secretary shall—(A) submit to the appropriate committees of Congress a report that documents, for the year covered by the report—(i) the findings of each evaluation conducted under subparagraph (B);
+
+(ii) a list of each grant awarded under each covered program, which shall include—(I) the amount of each such grant;
+
+(II) the recipient of each such grant; and
+
+(III) the purpose for which each such grant was awarded;
+
+
+(iii) any deobligation, termination, or modification of a grant awarded under the covered programs, which shall include a description of the subsequent usage of any funds to which such an action applies; and
+
+(iv) each challenge made by an applicant for, or a recipient of, a grant under the covered programs and the outcome of each such challenge; and
+
+
+(B) conduct evaluations of the activities carried out under the covered programs, which shall include an evaluation of—(i) whether eligible States to which grants are awarded under the program established under section 1723 of this title are—(I) abiding by the assurances made by those States under subsection (e) of that section;
+
+(II) meeting, or have met, the stated goals of the Digital Equity Plans developed by the States under subsection (c) of that section;
+
+(III) satisfying the requirements imposed by the Assistant Secretary on those States under subsection (g) of that section; and
+
+(IV) in compliance with any other rules, requirements, or regulations promulgated by the Assistant Secretary in implementing that program; and
+
+
+(ii) whether entities to which grants are awarded under the program established under section 1724 of this title are—(I) abiding by the assurances made by those entities under su</akn:p></akn:content><akn:subsection eId="subsec_1725_a"><akn:num>(a)</akn:num><akn:heading>Reporting requirements</akn:heading><akn:content><akn:p>(a) Reporting requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1725_b"><akn:num>(b)</akn:num><akn:heading>Authority to contract and enter into other arrangements</akn:heading><akn:content><akn:p>(b) Authority to contract and enter into other arrangements The Assistant Secretary may award grants and enter into contracts, cooperative agreements, and other arrangements with Federal agencies, public and private organizations, and other entities with expertise that the Assistant Secretary determines appropriate in order to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1725_c"><akn:num>(c)</akn:num><akn:heading>Consultation and public engagement</akn:heading><akn:content><akn:p>(c) Consultation and public engagement In carrying out subsection (a), and to further the objectives described in paragraphs (1) and (2) of subsection (b), the Assistant Secretary shall conduct ongoing collaboration and consult with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1725_d"><akn:num>(d)</akn:num><akn:heading>Technical support and assistance</akn:heading><akn:content><akn:p>(d) Technical support and assistance The Assistant Secretary shall provide technical support and assistance, assistance to entities to prepare the applications of those entities with respect to grants awarded under the covered programs, and other resources, to the extent practicable, to ensure consistency in data reporting and to meet the objectives of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1725_e"><akn:num>(e)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(e) Authorization of appropriations There are authorized to be appropriated such sums as may be necessary to carry out this section, which shall remain available until expended.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

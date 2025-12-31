@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/7525" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/7525/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/7525/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7525"><akn:num>7525</akn:num><akn:heading>Confidentiality privileges relating to taxpayer communications</akn:heading><akn:content><akn:p>§ 7525. Confidentiality privileges relating to taxpayer communications(a) Uniform application to taxpayer communications with federally authorized practitioners(1) General ruleWith respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federally authorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
+
+
+(2) LimitationsParagraph (1) may only be asserted in—(A) any noncriminal tax matter before the Internal Revenue Service; and
+
+(B) any noncriminal tax proceeding in Federal court brought by or against the United States.
+
+
+(3) DefinitionsFor purposes of this subsection—(A) Federally authorized tax practitionerThe term “federally authorized tax practitioner” means any individual who is authorized under Federal law to practice before the Internal Revenue Service if such practice is subject to Federal regulation under section 330 of title 31, United States Code.
+
+
+(B) Tax adviceThe term “tax advice” means advice given by an individual with respect to a matter which is within the scope of the individual’s authority to practice described in subparagraph (A).
+
+
+
+
+(b) Section not to apply to communications regarding tax sheltersThe privilege under subsection (a) shall not apply to any written communication which is—(1) between a federally authorized tax practitioner and—(A) any person,
+
+(B) any director, officer, employee, agent, or representative of the person, or
+
+(C) any other person holding a capital or profits interest in the person, and
+
+
+(2) in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
+
+
+(Added Pub. L. 105–206, title III, § 3411(a), July 22, 1998, 112 Stat. 750; amended Pub. L. 108–357, title VIII, § 813(a), Oct. 22, 2004, 118</akn:p></akn:content><akn:subsection eId="subsec_7525_a"><akn:num>(a)</akn:num><akn:heading>Uniform application to taxpayer communications with federally authorized practitioners</akn:heading><akn:content><akn:p>(a) Uniform application to taxpayer communications with federally authorized practitioners</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7525_b"><akn:num>(b)</akn:num><akn:heading>Section not to apply to communications regarding tax shelters</akn:heading><akn:content><akn:p>(b) Section not to apply to communications regarding tax shelters The privilege under subsection (a) shall not apply to any written communication which is—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

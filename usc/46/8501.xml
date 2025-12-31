@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/8501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/8501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/8501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8501"><akn:num>8501</akn:num><akn:heading>State regulation of pilots</akn:heading><akn:content><akn:p>§ 8501. State regulation of pilots(a) Except as otherwise provided in this subtitle, pilots in the bays, rivers, harbors, and ports of the United States shall be regulated only in conformity with the laws of the States.
+
+(b) The master of a vessel entering or leaving a port on waters that are a boundary between 2 States, and that is required to have a pilot under this section, may employ a pilot licensed or authorized by the laws of either of the 2 States.
+
+(c) A State may not adopt a regulation or provision that discriminates in the rate of pilotage or half-pilotage between vessels sailing between the ports of one State and vessels sailing between the ports of different States, or against vessels because of their means of propulsion, or against public vessels of the United States.
+
+(d) A State may not adopt a regulation or provision that requires a coastwise vessel to take a pilot licensed or authorized by the laws of a State if the vessel—(1) is propelled by machinery and subject to inspection under part B of this subtitle; or
+
+(2) is subject to inspection under chapter 37 of this title.
+
+
+(e) Any regulation or provision violating this section is void.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 553; Pub. L. 98–557, § 29(e), Oct. 30, 1984, 98 Stat. 2874.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+8501(a)46:211
+8501(b)46:212
+8501(c), (e)46:213
+8501(d)46:215
+
+
+Section 8501 establishes the general proposition that the States regulate pilots in the bays, rivers, harbors, and ports of the United States, unless otherwise specifically provided by law.
+Subsection (a) states this general proposition and uses the word “only” for emphasis on this point. Further, except as specifically provided in law, the Committee intends that this chapter not be construed to annul or affect any regulation established by the laws of a State requiring a vessel entering or leaving a port in that State to employ a pilot licensed or authorized by the law</akn:p></akn:content><akn:subsection eId="subsec_8501_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as otherwise provided in this subtitle, pilots in the bays, rivers, harbors, and ports of the United States shall be regulated only in conformity with the laws of the States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8501_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The master of a vessel entering or leaving a port on waters that are a boundary between 2 States, and that is required to have a pilot under this section, may employ a pilot licensed or authorized by the laws of either of the 2 States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8501_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) A State may not adopt a regulation or provision that discriminates in the rate of pilotage or half-pilotage between vessels sailing between the ports of one State and vessels sailing between the ports of different States, or against vessels because of their means of propulsion, or against public vessels of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8501_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) A State may not adopt a regulation or provision that requires a coastwise vessel to take a pilot licensed or authorized by the laws of a State if the vessel—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8501_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) Any regulation or provision violating this section is void.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

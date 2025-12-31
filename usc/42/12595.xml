@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/12595" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/12595/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/12595/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12595"><akn:num>12595</akn:num><akn:heading>National service educational awards</akn:heading><akn:content><akn:p>§ 12595. National service educational awards(a) Eligibility generallyA participant in a national service program carried out using assistance provided to an applicant under section 12571 of this title shall be eligible for the national service educational award described in division D if the participant—(1) serves in an approved national service position; and
+
+(2) satisfies the eligibility requirements specified in section 12602 of this title with respect to service in that approved national service position.
+
+
+(b) Special rule for VISTA volunteersA VISTA volunteer who serves in an approved national service position shall be ineligible for a national service educational award if the VISTA volunteer accepts the stipend authorized under section 4955(a)(1) of this title.
+
+
+(Pub. L. 101–610, title I, § 141, as added Pub. L. 103–82, title I, § 101(b), Sept. 21, 1993, 107 Stat. 814.)
+
+Editorial Notes
+Prior ProvisionsA prior section 141 of Pub. L. 101–610 was classified to section 12571 of this title prior to the general amendment of subtitle D of title I of Pub. L. 101–610 [former part D of this subchapter] by Pub. L. 103–82, § 102(a).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.</akn:p></akn:content><akn:subsection eId="subsec_12595_a"><akn:num>(a)</akn:num><akn:heading>Eligibility generally</akn:heading><akn:content><akn:p>(a) Eligibility generally A participant in a national service program carried out using assistance provided to an applicant under section 12571 of this title shall be eligible for the national service educational award described in division D if the participant—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12595_b"><akn:num>(b)</akn:num><akn:heading>Special rule for VISTA volunteers</akn:heading><akn:content><akn:p>(b) Special rule for VISTA volunteers A VISTA volunteer who serves in an approved national service position shall be ineligible for a national service educational award if the VISTA volunteer accepts the stipend authorized under section 4955(a)(1) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

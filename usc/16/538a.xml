@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/538a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/538a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/538a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_538a"><akn:num>538a</akn:num><akn:heading>Forest Service Legacy Road and Trail Remediation Program</akn:heading><akn:content><akn:p>§ 538a. Forest Service Legacy Road and Trail Remediation Program(a) EstablishmentThe Secretary shall establish the Forest Service Legacy Road and Trail Remediation Program (referred to in this section as the “Program”).
+
+
+(b) ActivitiesIn carrying out the Program, the Secretary shall, taking into account foreseeable changes in weather and hydrology—(1) restore passages for fish and other aquatic species by—(A) improving, repairing, or replacing culverts and other infrastructure; and
+
+(B) removing barriers, as the Secretary determines appropriate, from the passages;
+
+
+(2) decommission unauthorized user-created roads and trails that are not a National Forest System road or a National Forest System trail, if the applicable unit of the National Forest System has published—(A) a Motor Vehicle Use Map and the road is not identified as a National Forest System road on that Motor Vehicle Use Map; or
+
+(B) a map depicting the authorized trails in the applicable unit of the National Forest System and the trail is not identified as a National Forest System trail on that map;
+
+
+(3) prepare previously closed National Forest System roads for long-term storage, in accordance with subsections (c)(1) and (d), in a manner that—(A) prevents motor vehicle use, as appropriate to conform to route designations;
+
+(B) prevents the roads from damaging adjacent resources, including aquatic and wildlife resources;
+
+(C) reduces or eliminates the need for road maintenance; and
+
+(D) preserves the roads for future use;
+
+
+(4) decommission previously closed National Forest System roads and trails in accordance with subsections (c)(1) and (d);
+
+(5) relocate National Forest System roads and trails—(A) to increase resilience to extreme weather events, flooding, and other natural disasters; and
+
+(B) to respond to changing resource conditions and public input;
+
+
+(6) convert National Forest System roads to National Forest System trails, while allowing for continued use for motorized and nonmotorized recrea</akn:p></akn:content><akn:subsection eId="subsec_538a_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary shall establish the Forest Service Legacy Road and Trail Remediation Program (referred to in this section as the “Program”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_538a_b"><akn:num>(b)</akn:num><akn:heading>Activities</akn:heading><akn:content><akn:p>(b) Activities In carrying out the Program, the Secretary shall, taking into account foreseeable changes in weather and hydrology—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_538a_c"><akn:num>(c)</akn:num><akn:heading>Project selection</akn:heading><akn:content><akn:p>(c) Project selection</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_538a_d"><akn:num>(d)</akn:num><akn:heading>Implementation</akn:heading><akn:content><akn:p>(d) Implementation In implementing the Program, the Secretary shall ensure that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_538a_e"><akn:num>(e)</akn:num><akn:heading>Savings clause</akn:heading><akn:content><akn:p>(e) Savings clause A decision to fund a project under the Program shall not affect any determination made previously or to be made in the future by the Secretary with regard to road or trail closures.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

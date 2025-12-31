@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/9704" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/9704/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/9704/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9704"><akn:num>9704</akn:num><akn:heading>National reactor engineering simulator feasibility study</akn:heading><akn:content><akn:p>§ 9704. National reactor engineering simulator feasibility study(a) Consultative requirements; purposeThe Secretary, in consultation with the Commission and the Advisory Committee, shall initiate a study of the need for and feasibility of establishing a reactor engineering simulator facility at a national laboratory, for the primary purpose of fostering research in generic design improvements and simplifications through the simulation of the performance of various types of light water reactors under a wide variety of abnormal conditions and postulated accident conditions.
+
+
+(b) Applicability of relevant factorsIn performing the study, the Secretary shall consider relevant factors including, but not limited to—(1) the potential advantages that would accrue from the establishment of such a facility;
+
+(2) the extent to which such a facility would further the generic safety research and development program established by this chapter;
+
+(3) the extent to which such a facility can be established by nongovernmental entities;
+
+(4) the opportunities for cost sharing by nongovernmental entities in the construction and operation of such a facility;
+
+(5) the importance of such a facility in emergencies to limit the extent of any future nuclear powerplant excursions;
+
+(6) the potential for international cooperation in the establishment and operation of such a facility; and
+
+(7) the appropriate national laboratory for siting such a facility.
+
+
+(c) Report to Congressional committeesThe Secretary shall, by January 1, 1982, submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report characterizing the study and the resulting conclusions and recommendations.
+
+
+(Pub. L. 96–567, § 5, Dec. 22, 1980, 94 Stat. 3331.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of H</akn:p></akn:content><akn:subsection eId="subsec_9704_a"><akn:num>(a)</akn:num><akn:heading>Consultative requirements; purpose</akn:heading><akn:content><akn:p>(a) Consultative requirements; purpose The Secretary, in consultation with the Commission and the Advisory Committee, shall initiate a study of the need for and feasibility of establishing a reactor engineering simulator facility at a national laboratory, for the primary purpose of fostering research in generic design improvements and simplifications through the simulation of the performance of various types of light water reactors under a wide variety of abnormal conditions and postulated accident conditions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9704_b"><akn:num>(b)</akn:num><akn:heading>Applicability of relevant factors</akn:heading><akn:content><akn:p>(b) Applicability of relevant factors In performing the study, the Secretary shall consider relevant factors including, but not limited to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9704_c"><akn:num>(c)</akn:num><akn:heading>Report to Congressional committees</akn:heading><akn:content><akn:p>(c) Report to Congressional committees The Secretary shall, by January 1, 1982, submit to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report characterizing the study and the resulting conclusions and recommendations.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

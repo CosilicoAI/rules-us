@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/2277a–4" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/2277a–4/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/2277a–4/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2277a_4"><akn:num>2277a–4</akn:num><akn:heading>Premiums</akn:heading><akn:content><akn:p>§ 2277a–4. Premiums(a) Amount in Fund not exceeding secure base amount(1) In generalIf at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (3), the premium due from any insured System bank for the calendar year shall be equal to the sum of—(A) the average outstanding insured obligations issued by the bank for the calendar year, after deducting from the obligations the percentages of the guaranteed portions of loans and investments described in paragraph (2), multiplied by 0.0020; and
+
+(B) the product obtained by multiplying—(i) the sum of—(I) the average principal outstanding for the calendar year on loans made by the bank that are in nonaccrual status; and
+
+(II) the average amount outstanding for the calendar year of other-than-temporarily impaired investments made by the bank; by
+
+
+(ii) 0.0010.
+
+
+
+(2) Deductions from average outstanding insured obligationsThe average outstanding insured obligations issued by the bank for the calendar year referred to in paragraph (1)(A) shall be reduced by deducting from the obligations the sum of (as determined by the Corporation)—(A) 90 percent of each of—(i) the average principal outstanding for the calendar year on the guaranteed portions of Federal government-guaranteed loans made by the bank that are in accrual status; and
+
+(ii) the average amount outstanding for the calendar year of the guaranteed portions of Federal government-guaranteed investments made by the bank that are not permanently impaired; and
+
+
+(B) 80 percent of each of—(i) the average principal outstanding for the calendar year on the guaranteed portions of State government-guaranteed loans made by the bank that are in accrual status; and
+
+(ii) the average amount outstanding for the calendar year of the guaranteed portions of State government-guaranteed investments made by the bank that are not permanently impaired.
+
+
+
+(3) Reduced premiumsThe Corporation, in the</akn:p></akn:content><akn:subsection eId="subsec_2277a_4_a"><akn:num>(a)</akn:num><akn:heading>Amount in Fund not exceeding secure base amount</akn:heading><akn:content><akn:p>(a) Amount in Fund not exceeding secure base amount</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2277a_4_b"><akn:num>(b)</akn:num><akn:heading>Amount in Fund exceeding secure base amount</akn:heading><akn:content><akn:p>(b) Amount in Fund exceeding secure base amount At any time the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall reduce the premium due from each insured System bank, as determined under subsection (a)(1), by a percentage determined by the Corporation so that the aggregate of the premiums payable by all System banks is sufficient to ensure that the aggregate of amounts in the Farm Credit Insurance Fund after such premiums are paid is not less than the secure base amount at such time.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2277a_4_c"><akn:num>(c)</akn:num><akn:heading>Secure base amount</akn:heading><akn:content><akn:p>(c) Secure base amount</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2277a_4_d"><akn:num>(d)</akn:num><akn:heading>Determination of loan and investment amounts</akn:heading><akn:content><akn:p>(d) Determination of loan and investment amounts For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2277a_4_e"><akn:num>(e)</akn:num><akn:heading>Allocation to System institutions of excess reserves</akn:heading><akn:content><akn:p>(e) Allocation to System institutions of excess reserves</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

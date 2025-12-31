@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/239c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/239c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/239c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_239c"><akn:num>239c</akn:num><akn:heading>Certain multiyear contracts for acquisition of property: budget justification materials</akn:heading><akn:content><akn:p>§ 239c. Certain multiyear contracts for acquisition of property: budget justification materials(a) In General.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2023 and each fiscal year thereafter (as submitted with the budget of the President under section 1105(a) of title 31), the Secretary of Defense shall include a proposal for any multiyear contract of the Department entered into under section 3501 of this title that—(1) the head of an agency intends to cancel during the fiscal year; or
+
+(2) with respect to which the head of an agency intends to effect a covered modification during the fiscal year.
+
+
+(b) Elements.—Each proposal required by subsection (a) shall include the following:(1) A detailed explanation of the rationale for the proposed cancellation or covered modification of the multiyear contract.
+
+(2) A detailed assessment of any expected termination costs associated with the proposed cancellation or covered modification of the multiyear contract.
+
+(3) An updated assessment of estimated savings of such cancellation or carrying out the multiyear contract as modified by such covered modification.
+
+(4) An explanation of the proposed use of previously appropriated funds for advance procurement or procurement of property planned under the multiyear contract before such cancellation or covered modification.
+
+(5) An assessment of expected impacts of the proposed cancellation or covered modification on the defense industrial base, including workload stability, loss of skilled labor, and reduced efficiencies.
+
+
+(c) Definitions.—In this section:(1) The term “covered modification” means a modification that will result in a reduction in the quantity of end items to be procured.
+
+(2) The term “head of an agency” means—(A) the Secretary of Defense;
+
+(B) the Secretary of the Army;
+
+(C) the Secretary of the Navy; or
+
+(D) the Secretary of the Air Force.
+
+
+
+(Added Pub. L. 117–81, div. A, title VIII</akn:p></akn:content><akn:subsection eId="subsec_239c_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2023 and each fiscal year thereafter (as submitted with the budget of the President under section 1105(a) of title 31), the Secretary of Defense shall include a proposal for any multiyear contract of the Department entered into under section 3501 of this title that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_239c_b"><akn:num>(b)</akn:num><akn:heading>Elements.—</akn:heading><akn:content><akn:p>(b) Each proposal required by subsection (a) shall include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_239c_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/535" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/535/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/535/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_535"><akn:num>535</akn:num><akn:heading>Accumulated taxable income</akn:heading><akn:content><akn:p>§ 535. Accumulated taxable income(a) DefinitionFor purposes of this subtitle, the term “accumulated taxable income” means the taxable income, adjusted in the manner provided in subsection (b), minus the sum of the dividends paid deduction (as defined in section 561) and the accumulated earnings credit (as defined in subsection (c)).
+
+
+(b) Adjustments to taxable incomeFor purposes of subsection (a), taxable income shall be adjusted as follows:(1) TaxesThere shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 960 for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
+
+
+(2) Charitable contributionsThe deduction for charitable contributions provided under section 170 shall be allowed without regard to section 170(b)(2).
+
+
+(3) Special deductions disallowedThe special deductions for corporations provided in part VIII (except section 248) of subchapter B (section 241 and following, relating to the deduction for dividends received by corporations, etc.) shall not be allowed.
+
+
+(4) Net operating lossThe net operating loss deduction provided in section 172 shall not be allowed.
+
+
+(5) Capital losses(A) In generalExcept as provided in subparagraph (B), there shall be allowed as a deduction an amount equal to the net capital loss for the taxable year (determined without regard to paragraph (7)(A)).
+
+
+(B) Recapture of previous deductions for capital gainsThe aggregate amount allowable as a deduction under subparagraph (A) for any taxable year shall be reduced by the lesser of—(i) the nonrecaptured capital gains deductions, or
+
+(ii) the amount of the accumulated earnings and profits of the corporatio</akn:p></akn:content><akn:subsection eId="subsec_535_a"><akn:num>(a)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(a) Definition For purposes of this subtitle, the term “accumulated taxable income” means the taxable income, adjusted in the manner provided in subsection (b), minus the sum of the dividends paid deduction (as defined in section 561) and the accumulated earnings credit (as defined in subsection (c)).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_535_b"><akn:num>(b)</akn:num><akn:heading>Adjustments to taxable income</akn:heading><akn:content><akn:p>(b) Adjustments to taxable income For purposes of subsection (a), taxable income shall be adjusted as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_535_c"><akn:num>(c)</akn:num><akn:heading>Accumulated earnings credit</akn:heading><akn:content><akn:p>(c) Accumulated earnings credit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_535_d"><akn:num>(d)</akn:num><akn:heading>Income distributed to United States-owned foreign corporation retains United States connection</akn:heading><akn:content><akn:p>(d) Income distributed to United States-owned foreign corporation retains United States connection</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

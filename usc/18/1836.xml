@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/1836" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/1836/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/1836/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1836"><akn:num>1836</akn:num><akn:heading>Civil proceedings</akn:heading><akn:content><akn:p>§ 1836. Civil proceedings(a) The Attorney General may, in a civil action, obtain appropriate injunctive relief against any violation of this chapter.
+
+(b) Private Civil Actions.—(1) In general.—An owner of a trade secret that is misappropriated may bring a civil action under this subsection if the trade secret is related to a product or service used in, or intended for use in, interstate or foreign commerce.
+
+(2) Civil seizure.—(A) In general.—(i) Application.—Based on an affidavit or verified complaint satisfying the requirements of this paragraph, the court may, upon ex parte application but only in extraordinary circumstances, issue an order providing for the seizure of property necessary to prevent the propagation or dissemination of the trade secret that is the subject of the action.
+
+(ii) Requirements for issuing order.—The court may not grant an application under clause (i) unless the court finds that it clearly appears from specific facts that—(I) an order issued pursuant to Rule 65 of the Federal Rules of Civil Procedure or another form of equitable relief would be inadequate to achieve the purpose of this paragraph because the party to which the order would be issued would evade, avoid, or otherwise not comply with such an order;
+
+(II) an immediate and irreparable injury will occur if such seizure is not ordered;
+
+(III) the harm to the applicant of denying the application outweighs the harm to the legitimate interests of the person against whom seizure would be ordered of granting the application and substantially outweighs the harm to any third parties who may be harmed by such seizure;
+
+(IV) the applicant is likely to succeed in showing that—(aa) the information is a trade secret; and
+
+(bb) the person against whom seizure would be ordered—(AA) misappropriated the trade secret of the applicant by improper means; or
+
+(BB) conspired to use improper means to misappropriate the trade secret of the applicant;
+
+
+
+(V) the person against whom seizure would be ord</akn:p></akn:content><akn:subsection eId="subsec_1836_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Attorney General may, in a civil action, obtain appropriate injunctive relief against any violation of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1836_b"><akn:num>(b)</akn:num><akn:heading>Private Civil Actions.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1836_c"><akn:num>(c)</akn:num><akn:heading>Jurisdiction.—</akn:heading><akn:content><akn:p>(c) The district courts of the United States shall have original jurisdiction of civil actions brought under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1836_d"><akn:num>(d)</akn:num><akn:heading>Period of Limitations.—</akn:heading><akn:content><akn:p>(d) A civil action under subsection (b) may not be commenced later than 3 years after the date on which the misappropriation with respect to which the action would relate is discovered or by the exercise of reasonable diligence should have been discovered. For purposes of this subsection, a continuing misappropriation constitutes a single claim of misappropriation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

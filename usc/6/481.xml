@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/481" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/481/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/481/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_481"><akn:num>481</akn:num><akn:heading>Short title; findings; and sense of Congress</akn:heading><akn:content><akn:p>§ 481. Short title; findings; and sense of Congress(a) Short titleThis part may be cited as the “Homeland Security Information Sharing Act”.
+
+
+(b) FindingsCongress finds the following:(1) The Federal Government is required by the Constitution to provide for the common defense, which includes terrorist attack.
+
+(2) The Federal Government relies on State and local personnel to protect against terrorist attack.
+
+(3) The Federal Government collects, creates, manages, and protects classified and sensitive but unclassified information to enhance homeland security.
+
+(4) Some homeland security information is needed by the State and local personnel to prevent and prepare for terrorist attack.
+
+(5) The needs of State and local personnel to have access to relevant homeland security information to combat terrorism must be reconciled with the need to preserve the protected status of such information and to protect the sources and methods used to acquire such information.
+
+(6) Granting security clearances to certain State and local personnel is one way to facilitate the sharing of information regarding specific terrorist threats among Federal, State, and local levels of government.
+
+(7) Methods exist to declassify, redact, or otherwise adapt classified information so it may be shared with State and local personnel without the need for granting additional security clearances.
+
+(8) State and local personnel have capabilities and opportunities to gather information on suspicious activities and terrorist threats not possessed by Federal agencies.
+
+(9) The Federal Government and State and local governments and agencies in other jurisdictions may benefit from such information.
+
+(10) Federal, State, and local governments and intelligence, law enforcement, and other emergency preparation and response agencies must act in partnership to maximize the benefits of information gathering and analysis to prevent and respond to terrorist attacks.
+
+(11) Information systems, including the National</akn:p></akn:content><akn:subsection eId="subsec_481_a"><akn:num>(a)</akn:num><akn:heading>Short title</akn:heading><akn:content><akn:p>(a) Short title This part may be cited as the “Homeland Security Information Sharing Act”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_481_b"><akn:num>(b)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(b) Findings Congress finds the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_481_c"><akn:num>(c)</akn:num><akn:heading>Sense of Congress</akn:heading><akn:content><akn:p>(c) Sense of Congress It is the sense of Congress that Federal, State, and local entities should share homeland security information to the maximum extent practicable, with special emphasis on hard-to-reach urban and rural communities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

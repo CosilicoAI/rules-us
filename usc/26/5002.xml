@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5002" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5002/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5002/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5002"><akn:num>5002</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5002. Definitions(a) In generalFor purposes of this chapter—(1) Distilled spirits plantThe term “distilled spirits plant” means an establishment which is qualified under subchapter B to perform any distilled spirits operation.
+
+
+(2) Distilled spirits operationThe term “distilled spirits operation” means any operation for which qualification is required under subchapter B.
+
+
+(3) Bonded premisesThe term “bonded premises”, when used with respect to distilled spirits, means the premises of a distilled spirits plant, or part thereof, on which distilled spirits operations are authorized to be conducted.
+
+
+(4) DistillerThe term “distiller” includes any person who—(A) produces distilled spirits from any source or substance,
+
+(B) brews or makes mash, wort, or wash fit for distillation or for the production of distilled spirits (other than the making or using of mash, wort, or wash in the authorized production of wine or beer, or the production of vinegar by fermentation),
+
+(C) by any process separates alcoholic spirits from any fermented substance, or
+
+(D) making or keeping mash, wort, or wash, has a still in his possession or use.
+
+
+(5) Processor(A) In generalThe term “processor”, when used with respect to distilled spirits, means any person who—(i) manufactures, mixes, or otherwise processes distilled spirits, or
+
+(ii) manufactures any article.
+
+
+(B) Rectifier, bottler, etc., includedThe term “processor” includes (but is not limited to) a rectifier, bottler, and denaturer.
+
+
+
+(6) Certain operations not treated as processingIn applying paragraph (5), there shall not be taken into account—(A) Operations as distillerAny process which is the operation of a distiller.
+
+
+(B) Mixing of taxpaid spirits for immediate consumptionAny mixing (after determination of tax) of distilled spirits for immediate consumption.
+
+
+(C) Use by apothecariesAny process performed by an apothecary with respect to distilled spirits which such apothecary uses exclusively in the preparation or making up</akn:p></akn:content><akn:subsection eId="subsec_5002_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For purposes of this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5002_b"><akn:num>(b)</akn:num><akn:heading>Cross references</akn:heading><akn:content><akn:p>(b) Cross references</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

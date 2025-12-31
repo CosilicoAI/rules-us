@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9702"><akn:num>9702</akn:num><akn:heading>National Integrated Flood Information System</akn:heading><akn:content><akn:p>§ 9702. National Integrated Flood Information System(a) In generalThe Administrator shall establish a system, to be known as the “National Integrated Flood Information System”, to better inform and provide for more timely decision making to reduce flood-related effects and costs.
+
+
+(b) System functionsThe Administrator, through the National Integrated Flood Information System, shall—(1) provide an effective flood early warning system that—(A) collects and integrates information on the key indicators of floods and flood impacts, including streamflow, reservoir release and diversion, precipitation, soil moisture, snow water equivalent, land cover, and evaporative demand;
+
+(B) makes usable, reliable, and timely forecasts of floods;
+
+(C) assesses the severity of flood conditions and effects;
+
+(D) provides information described in subparagraph (A), forecasts described in subparagraph (B), and assessments described in subparagraph (C) at the national, regional, and local levels, as appropriate; and
+
+(E) communicates flood forecasts, flood conditions, and flood impacts to appropriate entities engaged in flood planning, preparedness, and response and post-event flood extent, including—(i) decision makers at the Federal, State, local, and Tribal levels of government; and
+
+(ii) the public;
+
+
+
+(2) provide timely data, information, and products that reflect differences in flood conditions among localities, regions, watersheds, and States;
+
+(3) coordinate and integrate, through interagency agreements as practicable, Federal research and monitoring in support of the flood early warning information system provided under paragraph (1);
+
+(4) use existing forecasting and assessment programs and partnerships;
+
+(5) make improvements in seasonal precipitation and temperature, subseasonal precipitation and temperature, and flood water prediction; and
+
+(6) continue ongoing research and monitoring activities relating to floods, including research activities relating to—(A) the prediction, </akn:p></akn:content><akn:subsection eId="subsec_9702_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Administrator shall establish a system, to be known as the “National Integrated Flood Information System”, to better inform and provide for more timely decision making to reduce flood-related effects and costs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9702_b"><akn:num>(b)</akn:num><akn:heading>System functions</akn:heading><akn:content><akn:p>(b) System functions The Administrator, through the National Integrated Flood Information System, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9702_c"><akn:num>(c)</akn:num><akn:heading>Partnerships</akn:heading><akn:content><akn:p>(c) Partnerships The Administrator, through the National Integrated Flood Information System, may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9702_d"><akn:num>(d)</akn:num><akn:heading>Consultation</akn:heading><akn:content><akn:p>(d) Consultation In developing and maintaining the National Integrated Flood Information System, the Administrator shall consult with relevant Federal, State, local, and Tribal government agencies, research institutions, and the private sector.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9702_e"><akn:num>(e)</akn:num><akn:heading>Cooperation from other Federal agencies</akn:heading><akn:content><akn:p>(e) Cooperation from other Federal agencies Each Federal agency shall cooperate as appropriate with the Administrator in carrying out this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

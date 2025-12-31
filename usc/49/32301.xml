@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/32301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/32301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/32301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_32301"><akn:num>32301</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 32301. Definitions
+In this chapter—(1) “crash avoidance” means preventing or mitigating a crash;
+
+(2) “crashworthiness” means the protection a passenger motor vehicle gives its passengers against personal injury or death from a motor vehicle accident; and
+
+(3) “damage susceptibility” means the susceptibility of a passenger motor vehicle to damage in a motor vehicle accident.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1035; Pub. L. 112–141, div. C, title I, § 31305(a), July 6, 2012, 126 Stat. 765.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3230115:1901(13), (14).Oct. 20, 1972, Pub. L. 92–513, § 2(13), (14), 86 Stat. 948; Dec. 22, 1975, Pub. L. 94–163, § 301, 89 Stat. 901; Oct. 10, 1980, Pub. L. 96–425, § 8(a)(2), 94 Stat. 1828; Oct. 25, 1984, Pub. L. 98–547, § 101(b), 98 Stat. 2767.
+
+
+
+Editorial Notes
+Amendments2012—Pub. L. 112–141 added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (2), substituted “; and” for period at end.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2012 AmendmentAmendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.</akn:p></akn:content><akn:subsection eId="subsec_32301_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “crash avoidance” means preventing or mitigating a crash;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32301_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “crashworthiness” means the protection a passenger motor vehicle gives its passengers against personal injury or death from a motor vehicle accident; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32301_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “damage susceptibility” means the susceptibility of a passenger motor vehicle to damage in a motor vehicle accident.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

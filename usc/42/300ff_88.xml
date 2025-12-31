@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300ff–88" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300ff–88/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300ff–88/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300ff_88"><akn:num>300ff–88</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 300ff–88. Definitions
+For purposes of this subchapter:(1) AIDSThe term “AIDS” means acquired immune deficiency syndrome.
+
+
+(2) Co-occurring conditionsThe term “co-occurring conditions” means one or more adverse health conditions in an individual with HIV/AIDS, without regard to whether the individual has AIDS and without regard to whether the conditions arise from HIV.
+
+
+(3) CounselingThe term “counseling” means such counseling provided by an individual trained to provide such counseling.
+
+
+(4) Family-centered careThe term “family-centered care” means the system of services described in this subchapter that is targeted specifically to the special needs of infants, children, women and families. Family-centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
+
+
+(5) Families with HIV/AIDSThe term “families with HIV/AIDS” means families in which one or more members have HIV/AIDS.
+
+
+(6) HIVThe term “HIV” means infection with the human immunodeficiency virus.
+
+
+(7) HIV/AIDS(A) In generalThe term “HIV/AIDS” means HIV, and includes AIDS and any condition arising from AIDS.
+
+
+(B) Counting of casesThe term “living cases of HIV/AIDS”, with respect to the counting of cases in a geographic area during a period of time, means the sum of—(i) the number of living non-AIDS cases of HIV in the area; and
+
+(ii) the number of living cases of AIDS in the area.
+
+
+(C) Non-AIDS casesThe term “non-AIDS”, with respect to a case of HIV, means that the individual involved has HIV but does not have AIDS.
+
+
+
+(8) Human immunodeficiency virusThe term “human immunodeficiency virus” means the etiologic agent for AIDS.
+
+
+(9) Official poverty lineThe term “official poverty line” means the poverty line established by the Director of the Office of Management and Budget and revised by the Secretary in accordance </akn:p></akn:content><akn:subsection eId="subsec_300ff_88_1"><akn:num>(1)</akn:num><akn:heading>AIDS</akn:heading><akn:content><akn:p>(1) AIDS The term “AIDS” means acquired immune deficiency syndrome.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_2"><akn:num>(2)</akn:num><akn:heading>Co-occurring conditions</akn:heading><akn:content><akn:p>(2) Co-occurring conditions The term “co-occurring conditions” means one or more adverse health conditions in an individual with HIV/AIDS, without regard to whether the individual has AIDS and without regard to whether the conditions arise from HIV.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_3"><akn:num>(3)</akn:num><akn:heading>Counseling</akn:heading><akn:content><akn:p>(3) Counseling The term “counseling” means such counseling provided by an individual trained to provide such counseling.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_4"><akn:num>(4)</akn:num><akn:heading>Family-centered care</akn:heading><akn:content><akn:p>(4) Family-centered care The term “family-centered care” means the system of services described in this subchapter that is targeted specifically to the special needs of infants, children, women and families. Family-centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_5"><akn:num>(5)</akn:num><akn:heading>Families with HIV/AIDS</akn:heading><akn:content><akn:p>(5) Families with HIV/AIDS The term “families with HIV/AIDS” means families in which one or more members have HIV/AIDS.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_6"><akn:num>(6)</akn:num><akn:heading>HIV</akn:heading><akn:content><akn:p>(6) HIV The term “HIV” means infection with the human immunodeficiency virus.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_7"><akn:num>(7)</akn:num><akn:heading>HIV/AIDS</akn:heading><akn:content><akn:p>(7) HIV/AIDS</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_8"><akn:num>(8)</akn:num><akn:heading>Human immunodeficiency virus</akn:heading><akn:content><akn:p>(8) Human immunodeficiency virus The term “human immunodeficiency virus” means the etiologic agent for AIDS.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_9"><akn:num>(9)</akn:num><akn:heading>Official poverty line</akn:heading><akn:content><akn:p>(9) Official poverty line The term “official poverty line” means the poverty line established by the Director of the Office of Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_88_10"><akn:num>(10)</akn:num><akn:heading>Person</akn:heading><akn:content><akn:p>(10) Person The term “person” includes one or more individuals, governments (including the Federal Government and the governments of the States), governmental agencies, political subdivisions, labor unions, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, receivers, trustees, and trustees in cases under title 11.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

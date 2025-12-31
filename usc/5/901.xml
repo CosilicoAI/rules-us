@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_901"><akn:num>901</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>§ 901. Purpose(a) The Congress declares that it is the policy of the United States—(1) to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;
+
+(2) to reduce expenditures and promote economy to the fullest extent consistent with the efficient operation of the Government;
+
+(3) to increase the efficiency of the operations of the Government to the fullest extent practicable;
+
+(4) to group, coordinate, and consolidate agencies and functions of the Government, as nearly as may be, according to major purposes;
+
+(5) to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions thereof as may not be necessary for the efficient conduct of the Government; and
+
+(6) to eliminate overlapping and duplication of effort.
+
+
+(b) Congress declares that the public interest demands the carrying out of the purposes of subsection (a) of this section and that the purposes may be accomplished in great measure by proceeding under this chapter, and can be accomplished more speedily thereby than by the enactment of specific legislation.
+
+(c) It is the intent of Congress that the President should provide appropriate means for broad citizen advice and participation in restructuring and reorganizing the executive branch.
+
+(d) The President shall from time to time examine the organization of all agencies and shall determine what changes in such organization are necessary to carry out any policy set forth in subsection (a) of this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 92–179, § 1, Dec. 10, 1971, 85 Stat. 574; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 29.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 133z.June 20, 1949, ch. 226, § 2, 63 Stat. 203.
+
+
+In subsection (a), the words “from time to </akn:p></akn:content><akn:subsection eId="subsec_901_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress declares that it is the policy of the United States—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_901_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Congress declares that the public interest demands the carrying out of the purposes of subsection (a) of this section and that the purposes may be accomplished in great measure by proceeding under this chapter, and can be accomplished more speedily thereby than by the enactment of specific legislation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_901_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) It is the intent of Congress that the President should provide appropriate means for broad citizen advice and participation in restructuring and reorganizing the executive branch.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_901_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The President shall from time to time examine the organization of all agencies and shall determine what changes in such organization are necessary to carry out any policy set forth in subsection (a) of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/39/3634" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/39/3634/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/39/3634/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3634"><akn:num>3634</akn:num><akn:heading>Assumed Federal income tax on competitive products income</akn:heading><akn:content><akn:p>§ 3634. Assumed Federal income tax on competitive products income(a) Definitions.—For purposes of this section—(1) the term “assumed Federal income tax on competitive products income” means the net income tax that would be imposed by chapter 1 of the Internal Revenue Code of 1986 on the Postal Service’s assumed taxable income from competitive products for the year; and
+
+(2) the term “assumed taxable income from competitive products”, with respect to a year, refers to the amount representing what would be the taxable income of a corporation under the Internal Revenue Code of 1986 for the year, if—(A) the only activities of such corporation were the activities of the Postal Service allocable under section 2011(h) to competitive products; and
+
+(B) the only assets held by such corporation were the assets of the Postal Service allocable under section 2011(h) to such activities.
+
+
+
+(b) Computation and Transfer Requirements.—The Postal Service shall, for each year beginning with the year in which occurs the deadline for the Postal Service’s first report to the Postal Regulatory Commission under section 3652(a)—(1) compute its assumed Federal income tax on competitive products income for such year; and
+
+(2) transfer from the Competitive Products Fund to the Postal Service Fund the amount of that assumed tax.
+
+
+(c) Deadline for Transfers.—Any transfer required to be made under this section for a year shall be due on or before the January 15th next occurring after the close of such year.
+
+(Added Pub. L. 109–435, title IV, § 402, Dec. 20, 2006, 120 Stat. 3226.)
+
+Editorial Notes
+
+References in TextThe Internal Revenue Code of 1986, referred to in subsec. (a), is classified to Title 26, Internal Revenue Code.</akn:p></akn:content><akn:subsection eId="subsec_3634_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3634_b"><akn:num>(b)</akn:num><akn:heading>Computation and Transfer Requirements.—</akn:heading><akn:content><akn:p>(b) The Postal Service shall, for each year beginning with the year in which occurs the deadline for the Postal Service’s first report to the Postal Regulatory Commission under section 3652(a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3634_c"><akn:num>(c)</akn:num><akn:heading>Deadline for Transfers.—</akn:heading><akn:content><akn:p>(c) Any transfer required to be made under this section for a year shall be due on or before the January 15th next occurring after the close of such year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

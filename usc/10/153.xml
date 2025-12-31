@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/153" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/153/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/153/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_153"><akn:num>153</akn:num><akn:heading>Chairman: functions</akn:heading><akn:content><akn:p>§ 153. Chairman: functions(a) Planning; Advice; Policy Formulation.—Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:(1) Strategic direction.—Assisting the President and the Secretary in providing for the strategic direction of the armed forces.
+
+(2) Strategic and contingency planning.—In matters relating to strategic and contingency planning—(A) developing strategic frameworks and preparing strategic plans, as required, to guide the use and employment of military force and related activities across all geographic regions and military functions and domains, and to sustain military efforts over different durations of time, as necessary;
+
+(B) advising the Secretary on the production of the national defense strategy required by section 113(g) of this title and the national security strategy required by section 108 of the National Security Act of 1947 (50 U.S.C. 3043);
+
+(C) preparing military analysis, options, and plans, as the Chairman considers appropriate, to recommend to the President and the Secretary;
+
+(D) providing for the preparation and review of contingency plans which conform to policy guidance from the President and the Secretary; and
+
+(E) preparing joint logistic and mobility plans to support national defense strategies and recommending the assignment of responsibilities to the armed forces in accordance with such plans.
+
+
+(3) Global military integration.—In matters relating to global military strategic and operational integration—(A) providing advice to the President and the Secretary on ongoing military operations; and
+
+(B) advising the Secretary on the allocation and transfer of forces among geographic and functional combatant commands, as necessary, to address transregional, multi-domain, and multifunctional threats.
+
+
+(4) Comprehensive joint readiness.—In matters relating to comprehensive joint readiness—(A) evaluating the ov</akn:p></akn:content><akn:subsection eId="subsec_153_a"><akn:num>(a)</akn:num><akn:heading>Planning; Advice; Policy Formulation.—</akn:heading><akn:content><akn:p>(a) Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_153_b"><akn:num>(b)</akn:num><akn:heading>National Military Strategy.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_153_c"><akn:num>(c)</akn:num><akn:heading>Annual Report on Combatant Command Requirements.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_153_d"><akn:num>(d)</akn:num><akn:heading>Briefing Requirement.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

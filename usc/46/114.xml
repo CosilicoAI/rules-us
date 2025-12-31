@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/114" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/114/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/114/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_114"><akn:num>114</akn:num><akn:heading>United States</akn:heading><akn:content><akn:p>§ 114. United States
+In this title, the term “United States”, when used in a geographic sense, means the States of the United States, the District of Columbia, Guam, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and any other territory or possession of the United States.
+(Pub. L. 109–304, § 4, Oct. 6, 2006, 120 Stat. 1487.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+11446:2101(44).
+ 46 App.:1244(g).June 29, 1936, ch. 858, title IX, § 905(g), 49 Stat. 2016; as added Pub. L. 96–453, § 3(b), Oct. 15, 1980, 94 Stat. 2008.
+
+
+The language in 46 App. U.S.C. 1244(g) relating to the areas and installations in the Republic of Panama is omitted because those areas and installations were turned over to Panama by the end of 1999.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

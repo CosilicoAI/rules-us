@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/2418" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/2418/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/2418/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2418"><akn:num>2418</akn:num><akn:heading>Request for information</akn:heading><akn:content><akn:p>§ 2418. Request for information(a) In generalUpon receipt of written request therefor from any person, the Trade Representative shall make available to that person information (other than that to which confidentiality applies) concerning—(1) the nature and extent of a specific trade policy or practice of a foreign country with respect to particular goods, services, investment, or intellectual property rights, to the extent that such information is available to the Trade Representative or other Federal agencies;
+
+(2) United States rights under any trade agreement and the remedies which may be available under that agreement and under the laws of the United States; and
+
+(3) past and present domestic and international proceedings or actions with respect to the policy or practice concerned.
+
+
+(b) If information not availableIf information that is requested by a person under subsection (a) is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—(1) request the information from the foreign government; or
+
+(2) decline to request the information and inform the person in writing of the reasons for refusal.
+
+
+(c) Certain business information not made available(1) Except as provided in paragraph (2), and notwithstanding any other provision of law (including section 552 of title 5), no information requested and received by the Trade Representative in aid of any investigation under this subchapter shall be made available to any person if—(A) the person providing such information certifies that—(i) such information is business confidential,
+
+(ii) the disclosure of such information would endanger trade secrets or profitability, and
+
+(iii) such information is not generally available;
+
+
+(B) the Trade Representative determines that such certification is well-founded; and
+
+(C) to the extent required in regulations prescribed by the Trade Representative, the person providing such information prov</akn:p></akn:content><akn:subsection eId="subsec_2418_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Upon receipt of written request therefor from any person, the Trade Representative shall make available to that person information (other than that to which confidentiality applies) concerning—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2418_b"><akn:num>(b)</akn:num><akn:heading>If information not available</akn:heading><akn:content><akn:p>(b) If information not available If information that is requested by a person under subsection (a) is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2418_c"><akn:num>(c)</akn:num><akn:heading>Certain business information not made available</akn:heading><akn:content><akn:p>(c) Certain business information not made available</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

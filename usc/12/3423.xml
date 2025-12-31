@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/3423" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/3423/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/3423/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3423"><akn:num>3423</akn:num><akn:heading>Immunity from suit for disclosure of financial exploitation of senior citizens</akn:heading><akn:content><akn:p>§ 3423. Immunity from suit for disclosure of financial exploitation of senior citizens(a) Immunity(1) DefinitionsIn this section—(A) the term “Bank Secrecy Act officer” means an individual responsible for ensuring compliance with the requirements mandated by subchapter II of chapter 53 of title 31 (commonly known as the “Bank Secrecy Act”);
+
+(B) the term “broker-dealer” means a broker and a dealer, as those terms are defined in section 78c(a) of title 15;
+
+(C) the term “covered agency” means—(i) a State financial regulatory agency, including a State securities or law enforcement authority and a State insurance regulator;
+
+(ii) each of the Federal agencies represented in the membership of the Financial Institutions Examination Council established under section 3303 of this title;
+
+(iii) a securities association registered under section 78o–3 of title 15;
+
+(iv) the Securities and Exchange Commission;
+
+(v) a law enforcement agency; or
+
+(vi) a State or local agency responsible for administering adult protective service laws;
+
+
+(D) the term “covered financial institution” means—(i) a credit union;
+
+(ii) a depository institution;
+
+(iii) an investment adviser;
+
+(iv) a broker-dealer;
+
+(v) an insurance company;
+
+(vi) an insurance agency; or
+
+(vii) a transfer agent;
+
+
+(E) the term “credit union” has the meaning given the term in section 5301 of this title;
+
+(F) the term “depository institution” has the meaning given the term in section 1813(c) of this title;
+
+(G) the term “exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or a fiduciary, that—(i) uses the resources of a senior citizen for monetary or personal benefit, profit, or gain; or
+
+(ii) results in depriving a senior citizen of rightful access to or use of benefits, resources, belongings, or assets;
+
+
+(H) the term “insurance agency” means any business entity that sells, solicits, or negotiates insurance coverage;
+
+(I) the term “insur</akn:p></akn:content><akn:subsection eId="subsec_3423_a"><akn:num>(a)</akn:num><akn:heading>Immunity</akn:heading><akn:content><akn:p>(a) Immunity</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3423_b"><akn:num>(b)</akn:num><akn:heading>Training</akn:heading><akn:content><akn:p>(b) Training</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3423_c"><akn:num>(c)</akn:num><akn:heading>Relationship to State law</akn:heading><akn:content><akn:p>(c) Relationship to State law Nothing in this section shall be construed to preempt or limit any provision of State law, except only to the extent that subsection (a) provides a greater level of protection against liability to an individual described in subsection (a)(2)(A) or to a covered financial institution described in subsection (a)(2)(B) than is provided under State law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

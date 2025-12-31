@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/171" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/171/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/171/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_171"><akn:num>171</akn:num><akn:heading>Wildlife crossings pilot program</akn:heading><akn:content><akn:p>§ 171. Wildlife crossings pilot program(a) Finding.—Congress finds that greater adoption of wildlife-vehicle collision safety countermeasures is in the public interest because—(1) according to the report of the Federal Highway Administration entitled “Wildlife-Vehicle Collision Reduction Study”, there are more than 1,000,000 wildlife-vehicle collisions every year;
+
+(2) wildlife-vehicle collisions—(A) present a danger to—(i) human safety; and
+
+(ii) wildlife survival; and
+
+
+(B) represent a persistent concern that results in tens of thousands of serious injuries and hundreds of fatalities on the roadways of the United States; and
+
+
+(3) the total annual cost associated with wildlife-vehicle collisions has been estimated to be $8,388,000,000; and
+
+(4) wildlife-vehicle collisions are a major threat to the survival of species, including birds, reptiles, mammals, and amphibians.
+
+
+(b) Establishment.—The Secretary shall establish a competitive wildlife crossings pilot program (referred to in this section as the “pilot program”) to provide grants for projects that seek to achieve—(1) a reduction in the number of wildlife-vehicle collisions; and
+
+(2) in carrying out the purpose described in paragraph (1), improved habitat connectivity for terrestrial and aquatic species.
+
+
+(c) Eligible Entities.—An entity eligible to apply for a grant under the pilot program is—(1) a State highway agency, or an equivalent of that agency;
+
+(2) a metropolitan planning organization (as defined in section 134(b));
+
+(3) a unit of local government;
+
+(4) a regional transportation authority;
+
+(5) a special purpose district or public authority with a transportation function, including a port authority;
+
+(6) an Indian tribe (as defined in section 207(m)(1)), including a Native village and a Native Corporation (as those terms are defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602));
+
+(7) a Federal land management agency; or
+
+(8) a group of any of the entities described in par</akn:p></akn:content><akn:subsection eId="subsec_171_a"><akn:num>(a)</akn:num><akn:heading>Finding.—</akn:heading><akn:content><akn:p>(a) Congress finds that greater adoption of wildlife-vehicle collision safety countermeasures is in the public interest because—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_b"><akn:num>(b)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(b) The Secretary shall establish a competitive wildlife crossings pilot program (referred to in this section as the “pilot program”) to provide grants for projects that seek to achieve—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_c"><akn:num>(c)</akn:num><akn:heading>Eligible Entities.—</akn:heading><akn:content><akn:p>(c) An entity eligible to apply for a grant under the pilot program is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_d"><akn:num>(d)</akn:num><akn:heading>Applications.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_e"><akn:num>(e)</akn:num><akn:heading>Considerations.—</akn:heading><akn:content><akn:p>(e) In selecting grant recipients under the pilot program, the Secretary shall take into consideration the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_f"><akn:num>(f)</akn:num><akn:heading>Use of Funds.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_g"><akn:num>(g)</akn:num><akn:heading>Requirement.—</akn:heading><akn:content><akn:p>(g) The Secretary shall ensure that not less than 60 percent of the amounts made available for grants under the pilot program each fiscal year are for projects located in rural areas.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_h"><akn:num>(h)</akn:num><akn:heading>Annual Report to Congress.—</akn:heading><akn:content><akn:p>(h)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_i"><akn:num>(i)</akn:num><akn:heading>Treatment of Projects.—</akn:heading><akn:content><akn:p>(i) Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

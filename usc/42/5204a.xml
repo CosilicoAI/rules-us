@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5204a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5204a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5204a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5204a"><akn:num>5204a</akn:num><akn:heading>Authorization of appropriations for insular areas</akn:heading><akn:content><akn:p>§ 5204a. Authorization of appropriations for insular areas
+There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to—(1) reconstruct essential public facilities damaged by disasters in the insular areas that occurred prior to February 24, 1992; and
+
+(2) enhance the survivability of essential public facilities in the event of disasters in the insular areas,
+
+
+except that with respect to the disaster declared by the President in the case of Hurricane Hugo, September 1989, amounts for any fiscal year shall not exceed 25 percent of the estimated aggregate amount of grants to be made under sections 5170b and 5172 of this title for such disaster. Such sums shall remain available until expended.
+(Pub. L. 102–247, title II, § 202, Feb. 24, 1992, 106 Stat. 37.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Omnibus Insular Areas Act of 1992, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_5204a_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) reconstruct essential public facilities damaged by disasters in the insular areas that occurred prior to February 24, 1992; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5204a_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) enhance the survivability of essential public facilities in the event of disasters in the insular areas,</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

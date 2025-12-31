@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/826a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/826a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/826a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_826a"><akn:num>826a</akn:num><akn:heading>Attorney General report on drug shortages</akn:heading><akn:content><akn:p>§ 826a. Attorney General report on drug shortages
+Not later than 6 months after July 9, 2012, and annually thereafter, the Attorney General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on the Judiciary of the Senate a report on drug shortages that—(1) identifies the number of requests received under section 826(h) of this title (as added by section 1005 of this Act), the average review time for such requests, the number of requests granted and denied under such section, and, for each of the requests denied under such section, the basis for such denial;
+
+(2) describes the coordination between the Drug Enforcement Administration and Food and Drug Administration on efforts to prevent or alleviate drug shortages; and
+
+(3) identifies drugs containing a controlled substance subject to section 826 of this title when such a drug is determined by the Secretary to be in shortage.
+
+(Pub. L. 112–144, title X, § 1006, July 9, 2012, 126 Stat. 1105.)
+
+Editorial Notes
+
+References in TextSection 1005 of this Act, referred to in par. (1), means section 1005 of Pub. L. 112–144, which amended section 826 of this title.
+
+Codification
+Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+Statutory Notes and Related Subsidiaries
+
+Definition of “Secretary”
+The term “Secretary” as meaning the Secretary of Health and Human Services, see section 1001(b) of Pub. L. 112–144, set out as an Effect of Notification note under section 356c of this title.</akn:p></akn:content><akn:subsection eId="subsec_826a_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) identifies the number of requests received under section 826(h) of this title (as added by section 1005 of this Act), the average review time for such requests, the number of requests granted and denied under such section, and, for each of the requests denied under such section, the basis for such denial;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_826a_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) describes the coordination between the Drug Enforcement Administration and Food and Drug Administration on efforts to prevent or alleviate drug shortages; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_826a_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) identifies drugs containing a controlled substance subject to section 826 of this title when such a drug is determined by the Secretary to be in shortage.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

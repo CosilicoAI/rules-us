@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101936" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101936/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101936/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101936"><akn:num>101936</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>§ 101936. Regulations
+As soon as practicable after the effective date of this subchapter, the Secretary shall promulgate regulations appropriate for its implementation.
+(Added Pub. L. 114–289, title VII, § 701, Dec. 16, 2016, 130 Stat. 1493.)
+
+Editorial Notes
+
+References in TextThe effective date of this subchapter, referred to in text, probably means the date of enactment of Pub. L. 114–289, which enacted this subchapter and was approved Dec. 16, 2016.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

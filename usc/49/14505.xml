@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/14505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/14505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/14505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_14505"><akn:num>14505</akn:num><akn:heading>State tax</akn:heading><akn:content><akn:p>§ 14505. State tax
+A State or political subdivision thereof may not collect or levy a tax, fee, head charge, or other charge on—(1) a passenger traveling in interstate commerce by motor carrier;
+
+(2) the transportation of a passenger traveling in interstate commerce by motor carrier;
+
+(3) the sale of passenger transportation in interstate commerce by motor carrier; or
+
+(4) the gross receipts derived from such transportation.
+
+(Added Pub. L. 104–88, title I, § 103, Dec. 29, 1995, 109 Stat. 904.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.</akn:p></akn:content><akn:subsection eId="subsec_14505_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) a passenger traveling in interstate commerce by motor carrier;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14505_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the transportation of a passenger traveling in interstate commerce by motor carrier;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14505_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the sale of passenger transportation in interstate commerce by motor carrier; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14505_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the gross receipts derived from such transportation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

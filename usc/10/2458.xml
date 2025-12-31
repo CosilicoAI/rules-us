@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2458" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2458/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2458/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2458"><akn:num>2458</akn:num><akn:heading>Inventory management policies</akn:heading><akn:content><akn:p>§ 2458. Inventory management policies(a) Policy Required.—The Secretary of Defense shall issue a single, uniform policy on the management of inventory items of the Department of Defense. Such policy shall—(1) establish maximum levels for inventory items sufficient to achieve and maintain only those levels for inventory items necessary for the national defense;
+
+(2) provide guidance to item managers and other appropriate officials on how effectively to eliminate wasteful practices in the acquisition and management of inventory items; and
+
+(3) set forth a uniform system for the valuation of inventory items by the military departments and Defense Agencies.
+
+
+(b) Personnel Evaluations.—The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminate wasteful practices and achieve cost savings in the acquisition and management of inventory items.
+
+(Added Pub. L. 101–510, div. A, title III, § 323(a)(1), Nov. 5, 1990, 104 Stat. 1530; amended Pub. L. 102–190, div. A, title III, § 347(a), Dec. 5, 1991, 105 Stat. 1347.)
+
+Editorial Notes
+Amendments1991—Subsec. (a)(3). Pub. L. 102–190 added par. (3).
+
+Statutory Notes and Related Subsidiaries
+Implementation of 1991 AmendmentSecretary of Defense to establish uniform system of valuation described in subsec. (a)(3) of this section not later than 180 days after Dec. 5, 1991, see section 347(c) of Pub. L. 102–190, set out as a note under section 2721 of this title.
+
+Management of Conventional Ammunition InventoryPub. L. 113–291, div. A, title III, § 352(a), (b), Dec. 19, 2014, 128 Stat. 3347, provided that:
+“(a) Consolidation of Data.—Not later than 240 days after the date of the enactment of this Act [Dec. 19, 2014], the Under Secretary of Defense for Acquisition, </akn:p></akn:content><akn:subsection eId="subsec_2458_a"><akn:num>(a)</akn:num><akn:heading>Policy Required.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense shall issue a single, uniform policy on the management of inventory items of the Department of Defense. Such policy shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2458_b"><akn:num>(b)</akn:num><akn:heading>Personnel Evaluations.—</akn:heading><akn:content><akn:p>(b) The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminate wasteful practices and achieve cost savings in the acquisition and management of inventory items.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

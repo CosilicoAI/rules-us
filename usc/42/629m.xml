@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/629m" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/629m/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/629m/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_629m"><akn:num>629m</akn:num><akn:heading>Data exchange standards for improved interoperability</akn:heading><akn:content><akn:p>§ 629m. Data exchange standards for improved interoperability(a) DesignationThe Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, by rule, designate data exchange standards to govern, under this part and part E—(1) necessary categories of information that State agencies operating programs under State plans approved under this part are required under applicable Federal law to electronically exchange with another State agency; and
+
+(2) Federal reporting and data exchange required under applicable Federal law.
+
+
+(b) RequirementsThe data exchange standards required by paragraph (1) shall, to the extent practicable—(1) incorporate a widely accepted, non-proprietary, searchable, computer-readable format, such as the Extensible Markup Language;
+
+(2) contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
+
+(3) incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+
+(4) be consistent with and implement applicable accounting principles;
+
+(5) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+
+(6) be capable of being continually upgraded as necessary.
+
+
+(c) Rule of constructionNothing in this subsection 11 So in original. shall be construed to require a change to existing data exchange standards found to be effective and efficient.
+
+
+(Aug. 14, 1935, ch. 531, title IV, § 443, formerly § 440, as added Pub. L. 112–34, title I, § 105(a), Sept. 30, 2011, 125 Stat. 376; amended Pub. L. 115–123, div. E, title VII, § 50771(a), Feb. 9, 2018, 132 Stat. 267; renumbered § 443, Pub. L. 118–258, title I, § 106(f)(1), Jan. 4, 2025, 138 Stat. 2952.)
+
+Editorial Notes
+Prior ProvisionsA prior section 440 of act Aug. 14, 1935, was classified to section 640 of this tit</akn:p></akn:content><akn:subsection eId="subsec_629m_a"><akn:num>(a)</akn:num><akn:heading>Designation</akn:heading><akn:content><akn:p>(a) Designation The Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, by rule, designate data exchange standards to govern, under this part and part E—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_629m_b"><akn:num>(b)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(b) Requirements The data exchange standards required by paragraph (1) shall, to the extent practicable—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_629m_c"><akn:num>(c)</akn:num><akn:heading>Rule of construction</akn:heading><akn:content><akn:p>(c) Rule of construction Nothing in this subsection 11 So in original. shall be construed to require a change to existing data exchange standards found to be effective and efficient.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

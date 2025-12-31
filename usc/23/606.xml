@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/606" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/606/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/606/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_606"><akn:num>606</akn:num><akn:heading>State and local permits</akn:heading><akn:content><akn:p>§ 606. State and local permits
+The provision of credit assistance under the TIFIA program with respect to a project shall not—(1) relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;
+
+(2) limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or
+
+(3) otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.
+
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 249, § 186; renumbered § 606 and amended Pub. L. 109–59, title I, § 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, § 2001(e), Dec. 4, 2015, 129 Stat. 1444.)
+
+Editorial Notes
+Amendments2015—Pub. L. 114–94 substituted “the TIFIA program” for “this chapter” in introductory provisions.
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: “The provision of financial assistance under this chapter with respect to a project shall not—
+“(1) relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;
+“(2) limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or
+“(3) otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.”
+2005—Pub. L. 109–59, § 1602(d), renumbered section 186 of this title as this section.
+Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set </akn:p></akn:content><akn:subsection eId="subsec_606_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_606_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_606_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

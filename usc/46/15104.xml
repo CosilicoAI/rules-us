@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/15104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/15104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/15104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15104"><akn:num>15104</akn:num><akn:heading>National Merchant Mariner Medical Advisory Committee</akn:heading><akn:content><akn:p>§ 15104. National Merchant Mariner Medical Advisory Committee(a) Establishment.—There is established a National Merchant Mariner Medical Advisory Committee (in this section referred to as the “Committee”).
+
+(b) Function.—The Committee shall advise the Secretary on matters relating to—(1) medical certification determinations for the issuance of licenses, certification of registry, and merchant mariners’ documents with respect to merchant mariners;
+
+(2) medical standards and guidelines for the physical qualifications of operators of commercial vessels;
+
+(3) medical examiner education; and
+
+(4) medical research.
+
+
+(c) Membership.—(1) In general.—The Committee shall consist of 14 members appointed by the Secretary in accordance with this section and section 15109 of this chapter.
+
+(2) Expertise.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+(3) Representation.—Members of the Committee shall be appointed as follows:(A) 9 shall represent health-care professionals and have particular expertise, knowledge, and experience regarding the medical examinations of merchant mariners or occupational medicine.
+
+(B) 5 shall represent professional mariners and have particular expertise, knowledge, and experience in occupational requirements for mariners.
+
+
+
+(Added Pub. L. 115–282, title VI, § 601(a), Dec. 4, 2018, 132 Stat. 4283.)</akn:p></akn:content><akn:subsection eId="subsec_15104_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is established a National Merchant Mariner Medical Advisory Committee (in this section referred to as the “Committee”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15104_b"><akn:num>(b)</akn:num><akn:heading>Function.—</akn:heading><akn:content><akn:p>(b) The Committee shall advise the Secretary on matters relating to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15104_c"><akn:num>(c)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

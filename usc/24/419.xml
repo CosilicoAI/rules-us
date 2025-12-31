@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/24/419" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/24/419/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/24/419/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_419"><akn:num>419</akn:num><akn:heading>Armed Forces Retirement Home Trust Fund</akn:heading><akn:content><akn:p>§ 419. Armed Forces Retirement Home Trust Fund(a) EstablishmentThere is hereby established in the Treasury of the United States a trust fund to be known as the Armed Forces Retirement Home Trust Fund. The Fund shall consist of the following:(1) Such amounts as may be transferred to the Fund.
+
+(2) Moneys deposited in the Fund by the Chief Operating Officer realized from gifts or from the disposition of property and facilities.
+
+(3) Amounts deposited in the Fund as monthly fees paid by residents of the Retirement Home under section 414 of this title.
+
+(4) Amounts of fines and forfeitures deposited in the Fund under section 2772 of title 10.
+
+(5) Amounts deposited in the Fund as deductions from the pay of enlisted members, warrant officers, and limited duty officers under section 1007(i) of title 37.
+
+(6) Interest from investments made under subsection (c).
+
+
+(b) Availability and use of FundAmounts in the Fund shall be available solely for the operation of the Retirement Home.
+
+
+(c) InvestmentsThe Secretary of the Treasury may invest in obligations issued or guaranteed by the United States any monies in the Fund that the Chief Operating Officer determines are not currently needed to pay for the operation of the Retirement Home.
+
+
+(d) Reporting requirementsThe Chief Financial Officer of the Armed Forces Retirement Home shall comply with the reporting requirements of subchapter II of chapter 35 of title 31.
+
+
+(Pub. L. 101–510, div. A, title XV, § 1519, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(2), 1410(a)(2), (b)(2), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 110–181, div. A, title XIV, § 1422(g), Jan. 28, 2008, 122 Stat. 423; Pub. L. 112–81, div. A, title V, § 567(b)(1), Dec. 31, 2011, 125 Stat. 1425.)
+
+Editorial Notes
+Amendments2011—Subsec. (a)(2). Pub. L. 112–81 substituted “Chief Operating Officer” for “Retirement Home Board”.
+2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
+2001—Pub. L. 107–107, § 1410(a)(2), inserted “Armed </akn:p></akn:content><akn:subsection eId="subsec_419_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment There is hereby established in the Treasury of the United States a trust fund to be known as the Armed Forces Retirement Home Trust Fund. The Fund shall consist of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_419_b"><akn:num>(b)</akn:num><akn:heading>Availability and use of Fund</akn:heading><akn:content><akn:p>(b) Availability and use of Fund Amounts in the Fund shall be available solely for the operation of the Retirement Home.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_419_c"><akn:num>(c)</akn:num><akn:heading>Investments</akn:heading><akn:content><akn:p>(c) Investments The Secretary of the Treasury may invest in obligations issued or guaranteed by the United States any monies in the Fund that the Chief Operating Officer determines are not currently needed to pay for the operation of the Retirement Home.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_419_d"><akn:num>(d)</akn:num><akn:heading>Reporting requirements</akn:heading><akn:content><akn:p>(d) Reporting requirements The Chief Financial Officer of the Armed Forces Retirement Home shall comply with the reporting requirements of subchapter II of chapter 35 of title 31.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

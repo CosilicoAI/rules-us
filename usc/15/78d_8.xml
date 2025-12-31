@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/78d–8" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/78d–8/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/78d–8/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_78d_8"><akn:num>78d–8</akn:num><akn:heading>Annual financial controls audit</akn:heading><akn:content><akn:p>§ 78d–8. Annual financial controls audit(a) Reports of Commission(1) Annual reports requiredNot later than 6 months after the end of each fiscal year, the Commission shall publish and submit to Congress a report that—(A) describes the responsibility of the management of the Commission for establishing and maintaining an adequate internal control structure and procedures for financial reporting; and
+
+(B) contains an assessment of the effectiveness of the internal control structure and procedures for financial reporting of the Commission during that fiscal year.
+
+
+(2) AttestationThe reports required under paragraph (1) shall be attested to by the Chairman and chief financial officer of the Commission.
+
+
+
+(b) Report by Comptroller General(1) Report requiredNot later than 6 months after the end of the first fiscal year after July 21, 2010, the Comptroller General of the United States shall submit a report to Congress that assesses—(A) the effectiveness of the internal control structure and procedures of the Commission for financial reporting; and
+
+(B) the assessment of the Commission under subsection (a)(1)(B).
+
+
+(2) AttestationThe Comptroller General shall attest to, and report on, the assessment made by the Commission under subsection (a).
+
+
+
+(c) Reimbursements for cost of reports(1) Reimbursements requiredThe Commission shall reimburse the Government Accountability Office for the full cost of making the reports under subsection (b), as billed therefor by the Comptroller General.
+
+
+(2) Crediting and use of reimbursementsSuch reimbursements shall—(A) be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received; and
+
+(B) remain available until expended.
+
+
+
+(Pub. L. 111–203, title IX, § 963, July 21, 2010, 124 Stat. 1910.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and </akn:p></akn:content><akn:subsection eId="subsec_78d_8_a"><akn:num>(a)</akn:num><akn:heading>Reports of Commission</akn:heading><akn:content><akn:p>(a) Reports of Commission</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_78d_8_b"><akn:num>(b)</akn:num><akn:heading>Report by Comptroller General</akn:heading><akn:content><akn:p>(b) Report by Comptroller General</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_78d_8_c"><akn:num>(c)</akn:num><akn:heading>Reimbursements for cost of reports</akn:heading><akn:content><akn:p>(c) Reimbursements for cost of reports</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

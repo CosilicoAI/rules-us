@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/60502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/60502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/60502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60502"><akn:num>60502</akn:num><akn:heading>Transitioning experimental research into operational services</akn:heading><akn:content><akn:p>§ 60502. Transitioning experimental research into operational services(a) Interagency Process.—The Director of the Office of Science and Technology Policy, in consultation with the Administrator, the Administrator of the National Oceanic and Atmospheric Administration, and other relevant stakeholders, shall develop a process to transition, when appropriate, Administration Earth science and space weather missions or sensors into operational status. The process shall include coordination of annual agency budget requests as required to execute the transitions.
+
+(b) Responsible Agency Official.—The Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall each designate an agency official who shall have the responsibility for and authority to lead the Administration’s and the National Oceanic and Atmospheric Administration’s transition activities and interagency coordination.
+
+(c) Plan.—For each mission or sensor that is determined to be appropriate for transition under subsection (a), the Administration and the National Oceanic and Atmospheric Administration shall transmit to Congress a joint plan for conducting the transition. The plan shall include the strategy, milestones, and budget required to execute the transition. The transition plan shall be transmitted to Congress no later than 60 days after the successful completion of the mission or sensor critical design review.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3425.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+60502(a)42 U.S.C. 17712(b).Pub. L. 110–422, title II, § 204(b), (c), (d), Oct. 15, 2008, 122 Stat. 4785.
+60502(b)42 U.S.C. 17712(c).
+60502(c)42 U.S.C. 17712(d).</akn:p></akn:content><akn:subsection eId="subsec_60502_a"><akn:num>(a)</akn:num><akn:heading>Interagency Process.—</akn:heading><akn:content><akn:p>(a) The Director of the Office of Science and Technology Policy, in consultation with the Administrator, the Administrator of the National Oceanic and Atmospheric Administration, and other relevant stakeholders, shall develop a process to transition, when appropriate, Administration Earth science and space weather missions or sensors into operational status. The process shall include coordination of annual agency budget requests as required to execute the transitions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60502_b"><akn:num>(b)</akn:num><akn:heading>Responsible Agency Official.—</akn:heading><akn:content><akn:p>(b) The Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall each designate an agency official who shall have the responsibility for and authority to lead the Administration’s and the National Oceanic and Atmospheric Administration’s transition activities and interagency coordination.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60502_c"><akn:num>(c)</akn:num><akn:heading>Plan.—</akn:heading><akn:content><akn:p>(c) For each mission or sensor that is determined to be appropriate for transition under subsection (a), the Administration and the National Oceanic and Atmospheric Administration shall transmit to Congress a joint plan for conducting the transition. The plan shall include the strategy, milestones, and budget required to execute the transition. The transition plan shall be transmitted to Congress no later than 60 days after the successful completion of the mission or sensor critical design review.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

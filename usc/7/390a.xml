@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/390a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/390a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/390a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_390a"><akn:num>390a</akn:num><akn:heading>Review process</akn:heading><akn:content><akn:p>§ 390a. Review process(a) Submission to SecretaryEach proposal for an agricultural research facility shall be submitted to the Secretary for review. The Secretary shall review the proposals in the order in which the proposals are received.
+
+
+(b) Application processIn consultation with the congressional agriculture committees, the Secretary shall establish an application process for the submission of proposals for agricultural research facilities.
+
+
+(c) Criteria for approval(1) Determination by SecretaryWith respect to each proposal for an agricultural research facility submitted under subsection (a), the Secretary shall determine whether the proposal meets the criteria set forth in paragraph (2).
+
+
+(2) CriteriaA proposal for an agricultural research facility shall meet the following criteria:(A) Non-Federal shareThe proposal shall certify the availability of at least a 50 percent non-Federal share of the cost of the facility. The non-Federal share shall be paid in cash and may include funding from private sources or from units of State or local government.
+
+
+(B) Nonduplication of facilitiesThe proposal shall demonstrate how the agricultural research facility would be complementary to, and not duplicative of, facilities of colleges, universities, and nonprofit institutions, and facilities of the Agricultural Research Service, within the State and region.
+
+
+(C) National research prioritiesThe proposal shall demonstrate how the agricultural research facility would serve—(i) 1 or more of the national research policies and priorities set forth in section 3101 of this title; and
+
+(ii) national or multistate needs.
+
+
+(D) Long-term supportThe proposal shall demonstrate that the recipient entity has the ability and commitment to support the long-term, ongoing operating and maintenance costs of—(i) the agricultural research facility after the facility is completed; and
+
+(ii) each program to be based at the facility.
+
+
+
+
+(d) Evaluation of proposalsNot later than 90 days after </akn:p></akn:content><akn:subsection eId="subsec_390a_a"><akn:num>(a)</akn:num><akn:heading>Submission to Secretary</akn:heading><akn:content><akn:p>(a) Submission to Secretary Each proposal for an agricultural research facility shall be submitted to the Secretary for review. The Secretary shall review the proposals in the order in which the proposals are received.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_390a_b"><akn:num>(b)</akn:num><akn:heading>Application process</akn:heading><akn:content><akn:p>(b) Application process In consultation with the congressional agriculture committees, the Secretary shall establish an application process for the submission of proposals for agricultural research facilities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_390a_c"><akn:num>(c)</akn:num><akn:heading>Criteria for approval</akn:heading><akn:content><akn:p>(c) Criteria for approval</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_390a_d"><akn:num>(d)</akn:num><akn:heading>Evaluation of proposals</akn:heading><akn:content><akn:p>(d) Evaluation of proposals Not later than 90 days after receiving a proposal under subsection (a), the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_390a_e"><akn:num>(e)</akn:num><akn:heading>National or multistate needs served by ARS facilities</akn:heading><akn:content><akn:p>(e) National or multistate needs served by ARS facilities The Secretary shall ensure that each research activity conducted by a facility of the Agricultural Research Service serves a national or multistate need.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/48/1752" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/48/1752/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/48/1752/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1752"><akn:num>1752</akn:num><akn:heading>Election of Delegate</akn:heading><akn:content><akn:p>§ 1752. Election of Delegate(a) Electors and time of electionThe Delegate shall be elected—(1) by the people qualified to vote for the popularly elected officials of the Commonwealth of the Northern Mariana Islands; and
+
+(2) at the Federal general election of 2008 and at such Federal general election every 2d year thereafter.
+
+
+(b) Manner of election(1) In generalThe Delegate shall be elected at large and by a plurality of the votes cast for the office of Delegate.
+
+
+(2) Effect of establishment of primary electionsNotwithstanding paragraph (1), if the Government of the Commonwealth of the Northern Mariana Islands, acting pursuant to legislation enacted in accordance with the Constitution of the Commonwealth of the Northern Mariana Islands, provides for primary elections for the election of the Delegate, the Delegate shall be elected by a majority of the votes cast in any general election for the office of Delegate for which such primary elections were held.
+
+
+
+(c) VacancyIn case of a permanent vacancy in the office of Delegate, the office of Delegate shall remain vacant until a successor is elected and qualified.
+
+
+(d) Commencement of termThe term of the Delegate shall commence on the 3d day of January following the date of the election.
+
+
+(Pub. L. 110–229, title VII, § 712, May 8, 2008, 122 Stat. 868.)</akn:p></akn:content><akn:subsection eId="subsec_1752_a"><akn:num>(a)</akn:num><akn:heading>Electors and time of election</akn:heading><akn:content><akn:p>(a) Electors and time of election The Delegate shall be elected—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1752_b"><akn:num>(b)</akn:num><akn:heading>Manner of election</akn:heading><akn:content><akn:p>(b) Manner of election</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1752_c"><akn:num>(c)</akn:num><akn:heading>Vacancy</akn:heading><akn:content><akn:p>(c) Vacancy In case of a permanent vacancy in the office of Delegate, the office of Delegate shall remain vacant until a successor is elected and qualified.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1752_d"><akn:num>(d)</akn:num><akn:heading>Commencement of term</akn:heading><akn:content><akn:p>(d) Commencement of term The term of the Delegate shall commence on the 3d day of January following the date of the election.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

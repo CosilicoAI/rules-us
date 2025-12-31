@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2296a–2" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2296a–2/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2296a–2/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2296a_2"><akn:num>2296a–2</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 2296a–2. Authorization of appropriations(a) In generalThere is authorized to be appropriated $715,000,000 to carry out this part. The aggregate amount authorized in the preceding sentence shall be increased annually as provided in section 2296a of this title, based upon an inflation index to be determined by the Secretary.
+
+
+(b) SourceFunds described in subsection (a) shall be provided from the Fund established under section 2297g of this title.
+
+
+(Pub. L. 102–486, title X, § 1003, Oct. 24, 1992, 106 Stat. 2947; Pub. L. 104–259, § 3(b), Oct. 9, 1996, 110 Stat. 3174; Pub. L. 105–388, § 11(b), Nov. 13, 1998, 112 Stat. 3485; Pub. L. 107–222, § 1(b), Aug. 21, 2002, 116 Stat. 1336.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+Amendments2002—Subsec. (a). Pub. L. 107–222 substituted “$715,000,000” for “$490,000,000”.
+1998—Subsec. (a). Pub. L. 105–388 substituted “$490,000,000” for “$415,000,000”.
+1996—Subsec. (a). Pub. L. 104–259 substituted “$415,000,000” for “$310,000,000”.</akn:p></akn:content><akn:subsection eId="subsec_2296a_2_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general There is authorized to be appropriated $715,000,000 to carry out this part. The aggregate amount authorized in the preceding sentence shall be increased annually as provided in section 2296a of this title, based upon an inflation index to be determined by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2296a_2_b"><akn:num>(b)</akn:num><akn:heading>Source</akn:heading><akn:content><akn:p>(b) Source Funds described in subsection (a) shall be provided from the Fund established under section 2297g of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

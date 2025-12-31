@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/944" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/944/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/944/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_944"><akn:num>944</akn:num><akn:heading>Effect of confirmation</akn:heading><akn:content><akn:p>§ 944. Effect of confirmation(a) The provisions of a confirmed plan bind the debtor and any creditor, whether or not—(1) a proof of such creditor’s claim is filed or deemed filed under section 501 of this title;
+
+(2) such claim is allowed under section 502 of this title; or
+
+(3) such creditor has accepted the plan.
+
+
+(b) Except as provided in subsection (c) of this section, the debtor is discharged from all debts as of the time when—(1) the plan is confirmed;
+
+(2) the debtor deposits any consideration to be distributed under the plan with a disbursing agent appointed by the court; and
+
+(3) the court has determined—(A) that any security so deposited will constitute, after distribution, a valid legal obligation of the debtor; and
+
+(B) that any provision made to pay or secure payment of such obligation is valid.
+
+
+
+(c) The debtor is not discharged under subsection (b) of this section from any debt—(1) excepted from discharge by the plan or order confirming the plan; or
+
+(2) owed to an entity that, before confirmation of the plan, had neither notice nor actual knowledge of the case.
+
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2624.)
+
+Historical and Revision Notes
+senate report no. 95–989[Section 947] Subsection (a) [enacted as section 944(a)] makes the provisions of a confirmed plan binding on the debtor and creditors. It is derived from section 95(a) of chapter 9 [section 415(a) of former title 11].
+Subsections (b) and (c) [enacted as section 944(b) and (c)] provide for the discharge of a municipality. The discharge is essentially the same as that granted under section 95(b) of the Bankruptcy Act [section 415(b) of former title 11].</akn:p></akn:content><akn:subsection eId="subsec_944_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The provisions of a confirmed plan bind the debtor and any creditor, whether or not—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_944_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as provided in subsection (c) of this section, the debtor is discharged from all debts as of the time when—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_944_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The debtor is not discharged under subsection (b) of this section from any debt—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

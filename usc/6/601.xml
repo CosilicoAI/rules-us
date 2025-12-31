@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/601" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/601/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/601/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_601"><akn:num>601</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 601. Definitions
+In this subchapter, the following definitions shall apply:(1) AdministratorThe term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+
+(2) Appropriate committees of CongressThe term “appropriate committees of Congress” means—(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(B) those committees of the House of Representatives that the Speaker of the House of Representatives determines appropriate.
+
+
+(3) Critical infrastructure sectorsThe term “critical infrastructure sectors” means the following sectors, in both urban and rural areas:(A) Agriculture and food.
+
+(B) Banking and finance.
+
+(C) Chemical industries.
+
+(D) Commercial facilities.
+
+(E) Commercial nuclear reactors, materials, and waste.
+
+(F) Dams.
+
+(G) The defense industrial base.
+
+(H) Emergency services.
+
+(I) Energy.
+
+(J) Government facilities.
+
+(K) Information technology.
+
+(L) National monuments and icons.
+
+(M) Postal and shipping.
+
+(N) Public health and health care.
+
+(O) Telecommunications.
+
+(P) Transportation systems.
+
+(Q) Water.
+
+
+(4) Directly eligible tribeThe term “directly eligible tribe” means—(A) any Indian tribe—(i) that is located in the continental United States;
+
+(ii) that operates a law enforcement or emergency response agency with the capacity to respond to calls for law enforcement or emergency services;
+
+(iii)(I) that is located on or near an international border or a coastline bordering an ocean (including the Gulf of Mexico) or international waters;
+
+(II) that is located within 10 miles of a system or asset included on the prioritized critical infrastructure list established under section 664(a)(2) of this title or has such a system or asset within its territory;
+
+(III) that is located within or contiguous to 1 of the 50 most populous metropolitan statistical areas in the United States; or
+
+(IV) the jurisdiction of which includes not less than 1,000 square miles of Indian country, as that term is defined</akn:p></akn:content><akn:subsection eId="subsec_601_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the Federal Emergency Management Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_2"><akn:num>(2)</akn:num><akn:heading>Appropriate committees of Congress</akn:heading><akn:content><akn:p>(2) Appropriate committees of Congress The term “appropriate committees of Congress” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_3"><akn:num>(3)</akn:num><akn:heading>Critical infrastructure sectors</akn:heading><akn:content><akn:p>(3) Critical infrastructure sectors The term “critical infrastructure sectors” means the following sectors, in both urban and rural areas:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_4"><akn:num>(4)</akn:num><akn:heading>Directly eligible tribe</akn:heading><akn:content><akn:p>(4) Directly eligible tribe The term “directly eligible tribe” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_5"><akn:num>(5)</akn:num><akn:heading>Eligible metropolitan area</akn:heading><akn:content><akn:p>(5) Eligible metropolitan area The term “eligible metropolitan area” means any of the 100 most populous metropolitan statistical areas in the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_6"><akn:num>(6)</akn:num><akn:heading>High-risk urban area</akn:heading><akn:content><akn:p>(6) High-risk urban area The term “high-risk urban area” means a high-risk urban area designated under section 604(b)(3)(A) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_7"><akn:num>(7)</akn:num><akn:heading>Indian tribe</akn:heading><akn:content><akn:p>(7) Indian tribe The term “Indian tribe” has the meaning given that term in section 5304(e) of title 25.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_8"><akn:num>(8)</akn:num><akn:heading>Metropolitan statistical area</akn:heading><akn:content><akn:p>(8) Metropolitan statistical area The term “metropolitan statistical area” means a metropolitan statistical area, as defined by the Office of Management and Budget.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_9"><akn:num>(9)</akn:num><akn:heading>National Special Security Event</akn:heading><akn:content><akn:p>(9) National Special Security Event The term “National Special Security Event” means a designated event that, by virtue of its political, economic, social, or religious significance, may be the target of terrorism or other criminal activity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_601_10"><akn:num>(10)</akn:num><akn:heading>Population</akn:heading><akn:content><akn:p>(10) Population The term “population” means population according to the most recent United States census population estimates available at the start of the relevant fiscal year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

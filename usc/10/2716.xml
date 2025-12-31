@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2716" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2716/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2716/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2716"><akn:num>2716</akn:num><akn:heading>Budget justification document for funding relating to perfluoroalkyl substances and polyfluoroalkyl </akn:heading><akn:content><akn:p>§ 2716. Budget justification document for funding relating to perfluoroalkyl substances and polyfluoroalkyl substances
+The Secretary of Defense shall submit to Congress, concurrent with the submission to Congress of the budget of the President for each fiscal year pursuant to section 1105(a) of title 31, a separate budget justification document that consolidates all information pertaining to activities of the Department of Defense relating to perfluoroalkyl substances or polyfluoroalkyl substances, including funding for and descriptions of—(1) research and development efforts;
+
+(2) testing;
+
+(3) remediation;
+
+(4) contaminant disposal; and
+
+(5) community outreach.
+
+(Added Pub. L. 118–31, div. A, title III, § 332, Dec. 22, 2023, 137 Stat. 222.)</akn:p></akn:content><akn:subsection eId="subsec_2716_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) research and development efforts;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2716_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) testing;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2716_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) remediation;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2716_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) contaminant disposal; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2716_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) community outreach.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10306" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10306/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10306/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10306"><akn:num>10306</akn:num><akn:heading>Administrative costs</akn:heading><akn:content><akn:p>§ 10306. Administrative costs
+From the sums appropriated pursuant to this chapter, not more than 7.5 per centum shall be utilized for administrative costs.
+(Pub. L. 98–242, title I, § 107, Mar. 22, 1984, 98 Stat. 101; Pub. L. 109–471, § 2(f), Jan. 11, 2007, 120 Stat. 3553.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 10301 of this title and Tables.
+
+Amendments2007—Pub. L. 109–471 substituted “7.5” for “15”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

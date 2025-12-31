@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3099" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3099/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3099/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3099"><akn:num>3099</akn:num><akn:heading>Vulnerability assessments of major systems</akn:heading><akn:content><akn:p>§ 3099. Vulnerability assessments of major systems(a) Initial vulnerability assessments(1)(A) Except as provided in subparagraph (B), the Director of National Intelligence shall conduct and submit to the congressional intelligence committees an initial vulnerability assessment for each major system and its significant items of supply—(i) except as provided in clause (ii), prior to the completion of Milestone B or an equivalent acquisition decision for the major system; or
+
+(ii) prior to the date that is 1 year after October 7, 2010, in the case of a major system for which Milestone B or an equivalent acquisition decision—(I) was completed prior to such date; or
+
+(II) is completed on a date during the 180-day period following such date.
+
+
+
+(B) The Director may submit to the congressional intelligence committees an initial vulnerability assessment required by clause (ii) of subparagraph (A) not later than 180 days after the date such assessment is required to be submitted under such clause if the Director notifies the congressional intelligence committees of the extension of the submission date under this subparagraph and provides a justification for such extension.
+
+(C) The initial vulnerability assessment of a major system and its significant items of supply shall include use of an analysis-based approach to—(i) identify vulnerabilities;
+
+(ii) define exploitation potential;
+
+(iii) examine the system’s potential effectiveness;
+
+(iv) determine overall vulnerability; and
+
+(v) make recommendations for risk reduction.
+
+
+
+(2) If an initial vulnerability assessment for a major system is not submitted to the congressional intelligence committees as required by paragraph (1), funds appropriated for the acquisition of the major system may not be obligated for a major contract related to the major system. Such prohibition on the obligation of funds for the acquisition of the major system shall cease to apply on the date on which the congressional intelligence committees receiv</akn:p></akn:content><akn:subsection eId="subsec_3099_a"><akn:num>(a)</akn:num><akn:heading>Initial vulnerability assessments</akn:heading><akn:content><akn:p>(a) Initial vulnerability assessments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3099_b"><akn:num>(b)</akn:num><akn:heading>Subsequent vulnerability assessments</akn:heading><akn:content><akn:p>(b) Subsequent vulnerability assessments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3099_c"><akn:num>(c)</akn:num><akn:heading>Major system management</akn:heading><akn:content><akn:p>(c) Major system management The Director of National Intelligence shall give due consideration to the vulnerability assessments prepared for a given major system when developing and determining the National Intelligence Program budget.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3099_d"><akn:num>(d)</akn:num><akn:heading>Congressional oversight</akn:heading><akn:content><akn:p>(d) Congressional oversight</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3099_e"><akn:num>(e)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(e) Definitions In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

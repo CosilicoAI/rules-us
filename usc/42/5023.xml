@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5023" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5023/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5023/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5023"><akn:num>5023</akn:num><akn:heading>Minority population participation</akn:heading><akn:content><akn:p>§ 5023. Minority population participation
+The Director shall take appropriate steps to insure that special efforts are made to recruit, select, and assign qualified individuals age 55 years or older from minority populations to serve as volunteers under this subchapter.
+(Pub. L. 93–113, title II, § 223, Oct. 1, 1973, 87 Stat. 404; Pub. L. 111–13, title II, § 2146(b), Apr. 21, 2009, 123 Stat. 1589.)
+
+Editorial Notes
+Amendments2009—Pub. L. 111–13 substituted “population” for “group” in section catchline and “age 55 years or older from minority populations” for “sixty years and older from minority groups” in text.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2009 AmendmentAmendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

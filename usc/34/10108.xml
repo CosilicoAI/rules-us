@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/10108" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/10108/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/10108/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10108"><akn:num>10108</akn:num><akn:heading>Availability of funds</akn:heading><akn:content><akn:p>§ 10108. Availability of funds(a) Period for awarding grant funds(1) In generalUnless otherwise specifically provided in an authorization, DOJ grant funds for a fiscal year shall remain available to be awarded and distributed to a grantee only in that fiscal year and the three succeeding fiscal years, subject to paragraphs (2) and (3). DOJ grant funds not so awarded and distributed shall revert to the Treasury.
+
+
+(2) Treatment of reprogrammed fundsDOJ grant funds for a fiscal year that are reprogrammed in a later fiscal year shall be treated for purposes of paragraph (1) as DOJ grant funds for such later fiscal year.
+
+
+(3) Treatment of deobligated fundsIf DOJ grant funds were obligated and then deobligated, the period of availability that applies to those grant funds under paragraph (1) shall be extended by a number of days equal to the number of days from the date on which those grant funds were obligated to the date on which those grant funds were deobligated.
+
+
+
+(b) Period for expending grant fundsDOJ grant funds for a fiscal year that have been awarded and distributed to a grantee may be expended by that grantee only in the period permitted under the terms of the grant. DOJ grant funds not so expended shall be deobligated.
+
+
+(c) DefinitionIn this section, the term “DOJ grant funds” means, for a fiscal year, amounts appropriated for activities of the Department of Justice in carrying out grant programs for that fiscal year.
+
+
+(d) ApplicabilityThis section applies to DOJ grant funds for fiscal years beginning with fiscal year 2006.
+
+
+(Pub. L. 90–351, title I, § 108, as added Pub. L. 109–162, title XI, § 1161(a), Jan. 5, 2006, 119 Stat. 3118; amended Pub. L. 109–271, § 8(g), Aug. 12, 2006, 120 Stat. 767.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 3712g of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2006—Subsec. (b). Pub. L. 109–271 substituted “be deobligated</akn:p></akn:content><akn:subsection eId="subsec_10108_a"><akn:num>(a)</akn:num><akn:heading>Period for awarding grant funds</akn:heading><akn:content><akn:p>(a) Period for awarding grant funds</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10108_b"><akn:num>(b)</akn:num><akn:heading>Period for expending grant funds</akn:heading><akn:content><akn:p>(b) Period for expending grant funds DOJ grant funds for a fiscal year that have been awarded and distributed to a grantee may be expended by that grantee only in the period permitted under the terms of the grant. DOJ grant funds not so expended shall be deobligated.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10108_c"><akn:num>(c)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(c) Definition In this section, the term “DOJ grant funds” means, for a fiscal year, amounts appropriated for activities of the Department of Justice in carrying out grant programs for that fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10108_d"><akn:num>(d)</akn:num><akn:heading>Applicability</akn:heading><akn:content><akn:p>(d) Applicability This section applies to DOJ grant funds for fiscal years beginning with fiscal year 2006.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/262" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/262/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/262/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_262"><akn:num>262</akn:num><akn:heading>Powers</akn:heading><akn:content><akn:p>§ 262. Powers
+The Federal Advisory Council shall have power, by itself or through its officers, (1) to confer directly with the Board of Governors of the Federal Reserve System on general business conditions; (2) to make oral or written representations concerning matters within the jurisdiction of said board; (3) to call for information and to make recommendations in regard to discount rates, rediscount business, note issues, reserve conditions in the various districts, the purchase and sale of gold or securities by reserve banks, open-market operations by said banks, and the general affairs of the reserve banking system.
+(Dec. 23, 1913, ch. 6, § 12 (par.), 38 Stat. 263; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+
+Editorial Notes
+Codification
+Section is comprised of second par. of section 12 of act Dec. 23, 1913. First par. of section 12 is classified to section 261 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

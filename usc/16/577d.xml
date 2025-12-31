@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/577d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/577d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/577d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_577d"><akn:num>577d</akn:num><akn:heading>Boundary limits of additional lands acquired in northern Minnesota</akn:heading><akn:content><akn:p>§ 577d. Boundary limits of additional lands acquired in northern Minnesota
+The authority granted in section 577c of this title shall be supplemental to the authority granted by existing Acts relating to the acquisition of lands for national-forest purposes and shall not be deemed as repealing any portions of those Acts except as provided hereinafter; and said supplemental authority granted by section 577c of this title, but not the authority granted by existing Acts, shall be confined to the following described areas in Cook, Lake, and Saint Louis Counties, State of Minnesota:
+Township 63 north, range 2 west, fourth principal meridian, sections 5 to 8, inclusive.
+Township 63 north, range 3 west, fourth principal meridian, sections 1 to 12, inclusive.
+Township 63 north, ranges 4, 5, 6, 7 and 8 west, fourth principal meridian, entire townships.
+Township 63 north, range 9 west, fourth principal meridian, south half section 19 and sections 20 to 36, inclusive.
+Township 63 north, range 13 west, fourth principal meridian, section 6.
+Township 63 north, range 14 west, fourth principal meridian, sections 1 to 12, inclusive, and 14 to 22, inclusive.
+Township 63 north, range 15 west, fourth principal meridian, sections 1 to 24, inclusive.
+Township 63 north, range 16 west, fourth principal meridian, sections 1 to 3 inclusive, 10 to 15, inclusive, and 22 to 24, inclusive.
+Township 64 north, range 3 east, fourth principal meridian, south half section 7.
+Township 64 north, range 2 east, fourth principal meridian, sections 1 to 12, inclusive.
+Township 64 north, range 1 east, fourth principal meridian, sections 1 to 4, inclusive, south half section 7, sections 8 to 12, inclusive, 15 to 17, inclusive, and east half section 18.
+Township 64 north, range 1 west, fourth principal meridian, sections 17 to 20, inclusive, and 29 to 32, inclusive.
+Township 64 north, range 2 west, fourth principal meridian, sections 7 to 11, inclusive, and 13 to 36, inclusive.
+Township 64 north, range 3 west,</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

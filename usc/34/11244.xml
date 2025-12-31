@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/11244" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/11244/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/11244/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11244"><akn:num>11244</akn:num><akn:heading>Demonstration projects to provide services to youth in rural areas</akn:heading><akn:content><akn:p>§ 11244. Demonstration projects to provide services to youth in rural areas(a)(1) The Secretary may make grants on a competitive basis to States, localities, and private entities (and combinations of such entities) to provide services (including transportation) authorized to be provided under part A, to runaway and homeless youth in rural areas.
+
+(2)(A) Each grant made under paragraph (1) may not exceed $100,000.
+
+(B) In each fiscal year for which funds are appropriated to carry out this section, grants shall be made under paragraph (1) to eligible applicants to carry out projects in not fewer than 10 States.
+
+(C) Not more than 2 grants may be made under paragraph (1) in each fiscal year to carry out projects in a particular State.
+
+
+(3) Each eligible applicant that receives a grant for a fiscal year to carry out a project under this section shall have priority to receive a grant for the subsequent fiscal year to carry out a project under this section.
+
+
+(b) To be eligible to receive a grant under subsection (a), an applicant shall—(1) submit to the Secretary an application in such form and containing such information and assurances as the Secretary may require by rule; and
+
+(2) propose to carry out such project in a geographical area that—(A) has a population under 20,000;
+
+(B) is located outside a Standard Metropolitan Statistical Area; and
+
+(C) agree to provide to the Secretary an annual report identifying—(i) the number of runaway and homeless youth who receive services under the project carried out by the applicant;
+
+(ii) the types of services authorized under part A that were needed by, but not provided to, such youth in the geographical area served by the project;
+
+(iii) the reasons the services identified under clause (ii) were not provided by the project; and
+
+(iv) such other information as the Secretary may require.
+
+
+
+
+(Pub. L. 93–415, title III, § 344, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5024; amended Pub. L. 106–71, § 3(r)(2)</akn:p></akn:content><akn:subsection eId="subsec_11244_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11244_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) To be eligible to receive a grant under subsection (a), an applicant shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

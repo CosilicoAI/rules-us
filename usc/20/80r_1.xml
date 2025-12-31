@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/80r–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/80r–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/80r–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_80r_1"><akn:num>80r–1</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 80r–1. Definitions
+In this subchapter:(1) Board of RegentsThe term “Board of Regents” means the Board of Regents of the Smithsonian Institution.
+
+
+(2) CouncilThe term “Council” means the National Museum of African American History and Culture Council established by section 80r–3 of this title.
+
+
+(3) MuseumThe term “Museum” means the National Museum of African American History and Culture established by section 80r–2 of this title.
+
+
+(4) SecretaryThe term “Secretary” means the Secretary of the Smithsonian Institution.
+
+
+(Pub. L. 108–184, § 3, Dec. 16, 2003, 117 Stat. 2676.)</akn:p></akn:content><akn:subsection eId="subsec_80r_1_1"><akn:num>(1)</akn:num><akn:heading>Board of Regents</akn:heading><akn:content><akn:p>(1) Board of Regents The term “Board of Regents” means the Board of Regents of the Smithsonian Institution.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80r_1_2"><akn:num>(2)</akn:num><akn:heading>Council</akn:heading><akn:content><akn:p>(2) Council The term “Council” means the National Museum of African American History and Culture Council established by section 80r–3 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80r_1_3"><akn:num>(3)</akn:num><akn:heading>Museum</akn:heading><akn:content><akn:p>(3) Museum The term “Museum” means the National Museum of African American History and Culture established by section 80r–2 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80r_1_4"><akn:num>(4)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(4) Secretary The term “Secretary” means the Secretary of the Smithsonian Institution.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

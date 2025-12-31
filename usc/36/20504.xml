@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/20504" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/20504/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/20504/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20504"><akn:num>20504</akn:num><akn:heading>Cooperation with the military</akn:heading><akn:content><akn:p>§ 20504. Cooperation with the military(a) Investigations, Examinations, Experiments, and Reports.—When requested by the Secretary of the Army, Air Force, or Navy, the corporation shall investigate, examine, experiment, and report on any subject in pure or applied chemistry connected with the national defense.
+
+(b) Payments.—The actual expense of those investigations, examinations, experiments, and reports shall be paid from amounts appropriated for those purposes, but the corporation may not receive compensation for any services performed for the United States Government.
+
+(c) Title and License.—Title to inventions and discoveries made in the course of those investigations, examinations, and experiments that the appropriate Secretary believes involve the national defense vest in the Government. The Government shall have unlimited license under other inventions and discoveries made in the course of those investigations, examinations, and experiments.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1288.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2050436:3204.Aug. 25, 1937, ch. 762, § 4, 50 Stat. 799.
+
+
+In subsection (a), the words “When requested by the Secretary of the Army, Air Force, or Navy, the corporation” are substituted for “The American Chemical Society shall, whenever called upon by the Army, Air Force, or Navy Department” because under 10:3013, 5013, and 8013 the Secretaries are the heads of the Departments. The Secretary of the Air Force is added because of section 207 of the National Security Act of 1947 (ch. 343, 61 Stat. 502).
+In subsection (b), the words “shall be paid from amounts appropriated for those purposes” are substituted for “to be paid from appropriations which may have been made for that purpose by Congress” for clarity and to eliminate unnecessary words.
+In subsection (c), the words “that the appropriate Secretary believes” are substituted for “that, in the opinion of the Secretary </akn:p></akn:content><akn:subsection eId="subsec_20504_a"><akn:num>(a)</akn:num><akn:heading>Investigations, Examinations, Experiments, and Reports.—</akn:heading><akn:content><akn:p>(a) When requested by the Secretary of the Army, Air Force, or Navy, the corporation shall investigate, examine, experiment, and report on any subject in pure or applied chemistry connected with the national defense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20504_b"><akn:num>(b)</akn:num><akn:heading>Payments.—</akn:heading><akn:content><akn:p>(b) The actual expense of those investigations, examinations, experiments, and reports shall be paid from amounts appropriated for those purposes, but the corporation may not receive compensation for any services performed for the United States Government.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20504_c"><akn:num>(c)</akn:num><akn:heading>Title and License.—</akn:heading><akn:content><akn:p>(c) Title to inventions and discoveries made in the course of those investigations, examinations, and experiments that the appropriate Secretary believes involve the national defense vest in the Government. The Government shall have unlimited license under other inventions and discoveries made in the course of those investigations, examinations, and experiments.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

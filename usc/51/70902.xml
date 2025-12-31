@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/70902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/70902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/70902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70902"><akn:num>70902</akn:num><akn:heading>Allocation of International Space Station research budget</akn:heading><akn:content><akn:p>§ 70902. Allocation of International Space Station research budget
+The Administrator shall allocate at least 15 percent of the funds budgeted for International Space Station research to ground-based, free-flyer, and International Space Station life and microgravity science research that is not directly related to supporting the human exploration program, consistent with section 40904 of this title.
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3436.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+7090242 U.S.C. 16633.Pub. L. 109–155, title II, § 204, Dec. 30, 2005, 119 Stat. 2916.
+
+
+The words “Beginning with fiscal year 2006”, which appeared at the beginning of this section, are omitted as obsolete.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/420" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/420/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/420/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_420"><akn:num>420</akn:num><akn:heading>Information on websites of Offices of Inspectors General</akn:heading><akn:content><akn:p>§ 420. Information on websites of Offices of Inspectors General(a) Direct Links to Inspectors General Offices.—(1) In general.—Each Federal agency and designated Federal entity shall establish and maintain on the homepage of the website of that Federal agency or designated Federal entity, a direct link to the website of the Office of the Inspector General of that Federal agency or designated Federal entity.
+
+(2) Accessibility.—The direct link under paragraph (1) shall be obvious and facilitate accessibility to the website of the Office of the Inspector General.
+
+
+(b) Requirements for Inspectors General Websites.—(1) Posting of reports and audits.—The Inspector General of each Federal agency and designated Federal entity shall—(A) not later than 3 days after any audit report, inspection report, or evaluation report (or portion of any such report) is submitted in final form to the head of the Federal agency or the head of the designated Federal entity, as applicable, post that report (or portion of that report) on the website of the Office of Inspector General; and
+
+(B) ensure that any posted report (or portion of that report) described under subparagraph (A)—(i) is easily accessible from a direct link on the homepage of the website of the Office of the Inspector General;
+
+(ii) includes a summary of the findings of the Inspector General; and
+
+(iii) is in a format that—(I) is searchable and downloadable; and
+
+(II) facilitates printing by individuals of the public accessing the website.
+
+
+
+
+(2) Reporting of fraud, waste, and abuse.—(A) In general.—The Inspector General of each Federal agency and designated Federal entity shall establish and maintain a direct link on the homepage of the website of the Office of the Inspector General for individuals to report fraud, waste, and abuse. Individuals reporting fraud, waste, or abuse using the direct link established under this paragraph shall not be required to provide personally identifying information relating to that indivi</akn:p></akn:content><akn:subsection eId="subsec_420_a"><akn:num>(a)</akn:num><akn:heading>Direct Links to Inspectors General Offices.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_b"><akn:num>(b)</akn:num><akn:heading>Requirements for Inspectors General Websites.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section, the terms “designated Federal entity” and “head of the designated Federal entity” have the meanings given those terms in section 415(a) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

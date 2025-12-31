@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1862h" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1862h/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1862h/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1862h"><akn:num>1862h</akn:num><akn:heading>Congressional statement of findings and declaration of purposes respecting scientific and technical </akn:heading><akn:content><akn:p>§ 1862h. Congressional statement of findings and declaration of purposes respecting scientific and technical education and training(a) FindingsThe Congress finds that—(1) the position of the United States in the world economy faces great challenges from highly trained foreign competition;
+
+(2) the workforce of the United States must be better prepared for the technologically advanced, competitive, global economy;
+
+(3) the improvement of our work force’s productivity and our international economic position depend upon the strengthening of our educational efforts in science, technology, engineering, and mathematics or STEM, especially at the associate-degree level;
+
+(4) shortages of scientifically and technically educated 11 So in original. Probably should be followed by “and”. trained workers in a wide variety of fields will best be addressed by collaboration among the Nation’s associate-degree-granting colleges and private industry to produce skilled, advanced technicians; and
+
+(5) the National Science Foundation’s traditional role in developing model curricula, disseminating instructional materials, enhancing faculty development, and stimulating partnerships between educational institutions and industry, makes an enlarged role for the Foundation in STEM education and training particularly appropriate.
+
+
+(b) PurposesIt is the purpose of sections 1862h to 1862j of this title to—(1) improve science and technical education at associate-degree-granting colleges;
+
+(2) improve secondary school and postsecondary curricula in STEM fields;
+
+(3) improve the educational opportunities of postsecondary students by creating comprehensive articulation agreements and planning between 2-year and 4-year institutions; and
+
+(4) promote outreach to secondary schools to improve STEM instruction.
+
+
+(Pub. L. 102–476, § 2, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 117–167, div. B, title III, § 10312(f)(1), Aug. 9, 2022, 136 Stat. 1519.)
+
+Editorial Notes
+
+References in TextSections 1862h to 186</akn:p></akn:content><akn:subsection eId="subsec_1862h_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1862h_b"><akn:num>(b)</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>(b) Purposes It is the purpose of sections 1862h to 1862j of this title to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

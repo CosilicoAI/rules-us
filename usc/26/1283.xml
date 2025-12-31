@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1283" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1283/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1283/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1283"><akn:num>1283</akn:num><akn:heading>Definitions and special rules</akn:heading><akn:content><akn:p>§ 1283. Definitions and special rules(a) DefinitionsFor purposes of this subpart—(1) Short-term obligation(A) In generalExcept as provided in subparagraph (B), the term “short-term obligation” means any bond, debenture, note, certificate, or other evidence of indebtedness which has a fixed maturity date not more than 1 year from the date of issue.
+
+
+(B) Exceptions for tax-exempt obligationsThe term “short-term obligation” shall not include any tax-exempt obligation (as defined in section 1275(a)(3)).
+
+
+
+(2) Acquisition discountThe term “acquisition discount” means the excess of—(A) the stated redemption price at maturity (as defined in section 1273), over
+
+(B) the taxpayer’s basis for the obligation.
+
+
+
+(b) Daily portionFor purposes of this subpart—(1) Ratable accrualExcept as otherwise provided in this subsection, the daily portion of the acquisition discount is an amount equal to—(A) the amount of such discount, divided by
+
+(B) the number of days after the day on which the taxpayer acquired the obligation and up to (and including) the day of its maturity.
+
+
+(2) Election of accrual on basis of constant interest rate (in lieu of ratable accrual)(A) In generalAt the election of the taxpayer with respect to any obligation, the daily portion of the acquisition discount for any day is the portion of the acquisition discount accruing on such day determined (under regulations prescribed by the Secretary) on the basis of—(i) the taxpayer’s yield to maturity based on the taxpayer’s cost of acquiring the obligation, and
+
+(ii) compounding daily.
+
+
+(B) Election irrevocableAn election under subparagraph (A), once made with respect to any obligation, shall be irrevocable.
+
+
+
+
+(c) Special rules for nongovernmental obligations(1) In generalIn the case of any short-term obligation which is not a short-term Government obligation (as defined in section 1271(a)(3)(B))—(A) sections 1281 and 1282 shall be applied by taking into account original issue discount in lieu of acquisition disc</akn:p></akn:content><akn:subsection eId="subsec_1283_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions For purposes of this subpart—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1283_b"><akn:num>(b)</akn:num><akn:heading>Daily portion</akn:heading><akn:content><akn:p>(b) Daily portion For purposes of this subpart—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1283_c"><akn:num>(c)</akn:num><akn:heading>Special rules for nongovernmental obligations</akn:heading><akn:content><akn:p>(c) Special rules for nongovernmental obligations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1283_d"><akn:num>(d)</akn:num><akn:heading>Other special rules</akn:heading><akn:content><akn:p>(d) Other special rules</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

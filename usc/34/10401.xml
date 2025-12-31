@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/10401" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/10401/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/10401/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10401"><akn:num>10401</akn:num><akn:heading>Program authorized</akn:heading><akn:content><akn:p>§ 10401. Program authorized(a) In generalThe Attorney General is authorized to provide grants to States, for use by States and units of local government, and in certain cases directly to specially qualified units.
+
+
+(b) Authorized activitiesAmounts paid to a State or a unit of local government under this subchapter shall be used by the State or unit of local government for the purpose of strengthening the juvenile justice system, which includes—(1) developing, implementing, and administering graduated sanctions for juvenile offenders;
+
+(2) building, expanding, renovating, or operating temporary or permanent juvenile correction, detention, or community corrections facilities;
+
+(3) hiring juvenile court judges, probation officers, and court-appointed defenders and special advocates, and funding pretrial services (including mental health screening and assessment) for juvenile offenders, to promote the effective and expeditious administration of the juvenile justice system;
+
+(4) hiring additional prosecutors, so that more cases involving violent juvenile offenders can be prosecuted and case backlogs reduced;
+
+(5) providing funding to enable prosecutors to address drug, gang, and youth violence problems more effectively and for technology, equipment, and training to assist prosecutors in identifying and expediting the prosecution of violent juvenile offenders;
+
+(6) establishing and maintaining training programs for law enforcement and other court personnel with respect to preventing and controlling juvenile crime;
+
+(7) establishing juvenile gun courts for the prosecution and adjudication of juvenile firearms offenders;
+
+(8) establishing drug court programs for juvenile offenders that provide continuing judicial supervision over juvenile offenders with substance abuse problems and the integrated administration of other sanctions and services for such offenders;
+
+(9) establishing and maintaining a system of juvenile records designed to promote public safety;
+
+(10) establis</akn:p></akn:content><akn:subsection eId="subsec_10401_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Attorney General is authorized to provide grants to States, for use by States and units of local government, and in certain cases directly to specially qualified units.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10401_b"><akn:num>(b)</akn:num><akn:heading>Authorized activities</akn:heading><akn:content><akn:p>(b) Authorized activities Amounts paid to a State or a unit of local government under this subchapter shall be used by the State or unit of local government for the purpose of strengthening the juvenile justice system, which includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10401_c"><akn:num>(c)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(c) Definition In this section the term “restorative justice program” means a program that emphasizes the moral accountability of an offender toward the victim and the affected community and may include community reparations boards, restitution (in the form of monetary payment or service to the victim or, where no victim can be identified, service to the affected community), and mediation between victim and offender.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

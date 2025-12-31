@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2303"><akn:num>2303</akn:num><akn:heading>Purpose of chapter</akn:heading><akn:content><akn:p>§ 2303. Purpose of chapter
+It is the purpose of this chapter to effectuate the policies set forth above by providing for—(a) the maintenance of conditions which will not impede the recruitment and retention of personnel essential to the atomic energy program;
+
+(b) the obligation of the United States to contribute to the support of municipal functions in a manner commensurate with—(1) the fiscal problems peculiar to the communities by reason of their construction as national defense installations, and
+
+(2) the municipal and other burdens imposed on the governmental or other entities at the communities by the United States in its operations at or near the communities;
+
+
+(c) the opportunity for the residents of the communities to assume the obligations and privileges of local self-government; and
+
+(d) the encouragement of the construction of new homes at the communities.
+
+(Aug. 4, 1955, ch. 543, ch. 1, § 13, 69 Stat. 472.)</akn:p></akn:content><akn:subsection eId="subsec_2303_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) the maintenance of conditions which will not impede the recruitment and retention of personnel essential to the atomic energy program;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2303_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) the obligation of the United States to contribute to the support of municipal functions in a manner commensurate with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2303_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) the opportunity for the residents of the communities to assume the obligations and privileges of local self-government; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2303_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) the encouragement of the construction of new homes at the communities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

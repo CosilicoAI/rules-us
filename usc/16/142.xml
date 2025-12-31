@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/142" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/142/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/142/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_142"><akn:num>142</akn:num><akn:heading>Control; regulations</akn:heading><akn:content><akn:p>§ 142. Control; regulations
+Wind Cave National Park shall be under the exclusive control of the Secretary of the Interior, whose duty it shall be to prescribe such rules and regulations and establish such service as he may deem necessary for the care and management of the same.
+(Jan. 9, 1903, ch. 63, § 2, 32 Stat. 765.)
+
+Editorial Notes
+Codification
+This section is a part of section 2 of act Jan. 9, 1903. The other part of section 2 of said act is classified to section 141 of this title. See note under section 141.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

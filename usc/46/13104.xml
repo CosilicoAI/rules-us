@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/13104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/13104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/13104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13104"><akn:num>13104</akn:num><akn:heading>Allocations</akn:heading><akn:content><akn:p>§ 13104. Allocations(a) The Secretary shall allocate amounts available for allocation and distribution under this chapter for State recreational boating safety programs as follows:(1) One-third shall be allocated equally each fiscal year among eligible States.
+
+(2) One-third shall be allocated among eligible States that maintain a State vessel numbering system approved under chapter 123 of this title and a marine casualty reporting system approved under this chapter so that the amount allocated each fiscal year to each eligible State will be in the same ratio as the number of vessels numbered in that State bears to the number of vessels numbered in all eligible States.
+
+(3) One-third shall be allocated so that the amount allocated each fiscal year to each eligible State will be in the same ratio as the amount of State amounts expended by the State for the State recreational boating safety program during the prior fiscal year bears to the total State amounts expended during that fiscal year by all eligible States for State recreational boating safety programs.
+
+
+(b) The amount received by a State under this section in a fiscal year may be not more than one-half of the total cost incurred by that State in developing, carrying out, and financing that State’s recreational boating safety program in that fiscal year.
+
+(c) The Secretary may allocate not more than 5 percent of the amounts available for allocation and distribution in a fiscal year for national boating safety activities of national nonprofit public service organizations.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 594, § 13103; Pub. L. 98–369, div. A, title X, § 1011(d), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, § 312(c), Nov. 16, 1990, 104 Stat. 2987; renumbered § 13104, Pub. L. 109–304, § 16(b)(1), Oct. 6, 2006, 120 Stat. 1705.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1310346:1476
+
+
+Section 13103 requires the Secretary to allocate the amounts availa</akn:p></akn:content><akn:subsection eId="subsec_13104_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall allocate amounts available for allocation and distribution under this chapter for State recreational boating safety programs as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13104_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The amount received by a State under this section in a fiscal year may be not more than one-half of the total cost incurred by that State in developing, carrying out, and financing that State’s recreational boating safety program in that fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13104_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary may allocate not more than 5 percent of the amounts available for allocation and distribution in a fiscal year for national boating safety activities of national nonprofit public service organizations.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

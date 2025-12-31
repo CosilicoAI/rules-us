@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5721" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5721/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5721/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5721"><akn:num>5721</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5721. Definitions
+For the purpose of this subchapter—(1) “agency” means—(A) an Executive agency;
+
+(B) a military department;
+
+(C) a court of the United States;
+
+(D) the Administrative Office of the United States Courts;
+
+(E) the Library of Congress;
+
+(F) the Botanic Garden;
+
+(G) the Architect of the Capitol;
+
+(H) the Government Publishing Office; and
+
+(I) the government of the District of Columbia;
+
+
+but does not include a Government controlled corporation;
+
+(2) “employee” means an individual employed in or under an agency;
+
+(3) “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii;
+
+(4) “Government” means the Government of the United States and the government of the District of Columbia;
+
+(5) “appropriation” includes funds made available by statute under section 9104 of title 31;
+
+(6) “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979); and
+
+(7) “Foreign Service of the United States” means the Foreign Service as constituted under the Foreign Service Act of 1980.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 97–258, § 3(a)(14), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 105–264, § 6(1), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 110–161, div. H, title I, § 1303(a), Dec. 26, 2007, 121 Stat. 2242; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+Historical and Revision NotesThe section is based on sections 18 and 19 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811, 812. Sections 18 and 19 of the Act of Aug. 2, 1946, are omitted from this title and transferred to other titles of the United St</akn:p></akn:content><akn:subsection eId="subsec_5721_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “agency” means— but does not include a Government controlled corporation;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5721_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “employee” means an individual employed in or under an agency;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5721_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5721_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “Government” means the Government of the United States and the government of the District of Columbia;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5721_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) “appropriation” includes funds made available by statute under section 9104 of title 31;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5721_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979); and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5721_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) “Foreign Service of the United States” means the Foreign Service as constituted under the Foreign Service Act of 1980.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

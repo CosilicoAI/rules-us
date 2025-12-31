@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/30703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/30703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/30703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30703"><akn:num>30703</akn:num><akn:heading>Foreign launch vehicles</akn:heading><akn:content><akn:p>§ 30703. Foreign launch vehicles(a) Accord With Space Transportation Policy.—The Administration shall not launch a payload on a foreign launch vehicle except in accordance with the Space Transportation Policy announced by the President on December 21, 2004. This subsection shall not be construed to prevent the President from waiving the Space Transportation Policy.
+
+(b) Interagency Coordination.—The Administration shall not launch a payload on a foreign launch vehicle unless the Administration commenced the interagency coordination required by the Space Transportation Policy announced by the President on December 21, 2004, at least 90 days before entering into a development contract for the payload.
+
+(c) Application.—This section shall not apply to any payload for which development has begun prior to December 30, 2005, including the James Webb Space Telescope.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3371.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3070342 U.S.C. 16614.Pub. L. 109–155, title I, § 105, Dec. 30, 2005, 119 Stat. 2912.
+
+
+In subsection (c), the date “December 30, 2005” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).</akn:p></akn:content><akn:subsection eId="subsec_30703_a"><akn:num>(a)</akn:num><akn:heading>Accord With Space Transportation Policy.—</akn:heading><akn:content><akn:p>(a) The Administration shall not launch a payload on a foreign launch vehicle except in accordance with the Space Transportation Policy announced by the President on December 21, 2004. This subsection shall not be construed to prevent the President from waiving the Space Transportation Policy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30703_b"><akn:num>(b)</akn:num><akn:heading>Interagency Coordination.—</akn:heading><akn:content><akn:p>(b) The Administration shall not launch a payload on a foreign launch vehicle unless the Administration commenced the interagency coordination required by the Space Transportation Policy announced by the President on December 21, 2004, at least 90 days before entering into a development contract for the payload.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30703_c"><akn:num>(c)</akn:num><akn:heading>Application.—</akn:heading><akn:content><akn:p>(c) This section shall not apply to any payload for which development has begun prior to December 30, 2005, including the James Webb Space Telescope.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

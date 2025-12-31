@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/230" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/230/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/230/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_230"><akn:num>230</akn:num><akn:heading>Protection for private blocking and screening of offensive material</akn:heading><akn:content><akn:p>§ 230. Protection for private blocking and screening of offensive material(a) FindingsThe Congress finds the following:(1) The rapidly developing array of Internet and other interactive computer services available to individual Americans represent an extraordinary advance in the availability of educational and informational resources to our citizens.
+
+(2) These services offer users a great degree of control over the information that they receive, as well as the potential for even greater control in the future as technology develops.
+
+(3) The Internet and other interactive computer services offer a forum for a true diversity of political discourse, unique opportunities for cultural development, and myriad avenues for intellectual activity.
+
+(4) The Internet and other interactive computer services have flourished, to the benefit of all Americans, with a minimum of government regulation.
+
+(5) Increasingly Americans are relying on interactive media for a variety of political, educational, cultural, and entertainment services.
+
+
+(b) PolicyIt is the policy of the United States—(1) to promote the continued development of the Internet and other interactive computer services and other interactive media;
+
+(2) to preserve the vibrant and competitive free market that presently exists for the Internet and other interactive computer services, unfettered by Federal or State regulation;
+
+(3) to encourage the development of technologies which maximize user control over what information is received by individuals, families, and schools who use the Internet and other interactive computer services;
+
+(4) to remove disincentives for the development and utilization of blocking and filtering technologies that empower parents to restrict their children’s access to objectionable or inappropriate online material; and
+
+(5) to ensure vigorous enforcement of Federal criminal laws to deter and punish trafficking in obscenity, stalking, and harassment by means of computer.
+
+
+(c) Protection for “Go</akn:p></akn:content><akn:subsection eId="subsec_230_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_230_b"><akn:num>(b)</akn:num><akn:heading>Policy</akn:heading><akn:content><akn:p>(b) Policy It is the policy of the United States—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_230_c"><akn:num>(c)</akn:num><akn:heading>Protection for “Good Samaritan” blocking and screening of offensive material</akn:heading><akn:content><akn:p>(c) Protection for “Good Samaritan” blocking and screening of offensive material</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_230_d"><akn:num>(d)</akn:num><akn:heading>Obligations of interactive computer service</akn:heading><akn:content><akn:p>(d) Obligations of interactive computer service A provider of interactive computer service shall, at the time of entering an agreement with a customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist the customer in limiting access to material that is harmful to minors. Such notice shall identify, or provide the customer with access to information identifying, current providers of such protections.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_230_e"><akn:num>(e)</akn:num><akn:heading>Effect on other laws</akn:heading><akn:content><akn:p>(e) Effect on other laws</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_230_f"><akn:num>(f)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(f) Definitions As used in this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/9505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/9505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/9505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9505"><akn:num>9505</akn:num><akn:heading>Paying for main pipes</akn:heading><akn:content><akn:p>§ 9505. Paying for main pipes(a) Federal Government.—The Federal Government shall only pay for the number of main pipes of the Washington Aqueduct needed to furnish public buildings, offices, and grounds with the necessary supply of water.
+
+(b) District of Columbia.—The District of Columbia shall pay the cost of any main pipe of the Washington Aqueduct which supplies water to the inhabitants of the District of Columbia, in the manner provided by law.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1234.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+950540:55.R.S. § 1805.
+
+
+In subsection (b), the words “its inhabitants” are substituted for “inhabitants of Washington and Georgetown” in section 1805 of the Revised Statutes because of the Act of February 11, 1895 (ch. 79, 28 Stat. 650).</akn:p></akn:content><akn:subsection eId="subsec_9505_a"><akn:num>(a)</akn:num><akn:heading>Federal Government.—</akn:heading><akn:content><akn:p>(a) The Federal Government shall only pay for the number of main pipes of the Washington Aqueduct needed to furnish public buildings, offices, and grounds with the necessary supply of water.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9505_b"><akn:num>(b)</akn:num><akn:heading>District of Columbia.—</akn:heading><akn:content><akn:p>(b) The District of Columbia shall pay the cost of any main pipe of the Washington Aqueduct which supplies water to the inhabitants of the District of Columbia, in the manner provided by law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

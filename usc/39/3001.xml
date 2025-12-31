@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/39/3001" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/39/3001/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/39/3001/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3001"><akn:num>3001</akn:num><akn:heading>Nonmailable matter</akn:heading><akn:content><akn:p>§ 3001. Nonmailable matter(a) Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1715, 1716, 1717, or 1738 11 See References in Text note below. of title 18, or section 26 of the Animal Welfare Act is nonmailable.
+
+(b) Except as provided in subsection (c) of this section, nonmailable matter which reaches the office of delivery, or which may be seized or detained for violation of law, shall be disposed of as the Postal Service shall direct.
+
+(c)(1) Matter which—(A) exceeds the size and weight limits prescribed for the particular class of mail; or
+
+(B) is of a character perishable within the period required for transportation and delivery;
+
+
+is nonmailable.
+
+(2) Matter made nonmailable by this subsection which reaches the office of destination may be delivered in accordance with its address, if the party addressed furnishes the name and address of the sender.
+
+
+(d) Matter otherwise legally acceptable in the mails which—(1) is in the form of, and reasonably could be interpreted or construed as, a bill, invoice, or statement of account due; but
+
+(2) constitutes, in fact, a solicitation for the order by the addressee of goods or services, or both;
+
+
+is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe—
+(A) the following notice: “This is a solicitation for the order of goods or services, or both, and not a bill, invoice, or statement of account due. You are under no obligation to make any payments on account of this offer unless you accept this offer.”; or
+
+(B) in lieu thereof, a notice to the same effect in words which the Postal Service may prescribe.
+
+
+(e)(1) Any matter which is unsolicited by the addressee and which is designed, adapted, </akn:p></akn:content><akn:subsection eId="subsec_3001_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1715, 1716, 1717, or 1738 11 See References in Text note below. of title 18, or section 26 of the Animal Welfare Act is nonmailable.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as provided in subsection (c) of this section, nonmailable matter which reaches the office of delivery, or which may be seized or detained for violation of law, shall be disposed of as the Postal Service shall direct.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Matter otherwise legally acceptable in the mails which— is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) Any matter which is unsolicited by the addressee, which contains a “household substance” (as defined by section 2 of the Poison Prevention Packaging Act of 1970), and which does not comply with the requirements for special child-resistant packaging established for that substance by the Consumer Product Safety Commission, is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_h"><akn:num>(h)</akn:num><akn:content><akn:p>(h)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_i"><akn:num>(i)</akn:num><akn:content><akn:p>(i)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3001_j"><akn:num>(j)</akn:num><akn:content><akn:p>(j)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

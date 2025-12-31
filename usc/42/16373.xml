@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16373" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16373/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16373/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16373"><akn:num>16373</akn:num><akn:heading>Secured loans</akn:heading><akn:content><akn:p>§ 16373. Secured loans(a) Agreements(1) In generalSubject to paragraph (2), the Secretary may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which—(A) shall be used—(i) to finance eligible project costs of any project selected under section 16372 of this title;
+
+(ii) to refinance interim construction financing of eligible project costs of any project selected under section 16372 of this title; or
+
+(iii) to refinance long-term project obligations or Federal credit instruments, if the refinancing provides additional funding capacity for the completion, enhancement, or expansion of any project that—(I) is selected under section 16372 of this title; or
+
+(II) otherwise meets the requirements of that section; and
+
+
+
+(B) may be used in accordance with subsection (b)(7) to pay any fees collected by the Secretary under subparagraph (B) of that subsection.
+
+
+(2) Risk assessmentBefore entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget, shall determine an appropriate credit subsidy amount for each secured loan, taking into account all relevant factors, including the creditworthiness factors under section 16372(b)(2) of this title.
+
+
+
+(b) Terms and limitations(1) In generalA secured loan under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.
+
+
+(2) Maximum amountThe amount of a secured loan under this section shall not exceed an amount equal to 80 percent of the reasonably anticipated eligible project costs.
+
+
+(3) PaymentA secured loan under this section shall be payable, in whole or in part, from—(A) user fees;
+
+(B) payments owing to the obligor under a public-private partnership; or
+
+(C) other revenue sources that also secure or fund the project obligations.
+
+
+(4) Interest </akn:p></akn:content><akn:subsection eId="subsec_16373_a"><akn:num>(a)</akn:num><akn:heading>Agreements</akn:heading><akn:content><akn:p>(a) Agreements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16373_b"><akn:num>(b)</akn:num><akn:heading>Terms and limitations</akn:heading><akn:content><akn:p>(b) Terms and limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16373_c"><akn:num>(c)</akn:num><akn:heading>Repayment</akn:heading><akn:content><akn:p>(c) Repayment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16373_d"><akn:num>(d)</akn:num><akn:heading>Sale of secured loans</akn:heading><akn:content><akn:p>(d) Sale of secured loans</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16373_e"><akn:num>(e)</akn:num><akn:heading>Loan guarantees</akn:heading><akn:content><akn:p>(e) Loan guarantees</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

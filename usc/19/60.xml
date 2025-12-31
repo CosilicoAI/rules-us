@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/60" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/60/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/60/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60"><akn:num>60</akn:num><akn:heading>Penalty for extortion</akn:heading><akn:content><akn:p>§ 60. Penalty for extortion
+Every officer of the customs who demands or receives any other or greater fee, compensation, or reward than is allowed by law, for performing any duty or service required from him by law, shall be liable to a penalty of $200 for each offense, recoverable to the use of the party aggrieved.
+(R.S. § 2636.)
+
+Editorial Notes
+Codification
+R.S. § 2636 derived from act Mar. 2, 1799, ch. 22, § 73, 1 Stat. 680.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

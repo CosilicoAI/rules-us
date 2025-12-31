@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/3509" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/3509/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/3509/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3509"><akn:num>3509</akn:num><akn:heading>Medical standards</akn:heading><akn:content><akn:p>§ 3509. Medical standards
+The owner of a vessel to which section 3507 applies shall ensure that—(1) a physician is always present and available to treat any passengers who may be on board the vessel in the event of an emergency situation;
+
+(2) the vessel is in compliance with the Health Care Guidelines for Cruise Ship Medical Facilities established by the American College of Emergency Physicians; and
+
+(3) the initial safety briefing given to the passengers on board the vessel includes—(A) the location of the vessel’s medical facilities; and
+
+(B) the appropriate steps passengers should follow during a medical emergency.
+
+
+(Added Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8322(a), Jan. 1, 2021, 134 Stat. 4702.)
+
+Statutory Notes and Related Subsidiaries
+Exemptions for Certain Passenger VesselsFor provisions exempting certain passenger vessels from the requirements authorized under this section, see section 11510 of Pub. L. 117–263, set out as a note under section 3508 of this title.</akn:p></akn:content><akn:subsection eId="subsec_3509_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) a physician is always present and available to treat any passengers who may be on board the vessel in the event of an emergency situation;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3509_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the vessel is in compliance with the Health Care Guidelines for Cruise Ship Medical Facilities established by the American College of Emergency Physicians; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3509_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the initial safety briefing given to the passengers on board the vessel includes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16135" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16135/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16135/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16135"><akn:num>16135</akn:num><akn:heading>Outreach and incentives</akn:heading><akn:content><akn:p>§ 16135. Outreach and incentives(a) Definition of eligible technologyIn this section, the term “eligible technology” means—(1) a verified technology; or
+
+(2) an emerging technology.
+
+
+(b) Technology transfer program(1) In generalThe Administrator shall establish a program under which the Administrator—(A) informs stakeholders of the benefits of eligible technologies; and
+
+(B) develops nonfinancial incentives to promote the use of eligible technologies.
+
+
+(2) Eligible stakeholdersEligible stakeholders under this section include—(A) equipment owners and operators;
+
+(B) emission and pollution control technology manufacturers;
+
+(C) engine and equipment manufacturers;
+
+(D) State and local officials responsible for air quality management;
+
+(E) community organizations; and
+
+(F) public health, educational, and environmental organizations.
+
+
+
+(c) State implementation plansThe Administrator shall develop appropriate guidance to provide credit to a State for emission reductions in the State created by the use of eligible technologies through a State implementation plan under section 7410 of this title.
+
+
+(d) International marketsThe Administrator, in coordination with the Department of Commerce and industry stakeholders, shall inform foreign countries with air quality problems of the potential of technology developed or used in the United States to provide emission reductions in those countries.
+
+
+(Pub. L. 109–58, title VII, § 795, Aug. 8, 2005, 119 Stat. 843.)</akn:p></akn:content><akn:subsection eId="subsec_16135_a"><akn:num>(a)</akn:num><akn:heading>Definition of eligible technology</akn:heading><akn:content><akn:p>(a) Definition of eligible technology In this section, the term “eligible technology” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16135_b"><akn:num>(b)</akn:num><akn:heading>Technology transfer program</akn:heading><akn:content><akn:p>(b) Technology transfer program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16135_c"><akn:num>(c)</akn:num><akn:heading>State implementation plans</akn:heading><akn:content><akn:p>(c) State implementation plans The Administrator shall develop appropriate guidance to provide credit to a State for emission reductions in the State created by the use of eligible technologies through a State implementation plan under section 7410 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16135_d"><akn:num>(d)</akn:num><akn:heading>International markets</akn:heading><akn:content><akn:p>(d) International markets The Administrator, in coordination with the Department of Commerce and industry stakeholders, shall inform foreign countries with air quality problems of the potential of technology developed or used in the United States to provide emission reductions in those countries.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

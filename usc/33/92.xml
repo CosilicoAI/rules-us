@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/92" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/92/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/92/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_92"><akn:num>92</akn:num><akn:heading>Repealed. Oct. 11, 1951, ch. 495, § 5, 65 Stat. 407</akn:heading><akn:content><akn:p>§§ 91, 92. Repealed. Oct. 11, 1951, ch. 495, § 5, 65 Stat. 407
+
+Section 91, acts Aug. 19, 1890, ch. 802, § 1, 26 Stat. 325; June 10, 1896, ch. 401, § 1, 29 Stat. 381, related to sound signals for fog.
+
+
+Section 92, act Aug. 19, 1890, ch. 802, § 1, 26 Stat. 325, related to speed in fog.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of RepealRepeal effective Jan. 1, 1954, see note set out under sections 61 to 63 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

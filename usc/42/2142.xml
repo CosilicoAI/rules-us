@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2142" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2142/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2142/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2142"><akn:num>2142</akn:num><akn:heading>Domestic medical isotope production</akn:heading><akn:content><akn:p>§ 2142. Domestic medical isotope production(a) The Commission may issue a license, or grant an amendment to an existing license, for the use in the United States of highly enriched uranium as a target for medical isotope production in a nuclear reactor, only if, in addition to any other requirement of this chapter—(1) the Commission determines that—(A) there is no alternative medical isotope production target that can be used in that reactor; and
+
+(B) the proposed recipient of the medical isotope production target has provided assurances that, whenever an alternative medical isotope production target can be used in that reactor, it will use that alternative in lieu of highly enriched uranium; and
+
+
+(2) the Secretary of Energy has certified that the United States Government is actively supporting the development of an alternative medical isotope production target that can be used in that reactor.
+
+
+(b) As used in this section—(1) the term “alternative medical isotope production target” means a nuclear reactor target which is enriched to less than 20 percent of the isotope U–235;
+
+(2) a target “can be used” in a nuclear research or test reactor if—(A) the target has been qualified by the Reduced Enrichment Research and Test Reactor Program of the Department of Energy; and
+
+(B) use of the target will permit the large majority of ongoing and planned experiments and medical isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor;
+
+
+(3) the term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235; and
+
+(4) the term “medical isotope” includes molybdenum-99, iodine-131, xenon-133, and other radioactive materials used to produce a radiopharmaceutical for diagnostic or therapeutic procedures or for research and development.
+
+
+(Aug. 1, 1946, ch. 724, title I, § 112, as added Pub. L. 112–239, div. C, title XXXI, § 3176(a), Jan. 2, 2013, 126 Stat. 2215; Pub. L. 113–66</akn:p></akn:content><akn:subsection eId="subsec_2142_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Commission may issue a license, or grant an amendment to an existing license, for the use in the United States of highly enriched uranium as a target for medical isotope production in a nuclear reactor, only if, in addition to any other requirement of this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2142_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) As used in this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

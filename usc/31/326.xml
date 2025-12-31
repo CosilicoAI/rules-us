@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/326" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/326/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/326/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_326"><akn:num>326</akn:num><akn:heading>Availability of appropriations for certain expenses</akn:heading><akn:content><akn:p>§ 326. Availability of appropriations for certain expenses(a) Under regulations prescribed by the Secretary of the Treasury, an appropriation for the Department of the Treasury available to pay travel expenses also is available to pay expenses to attend meetings of organizations related to the function or activity for which the appropriation is made.
+
+(b) The Secretary may approve reimbursement to agents on protective missions for subsistence expenses authorized by law without regard to rates and amounts established under section 5702 of title 5.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 883; Pub. L. 99–234, title I, § 107(e), Jan. 2, 1986, 99 Stat. 1759.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. CodeSource (Statutes at Large)
+
+
+326(a)31:1031.June 1, 1955, ch. 113, § 102, 69 Stat. 76.
+326(b)31:1032.Sept. 29, 1969, Pub. L. 91–74, § 102(1st par.), 83 Stat. 118.
+
+
+In subsection (a), the words “On and after June 1, 1955,” are omitted as executed.
+In subsection (b), the words “On and after September 29, 1969,” are omitted as executed.
+
+Editorial Notes
+Amendments1986—Subsec. (b). Pub. L. 99–234 substituted “rates and amounts” for “rates”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–234 effective (1) on the effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.</akn:p></akn:content><akn:subsection eId="subsec_326_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Under regulations prescribed by the Secretary of the Treasury, an appropriation for the Department of the Treasury available to pay travel expenses also is available to pay expenses to attend meetings of organizations related to the function or activity for which the appropriation is made.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_326_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary may approve reimbursement to agents on protective missions for subsistence expenses authorized by law without regard to rates and amounts established under section 5702 of title 5.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

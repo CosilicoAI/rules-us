@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1256" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1256/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1256/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1256"><akn:num>1256</akn:num><akn:heading>Section 1256 contracts marked to market</akn:heading><akn:content><akn:p>§ 1256. Section 1256 contracts marked to market(a) General ruleFor purposes of this subtitle—(1) each section 1256 contract held by the taxpayer at the close of the taxable year shall be treated as sold for its fair market value on the last business day of such taxable year (and any gain or loss shall be taken into account for the taxable year),
+
+(2) proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account by reason of paragraph (1),
+
+(3) any gain or loss with respect to a section 1256 contract shall be treated as—(A) short-term capital gain or loss, to the extent of 40 percent of such gain or loss, and
+
+(B) long-term capital gain or loss, to the extent of 60 percent of such gain or loss, and
+
+
+(4) if all the offsetting positions making up any straddle consist of section 1256 contracts to which this section applies (and such straddle is not part of a larger straddle), sections 1092 and 263(g) shall not apply with respect to such straddle.
+
+
+(b) Section 1256 contract defined(1) In generalFor purposes of this section, the term “section 1256 contract” means—(A) any regulated futures contract,
+
+(B) any foreign currency contract,
+
+(C) any nonequity option,
+
+(D) any dealer equity option, and
+
+(E) any dealer securities futures contract.
+
+
+(2) ExceptionsThe term “section 1256 contract” shall not include—(A) any securities futures contract or option on such a contract unless such contract or option is a dealer securities futures contract, or
+
+(B) any interest rate swap, currency swap, basis swap, interest rate cap, interest rate floor, commodity swap, equity swap, equity index swap, credit default swap, or similar agreement.
+
+
+
+(c) Terminations, etc.(1) In generalThe rules of paragraphs (1), (2), and (3) of subsection (a) shall also apply to the termination (or transfer) during the taxable year of the taxpayer’s obligation (or rights) with respect to a section 1256 contract by offsetting, by taking or making </akn:p></akn:content><akn:subsection eId="subsec_1256_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of this subtitle—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1256_b"><akn:num>(b)</akn:num><akn:heading>Section 1256 contract defined</akn:heading><akn:content><akn:p>(b) Section 1256 contract defined</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1256_c"><akn:num>(c)</akn:num><akn:heading>Terminations, etc.</akn:heading><akn:content><akn:p>(c) Terminations, etc.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1256_d"><akn:num>(d)</akn:num><akn:heading>Elections with respect to mixed straddles</akn:heading><akn:content><akn:p>(d) Elections with respect to mixed straddles</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1256_e"><akn:num>(e)</akn:num><akn:heading>Mark to market not to apply to hedging transactions</akn:heading><akn:content><akn:p>(e) Mark to market not to apply to hedging transactions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1256_f"><akn:num>(f)</akn:num><akn:heading>Special rules</akn:heading><akn:content><akn:p>(f) Special rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1256_g"><akn:num>(g)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(g) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

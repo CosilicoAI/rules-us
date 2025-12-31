@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/1413" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/1413/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/1413/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1413"><akn:num>1413</akn:num><akn:heading>Implementation and evaluation of Program</akn:heading><akn:content><akn:p>§ 1413. Implementation and evaluation of Program(a) Overall Program plan(1) In generalBefore the 180th day after December 8, 1993, the Secretary shall develop and transmit to the Committees an overall plan for the Program. The overall Program plan shall set forth—(A) a general description of the ultimate configuration of the Program;
+
+(B) a description of each of the existing components of the Program listed in section 1411(a)(1) of this title; and
+
+(C) estimates regarding the stages on which planned components of the Program listed in section 1411(a)(2) of this title will be brought on-line.
+
+
+(2) Additional informationIn addition to the information required under paragraph (1), the overall Program plan shall include a statement regarding—(A) the extent to which the existing components of the Program currently meet, and the planned components will meet, the Program goals set forth in section 1412 of this title; and
+
+(B) the effects that the existing components are currently having, and the effects that the planned components will likely have, on—(i) importers, brokers, and other users of the Program, and
+
+(ii) Customs Service occupations, operations, processes, and systems.
+
+
+
+
+(b) Implementation plan, testing, and evaluation(1) Implementation planFor each of the planned components of the Program listed in section 1411(a)(2) of this title, the Secretary shall—(A) develop an implementation plan;
+
+(B) test the component in order to assess its viability;
+
+(C) evaluate the component in order to assess its contribution toward achieving the program goals; and
+
+(D) transmit to the Committees the implementation plan, the testing results, and an evaluation report.
+
+
+In developing an implementation plan under subparagraph (A) and evaluating components under subparagraph (C), the Secretary shall publish a request for comments in the Customs Bulletin and shall consult with the trade community, including importers, brokers, shippers, and other affected parties.
+
+(2) Implementat</akn:p></akn:content><akn:subsection eId="subsec_1413_a"><akn:num>(a)</akn:num><akn:heading>Overall Program plan</akn:heading><akn:content><akn:p>(a) Overall Program plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1413_b"><akn:num>(b)</akn:num><akn:heading>Implementation plan, testing, and evaluation</akn:heading><akn:content><akn:p>(b) Implementation plan, testing, and evaluation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1413_c"><akn:num>(c)</akn:num><akn:heading>Committees</akn:heading><akn:content><akn:p>(c) Committees For purposes of this section, the term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

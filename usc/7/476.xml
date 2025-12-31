@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/476" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/476/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/476/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_476"><akn:num>476</akn:num><akn:heading>Acreage reports</akn:heading><akn:content><akn:p>§ 476. Acreage reports
+The Secretary of Agriculture shall cause to be issued a report on or before the 12th day of July of each year showing by States and in toto the estimated acreage of cotton planted, to be followed on or before the 12th day of August with an estimate of the acreage for harvest and on or before the 12th day of December with an estimate of the harvested acreage.
+(May 27, 1912, ch. 135, § 1, 37 Stat. 118; Mar. 3, 1927, ch. 337, § 6, 44 Stat. 1374; Pub. L. 85–430, § 1, May 29, 1958, 72 Stat. 149; Pub. L. 92–331, § 2, June 30, 1972, 86 Stat. 400.)
+
+Editorial Notes
+Codification
+Section was not enacted as part of the Cotton Statistics and Estimates Act which enacted sections 471 to 474 of this title and amended sections 475 and 476 of this title.
+Section was formerly classified to section 412 of this title.
+
+Amendments1972—Pub. L. 92–331 substituted “12th” for “10th”, “on or before the 12th day of August” for “on August 1”, and “on or before the 12th day of December” for “on December 1”.
+1958—Pub. L. 85–430 substituted provisions requiring report to show estimated acreage of cotton planted, to be followed with an estimate of acreage for harvest and an estimate of harvested acreage for provisions which required report to show number of acres of cotton in cultivation on July 1 of each year, followed with an estimate of acreage of cotton abandoned since July 1.
+1927—Act Mar. 3, 1927, struck out “Bureau of Statistics of the Department of Agriculture”, substituted “on or before the 10th day of July” for “on or about the first Monday in July” and inserted “on July 1, to be followed on September 1 and December 1 with an estimate of the acreage of cotton abandoned since July 1” after “cultivation”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

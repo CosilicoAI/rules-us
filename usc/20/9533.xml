@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/9533" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/9533/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/9533/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9533"><akn:num>9533</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>§ 9533. Duties(a) General dutiesThe Research Center shall—(1) maintain published peer-review standards and standards for the conduct and evaluation of all research and development carried out under the auspices of the Research Center in accordance with this part;
+
+(2) propose to the Director a research plan that—(A) is consistent with the priorities and mission of the Institute and the mission of the Research Center and includes the activities described in paragraph (3); and
+
+(B) shall be carried out pursuant to paragraph (4) and, as appropriate, be updated and modified;
+
+
+(3) carry out specific, long-term research activities that are consistent with the priorities and mission of the Institute, and are approved by the Director;
+
+(4) implement the plan proposed under paragraph (2) to carry out scientifically valid research that—(A) uses objective and measurable indicators, including timelines, that are used to assess the progress and results of such research;
+
+(B) meets the procedures for peer review established by the Director under section 9514(f)(5) of this title and the standards of research described in section 9534 of this title; and
+
+(C) includes both basic research and applied research, which shall include research conducted through field-initiated research and ongoing research initiatives;
+
+
+(5) promote the use of scientifically valid research within the Federal Government, including active participation in interagency research projects described in section 9518 of this title;
+
+(6) ensure that research conducted under the direction of the Research Center is relevant to education practice and policy;
+
+(7) synthesize and disseminate, through the National Center for Education Evaluation and Regional Assistance, the findings and results of education research conducted or supported by the Research Center;
+
+(8) assist the Director in the preparation of a biennial report, as described in section 9519 of this title;
+
+(9) carry out research on successful State and lo</akn:p></akn:content><akn:subsection eId="subsec_9533_a"><akn:num>(a)</akn:num><akn:heading>General duties</akn:heading><akn:content><akn:p>(a) General duties The Research Center shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9533_b"><akn:num>(b)</akn:num><akn:heading>Eligibility</akn:heading><akn:content><akn:p>(b) Eligibility Research carried out under subsection (a) through contracts, grants, or cooperative agreements shall be carried out only by recipients with the ability and capacity to conduct scientifically valid research.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9533_c"><akn:num>(c)</akn:num><akn:heading>National research and development centers</akn:heading><akn:content><akn:p>(c) National research and development centers</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

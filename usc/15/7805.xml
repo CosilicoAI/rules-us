@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7805" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7805/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7805/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7805"><akn:num>7805</akn:num><akn:heading>Protection of educational institution</akn:heading><akn:content><akn:p>§ 7805. Protection of educational institution(a) Notice requiredWithin 72 hours after entering into an agency contract or before the next athletic event in which the student athlete may participate, whichever occurs first, the athlete agent and the student athlete shall each inform the athletic director of the educational institution at which the student athlete is enrolled, or other individual responsible for athletic programs at such educational institution, that the student athlete has entered into an agency contract, and the athlete agent shall provide the athletic director with notice in writing of such a contract.
+
+
+(b) Civil remedy(1) In generalAn educational institution has a right of action against an athlete agent for damages caused by a violation of this chapter.
+
+
+(2) DamagesDamages of an educational institution may include and are limited to actual losses and expenses incurred because, as a result of the conduct of the athlete agent, the educational institution was injured by a violation of this chapter or was penalized, disqualified, or suspended from participation in athletics by a national association for the promotion and regulation of athletics, by an athletic conference, or by reasonable self-imposed disciplinary action taken to mitigate actions likely to be imposed by such an association or conference.
+
+
+(3) Costs and attorneys feesIn an action taken under this section, the court may award to the prevailing party costs and reasonable attorneys fees.
+
+
+(4) Effect on other rights, remedies and defensesThis section does not restrict the rights, remedies, or defenses of any person under law or equity.
+
+
+
+(Pub. L. 108–304, § 6, Sept. 24, 2004, 118 Stat. 1128.)</akn:p></akn:content><akn:subsection eId="subsec_7805_a"><akn:num>(a)</akn:num><akn:heading>Notice required</akn:heading><akn:content><akn:p>(a) Notice required Within 72 hours after entering into an agency contract or before the next athletic event in which the student athlete may participate, whichever occurs first, the athlete agent and the student athlete shall each inform the athletic director of the educational institution at which the student athlete is enrolled, or other individual responsible for athletic programs at such educational institution, that the student athlete has entered into an agency contract, and the athlete agent shall provide the athletic director with notice in writing of such a contract.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7805_b"><akn:num>(b)</akn:num><akn:heading>Civil remedy</akn:heading><akn:content><akn:p>(b) Civil remedy</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

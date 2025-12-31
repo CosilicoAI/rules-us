@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/4050" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/4050/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/4050/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4050"><akn:num>4050</akn:num><akn:heading>Secure firearms storage</akn:heading><akn:content><akn:p>§ 4050. Secure firearms storage(a) Definitions.—In this section—(1) the term “employee” means a qualified law enforcement officer employed by the Bureau of Prisons; and
+
+(2) the terms “firearm” and “qualified law enforcement officer” have the meanings given those terms under section 926B.
+
+
+(b) Secure Firearms Storage.—The Director of the Bureau of Prisons shall ensure that each chief executive officer of a Federal penal or correctional institution—(1)(A) provides a secure storage area located outside of the secure perimeter of the institution for employees to store firearms; or
+
+(B) allows employees to store firearms in a vehicle lockbox approved by the Director of the Bureau of Prisons; and
+
+
+(2) notwithstanding any other provision of law, allows employees to carry concealed firearms on the premises outside of the secure perimeter of the institution.
+
+
+(Added Pub. L. 115–391, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5216.)</akn:p></akn:content><akn:subsection eId="subsec_4050_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4050_b"><akn:num>(b)</akn:num><akn:heading>Secure Firearms Storage.—</akn:heading><akn:content><akn:p>(b) The Director of the Bureau of Prisons shall ensure that each chief executive officer of a Federal penal or correctional institution—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

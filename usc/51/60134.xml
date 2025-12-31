@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/60134" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/60134/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/60134/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60134"><akn:num>60134</akn:num><akn:heading>Preference for private sector land remote sensing system</akn:heading><akn:content><akn:p>§ 60134. Preference for private sector land remote sensing system(a) In General.—If a successor land remote sensing system to Landsat 7 can be funded and managed by the private sector while still achieving the goals stated in subsection (b) without jeopardizing the domestic, national security, and foreign policy interests of the United States, preference should be given to the development of such a system by the private sector without competition from the United States Government.
+
+(b) Goals.—The goals referred to in subsection (a) are—(1) to encourage the development, launch, and operation of a land remote sensing system that adequately serves the civilian, national security, commercial, and foreign policy interests of the United States;
+
+(2) to encourage the development, launch, and operation of a land remote sensing system that maintains data continuity with the Landsat system; and
+
+(3) to incorporate system enhancements, including any such enhancements developed under the technology demonstration program under section 60133 of this title, which may potentially yield a system that is less expensive to build and operate, and more responsive to data users, than is the Landsat system otherwise projected to be in operation in the future.
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3418.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+60134(a)15 U.S.C. 5641(c).Pub. L. 102–555, title IV, § 401(b), (c), Oct. 28, 1992, 106 Stat. 4176.
+60134(b)15 U.S.C. 5641(b).
+
+
+In subsection (b), in the matter before paragraph (1), the words “In carrying out subsection (a), the Landsat Program Management shall consider the ability of each of the options to” are omitted as obsolete. The omitted words refer to section 401(a) of the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5641(a)), which required, within 5 years after October 28, 1992, the Landsat Program Management, in consultation with representatives of appropriat</akn:p></akn:content><akn:subsection eId="subsec_60134_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) If a successor land remote sensing system to Landsat 7 can be funded and managed by the private sector while still achieving the goals stated in subsection (b) without jeopardizing the domestic, national security, and foreign policy interests of the United States, preference should be given to the development of such a system by the private sector without competition from the United States Government.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60134_b"><akn:num>(b)</akn:num><akn:heading>Goals.—</akn:heading><akn:content><akn:p>(b) The goals referred to in subsection (a) are—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

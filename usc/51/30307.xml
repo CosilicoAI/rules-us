@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/30307" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/30307/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/30307/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30307"><akn:num>30307</akn:num><akn:heading>Requirement for independent cost analysis</akn:heading><akn:content><akn:p>§ 30307. Requirement for independent cost analysis(a) Definition of Implementation.—In this section, the term “implementation” means all activity in the life cycle of a project after preliminary design, independent assessment of the preliminary design, and approval to proceed into implementation, including critical design, development, certification, launch, operations, disposal of assets, and, for technology programs, development, testing, analysis, and communication of the results.
+
+(b) Requirement.—Before any funds may be obligated for implementation of a project that is projected to cost more than $250,000,000 in total project costs, the Administrator shall conduct and consider an independent life-cycle cost analysis of the project and shall report the results to Congress. In developing cost accounting and reporting standards for carrying out this section, the Administrator shall, to the extent practicable and consistent with other laws, solicit the advice of experts outside of the Administration.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3365.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3030742 U.S.C. 2459g.Pub. L. 106–391, title III, § 301, Oct. 30, 2000, 114 Stat. 1591; Pub. L. 109–155, title VII, § 704, Dec. 30, 2005, 119 Stat. 2936.
+
+
+In subsection (b), in the first sentence, the words “the Administrator shall conduct” are substituted for “the Administrator for the National Aeronautics and Space Administration shall conduct” to eliminate unnecessary words.
+In subsection (b), in the last sentence, the word “experts” is substituted for “expertise” for clarity.
+
+Statutory Notes and Related Subsidiaries
+Cost EstimationPub. L. 115–10, title VIII, § 836, Mar. 21, 2017, 131 Stat. 69, provided that:
+“(a) Sense of Congress.—It is the sense of Congress that—“(1) realistic cost estimating is critically important to the ultimate success of major space development projects; and
+
+“(2) the [National Aeron</akn:p></akn:content><akn:subsection eId="subsec_30307_a"><akn:num>(a)</akn:num><akn:heading>Definition of Implementation.—</akn:heading><akn:content><akn:p>(a) In this section, the term “implementation” means all activity in the life cycle of a project after preliminary design, independent assessment of the preliminary design, and approval to proceed into implementation, including critical design, development, certification, launch, operations, disposal of assets, and, for technology programs, development, testing, analysis, and communication of the results.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30307_b"><akn:num>(b)</akn:num><akn:heading>Requirement.—</akn:heading><akn:content><akn:p>(b) Before any funds may be obligated for implementation of a project that is projected to cost more than $250,000,000 in total project costs, the Administrator shall conduct and consider an independent life-cycle cost analysis of the project and shall report the results to Congress. In developing cost accounting and reporting standards for carrying out this section, the Administrator shall, to the extent practicable and consistent with other laws, solicit the advice of experts outside of the Administration.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

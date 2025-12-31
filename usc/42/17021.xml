@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17021" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17021/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17021/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17021"><akn:num>17021</akn:num><akn:heading>Biomass-based diesel and biodiesel labeling</akn:heading><akn:content><akn:p>§ 17021. Biomass-based diesel and biodiesel labeling(a) In generalEach retail diesel fuel pump shall be labeled in a manner that informs consumers of the percent of biomass-based diesel or biodiesel that is contained in the biomass-based diesel blend or biodiesel blend that is offered for sale, as determined by the Federal Trade Commission.
+
+
+(b) Labeling requirementsNot later than 180 days after December 19, 2007, the Federal Trade Commission shall promulgate biodiesel labeling requirements as follows:(1) Biomass-based diesel blends or biodiesel blends that contain less than or equal to 5 percent biomass-based diesel or biodiesel by volume and that meet ASTM D975 diesel specifications shall not require any additional labels.
+
+(2) Biomass-based diesel blends or biodiesel blends that contain more than 5 percent biomass-based diesel or biodiesel by volume but not more than 20 percent by volume shall be labeled “contains biomass-based diesel or biodiesel in quantities between 5 percent and 20 percent”.
+
+(3) Biomass-based diesel or biodiesel blends that contain more than 20 percent biomass based or biodiesel by volume shall be labeled “contains more than 20 percent biomass-based diesel or biodiesel”.
+
+
+(c) DefinitionsIn this section:(1) ASTMThe term “ASTM” means the American Society of Testing and Materials.
+
+
+(2) Biomass-based dieselThe term “biomass-based diesel” means biodiesel as defined in section 13220(f) of this title.
+
+
+(3) BiodieselThe term “biodiesel” means the monoalkyl esters of long chain fatty acids derived from plant or animal matter that meet—(A) the registration requirements for fuels and fuel additives under this section; and
+
+(B) the requirements of ASTM standard D6751.
+
+
+(4) Biomass-based diesel and biodiesel blendsThe terms “biomass-based diesel blend” and “biodiesel blend” means a blend of “biomass-based diesel” or “biodiesel” fuel that is blended with petroleum-based diesel fuel.
+
+
+
+(Pub. L. 110–140, title II, § 205, Dec. 19, 2007, 121 Stat. 1529.</akn:p></akn:content><akn:subsection eId="subsec_17021_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Each retail diesel fuel pump shall be labeled in a manner that informs consumers of the percent of biomass-based diesel or biodiesel that is contained in the biomass-based diesel blend or biodiesel blend that is offered for sale, as determined by the Federal Trade Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17021_b"><akn:num>(b)</akn:num><akn:heading>Labeling requirements</akn:heading><akn:content><akn:p>(b) Labeling requirements Not later than 180 days after December 19, 2007, the Federal Trade Commission shall promulgate biodiesel labeling requirements as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17021_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

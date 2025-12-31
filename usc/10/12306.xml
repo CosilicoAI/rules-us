@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/12306" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/12306/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/12306/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12306"><akn:num>12306</akn:num><akn:heading>Standby Reserve</akn:heading><akn:content><akn:p>§ 12306. Standby Reserve(a) Units and members in the Standby Reserve may be ordered to active duty only as provided in section 12301 of this title, but subject to the limitations in subsection (b).
+
+(b) In time of emergency—(1) no unit in the Standby Reserve organized to serve as a unit or any member thereof may be ordered to active duty under section 12301(a) of this title, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough of the required kinds of units in the Ready Reserve that are readily available; and
+
+(2) notwithstanding section 12301(a) of this title, no other member in the Standby Reserve may be ordered to active duty as an individual under such section without his consent, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough qualified members in the Ready Reserve in the required category who are readily available.
+
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 29, § 674; Pub. L. 87–651, title I, § 130, Sept. 7, 1962, 76 Stat. 514; renumbered § 12306 and amended Pub. L. 103–337, div. A, title XVI, §§ 1662(e)(2), 1675(c)(4), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 108–375, div. A, title V, § 514(d), Oct. 28, 2004, 118 Stat. 1883.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+1956 Act
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+674(a) 674(b)50:926(a) (less 1st 28 words).50:926(b).July 9, 1952, ch. 608, § 206 (less 1st 28 words of (a)), 66 Stat. 483.
+
+
+In subsection (b), the words “to serve” are substituted for the words “for the purpose of serving”. The words “there are not enough * * * that are” are substituted for the words “adequate numbers of * * * are not”. The words “(other than for training)” are inserted, since the words “active duty” were defined in the source statute cited above to exclude “active duty for t</akn:p></akn:content><akn:subsection eId="subsec_12306_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Units and members in the Standby Reserve may be ordered to active duty only as provided in section 12301 of this title, but subject to the limitations in subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12306_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In time of emergency—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

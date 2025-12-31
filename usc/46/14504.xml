@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/14504" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/14504/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/14504/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_14504"><akn:num>14504</akn:num><akn:heading>Remeasurement</akn:heading><akn:content><akn:p>§ 14504. Remeasurement(a) To the extent necessary, the Secretary shall remeasure a vessel to which this chapter applies if—(1) the Secretary or the owner alleges an error in its measurement;
+
+(2) the vessel or the use of its space is changed in a way that substantially affects its tonnage;
+
+(3) after being measured under subchapter III of this chapter, the vessel becomes subject to subchapter II of this chapter because the vessel or its use is changed; or
+
+(4) although not required to be measured under subchapter II of this chapter, the vessel was measured under subchapter II and the owner requests that the vessel be measured under subchapter III of this chapter.
+
+
+(b) Except as provided in this section and chapter 143 of this title, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.
+
+(Pub. L. 99–509, title V, § 5101(3), Oct. 21, 1986, 100 Stat. 1923.)
+
+Historical and Revision NotesRevised section 14504
+Source: Section (U.S. Code) 46 App. U.S.C. 71.
+Section 14504(a) provides that the Secretary shall remeasure a vessel that has been measured under the regulatory measurement system if either the Secretary or the owner alleges an error in its measurement; if the vessel, or its use, undergoes a substantial change affecting its tonnage; if the vessel loses its eligibility for measurement under the simplified system because of a change in the vessel or its use; or if the vessel owner requests that the vessel be measured under the simplified system after having been measured under the standard regulatory measurement system. Section 14504(b) provides that a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121—“Documentation of Vessels”—except as provided above or in chapter 143 of this subtitle.</akn:p></akn:content><akn:subsection eId="subsec_14504_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) To the extent necessary, the Secretary shall remeasure a vessel to which this chapter applies if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14504_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as provided in this section and chapter 143 of this title, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

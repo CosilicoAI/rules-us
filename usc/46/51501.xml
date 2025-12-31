@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/51501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/51501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/51501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_51501"><akn:num>51501</akn:num><akn:heading>General support program</akn:heading><akn:content><akn:p>§ 51501. General support program(a) Assistance to State Maritime Academies.—The Secretary of Transportation shall cooperate with and assist State maritime academies in providing instruction to individuals to prepare them for service in the merchant marine of the United States.
+
+(b) Course Development.—The Secretary shall provide to each State maritime academy guidance and assistance in developing courses on the operation and maintenance of new vessels, on equipment, and on innovations being introduced to the merchant marine of the United States.
+
+(c) American Maritime Centers of Excellence.—The Secretary shall designate each State maritime academy as an American Maritime Center of Excellence.
+
+(Pub. L. 109–304, § 8(b), Oct. 6, 2006, 120 Stat. 1577; Pub. L. 116–92, div. C, title XXXV, § 3505, Dec. 20, 2019, 133 Stat. 1970.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+51501(a)46 App.:1295c(a).June 29, 1936, ch. 858, title XIII, § 1304(a), (d)(2), as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 2003, 2004.
+51501(b)46 App.:1295c(d)(2).
+
+
+
+Editorial Notes
+Amendments2019—Subsec. (c). Pub. L. 116–92 added subsec. (c).</akn:p></akn:content><akn:subsection eId="subsec_51501_a"><akn:num>(a)</akn:num><akn:heading>Assistance to State Maritime Academies.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation shall cooperate with and assist State maritime academies in providing instruction to individuals to prepare them for service in the merchant marine of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51501_b"><akn:num>(b)</akn:num><akn:heading>Course Development.—</akn:heading><akn:content><akn:p>(b) The Secretary shall provide to each State maritime academy guidance and assistance in developing courses on the operation and maintenance of new vessels, on equipment, and on innovations being introduced to the merchant marine of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51501_c"><akn:num>(c)</akn:num><akn:heading>American Maritime Centers of Excellence.—</akn:heading><akn:content><akn:p>(c) The Secretary shall designate each State maritime academy as an American Maritime Center of Excellence.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/321" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/321/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/321/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_321"><akn:num>321</akn:num><akn:heading>General authority of the Secretary</akn:heading><akn:content><akn:p>§ 321. General authority of the Secretary(a) The Secretary of the Treasury shall—(1) prepare plans for improving and managing receipts of the United States Government and managing the public debt;
+
+(2) carry out services related to finances that the Secretary is required to perform;
+
+(3) issue warrants for money drawn on the Treasury consistent with appropriations;
+
+(4) mint coins, engrave and print currency and security documents, and refine and assay bullion, and may strike medals;
+
+(5) prescribe regulations that the Secretary considers best calculated to promote the public convenience and security, and to protect the Government and individuals from fraud and loss, that apply to anyone who may—(A) receive for the Government, Treasury notes, United States notes, or other Government securities; or
+
+(B) be engaged or employed in preparing and issuing those notes or securities;
+
+
+(6) collect receipts;
+
+(7) with a view to prosecuting persons, take steps to discover fraud and attempted fraud involving receipts and decide on ways to prevent and detect fraud;
+
+(8) maintain separate accounts of taxes received in each State, territory, and possession of the United States, and collection district, with each account listing—(A) each kind of tax;
+
+(B) the amount of each tax; and
+
+(C) the money paid as pay and allowances to officers and employees of the Department collecting taxes in that State, territory, possession, or district; and
+
+
+(9) advise the President on major domestic and international prudential policy issues in connection with all lines of insurance except health insurance.
+
+
+(b) The Secretary may—(1) prescribe regulations to carry out the duties and powers of the Secretary;
+
+(2) delegate duties and powers of the Secretary to another officer or employee of the Department of the Treasury;
+
+(3) transfer within the Department the records, property, officers, employees, and unexpended balances of appropriations, allocations, and amounts of the Department that the Secre</akn:p></akn:content><akn:subsection eId="subsec_321_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of the Treasury shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_321_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_321_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Duties and powers of officers and employees of the Department are vested in the Secretary except duties and powers—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_321_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

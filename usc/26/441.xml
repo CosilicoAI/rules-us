@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/441" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/441/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/441/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_441"><akn:num>441</akn:num><akn:heading>Period for computation of taxable income</akn:heading><akn:content><akn:p>§ 441. Period for computation of taxable income(a) Computation of taxable incomeTaxable income shall be computed on the basis of the taxpayer’s taxable year.
+
+
+(b) Taxable yearFor purposes of this subtitle, the term “taxable year” means—(1) the taxpayer’s annual accounting period, if it is a calendar year or a fiscal year;
+
+(2) the calendar year, if subsection (g) applies;
+
+(3) the period for which the return is made, if a return is made for a period of less than 12 months; or
+
+(4) in the case of a DISC filing a return for a period of at least 12 months, the period determined under subsection (h).
+
+
+(c) Annual accounting periodFor purposes of this subtitle, the term “annual accounting period” means the annual period on the basis of which the taxpayer regularly computes his income in keeping his books.
+
+
+(d) Calendar yearFor purposes of this subtitle, the term “calendar year” means a period of 12 months ending on December 31.
+
+
+(e) Fiscal yearFor purposes of this subtitle, the term “fiscal year” means a period of 12 months ending on the last day of any month other than December. In the case of any taxpayer who has made the election provided by subsection (f) the term means the annual period (varying from 52 to 53 weeks) so elected.
+
+
+(f) Election of year consisting of 52–53 weeks(1) General ruleA taxpayer who, in keeping his books, regularly computes his income on the basis of an annual period which varies from 52 to 53 weeks and ends always on the same day of the week and ends always—(A) on whatever date such same day of the week last occurs in a calendar month, or
+
+(B) on whatever date such same day of the week falls which is nearest to the last day of a calendar month,
+
+
+may (in accordance with the regulations prescribed under paragraph (3)) elect to compute his taxable income for purposes of this subtitle on the basis of such annual period. This paragraph shall apply to taxable years ending after the date of the enactment of this title.
+
+(2) Special rules for 52–</akn:p></akn:content><akn:subsection eId="subsec_441_a"><akn:num>(a)</akn:num><akn:heading>Computation of taxable income</akn:heading><akn:content><akn:p>(a) Computation of taxable income Taxable income shall be computed on the basis of the taxpayer’s taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_b"><akn:num>(b)</akn:num><akn:heading>Taxable year</akn:heading><akn:content><akn:p>(b) Taxable year For purposes of this subtitle, the term “taxable year” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_c"><akn:num>(c)</akn:num><akn:heading>Annual accounting period</akn:heading><akn:content><akn:p>(c) Annual accounting period For purposes of this subtitle, the term “annual accounting period” means the annual period on the basis of which the taxpayer regularly computes his income in keeping his books.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_d"><akn:num>(d)</akn:num><akn:heading>Calendar year</akn:heading><akn:content><akn:p>(d) Calendar year For purposes of this subtitle, the term “calendar year” means a period of 12 months ending on December 31.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_e"><akn:num>(e)</akn:num><akn:heading>Fiscal year</akn:heading><akn:content><akn:p>(e) Fiscal year For purposes of this subtitle, the term “fiscal year” means a period of 12 months ending on the last day of any month other than December. In the case of any taxpayer who has made the election provided by subsection (f) the term means the annual period (varying from 52 to 53 weeks) so elected.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_f"><akn:num>(f)</akn:num><akn:heading>Election of year consisting of 52–53 weeks</akn:heading><akn:content><akn:p>(f) Election of year consisting of 52–53 weeks</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_g"><akn:num>(g)</akn:num><akn:heading>No books kept; no accounting period</akn:heading><akn:content><akn:p>(g) No books kept; no accounting period Except as provided in section 443 (relating to returns for periods of less than 12 months), the taxpayer’s taxable year shall be the calendar year if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_h"><akn:num>(h)</akn:num><akn:heading>Taxable year of DISC’s</akn:heading><akn:content><akn:p>(h) Taxable year of DISC’s</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_i"><akn:num>(i)</akn:num><akn:heading>Taxable year of personal service corporations</akn:heading><akn:content><akn:p>(i) Taxable year of personal service corporations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

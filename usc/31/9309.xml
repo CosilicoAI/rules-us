@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/9309" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/9309/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/9309/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9309"><akn:num>9309</akn:num><akn:heading>Priority of sureties</akn:heading><akn:content><akn:p>§ 9309. Priority of sureties
+When a person required to provide a surety bond given to the United States Government is insolvent or dies having assets insufficient to pay debts, the surety, or the executor, administrator, or assignee of the surety paying the Government the amount due under the bond—(1) has the same priority to amounts from the assets and estate of the person as are secured for the Government; and
+
+(2) personally may bring a civil action under the bond to recover amounts paid under the bond.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1049.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+930931:193.R.S. § 3468.
+
+
+In the section, before clause (1), the words “person required to provide a surety bond” are substituted for “principal in any bond” for clarity and consistency. The words “dies having assets insufficient to pay debts” are substituted for “whenever, such principal being deceased, his estate and effects which come to the hands of his executor, administrator, or assignee, are insufficient for the payment of his debts” to eliminate unnecessary words. The words “and, in either of such cases”, “on the bond”, and “such surety, his executor, administrator, or assignee” are omitted as unnecessary. Clause (1) is substituted for “shall have the like priority for the recovery and receipt of the moneys out of the estate and effects of such insolvent or deceased principal as is secured to the United States” to eliminate unnecessary words and for clarity. In clause (2), the words “and maintain” are omitted as surplus. The words “civil action” are substituted for “suit” for consistency. The words “in law or equity” are omitted as surplus.</akn:p></akn:content><akn:subsection eId="subsec_9309_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) has the same priority to amounts from the assets and estate of the person as are secured for the Government; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9309_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) personally may bring a civil action under the bond to recover amounts paid under the bond.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

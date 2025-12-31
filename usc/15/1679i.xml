@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/1679i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/1679i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/1679i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1679i"><akn:num>1679i</akn:num><akn:heading>Statute of limitations</akn:heading><akn:content><akn:p>§ 1679i. Statute of limitations
+Any action to enforce any liability under this subchapter may be brought before the later of—(1) the end of the 5-year period beginning on the date of the occurrence of the violation involved; or
+
+(2) in any case in which any credit repair organization has materially and willfully misrepresented any information which—(A) the credit repair organization is required, by any provision of this subchapter, to disclose to any consumer; and
+
+(B) is material to the establishment of the credit repair organization’s liability to the consumer under this subchapter,
+
+
+the end of the 5-year period beginning on the date of the discovery by the consumer of the misrepresentation.
+
+(Pub. L. 90–321, title IV, § 411, as added Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–461.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1679i_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the end of the 5-year period beginning on the date of the occurrence of the violation involved; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1679i_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) in any case in which any credit repair organization has materially and willfully misrepresented any information which— the end of the 5-year period beginning on the date of the discovery by the consumer of the misrepresentation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

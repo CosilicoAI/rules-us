@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3602" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3602/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3602/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3602"><akn:num>3602</akn:num><akn:heading>Office of Electronic Government</akn:heading><akn:content><akn:p>§ 3602. Office of Electronic Government(a) There is established in the Office of Management and Budget an Office of Electronic Government.
+
+(b) There shall be at the head of the Office an Administrator who shall be appointed by the President.
+
+(c) The Administrator shall assist the Director in carrying out—(1) all functions under this chapter;
+
+(2) all of the functions assigned to the Director under title II of the E-Government Act of 2002; and
+
+(3) other electronic government initiatives, consistent with other statutes.
+
+
+(d) The Administrator shall assist the Director and the Deputy Director for Management and work with the Administrator of the Office of Information and Regulatory Affairs in setting strategic direction for implementing electronic Government, under relevant statutes, including—(1) chapter 35;
+
+(2) subtitle III of title 40, United States Code;
+
+(3) section 552a of title 5 (commonly referred to as the “Privacy Act”);
+
+(4) the Government Paperwork Elimination Act (44 U.S.C. 3504 note); and
+
+(5) the Federal Information Security Management Act of 2002.
+
+
+(e) The Administrator shall work with the Administrator of the Office of Information and Regulatory Affairs and with other offices within the Office of Management and Budget to oversee implementation of electronic Government under this chapter, chapter 35, the E-Government Act of 2002, and other relevant statutes, in a manner consistent with law, relating to—(1) capital planning and investment control for information technology;
+
+(2) the development of enterprise architectures;
+
+(3) information security;
+
+(4) privacy;
+
+(5) access to, dissemination of, and preservation of Government information;
+
+(6) accessibility of information technology for persons with disabilities; and
+
+(7) other areas of electronic Government.
+
+
+(f) Subject to requirements of this chapter, the Administrator shall assist the Director by performing electronic Government functions as follows:(1) Advise the Director on the resources re</akn:p></akn:content><akn:subsection eId="subsec_3602_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) There is established in the Office of Management and Budget an Office of Electronic Government.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3602_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) There shall be at the head of the Office an Administrator who shall be appointed by the President.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3602_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Administrator shall assist the Director in carrying out—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3602_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Administrator shall assist the Director and the Deputy Director for Management and work with the Administrator of the Office of Information and Regulatory Affairs in setting strategic direction for implementing electronic Government, under relevant statutes, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3602_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) The Administrator shall work with the Administrator of the Office of Information and Regulatory Affairs and with other offices within the Office of Management and Budget to oversee implementation of electronic Government under this chapter, chapter 35, the E-Government Act of 2002, and other relevant statutes, in a manner consistent with law, relating to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3602_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) Subject to requirements of this chapter, the Administrator shall assist the Director by performing electronic Government functions as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3602_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevant offices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

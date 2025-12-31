@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16513" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16513/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16513/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16513"><akn:num>16513</akn:num><akn:heading>Eligible projects</akn:heading><akn:content><akn:p>§ 16513. Eligible projects(a) In generalThe Secretary may make guarantees under this section only for projects that—(1) avoid, reduce, utilize, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
+
+(2) employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued, including projects that employ elements of commercial technologies in combination with new or significantly improved technologies.
+
+
+(b) CategoriesProjects from the following categories shall be eligible for a guarantee under this section:(1) Renewable energy systems.
+
+(2) Advanced fossil energy technology (including coal gasification meeting the criteria in subsection (d)).
+
+(3) Hydrogen fuel cell technology for residential, industrial, or transportation applications.
+
+(4) Advanced nuclear energy facilities, including manufacturing of nuclear supply components for advanced nuclear reactors.
+
+(5) Carbon capture, utilization, and sequestration practices and technologies, including—(A) agricultural and forestry practices that store and sequester carbon; and
+
+(B) synthetic technologies to remove carbon from the air and oceans.
+
+
+(6) Efficient electrical generation, transmission, and distribution technologies.
+
+(7) Efficient end-use energy technologies.
+
+(8) Production facilities for the manufacture of fuel efficient vehicles or parts of those vehicles, including electric drive vehicles and advanced diesel vehicles.
+
+(9) Pollution control equipment.
+
+(10) Refineries, meaning facilities at which crude oil is refined into gasoline.
+
+(11) Energy storage technologies for residential, industrial, transportation, and power generation applications.
+
+(12) Technologies or processes for reducing greenhouse gas emissions from industrial applications, including iron, steel, cement, and ammonia production, hydrogen production, and the generation of high-temperature heat.
+
+(13) Projects that increase the</akn:p></akn:content><akn:subsection eId="subsec_16513_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may make guarantees under this section only for projects that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16513_b"><akn:num>(b)</akn:num><akn:heading>Categories</akn:heading><akn:content><akn:p>(b) Categories Projects from the following categories shall be eligible for a guarantee under this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16513_c"><akn:num>(c)</akn:num><akn:heading>Gasification projects</akn:heading><akn:content><akn:p>(c) Gasification projects The Secretary may make guarantees for the following gasification projects:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16513_d"><akn:num>(d)</akn:num><akn:heading>Emission levels</akn:heading><akn:content><akn:p>(d) Emission levels In addition to any other applicable Federal or State emission limitation requirements, a project shall attain at least—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16513_e"><akn:num>(e)</akn:num><akn:heading>Qualification of facilities receiving tax credits</akn:heading><akn:content><akn:p>(e) Qualification of facilities receiving tax credits A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16513_f"><akn:num>(f)</akn:num><akn:heading>Regional variation</akn:heading><akn:content><akn:p>(f) Regional variation Notwithstanding subsection (a)(2), the Secretary may, if regional variation significantly affects the deployment of a technology, make guarantees under this subchapter for up to 6 projects that employ the same or similar technology as another project, provided no more than 2 projects that use the same or a similar technology are located in the same region of the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/856" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/856/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/856/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_856"><akn:num>856</akn:num><akn:heading>Art. 56. Sentencing</akn:heading><akn:content><akn:p>§ 856. Art. 56. Sentencing(a) Sentence Maximums.—The punishment which a court-martial may direct for an offense may not exceed such limits as the President may prescribe for that offense.
+
+(b) Sentence Minimums for Certain Offenses.—(1) Except as provided in subsection (c) 11 See References in Text note below. of section 853a of this title (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
+
+(2) The offenses referred to in paragraph (1) are as follows:(A) Rape under subsection (a) of section 920 of this title (article 120).
+
+(B) Sexual assault under subsection (b) of such section (article).
+
+(C) Rape of a child under subsection (a) of section 920b of this title (article 120b).
+
+(D) Sexual assault of a child under subsection (b) of such section (article).
+
+(E) An attempt to commit an offense specified in subparagraph (A), (B), (C), or (D) that is punishable under section 880 of this title (article 80).
+
+(F) Conspiracy to commit an offense specified in subparagraph (A), (B), (C), or (D) that is punishable under section 881 of this title (article 81).
+
+
+
+(c) Imposition of Sentence.—(1) In general.—In sentencing an accused under section 853 of this title (article 53), a court-martial shall impose punishment that is sufficient, but not greater than necessary, to promote justice and to maintain good order and discipline in the armed forces, taking into consideration—(A) the nature and circumstances of the offense and the history and characteristics of the accused;
+
+(B) the impact of the offense on—(i) the financial, social, psychological, or medical well-being of any victim of the offense; and
+
+(ii) the mission, discipline, or efficiency of the command of the accused and any victim of the offense;
+
+
+(C) the need for the sentence—(i) to reflect the seriousness of the offense;
+
+(ii) to promote respect for the law;
+
+(iii) to provide just punishment for the offense;
+
+(iv) to promote adequate de</akn:p></akn:content><akn:subsection eId="subsec_856_a"><akn:num>(a)</akn:num><akn:heading>Sentence Maximums.—</akn:heading><akn:content><akn:p>(a) The punishment which a court-martial may direct for an offense may not exceed such limits as the President may prescribe for that offense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_856_b"><akn:num>(b)</akn:num><akn:heading>Sentence Minimums for Certain Offenses.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_856_c"><akn:num>(c)</akn:num><akn:heading>Imposition of Sentence.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_856_d"><akn:num>(d)</akn:num><akn:heading>Appeal of Sentence by the United States.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

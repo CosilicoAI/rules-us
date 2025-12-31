@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1395b–7" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1395b–7/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1395b–7/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1395b_7"><akn:num>1395b–7</akn:num><akn:heading>Explanation of medicare benefits</akn:heading><akn:content><akn:p>§ 1395b–7. Explanation of medicare benefits(a) In generalThe Secretary shall furnish to each individual for whom payment has been made under this subchapter (or would be made without regard to any deductible) a statement which—(1) lists the item or service for which payment has been made and the amount of such payment for each item or service; and
+
+(2) includes a notice of the individual’s right to request an itemized statement (as provided in subsection (b)).
+
+
+(b) Request for itemized statement for medicare items and services(1) In generalAn individual may submit a written request to any physician, provider, supplier, or any other person (including an organization, agency, or other entity) for an itemized statement for any item or service provided to such individual by such person with respect to which payment has been made under this subchapter.
+
+
+(2) 30-day period to furnish statement(A) In generalNot later than 30 days after the date on which a request under paragraph (1) has been made, a person described in such paragraph shall furnish an itemized statement describing each item or service provided to the individual requesting the itemized statement.
+
+
+(B) PenaltyWhoever knowingly fails to furnish an itemized statement in accordance with subparagraph (A) shall be subject to a civil money penalty of not more than $100 for each such failure. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
+
+
+
+(3) Review of itemized statement(A) In generalNot later than 90 days after the receipt of an itemized statement furnished under paragraph (1), an individual may submit a written request for a review of the itemized statement to the Secretary.
+
+
+(B) Specific allegationsA request for a review of the itemized statement shall identify—(i) specific items or services that the individual believes were not provided as claimed, or
+
+(ii) any other</akn:p></akn:content><akn:subsection eId="subsec_1395b_7_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall furnish to each individual for whom payment has been made under this subchapter (or would be made without regard to any deductible) a statement which—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395b_7_b"><akn:num>(b)</akn:num><akn:heading>Request for itemized statement for medicare items and services</akn:heading><akn:content><akn:p>(b) Request for itemized statement for medicare items and services</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395b_7_c"><akn:num>(c)</akn:num><akn:heading>Format of statements from Secretary</akn:heading><akn:content><akn:p>(c) Format of statements from Secretary</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

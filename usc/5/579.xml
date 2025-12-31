@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/579" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/579/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/579/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_579"><akn:num>579</akn:num><akn:heading>Arbitration proceedings</akn:heading><akn:content><akn:p>§ 579. Arbitration proceedings(a) The arbitrator shall set a time and place for the hearing on the dispute and shall notify the parties not less than 5 days before the hearing.
+
+(b) Any party wishing a record of the hearing shall—(1) be responsible for the preparation of such record;
+
+(2) notify the other parties and the arbitrator of the preparation of such record;
+
+(3) furnish copies to all identified parties and the arbitrator; and
+
+(4) pay all costs for such record, unless the parties agree otherwise or the arbitrator determines that the costs should be apportioned.
+
+
+(c)(1) The parties to the arbitration are entitled to be heard, to present evidence material to the controversy, and to cross-examine witnesses appearing at the hearing.
+
+(2) The arbitrator may, with the consent of the parties, conduct all or part of the hearing by telephone, television, computer, or other electronic means, if each party has an opportunity to participate.
+
+(3) The hearing shall be conducted expeditiously and in an informal manner.
+
+(4) The arbitrator may receive any oral or documentary evidence, except that irrelevant, immaterial, unduly repetitious, or privileged evidence may be excluded by the arbitrator.
+
+(5) The arbitrator shall interpret and apply relevant statutory and regulatory requirements, legal precedents, and policy directives.
+
+
+(d) No interested person shall make or knowingly cause to be made to the arbitrator an unauthorized ex parte communication relevant to the merits of the proceeding, unless the parties agree otherwise. If a communication is made in violation of this subsection, the arbitrator shall ensure that a memorandum of the communication is prepared and made a part of the record, and that an opportunity for rebuttal is allowed. Upon receipt of a communication made in violation of this subsection, the arbitrator may, to the extent consistent with the interests of justice and the policies underlying this subchapter, require the offending party to show cause </akn:p></akn:content><akn:subsection eId="subsec_579_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The arbitrator shall set a time and place for the hearing on the dispute and shall notify the parties not less than 5 days before the hearing.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_579_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Any party wishing a record of the hearing shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_579_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_579_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) No interested person shall make or knowingly cause to be made to the arbitrator an unauthorized ex parte communication relevant to the merits of the proceeding, unless the parties agree otherwise. If a communication is made in violation of this subsection, the arbitrator shall ensure that a memorandum of the communication is prepared and made a part of the record, and that an opportunity for rebuttal is allowed. Upon receipt of a communication made in violation of this subsection, the arbitrator may, to the extent consistent with the interests of justice and the policies underlying this subchapter, require the offending party to show cause why the claim of such party should not be resolved against such party as a result of the improper conduct.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_579_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) The arbitrator shall make the award within 30 days after the close of the hearing, or the date of the filing of any briefs authorized by the arbitrator, whichever date is later, unless—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5582" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5582/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5582/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5582"><akn:num>5582</akn:num><akn:heading>Designation of beneficiary; order of precedence</akn:heading><akn:content><akn:p>§ 5582. Designation of beneficiary; order of precedence(a) The employing agency shall notify each employee of his right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is not designated. An employee may change or revoke a designation at any time under regulations promulgated—(1) by the Director of the Office of Personnel Management or his designee, in the case of an employee of an executive agency;
+
+(2) jointly by the President pro tempore of the Senate and the Speaker of the House of Representatives, or their designee, in the case of an employee of the legislative branch; and
+
+(3) by the Chief Justice of the United States or his or her designee, in the case of an employee of the judicial branch.
+
+
+(b) In order to facilitate the settlement of the accounts of deceased employees, money due an employee at the time of his death shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and the payment bars recovery by another person of amounts so paid:First, to the beneficiary or beneficiaries designated by the employee in a writing received in the employing agency before his death.
+Second, if there is no designated beneficiary, to the widow or widower of the employee.
+Third, if none of the above, to the child or children of the employee and descendants of deceased children by representation.
+Fourth, if none of the above, to the parents of the employee or the survivor of them.
+Fifth, if none of the above, to the duly appointed legal representative of the estate of the employee.
+Sixth, if none of the above, to the person or persons entitled under the laws of the domicile of the employee at the time of his death.
+
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 495; Pub. L. 104–316, title I, § 103(c), Oct. 19, 1996, 110 Stat. 3828.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+(a)5 U.S.C. 61j.Aug. 3, 19</akn:p></akn:content><akn:subsection eId="subsec_5582_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The employing agency shall notify each employee of his right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is not designated. An employee may change or revoke a designation at any time under regulations promulgated—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5582_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In order to facilitate the settlement of the accounts of deceased employees, money due an employee at the time of his death shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and the payment bars recovery by another person of amounts so paid:First, to the beneficiary or beneficiaries designated by the employee in a writing received in the employing agency before his death.
+Second, if there is no designated beneficiary, to the widow or widower of the employee.
+Third, if none of the above, to the child or children of the employee and descendants of deceased children by representation.
+Fourth, if none of the above, to the parents of the employee or the survivor of them.
+Fifth, if none of the above, to the duly appointed legal representative of the estate of the employee.
+Sixth, if none of the above, to the person or persons entitled under the laws of the domicile of the employee at the time of his death.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/4103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/4103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/4103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4103"><akn:num>4103</akn:num><akn:heading>Duties of Commission; publication of guidelines; report to Congress</akn:heading><akn:content><akn:p>§ 4103. Duties of Commission; publication of guidelines; report to Congress(a) The Commission shall—(1) develop and recommend an integrated national Arctic research policy;
+
+(2) in cooperation with the Interagency Arctic Research Policy Committee established under section 4106 of this title, assist in establishing a national Arctic research program plan to implement the Arctic research policy;
+
+(3) facilitate cooperation between the Federal Government and State and local governments with respect to Arctic research;
+
+(4) review Federal research programs in the Arctic and recommend improvements in coordination among programs;
+
+(5) recommend methods to improve logistical planning and support for Arctic research as may be appropriate and in accordance with the findings and purposes of this chapter;
+
+(6) recommend methods for improving efficient sharing and dissemination of data and information on the Arctic among interested public and private institutions;
+
+(7) offer other recommendations and advice to the Interagency Committee established under section 4106 of this title as it may find appropriate;
+
+(8) cooperate with the Governor of the State of Alaska and with agencies and organizations of that State which the Governor may designate with respect to the formulation of Arctic research policy;
+
+(9) recommend to the Interagency Committee the means for developing international scientific cooperation in the Arctic; and
+
+(10) not later than January 31, 1991, and every 2 years thereafter, publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties.
+
+
+(b) Not later than January 31 of each year, the Commission shall submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.
+
+(Pub. L. 98–373, title I, § 104, July 31, 1984, 98 Stat. 1244; Pub. L. 101</akn:p></akn:content><akn:subsection eId="subsec_4103_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Commission shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4103_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Not later than January 31 of each year, the Commission shall submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

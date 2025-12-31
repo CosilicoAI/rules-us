@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/6337" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/6337/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/6337/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6337"><akn:num>6337</akn:num><akn:heading>Accrual of leave</akn:heading><akn:content><akn:p>§ 6337. Accrual of leave(a) For the purpose of this section—(1) the term “paid leave status under subchapter I”, as used with respect to an employee, means the administrative status of such employee while such employee is using sick leave, or annual leave, accrued or accumulated under subchapter I; and
+
+(2) the term “transferred leave status”, as used with respect to an employee, means the administrative status of such employee while such employee is using transferred leave under this subchapter.
+
+
+(b)(1) Except as otherwise provided in this section, while an employee is in a transferred leave status, annual leave and sick leave shall accrue to the credit of such employee at the same rate as if such employee were then in a paid leave status under subchapter I, except that—(A) the maximum amount of annual leave which may be accrued by an employee while in transferred leave status in connection with any particular medical emergency may not exceed 5 days; and
+
+(B) the maximum amount of sick leave which may be accrued by an employee while in transferred leave status in connection with any particular medical emergency may not exceed 5 days.
+
+
+(2) Any annual or sick leave accrued by an employee under this section—(A) shall be credited to an annual leave or sick leave account, as appropriate, separate from any leave account of such employee under subchapter I; and
+
+(B) shall not become available for use by such employee, and may not otherwise be taken into account under subchapter I, until, in accordance with subsection (c), it is transferred to the appropriate leave account of such employee under subchapter I.
+
+
+
+(c)(1) Any annual or sick leave accrued by an employee under this section shall be transferred to the appropriate leave account of such employee under subchapter I, and shall be available for use—(A) as of the beginning of the first applicable pay period beginning after the date on which the employee’s medical emergency terminates as described in paragraph (1) or</akn:p></akn:content><akn:subsection eId="subsec_6337_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For the purpose of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6337_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6337_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6337_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Nothing in this section shall be considered to prevent, with respect to a continuing medical emergency, further transfers of leave for use after leave accrued under this section has been exhausted by the employee.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/6307" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/6307/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/6307/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6307"><akn:num>6307</akn:num><akn:heading>Notifications to Congress</akn:heading><akn:content><akn:p>§ 6307. Notifications to Congress(a) The Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of any hearing, before the hearing occurs, investigating a major marine casualty involving a death under section 6301 of this title.
+
+(b) The Secretary shall submit to a committee referred to in subsection (a) of this section information on a major marine casualty that is requested by that committee or the chairman of the committee if the submission of that information is not prohibited by a law of the United States.
+
+(c) The Secretary shall submit annually to Congress a summary of the marine casualties reported during the prior fiscal year, together with a brief statement of action taken concerning those casualties.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 538; Pub. L. 107–295, title IV, § 408(c)(1), Nov. 25, 2002, 116 Stat. 2117.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+630746:239(j)33:366
+
+
+Subsection (a) requires the Secretary to notify the Merchant Marine and Fisheries Committee and the Senate Commerce Committee in advance of any hearing concerning a major marine accident (as defined by regulation) where there has been a loss of life.
+Subsection (b) requires the Coast Guard to supply the Merchant Marine and Fisheries Committee and the Senate Commerce Committee with any requested marine casualty information, if its release is not specifically prohibited by law.
+Subsection (c) requires the Secretary to submit an annual report to Congress summarizing the marine casualties reported during the prior fiscal year, with a brief statement of action taken concerning those casualties.
+
+Editorial Notes
+Amendments2002—Subsec. (a). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.</akn:p></akn:content><akn:subsection eId="subsec_6307_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of any hearing, before the hearing occurs, investigating a major marine casualty involving a death under section 6301 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6307_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary shall submit to a committee referred to in subsection (a) of this section information on a major marine casualty that is requested by that committee or the chairman of the committee if the submission of that information is not prohibited by a law of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6307_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary shall submit annually to Congress a summary of the marine casualties reported during the prior fiscal year, together with a brief statement of action taken concerning those casualties.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

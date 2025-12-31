@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/1903" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/1903/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/1903/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1903"><akn:num>1903</akn:num><akn:heading>Special emergency procurement authority</akn:heading><akn:content><akn:p>§ 1903. Special emergency procurement authority(a) Applicability.—The authorities provided in subsections (b) and (c) apply with respect to a procurement of property or services by or for an executive agency that the head of the executive agency determines are to be used—(1) in support of a contingency operation (as defined in section 101(a) of title 10);
+
+(2) to facilitate the defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack against the United States;
+
+(3) in support of a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate the provision of international disaster assistance pursuant to chapter 9 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2292 et seq.); or
+
+(4) in support of an emergency or major disaster (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)).
+
+
+(b) Increased Thresholds and Limitation.—For a procurement to which this section applies under subsection (a)—(1) the amount specified in section 1902(a), (d), and (e) of this title shall be deemed to be—(A) $15,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
+
+(B) $25,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States;
+
+
+(2) the term “simplified acquisition threshold” means—(A) $750,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
+
+(B) $1,500,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
+
+
+(3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section 3205(a)(2) of title 10 is deemed to be $10,000,000.
+
+
+(c) Authority To Treat Property or Service as Commercial Product or Commercial Service.—(1) In general.—The head of an exec</akn:p></akn:content><akn:subsection eId="subsec_1903_a"><akn:num>(a)</akn:num><akn:heading>Applicability.—</akn:heading><akn:content><akn:p>(a) The authorities provided in subsections (b) and (c) apply with respect to a procurement of property or services by or for an executive agency that the head of the executive agency determines are to be used—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_b"><akn:num>(b)</akn:num><akn:heading>Increased Thresholds and Limitation.—</akn:heading><akn:content><akn:p>(b) For a procurement to which this section applies under subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_c"><akn:num>(c)</akn:num><akn:heading>Authority To Treat Property or Service as Commercial Product or Commercial Service.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

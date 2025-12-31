@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/60103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/60103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/60103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60103"><akn:num>60103</akn:num><akn:heading>Oath of ownership on entry</akn:heading><akn:content><akn:p>§ 60103. Oath of ownership on entry(a) Required Statement.—On entry of a vessel of the United States from a foreign port, the individual designated under subsection (b) shall state under oath that—(1) the vessel’s certificate of documentation contains the names of all the owners of the vessel; or
+
+(2) part of the ownership has been transferred since the certificate was issued and, to the best of the individual’s knowledge and belief, the vessel is still owned only by citizens of the United States.
+
+
+(b) Person To Make Statement.—The statement under subsection (a) shall be made by—(1) an owner if one resides at the port of entry; or
+
+(2) the master if an owner does not reside at the port of entry.
+
+
+(c) Consequence of Not Making Statement.—If the appropriate individual does not make the statement required by this section, the vessel is not entitled to the privileges of a vessel of the United States.
+
+(Pub. L. 109–304, § 9(b), Oct. 6, 2006, 120 Stat. 1674.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6010346 App.:42.R.S. § 4173.
+
+
+In subsection (a), the words “certificate of documentation” and “certificate” are substituted for “register” for consistency with chapter 121 of the revised title. In paragraph (2), the words “sold or” are omitted as unnecessary. The words “owned only by citizens of the United States” are substituted for “no foreign subject or citizen has . . . any share, by way of trust, confidence, or otherwise” for consistency in the revised title and to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_60103_a"><akn:num>(a)</akn:num><akn:heading>Required Statement.—</akn:heading><akn:content><akn:p>(a) On entry of a vessel of the United States from a foreign port, the individual designated under subsection (b) shall state under oath that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_b"><akn:num>(b)</akn:num><akn:heading>Person To Make Statement.—</akn:heading><akn:content><akn:p>(b) The statement under subsection (a) shall be made by—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_c"><akn:num>(c)</akn:num><akn:heading>Consequence of Not Making Statement.—</akn:heading><akn:content><akn:p>(c) If the appropriate individual does not make the statement required by this section, the vessel is not entitled to the privileges of a vessel of the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18776" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18776/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18776/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18776"><akn:num>18776</akn:num><akn:heading>Expansion of international energy data</akn:heading><akn:content><akn:p>§ 18776. Expansion of international energy data(a) In generalNot later than 1 year after November 15, 2021, the Administrator shall implement measures to expand and improve the international energy data resources of the Energy Information Administration in order to understand—(1) the production and use of energy in various countries;
+
+(2) changing patterns of energy use internationally;
+
+(3) the relative costs and environmental impacts of energy production and use internationally; and
+
+(4) plans for or construction of major energy facilities or infrastructure.
+
+
+(b) RequirementsIn carrying out subsection (a), the Administrator shall—(1) work with, and leverage the data resources of, the International Energy Agency;
+
+(2) include detail on energy consumption by fuel, economic sector, and end use within countries for which data are available;
+
+(3) collect relevant measures of energy use, including—(A) cost; and
+
+(B) emissions intensity; and
+
+
+(4) provide tools that allow for straightforward country-to-country comparisons of energy production and consumption across economic sectors and end uses.
+
+
+(Pub. L. 117–58, div. D, title IV, § 40416, Nov. 15, 2021, 135 Stat. 1045.)
+
+Statutory Notes and Related Subsidiaries
+Wage Rate RequirementsFor provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.</akn:p></akn:content><akn:subsection eId="subsec_18776_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than 1 year after November 15, 2021, the Administrator shall implement measures to expand and improve the international energy data resources of the Energy Information Administration in order to understand—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18776_b"><akn:num>(b)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(b) Requirements In carrying out subsection (a), the Administrator shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

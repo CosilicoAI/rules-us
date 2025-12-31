@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/51324" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/51324/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/51324/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_51324"><akn:num>51324</akn:num><akn:heading>Unfilled vacancies</akn:heading><akn:content><akn:p>§ 51324. Unfilled vacancies(a) In General.—In the event of an unfilled vacancy for any critical position at the United States Merchant Marine Academy, the Secretary of Transportation may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of that title, a qualified candidate for the purposes of filling up to 20 of such positions.
+
+(b) Critical Position Defined.—In this section, the term “critical position” means a position that contributes to the improvement of—(1) the culture or infrastructure of the Academy;
+
+(2) student health and well being;
+
+(3) Academy governance; or
+
+(4) any other priority areas identified by the Council.
+
+
+(Added Pub. L. 117–81, div. C, title XXXV, § 3501(c)(1), Dec. 27, 2021, 135 Stat. 2238.)</akn:p></akn:content><akn:subsection eId="subsec_51324_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In the event of an unfilled vacancy for any critical position at the United States Merchant Marine Academy, the Secretary of Transportation may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of that title, a qualified candidate for the purposes of filling up to 20 of such positions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51324_b"><akn:num>(b)</akn:num><akn:heading>Critical Position Defined.—</akn:heading><akn:content><akn:p>(b) In this section, the term “critical position” means a position that contributes to the improvement of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

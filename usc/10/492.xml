@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/492" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/492/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/492/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_492"><akn:num>492</akn:num><akn:heading>Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command</akn:heading><akn:content><akn:p>§ 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system(a) Biennial Assessments.—(1) For each even-numbered year, each covered official shall assess the safety, security, reliability, sustainability, performance, and military effectiveness of, and the ability to meet operational availability requirements for, the systems described in paragraph (2) for which such official has responsibility.
+
+(2) The systems described in this paragraph are the following:(A) Each type of delivery platform for nuclear weapons.
+
+(B) The nuclear command and control system.
+
+
+
+(b) Biennial Report.—(1) Not later than December 1 of each even-numbered year, each covered official shall submit to the Secretary of Defense and the Nuclear Weapons Council established by section 179 of this title a report on the assessments conducted under subsection (a).
+
+(2) Each report under paragraph (1) shall include the following:(A) The results of the assessment.
+
+(B) An identification and discussion of any capability gaps or shortfalls with respect to the systems described in subsection (a)(2) covered under the assessment.
+
+(C) An identification and discussion of any risks with respect to meeting mission or capability requirements.
+
+(D) In the case of an assessment by the Commander of the United States Strategic Command, if the Commander identifies any deficiency with respect to a nuclear weapons delivery platform covered under the assessment, a discussion of the relative merits of any other nuclear weapons delivery platform type or compensatory measure that would accomplish the mission of such nuclear weapons delivery platform.
+
+(E) An identification and discussion of any matter having an adverse effect on the capability of the covered official to accurately determine the matters covered by the assessment.
+
+
+
+(c) Report to President and Congress.—(1) Not later than March 1 of each year following a year for which a report under subsecti</akn:p></akn:content><akn:subsection eId="subsec_492_a"><akn:num>(a)</akn:num><akn:heading>Biennial Assessments.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_492_b"><akn:num>(b)</akn:num><akn:heading>Biennial Report.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_492_c"><akn:num>(c)</akn:num><akn:heading>Report to President and Congress.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_492_d"><akn:num>(d)</akn:num><akn:heading>Covered Official Defined.—</akn:heading><akn:content><akn:p>(d) In this section, the term “covered official” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

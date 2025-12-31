@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16025" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16025/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16025/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16025"><akn:num>16025</akn:num><akn:heading>Project timelines and authorization of appropriations</akn:heading><akn:content><akn:p>§ 16025. Project timelines and authorization of appropriations(a) Target date to complete the first project phaseNot later than September 30, 2011, the Secretary shall—(1) select the technology to be used by the Project for high-temperature hydrogen production and the initial design parameters for the prototype nuclear plant; or
+
+(2) submit to Congress a report establishing an alternative date for making the selection.
+
+
+(b) Design competition for second project phase(1) In generalThe Secretary, acting through the Idaho National Laboratory, shall fund not more than 4 teams for not more than 2 years to develop detailed proposals for competitive evaluation and selection of a single proposal for a final design of the prototype nuclear reactor.
+
+
+(2) Systems integrationThe Secretary may structure Project activities in the second project phase to use the lead industrial partner of the competitively selected design under paragraph (1) in a systems integration role for final design and construction of the Project.
+
+
+
+(c) Target date to complete project constructionNot later than September 30, 2021, the Secretary shall—(1) complete construction and begin operations of the prototype nuclear reactor and associated energy or hydrogen facilities; or
+
+(2) submit to Congress a report establishing an alternative date for completion.
+
+
+(d) Authorization of appropriationsThere is authorized to be appropriated to the Secretary for research and construction activities under this part (including for transfer to the Nuclear Regulatory Commission for activities under section 16024 of this title as appropriate)—(1) $1,250,000,000 for the period of fiscal years 2006 through 2015; and
+
+(2) such sums as are necessary for each of fiscal years 2016 through 2021.
+
+
+(Pub. L. 109–58, title VI, § 645, Aug. 8, 2005, 119 Stat. 798.)</akn:p></akn:content><akn:subsection eId="subsec_16025_a"><akn:num>(a)</akn:num><akn:heading>Target date to complete the first project phase</akn:heading><akn:content><akn:p>(a) Target date to complete the first project phase Not later than September 30, 2011, the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16025_b"><akn:num>(b)</akn:num><akn:heading>Design competition for second project phase</akn:heading><akn:content><akn:p>(b) Design competition for second project phase</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16025_c"><akn:num>(c)</akn:num><akn:heading>Target date to complete project construction</akn:heading><akn:content><akn:p>(c) Target date to complete project construction Not later than September 30, 2021, the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16025_d"><akn:num>(d)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(d) Authorization of appropriations There is authorized to be appropriated to the Secretary for research and construction activities under this part (including for transfer to the Nuclear Regulatory Commission for activities under section 16024 of this title as appropriate)—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3541" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3541/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3541/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3541"><akn:num>3541</akn:num><akn:heading>Distress warrants</akn:heading><akn:content><akn:p>§ 3541. Distress warrants(a) When an official receiving public money before it is paid to the Treasury or a disbursing or certifying official of the United States Government does not submit an account or pay the money as prescribed by law, the Comptroller General shall make the account for the official and certify to the Secretary of the Treasury the amount due the Government.
+
+(b) The Secretary shall issue a distress warrant against the official stating the amount due from the official and any amount paid. The warrant shall be directed to the marshal of the district in which the official resides. If the Secretary intends to take and sell the property of an official that is located in a district other than where the official resides, the warrant shall be directed to the marshal of the district in which the official resides and the marshal of the district in which the property is located.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 968.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3541(a)31:44(1st sentence).June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24.
+ 31:82d(words before semicolon).Dec. 29, 1941, ch. 641, § 3(words before semicolon), 55 Stat. 876.
+ 31:506(1st sentence words before 8th comma).R.S. § 3625; Feb. 27, 1877, ch. 69(9th complete par. on p. 249), 19 Stat. 249; July 31, 1894, ch. 174, § 4(5th par.), 28 Stat. 206; June 6, 1972, Pub. L. 92–310, § 231(k), 86 Stat. 210.
+ 31:514.R.S. § 3633; July 31, 1894, ch. 174, § 4(last par.), 28 Stat. 206.
+ 31:516.R.S. 3634; June 6, 1972, Pub. L. 92–310, § 231(q), 86 Stat. 210.
+3541(b)31:506(1st sentence words after 8th comma, last sentence).
+ 31:507.R.S. § 3626.
+
+
+In the section, the word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “any collector of the revenue, receiver of public money, or other” in 31:506(1st sentence words before 8t</akn:p></akn:content><akn:subsection eId="subsec_3541_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) When an official receiving public money before it is paid to the Treasury or a disbursing or certifying official of the United States Government does not submit an account or pay the money as prescribed by law, the Comptroller General shall make the account for the official and certify to the Secretary of the Treasury the amount due the Government.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3541_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary shall issue a distress warrant against the official stating the amount due from the official and any amount paid. The warrant shall be directed to the marshal of the district in which the official resides. If the Secretary intends to take and sell the property of an official that is located in a district other than where the official resides, the warrant shall be directed to the marshal of the district in which the official resides and the marshal of the district in which the property is located.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

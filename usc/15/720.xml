@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/720" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/720/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/720/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_720"><akn:num>720</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 720. Definitions
+In this chapter:(1) Alaska natural gasThe term “Alaska natural gas” means natural gas derived from the area of the State of Alaska lying north of 64 degrees north latitude.
+
+
+(2) Alaska natural gas transportation projectThe term “Alaska natural gas transportation project” means any natural gas pipeline system that carries Alaska natural gas to the border between Alaska and Canada (including related facilities subject to the jurisdiction of the Commission) that is authorized under—(A) the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.); or
+
+(B) section 720a of this title.
+
+
+(3) Alaska natural gas transportation systemThe term “Alaska natural gas transportation system” means the Alaska natural gas transportation project authorized under the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.) and designated and described in section 2 of the President’s decision.
+
+
+(4) CommissionThe term “Commission” means the Federal Energy Regulatory Commission.
+
+
+(5) Federal CoordinatorThe term “Federal Coordinator” means the head of the Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects established by section 720d(a) of this title.
+
+
+(6) President’s decisionThe term “President’s decision” means the decision and report to Congress on the Alaska natural gas transportation system—(A) issued by the President on September 22, 1977, in accordance with section 7 of the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719e); and
+
+(B) approved by Public Law 95–158 (15 U.S.C. 719f note; 91 Stat. 1268).
+
+
+(7) SecretaryThe term “Secretary” means the Secretary of Energy.
+
+
+(8) StateThe term “State” means the State of Alaska.
+
+
+(Pub. L. 108–324, div. C, § 102, Oct. 13, 2004, 118 Stat. 1255.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to </akn:p></akn:content><akn:subsection eId="subsec_720_1"><akn:num>(1)</akn:num><akn:heading>Alaska natural gas</akn:heading><akn:content><akn:p>(1) Alaska natural gas The term “Alaska natural gas” means natural gas derived from the area of the State of Alaska lying north of 64 degrees north latitude.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_720_2"><akn:num>(2)</akn:num><akn:heading>Alaska natural gas transportation project</akn:heading><akn:content><akn:p>(2) Alaska natural gas transportation project The term “Alaska natural gas transportation project” means any natural gas pipeline system that carries Alaska natural gas to the border between Alaska and Canada (including related facilities subject to the jurisdiction of the Commission) that is authorized under—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_720_3"><akn:num>(3)</akn:num><akn:heading>Alaska natural gas transportation system</akn:heading><akn:content><akn:p>(3) Alaska natural gas transportation system The term “Alaska natural gas transportation system” means the Alaska natural gas transportation project authorized under the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.) and designated and described in section 2 of the President’s decision.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_720_4"><akn:num>(4)</akn:num><akn:heading>Commission</akn:heading><akn:content><akn:p>(4) Commission The term “Commission” means the Federal Energy Regulatory Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_720_5"><akn:num>(5)</akn:num><akn:heading>Federal Coordinator</akn:heading><akn:content><akn:p>(5) Federal Coordinator The term “Federal Coordinator” means the head of the Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects established by section 720d(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_720_6"><akn:num>(6)</akn:num><akn:heading>President’s decision</akn:heading><akn:content><akn:p>(6) President’s decision The term “President’s decision” means the decision and report to Congress on the Alaska natural gas transportation system—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_720_7"><akn:num>(7)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(7) Secretary The term “Secretary” means the Secretary of Energy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_720_8"><akn:num>(8)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(8) State The term “State” means the State of Alaska.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

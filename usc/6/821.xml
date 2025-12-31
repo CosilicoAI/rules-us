@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/821" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/821/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/821/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_821"><akn:num>821</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 821. Definitions
+In this part:(1) AdministratorThe term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+
+(2) Basic needThe term “basic need”—(A) means any good, service, or activity necessary to protect the health, safety, and general welfare of the civilian population of the United States; and
+
+(B) includes—(i) food;
+
+(ii) water;
+
+(iii) shelter;
+
+(iv) basic communication services;
+
+(v) basic sanitation and health services; and
+
+(vi) public safety.
+
+
+
+(3) Catastrophic incidentThe term “catastrophic incident”—(A) means any natural or man-made disaster that results in extraordinary levels of casualties or damage, mass evacuations, or disruption severely affecting the population, infrastructure, environment, economy, national morale, or government functions in an area; and
+
+(B) may include an incident—(i) with a sustained national impact over a prolonged period of time;
+
+(ii) that may rapidly exceed resources available to State and local government and private sector authorities in the impacted area; or
+
+(iii) that may significantly interrupt governmental operations and emergency services to such an extent that national security could be threatened.
+
+
+
+(4) Critical infrastructureThe term “critical infrastructure” has the meaning given such term in section 5195c(e) of title 42.
+
+
+(5) Existential riskThe term “existential risk” means the potential for an outcome that would result in human extinction.
+
+
+(6) Global catastrophic riskThe term “global catastrophic risk” means the risk of events or incidents consequential enough to significantly harm or set back human civilization at the global scale.
+
+
+(7) Global catastrophic and existential threatsThe term “global catastrophic and existential threats” means threats that with varying likelihood may produce consequences severe enough to result in systemic failure or destruction of critical infrastructure or significant harm to human civilization. Examples of global catastrophic and existe</akn:p></akn:content><akn:subsection eId="subsec_821_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the Federal Emergency Management Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_2"><akn:num>(2)</akn:num><akn:heading>Basic need</akn:heading><akn:content><akn:p>(2) Basic need The term “basic need”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_3"><akn:num>(3)</akn:num><akn:heading>Catastrophic incident</akn:heading><akn:content><akn:p>(3) Catastrophic incident The term “catastrophic incident”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_4"><akn:num>(4)</akn:num><akn:heading>Critical infrastructure</akn:heading><akn:content><akn:p>(4) Critical infrastructure The term “critical infrastructure” has the meaning given such term in section 5195c(e) of title 42.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_5"><akn:num>(5)</akn:num><akn:heading>Existential risk</akn:heading><akn:content><akn:p>(5) Existential risk The term “existential risk” means the potential for an outcome that would result in human extinction.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_6"><akn:num>(6)</akn:num><akn:heading>Global catastrophic risk</akn:heading><akn:content><akn:p>(6) Global catastrophic risk The term “global catastrophic risk” means the risk of events or incidents consequential enough to significantly harm or set back human civilization at the global scale.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_7"><akn:num>(7)</akn:num><akn:heading>Global catastrophic and existential threats</akn:heading><akn:content><akn:p>(7) Global catastrophic and existential threats The term “global catastrophic and existential threats” means threats that with varying likelihood may produce consequences severe enough to result in systemic failure or destruction of critical infrastructure or significant harm to human civilization. Examples of global catastrophic and existential threats include severe global pandemics, nuclear war, asteroid and comet impacts, supervolcanoes, sudden and severe changes to the climate, and intentional or accidental threats arising from the use and development of emerging technologies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_8"><akn:num>(8)</akn:num><akn:heading>Indian Tribal government</akn:heading><akn:content><akn:p>(8) Indian Tribal government The term “Indian Tribal government” has the meaning given the term “Indian tribal government” in section 5122 of title 42.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_9"><akn:num>(9)</akn:num><akn:heading>Local government; State</akn:heading><akn:content><akn:p>(9) Local government; State The terms “local government” and “State” have the meanings given such terms in section 5122 of title 42.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_821_10"><akn:num>(10)</akn:num><akn:heading>National exercise program</akn:heading><akn:content><akn:p>(10) National exercise program The term “national exercise program” means activities carried out to test and evaluate the national preparedness goal and related plans and strategies as described in section 748(b) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

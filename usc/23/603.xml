@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/603" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/603/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/603/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_603"><akn:num>603</akn:num><akn:heading>Secured loans</akn:heading><akn:content><akn:p>§ 603. Secured loans(a) In General.—(1) Agreements.—Subject to paragraphs (2) and (3), the Secretary may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used—(A) to finance eligible project costs of any project selected under section 602;
+
+(B) to refinance interim construction financing of eligible project costs of any project selected under section 602;
+
+(C) to refinance existing Federal credit instruments for rural infrastructure projects; or
+
+(D) to refinance long-term project obligations or Federal credit instruments, if the refinancing provides additional funding capacity for the completion, enhancement, or expansion of any project that—(i) is selected under section 602; or
+
+(ii) otherwise meets the requirements of section 602.
+
+
+
+(2) Limitation on refinancing of interim construction financing.—A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B)—(A) if the maturity of such interim construction financing is later than 1 year after the substantial completion of the project; and
+
+(B) later than 1 year after the date of substantial completion of the project.
+
+
+(3) Risk assessment.—Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget, shall determine an appropriate capital reserve subsidy amount for each secured loan, taking into account each rating letter provided by an agency under section 602(b)(3)(B).
+
+
+(b) Terms and Limitations.—(1) In general.—A secured loan under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.
+
+(2) Maximum amount.—(A) In general.—Except as provided in subparagraph (B), the amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reason</akn:p></akn:content><akn:subsection eId="subsec_603_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_603_b"><akn:num>(b)</akn:num><akn:heading>Terms and Limitations.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_603_c"><akn:num>(c)</akn:num><akn:heading>Repayment.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_603_d"><akn:num>(d)</akn:num><akn:heading>Sale of Secured Loans.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_603_e"><akn:num>(e)</akn:num><akn:heading>Loan Guarantees.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_603_f"><akn:num>(f)</akn:num><akn:heading>Streamlined Application Process.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

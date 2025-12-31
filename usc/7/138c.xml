@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/138c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/138c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/138c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_138c"><akn:num>138c</akn:num><akn:heading>Samples</akn:heading><akn:content><akn:p>§ 138c. Samples(a) Performance evaluation samples(1) Provided by SecretaryThe Secretary shall ensure that performance evaluation samples are provided to any laboratory that has applied for accreditation under this chapter.
+
+
+(2) Analysis by laboratoryA laboratory described in paragraph (1) shall analyze such performance evaluation samples and submit the results of such analysis to the Secretary, as provided for in section 138a of this title.
+
+
+(3) Testing methodsSamples shall be tested by the laboratory according to methods specifically approved for such purpose by alternate methods of demonstrated adequacy or equivalence, as determined in regulations established under this chapter.
+
+
+
+(b) Results of testing(1) Submission of resultsThe laboratory shall submit the results of the tests conducted under subsection (a) to the Secretary on forms provided by the Secretary, on or before the date determined by the Secretary.
+
+
+(2) Evaluation of testsThe Secretary shall evaluate the results of such tests achieved by the laboratory and shall determine whether such laboratory is capable of undertaking an accurate analysis of chemical residues in agricultural products.
+
+
+
+(c) Review of accreditationThe Secretary shall ensure that performance evaluation samples for analysis are provided to laboratories accredited under this chapter not less than two times a year.
+
+
+(Pub. L. 101–624, title XIII, § 1324, Nov. 28, 1990, 104 Stat. 3564.)</akn:p></akn:content><akn:subsection eId="subsec_138c_a"><akn:num>(a)</akn:num><akn:heading>Performance evaluation samples</akn:heading><akn:content><akn:p>(a) Performance evaluation samples</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_138c_b"><akn:num>(b)</akn:num><akn:heading>Results of testing</akn:heading><akn:content><akn:p>(b) Results of testing</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_138c_c"><akn:num>(c)</akn:num><akn:heading>Review of accreditation</akn:heading><akn:content><akn:p>(c) Review of accreditation The Secretary shall ensure that performance evaluation samples for analysis are provided to laboratories accredited under this chapter not less than two times a year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

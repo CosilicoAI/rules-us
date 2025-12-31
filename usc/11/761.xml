@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/761" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/761/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/761/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_761"><akn:num>761</akn:num><akn:heading>Definitions for this subchapter</akn:heading><akn:content><akn:p>§ 761. Definitions for this subchapter
+In this subchapter—(1) “Act” means Commodity Exchange Act;
+
+(2) “clearing organization” means a derivatives clearing organization registered under the Act;
+
+(3) “Commission” means Commodity Futures Trading Commission;
+
+(4) “commodity contract” means—(A) with respect to a futures commission merchant, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
+
+(B) with respect to a foreign futures commission merchant, foreign future;
+
+(C) with respect to a leverage transaction merchant, leverage transaction;
+
+(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+
+(E) with respect to a commodity options dealer, commodity option;
+
+(F)(i) any other contract, option, agreement, or transaction that is similar to a contract, option, agreement, or transaction referred to in this paragraph; and
+
+(ii) with respect to a futures commission merchant or a clearing organization, any other contract, option, agreement, or transaction, in each case, that is cleared by a clearing organization;
+
+
+(G) any combination of the agreements or transactions referred to in this paragraph;
+
+(H) any option to enter into an agreement or transaction referred to in this paragraph;
+
+(I) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H), together with all supplements to such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this paragraph, except that the master agreement shall be considered to be a</akn:p></akn:content><akn:subsection eId="subsec_761_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “Act” means Commodity Exchange Act;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “clearing organization” means a derivatives clearing organization registered under the Act;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “Commission” means Commodity Futures Trading Commission;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “commodity contract” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) “commodity option” means agreement or transaction subject to regulation under section 4c(b) of the Act;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) “commodity options dealer” means person that extends credit to, or that accepts cash, a security, or other property from, a customer of such person for the purchase or sale of an interest in a commodity option;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) “contract market” means a registered entity;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) “contract of sale”, “commodity”, “derivatives clearing organization”, “future delivery”, “board of trade”, “registered entity”, and “futures commission merchant” have the meanings assigned to those terms in the Act;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) “customer” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_761_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) “customer property” means cash, a security, or other property, or proceeds of such cash, security, or property, received, acquired, or held by or for the account of the debtor, from or for the account of a customer—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

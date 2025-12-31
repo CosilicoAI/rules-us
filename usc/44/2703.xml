@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/2703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/2703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/2703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2703"><akn:num>2703</akn:num><akn:heading>Functions of the Committee</akn:heading><akn:content><akn:p>§ 2703. Functions of the Committee
+The Committee shall—(1) review the management and preservation of the records of Congress;
+
+(2) report to and advise the Congress and the Archivist of the United States on such management and preservation; and
+
+(3)(A) no later than December 31, 1991, conduct a study and submit a report to the Congress on—(i) the effect any transfer of records of the National Archives and Records Administration from facilities located in Washington, D.C., to any location outside of Washington, D.C., shall have on the management and preservation of the records of Congress; and
+
+(ii) the five year plan for the management and preservation of the records of Congress; and
+
+
+(B) no later than December 31, 1995, conduct a study to update the report submitted under subparagraph (A)(ii), and submit a report to the Congress.
+
+
+(Added Pub. L. 101–509, title IV, § 1(d)(1), Nov. 5, 1990, 104 Stat. 1418.)</akn:p></akn:content><akn:subsection eId="subsec_2703_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) review the management and preservation of the records of Congress;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2703_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) report to and advise the Congress and the Archivist of the United States on such management and preservation; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2703_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

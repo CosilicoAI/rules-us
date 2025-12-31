@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/1722" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/1722/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/1722/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1722"><akn:num>1722</akn:num><akn:heading>Departmental distribution of publications</akn:heading><akn:content><akn:p>§ 1722. Departmental distribution of publications
+Government publications printed for or received by the executive departments, whether for official use or for distribution, except those required by section 1701 of this title to be distributed by the Director of the Government Publishing Office, shall be distributed by a competent person detailed to this duty in each department by the head of the department. He shall prevent duplication and make detailed report to the head of the department.
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1282; Pub. L. 113–235, div. H, title I, § 1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
+
+Historical and Revision NotesBased on 44 U.S. Code, 1964 ed., § 96 (Jan. 12, 1895, ch. 23, § 92, 28 Stat. 623; May 29, 1928, ch. 901, § 1(2), 45 Stat. 986).
+
+Editorial Notes
+Amendments2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/60302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/60302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/60302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60302"><akn:num>60302</akn:num><akn:heading>General responsibilities</akn:heading><akn:content><akn:p>§ 60302. General responsibilities
+The Administrator shall—(1) develop a sustained relationship with the United States commercial remote sensing industry and, consistent with applicable policies and law, to the maximum practicable, rely on their services; and
+
+(2) in conjunction with United States industry and universities, research, develop, and demonstrate prototype Earth science applications to enhance Federal, State, local, and tribal governments’ use of government and commercial remote sensing data, technologies, and other sources of geospatial information for improved decision support to address their needs.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3423.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6030242 U.S.C. 16672.Pub. L. 109–155, title III, § 312, Dec. 30, 2005, 119 Stat. 2920.</akn:p></akn:content><akn:subsection eId="subsec_60302_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) develop a sustained relationship with the United States commercial remote sensing industry and, consistent with applicable policies and law, to the maximum practicable, rely on their services; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60302_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) in conjunction with United States industry and universities, research, develop, and demonstrate prototype Earth science applications to enhance Federal, State, local, and tribal governments’ use of government and commercial remote sensing data, technologies, and other sources of geospatial information for improved decision support to address their needs.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

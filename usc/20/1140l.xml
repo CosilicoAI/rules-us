@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1140l" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1140l/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1140l/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1140l"><akn:num>1140l</akn:num><akn:heading>Establishment of Advisory Commission on Accessible Instructional Materials in Postsecondary Educatio</akn:heading><akn:content><akn:p>§ 1140l. Establishment of Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities(a) Establishment(1) In generalThe Secretary shall establish a commission to be known as the Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities (in this section referred to as the “Commission”).
+
+
+(2) Membership(A) Total number of membersThe Commission shall include not more than 19 members, who shall be appointed by the Secretary in accordance with subparagraphs (B) and (C).
+
+
+(B) Members of the CommissionThe Commission members shall include one representative from each of the following categories:(i) The Office of Postsecondary Education of the Department.
+
+(ii) The Office of Special Education and Rehabilitative Services of the Department.
+
+(iii) The Office for Civil Rights of the Department.
+
+(iv) The Library of Congress National Digital Information and Infrastructure Preservation Program Copyright Working Group.
+
+(v) The Association on Higher Education and Disability.
+
+(vi) The Association of American Publishers.
+
+(vii) The Association of American University Presses.
+
+(viii) The National Council on Disability.
+
+(ix) Recording for the Blind and Dyslexic.
+
+(x) National organizations representing individuals with visual impairments.
+
+(xi) National organizations representing individuals with learning disabilities.
+
+
+(C) Additional members of the CommissionThe Commission members shall include two representatives from each of the following categories:(i) Staff from institutions of higher education with demonstrated experience teaching or supporting students with print disabilities, including representatives from both two-year and four-year institutions of higher education of different sizes.
+
+(ii) Producers of accessible materials, publishing software, and supporting technologies in specialized formats, such as Braille, audio or synthesized speech, and digital media</akn:p></akn:content><akn:subsection eId="subsec_1140l_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1140l_b"><akn:num>(b)</akn:num><akn:heading>Duties of the Commission</akn:heading><akn:content><akn:p>(b) Duties of the Commission</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1140l_c"><akn:num>(c)</akn:num><akn:heading>Termination of the Commission</akn:heading><akn:content><akn:p>(c) Termination of the Commission The Commission shall terminate on the date that is 90 days after the date on which the Commission submits the report under subsection (b)(2) to the Secretary and the authorizing committees.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

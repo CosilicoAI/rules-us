@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3731" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3731/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3731/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3731"><akn:num>3731</akn:num><akn:heading>Prohibition on use of funds for specified purposes</akn:heading><akn:content><akn:p>§ 3731. Prohibition on use of funds for specified purposes(a) In generalCooperative Threat Reduction funds may not be obligated or expended for any of the following purposes:(1) Conducting any peacekeeping exercise or other peacekeeping-related activity.
+
+(2) Provision of housing.
+
+(3) Provision of assistance to promote environmental restoration.
+
+(4) Provision of assistance to promote job retraining.
+
+(5) Provision of assistance to promote defense conversion.
+
+
+(b) Limitation with respect to conventional weaponsCooperative Threat Reduction funds may not be obligated or expended for the elimination of—(1) conventional weapons; or
+
+(2) delivery vehicles of conventional weapons, unless such delivery vehicles could reasonably be used or adapted to be used for the delivery of chemical, nuclear, or biological weapons.
+
+
+(Pub. L. 113–291, div. A, title XIII, § 1331, Dec. 19, 2014, 128 Stat. 3601.)</akn:p></akn:content><akn:subsection eId="subsec_3731_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Cooperative Threat Reduction funds may not be obligated or expended for any of the following purposes:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3731_b"><akn:num>(b)</akn:num><akn:heading>Limitation with respect to conventional weapons</akn:heading><akn:content><akn:p>(b) Limitation with respect to conventional weapons Cooperative Threat Reduction funds may not be obligated or expended for the elimination of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

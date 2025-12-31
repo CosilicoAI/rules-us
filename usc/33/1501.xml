@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/1501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/1501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/1501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1501"><akn:num>1501</akn:num><akn:heading>Congressional declaration of policy</akn:heading><akn:content><akn:p>§ 1501. Congressional declaration of policy(a) Purposes.—The purposes of this chapter are—(1) to authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
+
+(2) to provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of deepwater ports;
+
+(3) to protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
+
+(4) to protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
+
+(5) to promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer Continental Shelf while minimizing tanker traffic and the risks associated with that traffic; and
+
+(6) to promote oil or natural gas production on the outer Continental Shelf by affording an economic and safe means of transportation of outer Continental Shelf oil or natural gas to the United States mainland.
+
+
+(b) Effect of chapter.—Nothing in this chapter affects the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
+
+(Pub. L. 93–627, § 2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, § 502(b), Oct. 19, 1996, 110 Stat. 3925; Pub. L. 107–295, title I, § 106(a)(1), Nov. 25, 2002, 116 Stat. 2086; Pub. L. 118–31, div. C, title XXXV, § 3514(k)(1), Dec. 22, 2023, 137 Stat. 812.)
+
+Editorial Notes
+Amendments2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(1)(A)(i), inserted heading and substituted “The purposes of this chapter are—” for “It is declared to be the purposes of the Congress in this chapter to—” in introductory provisions.
+Subsec. (a)(1)</akn:p></akn:content><akn:subsection eId="subsec_1501_a"><akn:num>(a)</akn:num><akn:heading>Purposes.—</akn:heading><akn:content><akn:p>(a) The purposes of this chapter are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_b"><akn:num>(b)</akn:num><akn:heading>Effect of chapter.—</akn:heading><akn:content><akn:p>(b) Nothing in this chapter affects the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

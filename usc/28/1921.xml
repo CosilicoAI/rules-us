@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/1921" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/1921/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/1921/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1921"><akn:num>1921</akn:num><akn:heading>United States marshal’s fees</akn:heading><akn:content><akn:p>§ 1921. United States marshal’s fees(a)(1) The United States marshals or deputy marshals shall routinely collect, and a court may tax as costs, fees for the following:(A) Serving a writ of possession, partition, execution, attachment in rem, or libel in admiralty, warrant, attachment, summons, complaints, or any other writ, order or process in any case or proceeding.
+
+(B) Serving a subpoena or summons for a witness or appraiser.
+
+(C) Forwarding any writ, order, or process to another judicial district for service.
+
+(D) The preparation of any notice of sale, proclamation in admiralty, or other public notice or bill of sale.
+
+(E) The keeping of attached property (including boats, vessels, or other property attached or libeled), actual expenses incurred, such as storage, moving, boat hire, or other special transportation, watchmen’s or keepers’ fees, insurance, and an hourly rate, including overtime, for each deputy marshal required for special services, such as guarding, inventorying, and moving.
+
+(F) Copies of writs or other papers furnished at the request of any party.
+
+(G) Necessary travel in serving or endeavoring to serve any process, writ, or order, except in the District of Columbia, with mileage to be computed from the place where service is returnable to the place of service or endeavor.
+
+(H) Overtime expenses incurred by deputy marshals in the course of serving or executing civil process.
+
+
+(2) The marshals shall collect, in advance, a deposit to cover the initial expenses for special services required under paragraph (1)(E), and periodically thereafter such amounts as may be necessary to pay such expenses until the litigation is concluded. This paragraph applies to all private litigants, including seamen proceeding pursuant to section 1916 of this title.
+
+(3) For purposes of paragraph (1)(G), if two or more services or endeavors, or if an endeavor and a service, are made in behalf of the same party in the same case on the same trip, mileage shall be computed</akn:p></akn:content><akn:subsection eId="subsec_1921_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1921_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Attorney General shall from time to time prescribe by regulation the fees to be taxed and collected under subsection (a). Such fees shall, to the extent practicable, reflect the actual and reasonable cost of the service provided.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1921_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1921_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The United States marshals may require a deposit to cover the fees and expenses prescribed under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1921_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) Notwithstanding section 3302 of title 31, the United States Marshals Service is authorized, to the extent provided in advance in appropriations Acts—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

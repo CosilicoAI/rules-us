@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/4615" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/4615/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/4615/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4615"><akn:num>4615</akn:num><akn:heading>Supervisory actions applicable to undercapitalized regulated entities</akn:heading><akn:content><akn:p>§ 4615. Supervisory actions applicable to undercapitalized regulated entities(a) Mandatory actions(1) Required monitoringThe Director shall—(A) closely monitor the condition of any undercapitalized regulated entity;
+
+(B) closely monitor compliance with the capital restoration plan, restrictions, and requirements imposed on an undercapitalized regulated entity under this section; and
+
+(C) periodically review the plan, restrictions, and requirements applicable to an undercapitalized regulated entity to determine whether the plan, restrictions, and requirements are achieving the purpose of this section.
+
+
+(2) Capital restoration planA regulated entity that is classified as undercapitalized shall, within the time period provided in section 4622(b) and (d) of this title, submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
+
+
+(3) Restriction on capital distributionsA regulated entity that is classified as undercapitalized may not make any capital distribution that would result in the regulated entity being reclassified as significantly undercapitalized or critically undercapitalized.
+
+
+(4) Restriction of asset growthAn undercapitalized regulated entity shall not permit its average total assets during any calendar quarter to exceed its average total assets during the preceding calendar quarter, unless—(A) the Director has accepted the capital restoration plan of the regulated entity;
+
+(B) any increase in total assets is consistent with the capital restoration plan; and
+
+(C) the ratio of tangible equity to assets of the regulated entity increases during the calendar quarter at a rate sufficient to enable the regulated entity to become adequately capitalized within a reasonable time.
+
+
+(5) Prior approval of acquisitions and new activitiesAn undercapitalized regulated entity shall not, directly or indirectly, acquire any interest in any entity or engage in any new activity, unless—(A) the Direct</akn:p></akn:content><akn:subsection eId="subsec_4615_a"><akn:num>(a)</akn:num><akn:heading>Mandatory actions</akn:heading><akn:content><akn:p>(a) Mandatory actions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4615_b"><akn:num>(b)</akn:num><akn:heading>Reclassification from undercapitalized to significantly undercapitalized</akn:heading><akn:content><akn:p>(b) Reclassification from undercapitalized to significantly undercapitalized The Director shall reclassify as significantly undercapitalized a regulated entity that is classified as undercapitalized (and the regulated entity shall be subject to the provisions of section 4616 of this title) if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4615_c"><akn:num>(c)</akn:num><akn:heading>Other discretionary safeguards</akn:heading><akn:content><akn:p>(c) Other discretionary safeguards The Director may take, with respect to an undercapitalized regulated entity, any of the actions authorized to be taken under section 4616 of this title with respect to a significantly undercapitalized regulated entity, if the Director determines that such actions are necessary to carry out the purpose of this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

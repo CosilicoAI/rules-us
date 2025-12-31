@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/15704" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/15704/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/15704/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15704"><akn:num>15704</akn:num><akn:heading>Inspector General; records</akn:heading><akn:content><akn:p>§ 15704. Inspector General; records(a) Appointment of Inspector General.—There shall be an Inspector General for the Commissions appointed in accordance with section 403(a) of title 5. All of the Commissions shall be subject to a single Inspector General.
+
+(b) Records of a Commission.—(1) In general.—A Commission shall maintain accurate and complete records of all its transactions and activities.
+
+(2) Availability.—All records of a Commission shall be available for audit and examination by the Inspector General (including authorized representatives of the Inspector General).
+
+
+(c) Records of Recipients of Commission Assistance.—(1) In general.—A recipient of funds from a Commission under this subtitle shall maintain accurate and complete records of transactions and activities financed with the funds and report to the Commission on the transactions and activities.
+
+(2) Availability.—All records required under paragraph (1) shall be available for audit by the Commission and the Inspector General (including authorized representatives of the Commission and the Inspector General).
+
+
+(d) Annual Audit.—The Inspector General shall audit the activities, transactions, and records of each Commission on an annual basis.
+
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242; amended Pub. L. 117–286, § 4(b)(70), Dec. 27, 2022, 136 Stat. 4350.)
+
+Editorial Notes
+Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2022—Subsec. (a). Pub. L. 117–286 substituted “section 403(a) of title 5.” for “section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.).”
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under </akn:p></akn:content><akn:subsection eId="subsec_15704_a"><akn:num>(a)</akn:num><akn:heading>Appointment of Inspector General.—</akn:heading><akn:content><akn:p>(a) There shall be an Inspector General for the Commissions appointed in accordance with section 403(a) of title 5. All of the Commissions shall be subject to a single Inspector General.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_b"><akn:num>(b)</akn:num><akn:heading>Records of a Commission.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_c"><akn:num>(c)</akn:num><akn:heading>Records of Recipients of Commission Assistance.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_d"><akn:num>(d)</akn:num><akn:heading>Annual Audit.—</akn:heading><akn:content><akn:p>(d) The Inspector General shall audit the activities, transactions, and records of each Commission on an annual basis.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

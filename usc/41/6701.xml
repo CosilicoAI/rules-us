@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/6701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/6701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/6701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6701"><akn:num>6701</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6701. Definitions
+In this chapter:(1) Compensation.—The term “compensation” means any of the payments or fringe benefits described in section 6703 of this title.
+
+(2) Secretary.—The term “Secretary” means the Secretary of Labor.
+
+(3) Service employee.—The term “service employee”—(A) means an individual engaged in the performance of a contract made by the Federal Government and not exempted under section 6702(b) of this title, whether negotiated or advertised, the principal purpose of which is to furnish services in the United States;
+
+(B) includes an individual without regard to any contractual relationship alleged to exist between the individual and a contractor or subcontractor; but
+
+(C) does not include an individual employed in a bona fide executive, administrative, or professional capacity, as those terms are defined in part 541 of title 29, Code of Federal Regulations.
+
+
+(4) United states.—The term “United States”—(A) includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. § 1331 et seq.), American Samoa, Guam, Wake Island, and Johnston Island; but
+
+(B) does not include any other territory under the jurisdiction of the United States or any United States base or possession within a foreign country.
+
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3811.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+670141:357.Pub. L. 89–286, § 8, Oct. 22, 1965, 79 Stat. 1036; Pub. L. 93–57, § 1, July 6, 1973, 87 Stat. 140; Pub. L. 94–489, § 3, Oct. 13, 1976, 90 Stat. 2358.
+
+
+In paragraph (3), the word “individual” is substituted for “person” because of the definition of “person” in 1:1. The words “contract made by the Federal Government” are substituted for “contract entered into by the United States” for consistency in the revised title. The words “as of July 30, 1976, and any subseque</akn:p></akn:content><akn:subsection eId="subsec_6701_1"><akn:num>(1)</akn:num><akn:heading>Compensation.—</akn:heading><akn:content><akn:p>(1) The term “compensation” means any of the payments or fringe benefits described in section 6703 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_2"><akn:num>(2)</akn:num><akn:heading>Secretary.—</akn:heading><akn:content><akn:p>(2) The term “Secretary” means the Secretary of Labor.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_3"><akn:num>(3)</akn:num><akn:heading>Service employee.—</akn:heading><akn:content><akn:p>(3) The term “service employee”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_4"><akn:num>(4)</akn:num><akn:heading>United states.—</akn:heading><akn:content><akn:p>(4) The term “United States”—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

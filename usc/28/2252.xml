@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/2252" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/2252/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/2252/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2252"><akn:num>2252</akn:num><akn:heading>Notice</akn:heading><akn:content><akn:p>§ 2252. Notice
+Prior to the hearing of a habeas corpus proceeding in behalf of a person in custody of State officers or by virtue of State laws notice shall be served on the attorney general or other appropriate officer of such State as the justice or judge at the time of issuing the writ shall direct.
+(June 25, 1948, ch. 646, 62 Stat. 967.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 462 (R.S. § 762).
+Section 462 of title 28, U.S.C., 1940 ed., was limited to alien prisoners described in section 453 of title 28, U.S.C., 1940 ed. The revised section extends to all cases of all prisoners under State custody or authority, leaving it to the justice or judge to prescribe the notice to State officers, to specify the officer served, and to satisfy himself that such notice has been given.
+Provision for making due proof of such service was omitted as unnecessary. The sheriff’s or marshal’s return is sufficient.
+Changes were made in phraseology.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

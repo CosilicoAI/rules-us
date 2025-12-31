@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6038B" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6038B/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6038B/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6038B"><akn:num>6038B</akn:num><akn:heading>Notice of certain transfers to foreign persons</akn:heading><akn:content><akn:p>§ 6038B. Notice of certain transfers to foreign persons(a) In generalEach United States person who—(1) transfers property to—(A) a foreign corporation in an exchange described in section 332, 351, 354, 355, 356, or 361, or
+
+(B) a foreign partnership in a contribution described in section 721 or in any other contribution described in regulations prescribed by the Secretary, or
+
+
+(2) makes a distribution described in section 336 to a person who is not a United States person,
+
+
+shall furnish to the Secretary, at such time and in such manner as the Secretary shall by regulations prescribe, such information with respect to such exchange or distribution as the Secretary may require in such regulations.
+
+(b) Exceptions for certain transfers to foreign partnerships; special rule(1) ExceptionsSubsection (a)(1)(B) shall apply to a transfer by a United States person to a foreign partnership only if—(A) the United States person holds (immediately after the transfer) directly or indirectly at least a 10-percent interest (as defined in section 6046A(d)) in the partnership, or
+
+(B) the value of the property transferred (when added to the value of the property transferred by such person or any related person to such partnership or a related partnership during the 12-month period ending on the date of the transfer) exceeds $100,000.
+
+
+For purposes of the preceding sentence, the value of any transferred property is its fair market value at the time of its transfer.
+
+(2) Special ruleIf by reason of an adjustment under section 482 or otherwise, a contribution described in subsection (a)(1) is deemed to have been made, such contribution shall be treated for purposes of this section as having been made not earlier than the date specified by the Secretary.
+
+
+
+(c) Penalty for failure to furnish information(1) In generalIf any United States person fails to furnish the information described in subsection (a) at the time and in the manner required by regulations, such person shall pay a penal</akn:p></akn:content><akn:subsection eId="subsec_6038B_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Each United States person who— shall furnish to the Secretary, at such time and in such manner as the Secretary shall by regulations prescribe, such information with respect to such exchange or distribution as the Secretary may require in such regulations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6038B_b"><akn:num>(b)</akn:num><akn:heading>Exceptions for certain transfers to foreign partnerships; special rule</akn:heading><akn:content><akn:p>(b) Exceptions for certain transfers to foreign partnerships; special rule</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6038B_c"><akn:num>(c)</akn:num><akn:heading>Penalty for failure to furnish information</akn:heading><akn:content><akn:p>(c) Penalty for failure to furnish information</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/40904" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/40904/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/40904/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40904"><akn:num>40904</akn:num><akn:heading>Compensation by common carriers</akn:heading><akn:content><akn:p>§ 40904. Compensation by common carriers(a) Certification of License and Services.—A common carrier may compensate an ocean freight forwarder for a shipment dispatched for others only when the ocean freight forwarder has certified in writing that it holds an ocean transportation intermediary’s license (if required under section 40901 of this title) and has—(1) engaged, booked, secured, reserved, or contracted directly with the carrier or its agent for space aboard a vessel or confirmed the availability of the space; and
+
+(2) prepared and processed the ocean bill of lading, dock receipt, or other similar document for the shipment.
+
+
+(b) Dual Compensation.—A common carrier may not pay compensation for services described in subsection (a) more than once on the same shipment.
+
+(c) Beneficial Interest Shipments.—An ocean freight forwarder may not receive compensation from a common carrier for a shipment in which the ocean freight forwarder has a direct or indirect beneficial interest. A common carrier may not knowingly pay compensation on that shipment.
+
+(d) Limits on Authority of Conference or Group.—A conference or group of two or more ocean common carriers in the foreign commerce of the United States that is authorized to agree on the level of compensation paid to an ocean freight forwarder may not—(1) deny a member of the conference or group the right, upon notice of not more than 5 days, to take independent action on any level of compensation paid to an ocean freight forwarder; or
+
+(2) agree to limit the payment of compensation to an ocean freight forwarder to less than 1.25 percent of the aggregate of all rates and charges applicable under a tariff and assessed against the cargo on which the services of the ocean freight forwarder are provided.
+
+
+(Pub. L. 109–304, § 7, Oct. 6, 2006, 120 Stat. 1539.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+4090446 App.:1718(e).Pub. L. 98–237, § 19(e), Mar. 20, 1984, 98 </akn:p></akn:content><akn:subsection eId="subsec_40904_a"><akn:num>(a)</akn:num><akn:heading>Certification of License and Services.—</akn:heading><akn:content><akn:p>(a) A common carrier may compensate an ocean freight forwarder for a shipment dispatched for others only when the ocean freight forwarder has certified in writing that it holds an ocean transportation intermediary’s license (if required under section 40901 of this title) and has—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40904_b"><akn:num>(b)</akn:num><akn:heading>Dual Compensation.—</akn:heading><akn:content><akn:p>(b) A common carrier may not pay compensation for services described in subsection (a) more than once on the same shipment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40904_c"><akn:num>(c)</akn:num><akn:heading>Beneficial Interest Shipments.—</akn:heading><akn:content><akn:p>(c) An ocean freight forwarder may not receive compensation from a common carrier for a shipment in which the ocean freight forwarder has a direct or indirect beneficial interest. A common carrier may not knowingly pay compensation on that shipment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40904_d"><akn:num>(d)</akn:num><akn:heading>Limits on Authority of Conference or Group.—</akn:heading><akn:content><akn:p>(d) A conference or group of two or more ocean common carriers in the foreign commerce of the United States that is authorized to agree on the level of compensation paid to an ocean freight forwarder may not—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

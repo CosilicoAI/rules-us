@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/1196" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/1196/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/1196/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1196"><akn:num>1196</akn:num><akn:heading>Penalties</akn:heading><akn:content><akn:p>§ 1196. Penalties
+Violation of section 1192 or 1197(b) of this title, or failure to comply with section 1202(c) of this title, is punishable by—(1) imprisonment for not more than 5 years for a knowing and willful violation of that section;
+
+(2) a fine determined under section 3571 of title 18; or
+
+(3) both.
+
+(June 30, 1953, ch. 164, § 7, 67 Stat. 114; Pub. L. 95–631, § 8(b), Nov. 10, 1978, 92 Stat. 3747; Pub. L. 110–314, title II, § 217(c)(4), Aug. 14, 2008, 122 Stat. 3060.)
+
+Editorial Notes
+Amendments2008—Pub. L. 110–314 amended section generally. Prior to amendment, text read as follows: “Any person who willfully violates section 1192 or 1197(b) of this title, or who fails to comply with section 1202(c) of this title, shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $5,000 or be imprisoned not more than one year or both in the discretion of the court: Provided, That nothing herein shall limit other provisions of this chapter.”
+1978—Pub. L. 95–631 authorized penalties for noncompliance with section 1202(c) of this title.</akn:p></akn:content><akn:subsection eId="subsec_1196_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) imprisonment for not more than 5 years for a knowing and willful violation of that section;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1196_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) a fine determined under section 3571 of title 18; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1196_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) both.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

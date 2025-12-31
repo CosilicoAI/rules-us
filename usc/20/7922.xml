@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/7922" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/7922/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/7922/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7922"><akn:num>7922</akn:num><akn:heading>Rule of construction regarding travel to and from school</akn:heading><akn:content><akn:p>§ 7922. Rule of construction regarding travel to and from school(a) In generalSubject to subsection (b), nothing in this chapter shall authorize the Secretary to, or shall be construed to—(1) prohibit a child from traveling to and from school on foot or by car, bus, or bike when the parents of the child have given permission; or
+
+(2) expose parents to civil or criminal charges for allowing their child to responsibly and safely travel to and from school by a means the parents believe is age appropriate.
+
+
+(b) No preemption of State or local lawsNotwithstanding subsection (a), nothing in this section shall be construed to preempt State or local laws.
+
+
+(Pub. L. 89–10, title VIII, § 8542, as added Pub. L. 114–95, title VIII, § 8034, Dec. 10, 2015, 129 Stat. 2118.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under section 6301 of this title.</akn:p></akn:content><akn:subsection eId="subsec_7922_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Subject to subsection (b), nothing in this chapter shall authorize the Secretary to, or shall be construed to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7922_b"><akn:num>(b)</akn:num><akn:heading>No preemption of State or local laws</akn:heading><akn:content><akn:p>(b) No preemption of State or local laws Notwithstanding subsection (a), nothing in this section shall be construed to preempt State or local laws.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

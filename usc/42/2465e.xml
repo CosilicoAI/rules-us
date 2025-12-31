@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2465e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2465e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2465e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2465e"><akn:num>2465e</akn:num><akn:heading>Repealed. Pub. L. 105–303, title II, § 203(3), Oct. 28, 1998, 112 Stat. 2855</akn:heading><akn:content><akn:p>§§ 2465d, 2465e. Repealed. Pub. L. 105–303, title II, § 203(3), Oct. 28, 1998, 112 Stat. 2855
+
+Section 2465d, Pub. L. 101–611, title II, § 204, Nov. 16, 1990, 104 Stat. 3206, related to requirement to procure commercial launch services.
+
+
+Section 2465e, Pub. L. 101–611, title II, § 205, Nov. 16, 1990, 104 Stat. 3207, related to purchase of commercial launch services.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

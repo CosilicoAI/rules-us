@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/993" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/993/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/993/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_993"><akn:num>993</akn:num><akn:heading>Powers and duties of Chair</akn:heading><akn:content><akn:p>§ 993. Powers and duties of Chair
+The Chair shall—(a) call and preside at meetings of the Commission, which shall be held for at least two weeks in each quarter after the members of the Commission hold part-time positions; and
+
+(b) direct—(1) the preparation of requests for appropriations for the Commission; and
+
+(2) the use of funds made available to the Commission.
+
+
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–22, § 1(2), Apr. 15, 1985, 99 Stat. 46; Pub. L. 99–646, § 5, Nov. 10, 1986, 100 Stat. 3592; Pub. L. 103–322, title XXVIII, § 280005(c)(1), Sept. 13, 1994, 108 Stat. 2097.)
+
+Editorial Notes
+Amendments1994—Pub. L. 103–322 substituted “Chair” for “Chairman” in section catchline and introductory provisions.
+1986—Subsec. (b)(2). Pub. L. 99–646 struck out provision that, before appointment of first Chairman, Administrative Office of the United States Courts may make requests for appropriations for Commission.
+1985—Subsec. (b)(2). Pub. L. 99–22 inserted provision authorizing the Administrative Office of the United States Courts to make requests for appropriations for the Commission before the appointment of the first Chairman of the Commission.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.</akn:p></akn:content><akn:subsection eId="subsec_993_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) call and preside at meetings of the Commission, which shall be held for at least two weeks in each quarter after the members of the Commission hold part-time positions; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_993_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) direct—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

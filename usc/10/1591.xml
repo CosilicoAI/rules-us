@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1591" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1591/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1591/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1591"><akn:num>1591</akn:num><akn:heading>Reimbursement for travel and transportation expenses when accompanying Members of Congress</akn:heading><akn:content><akn:p>§ 1591. Reimbursement for travel and transportation expenses when accompanying Members of Congress(a) Subject to subsection (b), the Secretary concerned may authorize reimbursement to a civilian employee who is accompanying a Member of Congress or a congressional employee on official travel for actual travel and transportation expenses incurred for such travel.
+
+(b) The allowance provided in subsection (a) may be paid—(1) at a rate that does not exceed the rate approved for official congressional travel; and
+
+(2) only when the travel of the member is directed or approved by the Secretary concerned.
+
+
+(c) In this section:(1) The term “Member of Congress” means a member of the Senate or the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+
+(2) The term “congressional employee” means an employee of a Member of Congress or an employee of Congress.
+
+(3) The term “Secretary concerned” includes the Secretary of Defense with respect to civilian employees of the Department of Defense other than a military department.
+
+
+(Added Pub. L. 100–180, div. A, title VI, § 617(b)(1), Dec. 4, 1987, 101 Stat. 1097.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 100–180, div. A, title VI, § 617(c), Dec. 4, 1987, 101 Stat. 1097, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Subsection (h) of section 474 of title 37, United States Code (as added by subsection (a)), and section 1591 of title 10, United States Code (as added by subsection (b)), shall apply with respect to travel performed after the date of the enactment of this Act [Dec. 4, 1987].”</akn:p></akn:content><akn:subsection eId="subsec_1591_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Subject to subsection (b), the Secretary concerned may authorize reimbursement to a civilian employee who is accompanying a Member of Congress or a congressional employee on official travel for actual travel and transportation expenses incurred for such travel.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1591_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The allowance provided in subsection (a) may be paid—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1591_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/122a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/122a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/122a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_122a"><akn:num>122a</akn:num><akn:heading>Public availability of Department of Defense reports required by law</akn:heading><akn:content><akn:p>§ 122a. Public availability of Department of Defense reports required by law(a) In General.—To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Assistant to the Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—(1) posting the report on a publicly accessible Internet website of the Department of Defense; and
+
+(2) upon request, transmitting the report by other means, as long as such transmission is at no cost to the Department.
+
+
+(b) Covered Reports.—(1) Except as provided in paragraph (2), a report described in this subsection is any report that is required by law to be submitted to Congress by the Secretary of Defense, or by any element of the Department of Defense.
+
+(2) A report otherwise described in paragraph (1) is not a report described in this subsection if the report contains—(A) classified information;
+
+(B) proprietary information;
+
+(C) information that is exempt from disclosure under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”); or
+
+(D) any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
+
+
+
+(c) Semi-annual Summaries.—Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
+
+(Added Pub. L. 111–383, div. A, title X, § 1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, § 1068, Dec. 31, 2011, 125 Stat. 1589; Pu</akn:p></akn:content><akn:subsection eId="subsec_122a_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) To the maximum extent practicable, on or after the date on which each report described in subsection (b) is submitted to Congress, the Secretary of Defense, acting through the Assistant to the Secretary of Defense for Public Affairs, shall ensure that the report is made available to the public by—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_122a_b"><akn:num>(b)</akn:num><akn:heading>Covered Reports.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_122a_c"><akn:num>(c)</akn:num><akn:heading>Semi-annual Summaries.—</akn:heading><akn:content><akn:p>(c) Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

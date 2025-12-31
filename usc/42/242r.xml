@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/242r" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/242r/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/242r/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_242r"><akn:num>242r</akn:num><akn:heading>Improvement and publication of data on food-related allergic responses</akn:heading><akn:content><akn:p>§ 242r. Improvement and publication of data on food-related allergic responses(a) In generalThe Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—(1) the prevalence of food allergies;
+
+(2) the incidence of clinically significant or serious adverse events related to food allergies; and
+
+(3) the use of different modes of treatment for and prevention of allergic responses to foods.
+
+
+(b) Authorization of appropriationsFor the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
+
+
+(Pub. L. 108–282, title II, § 207, Aug. 2, 2004, 118 Stat. 910.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not as part of the Public Health Service Act which comprises this chapter.</akn:p></akn:content><akn:subsection eId="subsec_242r_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_242r_b"><akn:num>(b)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(b) Authorization of appropriations For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

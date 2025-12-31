@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/32310" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/32310/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/32310/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_32310"><akn:num>32310</akn:num><akn:heading>New Car Assessment Program roadmap</akn:heading><akn:content><akn:p>§ 32310. New Car Assessment Program roadmap(a) Establishment.—Not later than 1 year after the date of enactment of this section, and not less frequently than once every 4 years thereafter, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a roadmap for the implementation of the New Car Assessment Program of the National Highway Traffic Safety Administration.
+
+(b) Requirements.—A roadmap under subsection (a) shall—(1) cover a term of 10 years, consisting of—(A) a mid-term component covering the initial 5 years of the term; and
+
+(B) a long-term component covering the final 5 years of the term; and
+
+
+(2) be in accordance with—(A) section 306 of title 5;
+
+(B) section 1115 of title 31;
+
+(C) section 24401 of the FAST Act (49 U.S.C. 105 note; Public Law 114–94); and
+
+(D) any other relevant plans of the National Highway Traffic Safety Administration.
+
+
+
+(c) Contents.—A roadmap under subsection (a) shall include—(1) a plan for any changes to the New Car Assessment Program of the National Highway Traffic Safety Administration, including—(A) descriptions of actions to be carried out to update the passenger motor vehicle information developed under section 32302(a), including the development of test procedures, test devices, test fixtures, and safety performance metrics, which shall, as applicable, incorporate—(i) objective criteria for evaluating safety technologies; and
+
+(ii) reasonable time periods for compliance with new or updated tests;
+
+
+(B) key milestones, including the anticipated start of an action, completion of an action, and effective date of an update; and
+
+(C) descriptions of the means by which an update will improve the passenger motor vehicle information developed under section 32302(a);
+
+
+(2) an identification and prioritization of safety opportunities and technologies—(A) with respect to the mid-term component of the roadmap under subsection (b)(1)(A)—(i) that are practicable; and
+
+(ii) for which objective rating</akn:p></akn:content><akn:subsection eId="subsec_32310_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) Not later than 1 year after the date of enactment of this section, and not less frequently than once every 4 years thereafter, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a roadmap for the implementation of the New Car Assessment Program of the National Highway Traffic Safety Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32310_b"><akn:num>(b)</akn:num><akn:heading>Requirements.—</akn:heading><akn:content><akn:p>(b) A roadmap under subsection (a) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32310_c"><akn:num>(c)</akn:num><akn:heading>Contents.—</akn:heading><akn:content><akn:p>(c) A roadmap under subsection (a) shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32310_d"><akn:num>(d)</akn:num><akn:heading>Considerations.—</akn:heading><akn:content><akn:p>(d) Before finalizing a roadmap under this section, the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32310_e"><akn:num>(e)</akn:num><akn:heading>Stakeholder Engagement.—</akn:heading><akn:content><akn:p>(e) Not less frequently than annually, the Secretary shall engage stakeholders that represent a diversity of technical backgrounds and viewpoints—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

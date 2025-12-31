@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8439" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8439/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8439/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8439"><akn:num>8439</akn:num><akn:heading>Accounting and information</akn:heading><akn:content><akn:p>§ 8439. Accounting and information(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title or who makes contributions to the Thrift Savings Fund.
+
+(2) The balance in an individual’s account at any time is the excess of—(A) the sum of—(i) all contributions made to the Thrift Savings Fund by the individual;
+
+(ii) all contributions made to such Fund for the benefit of the individual; and
+
+(iii) the total amount of the allocations made to and reductions made in the account pursuant to paragraph (3), over
+
+
+(B) the amounts paid out of the Thrift Savings Fund with respect to such individual under this subchapter.
+
+
+(3) Pursuant to regulations prescribed by the Executive Director, the Executive Director shall allocate to each account an amount equal to a pro rata share of the net earnings and net losses from each investment of sums in the Thrift Savings Fund attributable to sums credited to such account, reduced by an appropriate share of the administrative expenses paid out of the net earnings under section 8437(d) of this title, as determined by the Executive Director.
+
+
+(b)(1) For the purposes of this subsection, the term “qualified public accountant” shall have the same meaning as provided in section 103(a)(3)(D) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023(a)(3)(D)).
+
+(2) The Executive Director shall annually engage, on behalf of all individuals for whom an account is maintained, an independent qualified public accountant, who shall conduct an examination of all accounts and other books and records maintained in the administration of this subchapter and subchapter VII as the public accountant considers necessary to enable the public accountant to make the determination required by paragraph (3). The examination shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of th</akn:p></akn:content><akn:subsection eId="subsec_8439_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8439_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8439_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8439_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

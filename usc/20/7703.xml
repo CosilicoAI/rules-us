@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/7703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/7703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/7703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7703"><akn:num>7703</akn:num><akn:heading>Payments for eligible federally connected children</akn:heading><akn:content><akn:p>§ 7703. Payments for eligible federally connected children(a) Computation of payment(1) In generalFor the purpose of computing the amount that a local educational agency is eligible to receive under subsection (b) or (d) for any fiscal year, the Secretary shall determine the number of children who were in average daily attendance in the schools of such agency, and for whom such agency provided free public education, during the preceding school year and who, while in attendance at such schools—(A)(i) resided on Federal property with a parent employed on Federal property situated in whole or in part within the boundaries of the school district of such agency; or
+
+(ii) resided on Federal property with a parent who is an official of, and accredited by, a foreign government and is a foreign military officer;
+
+
+(B) resided on Federal property and had a parent on active duty in the uniformed services (as defined in section 101 of title 37);
+
+(C) resided on Indian lands;
+
+(D)(i) had a parent on active duty in the uniformed services (as defined by section 101 of title 37) but did not reside on Federal property; or
+
+(ii) had a parent who is an official of, and has been accredited by, a foreign government and is a foreign military officer but did not reside on Federal property;
+
+
+(E) resided in low-rent housing;
+
+(F) resided on Federal property and is not described in subparagraph (A) or (B); or
+
+(G) resided with a parent employed on Federal property situated—(i) in whole or in part in the county in which such agency is located, or in whole or in part in such agency if such agency is located in more than one county; or
+
+(ii) if not in such county, in whole or in part in the same State as such agency.
+
+
+
+(2) Determination of weighted student unitsFor the purpose of computing the basic support payment under subsection (b), the Secretary shall calculate the total number of weighted student units for a local educational agency by adding together the results obtained by the followi</akn:p></akn:content><akn:subsection eId="subsec_7703_a"><akn:num>(a)</akn:num><akn:heading>Computation of payment</akn:heading><akn:content><akn:p>(a) Computation of payment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7703_b"><akn:num>(b)</akn:num><akn:heading>Basic support payments; insufficient appropriations; State with only one local educational agency</akn:heading><akn:content><akn:p>(b) Basic support payments; insufficient appropriations; State with only one local educational agency</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7703_c"><akn:num>(c)</akn:num><akn:heading>Prior year data</akn:heading><akn:content><akn:p>(c) Prior year data</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7703_d"><akn:num>(d)</akn:num><akn:heading>Children with disabilities</akn:heading><akn:content><akn:p>(d) Children with disabilities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7703_e"><akn:num>(e)</akn:num><akn:heading>Hold harmless</akn:heading><akn:content><akn:p>(e) Hold harmless</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7703_f"><akn:num>(f)</akn:num><akn:heading>Other funds</akn:heading><akn:content><akn:p>(f) Other funds Notwithstanding any other provision of law, a local educational agency receiving funds under this section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section’s successor authority.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

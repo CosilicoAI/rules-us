@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/1125" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/1125/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/1125/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1125"><akn:num>1125</akn:num><akn:heading>Elimination of unnecessary agency reporting</akn:heading><akn:content><akn:p>§ 1125. Elimination of unnecessary agency reporting(a) Definitions.—In this section:(1) Budget justification materials.—The term “budget justification materials” has the meaning given the term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note; Public Law 109–282).
+
+(2) Plan or report.—The term “plan or report” means any plan or report submitted to Congress, any committee of Congress, or subcommittee thereof, by not less than 1 agency—(A) in accordance with Federal law; or
+
+(B) at the direction or request of a congressional report.
+
+
+(3) Recurring plan or report.—The term “recurring plan or report” means a plan or report submitted on a recurring basis.
+
+(4) Relevant congressional committee.—The term “relevant congressional committee”—(A) means a congressional committee to which a recurring plan or report is required to be submitted; and
+
+(B) does not include any plan or report that is required to be submitted solely to the Committee on Armed Services of the House of Representatives or the Senate.
+
+
+
+(b) Agency Identification of Unnecessary Reports.—(1) In general.—The head of each agency shall include in the budget justification materials of the agency the following:(A) Subject to paragraphs (2) and (3), the following:(i) A list of each recurring plan or report submitted by the agency.
+
+(ii) An identification of whether the recurring plan or report listed in clause (i) was included in the most recent report issued by the Clerk of the House of Representatives concerning the reports that any agency is required by law or directed or requested by a committee report to make to Congress, any committee of Congress, or subcommittee thereof.
+
+(iii) If applicable, the unique alphanumeric identifier for the recurring plan or report as required by section 7243(b)(1)(C)(vii) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263).
+
+(iv) The identification of any recurring plan or </akn:p></akn:content><akn:subsection eId="subsec_1125_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1125_b"><akn:num>(b)</akn:num><akn:heading>Agency Identification of Unnecessary Reports.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1125_c"><akn:num>(c)</akn:num><akn:heading>Rule of Construction on Agency Requirements.—</akn:heading><akn:content><akn:p>(c) Nothing in this section shall be construed to exempt the head of an agency from a requirement to submit a recurring plan or report.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1125_d"><akn:num>(d)</akn:num><akn:heading>Request for Elimination of Unnecessary Reports.—</akn:heading><akn:content><akn:p>(d) In addition to including the list of plans and reports determined to be outdated or duplicative by each agency in the budget justification materials of each agency, the Director of the Office of Management and Budget may concurrently submit to Congress legislation to eliminate or consolidate such plans and reports.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

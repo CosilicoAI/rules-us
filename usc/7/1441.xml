@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1441" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1441/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1441/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1441"><akn:num>1441</akn:num><akn:heading>Price support levels</akn:heading><akn:content><akn:p>§ 1441. Price support levels
+The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized and directed to make available through loans, purchases, or other operations, price support to cooperators for any crop of any basic agricultural commodity, if producers have not disapproved marketing quotas for such crop, at a level not in excess of 90 per centum of the parity price of the commodity nor less than the level provided in subsections (a), (b), and (c) as follows:
+
+
+
+
+
+
+(a) For corn and wheat, if the supply percentage as of the beginning of the marketing year is:The level of support shall be not less than the following percentage of the parity price:
+
+
+Not more than 10290
+More than 102 but not more than 10489
+More than 104 but not more than 10688
+More than 106 but not more than 10887
+More than 108 but not more than 11086
+More than 110 but not more than 11285
+More than 112 but not more than 11484
+More than 114 but not more than 11683
+More than 116 but not more than 11882
+More than 118 but not more than 12081
+More than 120 but not more than 12280
+More than 122 but not more than 12479
+More than 124 but not more than 12678
+More than 126 but not more than 12877
+More than 128 but not more than 13076
+More than 13075
+
+
+
+For rice of the 1959 and 1960 crops, the level of support shall be not less than 75 per centum of the parity price. For rice of the 1961 crop the level of support shall be not less than 70 per centum of the parity price. For the 1962 and subsequent crops of rice the level of support shall be not less than 65 per centum of the parity price.
+
+
+
+
+
+
+(b) For cotton, if the supply percentage as of the beginning of the marketing year is:The level of support shall be not less than the following percentage of the parity price:
+
+
+Not more than 10890
+More than 108 but not more than 11089
+More than 110 but not more than 11288
+More than 112 but not more than 11487
+More than 114 but not more than 11686
+More than 116 but not more than 11885
+More than 11</akn:p></akn:content><akn:subsection eId="subsec_1441_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Notwithstanding the foregoing provisions of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1441_d"><akn:num>(d)</akn:num><akn:heading>Rice.—</akn:heading><akn:content><akn:p>(d) The Secretary shall make available to producers of each crop of rice on a farm price support at a level that is not less than 50 percent, or more than 90 percent of the parity price for rice as the Secretary determines will not result in increasing stocks of rice to the Commodity Credit Corporation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

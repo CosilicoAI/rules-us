@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/17/901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/17/901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/17/901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_901"><akn:num>901</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 901. Definitions(a) As used in this chapter—(1) a “semiconductor chip product” is the final or intermediate form of any product—(A) having two or more layers of metallic, insulating, or semiconductor material, deposited or otherwise placed on, or etched away or otherwise removed from, a piece of semiconductor material in accordance with a predetermined pattern; and
+
+(B) intended to perform electronic circuitry functions;
+
+
+(2) a “mask work” is a series of related images, however fixed or encoded—(A) having or representing the predetermined, three-dimensional pattern of metallic, insulating, or semiconductor material present or removed from the layers of a semiconductor chip product; and
+
+(B) in which series the relation of the images to one another is that each image has the pattern of the surface of one form of the semiconductor chip product;
+
+
+(3) a mask work is “fixed” in a semiconductor chip product when its embodiment in the product is sufficiently permanent or stable to permit the mask work to be perceived or reproduced from the product for a period of more than transitory duration;
+
+(4) to “distribute” means to sell, or to lease, bail, or otherwise transfer, or to offer to sell, lease, bail, or otherwise transfer;
+
+(5) to “commercially exploit” a mask work is to distribute to the public for commercial purposes a semiconductor chip product embodying the mask work; except that such term includes an offer to sell or transfer a semiconductor chip product only when the offer is in writing and occurs after the mask work is fixed in the semiconductor chip product;
+
+(6) the “owner” of a mask work is the person who created the mask work, the legal representative of that person if that person is deceased or under a legal incapacity, or a party to whom all the rights under this chapter of such person or representative are transferred in accordance with section 903(b); except that, in the case of a work made within the scope of a person’s employment, the owner is the e</akn:p></akn:content><akn:subsection eId="subsec_901_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) As used in this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_901_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For purposes of this chapter, the distribution or importation of a product incorporating a semiconductor chip product as a part thereof is a distribution or importation of that semiconductor chip product.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

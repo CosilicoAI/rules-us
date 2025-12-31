@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/5043" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/5043/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/5043/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5043"><akn:num>5043</akn:num><akn:heading>Juvenile solitary confinement</akn:heading><akn:content><akn:p>§ 5043. Juvenile solitary confinement(a) Definitions.—In this section—(1) the term “covered juvenile” means—(A) a juvenile who—(i) is being proceeded against under this chapter for an alleged act of juvenile delinquency; or
+
+(ii) has been adjudicated delinquent under this chapter; or
+
+
+(B) a juvenile who is being proceeded against as an adult in a district court of the United States for an alleged criminal offense;
+
+
+(2) the term “juvenile facility” means any facility where covered juveniles are—(A) committed pursuant to an adjudication of delinquency under this chapter; or
+
+(B) detained prior to disposition or conviction; and
+
+
+(3) the term “room confinement” means the involuntary placement of a covered juvenile alone in a cell, room, or other area for any reason.
+
+
+(b) Prohibition on Room Confinement in Juvenile Facilities.—(1) In general.—The use of room confinement at a juvenile facility for discipline, punishment, retaliation, or any reason other than as a temporary response to a covered juvenile’s behavior that poses a serious and immediate risk of physical harm to any individual, including the covered juvenile, is prohibited.
+
+(2) Juveniles posing risk of harm.—(A) Requirement to use least restrictive techniques.—(i) In general.—Before a staff member of a juvenile facility places a covered juvenile in room confinement, the staff member shall attempt to use less restrictive techniques, including—(I) talking with the covered juvenile in an attempt to de-escalate the situation; and
+
+(II) permitting a qualified mental health professional to talk to the covered juvenile.
+
+
+(ii) Explanation.—If, after attempting to use less restrictive techniques as required under clause (i), a staff member of a juvenile facility decides to place a covered juvenile in room confinement, the staff member shall first—(I) explain to the covered juvenile the reasons for the room confinement; and
+
+(II) inform the covered juvenile that release from room confinement will occur—(aa) immedia</akn:p></akn:content><akn:subsection eId="subsec_5043_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5043_b"><akn:num>(b)</akn:num><akn:heading>Prohibition on Room Confinement in Juvenile Facilities.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8671" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8671/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8671/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8671"><akn:num>8671</akn:num><akn:heading>Determination of vessel delivery dates</akn:heading><akn:content><akn:p>§ 8671. Determination of vessel delivery dates(a) In General.—The delivery of a covered vessel shall be deemed to occur on the date on which—(1) the Secretary of the Navy determines that the vessel is assembled and complete; and
+
+(2) custody of the vessel and all systems contained in the vessel transfers to the Navy.
+
+
+(b) Inclusion in Budget and Acquisition Reports.—The delivery dates of covered vessels shall be included—(1) in the materials submitted to Congress by the Secretary of Defense in support of the budget of the President for each fiscal year (as submitted to Congress under section 1105(a) of title 31, United States Code); and
+
+(2) in any relevant Selected Acquisition Report submitted to Congress under section 4351 of this title.
+
+
+(c) Listing as Battle Force Ship in Naval Vessel Register.—A covered vessel may not be listed in the Naval Vessel Register or other fleet inventory measures as a battle force ship until the delivery date specified in subsection (a).
+
+(d) Definitions.—In this section:(1) The term “covered vessel” means any vessel of the Navy that is under construction or constructed using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy.
+
+(2) The term “battle force ship” means the following:(A) A commissioned United States Ship warship capable of contributing to combat operations.
+
+(B) A United States Naval Ship that contributes directly to Navy warfighting or support missions.
+
+
+
+(Added Pub. L. 114–328, div. A, title I, § 121(a)(1), Dec. 23, 2016, 130 Stat. 2029, § 7301; renumbered § 8671 and amended Pub. L. 115–232, div. A, title VIII, § 807(d)(2), title X, § 1014, Aug. 13, 2018, 132 Stat. 1836, 1948; Pub. L. 116–283, div. A, title XVIII, § 1849(f), formerly § 1849(m), Jan. 1, 2021, 134 Stat. 4264, renumbered § 1849(f) and amended Pub. L. 117–81, div. A, title XVII, § 1701(o)(5)(B), (6)(D), Dec. 27, 2021, 135 Stat. 2147.)
+
+Editorial Notes
+Amendments2021—Subsec. (b)(2). Pub. L. 116–283, §</akn:p></akn:content><akn:subsection eId="subsec_8671_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The delivery of a covered vessel shall be deemed to occur on the date on which—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8671_b"><akn:num>(b)</akn:num><akn:heading>Inclusion in Budget and Acquisition Reports.—</akn:heading><akn:content><akn:p>(b) The delivery dates of covered vessels shall be included—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8671_c"><akn:num>(c)</akn:num><akn:heading>Listing as Battle Force Ship in Naval Vessel Register.—</akn:heading><akn:content><akn:p>(c) A covered vessel may not be listed in the Naval Vessel Register or other fleet inventory measures as a battle force ship until the delivery date specified in subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8671_d"><akn:num>(d)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(d) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

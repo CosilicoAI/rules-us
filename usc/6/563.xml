@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/563" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/563/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/563/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_563"><akn:num>563</akn:num><akn:heading>5-year technology investment plan</akn:heading><akn:content><akn:p>§ 563. 5-year technology investment plan(a) In generalThe Administrator shall—(1) not later than 180 days after December 18, 2014, develop and submit to Congress a strategic 5-year technology investment plan, that may include a classified addendum to report sensitive transportation security risks, technology vulnerabilities, or other sensitive security information; and
+
+(2) to the extent possible, publish the Plan in an unclassified format in the public domain.
+
+
+(b) ConsultationThe Administrator shall develop the Plan in consultation with—(1) the Under Secretary for Management;
+
+(2) the Under Secretary for Science and Technology;
+
+(3) the Chief Information Officer; and
+
+(4) the aviation industry stakeholder advisory committee established by the Administrator.
+
+
+(c) ApprovalThe Administrator may not publish the Plan under subsection (a)(2) until it has been approved by the Secretary.
+
+
+(d) Contents of PlanThe Plan shall include—(1) an analysis of transportation security risks and the associated capability gaps that would be best addressed by security-related technology, including consideration of the most recent quadrennial homeland security review under section 347 of this title;
+
+(2) a set of security-related technology acquisition needs that—(A) is prioritized based on risk and associated capability gaps identified under paragraph (1); and
+
+(B) includes planned technology programs and projects with defined objectives, goals, timelines, and measures;
+
+
+(3) an analysis of current and forecast trends in domestic and international passenger travel;
+
+(4) an identification of currently deployed security-related technologies that are at or near the end of their lifecycles;
+
+(5) an identification of test, evaluation, modeling, and simulation capabilities, including target methodologies, rationales, and timelines necessary to support the acquisition of the security-related technologies expected to meet the needs under paragraph (2);
+
+(6) an identification of opportunities</akn:p></akn:content><akn:subsection eId="subsec_563_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Administrator shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_b"><akn:num>(b)</akn:num><akn:heading>Consultation</akn:heading><akn:content><akn:p>(b) Consultation The Administrator shall develop the Plan in consultation with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_c"><akn:num>(c)</akn:num><akn:heading>Approval</akn:heading><akn:content><akn:p>(c) Approval The Administrator may not publish the Plan under subsection (a)(2) until it has been approved by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_d"><akn:num>(d)</akn:num><akn:heading>Contents of Plan</akn:heading><akn:content><akn:p>(d) Contents of Plan The Plan shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_e"><akn:num>(e)</akn:num><akn:heading>Leveraging the private sector</akn:heading><akn:content><akn:p>(e) Leveraging the private sector To the extent possible, and in a manner that is consistent with fair and equitable practices, the Plan shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_f"><akn:num>(f)</akn:num><akn:heading>Disclosure</akn:heading><akn:content><akn:p>(f) Disclosure The Administrator shall include with the Plan a list of nongovernment persons that contributed to the writing of the Plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_g"><akn:num>(g)</akn:num><akn:heading>Update and report</akn:heading><akn:content><akn:p>(g) Update and report The Administrator shall, in collaboration with relevant industry and government stakeholders, annually submit to Congress in an appendix to the budget request and publish in an unclassified format in the public domain—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_h"><akn:num>(h)</akn:num><akn:heading>Additional update requirements</akn:heading><akn:content><akn:p>(h) Additional update requirements Updates and reports under subsection (g) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563_i"><akn:num>(i)</akn:num><akn:heading>Notice of covered changes to plan</akn:heading><akn:content><akn:p>(i) Notice of covered changes to plan</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

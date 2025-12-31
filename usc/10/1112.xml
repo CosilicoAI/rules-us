@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1112"><akn:num>1112</akn:num><akn:heading>Assets of Fund</akn:heading><akn:content><akn:p>§ 1112. Assets of Fund
+There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:(1) Amounts paid into the Fund under section 1116 of this title.
+
+(2) Any amount appropriated to the Fund.
+
+(3) Any return on investment of the assets of the Fund.
+
+(4) Amounts paid into the Fund pursuant to section 1111(c) of this title.
+
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title VII, § 711(b)(2), Dec. 28, 2001, 115 Stat. 1165.)
+
+Editorial Notes
+Amendments2001—Par. (4). Pub. L. 107–107 added par. (4).
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2001 AmendmentAmendment by Pub. L. 107–107 effective as if included in the enactment of this chapter by Pub. L. 106–398, see section 711(f) of Pub. L. 107–107, set out as a note under section 1111 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1112_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) Amounts paid into the Fund under section 1116 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1112_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) Any amount appropriated to the Fund.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1112_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) Any return on investment of the assets of the Fund.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1112_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) Amounts paid into the Fund pursuant to section 1111(c) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

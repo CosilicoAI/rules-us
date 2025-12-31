@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/4705" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/4705/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/4705/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4705"><akn:num>4705</akn:num><akn:heading>Liability of barge removal contractors</akn:heading><akn:content><akn:p>§ 4705. Liability of barge removal contractors(a) A barge removal contractor and its subcontractor are not liable for damages that result from actions taken or omitted to be taken in the course of removing a barge under this chapter.
+
+(b) Subsection (a) does not apply—(1) with respect to personal injury or wrongful death; or
+
+(2) if the contractor or subcontractor is grossly negligent or engages in willful misconduct.
+
+
+(Added Pub. L. 102–587, title V, § 5302, Nov. 4, 1992, 106 Stat. 5083; amended Pub. L. 109–304, § 15(19), Oct. 6, 2006, 120 Stat. 1703.)
+
+Editorial Notes
+Amendments2006—Pub. L. 109–304 in subsec. (a) struck out par. (1) designation before “A barge removal” and substituted “subcontractor are not” for “subcontractor not”, redesignated par. (2) as subsec. (b) and subpars. (A) and (B) of former par. (2) as pars. (1) and (2) of subsec. (b), respectively, and substituted “Subsection (a)” for “Paragraph (1)”.</akn:p></akn:content><akn:subsection eId="subsec_4705_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A barge removal contractor and its subcontractor are not liable for damages that result from actions taken or omitted to be taken in the course of removing a barge under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4705_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Subsection (a) does not apply—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

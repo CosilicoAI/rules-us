@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/53" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/53/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/53/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53"><akn:num>53</akn:num><akn:heading>“Person” or “persons” defined</akn:heading><akn:content><akn:p>§ 53. “Person” or “persons” defined
+The word “person” or “persons” wherever used in section 52 of this title shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
+(Oct. 15, 1914, ch. 323, § 1, 38 Stat. 730.)
+
+Editorial Notes
+Codification
+Section is based on the 3d par. of section 1(a) of the Clayton Act (Oct. 15, 1914, ch. 323, as amended by section 305(b) of Pub. L. 94–435, Sept. 30, 1976). Section 1 of the Clayton Act is classified in its entirety to section 12 of Title 15, Commerce and Trade.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

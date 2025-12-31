@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/100721" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/100721/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/100721/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_100721"><akn:num>100721</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 100721. Definitions
+In this subchapter:(1) Damages.—The term “damages” includes—(A) compensation for—(i)(I) the cost of replacing, restoring, or acquiring the equivalent of a System unit resource; and
+
+(II) the value of any significant loss of use of a System unit resource pending its restoration or replacement or the acquisition of an equivalent resource; or
+
+
+(ii) the value of the System unit resource if the System unit resource cannot be replaced or restored; and
+
+
+(B) the cost of a damage assessment under section 100723(b) of this title.
+
+
+(2) Response costs.—The term “response costs” means the costs of actions taken by the Secretary to—(A) prevent or minimize destruction or loss of or injury to a System unit resource;
+
+(B) abate or minimize the imminent risk of the destruction, loss, or injury; or
+
+(C) monitor ongoing effects of incidents causing the destruction, loss, or injury.
+
+
+(3) System unit resource.—(A) In general.—The term “System unit resource” means any living or non-living resource that is located within the boundaries of a System unit.
+
+(B) Exclusion.—The term “System unit resource” does not include a resource owned by a non-Federal entity.
+
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3106.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10072116 U.S.C. 19jj.Pub. L. 101–337, § 1, July 27, 1990, 104 Stat. 379; Pub. L. 104–333, div. I, title VIII, § 814(h)(1), (2), Nov. 12, 1996, 110 Stat. 4199.
+
+
+In this section, the text of 16 U.S.C. 19jj(a) is omitted as unnecessary. The text of 16 U.S.C. 19jj(e) is omitted because the term “regimen” is not used in the revised title. The text of 16 U.S.C. 19jj(g) is omitted because a marine or aquatic park system resource is a kind of park system resource.</akn:p></akn:content><akn:subsection eId="subsec_100721_1"><akn:num>(1)</akn:num><akn:heading>Damages.—</akn:heading><akn:content><akn:p>(1) The term “damages” includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_100721_2"><akn:num>(2)</akn:num><akn:heading>Response costs.—</akn:heading><akn:content><akn:p>(2) The term “response costs” means the costs of actions taken by the Secretary to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_100721_3"><akn:num>(3)</akn:num><akn:heading>System unit resource.—</akn:heading><akn:content><akn:p>(3)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

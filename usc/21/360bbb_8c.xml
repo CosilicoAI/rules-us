@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/360bbb–8c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/360bbb–8c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/360bbb–8c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_360bbb_8c"><akn:num>360bbb–8c</akn:num><akn:heading>Patient participation in medical product discussion</akn:heading><akn:content><akn:p>§ 360bbb–8c. Patient participation in medical product discussion(a) Patient engagement in drugs and devices(1) In generalThe Secretary shall develop and implement strategies to solicit the views of patients during the medical product development process and consider the perspectives of patients during regulatory discussions, including by—(A) fostering participation of a patient representative who may serve as a special government employee in appropriate agency meetings with medical product sponsors and investigators; and
+
+(B) exploring means to provide for identification of patient representatives who do not have any, or have minimal, financial interests in the medical products industry.
+
+
+(2) Protection of proprietary informationNothing in this section shall be construed to alter the protections offered by laws, regulations, or policies governing disclosure of confidential commercial or trade secret information and any other information exempt from disclosure pursuant to section 552(b) of title 5 as such laws, regulations, or policies would apply to consultation with individuals and organizations prior to July 9, 2012.
+
+
+(3) Other consultationNothing in this section shall be construed to limit the ability of the Secretary to consult with individuals and organizations as authorized prior to July 9, 2012.
+
+
+(4) No right or obligationNothing in this section shall be construed to create a legal right for a consultation on any matter or require the Secretary to meet with any particular expert or stakeholder. Nothing in this section shall be construed to alter agreed upon goals and procedures identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012. Nothing in this section is intended to increase the number of review cycles as in effect before July 9, 2012.
+
+
+(5) Financial interestIn this section, the term “financial interest” means a financial interest under section 208(a) of title 18.
+
+
+
+(b) Statement of patient experie</akn:p></akn:content><akn:subsection eId="subsec_360bbb_8c_a"><akn:num>(a)</akn:num><akn:heading>Patient engagement in drugs and devices</akn:heading><akn:content><akn:p>(a) Patient engagement in drugs and devices</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_360bbb_8c_b"><akn:num>(b)</akn:num><akn:heading>Statement of patient experience</akn:heading><akn:content><akn:p>(b) Statement of patient experience</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_360bbb_8c_c"><akn:num>(c)</akn:num><akn:heading>Patient experience data</akn:heading><akn:content><akn:p>(c) Patient experience data For purposes of this section, the term “patient experience data” includes data that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

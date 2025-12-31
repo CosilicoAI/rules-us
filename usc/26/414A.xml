@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/414A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/414A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/414A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_414A"><akn:num>414A</akn:num><akn:heading>Requirements related to automatic enrollment</akn:heading><akn:content><akn:p>§ 414A. Requirements related to automatic enrollment(a) In generalExcept as otherwise provided in this section—(1) an arrangement shall not be treated as a qualified cash or deferred arrangement described in section 401(k) unless such arrangement meets the automatic enrollment requirements of subsection (b), and
+
+(2) an annuity contract otherwise described in section 403(b) which is purchased under a salary reduction agreement shall not be treated as described in such section unless such agreement meets the automatic enrollment requirements of subsection (b).
+
+
+(b) Automatic enrollment requirements(1) In generalAn arrangement or agreement meets the requirements of this subsection if such arrangement or agreement is an eligible automatic contribution arrangement (as defined in section 414(w)(3)) which meets the requirements of paragraphs (2) through (4).
+
+
+(2) Allowance of permissible withdrawalsAn eligible automatic contribution arrangement meets the requirements of this paragraph if such arrangement allows employees to make permissible withdrawals (as defined in section 414(w)(2)).
+
+
+(3) Minimum contribution percentage(A) In generalAn eligible automatic contribution arrangement meets the requirements of this paragraph if—(i) the uniform percentage of compensation contributed by the participant under such arrangement during the first year of participation is not less than 3 percent and not more than 10 percent (unless the participant specifically elects not to have such contributions made or to have such contributions made at a different percentage), and
+
+(ii) effective for the first day of each plan year starting after each completed year of participation under such arrangement such uniform percentage is increased by 1 percentage point (to at least 10 percent, but not more than 15 percent) unless the participant specifically elects not to have such contributions made or to have such contributions made at a different percentage.
+
+
+(B) Initial reduced ceiling for cer</akn:p></akn:content><akn:subsection eId="subsec_414A_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Except as otherwise provided in this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_414A_b"><akn:num>(b)</akn:num><akn:heading>Automatic enrollment requirements</akn:heading><akn:content><akn:p>(b) Automatic enrollment requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_414A_c"><akn:num>(c)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(c) Exceptions For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

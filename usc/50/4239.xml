@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/4239" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/4239/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/4239/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4239"><akn:num>4239</akn:num><akn:heading>Severability</akn:heading><akn:content><akn:p>§ 4239. Severability
+If any provision of this subchapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of this subchapter and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
+(Pub. L. 100–383, title II, § 209, Aug. 10, 1988, 102 Stat. 916.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 1989c–8 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

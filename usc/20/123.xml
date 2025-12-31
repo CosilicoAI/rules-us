@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/123" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/123/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/123/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_123"><akn:num>123</akn:num><akn:heading>Annual appropriations; inspection by Secretary of Education</akn:heading><akn:content><akn:p>§ 123. Annual appropriations; inspection by Secretary of Education
+Annual appropriations are authorized to aid in the construction, development, improvement, endowment, and maintenance of the university, no part of which shall be used for religious instruction. The university shall at all times be open to inspection by the Secretary of Education and shall be inspected by the said Secretary at least once each year.
+(Mar. 2, 1867, ch. 162, § 8, 14 Stat. 439; Dec. 13, 1928, ch. 26, 45 Stat. 1021; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; Aug. 7, 1946, ch. 770, § 1(60), 60 Stat. 871; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 98–480, title II, § 208, Oct. 17, 1984, 98 Stat. 2247.)
+
+Editorial Notes
+Amendments1984—Pub. L. 98–480 inserted “endowment,” after “improvement,”.
+1946—Act Aug. 7, 1946, repealed third sentence which required that an annual report of the affairs of the university be presented to Congress in the report of Office of Education.
+1928—Act Dec. 13, 1928, authorized annual appropriations for the university, prohibited use of funds for religious instruction, made the university subject to inspection at least once a year by the Bureau of Education, and substituted provision that the annual report of the university’s affairs be presented to Congress by the Bureau for provision that the Board of Trustees publish such an annual report.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–480 effective Oct. 1, 1984, see section 209 of Pub. L. 98–480, set out as an Effective Date note under section 130aa of this title.
+
+
+Transfer of Functions
+“Secretary of Education” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88 which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred all functions of Secretary of Health, E</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

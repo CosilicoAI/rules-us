@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1788" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1788/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1788/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1788"><akn:num>1788</akn:num><akn:heading>Additional family assistance</akn:heading><akn:content><akn:p>§ 1788. Additional family assistance(a) Authority.—The Secretary of Defense may provide for the families of members of the armed forces serving on active duty, in addition to any other assistance available for such families, any assistance that the Secretary considers appropriate to ensure that the children of such members obtain needed child care, education, and other youth services.
+
+(b) Primary Purpose of Assistance.—The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
+
+(Added Pub. L. 107–314, div. A, title VI, § 652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L. 111–383, div. A, title X, § 1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
+
+Editorial Notes
+Amendments2011—Subsec. (b). Pub. L. 111–383 substituted “armed forces” for “Armed Forces”.
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 107–314, div. A, title VI, § 652(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “Section 1788 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2002.”
+
+
+Pilot Program for Military Families: Prevention of Child Abuse and Training on Safe Childcare PracticesPub. L. 115–232, div. A, title V, § 578, Aug. 13, 2018, 132 Stat. 1783, provided that:
+“(a) Pilot Program.—“(1) Purpose.—In order to reduce child abuse and fatalities due to abuse or neglect in covered households, the Secretary of Defense, acting through the Defense Health Agency, shall carry out a pilot program to—“(A) provide information regarding safe childcare practices to covered households;
+
+“(B) identify and assess risk factors for child abuse in covered households; and
+
+“(C) facilitate connections between covered households and community resources.
+
+
+“(2) Prohibition on delegation.—The Secretar</akn:p></akn:content><akn:subsection eId="subsec_1788_a"><akn:num>(a)</akn:num><akn:heading>Authority.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense may provide for the families of members of the armed forces serving on active duty, in addition to any other assistance available for such families, any assistance that the Secretary considers appropriate to ensure that the children of such members obtain needed child care, education, and other youth services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1788_b"><akn:num>(b)</akn:num><akn:heading>Primary Purpose of Assistance.—</akn:heading><akn:content><akn:p>(b) The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

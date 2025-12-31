@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1002" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1002/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1002/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1002"><akn:num>1002</akn:num><akn:heading>Qualified individuals</akn:heading><akn:content><akn:p>§ 1002. Qualified individuals
+Except as otherwise provided in this subchapter, an individual—(1) who has attained the age of 65 on or before December 14, 1999;
+
+(2) who is a World War II veteran;
+
+(3) who is eligible for a supplemental security income benefit under subchapter XVI for—(A) the month in which this subchapter is enacted; and
+
+(B) the month in which the individual files an application for benefits under this subchapter;
+
+
+(4) whose total benefit income is less than 75 percent of the Federal benefit rate under subchapter XVI;
+
+(5) who has filed an application for benefits under this subchapter; and
+
+(6) who is in compliance with all requirements imposed by the Commissioner of Social Security under this subchapter,
+
+
+shall be a qualified individual for purposes of this subchapter.
+(Aug. 14, 1935, ch. 531, title VIII, § 802, as added Pub. L. 106–169, title II, § 251(a), Dec. 14, 1999, 113 Stat. 1844.)
+
+Editorial Notes
+Prior ProvisionsFor prior provisions, see note set out under section 1001 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1002_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) who has attained the age of 65 on or before December 14, 1999;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1002_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) who is a World War II veteran;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1002_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) who is eligible for a supplemental security income benefit under subchapter XVI for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1002_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) whose total benefit income is less than 75 percent of the Federal benefit rate under subchapter XVI;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1002_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) who has filed an application for benefits under this subchapter; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1002_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) who is in compliance with all requirements imposed by the Commissioner of Social Security under this subchapter,</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

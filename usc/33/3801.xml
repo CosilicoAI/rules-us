@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3801" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3801/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3801/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3801"><akn:num>3801</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3801. Definitions
+In this chapter:(1) AdministratorThe term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+
+(2) Antifouling systemThe term “antifouling system” means a coating, paint, surface treatment, surface, or device that is used or intended to be used on a vessel to control or prevent attachment of unwanted organisms.
+
+
+(3) ConventionThe term “Convention” means the International Convention on the Control of Harmful Anti-Fouling Systems on Ships, 2001, including its annexes, and including any amendments to the Convention or annexes which have entered into force for the United States.
+
+
+(4) FPSOThe term “FPSO” means a floating production, storage, or offloading unit.
+
+
+(5) FSUThe term “FSU” means a floating storage unit.
+
+
+(6) Gross tonnageThe term “gross tonnage” as defined in chapter 143 of title 46 means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in annex 1 to the International Convention on Tonnage Measurement of Ships, 1969.
+
+
+(7) International voyageThe term “international voyage” means a voyage by a vessel entitled to fly the flag of one country to or from a port, shipyard, offshore terminal, or other place under the jurisdiction of another country.
+
+
+(8) OrganotinThe term “organotin” means any compound or additive of tin bound to an organic ligand, that is used or intended to be used as biocide in an antifouling system.
+
+
+(9) PersonThe term “person” means—(A) any individual, partnership, association, corporation, or organized group of persons whether incorporated or not;
+
+(B) any department, agency, or instrumentality of the United States, except as provided in section 3802(b)(2) of this title; or
+
+(C) any other government entity.
+
+
+(10) SecretaryThe term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+
+
+(11) Sell or distributeThe term “sell or distribute” means to distribute, sell, offer for sale, hold for distribution, hold fo</akn:p></akn:content><akn:subsection eId="subsec_3801_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the Environmental Protection Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_2"><akn:num>(2)</akn:num><akn:heading>Antifouling system</akn:heading><akn:content><akn:p>(2) Antifouling system The term “antifouling system” means a coating, paint, surface treatment, surface, or device that is used or intended to be used on a vessel to control or prevent attachment of unwanted organisms.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_3"><akn:num>(3)</akn:num><akn:heading>Convention</akn:heading><akn:content><akn:p>(3) Convention The term “Convention” means the International Convention on the Control of Harmful Anti-Fouling Systems on Ships, 2001, including its annexes, and including any amendments to the Convention or annexes which have entered into force for the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_4"><akn:num>(4)</akn:num><akn:heading>FPSO</akn:heading><akn:content><akn:p>(4) FPSO The term “FPSO” means a floating production, storage, or offloading unit.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_5"><akn:num>(5)</akn:num><akn:heading>FSU</akn:heading><akn:content><akn:p>(5) FSU The term “FSU” means a floating storage unit.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_6"><akn:num>(6)</akn:num><akn:heading>Gross tonnage</akn:heading><akn:content><akn:p>(6) Gross tonnage The term “gross tonnage” as defined in chapter 143 of title 46 means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in annex 1 to the International Convention on Tonnage Measurement of Ships, 1969.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_7"><akn:num>(7)</akn:num><akn:heading>International voyage</akn:heading><akn:content><akn:p>(7) International voyage The term “international voyage” means a voyage by a vessel entitled to fly the flag of one country to or from a port, shipyard, offshore terminal, or other place under the jurisdiction of another country.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_8"><akn:num>(8)</akn:num><akn:heading>Organotin</akn:heading><akn:content><akn:p>(8) Organotin The term “organotin” means any compound or additive of tin bound to an organic ligand, that is used or intended to be used as biocide in an antifouling system.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_9"><akn:num>(9)</akn:num><akn:heading>Person</akn:heading><akn:content><akn:p>(9) Person The term “person” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_10"><akn:num>(10)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(10) Secretary The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

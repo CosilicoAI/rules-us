@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6702"><akn:num>6702</akn:num><akn:heading>Frivolous tax submissions</akn:heading><akn:content><akn:p>§ 6702. Frivolous tax submissions(a) Civil penalty for frivolous tax returnsA person shall pay a penalty of $5,000 if—(1) such person files what purports to be a return of a tax imposed by this title but which—(A) does not contain information on which the substantial correctness of the self-assessment may be judged, or
+
+(B) contains information that on its face indicates that the self-assessment is substantially incorrect, and
+
+
+(2) the conduct referred to in paragraph (1)—(A) is based on a position which the Secretary has identified as frivolous under subsection (c), or
+
+(B) reflects a desire to delay or impede the administration of Federal tax laws.
+
+
+
+(b) Civil penalty for specified frivolous submissions(1) Imposition of penaltyExcept as provided in paragraph (3), any person who submits a specified frivolous submission shall pay a penalty of $5,000.
+
+
+(2) Specified frivolous submissionFor purposes of this section—(A) Specified frivolous submissionThe term “specified frivolous submission” means a specified submission if any portion of such submission—(i) is based on a position which the Secretary has identified as frivolous under subsection (c), or
+
+(ii) reflects a desire to delay or impede the administration of Federal tax laws.
+
+
+(B) Specified submissionThe term “specified submission” means—(i) a request for a hearing under—(I) section 6320 (relating to notice and opportunity for hearing upon filing of notice of lien), or
+
+(II) section 6330 (relating to notice and opportunity for hearing before levy), and
+
+
+(ii) an application under—(I) section 6159 (relating to agreements for payment of tax liability in installments),
+
+(II) section 7122 (relating to compromises), or
+
+(III) section 7811 (relating to taxpayer assistance orders).
+
+
+
+
+(3) Opportunity to withdraw submissionIf the Secretary provides a person with notice that a submission is a specified frivolous submission and such person withdraws such submission within 30 days after such notice, the penalty imposed</akn:p></akn:content><akn:subsection eId="subsec_6702_a"><akn:num>(a)</akn:num><akn:heading>Civil penalty for frivolous tax returns</akn:heading><akn:content><akn:p>(a) Civil penalty for frivolous tax returns A person shall pay a penalty of $5,000 if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6702_b"><akn:num>(b)</akn:num><akn:heading>Civil penalty for specified frivolous submissions</akn:heading><akn:content><akn:p>(b) Civil penalty for specified frivolous submissions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6702_c"><akn:num>(c)</akn:num><akn:heading>Listing of frivolous positions</akn:heading><akn:content><akn:p>(c) Listing of frivolous positions The Secretary shall prescribe (and periodically revise) a list of positions which the Secretary has identified as being frivolous for purposes of this subsection. The Secretary shall not include in such list any position that the Secretary determines meets the requirement of section 6662(d)(2)(B)(ii)(II).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6702_d"><akn:num>(d)</akn:num><akn:heading>Reduction of penalty</akn:heading><akn:content><akn:p>(d) Reduction of penalty The Secretary may reduce the amount of any penalty imposed under this section if the Secretary determines that such reduction would promote compliance with and administration of the Federal tax laws.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6702_e"><akn:num>(e)</akn:num><akn:heading>Penalties in addition to other penalties</akn:heading><akn:content><akn:p>(e) Penalties in addition to other penalties The penalties imposed by this section shall be in addition to any other penalty provided by law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6702_f"><akn:num>(f)</akn:num><akn:heading>Partnership adjustments</akn:heading><akn:content><akn:p>(f) Partnership adjustments An administrative adjustment request under section 6227 and a partnership adjustment tracking report under section 6226(b)(4)(A) shall be treated as a return for purposes of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

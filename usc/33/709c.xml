@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/709c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/709c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/709c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_709c"><akn:num>709c</akn:num><akn:heading>Emergency communication of risk</akn:heading><akn:content><akn:p>§ 709c. Emergency communication of risk(a) DefinitionsIn this section:(1) Affected governmentThe term “affected government” means a State, local, or tribal government with jurisdiction over an area that will be affected by a flood.
+
+
+(2) Annual operating planThe term “annual operating plan” means a plan prepared by the Secretary that describes potential water condition scenarios for a river basin for a year.
+
+
+
+(b) CommunicationIn any river basin where the Secretary carries out flood risk management activities subject to an annual operating plan, the Secretary shall establish procedures for providing the public and affected governments, including Indian tribes, in the river basin with—(1) timely information regarding expected water levels;
+
+(2) advice regarding appropriate preparedness actions;
+
+(3) technical assistance; and
+
+(4) any other information or assistance determined appropriate by the Secretary.
+
+
+(c) Public availability of informationTo the maximum extent practicable, the Secretary, in coordination with the Administrator of the Federal Emergency Management Agency, shall make the information required under subsection (b) available to the public through widely used and readily available means, including on the Internet.
+
+
+(d) ProceduresThe Secretary shall use the procedures established under subsection (b) only when precipitation or runoff exceeds those calculations considered as the lowest risk to life and property contemplated by the annual operating plan.
+
+
+(Pub. L. 113–121, title III, § 3027, June 10, 2014, 128 Stat. 1305.)
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.</akn:p></akn:content><akn:subsection eId="subsec_709c_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_709c_b"><akn:num>(b)</akn:num><akn:heading>Communication</akn:heading><akn:content><akn:p>(b) Communication In any river basin where the Secretary carries out flood risk management activities subject to an annual operating plan, the Secretary shall establish procedures for providing the public and affected governments, including Indian tribes, in the river basin with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_709c_c"><akn:num>(c)</akn:num><akn:heading>Public availability of information</akn:heading><akn:content><akn:p>(c) Public availability of information To the maximum extent practicable, the Secretary, in coordination with the Administrator of the Federal Emergency Management Agency, shall make the information required under subsection (b) available to the public through widely used and readily available means, including on the Internet.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_709c_d"><akn:num>(d)</akn:num><akn:heading>Procedures</akn:heading><akn:content><akn:p>(d) Procedures The Secretary shall use the procedures established under subsection (b) only when precipitation or runoff exceeds those calculations considered as the lowest risk to life and property contemplated by the annual operating plan.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

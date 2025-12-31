@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_901"><akn:num>901</akn:num><akn:heading>Establishment of agency Chief Financial Officers</akn:heading><akn:content><akn:p>§ 901. Establishment of agency Chief Financial Officers(a) There shall be within each agency described in subsection (b) an agency Chief Financial Officer. Each agency Chief Financial Officer shall—(1) for those agencies described in subsection (b)(1)—(A) be appointed by the President, by and with the advice and consent of the Senate; or
+
+(B) be designated by the President, in consultation with the head of the agency, from among officials of the agency who are required by law to be so appointed;
+
+
+(2) for those agencies described in subsection (b)(2)—(A) be appointed by the head of the agency;
+
+(B) be in the competitive service or the senior executive service; and
+
+(C) be career appointees; and
+
+
+(3) be appointed or designated, as applicable, from among individuals who possess demonstrated ability in general management of, and knowledge of and extensive practical experience in financial management practices in large governmental or business entities.
+
+
+(b)(1) The agencies referred to in subsection (a)(1) are the following:(A) The Department of Agriculture.
+
+(B) The Department of Commerce.
+
+(C) The Department of Defense.
+
+(D) The Department of Education.
+
+(E) The Department of Energy.
+
+(F) The Department of Health and Human Services.
+
+(G) The Department of Homeland Security.
+
+(H) The Department of Housing and Urban Development.
+
+(I) The Department of the Interior.
+
+(J) The Department of Justice.
+
+(K) The Department of Labor.
+
+(L) The Department of State.
+
+(M) The Department of Transportation.
+
+(N) The Department of the Treasury.
+
+(O) The Department of Veterans Affairs.
+
+(P) The Environmental Protection Agency.
+
+(Q) The National Aeronautics and Space Administration.
+
+
+(2) The agencies referred to in subsection (a)(2) are the following:(A) The Agency for International Development.
+
+(B) The General Services Administration.
+
+(C) The National Science Foundation.
+
+(D) The Nuclear Regulatory Commission.
+
+(E) The Office of Personnel Management.
+
+(F) The Small Business Admini</akn:p></akn:content><akn:subsection eId="subsec_901_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) There shall be within each agency described in subsection (b) an agency Chief Financial Officer. Each agency Chief Financial Officer shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_901_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_901_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/5602" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/5602/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/5602/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5602"><akn:num>5602</akn:num><akn:heading>Requests for scientific advice</akn:heading><akn:content><akn:p>§ 5602. Requests for scientific advice(a) RestrictionA Representative may not make a request or specification described in paragraph (1) or (2) of subsection (b), respectively, unless the Representative has first—(1) consulted with the appropriate Regional Fishery Management Councils; and
+
+(2) received the consent of the Commissioners for that action.
+
+
+(b) Requests and terms of reference describedThe requests and specifications referred to in subsection (a) are, respectively—(1) any request, under Article VII(10)(b) of the Convention, that the Scientific Council consider and report on a question pertaining to the scientific basis for the management and conservation of fishery resources in waters under the jurisdiction of the United States within the Convention Area; and
+
+(2) any specification, under Article VII(11) of the Convention, of the terms of reference for the consideration of a question referred to the Scientific Council pursuant to Article VII(10)(b) of the Convention.
+
+
+(Pub. L. 104–43, title II, § 203, Nov. 3, 1995, 109 Stat. 378; Pub. L. 114–327, title V, § 503, Dec. 16, 2016, 130 Stat. 1995.)
+
+Editorial Notes
+Amendments2016—Subsec. (a). Pub. L. 114–327, § 503(1), in introductory provisions, substituted “A Representative may” for “The Representatives may”, “described in paragraph (1) or (2) of subsection (b)” for “described in subsection (b)(1) or (2)”, and “the Representative has” for “the Representatives have”.
+Subsec. (b)(1). Pub. L. 114–327, § 503(2), substituted “VII(10)(b)” for “VII(1)”.
+Subsec. (b)(2). Pub. L. 114–327, § 503(2),(3), substituted “VII(11)” for “VIII(2)” and “VII(10)(b)” for “VII(1)”.</akn:p></akn:content><akn:subsection eId="subsec_5602_a"><akn:num>(a)</akn:num><akn:heading>Restriction</akn:heading><akn:content><akn:p>(a) Restriction A Representative may not make a request or specification described in paragraph (1) or (2) of subsection (b), respectively, unless the Representative has first—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5602_b"><akn:num>(b)</akn:num><akn:heading>Requests and terms of reference described</akn:heading><akn:content><akn:p>(b) Requests and terms of reference described The requests and specifications referred to in subsection (a) are, respectively—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

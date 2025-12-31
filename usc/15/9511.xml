@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9511" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9511/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9511/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9511"><akn:num>9511</akn:num><akn:heading>Private sector development</akn:heading><akn:content><akn:p>§ 9511. Private sector development
+The Under Secretary shall, whenever the Under Secretary determines such action is necessary or appropriate—(1) provide Federal assistance to minority business enterprises operating in domestic and foreign markets by making available to those business enterprises, either directly or in cooperation with private sector entities, including community-based organizations and national nonprofit organizations—(A) resources relating to management;
+
+(B) technological and technical assistance;
+
+(C) financial, legal, and marketing services; and
+
+(D) services relating to workforce development;
+
+
+(2) encourage minority business enterprises to establish joint ventures and projects—(A) with other minority business enterprises; or
+
+(B) in cooperation with public sector entities or private sector entities, including community-based organizations and national nonprofit organizations, to increase the share of any market activity being performed by minority business enterprises; and
+
+
+(3) facilitate the efforts of private sector entities and Federal agencies to advance the growth of minority business enterprises.
+
+(Pub. L. 117–58, div. K, title I, § 100101, Nov. 15, 2021, 135 Stat. 1449.)</akn:p></akn:content><akn:subsection eId="subsec_9511_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) provide Federal assistance to minority business enterprises operating in domestic and foreign markets by making available to those business enterprises, either directly or in cooperation with private sector entities, including community-based organizations and national nonprofit organizations—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9511_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) encourage minority business enterprises to establish joint ventures and projects—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9511_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) facilitate the efforts of private sector entities and Federal agencies to advance the growth of minority business enterprises.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

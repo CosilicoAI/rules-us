@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/3987" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/3987/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/3987/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3987"><akn:num>3987</akn:num><akn:heading>Approval of applications</akn:heading><akn:content><akn:p>§ 3987. Approval of applications(a) Criteria; consistency of applications with State plans(1) The Secretary shall establish criteria for approval of applications under this part.
+
+(2) No application may be approved by the Secretary unless the State educational agency or the State agency for higher education, as the case may be, determines that the application is consistent with State plans for elementary and secondary education or State plans for higher education, as the case may be, in the State.
+
+
+(b) Procedures for equitable distribution of grants among StatesThe Secretary shall adopt approval procedures designed to assure that there is equitable distribution of grants among the States.
+
+
+(Pub. L. 98–377, title III, § 308, Aug. 11, 1984, 98 Stat. 1286; Pub. L. 99–159, title II, § 231, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, § 6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+
+Editorial Notes
+Amendments1988—Subsec. (a)(1). Pub. L. 100–418 substituted “part” for “subchapter”.
+1985—Pub. L. 99–159 substituted “Secretary” for “Foundation” in pars. (1) and (2) of subsec. (a) and in subsec. (b).</akn:p></akn:content><akn:subsection eId="subsec_3987_a"><akn:num>(a)</akn:num><akn:heading>Criteria; consistency of applications with State plans</akn:heading><akn:content><akn:p>(a) Criteria; consistency of applications with State plans</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3987_b"><akn:num>(b)</akn:num><akn:heading>Procedures for equitable distribution of grants among States</akn:heading><akn:content><akn:p>(b) Procedures for equitable distribution of grants among States The Secretary shall adopt approval procedures designed to assure that there is equitable distribution of grants among the States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

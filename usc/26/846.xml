@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/846" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/846/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/846/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_846"><akn:num>846</akn:num><akn:heading>Discounted unpaid losses defined</akn:heading><akn:content><akn:p>§ 846. Discounted unpaid losses defined(a) Discounted losses determined(1) Separately computed for each accident yearThe amount of the discounted unpaid losses as of the end of any taxable year shall be the sum of the discounted unpaid losses (as of such time) separately computed under this section with respect to unpaid losses in each line of business attributable to each accident year.
+
+
+(2) Method of discountingThe amount of the discounted unpaid losses as of the end of any taxable year attributable to any accident year shall be the present value of such losses (as of such time) determined by using—(A) the amount of the undiscounted unpaid losses as of such time,
+
+(B) the applicable interest rate, and
+
+(C) the applicable loss payment pattern.
+
+
+(3) Limitation on amount of discounted lossesIn no event shall the amount of the discounted unpaid losses with respect to any line of business attributable to any accident year exceed the aggregate amount of unpaid losses with respect to such line of business for such accident year included on the annual statement filed by the taxpayer for the year ending with or within the taxable year.
+
+
+(4) Determination of applicable factorsIn determining the amount of the discounted unpaid losses attributable to any accident year—(A) the applicable interest rate shall be the interest rate determined under subsection (c) for the calendar year with which such accident year ends, and
+
+(B) the applicable loss payment pattern shall be the loss payment pattern determined under subsection (d) which is in effect for the calendar year with which such accident year ends.
+
+
+
+(b) Determination of undiscounted unpaid lossesFor purposes of this section—(1) In generalExcept as otherwise provided in this subsection, the term “undiscounted unpaid losses” means the unpaid losses shown in the annual statement filed by the taxpayer for the year ending with or within the taxable year of the taxpayer.
+
+
+(2) Adjustment if losses discounted on annual stateme</akn:p></akn:content><akn:subsection eId="subsec_846_a"><akn:num>(a)</akn:num><akn:heading>Discounted losses determined</akn:heading><akn:content><akn:p>(a) Discounted losses determined</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_846_b"><akn:num>(b)</akn:num><akn:heading>Determination of undiscounted unpaid losses</akn:heading><akn:content><akn:p>(b) Determination of undiscounted unpaid losses For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_846_c"><akn:num>(c)</akn:num><akn:heading>Rate of interest</akn:heading><akn:content><akn:p>(c) Rate of interest</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_846_d"><akn:num>(d)</akn:num><akn:heading>Loss payment pattern</akn:heading><akn:content><akn:p>(d) Loss payment pattern</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_846_e"><akn:num>(e)</akn:num><akn:heading>Other definitions and special rules</akn:heading><akn:content><akn:p>(e) Other definitions and special rules For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_846_f"><akn:num>(f)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(f) Regulations The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

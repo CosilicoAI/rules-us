@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2352" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2352/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2352/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2352"><akn:num>2352</akn:num><akn:heading>National Security Council Committee on Nonproliferation</akn:heading><akn:content><akn:p>§ 2352. National Security Council Committee on Nonproliferation(a) EstablishmentThe Committee on Nonproliferation (in this section referred to as the “Committee”) is established as a committee of the National Security Council.
+
+
+(b) Membership(1) The Committee shall be composed of representatives of the following:(A) The Secretary of State.
+
+(B) The Secretary of Defense.
+
+(C) The Director of Central Intelligence.
+
+(D) The Attorney General.
+
+(E) The Secretary of Energy.
+
+(F) The Administrator of the Federal Emergency Management Agency.
+
+(G) The Secretary of the Treasury.
+
+(H) The Secretary of Commerce.
+
+(I) Such other members as the President may designate.
+
+
+(2) The National Coordinator for Nonproliferation Matters shall chair the Committee on Nonproliferation.
+
+
+(c) ResponsibilitiesThe Committee has the following responsibilities:(1) To review and coordinate Federal programs, policies, and directives relating to the proliferation of weapons of mass destruction and related materials and technologies, including matters relating to terrorism and international organized crime.
+
+(2) To make recommendations through the National Security Council to the President regarding the following:(A) Integrated national policies for countering the threats posed by weapons of mass destruction.
+
+(B) Options for integrating Federal agency budgets for countering such threats.
+
+(C) Means to ensure that Federal, State, and local governments have adequate capabilities to manage crises involving nuclear, radiological, biological, or chemical weapons or related materials or technologies, and to manage the consequences of a use of such weapon or related materials or technologies, and that use of those capabilities is coordinated.
+
+(D) Means to ensure appropriate cooperation on, and coordination of, the following:(i) Preventing the smuggling of weapons of mass destruction and related materials and technologies.
+
+(ii) Promoting domestic and international law enforcement efforts against prolifer</akn:p></akn:content><akn:subsection eId="subsec_2352_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Committee on Nonproliferation (in this section referred to as the “Committee”) is established as a committee of the National Security Council.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2352_b"><akn:num>(b)</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>(b) Membership</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2352_c"><akn:num>(c)</akn:num><akn:heading>Responsibilities</akn:heading><akn:content><akn:p>(c) Responsibilities The Committee has the following responsibilities:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

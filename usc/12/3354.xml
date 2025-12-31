@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/3354" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/3354/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/3354/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3354"><akn:num>3354</akn:num><akn:heading>Automated valuation models used to estimate collateral value for mortgage lending purposes</akn:heading><akn:content><akn:p>§ 3354. Automated valuation models used to estimate collateral value for mortgage lending purposes(a) In generalAutomated valuation models shall adhere to quality control standards designed to—(1) ensure a high level of confidence in the estimates produced by automated valuation models;
+
+(2) protect against the manipulation of data;
+
+(3) seek to avoid conflicts of interest;
+
+(4) require random sample testing and reviews; and
+
+(5) account for any other such factor that the agencies listed in subsection (b) determine to be appropriate.
+
+
+(b) Adoption of regulationsThe Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau of Consumer Financial Protection, in consultation with the staff of the Appraisal Subcommittee and the Appraisal Standards Board of the Appraisal Foundation, shall promulgate regulations to implement the quality control standards required under this section.
+
+
+(c) EnforcementCompliance with regulations issued under this subsection shall be enforced by—(1) with respect to a financial institution, or subsidiary owned and controlled by a financial institution and regulated by a Federal financial institution regulatory agency, the Federal financial institution regulatory agency that acts as the primary Federal supervisor of such financial institution or subsidiary; and
+
+(2) with respect to other participants in the market for appraisals of 1-to-4 unit single family residential real estate, the Federal Trade Commission, the Bureau of Consumer Financial Protection, and a State attorney general.
+
+
+(d) Automated valuation model definedFor purposes of this section, the term “automated valuation model” means any computerized model used by mortgage originators and secondary market issuers to determine the collateral worth of a mortgage secured by a consumer’s principal dwelling.
+
+
+(Pub. L. 101–73, title XI, § 1125, as added Pub. L. 111–</akn:p></akn:content><akn:subsection eId="subsec_3354_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Automated valuation models shall adhere to quality control standards designed to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3354_b"><akn:num>(b)</akn:num><akn:heading>Adoption of regulations</akn:heading><akn:content><akn:p>(b) Adoption of regulations The Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau of Consumer Financial Protection, in consultation with the staff of the Appraisal Subcommittee and the Appraisal Standards Board of the Appraisal Foundation, shall promulgate regulations to implement the quality control standards required under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3354_c"><akn:num>(c)</akn:num><akn:heading>Enforcement</akn:heading><akn:content><akn:p>(c) Enforcement Compliance with regulations issued under this subsection shall be enforced by—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3354_d"><akn:num>(d)</akn:num><akn:heading>Automated valuation model defined</akn:heading><akn:content><akn:p>(d) Automated valuation model defined For purposes of this section, the term “automated valuation model” means any computerized model used by mortgage originators and secondary market issuers to determine the collateral worth of a mortgage secured by a consumer’s principal dwelling.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

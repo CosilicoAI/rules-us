@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/3905" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/3905/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/3905/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3905"><akn:num>3905</akn:num><akn:heading>Accounting for fees on international loans</akn:heading><akn:content><akn:p>§ 3905. Accounting for fees on international loans(a)(1) In order to avoid excessive debt service burdens on debtor countries, no banking institution shall charge, in connection with the restructuring of an international loan, any fee exceeding the administrative cost of the restructuring unless it amortizes such fee over the effective life of each such loan.
+
+(2)(A) Each appropriate Federal banking agency shall promulgate such regulations as are necessary to further carry out the provisions of this subsection.
+
+(B) The requirement of paragraph (1) shall take effect on November 30, 1983.
+
+
+
+(b)(1) Subject to subsection (a), the appropriate Federal banking agencies shall promulgate regulations for accounting for agency, commitment, management and other fees charged by a banking institution in connection with an international loan.
+
+(2) Such regulations shall establish the accounting treatment of such fees for regulatory, supervisory, and disclosure purposes to assure that the appropriate portion of such fees is accrued in income over the effective life of each such loan.
+
+(3) The appropriate Federal banking agencies shall promulgate regulations or orders necessary to implement this subsection within one hundred and twenty days after November 30, 1983.
+
+
+(Pub. L. 98–181, title I [title IX, § 906], Nov. 30, 1983, 97 Stat. 1279.)</akn:p></akn:content><akn:subsection eId="subsec_3905_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3905_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

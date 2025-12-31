@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/3521" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/3521/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/3521/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3521"><akn:num>3521</akn:num><akn:heading>Tariff modifications</akn:heading><akn:content><akn:p>§ 3521. Tariff modifications(a) In generalIn addition to the authority provided by section 2902 of this title, the President shall have the authority to proclaim—(1) such other modification of any duty,
+
+(2) such other staged rate reduction, or
+
+(3) such additional duties,
+
+
+as the President determines to be necessary or appropriate to carry out Schedule XX.
+
+(b) Other tariff modificationsSubject to the consultation and layover requirements of section 3524 of this title, the President may proclaim—(1) the modification of any duty or staged rate reduction of any duty set forth in Schedule XX if—(A) the United States agrees to such modification or staged rate reduction in a multilateral negotiation under the auspices of the WTO, and
+
+(B) such modification or staged rate reduction applies to the rate of duty on an article contained in a tariff category that was the subject of reciprocal duty elimination or harmonization negotiations during the Uruguay Round of multilateral trade negotiations, and
+
+
+(2) such modifications as are necessary to correct technical errors in Schedule XX or to make other rectifications to the Schedule.
+
+
+(c) Authority to increase duties on articles from certain countries(1) In general(A) Determination with respect to certain countriesNotwithstanding section 1881 of this title, after the entry into force of the WTO Agreement with respect to the United States, if the President—(i) determines that a foreign country (other than a foreign country that is a WTO member country) is not according adequate trade benefits to the United States, including substantially equal competitive opportunities for the commerce of the United States, and
+
+(ii) consults with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate,
+
+
+the President may proclaim an increase in the rate of duty with respect to any article of such country in accordance with subparagraph (B).
+
+(B) Rate of duty describedThe President may proc</akn:p></akn:content><akn:subsection eId="subsec_3521_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In addition to the authority provided by section 2902 of this title, the President shall have the authority to proclaim— as the President determines to be necessary or appropriate to carry out Schedule XX.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3521_b"><akn:num>(b)</akn:num><akn:heading>Other tariff modifications</akn:heading><akn:content><akn:p>(b) Other tariff modifications Subject to the consultation and layover requirements of section 3524 of this title, the President may proclaim—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3521_c"><akn:num>(c)</akn:num><akn:heading>Authority to increase duties on articles from certain countries</akn:heading><akn:content><akn:p>(c) Authority to increase duties on articles from certain countries</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3521_d"><akn:num>(d)</akn:num><akn:heading>Adjustments to certain column 2 rates of duty</akn:heading><akn:content><akn:p>(d) Adjustments to certain column 2 rates of duty At such time as the President proclaims any modification to the HTS to implement the provisions of Schedule XX, the President shall also proclaim the rate of duty set forth in Column B as the column 2 rate of duty for the subheading of the HTS that corresponds to the subheading in Schedule XX listed in Column A.
+
+
+
+
+
+
+Column AColumn B
+
+Schedule XX  subheading:Rate of duty for column 2 of the  HTS:
+
+
+0201.10.5031.1%
+0201.20.8031.1%
+0201.30.8031.1%
+0202.10.5031.1%
+0202.20.8031.1%
+0202.30.8031.1%
+0401.30.2590.8¢/liter
+0401.30.75$1.936/kg
+0402.10.50$1.018/kg
+0402.21.25$1.018/kg
+0402.21.50$1.285/kg
+0402.21.90$1.831/kg
+0402.29.50$1.299/kg + 17.5%
+0402.91.6036.8¢/kg
+0402.99.5058.4¢/kg
+0402.99.9054.5¢/kg + 17.5%
+0403.10.50$1.217/kg + 20%
+0403.90.1690.8¢/liter
+0403.90.45$1.03/kg
+0403.90.55$1.285/kg
+0403.90.65$1.831/kg
+0403.90.78$1.936/kg
+0403.90.95$1.217/kg + 20%
+0404.10.1120%
+0404.10.15$1.217/kg + 10%
+0404.10.90$1.03/kg
+0404.90.3025%
+0404.90.50</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3521_e"><akn:num>(e)</akn:num><akn:heading>Authority to consolidate subheadings and modify column 2 rates of duty for tariff simplification purposes</akn:heading><akn:content><akn:p>(e) Authority to consolidate subheadings and modify column 2 rates of duty for tariff simplification purposes</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

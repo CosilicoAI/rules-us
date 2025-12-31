@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6707" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6707/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6707/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6707"><akn:num>6707</akn:num><akn:heading>Failure to furnish information regarding reportable transactions</akn:heading><akn:content><akn:p>§ 6707. Failure to furnish information regarding reportable transactions(a) In generalIf a person who is required to file a return under section 6111(a) with respect to any reportable transaction—(1) fails to file such return on or before the date prescribed therefor, or
+
+(2) files false or incomplete information with the Secretary with respect to such transaction,
+
+
+such person shall pay a penalty with respect to such return in the amount determined under subsection (b).
+
+(b) Amount of penalty(1) In generalExcept as provided in paragraph (2), the penalty imposed under subsection (a) with respect to any failure shall be $50,000.
+
+
+(2) Listed transactionsThe penalty imposed under subsection (a) with respect to any listed transaction shall be an amount equal to the greater of—(A) $200,000, or
+
+(B) 50 percent of the gross income derived by such person with respect to aid, assistance, or advice which is provided with respect to the listed transaction before the date the return is filed under section 6111.
+
+
+Subparagraph (B) shall be applied by substituting “75 percent” for “50 percent” in the case of an intentional failure or act described in subsection (a).
+
+
+(c) Rescission authorityThe provisions of section 6707A(d) (relating to authority of Commissioner to rescind penalty) shall apply to any penalty imposed under this section.
+
+
+(d) Reportable and listed transactionsFor purposes of this section, the terms “reportable transaction” and “listed transaction” have the respective meanings given to such terms by section 6707A(c).
+
+
+(Added Pub. L. 98–369, div. A, title I, § 141(b), July 18, 1984, 98 Stat. 680; amended Pub. L. 99–514, title XV, §§ 1532(a), 1533(a), Oct. 22, 1986, 100 Stat. 2750; Pub. L. 105–34, title X, § 1028(b), (d), Aug. 5, 1997, 111 Stat. 927, 928; Pub. L. 108–357, title VIII, § 816(a), Oct. 22, 2004, 118 Stat. 1583.)
+
+Editorial Notes
+Amendments2004—Pub. L. 108–357 amended section catchline and text generally, substituting provisions relating to penalty f</akn:p></akn:content><akn:subsection eId="subsec_6707_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general If a person who is required to file a return under section 6111(a) with respect to any reportable transaction— such person shall pay a penalty with respect to such return in the amount determined under subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6707_b"><akn:num>(b)</akn:num><akn:heading>Amount of penalty</akn:heading><akn:content><akn:p>(b) Amount of penalty</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6707_c"><akn:num>(c)</akn:num><akn:heading>Rescission authority</akn:heading><akn:content><akn:p>(c) Rescission authority The provisions of section 6707A(d) (relating to authority of Commissioner to rescind penalty) shall apply to any penalty imposed under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6707_d"><akn:num>(d)</akn:num><akn:heading>Reportable and listed transactions</akn:heading><akn:content><akn:p>(d) Reportable and listed transactions For purposes of this section, the terms “reportable transaction” and “listed transaction” have the respective meanings given to such terms by section 6707A(c).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

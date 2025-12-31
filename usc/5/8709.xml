@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8709" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8709/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8709/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8709"><akn:num>8709</akn:num><akn:heading>Insurance policies</akn:heading><akn:content><akn:p>§ 8709. Insurance policies(a) The Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase from one or more life insurance companies a policy or policies of group life and accidental death and dismemberment insurance to provide the benefits specified by this chapter. A company must meet the following requirements:(1) It must be licensed to transact life and accidental death and dismemberment insurance under the laws of 48 of the States and the District of Columbia.
+
+(2) It must have in effect, on the most recent December 31 for which information is available to the Office, an amount of employee group life insurance equal to at least 1 percent of the total amount of employee group life insurance in the United States in all life insurance companies.
+
+
+(b) A company issuing a policy under subsection (a) of this section shall establish an administrative office under a name approved by the Office.
+
+(c) The Office at any time may discontinue a policy purchased from a company under subsection (a) of this section.
+
+(d)(1) The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any law of any State or political subdivision thereof, or any regulation issued thereunder, which relates to group life insurance to the extent that the law or regulation is inconsistent with the contractual provisions.
+
+(2) For the purpose of this section, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
+
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, § 5(a), Oct. 10, 1980, 94 Stat. 1834; Pub. L. 111–350, § 5(a)(11), Jan. 4, 2011, 124 Stat. 3841.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at </akn:p></akn:content><akn:subsection eId="subsec_8709_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase from one or more life insurance companies a policy or policies of group life and accidental death and dismemberment insurance to provide the benefits specified by this chapter. A company must meet the following requirements:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8709_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A company issuing a policy under subsection (a) of this section shall establish an administrative office under a name approved by the Office.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8709_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Office at any time may discontinue a policy purchased from a company under subsection (a) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8709_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

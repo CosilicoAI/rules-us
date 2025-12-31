@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/77r" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/77r/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/77r/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_77r"><akn:num>77r</akn:num><akn:heading>Exemption from State regulation of securities offerings</akn:heading><akn:content><akn:p>§ 77r. Exemption from State regulation of securities offerings(a) Scope of exemptionExcept as otherwise provided in this section, no law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof—(1) requiring, or with respect to, registration or qualification of securities, or registration or qualification of securities transactions, shall directly or indirectly apply to a security that—(A) is a covered security; or
+
+(B) will be a covered security upon completion of the transaction;
+
+
+(2) shall directly or indirectly prohibit, limit, or impose any conditions upon the use of—(A) with respect to a covered security described in subsection (b), any offering document that is prepared by or on behalf of the issuer; or
+
+(B) any proxy statement, report to shareholders, or other disclosure document relating to a covered security or the issuer thereof that is required to be and is filed with the Commission or any national securities organization registered under section 78o–3 of this title, except that this subparagraph does not apply to the laws, rules, regulations, or orders, or other administrative actions of the State of incorporation of the issuer; or
+
+
+(3) shall directly or indirectly prohibit, limit, or impose conditions, based on the merits of such offering or issuer, upon the offer or sale of any security described in paragraph (1).
+
+
+(b) Covered securitiesFor purposes of this section, the following are covered securities:(1) Exclusive Federal registration of nationally traded securitiesA security is a covered security if such security is—(A) a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is listed, or authorized for listing, on a national securities exchange (or tier or segment thereof); or
+
+(B) a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A).
+
+
+(2) Exclu</akn:p></akn:content><akn:subsection eId="subsec_77r_a"><akn:num>(a)</akn:num><akn:heading>Scope of exemption</akn:heading><akn:content><akn:p>(a) Scope of exemption Except as otherwise provided in this section, no law, rule, regulation, or order, or other administrative action of any State or any political subdivision thereof—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_77r_b"><akn:num>(b)</akn:num><akn:heading>Covered securities</akn:heading><akn:content><akn:p>(b) Covered securities For purposes of this section, the following are covered securities:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_77r_c"><akn:num>(c)</akn:num><akn:heading>Preservation of authority</akn:heading><akn:content><akn:p>(c) Preservation of authority</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_77r_d"><akn:num>(d)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(d) Definitions For purposes of this section, the following definitions shall apply:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

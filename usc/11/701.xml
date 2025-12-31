@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_701"><akn:num>701</akn:num><akn:heading>Interim trustee</akn:heading><akn:content><akn:p>§ 701. Interim trustee(a)(1) Promptly after the order for relief under this chapter, the United States trustee shall appoint one disinterested person that is a member of the panel of private trustees established under section 586(a)(1) of title 28 or that is serving as trustee in the case immediately before the order for relief under this chapter to serve as interim trustee in the case.
+
+(2) If none of the members of such panel is willing to serve as interim trustee in the case, then the United States trustee may serve as interim trustee in the case.
+
+
+(b) The service of an interim trustee under this section terminates when a trustee elected or designated under section 702 of this title to serve as trustee in the case qualifies under section 322 of this title.
+
+(c) An interim trustee serving under this section is a trustee in a case under this title.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2604; Pub. L. 99–554, title II, § 215, Oct. 27, 1986, 100 Stat. 3100.)
+
+Historical and Revision Notes
+legislative statementsThe House amendment deletes section 701(d) of the Senate amendment. It is anticipated that the Rules of Bankruptcy Procedure will require the appointment of an interim trustee at the earliest practical moment in commodity broker bankruptcies, but no later than noon of the day after the date of the filing of the petition, due to the volatility of such cases.
+
+senate report no. 95–989This section requires the court to appoint an interim trustee. The appointment must be made from the panel of private trustees established and maintained by the Director of the Administrative Office under proposed 28 U.S.C. 604(e).
+Subsection (a) requires the appointment of an interim trustee to be made promptly after the order for relief, unless a trustee is already serving in the case, such as before a conversion from a reorganization to a liquidation case.
+Subsection (b) specifies that the appointment of an interim trustee expires when the permanent trustee is elected or design</akn:p></akn:content><akn:subsection eId="subsec_701_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_701_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The service of an interim trustee under this section terminates when a trustee elected or designated under section 702 of this title to serve as trustee in the case qualifies under section 322 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_701_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) An interim trustee serving under this section is a trustee in a case under this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

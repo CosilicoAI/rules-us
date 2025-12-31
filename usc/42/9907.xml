@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/9907" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/9907/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/9907/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9907"><akn:num>9907</akn:num><akn:heading>Uses of funds</akn:heading><akn:content><akn:p>§ 9907. Uses of funds(a) Grants to eligible entities and other organizations(1) In generalNot less than 90 percent of the funds made available to a State under section 9905 or 9906 of this title shall be used by the State to make grants for the purposes described in section 9901 of this title to eligible entities.
+
+
+(2) Obligational authorityFunds distributed to eligible entities through grants made in accordance with paragraph (1) for a fiscal year shall be available for obligation during that fiscal year and the succeeding fiscal year, subject to paragraph (3).
+
+
+(3) Recapture and redistribution of unobligated funds(A) AmountBeginning on October 1, 2000, a State may recapture and redistribute funds distributed to an eligible entity through a grant made under paragraph (1) that are unobligated at the end of a fiscal year if such unobligated funds exceed 20 percent of the amount so distributed to such eligible entity for such fiscal year.
+
+
+(B) RedistributionIn redistributing funds recaptured in accordance with this paragraph, States shall redistribute such funds to an eligible entity, or require the original recipient of the funds to redistribute the funds to a private, nonprofit organization, located within the community served by the original recipient of the funds, for activities consistent with the purposes of this chapter.
+
+
+
+
+(b) Statewide activities(1) Use of remainderIf a State uses less than 100 percent of the grant or allotment received under section 9905 or 9906 of this title to make grants under subsection (a), the State shall use the remainder of the grant or allotment under section 9905 or 9906 of this title (subject to paragraph (2)) for activities that may include—(A) providing training and technical assistance to those entities in need of such training and assistance;
+
+(B) coordinating State-operated programs and services, and at the option of the State, locally-operated programs and services, targeted to low-income children and families with servi</akn:p></akn:content><akn:subsection eId="subsec_9907_a"><akn:num>(a)</akn:num><akn:heading>Grants to eligible entities and other organizations</akn:heading><akn:content><akn:p>(a) Grants to eligible entities and other organizations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9907_b"><akn:num>(b)</akn:num><akn:heading>Statewide activities</akn:heading><akn:content><akn:p>(b) Statewide activities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9907_c"><akn:num>(c)</akn:num><akn:heading>Charity tax credit</akn:heading><akn:content><akn:p>(c) Charity tax credit</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

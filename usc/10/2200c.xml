@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2200c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2200c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2200c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2200c"><akn:num>2200c</akn:num><akn:heading>Special considerations in awarding scholarships and grants</akn:heading><akn:content><akn:p>§ 2200c. Special considerations in awarding scholarships and grants(a) Centers of Academic Excellence in Cyber Education.—In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—(1) in the case of a scholarship, the institution at which the recipient pursues a degree is a Center of Academic Excellence in Cyber Education; and
+
+(2) in the case of a grant, the recipient is a Center of Academic Excellence in Cyber Education.
+
+
+(b) Certain Institutions of Higher Education.—In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—(1) in the case of a scholarship, the institution of higher education at which the recipient pursues a degree is an institution described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)); and
+
+(2) in the case of a grant, the recipient is an institution described in such section.
+
+
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236; amended Pub. L. 115–91, div. A, title XVI, § 1649(d)(1)(E), (F), Dec. 12, 2017, 131 Stat. 1753; Pub. L. 115–232, div. A, title XVI, § 1633(a), (b)(1), Aug. 13, 2018, 132 Stat. 2125.)
+
+Editorial Notes
+Amendments2018—Pub. L. 115–232 substituted “Special considerations in awarding scholarships and grants” for “Centers of Academic Excellence in Cyber Education” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2017—Pub. L. 115–91 substituted “Cyber” for “Information Assurance” in heading and in pars. (1) and (2).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Pub. L. 115–91, div. A, title XVI, § 1649(e)(2), Dec. 12, 2017, 131 Stat. 1753, provided that: “Any institution of higher education designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education is redesigna</akn:p></akn:content><akn:subsection eId="subsec_2200c_a"><akn:num>(a)</akn:num><akn:heading>Centers of Academic Excellence in Cyber Education.—</akn:heading><akn:content><akn:p>(a) In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2200c_b"><akn:num>(b)</akn:num><akn:heading>Certain Institutions of Higher Education.—</akn:heading><akn:content><akn:p>(b) In the selection of a recipient for the award of a scholarship or grant under this chapter, consideration shall be given to whether—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

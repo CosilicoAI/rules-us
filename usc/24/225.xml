@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/24/225" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/24/225/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/24/225/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_225"><akn:num>225</akn:num><akn:heading>Findings and purposes</akn:heading><akn:content><akn:p>§ 225. Findings and purposes(a) The Congress makes the following findings:(1) Governmentally administered mental health services in the District of Columbia are currently provided through two separate public entities, the federally administered Saint Elizabeths Hospital and the Mental Health Services Administration of the District of Columbia Department of Human Resources.
+
+(2) The District of Columbia has a continuing responsibility to provide mental health services to its residents.
+
+(3) The Federal Government, through its operation of a national mental health program at Saint Elizabeths Hospital, has for over 100 years assisted the District of Columbia in carrying out that responsibility.
+
+(4) Since its establishment by Congress in 1855, Saint Elizabeths Hospital has developed into a respected national mental health hospital and study, training, and treatment center, providing a range of quality mental health and related services, including—(i) acute and chronic inpatient psychiatric care;
+
+(ii) outpatient psychiatric and substance abuse clinical and related services;
+
+(iii) Federal court system forensic psychiatry referral, evaluation, and patient treatment services for prisoners, and for individuals awaiting trial or requiring post-trial or post-sentence psychiatric evaluation;
+
+(iv) patient care and related services for designated classes of individuals entitled to mental health benefits under Federal law, such as certain members and employees of the United States Armed Forces and the Foreign Service, and residents of American overseas dependencies;
+
+(v) District of Columbia court system forensic psychiatry referral, evaluation, and patient treatment services for prisoners, and for individuals awaiting trial or requiring post-trial or postsentence psychiatric evaluation;
+
+(vi) programs for special populations such as the mentally ill deaf;
+
+(vii) support for basic and applied clinical psychiatric research and related patient services conducted by the National </akn:p></akn:content><akn:subsection eId="subsec_225_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress makes the following findings:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_225_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) It is the intent of Congress that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/323" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/323/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/323/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_323"><akn:num>323</akn:num><akn:heading>Personnel</akn:heading><akn:content><akn:p>§ 323. Personnel(a) The Secretary of Transportation may appoint and fix the pay of officers and employees of the Department of Transportation and may prescribe their duties and powers.
+
+(b) The Secretary may procure services under section 3109 of title 5. However, an individual may be paid not more than $100 a day for services.
+
+(Pub. L. 97–449, § 1(b), Jan. 12, 1983, 96 Stat. 2423.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+323(a)49:1343(d).Aug. 23, 1958, Pub. L. 85–726, § 302(f), 72 Stat. 746; Oct. 4, 1961, Pub. L. 87–367, § 205(b), 75 Stat. 791; Oct. 11, 1962, Pub. L. 87–793, § 1001(h), 76 Stat. 864.
+ 49:1343(f).Aug. 23, 1958, Pub. L. 85–726, § 302(h), 72 Stat. 746; Oct. 4, 1961, Pub. L. 87–367, § 205(a), 75 Stat. 791.
+ 49:1657(a).Oct. 15, 1966, Pub. L. 89–670, § 9(a), (b), 80 Stat. 944; Mar. 27, 1978, Pub. L. 95–251, § 2(a)(12), 92 Stat. 183.
+323(b)49:1343(g) (1st sentence 33d–43d words).Aug. 23, 1958, Pub. L. 85–726, § 302(i) (1st sentence 31st–41st words), 72 Stat. 747.
+ 49:1657(b).
+
+
+In the section, the word “pay” is substituted for “compensation” for consistency with title 5.
+In subsection (a), the words “In addition to the authority contained in any other Act which is transferred to and vested in the Secretary, the National Transportation Safety Board, or any other officer in the Department” before “the Secretary” and “subject to the civil service and classification laws” before “to select” in 49:1657(a) are omitted as unnecessary because of title 5, especially sections 3301, 5101, and 5331. The word “appoint” is substituted for “select, employ, appoint” because it is inclusive. The words “attorneys, and agents” after “employees” in 49:1343(d) and “including investigators, attorneys, and administrative law judges” after “employees” in 49:1657(a) are omitted as included in “officers and employees”. The words “of the Department of Transportation” are substituted for “as are necessary to carry out t</akn:p></akn:content><akn:subsection eId="subsec_323_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of Transportation may appoint and fix the pay of officers and employees of the Department of Transportation and may prescribe their duties and powers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_323_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary may procure services under section 3109 of title 5. However, an individual may be paid not more than $100 a day for services.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

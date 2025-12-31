@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/159" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/159/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/159/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_159"><akn:num>159</akn:num><akn:heading>Bankruptcy statistics</akn:heading><akn:content><akn:p>§ 159. Bankruptcy statistics(a) The clerk of the district court, or the clerk of the bankruptcy court if one is certified pursuant to section 156(b) of this title, shall collect statistics regarding debtors who are individuals with primarily consumer debts seeking relief under chapters 7, 11, and 13 of title 11. Those statistics shall be in a standardized format prescribed by the Director of the Administrative Office of the United States Courts (referred to in this section as the “Director”).
+
+(b) The Director shall—(1) compile the statistics referred to in subsection (a);
+
+(2) make the statistics available to the public; and
+
+(3) not later than July 1, 2008, and annually thereafter, prepare, and submit to Congress a report concerning the information collected under subsection (a) that contains an analysis of the information.
+
+
+(c) The compilation required under subsection (b) shall—(1) be itemized, by chapter, with respect to title 11;
+
+(2) be presented in the aggregate and for each district; and
+
+(3) include information concerning—(A) the total assets and total liabilities of the debtors described in subsection (a), and in each category of assets and liabilities, as reported in the schedules prescribed pursuant to section 2075 of this title and filed by debtors;
+
+(B) the current monthly income, average income, and average expenses of debtors as reported on the schedules and statements that each such debtor files under sections 521 and 1322 of title 11;
+
+(C) the aggregate amount of debt discharged in cases filed during the reporting period, determined as the difference between the total amount of debt and obligations of a debtor reported on the schedules and the amount of such debt reported in categories which are predominantly nondischargeable;
+
+(D) the average period of time between the date of the filing of the petition and the closing of the case for cases closed during the reporting period;
+
+(E) for cases closed during the reporting period—(i) the number of ca</akn:p></akn:content><akn:subsection eId="subsec_159_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The clerk of the district court, or the clerk of the bankruptcy court if one is certified pursuant to section 156(b) of this title, shall collect statistics regarding debtors who are individuals with primarily consumer debts seeking relief under chapters 7, 11, and 13 of title 11. Those statistics shall be in a standardized format prescribed by the Director of the Administrative Office of the United States Courts (referred to in this section as the “Director”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_159_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Director shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_159_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The compilation required under subsection (b) shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

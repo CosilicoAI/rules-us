@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/11101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/11101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/11101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11101"><akn:num>11101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 11101. Definitions
+In this subtitle, the following definitions apply:(1) Commercial product.—The term “commercial product” has the meaning given that term in section 103 of title 41.
+
+(2) Executive agency.—The term “executive agency” has the meaning given that term in section 133 of title 41.
+
+(3) Information resources.—The term “information resources” has the meaning given that term in section 3502 of title 44.
+
+(4) Information resources management.—The term “information resources management” has the meaning given that term in section 3502 of title 44.
+
+(5) Information system.—The term “information system” has the meaning given that term in section 3502 of title 44.
+
+(6) Information technology.—The term “information technology”—(A) with respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use—(i) of that equipment; or
+
+(ii) of that equipment to a significant extent in the performance of a service or the furnishing of a product;
+
+
+(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but
+
+(C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
+
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, § 535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, § 5(l)(24), Jan. 4, 2011, 124 Stat. 38</akn:p></akn:content><akn:subsection eId="subsec_11101_1"><akn:num>(1)</akn:num><akn:heading>Commercial product.—</akn:heading><akn:content><akn:p>(1) The term “commercial product” has the meaning given that term in section 103 of title 41.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11101_2"><akn:num>(2)</akn:num><akn:heading>Executive agency.—</akn:heading><akn:content><akn:p>(2) The term “executive agency” has the meaning given that term in section 133 of title 41.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11101_3"><akn:num>(3)</akn:num><akn:heading>Information resources.—</akn:heading><akn:content><akn:p>(3) The term “information resources” has the meaning given that term in section 3502 of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11101_4"><akn:num>(4)</akn:num><akn:heading>Information resources management.—</akn:heading><akn:content><akn:p>(4) The term “information resources management” has the meaning given that term in section 3502 of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11101_5"><akn:num>(5)</akn:num><akn:heading>Information system.—</akn:heading><akn:content><akn:p>(5) The term “information system” has the meaning given that term in section 3502 of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11101_6"><akn:num>(6)</akn:num><akn:heading>Information technology.—</akn:heading><akn:content><akn:p>(6) The term “information technology”—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

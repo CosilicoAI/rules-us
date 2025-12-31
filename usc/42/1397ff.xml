@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1397ff" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1397ff/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1397ff/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1397ff"><akn:num>1397ff</akn:num><akn:heading>Process for submission, approval, and amendment of State child health plans</akn:heading><akn:content><akn:p>§ 1397ff. Process for submission, approval, and amendment of State child health plans(a) Initial plan(1) In generalAs a condition of receiving payment under subsection (a) or (g) of section 1397ee of this title, a State shall submit to the Secretary a State child health plan that meets the applicable requirements of this subchapter.
+
+
+(2) ApprovalExcept as the Secretary may provide under subsection (e), a State plan submitted under paragraph (1)—(A) shall be approved for purposes of this subchapter, and
+
+(B) shall be effective beginning with a calendar quarter that is specified in the plan, but in no case earlier than October 1, 1997.
+
+
+
+(b) Plan amendments(1) In generalA State may amend, in whole or in part, its State child health plan at any time through transmittal of a plan amendment.
+
+
+(2) ApprovalExcept as the Secretary may provide under subsection (e), an amendment to a State plan submitted under paragraph (1)—(A) shall be approved for purposes of this subchapter, and
+
+(B) shall be effective as provided in paragraph (3).
+
+
+(3) Effective dates for amendments(A) In generalSubject to the succeeding provisions of this paragraph, an amendment to a State plan shall take effect on one or more effective dates specified in the amendment.
+
+
+(B) Amendments relating to eligibility or benefits(i) Notice requirementAny plan amendment that eliminates or restricts eligibility or benefits under the plan may not take effect unless the State certifies that it has provided prior public notice of the change, in a form and manner provided under applicable State law.
+
+
+(ii) Timely transmittalAny plan amendment that eliminates or restricts eligibility or benefits under the plan shall not be effective for longer than a 60-day period unless the amendment has been transmitted to the Secretary before the end of such period.
+
+
+
+(C) Other amendmentsAny plan amendment that is not described in subparagraph (B) and that becomes effective in a State fiscal year may not remain in effect after </akn:p></akn:content><akn:subsection eId="subsec_1397ff_a"><akn:num>(a)</akn:num><akn:heading>Initial plan</akn:heading><akn:content><akn:p>(a) Initial plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397ff_b"><akn:num>(b)</akn:num><akn:heading>Plan amendments</akn:heading><akn:content><akn:p>(b) Plan amendments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397ff_c"><akn:num>(c)</akn:num><akn:heading>Disapproval of plans and plan amendments</akn:heading><akn:content><akn:p>(c) Disapproval of plans and plan amendments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397ff_d"><akn:num>(d)</akn:num><akn:heading>Program operation</akn:heading><akn:content><akn:p>(d) Program operation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397ff_e"><akn:num>(e)</akn:num><akn:heading>Continued approval</akn:heading><akn:content><akn:p>(e) Continued approval An approved State child health plan shall continue in effect unless and until the State amends the plan under subsection (b) or the Secretary finds, under subsection (d), substantial noncompliance of the plan with the requirements of this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

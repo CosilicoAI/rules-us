@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/1643" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/1643/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/1643/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1643"><akn:num>1643</akn:num><akn:heading>Liability of holder of credit card</akn:heading><akn:content><akn:p>§ 1643. Liability of holder of credit card(a) Limits on liability(1) A cardholder shall be liable for the unauthorized use of a credit card only if—(A) the card is an accepted credit card;
+
+(B) the liability is not in excess of $50;
+
+(C) the card issuer gives adequate notice to the cardholder of the potential liability;
+
+(D) the card issuer has provided the cardholder with a description of a means by which the card issuer may be notified of loss or theft of the card, which description may be provided on the face or reverse side of the statement required by section 1637(b) of this title or on a separate notice accompanying such statement;
+
+(E) the unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has occurred or may occur as the result of loss, theft, or otherwise; and
+
+(F) the card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it.
+
+
+(2) For purposes of this section, a card issuer has been notified when such steps as may be reasonably required in the ordinary course of business to provide the card issuer with the pertinent information have been taken, whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.
+
+
+(b) Burden of proofIn any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.
+
+
+(c) Liability imposed by other laws or by agreement with issuerNothing in this section imposes liability upon a cardholder for the unauthorized use of a credit card in excess of his liability for such use under other applicable law or under any agreement with the card issuer.
+
+
+(d) Exclusiveness </akn:p></akn:content><akn:subsection eId="subsec_1643_a"><akn:num>(a)</akn:num><akn:heading>Limits on liability</akn:heading><akn:content><akn:p>(a) Limits on liability</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1643_b"><akn:num>(b)</akn:num><akn:heading>Burden of proof</akn:heading><akn:content><akn:p>(b) Burden of proof In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1643_c"><akn:num>(c)</akn:num><akn:heading>Liability imposed by other laws or by agreement with issuer</akn:heading><akn:content><akn:p>(c) Liability imposed by other laws or by agreement with issuer Nothing in this section imposes liability upon a cardholder for the unauthorized use of a credit card in excess of his liability for such use under other applicable law or under any agreement with the card issuer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1643_d"><akn:num>(d)</akn:num><akn:heading>Exclusiveness of liability</akn:heading><akn:content><akn:p>(d) Exclusiveness of liability Except as provided in this section, a cardholder incurs no liability from the unauthorized use of a credit card.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

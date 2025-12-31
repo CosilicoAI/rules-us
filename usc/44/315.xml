@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/315" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/315/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/315/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_315"><akn:num>315</akn:num><akn:heading>Branches of Government Publishing Office; limitations</akn:heading><akn:content><akn:p>§ 315. Branches of Government Publishing Office; limitations
+Money appropriated by any Act may not be used for maintaining more than one branch of the Government Publishing Office in any one building occupied by an executive department of the Government, and a branch of the Government Publishing Office may not be established unless specifically authorized by law.
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1242; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+Historical and Revision NotesBased on 44 U.S. Code, 1964 ed., § 61 (Aug. 1, 1914, ch. 223, § 1, 38 Stat. 673).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+“Government Publishing Office” substituted for “Government Printing Office” in section catchline and text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

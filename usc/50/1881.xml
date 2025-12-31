@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/1881" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/1881/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/1881/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1881"><akn:num>1881</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1881. Definitions(a) In generalIn this subchapter, the terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
+
+
+(b) Additional definitionsIn this subchapter:(1) Congressional intelligence committeesThe term “congressional intelligence committees” means—(A) the Select Committee on Intelligence of the Senate; and
+
+(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+
+(2) Foreign Intelligence Surveillance Court; CourtThe terms “Foreign Intelligence Surveillance Court” and “Court” mean the court established under section 1803(a) of this title.
+
+
+(3) Foreign Intelligence Surveillance Court of Review; Court of ReviewThe terms “Foreign Intelligence Surveillance Court of Review” and “Court of Review” mean the court established under section 1803(b) of this title.
+
+
+(4) Electronic communication service providerThe term “electronic communication service provider” means—(A) a telecommunications carrier, as that term is defined in section 153 of title 47;
+
+(B) a provider of electronic communication service, as that term is defined in section 2510 of title 18;
+
+(C) a provider of a remote computing service, as that term is defined in section 2711 of title 18;
+
+(D) any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored;
+
+(E) any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—(i) a public accommodation facility, as that term is defined in section 1861(4) of this title;
+
+(ii) a dwelling, as that term is defined in section 3602 of ti</akn:p></akn:content><akn:subsection eId="subsec_1881_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In this subchapter, the terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1881_b"><akn:num>(b)</akn:num><akn:heading>Additional definitions</akn:heading><akn:content><akn:p>(b) Additional definitions In this subchapter:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

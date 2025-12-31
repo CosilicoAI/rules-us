@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6217" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6217/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6217/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6217"><akn:num>6217</akn:num><akn:heading>Scientific inventory of oil and gas reserves</akn:heading><akn:content><akn:p>§ 6217. Scientific inventory of oil and gas reserves(a) In generalThe Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy, shall conduct an inventory of all onshore Federal lands. The inventory shall identify—(1) the United States Geological Survey estimates of the oil and gas resources underlying these lands;
+
+(2) the extent and nature of any restrictions or impediments to the development of the resources, including—(A) impediments to the timely granting of leases;
+
+(B) post-lease restrictions, impediments, or delays on development for conditions of approval, applications for permits to drill, or processing of environmental permits; and
+
+(C) permits or restrictions associated with transporting the resources for entry into commerce; and
+
+
+(3) the quantity of resources not produced or introduced into commerce because of the restrictions.
+
+
+(b) Regular updateOnce completed, the USGS resource estimates and the surface availability data as provided in subsection (a)(2) shall be regularly updated and made publicly available.
+
+
+(c) InventoryThe inventory shall be provided to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate within 2 years after November 9, 2000.
+
+
+(d) AssessmentsUsing the inventory, the Secretary of Energy shall make periodic assessments of economically recoverable resources accounting for a range of parameters such as current costs, commodity prices, technology, and regulations.
+
+
+(Pub. L. 106–469, title VI, § 604, Nov. 9, 2000, 114 Stat. 2041; Pub. L. 109–58, title III, § 364(a), Aug. 8, 2005, 119 Stat. 723.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Energy Act of 2000, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
+
+Amendments2005—Subsec. (a)(1). Pub. L. 109–58, § 364(a)(1)(A), struck out “reserve” before “estimates” and “and” after the semicolon.
+Subsec. (a)(2), (3). Pub. L. 1</akn:p></akn:content><akn:subsection eId="subsec_6217_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy, shall conduct an inventory of all onshore Federal lands. The inventory shall identify—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6217_b"><akn:num>(b)</akn:num><akn:heading>Regular update</akn:heading><akn:content><akn:p>(b) Regular update Once completed, the USGS resource estimates and the surface availability data as provided in subsection (a)(2) shall be regularly updated and made publicly available.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6217_c"><akn:num>(c)</akn:num><akn:heading>Inventory</akn:heading><akn:content><akn:p>(c) Inventory The inventory shall be provided to the Committee on Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate within 2 years after November 9, 2000.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6217_d"><akn:num>(d)</akn:num><akn:heading>Assessments</akn:heading><akn:content><akn:p>(d) Assessments Using the inventory, the Secretary of Energy shall make periodic assessments of economically recoverable resources accounting for a range of parameters such as current costs, commodity prices, technology, and regulations.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

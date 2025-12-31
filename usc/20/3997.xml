@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/3997" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/3997/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/3997/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3997"><akn:num>3997</akn:num><akn:heading>Approval of applications</akn:heading><akn:content><akn:p>§ 3997. Approval of applications(a) CriteriaThe State shall establish criteria for approval of applications under this section. Such criteria shall include—(1) consideration of the local district’s need for, and inability to locally provide for, the activities, equipment, library and instructional materials requested;
+
+(2) the number and nature of elementary and secondary students who will benefit from the planned program; and
+
+(3) the expressed level of financial and in-kind commitment from other parties to the program.
+
+
+(b) Approval proceduresThe State shall adopt approval procedures designed to ensure that grants are equitably distributed among—(1) rural, urban, and suburban areas; and
+
+(2) small, medium, and large local educational agencies.
+
+
+(Pub. L. 98–377, title III, § 327, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)</akn:p></akn:content><akn:subsection eId="subsec_3997_a"><akn:num>(a)</akn:num><akn:heading>Criteria</akn:heading><akn:content><akn:p>(a) Criteria The State shall establish criteria for approval of applications under this section. Such criteria shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3997_b"><akn:num>(b)</akn:num><akn:heading>Approval procedures</akn:heading><akn:content><akn:p>(b) Approval procedures The State shall adopt approval procedures designed to ensure that grants are equitably distributed among—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

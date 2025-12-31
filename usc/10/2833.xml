@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2833" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2833/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2833/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2833"><akn:num>2833</akn:num><akn:heading>Family housing support</akn:heading><akn:content><akn:p>§ 2833. Family housing support
+Amounts authorized by law for support of military family housing include amounts for—(1) operating expenses;
+
+(2) leasing expenses;
+
+(3) maintenance of real property expenses;
+
+(4) payments of principal and interest on mortgage debts incurred; and
+
+(5) payments of mortgage insurance premiums authorized under section 222 11 See References in Text note below. of the National Housing Act (12 U.S.C. 1715m).
+
+(Added Pub. L. 99–167, title VIII, § 804(b)(1), Dec. 3, 1985, 99 Stat. 987.)
+
+Editorial Notes
+
+References in TextSection 222 of the National Housing Act (12 U.S.C. 1715m), referred to in par. (5), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(5), July 30, 2008, 122 Stat. 2835.</akn:p></akn:content><akn:subsection eId="subsec_2833_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) operating expenses;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2833_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) leasing expenses;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2833_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) maintenance of real property expenses;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2833_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) payments of principal and interest on mortgage debts incurred; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2833_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) payments of mortgage insurance premiums authorized under section 222 11 See References in Text note below. of the National Housing Act (12 U.S.C. 1715m).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

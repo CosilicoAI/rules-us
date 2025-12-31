@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/30710" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/30710/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/30710/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30710"><akn:num>30710</akn:num><akn:heading>Service of process</akn:heading><akn:content><akn:p>§ 30710. Service of process(a) District of Columbia.—The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Designation of the agent shall be filed in the office of the clerk of the United States District Court for the District of Columbia. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
+
+(b) States, Territories, and Possessions.—As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of each State, territory, or possession of the United States in which the corporation does business, the name and address of an agent in that State, territory, or possession on whom legal process or demands against the corporation may be served.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1324.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30710(a)36:505 (2d, 3d sentences).July 19, 1954, ch. 536, §§ 5 (2d, 3d sentences), 17, 68 Stat. 490, 492.
+30710(b)36:517. 
+
+
+In subsection (a), the word “have” is substituted for “maintain at all times”, and the word “authorized” is omitted, for consistency in the revised title and to eliminate unnecessary words. The words “is notice to or service on the corporation” are substituted for “shall be deemed sufficient notice or service upon the corporation” for consistency in the revised title.
+In subsection (b), the word “precedent” is omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary of State, or similar office” for consistency in the revised title. The words “post office” and “authorized” are omitted as unnecessary.</akn:p></akn:content><akn:subsection eId="subsec_30710_a"><akn:num>(a)</akn:num><akn:heading>District of Columbia.—</akn:heading><akn:content><akn:p>(a) The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Designation of the agent shall be filed in the office of the clerk of the United States District Court for the District of Columbia. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30710_b"><akn:num>(b)</akn:num><akn:heading>States, Territories, and Possessions.—</akn:heading><akn:content><akn:p>(b) As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of each State, territory, or possession of the United States in which the corporation does business, the name and address of an agent in that State, territory, or possession on whom legal process or demands against the corporation may be served.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

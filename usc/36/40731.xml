@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/40731" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/40731/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/40731/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40731"><akn:num>40731</akn:num><akn:heading>Issuance or loan of firearms and supplies</akn:heading><akn:content><akn:p>§ 40731. Issuance or loan of firearms and supplies(a) Issuance or Loan.—For purposes of training and competition, the corporation may issue or loan, with or without charges to recover administrative costs, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies necessary for activities related to the Civilian Marksmanship Program to—(1) organizations affiliated with the corporation that provide firearms training to youth;
+
+(2) the Boy Scouts of America;
+
+(3) 4–H Clubs;
+
+(4) the Future Farmers of America; and
+
+(5) other youth oriented organizations.
+
+
+(b) Security of Firearms.—The corporation shall ensure adequate oversight and accountability for firearms issued or loaned under this section. The corporation shall prescribe procedures for the security of issued or loaned firearms in accordance with United States, State, and local laws.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1340.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+40731(a)36:5504(a).Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(a), (d), 110 Stat. 517, 518.
+40731(b)36:5504(d). 
+
+
+In subsection (a), the words “repair parts, and other supplies” are substituted for “targets, and other supplies and appliances” for consistency in the revised title.
+In subsection (b) the words “shall ensure” are substituted for “shall be responsible for ensuring” to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_40731_a"><akn:num>(a)</akn:num><akn:heading>Issuance or Loan.—</akn:heading><akn:content><akn:p>(a) For purposes of training and competition, the corporation may issue or loan, with or without charges to recover administrative costs, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies necessary for activities related to the Civilian Marksmanship Program to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40731_b"><akn:num>(b)</akn:num><akn:heading>Security of Firearms.—</akn:heading><akn:content><akn:p>(b) The corporation shall ensure adequate oversight and accountability for firearms issued or loaned under this section. The corporation shall prescribe procedures for the security of issued or loaned firearms in accordance with United States, State, and local laws.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

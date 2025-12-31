@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/3702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/3702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/3702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3702"><akn:num>3702</akn:num><akn:heading>Sealed bids</akn:heading><akn:content><akn:p>§ 3702. Sealed bids(a) Opening of Bids.—Sealed bids shall be opened publicly at the time and place stated in the solicitation.
+
+(b) Criteria for Awarding Contract.—The executive agency shall evaluate the bids in accordance with section 3701(a) of this title without discussions with the bidders and, except as provided in section 3701(b) of this title, shall award a contract with reasonable promptness to the responsible source whose bid conforms to the solicitation and is most advantageous to the Federal Government, considering only price and the other price-related factors included in the solicitation.
+
+(c) Notice of Award.—The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3770.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3702(a)41:253b(c) (1st sentence).June 30, 1949, ch. 288, title III, § 303B(c), as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1179; Pub. L. 103–355, title I, §§ 1061(c)(2), 1063(a), Oct. 13, 1994, 108 Stat. 3267, 3268.
+3702(b)41:253b(c) (2d sentence).
+3702(a)41:253b(c) (3d, last sentences).</akn:p></akn:content><akn:subsection eId="subsec_3702_a"><akn:num>(a)</akn:num><akn:heading>Opening of Bids.—</akn:heading><akn:content><akn:p>(a) Sealed bids shall be opened publicly at the time and place stated in the solicitation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3702_b"><akn:num>(b)</akn:num><akn:heading>Criteria for Awarding Contract.—</akn:heading><akn:content><akn:p>(b) The executive agency shall evaluate the bids in accordance with section 3701(a) of this title without discussions with the bidders and, except as provided in section 3701(b) of this title, shall award a contract with reasonable promptness to the responsible source whose bid conforms to the solicitation and is most advantageous to the Federal Government, considering only price and the other price-related factors included in the solicitation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3702_c"><akn:num>(c)</akn:num><akn:heading>Notice of Award.—</akn:heading><akn:content><akn:p>(c) The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

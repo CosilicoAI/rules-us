@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/13/1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/13/1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/13/1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1"><akn:num>1</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1. Definitions
+As used in this title, unless the context requires another meaning or unless it is otherwise provided—(1) “Bureau” means the Bureau of the Census;
+
+(2) “Secretary” means the Secretary of Commerce; and
+
+(3) “respondent” includes a corporation, company, association, firm, partnership, proprietorship, society, joint stock company, individual, or other organization or entity which reported information, or on behalf of which information was reported, in response to a questionnaire, inquiry, or other request of the Bureau.
+
+(Aug. 31, 1954, ch. 1158, 68 Stat. 1012; Pub. L. 94–521, § 1, Oct. 17, 1976, 90 Stat. 2459.)
+
+Historical and Revision NotesSection is new, and was inserted to eliminate the necessity for referring, throughout this title, to the Bureau of the Census, and the Secretary of Commerce, by their full designations.
+
+Editorial Notes
+Amendments1976—Pub. L. 94–521 designated existing provisions as pars. (1) and (2), and added par. (3).
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1976 AmendmentPub. L. 94–521, § 17, Oct. 17, 1976, 90 Stat. 2466, provided that: “The amendments made by this Act [enacting sections 181 to 184 and 196 of this title, amending this section and sections 3 to 6, 8, 23, 141, 191, 195, 214, 221, 224, 225, and 241 of this title, and enacting provisions set out as notes under this section] shall take effect on October 1, 1976, or on the date of the enactment of this Act [Oct. 17, 1976], whichever date is later”.
+
+
+Short Title of 2015 AmendmentPub. L. 114–72, § 1, Oct. 22, 2015, 129 Stat. 566, provided that: “This Act [amending provisions set out as a note under section 91 of this title] may be cited as the ‘Quarterly Financial Report Reauthorization Act’.”
+
+
+Short Title of 1999 AmendmentPub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, subtitle E, § 1251], Nov. 29, 1999, 113 Stat. 1536, 1501A–505, provided that: “This subtitle [amending section 301 of this title and enacting provisions set out as notes u</akn:p></akn:content><akn:subsection eId="subsec_1_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “Bureau” means the Bureau of the Census;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “Secretary” means the Secretary of Commerce; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “respondent” includes a corporation, company, association, firm, partnership, proprietorship, society, joint stock company, individual, or other organization or entity which reported information, or on behalf of which information was reported, in response to a questionnaire, inquiry, or other request of the Bureau.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

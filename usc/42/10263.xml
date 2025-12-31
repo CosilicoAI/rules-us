@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10263" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10263/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10263/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10263"><akn:num>10263</akn:num><akn:heading>Functions</akn:heading><akn:content><akn:p>§ 10263. Functions
+The Board shall evaluate the technical and scientific validity of activities undertaken by the Secretary after December 22, 1987, including—(1) site characterization activities; and
+
+(2) activities relating to the packaging or transportation of high-level radioactive waste or spent nuclear fuel.
+
+(Pub. L. 97–425, title V, § 503, as added Pub. L. 100–202, § 101(d) [title III], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, § 5051, Dec. 22, 1987, 101 Stat. 1330–249.)
+
+Editorial Notes
+Codification
+Pub. L. 100–202 and Pub. L. 100–203 added identical sections.</akn:p></akn:content><akn:subsection eId="subsec_10263_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) site characterization activities; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10263_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) activities relating to the packaging or transportation of high-level radioactive waste or spent nuclear fuel.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

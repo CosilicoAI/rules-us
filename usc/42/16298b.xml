@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16298b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16298b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16298b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16298b"><akn:num>16298b</akn:num><akn:heading>High efficiency turbines</akn:heading><akn:content><akn:p>§ 16298b. High efficiency turbines(a) In generalThe Secretary, acting through the Assistant Secretary for Fossil Energy (referred to in this section as the “Secretary”), shall establish a multiyear, multiphase program (referred to in this section as the “program”) of research, development, and technology demonstration to improve the efficiency of gas turbines used in power generation systems and aviation.
+
+
+(b) Program elementsThe program shall—(1) support first-of-a-kind engineering and detailed gas turbine design for small-scale and utility-scale electric power generation, including—(A) high temperature materials, including superalloys, coatings, and ceramics;
+
+(B) improved heat transfer capability;
+
+(C) manufacturing technology required to construct complex 3-dimensional geometry parts with improved aerodynamic capability;
+
+(D) combustion technology to produce higher firing temperature while lowering nitrogen oxide and carbon monoxide emissions per unit of output;
+
+(E) advanced controls and systems integration;
+
+(F) advanced high performance compressor technology; and
+
+(G) validation facilities for the testing of components and subsystems;
+
+
+(2) include technology demonstration through component testing, subscale testing, and full-scale testing in existing fleets;
+
+(3) include field demonstrations of the developed technology elements to demonstrate technical and economic feasibility;
+
+(4) assess overall combined cycle and simple cycle system performance;
+
+(5) increase fuel flexibility by enabling gas turbines to operate with high proportions of, or pure, hydrogen or other renewable gas fuels;
+
+(6) enhance foundational knowledge needed for low-emission combustion systems that can work in high-pressure, high-temperature environments required for high-efficiency cycles;
+
+(7) increase operational flexibility by reducing turbine start-up times and improving the ability to accommodate flexible power demand; and
+
+(8) include any other elements necessary to achieve the g</akn:p></akn:content><akn:subsection eId="subsec_16298b_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary, acting through the Assistant Secretary for Fossil Energy (referred to in this section as the “Secretary”), shall establish a multiyear, multiphase program (referred to in this section as the “program”) of research, development, and technology demonstration to improve the efficiency of gas turbines used in power generation systems and aviation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298b_b"><akn:num>(b)</akn:num><akn:heading>Program elements</akn:heading><akn:content><akn:p>(b) Program elements The program shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298b_c"><akn:num>(c)</akn:num><akn:heading>Program goals</akn:heading><akn:content><akn:p>(c) Program goals</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298b_d"><akn:num>(d)</akn:num><akn:heading>Financial assistance</akn:heading><akn:content><akn:p>(d) Financial assistance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16298b_e"><akn:num>(e)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(e) Authorization of appropriations There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2021 through 2025.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

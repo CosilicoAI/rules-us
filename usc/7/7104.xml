@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/7104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/7104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/7104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7104"><akn:num>7104</akn:num><akn:heading>Required terms in orders</akn:heading><akn:content><akn:p>§ 7104. Required terms in orders(a) In generalAn order issued under this chapter shall contain the terms and conditions specified in this section.
+
+
+(b) Establishment and membership of Board(1) In generalThe order shall provide for the establishment of, and appointment of members to, a National Sheep Promotion, Research, and Information Board to administer the order. Members of the Board shall be appointed by the Secretary from nominations provided in accordance with this subsection. The cumulative number of seats on the Board shall be 120 and shall be apportioned as follows:(A) ProducersProducers shall be appointed to the Board to represent States, with each State represented by the following number of members:
+
+
+
+
+
+
+
+
+
+
+Alabama1   
+Alaska1   
+Arizona1   
+Arkansas1   
+California5   
+Colorado4   
+Connecticut1   
+Delaware1   
+Florida1   
+Georgia1   
+Hawaii1   
+Idaho2   
+Illinois1   
+Indiana1   
+Iowa2   
+Kansas1   
+Kentucky1   
+Louisiana1   
+Maine1   
+Maryland1   
+Massachusetts1   
+Michigan1   
+Minnesota2   
+Mississippi1   
+Missouri1   
+Montana5   
+Nebraska1   
+Nevada1   
+New Hampshire1   
+New Jersey1   
+New Mexico2   
+New York1   
+North Carolina1   
+North Dakota2   
+Ohio1   
+Oklahoma1   
+Oregon2   
+Pennsylvania1   
+Rhode Island1   
+South Carolina1   
+South Dakota4   
+Tennessee1   
+Texas10   
+Utah3   
+Vermont1   
+Virginia1   
+Washington1   
+West Virginia1   
+Wisconsin1   
+Wyoming5   
+
+
+
+
+
+(B) FeedersThe feeder sheep industry shall be represented on the Board by 10 members.
+
+
+(C) ImportersImporters shall be represented on the Board by 25 members.
+
+
+(D) AlternatesThe order shall provide that a unit represented by only 1 member may have an alternate member appointed to ensure representation at meetings of the Board.
+
+
+
+(2) Nominations(A) ProducersThe Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3). An eligible organization may submit only nominat</akn:p></akn:content><akn:subsection eId="subsec_7104_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general An order issued under this chapter shall contain the terms and conditions specified in this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_b"><akn:num>(b)</akn:num><akn:heading>Establishment and membership of Board</akn:heading><akn:content><akn:p>(b) Establishment and membership of Board</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_c"><akn:num>(c)</akn:num><akn:heading>Method for obtaining nominations</akn:heading><akn:content><akn:p>(c) Method for obtaining nominations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_d"><akn:num>(d)</akn:num><akn:heading>Administration</akn:heading><akn:content><akn:p>(d) Administration</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_e"><akn:num>(e)</akn:num><akn:heading>Powers and duties of Board</akn:heading><akn:content><akn:p>(e) Powers and duties of Board The order shall define the powers and duties of the Board and shall include the power and duty—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_f"><akn:num>(f)</akn:num><akn:heading>Budgets</akn:heading><akn:content><akn:p>(f) Budgets</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_g"><akn:num>(g)</akn:num><akn:heading>Executive Committee</akn:heading><akn:content><akn:p>(g) Executive Committee</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_h"><akn:num>(h)</akn:num><akn:heading>Expenses, contracts, and agreements</akn:heading><akn:content><akn:p>(h) Expenses, contracts, and agreements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_i"><akn:num>(i)</akn:num><akn:heading>Assessments</akn:heading><akn:content><akn:p>(i) Assessments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7104_j"><akn:num>(j)</akn:num><akn:heading>Books and records of Board</akn:heading><akn:content><akn:p>(j) Books and records of Board</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

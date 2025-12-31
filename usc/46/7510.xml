@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/7510" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/7510/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/7510/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7510"><akn:num>7510</akn:num><akn:heading>Examinations for merchant mariner credentials</akn:heading><akn:content><akn:p>§ 7510. Examinations for merchant mariner credentials(a) Disclosure Not Required.—Notwithstanding any other provision of law, the Secretary is not required to disclose to the public—(1) a question from any examination for a merchant mariner credential;
+
+(2) the answer to such a question, including any correct or incorrect answer that may be presented with such question; and
+
+(3) any quality or characteristic of such a question, including—(A) the manner in which such question has been, is, or may be selected for an examination;
+
+(B) the frequency of such selection; and
+
+(C) the frequency that an examinee correctly or incorrectly answered such question.
+
+
+
+(b) Exception for Certain Questions.—Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchant mariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
+
+(c) Exam Review.—(1) In general.—Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—(A) 1 subject matter expert from the Coast Guard;
+
+(B) representatives from training facilities and the maritime industry, of whom—(i) one-half shall be representatives from approved training facilities; and
+
+(ii) one-half shall be representatives from the appropriate maritime industry;
+
+
+(C) at least 1 representative from the National Merchant Marine Personnel Advisory Committee;
+
+(D) at least 2 representatives from the State maritime academies, of whom one shall be a representative from the deck training track and one shall be a representative of the engineer license track;
+
+(E) representatives from other Coast G</akn:p></akn:content><akn:subsection eId="subsec_7510_a"><akn:num>(a)</akn:num><akn:heading>Disclosure Not Required.—</akn:heading><akn:content><akn:p>(a) Notwithstanding any other provision of law, the Secretary is not required to disclose to the public—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7510_b"><akn:num>(b)</akn:num><akn:heading>Exception for Certain Questions.—</akn:heading><akn:content><akn:p>(b) Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchant mariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7510_c"><akn:num>(c)</akn:num><akn:heading>Exam Review.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7510_d"><akn:num>(d)</akn:num><akn:heading>Merchant Mariner Credential Defined.—</akn:heading><akn:content><akn:p>(d) In this section, the term “merchant mariner credential” means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

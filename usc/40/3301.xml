@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/3301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/3301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/3301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3301"><akn:num>3301</akn:num><akn:heading>Definitions and nonapplication</akn:heading><akn:content><akn:p>§ 3301. Definitions and nonapplication(a) Definitions.—In this chapter—(1) Alter.—The term “alter” includes—(A) preliminary planning, engineering, architectural, legal, fiscal, and economic investigations and studies, surveys, designs, plans, working drawings, specifications, procedures, and other similar actions necessary for the alteration of a public building; and
+
+(B) repairing, remodeling, improving, or extending, or other changes in, a public building.
+
+
+(2) Construct.—The term “construct” includes preliminary planning, engineering, architectural, legal, fiscal, and economic investigations and studies, surveys, designs, plans, working drawings, specifications, procedures, and other similar actions necessary for the construction of a public building.
+
+(3) Executive agency.—The term “executive agency” means an executive department or independent establishment in the executive branch of the Federal Government, including—(A) any wholly owned Government corporation;
+
+(B) the Central-Bank for Cooperatives and the regional banks for cooperatives;
+
+(C) federal land banks;
+
+(D) federal intermediate credit banks;
+
+(E) the Federal Deposit Insurance Corporation; and
+
+(F) the Government National Mortgage Association.
+
+
+(4) Federal agency.—The term “federal agency” means an executive agency or an establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect).
+
+(5) Public building.—The term “public building”—(A) means a building, whether for single or multitenant occupancy, and its grounds, approaches, and appurtenances, which is generally suitable for use as office or storage space or both by one or more federal agencies or mixed-ownership Government corporations;
+
+(B) includes—(i) federal office buildings;
+
+(ii) post offices;
+
+(iii) customhouses;
+
+(iv) courthouses;
+
+(v) appraisers stores;
+
+(vi) border inspection facilities;
+
+(vi</akn:p></akn:content><akn:subsection eId="subsec_3301_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_b"><akn:num>(b)</akn:num><akn:heading>Nonapplication.—</akn:heading><akn:content><akn:p>(b) This chapter does not apply to the construction of any public building to which section 241(g) of the Immigration and Nationality Act (8 U.S.C. 1231(g)) or section 1 of the Act of June 26, 1930 (19 U.S.C. 68) applies.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1603" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1603/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1603/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1603"><akn:num>1603</akn:num><akn:heading>Additional compensation, incentives, and allowances</akn:heading><akn:content><akn:p>§ 1603. Additional compensation, incentives, and allowances(a) Additional Compensation Based on Title 5 Authorities.—The Secretary of Defense may provide employees in defense intelligence positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
+
+(b) Allowances Based on Living Costs and Environment.—(1) In addition to basic pay, employees in defense intelligence positions who are citizens or nationals of the United States and are stationed outside the continental United States or in Alaska may be paid an allowance, in accordance with regulations prescribed by the Secretary of Defense, while they are so stationed.
+
+(2) An allowance under this subsection shall be based on—(A) living costs substantially higher than in the District of Columbia;
+
+(B) conditions of environment which (i) differ substantially from conditions of environment in the continental United States, and (ii) warrant an allowance as a recruitment incentive; or
+
+(C) both of the factors specified in subparagraphs (A) and (B).
+
+
+(3) An allowance under this subsection may not exceed the allowance authorized to be paid by section 5941(a) of title 5 for employees whose rates of basic pay are fixed by statute.
+
+
+(c) Additional Allowances and Benefits for Certain Employees of the Defense Clandestine Service.—(1) Beginning on the date on which the Secretary of Defense submits the report under paragraph (3)(A), in addition to the authority to provide compensation under subsection (a), the Secretary may provide a covered employee allowances and benefits under paragraph (1) of section 9904 of title 5 without regard to the limitations in that section—(A) that the employee be assigned to activities outside the United States; or
+
+(B) that the activities to which the employee is assigned be in support of Department of Defense activities abroad.
+
+
+(2) The Secretary may no</akn:p></akn:content><akn:subsection eId="subsec_1603_a"><akn:num>(a)</akn:num><akn:heading>Additional Compensation Based on Title 5 Authorities.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense may provide employees in defense intelligence positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_b"><akn:num>(b)</akn:num><akn:heading>Allowances Based on Living Costs and Environment.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_c"><akn:num>(c)</akn:num><akn:heading>Additional Allowances and Benefits for Certain Employees of the Defense Clandestine Service.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/6503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/6503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/6503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6503"><akn:num>6503</akn:num><akn:heading>Transportation research and development 5-year strategic plan</akn:heading><akn:content><akn:p>§ 6503. Transportation research and development 5-year strategic plan(a) In General.—Not later than 180 days after the date of publication of the Department of Transportation Strategic Plan and not less frequently than once every 5 years thereafter, the Secretary shall develop a 5-year transportation research and development strategic plan to guide future Federal transportation research and development activities.
+
+(b) Consistency.—Each strategic plan developed under subsection (a) shall be consistent with—(1) section 306 of title 5;
+
+(2) sections 1115 and 1116 of title 31; and
+
+(3) any other research and development plan within the Department of Transportation.
+
+
+(c) Contents.—Each strategic plandeveloped under subsection (a) shall—(1) describe how the plan furthers the primary purposes of the transportation research and development program, which shall include—(A) improving mobility of people and goods;
+
+(B) reducing congestion;
+
+(C) promoting safety;
+
+(D) improving the durability and extending the life of transportation infrastructure;
+
+(E) preserving the environment;
+
+(F) preserving the existing transportation system; and
+
+(G) reducing transportation cybersecurity risks;
+
+
+(2) for each of the purposes referred to in paragraph (1), list the primary proposed research and development activities that the Department of Transportation intends to pursue to accomplish that purpose, which may include—(A) fundamental research pertaining to the applied physical and natural sciences;
+
+(B) applied science and research;
+
+(C) technology development research; and
+
+(D) social science research; and
+
+
+(3) for each research and development activity—(A) identify the anticipated annual funding levels for the period covered by the strategic plan; and
+
+(B) describe the research findings the Department expects to discover at the end of the period covered by the strategic plan.
+
+
+
+(d) Considerations.—The Secretary shall ensure that each strategic plan developed under this section—(1) ref</akn:p></akn:content><akn:subsection eId="subsec_6503_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Not later than 180 days after the date of publication of the Department of Transportation Strategic Plan and not less frequently than once every 5 years thereafter, the Secretary shall develop a 5-year transportation research and development strategic plan to guide future Federal transportation research and development activities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6503_b"><akn:num>(b)</akn:num><akn:heading>Consistency.—</akn:heading><akn:content><akn:p>(b) Each strategic plan developed under subsection (a) shall be consistent with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6503_c"><akn:num>(c)</akn:num><akn:heading>Contents.—</akn:heading><akn:content><akn:p>(c) Each strategic plandeveloped under subsection (a) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6503_d"><akn:num>(d)</akn:num><akn:heading>Considerations.—</akn:heading><akn:content><akn:p>(d) The Secretary shall ensure that each strategic plan developed under this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

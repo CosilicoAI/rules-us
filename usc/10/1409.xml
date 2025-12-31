@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1409" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1409/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1409/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1409"><akn:num>1409</akn:num><akn:heading>Retired pay multiplier</akn:heading><akn:content><akn:p>§ 1409. Retired pay multiplier(a) Retired Pay Multiplier for Regular-Service Nondisability Retirement.—In computing—(1) the retired pay of a member of a uniformed service who is entitled to that pay under any provision of law other than—(A) chapter 61 of this title (relating to retirement or separation for physical disability); or
+
+(B) chapter 1223 of this title (relating to retirement for non-regular service); or
+
+
+(2) the retainer pay of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under section 8330 of this title,
+
+
+the retired pay multiplier (or retainer pay multiplier) is the percentage determined under subsection (b).
+
+(b) Percentage.—(1) General rule.—Subject to paragraphs (2) and (3), the percentage to be used under subsection (a) is the product (stated as a percentage) of—(A) 2½, and
+
+(B) the member’s years of creditable service (as defined in subsection (c)).
+
+
+(2) Reduction applicable to certain new-retirement members with less than 30 years of service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—(A) 1 percentage point for each full year that the member’s years of creditable service are less than 30; and
+
+(B) 1⁄12 of 1 percentage point for each month by which the member’s years of creditable service (after counting all full years of such service) are less than a full year.
+
+
+(3) 30 years of service.—(A) Retirement before january 1, 2007.—In the case of a member who retires before January 1, 2007, with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.
+
+(B) Retirement after december</akn:p></akn:content><akn:subsection eId="subsec_1409_a"><akn:num>(a)</akn:num><akn:heading>Retired Pay Multiplier for Regular-Service Nondisability Retirement.—</akn:heading><akn:content><akn:p>(a) In computing— the retired pay multiplier (or retainer pay multiplier) is the percentage determined under subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1409_b"><akn:num>(b)</akn:num><akn:heading>Percentage.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1409_c"><akn:num>(c)</akn:num><akn:heading>Years of Creditable Service Defined.—</akn:heading><akn:content><akn:p>(c) In this section, the term “years of creditable service” means the number of years of service creditable to a member in computing the member’s retired or retainer pay (including 1⁄12 of a year for each full month of service that is in addition to the number of full years of service of the member).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/50702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/50702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/50702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50702"><akn:num>50702</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>§ 50702. Establishment(a) In General.—There is established within the Department of Commerce an Office of Space Commerce.
+
+(b) Director.—The Office shall be headed by a Director, who shall be a senior executive and shall be compensated at a level in the Senior Executive Service under section 5382 of title 5 as determined by the Secretary of Commerce.
+
+(c) Functions of Office.—The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce, including—(1) to foster the conditions for the economic growth and technological advancement of the United States space commerce industry;
+
+(2) to coordinate space commerce policy issues and actions within the Department of Commerce;
+
+(3) to represent the Department of Commerce in the development of United States policies and in negotiations with foreign countries to promote United States space commerce;
+
+(4) to promote the advancement of United States geospatial technologies related to space commerce, in cooperation with relevant interagency working groups; and
+
+(5) to provide support to Federal Government organizations working on Space-Based Positioning Navigation, and Timing policy, including the National Coordination Office for Space-Based Position,11 So in original. Probably should be “Positioning,”. Navigation, and Timing.
+
+
+(d) Duties of Director.—The primary responsibilities of the Director in carrying out the functions of the Office shall include—(1) promoting commercial provider investment in space activities by collecting, analyzing, and disseminating information on space markets, and conducting workshops and seminars to increase awareness of commercial space opportunities;
+
+(2) assisting United States commercial providers in the efforts of those providers to conduct business with the United States Government;
+
+(3) acting as an industry advocate within the executive branch of the Federal Government to ensure that the Federal Government meet</akn:p></akn:content><akn:subsection eId="subsec_50702_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) There is established within the Department of Commerce an Office of Space Commerce.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50702_b"><akn:num>(b)</akn:num><akn:heading>Director.—</akn:heading><akn:content><akn:p>(b) The Office shall be headed by a Director, who shall be a senior executive and shall be compensated at a level in the Senior Executive Service under section 5382 of title 5 as determined by the Secretary of Commerce.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50702_c"><akn:num>(c)</akn:num><akn:heading>Functions of Office.—</akn:heading><akn:content><akn:p>(c) The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50702_d"><akn:num>(d)</akn:num><akn:heading>Duties of Director.—</akn:heading><akn:content><akn:p>(d) The primary responsibilities of the Director in carrying out the functions of the Office shall include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

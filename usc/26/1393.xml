@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1393" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1393/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1393/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1393"><akn:num>1393</akn:num><akn:heading>Definitions and special rules</akn:heading><akn:content><akn:p>§ 1393. Definitions and special rules(a) In generalFor purposes of this subchapter—(1) Appropriate SecretaryThe term “appropriate Secretary” means—(A) the Secretary of Housing and Urban Development in the case of any nominated area which is located in an urban area, and
+
+(B) the Secretary of Agriculture in the case of any nominated area which is located in a rural area.
+
+
+(2) Rural areaThe term “rural area” means any area which is—(A) outside of a metropolitan statistical area (within the meaning of section 143(k)(2)(B)), or
+
+(B) determined by the Secretary of Agriculture, after consultation with the Secretary of Commerce, to be a rural area.
+
+
+(3) Urban areaThe term “urban area” means an area which is not a rural area.
+
+
+(4) Special rules for Indian reservations(A) In generalNo empowerment zone or enterprise community may include any area within an Indian reservation.
+
+
+(B) Indian reservation definedThe term “Indian reservation” has the meaning given such term by section 168(j)(6).
+
+
+
+(5) Local governmentThe term “local government” means—(A) any county, city, town, township, parish, village, or other general purpose political subdivision of a State, and
+
+(B) any combination of political subdivisions described in subparagraph (A) recognized by the appropriate Secretary.
+
+
+(6) Nominated areaThe term “nominated area” means an area which is nominated by 1 or more local governments and the State or States in which it is located for designation under section 1391.
+
+
+(7) GovernmentsIf more than 1 State or local government seeks to nominate an area under this part, any reference to, or requirement of, this subchapter shall apply to all such governments.
+
+
+(8) Special ruleAn area shall be treated as nominated by a State and a local government if it is nominated by an economic development corporation chartered by the State.
+
+
+(9) Use of census dataPopulation and poverty rate shall be determined by the most recent decennial census data available.
+
+
+
+(b) Empowerment zone; ente</akn:p></akn:content><akn:subsection eId="subsec_1393_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For purposes of this subchapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1393_b"><akn:num>(b)</akn:num><akn:heading>Empowerment zone; enterprise community</akn:heading><akn:content><akn:p>(b) Empowerment zone; enterprise community For purposes of this title, the terms “empowerment zone” and “enterprise community” mean areas designated as such under section 1391.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

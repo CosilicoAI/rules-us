@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7603" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7603/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7603/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7603"><akn:num>7603</akn:num><akn:heading>Prescriber verification</akn:heading><akn:content><akn:p>§ 7603. Prescriber verification(a) Prescription requirementA seller may sell contact lenses only in accordance with a contact lens prescription for the patient that is—(1) presented to the seller by the patient or prescriber directly or by facsimile; or
+
+(2) verified by direct communication.
+
+
+(b) Record requirementA seller shall maintain a record of all direct communications referred to in subsection (a).
+
+
+(c) InformationWhen seeking verification of a contact lens prescription, a seller shall provide the prescriber with the following information:(1) Patient’s full name and address.
+
+(2) Contact lens power, manufacturer, base curve or appropriate designation, and diameter when appropriate.
+
+(3) Quantity of lenses ordered.
+
+(4) Date of patient request.
+
+(5) Date and time of verification request.
+
+(6) Name of contact person at seller’s company, including facsimile and telephone number.
+
+
+(d) Verification eventsA prescription is verified under this chapter only if one of the following occurs:(1) The prescriber confirms the prescription is accurate by direct communication with the seller.
+
+(2) The prescriber informs the seller that the prescription is inaccurate and provides the accurate prescription.
+
+(3) The prescriber fails to communicate with the seller within 8 business hours, or a similar time as defined by the Federal Trade Commission, after receiving from the seller the information described in subsection (c).
+
+
+(e) Invalid prescriptionIf a prescriber informs a seller before the deadline under subsection (d)(3) that the contact lens prescription is inaccurate, expired, or otherwise invalid, the seller shall not fill the prescription. The prescriber shall specify the basis for the inaccuracy or invalidity of the prescription. If the prescription communicated by the seller to the prescriber is inaccurate, the prescriber shall correct it.
+
+
+(f) No alterationA seller may not alter a contact lens prescription. Notwithstanding the preceding sentence, if the same cont</akn:p></akn:content><akn:subsection eId="subsec_7603_a"><akn:num>(a)</akn:num><akn:heading>Prescription requirement</akn:heading><akn:content><akn:p>(a) Prescription requirement A seller may sell contact lenses only in accordance with a contact lens prescription for the patient that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7603_b"><akn:num>(b)</akn:num><akn:heading>Record requirement</akn:heading><akn:content><akn:p>(b) Record requirement A seller shall maintain a record of all direct communications referred to in subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7603_c"><akn:num>(c)</akn:num><akn:heading>Information</akn:heading><akn:content><akn:p>(c) Information When seeking verification of a contact lens prescription, a seller shall provide the prescriber with the following information:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7603_d"><akn:num>(d)</akn:num><akn:heading>Verification events</akn:heading><akn:content><akn:p>(d) Verification events A prescription is verified under this chapter only if one of the following occurs:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7603_e"><akn:num>(e)</akn:num><akn:heading>Invalid prescription</akn:heading><akn:content><akn:p>(e) Invalid prescription If a prescriber informs a seller before the deadline under subsection (d)(3) that the contact lens prescription is inaccurate, expired, or otherwise invalid, the seller shall not fill the prescription. The prescriber shall specify the basis for the inaccuracy or invalidity of the prescription. If the prescription communicated by the seller to the prescriber is inaccurate, the prescriber shall correct it.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7603_f"><akn:num>(f)</akn:num><akn:heading>No alteration</akn:heading><akn:content><akn:p>(f) No alteration A seller may not alter a contact lens prescription. Notwithstanding the preceding sentence, if the same contact lens is manufactured by the same company and sold under multiple labels to individual providers, the seller may fill the prescription with a contact lens manufactured by that company under another label.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7603_g"><akn:num>(g)</akn:num><akn:heading>Direct communication</akn:heading><akn:content><akn:p>(g) Direct communication As used in this section, the term “direct communication” includes communication by telephone, facsimile, or electronic mail.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7006" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7006/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7006/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7006"><akn:num>7006</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 7006. Definitions
+For purposes of this subchapter:(1) ConsumerThe term “consumer” means an individual who obtains, through a transaction, products or services which are used primarily for personal, family, or household purposes, and also means the legal representative of such an individual.
+
+
+(2) ElectronicThe term “electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.
+
+
+(3) Electronic agentThe term “electronic agent” means a computer program or an electronic or other automated means used independently to initiate an action or respond to electronic records or performances in whole or in part without review or action by an individual at the time of the action or response.
+
+
+(4) Electronic recordThe term “electronic record” means a contract or other record created, generated, sent, communicated, received, or stored by electronic means.
+
+
+(5) Electronic signatureThe term “electronic signature” means an electronic sound, symbol, or process, attached to or logically associated with a contract or other record and executed or adopted by a person with the intent to sign the record.
+
+
+(6) Federal regulatory agencyThe term “Federal regulatory agency” means an agency, as that term is defined in section 552(f) of title 5.
+
+
+(7) InformationThe term “information” means data, text, images, sounds, codes, computer programs, software, databases, or the like.
+
+
+(8) PersonThe term “person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, public corporation, or any other legal or commercial entity.
+
+
+(9) RecordThe term “record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+
+(10) RequirementThe term “requirement” includes a prohibition.
+
+
+(11) Self-regulatory organizationThe term “self-regulatory</akn:p></akn:content><akn:subsection eId="subsec_7006_1"><akn:num>(1)</akn:num><akn:heading>Consumer</akn:heading><akn:content><akn:p>(1) Consumer The term “consumer” means an individual who obtains, through a transaction, products or services which are used primarily for personal, family, or household purposes, and also means the legal representative of such an individual.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_2"><akn:num>(2)</akn:num><akn:heading>Electronic</akn:heading><akn:content><akn:p>(2) Electronic The term “electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_3"><akn:num>(3)</akn:num><akn:heading>Electronic agent</akn:heading><akn:content><akn:p>(3) Electronic agent The term “electronic agent” means a computer program or an electronic or other automated means used independently to initiate an action or respond to electronic records or performances in whole or in part without review or action by an individual at the time of the action or response.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_4"><akn:num>(4)</akn:num><akn:heading>Electronic record</akn:heading><akn:content><akn:p>(4) Electronic record The term “electronic record” means a contract or other record created, generated, sent, communicated, received, or stored by electronic means.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_5"><akn:num>(5)</akn:num><akn:heading>Electronic signature</akn:heading><akn:content><akn:p>(5) Electronic signature The term “electronic signature” means an electronic sound, symbol, or process, attached to or logically associated with a contract or other record and executed or adopted by a person with the intent to sign the record.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_6"><akn:num>(6)</akn:num><akn:heading>Federal regulatory agency</akn:heading><akn:content><akn:p>(6) Federal regulatory agency The term “Federal regulatory agency” means an agency, as that term is defined in section 552(f) of title 5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_7"><akn:num>(7)</akn:num><akn:heading>Information</akn:heading><akn:content><akn:p>(7) Information The term “information” means data, text, images, sounds, codes, computer programs, software, databases, or the like.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_8"><akn:num>(8)</akn:num><akn:heading>Person</akn:heading><akn:content><akn:p>(8) Person The term “person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, public corporation, or any other legal or commercial entity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_9"><akn:num>(9)</akn:num><akn:heading>Record</akn:heading><akn:content><akn:p>(9) Record The term “record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7006_10"><akn:num>(10)</akn:num><akn:heading>Requirement</akn:heading><akn:content><akn:p>(10) Requirement The term “requirement” includes a prohibition.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/8/1376" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/8/1376/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/8/1376/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1376"><akn:num>1376</akn:num><akn:heading>Data on nonimmigrant overstay rates</akn:heading><akn:content><akn:p>§ 1376. Data on nonimmigrant overstay rates(a) Collection of dataNot later than the date that is 180 days after April 27, 1998, the Attorney General shall implement a program to collect data, for each fiscal year, regarding the total number of aliens within each of the classes of nonimmigrant aliens described in section 1101(a)(15) of this title whose authorized period of stay in the United States terminated during the previous fiscal year, but who remained in the United States notwithstanding such termination.
+
+
+(b) Annual reportNot later than June 30, 1999, and not later than June 30 of each year thereafter, the Attorney General shall submit an annual report to the Congress providing numerical estimates, for each country for the preceding fiscal year, of the number of aliens from the country who are described in subsection (a).
+
+
+(Pub. L. 105–173, § 2, Apr. 27, 1998, 112 Stat. 56.)
+
+Editorial Notes
+Codification
+Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Abolition of Immigration and Naturalization Service and Transfer of Functions
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1376_a"><akn:num>(a)</akn:num><akn:heading>Collection of data</akn:heading><akn:content><akn:p>(a) Collection of data Not later than the date that is 180 days after April 27, 1998, the Attorney General shall implement a program to collect data, for each fiscal year, regarding the total number of aliens within each of the classes of nonimmigrant aliens described in section 1101(a)(15) of this title whose authorized period of stay in the United States terminated during the previous fiscal year, but who remained in the United States notwithstanding such termination.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1376_b"><akn:num>(b)</akn:num><akn:heading>Annual report</akn:heading><akn:content><akn:p>(b) Annual report Not later than June 30, 1999, and not later than June 30 of each year thereafter, the Attorney General shall submit an annual report to the Congress providing numerical estimates, for each country for the preceding fiscal year, of the number of aliens from the country who are described in subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/200508" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/200508/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/200508/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_200508"><akn:num>200508</akn:num><akn:heading>Coordination of program</akn:heading><akn:content><akn:p>§ 200508. Coordination of program
+The Secretary shall—(1) coordinate the urban park and recreation recovery program with the total urban recovery effort and cooperate to the fullest extent possible with other Federal agencies and with State agencies that administer programs and policies affecting urban areas, including programs in housing, urban development, natural resources management, employment, transportation, community services, and voluntary action;
+
+(2) encourage maximum coordination of the program between State agencies and local applicants; and
+
+(3) require that local applicants include provisions for participation of community and neighborhood residents and for public-private coordination in recovery planning and project selection.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3186.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+20050816 U.S.C. 2510.Pub. L. 95–625, title X, § 1011, Nov. 10, 1978, 92 Stat. 3543.
+
+
+In subsection (a)(1), the word “departments” is omitted as being included in “agency”.</akn:p></akn:content><akn:subsection eId="subsec_200508_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) coordinate the urban park and recreation recovery program with the total urban recovery effort and cooperate to the fullest extent possible with other Federal agencies and with State agencies that administer programs and policies affecting urban areas, including programs in housing, urban development, natural resources management, employment, transportation, community services, and voluntary action;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_200508_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) encourage maximum coordination of the program between State agencies and local applicants; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_200508_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) require that local applicants include provisions for participation of community and neighborhood residents and for public-private coordination in recovery planning and project selection.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

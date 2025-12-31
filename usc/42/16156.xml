@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16156" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16156/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16156/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16156"><akn:num>16156</akn:num><akn:heading>Technical Advisory Committee</akn:heading><akn:content><akn:p>§ 16156. Technical Advisory Committee(a) EstablishmentThe Hydrogen Technical and Fuel Cell Advisory Committee is established to advise the Secretary on the programs and activities under this subchapter.
+
+
+(b) Membership(1) MembersThe Technical Advisory Committee shall be comprised of not fewer than 12 nor more than 25 members. The members shall be appointed by the Secretary to represent domestic industry, academia, professional societies, government agencies, Federal laboratories, previous advisory panels, and financial, environmental, and other appropriate organizations based on the Department’s assessment of the technical and other qualifications of Technical Advisory Committee members and the needs of the Technical Advisory Committee.
+
+
+(2) TermsThe term of a member of the Technical Advisory Committee shall not be more than 3 years. The Secretary may appoint members of the Technical Advisory Committee in a manner that allows the terms of the members serving at any time to expire at spaced intervals so as to ensure continuity in the functioning of the Technical Advisory Committee. A member of the Technical Advisory Committee whose term is expiring may be reappointed.
+
+
+(3) ChairpersonThe Technical Advisory Committee shall have a chairperson, who shall be elected by the members from among their number.
+
+
+
+(c) ReviewThe Technical Advisory Committee shall review and make recommendations to the Secretary on—(1) the implementation of programs and activities under this subchapter;
+
+(2) the safety, economical, and environmental consequences of technologies for the production, distribution, delivery, storage, or use of hydrogen energy and fuel cells; and
+
+(3) the plan under section 16153 of this title.
+
+
+(d) Response(1) Consideration of recommendationsThe Secretary shall consider, but need not adopt, any recommendations of the Technical Advisory Committee under subsection (c).
+
+
+(2) Biennial reportThe Secretary shall transmit a biennial report to Congress describing any r</akn:p></akn:content><akn:subsection eId="subsec_16156_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Hydrogen Technical and Fuel Cell Advisory Committee is established to advise the Secretary on the programs and activities under this subchapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16156_b"><akn:num>(b)</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>(b) Membership</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16156_c"><akn:num>(c)</akn:num><akn:heading>Review</akn:heading><akn:content><akn:p>(c) Review The Technical Advisory Committee shall review and make recommendations to the Secretary on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16156_d"><akn:num>(d)</akn:num><akn:heading>Response</akn:heading><akn:content><akn:p>(d) Response</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16156_e"><akn:num>(e)</akn:num><akn:heading>Support</akn:heading><akn:content><akn:p>(e) Support The Secretary shall provide resources necessary in the judgment of the Secretary for the Technical Advisory Committee to carry out its responsibilities under this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

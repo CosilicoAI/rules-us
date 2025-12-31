@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2229a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2229a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2229a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2229a"><akn:num>2229a</akn:num><akn:heading>Annual report on prepositioned materiel and equipment</akn:heading><akn:content><akn:p>§ 2229a. Annual report on prepositioned materiel and equipment(a) Annual Report Required.—Not later than the date of the submission of the President’s budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:(1) The level of fill for major end items of equipment and spare parts in each prepositioned set as of the end of the fiscal year covered by the report.
+
+(2) The material condition of equipment in the prepositioned stocks as of the end of such fiscal year, grouped by category or major end item.
+
+(3) A list of major end items of equipment drawn from the prepositioned stocks during such fiscal year and a description of how that equipment was used and whether it was returned to the stocks after being used.
+
+(4) A timeline for completely reconstituting any shortfall in the prepositioned stocks.
+
+(5) An estimate of the amount of funds required to completely reconstitute any shortfall in the prepositioned stocks and a description of the Secretary’s plan for carrying out such complete reconstitution.
+
+(6) A list of any operations plan affected by any shortfall in the prepositioned stocks and a description of any action taken to mitigate any risk that such a shortfall may create.
+
+(7) A list of any non-standard items slated for inclusion in the prepositioned stocks and a plan for funding the inclusion and sustainment of such items.
+
+(8) A list of any equipment used in support of contingency operations slated for retrograde and subsequent inclusion in the prepositioned stocks.
+
+(9) An efficiency strategy for limited shelf-life medical stock replacement.
+
+(10) The status of efforts to develop a joint strate</akn:p></akn:content><akn:subsection eId="subsec_2229a_a"><akn:num>(a)</akn:num><akn:heading>Annual Report Required.—</akn:heading><akn:content><akn:p>(a) Not later than the date of the submission of the President’s budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2229a_b"><akn:num>(b)</akn:num><akn:heading>Comptroller General Review.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

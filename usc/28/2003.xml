@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/2003" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/2003/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/2003/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2003"><akn:num>2003</akn:num><akn:heading>Marshal’s incapacity after levy on or sale of realty</akn:heading><akn:content><akn:p>§ 2003. Marshal’s incapacity after levy on or sale of realty
+Whenever a United States marshal dies, is removed from office, or the term of his commission expires, after levying on realty or any interest therein under a writ of execution issued by a court of the United States, and before sale or other final disposition thereof, like process shall issue to the succeeding marshal and the same proceedings shall be had as if such contingency had not occurred.
+Whenever any such contingency arises after a marshal has sold any realty or interest therein and before a deed is executed, the court may, on application by the purchaser, or the plaintiff in whose action the sale was made, setting forth the facts of the case and the reason why the title was not perfected by such marshal, order the succeeding marshal to perfect the title and execute a deed to the purchaser, upon payment of the purchase money and unpaid costs.
+(June 25, 1948, ch. 646, 62 Stat. 959; May 24, 1949, ch. 139, § 101, 63 Stat. 104.)
+
+Historical and Revision Notes
+1948 ActBased on title 28, U.S.C., 1940 ed., § 850 (R.S. § 994).
+Word “realty” was substituted for “lands, tenements, or hereditaments” in two places, the two terms being synonymous. (See Black’s Law Dictionary, 3d Ed., p. 1969.)
+Word “action” was substituted for “suit”, in view of Rule 2 of the Federal Rules of Civil Procedure, prescribing but one form of action.
+Changes were made in phraseology.
+
+1949 ActThis section corrects a typographical error in section 2003 of title 28, U.S.C.
+
+Editorial Notes
+Amendments1949—Act May 24, 1949, corrected spelling of “realty” in first par.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

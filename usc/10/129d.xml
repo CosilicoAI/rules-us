@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/129d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/129d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/129d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_129d"><akn:num>129d</akn:num><akn:heading>Disclosure to litigation support contractors</akn:heading><akn:content><akn:p>§ 129d. Disclosure to litigation support contractors(a) Disclosure Authority.—An officer or employee of the Department of Defense may disclose sensitive information to a litigation support contractor if—(1) the disclosure is for the sole purpose of providing litigation support to the Government in the form of administrative, technical, or professional services during or in anticipation of litigation; and
+
+(2) under a contract with the Government, the litigation support contractor agrees to and acknowledges—(A) that sensitive information furnished will be accessed and used only for the purposes stated in the relevant contract;
+
+(B) that the contractor will take all precautions necessary to prevent disclosure of the sensitive information provided to the contractor;
+
+(C) that such sensitive information provided to the contractor under the authority of this section shall not be used by the contractor to compete against a third party for Government or non-Government contracts; and
+
+(D) that the violation of subparagraph (A), (B), or (C) is a basis for the Government to terminate the litigation support contract of the contractor.
+
+
+
+(b) Definitions.—In this section:(1) The term “litigation support contractor” means a contractor (including an expert or technical consultant) under contract with the Department of Defense to provide litigation support.
+
+(2) The term “sensitive information” means confidential commercial, financial, or proprietary information, technical data, or other privileged information.
+
+
+(Added Pub. L. 112–81, div. A, title VIII, § 802(a)(1), Dec. 31, 2011, 125 Stat. 1484.)</akn:p></akn:content><akn:subsection eId="subsec_129d_a"><akn:num>(a)</akn:num><akn:heading>Disclosure Authority.—</akn:heading><akn:content><akn:p>(a) An officer or employee of the Department of Defense may disclose sensitive information to a litigation support contractor if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129d_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

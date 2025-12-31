@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/860a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/860a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/860a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_860a"><akn:num>860a</akn:num><akn:heading>Art. 60a. Limited authority to act on sentence in specified post-trial circumstances</akn:heading><akn:content><akn:p>§ 860a. Art. 60a. Limited authority to act on sentence in specified post-trial circumstances(a) In General.—(1) The convening authority of a general or special court-martial described in paragraph (2)—(A) may act on the sentence of the court-martial only as provided in subsection (b), (c), or (d); and
+
+(B) may not act on the findings of the court-martial.
+
+
+(2) The courts-martial referred to in paragraph (1) are the following:(A) A general or special court-martial in which the maximum sentence of confinement established under subsection (a) of section 856 of this title (article 56) for any offense of which the accused is found guilty is more than two years.
+
+(B) A general or special court-martial in which the total of the sentences of confinement imposed, running consecutively, is more than six months.
+
+(C) A general or special court-martial in which the sentence imposed includes a dismissal, dishonorable discharge, or bad-conduct discharge.
+
+(D) A general or special court-martial in which the accused is found guilty of a violation of subsection (a) or (b) of section 920 of this title (article 120), section 920b of this title (article 120b), or such other offense as the Secretary of Defense may specify by regulation.
+
+
+(3) Except as provided in subsection (d), the convening authority may act under this section only before entry of judgment.
+
+(4) Under regulations prescribed by the Secretary concerned, a commissioned officer commanding for the time being, a successor in command, or any person exercising general court-martial jurisdiction may act under this section in place of the convening authority.
+
+
+(b) Reduction, Commutation, and Suspension of Sentences Generally.—(1) Except as provided in subsection (c) or (d), the convening authority may not reduce, commute, or suspend any of the following sentences:(A) A sentence of confinement, if the total period of confinement imposed for all offenses involved, running consecutively, is greater than six months.
+
+(B) A sente</akn:p></akn:content><akn:subsection eId="subsec_860a_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860a_b"><akn:num>(b)</akn:num><akn:heading>Reduction, Commutation, and Suspension of Sentences Generally.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860a_c"><akn:num>(c)</akn:num><akn:heading>Suspension of Certain Sentences Upon Recommendation of Military Judge.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860a_d"><akn:num>(d)</akn:num><akn:heading>Reduction of Sentence for Substantial Assistance by Accused.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860a_e"><akn:num>(e)</akn:num><akn:heading>Submissions by Accused and Victim.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860a_f"><akn:num>(f)</akn:num><akn:heading>Decision of Convening Authority.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

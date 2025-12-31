@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5361" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5361/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5361/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5361"><akn:num>5361</akn:num><akn:heading>Reports by and examinations of nonbank financial companies by the Board of Governors</akn:heading><akn:content><akn:p>§ 5361. Reports by and examinations of nonbank financial companies by the Board of Governors(a) Reports(1) In generalThe Board of Governors may require each nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, to submit reports under oath, to keep the Board of Governors informed as to—(A) the financial condition of the company or subsidiary, systems of the company or subsidiary for monitoring and controlling financial, operating, and other risks, and the extent to which the activities and operations of the company or subsidiary pose a threat to the financial stability of the United States; and
+
+(B) compliance by the company or subsidiary with the requirements of this subchapter.
+
+
+(2) Use of existing reports and informationIn carrying out subsection (a), the Board of Governors shall, to the fullest extent possible, use—(A) reports and supervisory information that a nonbank financial company or subsidiary thereof has been required to provide to other Federal or State regulatory agencies;
+
+(B) information otherwise obtainable from Federal or State regulatory agencies;
+
+(C) information that is otherwise required to be reported publicly; and
+
+(D) externally audited financial statements of such company or subsidiary.
+
+
+(3) AvailabilityUpon the request of the Board of Governors, a nonbank financial company supervised by the Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
+
+
+(4) Data standards for reports under this subsection(A) In generalThe Board of Governors shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board of Governors under this subsection by any nonbank financial company supervised by the Board of Governors or any subsidiary thereof.
+
+
+(B) ConsistencyThe data standards required under subparagraph (A) shall incorporate, and ensure compatibility with (to</akn:p></akn:content><akn:subsection eId="subsec_5361_a"><akn:num>(a)</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>(a) Reports</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5361_b"><akn:num>(b)</akn:num><akn:heading>Examinations</akn:heading><akn:content><akn:p>(b) Examinations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5361_c"><akn:num>(c)</akn:num><akn:heading>Coordination with primary financial regulatory agency</akn:heading><akn:content><akn:p>(c) Coordination with primary financial regulatory agency The Board of Governors shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

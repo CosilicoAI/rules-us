@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2731" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2731/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2731/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2731"><akn:num>2731</akn:num><akn:heading>Worker protection at nuclear weapons facilities</akn:heading><akn:content><akn:p>§ 2731. Worker protection at nuclear weapons facilities(a) Training grant program(1) The Secretary of Energy is authorized to award grants to organizations referred to in paragraph (2) in order for such organizations—(A) to provide training and education to persons who are or may be engaged in hazardous substance response or emergency response at Department of Energy nuclear weapons facilities; and
+
+(B) to develop curricula for such training and education.
+
+
+(2)(A) Subject to subparagraph (B), the Secretary is authorized to award grants under paragraph (1) to non-profit organizations that have demonstrated (as determined by the Secretary) capabilities in—(i) implementing and conducting effective training and education programs relating to the general health and safety of workers; and
+
+(ii) identifying, and involving in training, groups of workers whose duties include hazardous substance response or emergency response.
+
+
+(B) The Secretary shall give preference in the award of grants under this section to employee organizations and joint labor-management training programs that are grant recipients under section 9660a of title 42.
+
+
+(3) An organization awarded a grant under paragraph (1) shall carry out training, education, or curricula development pursuant to Department of Energy orders relating to employee safety training, including orders numbered 5480.4 and 5480.11.
+
+
+(b) Enforcement of employee safety standards(1) Subject to paragraph (2), the Secretary shall assess civil penalties against any contractor of the Department of Energy who (as determined by the Secretary)—(A) employs individuals who are engaged in hazardous substance response or emergency response at Department of Energy nuclear weapons facilities; and
+
+(B) fails (i) to provide for the training of such individuals to carry out such hazardous substance response or emergency response, or (ii) to certify to the Department of Energy that such employees are adequately trained for such response pursuant to </akn:p></akn:content><akn:subsection eId="subsec_2731_a"><akn:num>(a)</akn:num><akn:heading>Training grant program</akn:heading><akn:content><akn:p>(a) Training grant program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2731_b"><akn:num>(b)</akn:num><akn:heading>Enforcement of employee safety standards</akn:heading><akn:content><akn:p>(b) Enforcement of employee safety standards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2731_c"><akn:num>(c)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(c) Regulations The Secretary shall prescribe regulations to carry out this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2731_d"><akn:num>(d)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(d) Definitions For the purposes of this section, the term “hazardous substance” includes radioactive waste and mixed radioactive and hazardous waste.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

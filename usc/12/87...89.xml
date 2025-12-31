@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/87...89" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/87...89/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/87...89/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_87___89"><akn:num>87...89</akn:num><akn:heading>Repealed. Pub. L. 103–325, title VI, § 602(e)(2)–(4), Sept. 23, 1994, 108 Stat. 2291</akn:heading><akn:content><akn:p>§§ 87 to 89. Repealed. Pub. L. 103–325, title VI, § 602(e)(2)–(4), Sept. 23, 1994, 108 Stat. 2291
+
+Section 87, R.S. § 5203, related to restriction on use by bank of its circulating notes.
+
+
+Section 88, R.S. § 5206, related to restriction on use by bank of notes of other banks.
+
+
+Section 89, R.S. § 5196, related to duty of bank to receive circulating notes of other banks in payment of debts.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/107" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/107/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/107/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_107"><akn:num>107</akn:num><akn:heading>Penalty for false information</akn:heading><akn:content><akn:p>§ 107. Penalty for false information
+If any person applies to any officer designated by the Secretary of the Interior to enter any land whatever, and the officer knowingly and falsely informs the person so applying that the same has already been entered, and refuses to permit the person so applying to enter the same, such officer shall be liable therefor, to the person so applying, for $5 for each acre of land which the person so applying offered to enter, to be recovered by action of debt in any court of record having jurisdiction of the amount.
+(R.S. § 2247; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+Editorial Notes
+Codification
+R.S. § 2247 derived from act July 4, 1836, ch. 352, § 13, 5 Stat. 112.
+
+Executive Documents
+
+Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+References to “register” changed to “officer designated by the Secretary of the Interior” and “officer” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

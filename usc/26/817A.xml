@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/817A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/817A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/817A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_817A"><akn:num>817A</akn:num><akn:heading>Special rules for modified guaranteed contracts</akn:heading><akn:content><akn:p>§ 817A. Special rules for modified guaranteed contracts(a) Computation of reservesIn the case of a modified guaranteed contract, clause (ii) of section 807(e)(1)(A) shall not apply.
+
+
+(b) Segregated assets under modified guaranteed contracts marked to market(1) In generalIn the case of any life insurance company, for purposes of this subtitle—(A) Any gain or loss with respect to a segregated asset shall be treated as ordinary income or loss, as the case may be.
+
+(B) If any segregated asset is held by such company as of the close of any taxable year—(i) such company shall recognize gain or loss as if such asset were sold for its fair market value on the last business day of such taxable year, and
+
+(ii) any such gain or loss shall be taken into account for such taxable year.
+
+
+Proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account under the preceding sentence. The Secretary may provide by regulations for the application of this subparagraph at times other than the times provided in this subparagraph.
+
+
+(2) Segregated assetFor purposes of paragraph (1), the term “segregated asset” means any asset held as part of a segregated account referred to in subsection (d)(1) under a modified guaranteed contract.
+
+
+
+(c) Special rule in computing life insurance reservesFor purposes of applying section 816(b)(1)(A) to any modified guaranteed contract, an assumed rate of interest shall include a rate of interest determined, from time to time, with reference to a market rate of interest.
+
+
+(d) Modified guaranteed contract definedFor purposes of this section, the term “modified guaranteed contract” means a contract not described in section 817—(1) all or part of the amounts received under which are allocated to an account which, pursuant to State law or regulation, is segregated from the general asset accounts of the company and is valued from time to time with reference to market values,
+
+(2) which—(A) provides for </akn:p></akn:content><akn:subsection eId="subsec_817A_a"><akn:num>(a)</akn:num><akn:heading>Computation of reserves</akn:heading><akn:content><akn:p>(a) Computation of reserves In the case of a modified guaranteed contract, clause (ii) of section 807(e)(1)(A) shall not apply.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_817A_b"><akn:num>(b)</akn:num><akn:heading>Segregated assets under modified guaranteed contracts marked to market</akn:heading><akn:content><akn:p>(b) Segregated assets under modified guaranteed contracts marked to market</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_817A_c"><akn:num>(c)</akn:num><akn:heading>Special rule in computing life insurance reserves</akn:heading><akn:content><akn:p>(c) Special rule in computing life insurance reserves For purposes of applying section 816(b)(1)(A) to any modified guaranteed contract, an assumed rate of interest shall include a rate of interest determined, from time to time, with reference to a market rate of interest.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_817A_d"><akn:num>(d)</akn:num><akn:heading>Modified guaranteed contract defined</akn:heading><akn:content><akn:p>(d) Modified guaranteed contract defined For purposes of this section, the term “modified guaranteed contract” means a contract not described in section 817— If only a portion of a contract is not described in section 817, such portion shall be treated for purposes of this section as a separate contract.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_817A_e"><akn:num>(e)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(e) Regulations The Secretary may prescribe regulations—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

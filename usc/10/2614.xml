@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2614" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2614/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2614/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2614"><akn:num>2614</akn:num><akn:heading>Emergency communications equipment: acceptance from local public safety agencies for temporary use r</akn:heading><akn:content><akn:p>§ 2614. Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters(a) Authority to Accept Equipment.—(1) Subject to subsection (c), the Secretary concerned—
+
+(1) may accept communications equipment for use in coordinating joint response and recovery operations with public safety agencies in the event of a disaster; and
+
+(2) may accept services related to the operation and maintenance of such equipment.
+
+
+(b) Regulations.—The authority under subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.
+
+(c) Limitations.—(1) Equipment may be accepted under subsection (a)(1) only to the extent that communications equipment under the control of the Secretary concerned at the potential disaster response site is inadequate to meet military requirements for communicating with public safety agencies during the period of response to the disaster.
+
+(2) Services may be accepted under subsection (a)(2) related to the operation and maintenance of communications equipment only to the extent that the necessary capabilities are not available to the military commander having custody of the equipment.
+
+
+(d) Liability.—A person providing services accepted under this section may not be considered, by reason of the provision of such services, to be an officer, employee, or agent of the United States for any purpose.
+
+(Added Pub. L. 108–375, div. A, title X, § 1051(a), Oct. 28, 2004, 118 Stat. 2053, § 2613; renumbered § 2614 and amended Pub. L. 109–364, div. A, title X, § 1071(a)(19)(A), Oct. 17, 2006, 120 Stat. 2399.)
+
+Editorial Notes
+Amendments2006—Pub. L. 109–364 renumbered section 2613 of this title as this section and redesignated the second subsec. (c) as (d).</akn:p></akn:content><akn:subsection eId="subsec_2614_a"><akn:num>(a)</akn:num><akn:heading>Authority to Accept Equipment.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2614_b"><akn:num>(b)</akn:num><akn:heading>Regulations.—</akn:heading><akn:content><akn:p>(b) The authority under subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2614_c"><akn:num>(c)</akn:num><akn:heading>Limitations.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2614_d"><akn:num>(d)</akn:num><akn:heading>Liability.—</akn:heading><akn:content><akn:p>(d) A person providing services accepted under this section may not be considered, by reason of the provision of such services, to be an officer, employee, or agent of the United States for any purpose.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

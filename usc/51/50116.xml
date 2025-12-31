@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/50116" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/50116/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/50116/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50116"><akn:num>50116</akn:num><akn:heading>Commercial technology transfer program</akn:heading><akn:content><akn:p>§ 50116. Commercial technology transfer program(a) In General.—The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector (“spinning out”) as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community, while protecting national security.
+
+(b) Program Structure.—In carrying out the program described in subsection (a), the Administrator shall provide program participants with at least 45 days notice of any proposed changes to the structure of the Administration’s technology transfer and commercialization organizations that is in effect as of December 30, 2005.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3399; Pub. L. 115–10, title VIII, § 829, Mar. 21, 2017, 131 Stat. 66.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5011642 U.S.C. 16811.Pub. L. 109–155, title VI, § 621, Dec. 30, 2005, 119 Stat. 2935.
+
+
+This section restates provisions originally enacted as part of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895), and not as part of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843), which is generally restated in this chapter.
+In subsection (a), in the last sentence, the word “Administration” is substituted for “agency” for clarity and because of the definition of “Administration” added by section 10101 of title 51.
+In subsection (b), the date “December 30, 2005” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Spac</akn:p></akn:content><akn:subsection eId="subsec_50116_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector (“spinning out”) as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community, while protecting national security.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50116_b"><akn:num>(b)</akn:num><akn:heading>Program Structure.—</akn:heading><akn:content><akn:p>(b) In carrying out the program described in subsection (a), the Administrator shall provide program participants with at least 45 days notice of any proposed changes to the structure of the Administration’s technology transfer and commercialization organizations that is in effect as of December 30, 2005.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

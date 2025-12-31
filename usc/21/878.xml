@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/878" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/878/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/878/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_878"><akn:num>878</akn:num><akn:heading>Powers of enforcement personnel</akn:heading><akn:content><akn:p>§ 878. Powers of enforcement personnel(a) Any officer or employee of the Drug Enforcement Administration or any State, tribal, or local law enforcement officer designated by the Attorney General may—(1) carry firearms;
+
+(2) execute and serve search warrants, arrest warrants, administrative inspection warrants, subpenas, and summonses issued under the authority of the United States;
+
+(3) make arrests without warrant (A) for any offense against the United States committed in his presence, or (B) for any felony, cognizable under the laws of the United States, if he has probable cause to believe that the person to be arrested has committed or is committing a felony;
+
+(4) make seizures of property pursuant to the provisions of this subchapter; and
+
+(5) perform such other law enforcement duties as the Attorney General may designate.
+
+
+(b) State and local law enforcement officers performing functions under this section shall not be deemed Federal employees and shall not be subject to provisions of law relating to Federal employees, except that such officers shall be subject to section 3374(c) of title 5.
+
+(Pub. L. 91–513, title II, § 508, Oct. 27, 1970, 84 Stat. 1273; Pub. L. 96–132, § 16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 99–570, title I, § 1869, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, § 86, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, § 232(d), July 29, 2010, 124 Stat. 2278.)
+
+Editorial Notes
+Amendments2010—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State” in introductory provisions.
+1986—Pub. L. 99–570 and Pub. L. 99–646 amended section substantially identically designating existing provisions as subsec. (a) and adding subsec. (b), with the exception of the amendment of subsec. (a) for which Pub. L. 99–570 directed the insertion of “or (with respect to offenses under this subchapter or subchapter II of this chapter) any State or local law enforcement officer” and Pub. L. 99–646 directed the insertion of “or any State or local </akn:p></akn:content><akn:subsection eId="subsec_878_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Any officer or employee of the Drug Enforcement Administration or any State, tribal, or local law enforcement officer designated by the Attorney General may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_878_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) State and local law enforcement officers performing functions under this section shall not be deemed Federal employees and shall not be subject to provisions of law relating to Federal employees, except that such officers shall be subject to section 3374(c) of title 5.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

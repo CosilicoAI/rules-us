@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/377" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/377/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/377/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_377"><akn:num>377</akn:num><akn:heading>Penalties</akn:heading><akn:content><akn:p>§ 377. Penalties(a) Criminal penalties(1) In generalExcept as provided in paragraph (2), whoever knowingly violates this chapter shall be imprisoned for not more than 3 years, fined under title 18, or both.
+
+
+(2) Exceptions(A) GovernmentsParagraph (1) shall not apply to a State, local, or tribal government.
+
+
+(B) Delivery violationsA common carrier or independent delivery service, or employee of a common carrier or independent delivery service, shall be subject to criminal penalties under paragraph (1) for a violation of section 376a(e) of this title only if the violation is committed knowingly—(i) as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value; or
+
+(ii) for the purpose of assisting a delivery seller to violate, or otherwise evading compliance with, section 376a of this title.
+
+
+
+
+(b) Civil penalties(1) In generalExcept as provided in paragraph (3), whoever violates this chapter shall be subject to a civil penalty in an amount not to exceed—(A) in the case of a delivery seller, the greater of—(i) $5,000 in the case of the first violation, or $10,000 for any other violation; or
+
+(ii) for any violation, 2 percent of the gross sales of cigarettes or smokeless tobacco of the delivery seller during the 1-year period ending on the date of the violation.
+
+
+(B) in the case of a common carrier or other delivery service, $2,500 in the case of a first violation, or $5,000 for any violation within 1 year of a prior violation.
+
+
+(2) Relation to other penaltiesA civil penalty imposed under paragraph (1) for a violation of this chapter shall be imposed in addition to any criminal penalty under subsection (a) and any other damages, equitable relief, or injunctive relief awarded by the court, including the payment of any unpaid taxes to the appropriate Federal, State, local, or tribal governments.
+
+
+(3) Exceptions(A) Delivery violationsAn employee of a common carrier or independent delivery service shall be sub</akn:p></akn:content><akn:subsection eId="subsec_377_a"><akn:num>(a)</akn:num><akn:heading>Criminal penalties</akn:heading><akn:content><akn:p>(a) Criminal penalties</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_377_b"><akn:num>(b)</akn:num><akn:heading>Civil penalties</akn:heading><akn:content><akn:p>(b) Civil penalties</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

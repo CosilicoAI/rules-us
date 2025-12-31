@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/4409" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/4409/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/4409/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4409"><akn:num>4409</akn:num><akn:heading>Report to Congress</akn:heading><akn:content><akn:p>§ 4409. Report to Congress
+The Secretary shall report to the appropriate Committees on the implementation of this chapter. The report shall include—(1) a biennial assessment of—(A) the estimated number of acres of wetlands and habitat for waterfowl and other migratory birds that were restored, protected, or enhanced during such two-year period by Federal, State, and local agencies and other entities in the United States, Canada, and Mexico;
+
+(B) trends in the population size and distribution of North American migratory birds;
+
+(C) the status of efforts to establish agreements with nations in the Western Hemisphere pursuant to section 4413 of this title; and
+
+(D) wetlands conservation projects funded under this chapter, listed and identified by type, conservation mechanism (such as acquisition, easement, or lease), location, and duration; and
+
+
+(2) an annual assessment of the status of wetlands conservation projects, including an accounting of expenditures by Federal, State, and other United States entities, and expenditures by Canadian and Mexican sources to carry out these projects.
+
+(Pub. L. 101–233, § 10, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, § 2(b), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, § 8(a)(12), (13), Dec. 2, 2002, 116 Stat. 2448.)
+
+Editorial Notes
+
+References in TextSection 4413 of this title, referred to in par. (1)(C), was in the original a reference to section 16 of Pub. L. 101–233 which enacted section 4413 of this title and amended section 2912 of this title.
+
+Amendments2002—Par. (1)(C). Pub. L. 107–308, § 8(a)(12), substituted “Western Hemisphere” for “western hemisphere” and made technical amendment to reference in original act which appears in text as reference to section 4413 of this title.
+Par. (1)(D). Pub. L. 107–308, § 8(a)(13), substituted “; and” for period at end.
+1994—Par. (1)(D). Pub. L. 103–375 added subpar. (D).</akn:p></akn:content><akn:subsection eId="subsec_4409_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) a biennial assessment of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4409_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) an annual assessment of the status of wetlands conservation projects, including an accounting of expenditures by Federal, State, and other United States entities, and expenditures by Canadian and Mexican sources to carry out these projects.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

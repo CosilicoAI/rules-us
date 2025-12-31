@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10101"><akn:num>10101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 10101. Definitions
+For purposes of this chapter:(1) The term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+(2) The term “affected Indian tribe” means any Indian tribe—(A) within whose reservation boundaries a monitored retrievable storage facility, test and evaluation facility, or a repository for high-level radioactive waste or spent fuel is proposed to be located;
+
+(B) whose federally defined possessory or usage rights to other lands outside of the reservation’s boundaries arising out of congressionally ratified treaties may be substantially and adversely affected by the locating of such a facility: Provided, That the Secretary of the Interior finds, upon the petition of the appropriate governmental officials of the tribe, that such effects are both substantial and adverse to the tribe; 11 So in original. The semicolon probably should be a period.
+
+
+(3) The term “atomic energy defense activity” means any activity of the Secretary performed in whole or in part in carrying out any of the following functions:(A) naval reactors development;
+
+(B) weapons activities including defense inertial confinement fusion;
+
+(C) verification and control technology;
+
+(D) defense nuclear materials production;
+
+(E) defense nuclear waste and materials by-products management;
+
+(F) defense nuclear materials security and safeguards and security investigations; and
+
+(G) defense research and development.
+
+
+(4) The term “candidate site” means an area, within a geologic and hydrologic system, that is recommended by the Secretary under section 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.
+
+(5) The term “civilian nuclear activity” means any atomic energy activity other than an atomic energy defense activity.
+
+(6) The term “civilian nuclear power reactor” means a civilian nuclear powerplant required to </akn:p></akn:content><akn:subsection eId="subsec_10101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “Administrator” means the Administrator of the Environmental Protection Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “affected Indian tribe” means any Indian tribe—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “atomic energy defense activity” means any activity of the Secretary performed in whole or in part in carrying out any of the following functions:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The term “candidate site” means an area, within a geologic and hydrologic system, that is recommended by the Secretary under section 10132 of this title for site characterization, approved by the President under section 10132 of this title for site characterization, or undergoing site characterization under section 10133 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The term “civilian nuclear activity” means any atomic energy activity other than an atomic energy defense activity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The term “civilian nuclear power reactor” means a civilian nuclear powerplant required to be licensed under section 2133 or 2134(b) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The term “Commission” means the Nuclear Regulatory Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) The term “Department” means the Department of Energy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) The term “disposal” means the emplacement in a repository of high-level radioactive waste, spent nuclear fuel, or other highly radioactive material with no foreseeable intent of recovery, whether or not such emplacement permits the recovery of such waste.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10101_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) The terms “disposal package” and “package” mean the primary container that holds, and is in contact with, solidified high-level radioactive waste, spent nuclear fuel, or other radioactive materials, and any overpacks that are emplaced at a repository.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

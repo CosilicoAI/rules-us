@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/80103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/80103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/80103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_80103"><akn:num>80103</akn:num><akn:heading>Property on Florida coast to be taken to port of entry</akn:heading><akn:content><akn:p>§ 80103. Property on Florida coast to be taken to port of entry(a) In General.—Property taken from a wreck, the sea, or a key or shoal, on the coast of Florida and within the jurisdiction of the United States, shall be brought to a port of entry of the United States.
+
+(b) Seizure and Forfeiture.—A vessel transporting property described in subsection (a) to a foreign port may be seized by, and forfeited to, the United States Government. A forfeiture under this subsection accrues half to the informer and half to the Government.
+
+(Pub. L. 109–304, § 11, Oct. 6, 2006, 120 Stat. 1690.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+8010346 App.:722.R.S. § 4239.
+ 46 App.:723.R.S. § 4240.
+
+
+In subsection (a), the words “of any description whatsoever” are omitted as unnecessary.
+In subsection (b), the words “transporting property described in subsection (a) of this section” are substituted for “which shall be engaged or employed in carrying or transporting any property whatsoever, taken from any wreck, from the sea, or from any of the keys or shoals, within the jurisdiction of the United States, on the coast of Florida” to eliminate unnecessary words. The words “may be seized by, and forfeited to, the United States Government” are substituted for “shall . . . be forfeited” for consistency in the revised title. The words “together with her tackle, apparel, and furniture” are omitted as unnecessary. The words “accrues half to the informer and half to the Government” are substituted for “one moiety to the informer and the other to the United States” to use more commonly understood language.</akn:p></akn:content><akn:subsection eId="subsec_80103_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Property taken from a wreck, the sea, or a key or shoal, on the coast of Florida and within the jurisdiction of the United States, shall be brought to a port of entry of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80103_b"><akn:num>(b)</akn:num><akn:heading>Seizure and Forfeiture.—</akn:heading><akn:content><akn:p>(b) A vessel transporting property described in subsection (a) to a foreign port may be seized by, and forfeited to, the United States Government. A forfeiture under this subsection accrues half to the informer and half to the Government.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

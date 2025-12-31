@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/488c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/488c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/488c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_488c"><akn:num>488c</akn:num><akn:heading>Administrative provisions</akn:heading><akn:content><akn:p>§ 488c. Administrative provisions(a) Cooperative agreementsThe Secretary—(1) may enter into a cooperative agreement with the Secretary of Agriculture, or the head of any State department of agriculture or its designee involved in agricultural regulation, in consultation with the State agency responsible for homeland security, to carry out the provisions of this part; and
+
+(2) wherever possible, shall seek to cooperate with State agencies or their designees that oversee ammonium nitrate facility operations when seeking cooperative agreements to implement the registration and enforcement provisions of this part.
+
+
+(b) Delegation(1) AuthorityThe Secretary may delegate to a State the authority to assist the Secretary in the administration and enforcement of this part.
+
+
+(2) Delegation requiredAt the request of a Governor of a State, the Secretary shall delegate to that State the authority to carry out functions under sections 488a and 488b of this title, if the Secretary determines that the State is capable of satisfactorily carrying out such functions.
+
+
+(3) FundingSubject to the availability of appropriations, if the Secretary delegates functions to a State under this subsection, the Secretary shall provide to that State sufficient funds to carry out the delegated functions.
+
+
+
+(c) Provision of guidance and notification materials to ammonium nitrate facilities(1) GuidanceThe Secretary shall make available to each owner of an ammonium nitrate facility registered under section 488a(c)(1) of this title guidance on—(A) the identification of suspicious ammonium nitrate purchases or transfers or attempted purchases or transfers;
+
+(B) the appropriate course of action to be taken by the ammonium nitrate facility owner with respect to such a purchase or transfer or attempted purchase or transfer, including—(i) exercising the right of the owner of the ammonium nitrate facility to decline sale of ammonium nitrate; and
+
+(ii) notifying appropriate law enforcement entities; and
+
+
+(</akn:p></akn:content><akn:subsection eId="subsec_488c_a"><akn:num>(a)</akn:num><akn:heading>Cooperative agreements</akn:heading><akn:content><akn:p>(a) Cooperative agreements The Secretary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_488c_b"><akn:num>(b)</akn:num><akn:heading>Delegation</akn:heading><akn:content><akn:p>(b) Delegation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_488c_c"><akn:num>(c)</akn:num><akn:heading>Provision of guidance and notification materials to ammonium nitrate facilities</akn:heading><akn:content><akn:p>(c) Provision of guidance and notification materials to ammonium nitrate facilities</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

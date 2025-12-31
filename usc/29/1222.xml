@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1222" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1222/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1222/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1222"><akn:num>1222</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>§ 1222. Duties(a) The Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall, within 24 months after September 2, 1974, make a full study and review of—(1) the effect of the requirements of section 411 of title 26 and of section 1053 of this title to determine the extent of discrimination, if any, among employees in various age groups resulting from the application of such requirements;
+
+(2) means of providing for the portability of pension rights among different pension plans;
+
+(3) the appropriate treatment under subchapter III of this chapter (relating to termination insurance) of plans established and maintained by small employers;
+
+(4) the broadening of stock ownership, particularly with regard to employee stock ownership plans (as defined in section 4975(e)(7) of title 26 and section 1107(d)(6) of this title) and all other alternative methods for broadening stock ownership to the American labor force and others;
+
+(5) the effects and desirability of the Federal preemption of State and local law with respect to matters relating to pension and similar plans; and
+
+(6) such other matter as any of the committees referred to in section 1221 of this title may refer to it.
+
+
+(b) The Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall report the results of its study and review to each of the committees referred to in section 1221 of this title.
+
+(Pub. L. 93–406, title III, § 3022, Sept. 2, 1974, 88 Stat. 999; Pub. L. 94–455, title VIII, § 803(i)(1), (2)(A)(iii), Oct. 4, 1976, 90 Stat. 1590, 1591; Pub. L. 101–239, title VII, § 7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+
+Editorial Notes
+Amendments1989—Subsec. (a)(1), (4). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1976—Subsec. (a). Pub. L. 94–455, § 803(i)(1), (2)(A)(iii), substituted “Joint Pension, Profit-Sharing, </akn:p></akn:content><akn:subsection eId="subsec_1222_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall, within 24 months after September 2, 1974, make a full study and review of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1222_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall report the results of its study and review to each of the committees referred to in section 1221 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

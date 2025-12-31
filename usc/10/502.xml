@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_502"><akn:num>502</akn:num><akn:heading>Enlistment oath: who may administer</akn:heading><akn:content><akn:p>§ 502. Enlistment oath: who may administer(a) Enlistment Oath.—Each person enlisting in an armed force shall take the following oath:“I, __________, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God.”
+
+
+(b) Who May Administer.—The oath may be taken before the President, the Vice-President, the Secretary of Defense, any commissioned officer, or any other person designated under regulations prescribed by the Secretary of Defense.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 17, § 501; Pub. L. 87–751, § 1, Oct. 5, 1962, 76 Stat. 748; renumbered § 502, Pub. L. 90–235, § 2(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; Pub. L. 101–189, div. A, title VI, § 653(a)(1), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 109–364, div. A, title V, § 595(a), Oct. 17, 2006, 120 Stat. 2235.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+50150:737.May 5, 1950, ch. 169, § 8, 64 Stat. 146.
+
+
+The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “of any armed force” are inserted in the last sentence, since they are necessarily implied by their use in the source statute.
+
+Editorial Notes
+
+References in TextThe Uniform Code of Military Justice, referred to in the oath, is classified to chapter 47 (§ 801 et seq.) of this title.
+
+Codification
+Another section 502 was renumbered section 500b of this title.
+
+Amendments2006—Pub. L. 109–364 designated existing provisions as subsec. (a), inserted heading, struck out concluding provisions which read as follows: “This oath may be taken before any commissioned officer of any armed force.”, and added subsec.</akn:p></akn:content><akn:subsection eId="subsec_502_a"><akn:num>(a)</akn:num><akn:heading>Enlistment Oath.—</akn:heading><akn:content><akn:p>(a) Each person enlisting in an armed force shall take the following oath:“I, __________, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God.”</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_502_b"><akn:num>(b)</akn:num><akn:heading>Who May Administer.—</akn:heading><akn:content><akn:p>(b) The oath may be taken before the President, the Vice-President, the Secretary of Defense, any commissioned officer, or any other person designated under regulations prescribed by the Secretary of Defense.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

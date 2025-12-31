@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/951A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/951A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/951A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_951A"><akn:num>951A</akn:num><akn:heading>Net CFC tested income included in gross income of United States shareholders</akn:heading><akn:content><akn:p>§ 951A. Net CFC tested income included in gross income of United States shareholders(a) In generalEach person who is a United States shareholder of any controlled foreign corporation for any taxable year of such United States shareholder shall include in gross income such shareholder’s net CFC tested income for such taxable year.
+
+
+(b) Net CFC tested incomeFor purposes of this section—(1) In generalThe term “net CFC tested income” means, with respect to any United States shareholder for any taxable year of such United States shareholder, the excess (if any) of—(A) the aggregate of such shareholder’s pro rata share of the tested income of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder, over
+
+(B) the aggregate of such shareholder’s pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder.
+
+
+(2) Tested income; tested lossFor purposes of this section—(A) Tested incomeThe term “tested income” means, with respect to any controlled foreign corporation for any taxable year of such controlled foreign corporation, the excess (if any) of—(i) the gross income of such corporation determined without regard to—(I) any item of income described in section 952(b),
+
+(II) any gross income taken into account in determining the subpart F income of such corporation,
+
+(III) any gross income excluded from the foreign base company income (as defined in section 954) and the insurance income (as defined in section 953) of such corporation by reason of section 954(b)(4),
+
+(IV) any dividend received from a related person (as defined in section 954(d)(3)), and
+
+(V) any foreign oil and gas extraction income (as defined in section 907(c)(1)) of such corporation, over
+
+
+(ii) the deductions (including taxes) properly allocable to such gross income </akn:p></akn:content><akn:subsection eId="subsec_951A_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Each person who is a United States shareholder of any controlled foreign corporation for any taxable year of such United States shareholder shall include in gross income such shareholder’s net CFC tested income for such taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_951A_b"><akn:num>(b)</akn:num><akn:heading>Net CFC tested income</akn:heading><akn:content><akn:p>(b) Net CFC tested income For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_951A_c"><akn:num>(c)</akn:num><akn:heading>Determination of pro rata share, etc.</akn:heading><akn:content><akn:p>(c) Determination of pro rata share, etc. For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_951A_d"><akn:num>(d)</akn:num><akn:heading>Treatment as subpart F income for certain purposes</akn:heading><akn:content><akn:p>(d) Treatment as subpart F income for certain purposes</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

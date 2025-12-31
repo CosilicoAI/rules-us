@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/151503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/151503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/151503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_151503"><akn:num>151503</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>§ 151503. Purposes(a) Specific Purposes.—The purposes of the corporation are as provided in the articles of incorporation and include—(1) bringing into working relations with one another, music clubs and other musical organizations and individuals associated with musical activity for the purpose of developing and maintaining high musical standards;
+
+(2) aiding and encouraging musical education; and
+
+(3) promoting American music and American artists throughout the United States and the world.
+
+
+(b) Patriotic, Civic, and Historical Organization.—The corporation shall function as a patriotic, civic, and historical organization as authorized by the laws of each State in which it is incorporated.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1402.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+15150336:2003.Aug. 9, 1982, Pub. L. 97–231, § 3, 96 Stat. 256.
+
+
+In subsection (a), the words “objects”, “directly or indirectly”, and “of America” are omitted as unnecessary and for consistency in the revised title.</akn:p></akn:content><akn:subsection eId="subsec_151503_a"><akn:num>(a)</akn:num><akn:heading>Specific Purposes.—</akn:heading><akn:content><akn:p>(a) The purposes of the corporation are as provided in the articles of incorporation and include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151503_b"><akn:num>(b)</akn:num><akn:heading>Patriotic, Civic, and Historical Organization.—</akn:heading><akn:content><akn:p>(b) The corporation shall function as a patriotic, civic, and historical organization as authorized by the laws of each State in which it is incorporated.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

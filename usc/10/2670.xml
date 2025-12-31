@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2670" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2670/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2670/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2670"><akn:num>2670</akn:num><akn:heading>Use of facilities by private organizations; use as polling places</akn:heading><akn:content><akn:p>§ 2670. Use of facilities by private organizations; use as polling places(a) Use by Red Cross.—Under such conditions as he may prescribe, the Secretary of any military department may issue a revocable license to the American National Red Cross to—(1) erect and maintain, on any military installation under his jurisdiction, buildings for the storage of supplies; or
+
+(2) use, for the storage of supplies, buildings erected by the United States.
+
+
+Supplies stored in buildings erected or used under this subsection are available to aid the civilian population in a serious national disaster.
+
+(b) Use of Certain Facilities as Polling Places.—(1) Notwithstanding chapter 29 of title 18 (including sections 592 and 593 of such title) or any other provision of law, the Secretary of Defense or Secretary of a military department may not (except as provided in paragraph (3)) prohibit the designation or use of a qualifying facility under the jurisdiction of the Secretary as an official polling place for local, State, or Federal elections.
+
+(2) A Department of Defense facility is a qualifying facility for purposes of this subsection if as of December 31, 2000—(A) the facility is designated as an official polling place by a State or local election official; or
+
+(B) the facility has been used as such an official polling place since January 1, 1996.
+
+
+(3) The limitation in paragraph (1) may be waived by the Secretary of Defense or Secretary of the military department concerned with respect to a particular Department of Defense facility if the Secretary of Defense or Secretary concerned determines that local security conditions require prohibition of the designation or use of that facility as an official polling place for any election.
+
+
+(c) Use of Space and Equipment by Veterans Service Organizations.—(1) Upon certification to the Secretary concerned by the Secretary of Veterans Affairs, the Secretary concerned shall allow accredited, paid, full-time representatives of the organizations </akn:p></akn:content><akn:subsection eId="subsec_2670_a"><akn:num>(a)</akn:num><akn:heading>Use by Red Cross.—</akn:heading><akn:content><akn:p>(a) Under such conditions as he may prescribe, the Secretary of any military department may issue a revocable license to the American National Red Cross to— Supplies stored in buildings erected or used under this subsection are available to aid the civilian population in a serious national disaster.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2670_b"><akn:num>(b)</akn:num><akn:heading>Use of Certain Facilities as Polling Places.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2670_c"><akn:num>(c)</akn:num><akn:heading>Use of Space and Equipment by Veterans Service Organizations.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

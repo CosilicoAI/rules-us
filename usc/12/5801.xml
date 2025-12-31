@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5801" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5801/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5801/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5801"><akn:num>5801</akn:num><akn:heading>Findings and purpose</akn:heading><akn:content><akn:p>§ 5801. Findings and purpose(a) FindingsCongress finds that—(1) LIBOR is used as a benchmark rate in more than $200,000,000,000,000 worth of contracts worldwide;
+
+(2) a significant number of existing contracts that reference LIBOR do not provide for the use of a clearly defined or practicable replacement benchmark rate when LIBOR is discontinued; and
+
+(3) the cessation or nonrepresentativeness of LIBOR could result in disruptive litigation related to existing contracts that do not provide for the use of a clearly defined or practicable replacement benchmark rate.
+
+
+(b) PurposeIt is the purpose of this chapter—(1) to establish a clear and uniform process, on a nationwide basis, for replacing LIBOR in existing contracts the terms of which do not provide for the use of a clearly defined or practicable replacement benchmark rate, without affecting the ability of parties to use any appropriate benchmark rate in new contracts;
+
+(2) to preclude litigation related to existing contracts the terms of which do not provide for the use of a clearly defined or practicable replacement benchmark rate;
+
+(3) to allow existing contracts that reference LIBOR but provide for the use of a clearly defined and practicable replacement rate, to operate according to their terms; and
+
+(4) to address LIBOR references in Federal law.
+
+
+(Pub. L. 117–103, div. U, § 102, Mar. 15, 2022, 136 Stat. 825.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (b), was in the original “this division”, meaning div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, known as the Adjustable Interest Rate (LIBOR) Act, which is classified principally to this chapter. For complete classification of div. U to the Code, see Short Title note set out below and Tables.
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 117–103, div. U, § 101, Mar. 15, 2022, 136 Stat. 825, provided that: “This division [enacting this chapter and amending section 77ppp of Title 15, Commerce and Trade, an</akn:p></akn:content><akn:subsection eId="subsec_5801_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5801_b"><akn:num>(b)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(b) Purpose It is the purpose of this chapter—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/921" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/921/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/921/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_921"><akn:num>921</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 921. Definitions
+As used in this subchapter:(1) The term “allocation” means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.
+
+(2) The term “assignment” means an authorization given to a station licensee to use specific frequencies or channels.
+
+(3) The term “the 1934 Act” means the Communications Act of 1934 (47 U.S.C. 151 et seq.).
+
+(Pub. L. 102–538, title I, § 111, as added Pub. L. 103–66, title VI, § 6001(a)(3), Aug. 10, 1993, 107 Stat. 379.)
+
+Editorial Notes
+
+References in TextThe Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
+Statutory Notes and Related Subsidiaries
+Spectrum AuctionsPub. L. 117–58, div. I, § 90008(a), (b), Nov. 15, 2021, 135 Stat. 1348, 1349, provided that:
+“(a) Definitions.—In this section:“(1) Commission.—The term ‘Commission’ means the Federal Communications Commission.
+
+“(2) Covered band.—The term ‘covered band’ means the band of frequencies between 3100 and 3450 megahertz.
+
+“(3) Relevant congressional committees.—The term ‘relevant congressional committees’ means—“(A) the Committee on Armed Services of the Senate;
+
+“(B) the Committee on Armed Services of the House of Representatives;
+
+“(C) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+“(D) the Committee on Energy and Commerce of the House of Representatives.
+
+
+
+“(b) 3.1–3.45 GHz Band.—“(1) Pre-auction funding.—“(A) In general.—On the date of enactment of this Act [Nov. 15, 2021], the Director of the Office of Management and Budget shall transfer $50,000,000 from the Spectrum Relocation Fund established under section 118 of the National Telecommunications and Information Administration Act (47 U.S.C. 928) to the Department of Defense for </akn:p></akn:content><akn:subsection eId="subsec_921_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “allocation” means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_921_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “assignment” means an authorization given to a station licensee to use specific frequencies or channels.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_921_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “the 1934 Act” means the Communications Act of 1934 (47 U.S.C. 151 et seq.).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/20" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/20/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/20/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20"><akn:num>20</akn:num><akn:heading>Financial institution defined</akn:heading><akn:content><akn:p>§ 20. Financial institution defined
+As used in this title, the term “financial institution” means—(1) an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);
+
+(2) a credit union with accounts insured by the National Credit Union Share Insurance Fund;
+
+(3) a Federal home loan bank or a member, as defined in section 2 of the Federal Home Loan Bank Act (12 U.S.C. 1422), of the Federal home loan bank system;
+
+(4) a System institution of the Farm Credit System, as defined in section 5.35(3) of the Farm Credit Act of 1971;
+
+(5) a small business investment company, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662);
+
+(6) a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act;
+
+(7) a Federal Reserve bank or a member bank of the Federal Reserve System;
+
+(8) an organization operating under section 25 or section 25(a) 11 See References in Text note below. of the Federal Reserve Act;
+
+(9) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); or
+
+(10) a mortgage lending business (as defined in section 27 of this title) or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974.
+
+(Added Pub. L. 98–473, title II, § 1107(a), Oct. 12, 1984, 98 Stat. 2145, § 215(b); amended Pub. L. 99–370, § 2, Aug. 4, 1986, 100 Stat. 779; renumbered § 20 and amended Pub. L. 101–73, title IX, § 962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, § 2597(a), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 111–21, § 2(a), May 20, 2009, 123 Stat. 1617.)
+
+Editorial Notes
+
+References in TextSection 3 of the Federal Deposit Insurance Act, referred to in pars. (1) and (6), is classified to section 1813 of Title 12, Banks and Banking.
+Section 5.35(3) of the Farm C</akn:p></akn:content><akn:subsection eId="subsec_20_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) a credit union with accounts insured by the National Credit Union Share Insurance Fund;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) a Federal home loan bank or a member, as defined in section 2 of the Federal Home Loan Bank Act (12 U.S.C. 1422), of the Federal home loan bank system;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) a System institution of the Farm Credit System, as defined in section 5.35(3) of the Farm Credit Act of 1971;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) a small business investment company, as defined in section 103 of the Small Business Investment Act of 1958 (15 U.S.C. 662);</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) a Federal Reserve bank or a member bank of the Federal Reserve System;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) an organization operating under section 25 or section 25(a) 11 See References in Text note below. of the Federal Reserve Act;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) a mortgage lending business (as defined in section 27 of this title) or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

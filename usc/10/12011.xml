@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/12011" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/12011/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/12011/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12011"><akn:num>12011</akn:num><akn:heading>Authorized strengths: reserve officers on active duty or on full-time National Guard duty for admini</akn:heading><akn:content><akn:p>§ 12011. Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard(a) Limitations.—(1) Of the total number of members of a reserve component who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of major, lieutenant colonel, and colonel may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
+
+
+
+
+
+
+
+
+Total number of members of a reserve component serving on full-time reserve component duty:Number of officers of that reserve component who may be serving in the grade of:
+
+MajorLieutenant ColonelColonel
+
+
+Army Reserve:
+10,0001,390740230  
+11,0001,529803242  
+12,0001,668864252  
+13,0001,804924262  
+14,0001,940984272  
+15,0002,0751,044282  
+16,0002,2101,104291  
+17,0002,3451,164300  
+18,0002,4791,223309  
+19,0002,6131,282318  
+20,0002,7471,341327  
+21,0002,8771,400336  
+ 
+Army National Guard:
+20,0001,500850325  
+22,0001,650930350  
+24,0001,7901,010378  
+26,0001,9301,085395  
+28,0002,0701,168420  
+30,0002,2001,245445  
+32,0002,3301,315460  
+34,0002,4501,385470  
+36,0002,5701,455480  
+38,0002,6701,527490  
+40,0002,7701,590500  
+42,0002,8371,655505  
+ 
+Marine Corps Reserve:
+1,000996320  
+1,2001036721  
+1,3001077022  
+1,4001117323  
+1,5001147624  
+1,6001177925  
+1,7001208226  
+1,8001238527  
+1,9001268828  
+2,0001299129  
+2,1001329430  
+2,2001349731  
+2,30013610032  
+2,40014310534  
+2,50014910935  
+2,60015511336  
+2,70016111837  
+2,80016712239  
+2,90017312641  
+3,00017913042  
+ 
+Air Force Reserve
+1,000166170100  
+1,500245251143  
+2,000322330182  
+2,500396406216  
+3,000467479246  
+3,500536550271  
+4,000602618292  
+4,500665683308  
+5,000726746320  
+5,500784806325  
+6,000840864327  
+7,000962990347  
+8,0001,0871,110356  
+10,0001,3221,362395  
+ 
+Air National Guard:
+10,000763745333  
+12,000915923377  
+14,0001,0651,057402  
+16,0001,2111,185426 </akn:p></akn:content><akn:subsection eId="subsec_12011_a"><akn:num>(a)</akn:num><akn:heading>Limitations.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12011_b"><akn:num>(b)</akn:num><akn:heading>Determinations by Interpolation.—</akn:heading><akn:content><akn:p>(b) If the total number of members of a reserve component serving on full-time reserve component duty is between any two consecutive numbers in the first column of the appropriate table in paragraph (1) or (2) of subsection (a), the corresponding authorized strengths for each of the grades shown in that table for that component are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of members of a reserve component serving on full-time reserve component duty is more or less than the highest or lowest number, respectively, set forth in the first column of the appropriate table in paragraph (1) or (2) of subsection (a), the Secretary concerned shall fix the corresponding strengths for the grades shown in that table at the same proportion as is reflected in the nearest limit shown in the table.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12011_c"><akn:num>(c)</akn:num><akn:heading>Reallocations to Lower Grades.—</akn:heading><akn:content><akn:p>(c) Whenever the number of officers serving in any grade for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12011_d"><akn:num>(d)</akn:num><akn:heading>Secretarial Waiver.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12011_e"><akn:num>(e)</akn:num><akn:heading>Full-Time Reserve Component Duty Defined.—</akn:heading><akn:content><akn:p>(e) In this section, the term “full-time reserve component duty” means the following duty:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

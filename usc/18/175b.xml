@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/175b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/175b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/175b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_175b"><akn:num>175b</akn:num><akn:heading>Possession by restricted persons</akn:heading><akn:content><akn:p>§ 175b. Possession by restricted persons(a) Offense.—(1) In general.—It shall be unlawful for a restricted person to—(A) ship, transport, or possess in or affecting interstate or foreign commerce any biological agent or toxin described in paragraph (2); or
+
+(B) receive any biological agent or toxin described in paragraph (2) that has been shipped or transported in interstate or foreign commerce.
+
+
+(2) Agents and toxins covered.—A biological agent or toxin described in this paragraph is a biological agent or toxin that—(A) is listed as a non-overlap or overlap select biological agent or toxin under part 73 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act (42 U.S.C. 262a); and
+
+(B) is not excluded or exempted under part 73 of title 42, Code of Federal Regulations.
+
+
+(3) Penalty.—Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
+
+
+(b) Transfer to Unregistered Person.—(1) Select agents.—Whoever transfers a select agent to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 351A of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+
+(2) Certain other biological agents and toxins.—Whoever transfers a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 212 of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+
+
+(c) Unregistered for Possession.—(1) Select agents.—Whoever knowingly possesses a biolo</akn:p></akn:content><akn:subsection eId="subsec_175b_a"><akn:num>(a)</akn:num><akn:heading>Offense.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_175b_b"><akn:num>(b)</akn:num><akn:heading>Transfer to Unregistered Person.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_175b_c"><akn:num>(c)</akn:num><akn:heading>Unregistered for Possession.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_175b_d"><akn:num>(d)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(d) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/605" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/605/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/605/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_605"><akn:num>605</akn:num><akn:heading>State Homeland Security Grant Program</akn:heading><akn:content><akn:p>§ 605. State Homeland Security Grant Program(a) EstablishmentThere is established a State Homeland Security Grant Program to assist State, local, and tribal governments in preventing, preparing for, protecting against, and responding to acts of terrorism.
+
+
+(b) Application(1) In generalEach State may apply for a grant under this section, and shall submit such information in support of the application as the Administrator may reasonably require.
+
+
+(2) Minimum contents of applicationThe Administrator shall require that each State include in its application, at a minimum—(A) the purpose for which the State seeks grant funds and the reasons why the State needs the grant to meet the target capabilities of that State;
+
+(B) a description of how the State plans to allocate the grant funds to local governments and Indian tribes; and
+
+(C) a budget showing how the State intends to expend the grant funds.
+
+
+(3) Annual applicationsApplicants for grants under this section shall apply or reapply on an annual basis.
+
+
+
+(c) Distribution to local and tribal governments(1) In generalNot later than 45 days after receiving grant funds, any State receiving a grant under this section shall make available to local and tribal governments, consistent with the applicable State homeland security plan—(A) not less than 80 percent of the grant funds;
+
+(B) with the consent of local and tribal governments, items, services, or activities having a value of not less than 80 percent of the amount of the grant; or
+
+(C) with the consent of local and tribal governments, grant funds combined with other items, services, or activities having a total value of not less than 80 percent of the amount of the grant.
+
+
+(2) Certifications regarding distribution of grant funds to local governmentsA State shall certify to the Administrator that the State has made the distribution to local and tribal governments required under paragraph (1).
+
+
+(3) Extension of periodThe Governor of a State may request in writing that </akn:p></akn:content><akn:subsection eId="subsec_605_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment There is established a State Homeland Security Grant Program to assist State, local, and tribal governments in preventing, preparing for, protecting against, and responding to acts of terrorism.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_605_b"><akn:num>(b)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(b) Application</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_605_c"><akn:num>(c)</akn:num><akn:heading>Distribution to local and tribal governments</akn:heading><akn:content><akn:p>(c) Distribution to local and tribal governments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_605_d"><akn:num>(d)</akn:num><akn:heading>Multistate applications</akn:heading><akn:content><akn:p>(d) Multistate applications</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_605_e"><akn:num>(e)</akn:num><akn:heading>Minimum allocation</akn:heading><akn:content><akn:p>(e) Minimum allocation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_605_f"><akn:num>(f)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(f) Authorization of appropriations There are authorized to be appropriated for grants under this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

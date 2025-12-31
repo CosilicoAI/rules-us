@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101120" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101120/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101120/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101120"><akn:num>101120</akn:num><akn:heading>Promotion of local fundraising support</akn:heading><akn:content><akn:p>§ 101120. Promotion of local fundraising support(a) Program.—The National Park Foundation shall design and implement a comprehensive program to assist and promote philanthropic programs of support at the individual System unit level.
+
+(b) Implementation.—The program under subsection (a) shall be implemented to—(1) assist in the creation of local nonprofit support organizations; and
+
+(2) provide support, national consistency, and management-improving suggestions for local nonprofit support organizations.
+
+
+(c) Program.—The program under subsection (a)—(1) shall include the greatest number of System units as is practicable; and
+
+(2) at a minimum shall include—(A) a standard adaptable organizational design format to establish and sustain responsible management of a local nonprofit support organization for support of a System unit;
+
+(B) standard and legally tenable bylaws and recommended money-handling procedures that can easily be adapted as applied to individual System units; and
+
+(C) a standard training curriculum to orient and expand the operating expertise of personnel employed by local nonprofit support organizations.
+
+
+
+(d) Annual Report.—The National Park Foundation shall report the progress of the program under subsection (a) in the annual report of the Foundation.
+
+(e) Affiliations.—(1) Charter or corporate bylaws.—Nothing in this section requires—(A) a nonprofit support organization or friends group to modify current practices or to affiliate with the National Park Foundation; or
+
+(B) a local nonprofit support organization, established as a result of this section, to be bound through its charter or corporate bylaws to be permanently affiliated with the National Park Foundation.
+
+
+(2) Establishment.—An affiliation with the National Park Foundation shall be established only at the discretion of the governing board of a nonprofit organization.
+
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3122.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource</akn:p></akn:content><akn:subsection eId="subsec_101120_a"><akn:num>(a)</akn:num><akn:heading>Program.—</akn:heading><akn:content><akn:p>(a) The National Park Foundation shall design and implement a comprehensive program to assist and promote philanthropic programs of support at the individual System unit level.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101120_b"><akn:num>(b)</akn:num><akn:heading>Implementation.—</akn:heading><akn:content><akn:p>(b) The program under subsection (a) shall be implemented to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101120_c"><akn:num>(c)</akn:num><akn:heading>Program.—</akn:heading><akn:content><akn:p>(c) The program under subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101120_d"><akn:num>(d)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(d) The National Park Foundation shall report the progress of the program under subsection (a) in the annual report of the Foundation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101120_e"><akn:num>(e)</akn:num><akn:heading>Affiliations.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

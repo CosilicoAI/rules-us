@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/2083" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/2083/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/2083/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2083"><akn:num>2083</akn:num><akn:heading>Commissioner for Interama; procurement and appointment of personnel; powers and duties</akn:heading><akn:content><akn:p>§ 2083. Commissioner for Interama; procurement and appointment of personnel; powers and duties(a) There shall be in the designated department or agency a Commissioner for Interama who shall be appointed by the President. Subject to the direction of the head of the designated department or agency, the Commissioner for Interama shall perform such duties as the President may prescribe to carry out this chapter.
+
+(b) In order to carry out the provisions of this chapter, the head of the designated department or agency is authorized—(1) to appoint and fix the compensation of such persons as he deems necessary without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5; except that no person so appointed shall receive compensation at a rate in excess of that received by persons under chapter 51 and subchapter III of chapter 53 of title 5 for the performance of comparable duties;
+
+(2) to procure temporary and intermittent services in accordance with the provisions of section 3109 of title 5;
+
+(3) to enter into contracts;
+
+(4) to select, purchase, rent, construct, or otherwise acquire exhibits, including materials and equipment therefor, and to provide for the transportation, insurance, display, maintenance, and dismantling thereof;
+
+(5) to incur such other expenses as may be necessary; and
+
+(6) to accept donations of money, property, and services and the loan of property.
+
+
+(Pub. L. 89–355, § 3, Feb. 19, 1966, 80 Stat. 6; Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224.)
+
+Editorial Notes
+Codification
+In subsec. (b)(1), (2), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted for “the Classification Act of 1949” and “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+Amendments1967—Subsec. (a). Pub. L</akn:p></akn:content><akn:subsection eId="subsec_2083_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) There shall be in the designated department or agency a Commissioner for Interama who shall be appointed by the President. Subject to the direction of the head of the designated department or agency, the Commissioner for Interama shall perform such duties as the President may prescribe to carry out this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2083_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In order to carry out the provisions of this chapter, the head of the designated department or agency is authorized—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

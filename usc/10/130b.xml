@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/130b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/130b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/130b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_130b"><akn:num>130b</akn:num><akn:heading>Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identif</akn:heading><akn:content><akn:p>§ 130b. Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information(a) Exemption From Disclosure.—The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security may, notwithstanding section 552 of title 5, authorize to be withheld from disclosure to the public personally identifying information regarding—(1) any member of the armed forces assigned to an overseas unit, a sensitive unit, or a routinely deployable unit; and
+
+(2) any employee of the Department of Defense or of the Coast Guard whose duty station is with any such unit.
+
+
+(b) Exceptions.—(1) The authority in subsection (a) is subject to such exceptions as the President may direct.
+
+(2) Subsection (a) does not authorize any official to withhold, or to authorize the withholding of, information from Congress.
+
+
+(c) Definitions.—In this section:(1) The term “personally identifying information”, with respect to any person, means the person’s name, rank, duty address, and official title and information regarding the person’s pay.
+
+(2) The term “unit” means a military organization of the armed forces designated as a unit by competent authority.
+
+(3) The term “overseas unit” means a unit that is located outside the United States and its territories.
+
+(4) The term “sensitive unit” means a unit that is primarily involved in training for the conduct of, or conducting, special activities or classified missions, including—(A) a unit involved in collecting, handling, disposing, or storing of classified information and materials;
+
+(B) a unit engaged in training—(i) special operations units;
+
+(ii) security group commands weapons stations; or
+
+(iii) communications stations; and
+
+
+(C) any other unit that is designated as a sensitive unit by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Homeland Securi</akn:p></akn:content><akn:subsection eId="subsec_130b_a"><akn:num>(a)</akn:num><akn:heading>Exemption From Disclosure.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security may, notwithstanding section 552 of title 5, authorize to be withheld from disclosure to the public personally identifying information regarding—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_130b_b"><akn:num>(b)</akn:num><akn:heading>Exceptions.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_130b_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

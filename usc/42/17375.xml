@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17375" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17375/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17375/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17375"><akn:num>17375</akn:num><akn:heading>Regional clean energy innovation program</akn:heading><akn:content><akn:p>§ 17375. Regional clean energy innovation program(a) DefinitionsIn this section:(1) Regional clean energy innovation partnershipThe term “regional clean energy innovation partnership” means a group of one or more persons, including a covered consortium, who perform a collection of activities that are coordinated by such covered consortium to carry out the purposes of the program under subsection (c) in a region of the United States.
+
+
+(2) Covered consortiumThe term “covered consortium” means an individual or group of individuals in partnership with a government entity, including a State, territorial, local, or tribal government or unit of such government, and at least 2 or more of the following additional entities—(A) an institution of higher education or a consortium of institutions of higher education, including community colleges;
+
+(B) a workforce development program;
+
+(C) a private sector entity or group of entities, including a trade or industry association;
+
+(D) a nonprofit organization;
+
+(E) a community group or community-based organization;
+
+(F) a labor organization or joint labor-management organization;
+
+(G) a National Laboratory;
+
+(H) a venture development organization;
+
+(I) a community development financial institution or minority depository institution;
+
+(J) a worker cooperative membership association or state or local employee ownership or cooperative development center;
+
+(K) an organization focused on clean energy technology innovation or entrepreneurship;
+
+(L) a business or clean energy accelerator or incubator;
+
+(M) an economic development organization;
+
+(N) a manufacturing facility or organization;
+
+(O) a multi-institutional collaboration; or
+
+(P) any other entity that the Secretary determines to be relevant.
+
+
+(3) ProgramThe term “program” means the Regional Clean Energy Innovation Program authorized in subsection (b).
+
+
+(4) Institution of higher educationThe term “institution of higher education” has the meaning given such term in section 1001 or</akn:p></akn:content><akn:subsection eId="subsec_17375_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_b"><akn:num>(b)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(b) In general The Secretary shall establish a Regional Clean Energy Innovation Program, a research, development, demonstration, and commercial application program designed to enhance the economic, environmental, and energy security of the United States and accelerate the pace of innovation of diverse clean energy technologies through the formation or support of regional clean energy innovation partnerships.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_c"><akn:num>(c)</akn:num><akn:heading>Purposes of the Program</akn:heading><akn:content><akn:p>(c) Purposes of the Program The purposes of the Program established under subsection (b) are to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_d"><akn:num>(d)</akn:num><akn:heading>Regional clean energy innovation partnerships</akn:heading><akn:content><akn:p>(d) Regional clean energy innovation partnerships</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_e"><akn:num>(e)</akn:num><akn:heading>Planning funds</akn:heading><akn:content><akn:p>(e) Planning funds The Secretary may competitively award grants in an amount no greater than $2,000,000 for a period not longer than 2 years to an entity consisting of a government entity, including a State, territorial, local, or tribal government or unit of such government or any entity listed under subsection (a)(2) to plan a regional clean energy innovation partnership or establish a covered consortium for the purpose of applying for funds under subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_f"><akn:num>(f)</akn:num><akn:heading>Information sharing</akn:heading><akn:content><akn:p>(f) Information sharing As part of the program, the Secretary shall support the gathering, analysis, and dissemination of information on best practices for developing and operating successful regional clean energy innovation partnerships.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_g"><akn:num>(g)</akn:num><akn:heading>Metrics</akn:heading><akn:content><akn:p>(g) Metrics In evaluating a grant renewal under subsection (d)(8), the Secretary shall work with program evaluation experts to develop and make publicly available metrics to assess the progress of a regional clean energy innovation partnership towards achieving the purposes of the program in subsection (c).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_h"><akn:num>(h)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(h) Coordination In carrying out the program, the Secretary shall coordinate with, and avoid unnecessary duplication of, the activities carried out under this section with the activities of other research entities of the Department or relevant programs at other Federal agencies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_i"><akn:num>(i)</akn:num><akn:heading>Conflicts of interest</akn:heading><akn:content><akn:p>(i) Conflicts of interest In carrying out the program, the Secretary shall maintain conflict of interest procedures, consistent with the conflict of interest procedures of the Department.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17375_j"><akn:num>(j)</akn:num><akn:heading>Evaluation by Comptroller General</akn:heading><akn:content><akn:p>(j) Evaluation by Comptroller General Not later than 3 years after August 9, 2022, and again 3 years later, the Comptroller General shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the operation of the program during the most recent 3-year period, including—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

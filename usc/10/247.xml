@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/247" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/247/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/247/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_247"><akn:num>247</akn:num><akn:heading>Militia duty: exemptions</akn:heading><akn:content><akn:p>§ 247. Militia duty: exemptions(a) The following persons are exempt from militia duty:(1) The Vice President.
+
+(2) The judicial and executive officers of the United States, the several States, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
+
+(3) Members of the armed forces, except members who are not on active duty.
+
+(4) Customhouse clerks.
+
+(5) Persons employed by the United States in the transmission of mail.
+
+(6) Workmen employed in armories, arsenals, and naval shipyards of the United States.
+
+(7) Pilots on navigable waters.
+
+(8) Mariners in the sea service of a citizen of, or a merchant in, the United States.
+
+
+(b) A person who claims exemption because of religious belief is exempt from militia duty in a combatant capacity, if the conscientious holding of that belief is established under such regulations as the President may prescribe. However, such a person is not exempt from militia duty that the President determines to be noncombatant.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 312; Pub. L. 100–456, div. A, title XII, § 1234(a)(3), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(a)(7), Jan. 6, 2006, 119 Stat. 3441; renumbered § 247, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+312(a)312(b)32:3 (less last 67 words).32:3 (last 67 words).June 3, 1916, ch. 134, § 59, 39 Stat. 197.
+
+
+In subsection (a), the words “Members of the armed forces” are substituted for the words “persons in the military or naval service”. The words “except members who are not on active duty” are inserted to reflect an opinion of the Judge Advocate General of the Army (JAGA 1952/4374, 9 July 1952). The word “artificers” is omitted as covered by the word “workmen”. The words “naval shipyards” are substituted for the words “navy yards” to reflect modern terminology. The words “on navigable waters” are inserted t</akn:p></akn:content><akn:subsection eId="subsec_247_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The following persons are exempt from militia duty:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_247_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A person who claims exemption because of religious belief is exempt from militia duty in a combatant capacity, if the conscientious holding of that belief is established under such regulations as the President may prescribe. However, such a person is not exempt from militia duty that the President determines to be noncombatant.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5042" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5042/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5042/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5042"><akn:num>5042</akn:num><akn:heading>Exemption from tax</akn:heading><akn:content><akn:p>§ 5042. Exemption from tax(a) Tax-free production(1) CiderSubject to regulations prescribed by the Secretary, the noneffervescent product of the normal alcoholic fermentation of apple juice only, which is produced at a place other than a bonded wine cellar and without the use of preservative methods or materials, and which is sold or offered for sale as cider and not as wine or as a substitute for wine, shall not be subject to tax as wine nor to the provisions of subchapter F.
+
+
+(2) Wine for personal or family useSubject to regulations prescribed by the Secretary—(A) ExemptionAny adult may, without payment of tax, produce wine for personal or family use and not for sale.
+
+
+(B) LimitationThe aggregate amount of wine exempt from tax under this paragraph with respect to any household shall not exceed—(i) 200 gallons per calendar year if there are 2 or more adults in such household, or
+
+(ii) 100 gallons per calendar year if there is only 1 adult in such household.
+
+
+(C) AdultsFor purposes of this paragraph, the term “adult” means an individual who has attained 18 years of age, or the minimum age (if any) established by law applicable in the locality in which the household is situated at which wine may be sold to individuals, whichever is greater.
+
+
+
+(3) Experimental wineSubject to regulations prescribed by the Secretary, any scientific university, college of learning, or institution of scientific research may produce, receive, blend, treat, and store wine, without payment of tax, for experimental or research use but not for consumption (other than organoleptical tests) or sale, and may receive such wine spirits without payment of tax as may be necessary for such production.
+
+
+
+(b) Cross references(1) For provisions relating to exemption of tax on losses of wine (including losses by theft or authorized destruction), see section 5370.
+
+(2) For provisions exempting from tax samples of wine, see section 5372.
+
+(3) For provisions authorizing withdrawals of wine free of tax o</akn:p></akn:content><akn:subsection eId="subsec_5042_a"><akn:num>(a)</akn:num><akn:heading>Tax-free production</akn:heading><akn:content><akn:p>(a) Tax-free production</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5042_b"><akn:num>(b)</akn:num><akn:heading>Cross references</akn:heading><akn:content><akn:p>(b) Cross references</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

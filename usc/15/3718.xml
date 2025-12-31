@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/3718" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/3718/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/3718/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3718"><akn:num>3718</akn:num><akn:heading>President’s Council on Innovation and Competitiveness</akn:heading><akn:content><akn:p>§ 3718. President’s Council on Innovation and Competitiveness(a) In generalThe President shall establish a President’s Council on Innovation and Competitiveness.
+
+
+(b) DutiesThe duties of the Council shall include—(1) monitoring implementation of public laws and initiatives for promoting innovation, including policies related to research funding, taxation, immigration, trade, and education that are proposed in this Act or in any other Act;
+
+(2) providing advice to the President with respect to global trends in competitiveness and innovation and allocation of Federal resources in education, job training, and technology research and development considering such global trends in competitiveness and innovation;
+
+(3) in consultation with the Director of the Office of Management and Budget, developing a process for using metrics to assess the impact of existing and proposed policies and rules that affect innovation capabilities in the United States;
+
+(4) identifying opportunities and making recommendations for the heads of executive agencies to improve innovation, monitoring, and reporting on the implementation of such recommendations;
+
+(5) developing metrics for measuring the progress of the Federal Government with respect to improving conditions for innovation, including through talent development, investment, and infrastructure improvements; and
+
+(6) submitting to the President and Congress an annual report on such progress.
+
+
+(c) Membership and coordination(1) MembershipThe Council shall be composed of the Secretary or head of each of the following:(A) The Department of Commerce.
+
+(B) The Department of Defense.
+
+(C) The Department of Education.
+
+(D) The Department of Energy.
+
+(E) The Department of Health and Human Services.
+
+(F) The Department of Homeland Security.
+
+(G) The Department of Labor.
+
+(H) The Department of the Treasury.
+
+(I) The National Aeronautics and Space Administration.
+
+(J) The Securities and Exchange Commission.
+
+(K) The National Science Foundation.
+</akn:p></akn:content><akn:subsection eId="subsec_3718_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The President shall establish a President’s Council on Innovation and Competitiveness.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3718_b"><akn:num>(b)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(b) Duties The duties of the Council shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3718_c"><akn:num>(c)</akn:num><akn:heading>Membership and coordination</akn:heading><akn:content><akn:p>(c) Membership and coordination</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3718_d"><akn:num>(d)</akn:num><akn:heading>Development of innovation agenda</akn:heading><akn:content><akn:p>(d) Development of innovation agenda</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3718_e"><akn:num>(e)</akn:num><akn:heading>Optional assignment</akn:heading><akn:content><akn:p>(e) Optional assignment Notwithstanding subsection (a) and paragraphs (1) and (2) of subsection (c), the President may designate an existing council to carry out the requirements of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

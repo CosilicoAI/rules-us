@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4262" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4262/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4262/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4262"><akn:num>4262</akn:num><akn:heading>Definition of taxable transportation</akn:heading><akn:content><akn:p>§ 4262. Definition of taxable transportation(a) Taxable transportation; in generalFor purposes of this part, except as provided in subsection (b), the term “taxable transportation” means—(1) transportation by air which begins in the United States or in the 225–mile zone and ends in the United States or in the 225–mile zone; and
+
+(2) in the case of transportation by air other than transportation described in paragraph (1), that portion of such transportation which is directly or indirectly from one port or station in the United States to another port or station in the United States, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3)).
+
+
+(b) Exclusion of certain travelFor purposes of this part, the term “taxable transportation” does not include that portion of any transportation by air which meets all 4 of the following requirements:(1) such portion is outside the United States;
+
+(2) neither such portion nor any segment thereof is directly or indirectly—(A) between (i) a point where the route of the transportation leaves or enters the continental United States, or (ii) a port or station in the 225-mile zone, and
+
+(B) a port or station in the 225-mile zone;
+
+
+(3) such portion—(A) begins at either (i) the point where the route of the transportation leaves the United States, or (ii) a port or station in the 225-mile zone, and
+
+(B) ends at either (i) the point where the route of the transportation enters the United States, or (ii) a port or station in the 225-mile zone; and
+
+
+(4) a direct line from the point (or the port or station) specified in paragraph (3)(A), to the point (or the port or station) specified in paragraph (3)(B), passes through or over a point which is not within 225 miles of the United States.
+
+
+(c) DefinitionsFor purposes of this section—(1) Continental United StatesThe term “continental United States” means the District of Columbia and the States other than Alaska and Hawai</akn:p></akn:content><akn:subsection eId="subsec_4262_a"><akn:num>(a)</akn:num><akn:heading>Taxable transportation; in general</akn:heading><akn:content><akn:p>(a) Taxable transportation; in general For purposes of this part, except as provided in subsection (b), the term “taxable transportation” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4262_b"><akn:num>(b)</akn:num><akn:heading>Exclusion of certain travel</akn:heading><akn:content><akn:p>(b) Exclusion of certain travel For purposes of this part, the term “taxable transportation” does not include that portion of any transportation by air which meets all 4 of the following requirements:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4262_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4262_d"><akn:num>(d)</akn:num><akn:heading>Transportation</akn:heading><akn:content><akn:p>(d) Transportation For purposes of this part, the term “transportation” includes layover or waiting time and movement of the aircraft in deadhead service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4262_e"><akn:num>(e)</akn:num><akn:heading>Authority to waive 225-mile zone provisions</akn:heading><akn:content><akn:p>(e) Authority to waive 225-mile zone provisions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

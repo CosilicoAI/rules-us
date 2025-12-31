@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/7102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/7102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/7102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7102"><akn:num>7102</akn:num><akn:heading>Single bond in lieu of multiple bonds</akn:heading><akn:content><akn:p>§ 7102. Single bond in lieu of multiple bonds
+In any case in which two or more bonds are required or authorized, the Secretary may provide for the acceptance of a single bond complying with the requirements for which the several bonds are required or authorized.
+(Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+Editorial Notes
+Amendments1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

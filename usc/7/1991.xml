@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1991" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1991/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1991/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1991"><akn:num>1991</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1991. Definitions(a) As used in this chapter:(1) The term “farmer” includes a person who is engaged in, or who, with assistance afforded under this chapter, intends to engage in, fish farming.
+
+(2) The term “farming” shall be deemed to include fish farming.
+
+(3) The term “owner-operator” shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is provided for the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
+
+(4) The word “insure” as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
+
+(5) The term “contract of insurance” includes a contract of guarantee.
+
+(6) The terms “United States” and “State” shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
+
+(7) The term “joint operation” means a joint farming operation in which two or more farmers work together sharing equally or unequally land, labor, equipment, expenses, and income.
+
+(8) The term “beginning farmer or rancher” means such term as defined by the Secretary.
+
+(9) The term “direct loan” means a loan made or insured from funds in the account created by section 1929 of this title.
+
+(10) The term “farmer program loan” means a farm ownership loan (FO) under section 1923 of this title, operating loan (OL) under section 1942 of this title, soil and water loan (SW) under section 1924 of this title, emergenc</akn:p></akn:content><akn:subsection eId="subsec_1991_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) As used in this chapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1991_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) As used in sections 1927(d), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

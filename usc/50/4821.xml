@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/4821" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/4821/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/4821/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4821"><akn:num>4821</akn:num><akn:heading>Administrative procedure</akn:heading><akn:content><akn:p>§ 4821. Administrative procedure(a) In generalExcept as provided in section 4819(c)(2) or 4843(c) of this title, the functions exercised under this subchapter shall not be subject to sections 551, 553 through 559, and 701 through 706 of title 5.
+
+
+(b) Administrative law judges(1) In generalThe Secretary may—(A) appoint administrative law judges, consistent with the provisions of section 3105 of title 5; and
+
+(B) designate properly appointed administrative law judges from other Federal agencies who are provided to the Department of Commerce pursuant to a legally authorized interagency agreement.
+
+
+(2) LimitationAn administrative law judge appointed or designated by the Secretary under paragraph (1) may preside only over proceedings of the Department of Commerce.
+
+
+
+(c) Amendments to regulationsThe President shall notify in advance the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives of any proposed amendments to the Export Administration Regulations with an explanation of the intent and rationale of such amendments.
+
+
+(Pub. L. 115–232, div. A, title XVII, § 1762, Aug. 13, 2018, 132 Stat. 2231.)
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in subsec. (a), was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.</akn:p></akn:content><akn:subsection eId="subsec_4821_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Except as provided in section 4819(c)(2) or 4843(c) of this title, the functions exercised under this subchapter shall not be subject to sections 551, 553 through 559, and 701 through 706 of title 5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4821_b"><akn:num>(b)</akn:num><akn:heading>Administrative law judges</akn:heading><akn:content><akn:p>(b) Administrative law judges</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4821_c"><akn:num>(c)</akn:num><akn:heading>Amendments to regulations</akn:heading><akn:content><akn:p>(c) Amendments to regulations The President shall notify in advance the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives of any proposed amendments to the Export Administration Regulations with an explanation of the intent and rationale of such amendments.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_111"><akn:num>111</akn:num><akn:heading>Recovery of tax benefit items</akn:heading><akn:content><akn:p>§ 111. Recovery of tax benefit items(a) DeductionsGross income does not include income attributable to the recovery during the taxable year of any amount deducted in any prior taxable year to the extent such amount did not reduce the amount of tax imposed by this chapter.
+
+
+(b) Credits(1) In generalIf—(A) a credit was allowable with respect to any amount for any prior taxable year, and
+
+(B) during the taxable year there is a downward price adjustment or similar adjustment,
+
+
+the tax imposed by this chapter for the taxable year shall be increased by the amount of the credit attributable to the adjustment.
+
+(2) Exception where credit did not reduce taxParagraph (1) shall not apply to the extent that the credit allowable for the recovered amount did not reduce the amount of tax imposed by this chapter.
+
+
+(3) Exception for investment tax credit and foreign tax creditThis subsection shall not apply with respect to the credit determined under section 46 and the foreign tax credit.
+
+
+
+(c) Treatment of carryoversFor purposes of this section, an increase in a carryover which has not expired before the beginning of the taxable year in which the recovery or adjustment takes place shall be treated as reducing tax imposed by this chapter.
+
+
+(d) Special rules for accumulated earnings tax and for personal holding company taxIn applying subsection (a) for the purpose of determining the accumulated earnings tax under section 531 or the tax under section 541 (relating to personal holding companies)—(1) any excluded amount under subsection (a) allowed for the purposes of this subtitle (other than section 531 or section 541) shall be allowed whether or not such amount resulted in a reduction of the tax under section 531 or the tax under section 541 for the prior taxable year; and
+
+(2) where any excluded amount under subsection (a) was not allowable as a deduction for the prior taxable year for purposes of this subtitle other than of section 531 or section 541 but was allowable for the </akn:p></akn:content><akn:subsection eId="subsec_111_a"><akn:num>(a)</akn:num><akn:heading>Deductions</akn:heading><akn:content><akn:p>(a) Deductions Gross income does not include income attributable to the recovery during the taxable year of any amount deducted in any prior taxable year to the extent such amount did not reduce the amount of tax imposed by this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_b"><akn:num>(b)</akn:num><akn:heading>Credits</akn:heading><akn:content><akn:p>(b) Credits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_c"><akn:num>(c)</akn:num><akn:heading>Treatment of carryovers</akn:heading><akn:content><akn:p>(c) Treatment of carryovers For purposes of this section, an increase in a carryover which has not expired before the beginning of the taxable year in which the recovery or adjustment takes place shall be treated as reducing tax imposed by this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_d"><akn:num>(d)</akn:num><akn:heading>Special rules for accumulated earnings tax and for personal holding company tax</akn:heading><akn:content><akn:p>(d) Special rules for accumulated earnings tax and for personal holding company tax In applying subsection (a) for the purpose of determining the accumulated earnings tax under section 531 or the tax under section 541 (relating to personal holding companies)—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

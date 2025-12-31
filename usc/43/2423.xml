@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/2423" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/2423/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/2423/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2423"><akn:num>2423</akn:num><akn:heading>Loan guarantees</akn:heading><akn:content><akn:p>§ 2423. Loan guarantees(a) AuthoritySubject to the availability of appropriations, the Secretary may make available to lenders for a project meeting the eligibility criteria established in section 2422 of this title loan guarantees to supplement private-sector or lender financing for the project.
+
+
+(b) Terms and limitations(1) In generalLoan guarantees under this section for a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements as the Secretary determines to be appropriate to protect the financial interests of the United States.
+
+
+(2) AmountLoan guarantees by the Secretary shall not exceed an amount equal to 90 percent of the cost of the project that is the subject of the loan guarantee, as estimated at the time at which the loan guarantee is issued.
+
+
+(3) Interest rateAn obligation shall bear interest at a rate that does not exceed a level that the Secretary determines to be appropriate, taking into account the prevailing rate of interest in the private sector for similar loans and risks.
+
+
+(4) AmortizationA loan guarantee under this section shall provide for complete amortization of the loan guarantee within not more than 40 years.
+
+
+(5) NonsubordinationAn obligation shall be subject to the condition that the obligation is not subordinate to other financing.
+
+
+
+(c) Prepayment and refinancingAny prepayment or refinancing terms on a loan guarantee shall be negotiated between the non-Federal borrower and the lender with the consent of the Secretary.
+
+
+(Pub. L. 109–451, title II, § 204, Dec. 22, 2006, 120 Stat. 3358.)</akn:p></akn:content><akn:subsection eId="subsec_2423_a"><akn:num>(a)</akn:num><akn:heading>Authority</akn:heading><akn:content><akn:p>(a) Authority Subject to the availability of appropriations, the Secretary may make available to lenders for a project meeting the eligibility criteria established in section 2422 of this title loan guarantees to supplement private-sector or lender financing for the project.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2423_b"><akn:num>(b)</akn:num><akn:heading>Terms and limitations</akn:heading><akn:content><akn:p>(b) Terms and limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2423_c"><akn:num>(c)</akn:num><akn:heading>Prepayment and refinancing</akn:heading><akn:content><akn:p>(c) Prepayment and refinancing Any prepayment or refinancing terms on a loan guarantee shall be negotiated between the non-Federal borrower and the lender with the consent of the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

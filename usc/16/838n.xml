@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/838n" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/838n/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/838n/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_838n"><akn:num>838n</akn:num><akn:heading>Columbia Basin power management</akn:heading><akn:content><akn:p>§ 838n. Columbia Basin power management(a) DefinitionsIn this section:(1) AccountThe term “Account” means the account established by subsection (b)(1).
+
+
+(2) AdministratorThe term “Administrator” means the Administrator of the Bonneville Power Administration.
+
+
+(3) Canadian EntitlementThe term “Canadian Entitlement” means the downstream power benefits that Canada is entitled to under Article V of the Treaty Relating to Cooperative Development of the Water Resources of the Columbia River Basin, signed at Washington January 17, 1961 (15 UST 1555; TIAS 5638).
+
+
+
+(b) Transmission coordination and expansion(1) EstablishmentThere is established in the Treasury an account for the purposes of making expenditures to increase bilateral transfers of renewable electric generation between the western United States and Canada.
+
+
+(2) Criteria(A) In generalThe Administrator may make expenditures from the Account for activities to improve electric power system coordination by constructing electric power transmission facilities within the western United States that directly or indirectly facilitate non-carbon emitting electric power transactions between the western United States and Canada.
+
+
+(B) ApplicationSubparagraph (A) shall be effective after the later of—(i) September 16, 2024; and
+
+(ii) the date on which the Canadian entitlement value calculation is terminated or reduced to the actual electric power value to the United States, as determined by the Administrator.
+
+
+
+(3) ConsultationThe Administrator shall consult with relevant electric utilities in Canada and appropriate regional transmission planning organizations in considering the construction of transmission activities under this subsection.
+
+
+(4) AuthorizationThere is authorized to be appropriated to the Account a nonreimburseable amount equal to the aggregated amount of the Canadian Entitlement during the 5-year period preceding November 15, 2021.
+
+
+
+(c) Increased hydroelectric capacity(1) In generalThe Commissioner of R</akn:p></akn:content><akn:subsection eId="subsec_838n_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_838n_b"><akn:num>(b)</akn:num><akn:heading>Transmission coordination and expansion</akn:heading><akn:content><akn:p>(b) Transmission coordination and expansion</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_838n_c"><akn:num>(c)</akn:num><akn:heading>Increased hydroelectric capacity</akn:heading><akn:content><akn:p>(c) Increased hydroelectric capacity</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_838n_d"><akn:num>(d)</akn:num><akn:heading>Power coordination study</akn:heading><akn:content><akn:p>(d) Power coordination study</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/41104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/41104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/41104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41104"><akn:num>41104</akn:num><akn:heading>Common carriers</akn:heading><akn:content><akn:p>§ 41104. Common carriers(a) In General.—A common carrier, either alone or in conjunction with any other person, directly or indirectly, shall not—(1) allow a person to obtain transportation for property at less than the rates or charges established by the carrier in its tariff or service contract by means of false billing, false classification, false weighing, false measurement, or any other unjust or unfair device or means;
+
+(2) provide service in the liner trade that is—(A) not in accordance with the rates, charges, classifications, rules, and practices contained in a tariff published or a service contract entered into under chapter 405 of this title, unless excepted or exempted under section 40103 or 40501(a)(2) of this title; or
+
+(B) under a tariff or service contract that has been suspended or prohibited by the Federal Maritime Commission under chapter 407 or 423 of this title;
+
+
+(3) unreasonably refuse cargo space accommodations when available, or resort to other unfair or unjustly discriminatory methods;
+
+(4) for service pursuant to a tariff, engage in any unfair or unjustly discriminatory practice in the matter of—(A) rates or charges;
+
+(B) cargo classifications;
+
+(C) cargo space accommodations or other facilities, with due regard being given to the proper loading of the vessel and the available tonnage;
+
+(D) loading and landing of freight; or
+
+(E) adjustment and settlement of claims;
+
+
+(5) for service pursuant to a service contract, engage in any unfair or unjustly discriminatory practice against any commodity group or type of shipment or in the matter of rates or charges with respect to any port;
+
+(6) use a vessel in a particular trade for the purpose of excluding, preventing, or reducing competition by driving another ocean common carrier out of that trade;
+
+(7) offer or pay any deferred rebates;
+
+(8) for service pursuant to a tariff, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage;
+
+(9)</akn:p></akn:content><akn:subsection eId="subsec_41104_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A common carrier, either alone or in conjunction with any other person, directly or indirectly, shall not—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41104_b"><akn:num>(b)</akn:num><akn:heading>Rule of Construction.—</akn:heading><akn:content><akn:p>(b) Notwithstanding any other provision of law, there is no private right of action to enforce the prohibition under subsection (a)(13).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41104_c"><akn:num>(c)</akn:num><akn:heading>Agreement Violation.—</akn:heading><akn:content><akn:p>(c) Participants in an agreement found by the Commission to violate subsection (a)(13) shall have 90 days from the date of such Commission finding to withdraw from the agreement as necessary to comply with that subsection.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41104_d"><akn:num>(d)</akn:num><akn:heading>Detention and Demurrage Invoice Information.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41104_e"><akn:num>(e)</akn:num><akn:heading>Safe Harbor.—</akn:heading><akn:content><akn:p>(e) If a non-vessel operating common carrier passes through to the relevant shipper an invoice made by the ocean common carrier, and the Commission finds that the non-vessel operating common carrier is not otherwise responsible for the charge, then the ocean common carrier shall be subject to refunds or penalties pursuant to subsection (d)(1).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41104_f"><akn:num>(f)</akn:num><akn:heading>Elimination of Charge Obligation.—</akn:heading><akn:content><akn:p>(f) Failure to include the information required under subsection (d) on an invoice with any demurrage or detention charge shall eliminate any obligation of the charged party to pay the applicable charge.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

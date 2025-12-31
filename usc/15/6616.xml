@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/6616" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/6616/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/6616/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6616"><akn:num>6616</akn:num><akn:heading>Admissible evidence ultimate issue in State courts</akn:heading><akn:content><akn:p>§ 6616. Admissible evidence ultimate issue in State courts
+Any party to a Y2K action in a State court in a State that has not adopted a rule of evidence substantially similar to Rule 704 of the Federal Rules of Evidence may introduce in such action evidence that would be admissible if Rule 704 applied in that jurisdiction.
+(Pub. L. 106–37, § 17, July 20, 1999, 113 Stat. 202.)
+
+Editorial Notes
+
+References in TextRule 704 of the Federal Rules of Evidence, referred to in text, is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

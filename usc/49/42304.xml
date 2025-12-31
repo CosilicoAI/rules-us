@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/42304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/42304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/42304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_42304"><akn:num>42304</akn:num><akn:heading>Widespread disruptions</akn:heading><akn:content><akn:p>§ 42304. Widespread disruptions(a) General Requirements.—In the event of a widespread disruption, a covered air carrier shall immediately publish, via a prominent link on the air carrier’s public internet website, a clear statement indicating whether, with respect to a passenger of the air carrier whose travel is interrupted as a result of the widespread disruption, the air carrier will—(1) provide for hotel accommodations;
+
+(2) arrange for ground transportation;
+
+(3) provide meal vouchers;
+
+(4) arrange for air transportation on another air carrier or foreign air carrier to the passenger’s destination; and
+
+(5) provide for sleeping facilities inside the airport terminal.
+
+
+(b) Definitions.—In this section, the following definitions apply:(1) Widespread disruption.—The term “widespread disruption” means, with respect to a covered air carrier, the interruption of all or the overwhelming majority of the air carrier’s systemwide flight operations, including flight delays and cancellations, as the result of the failure of 1 or more computer systems or computer networks of the air carrier.
+
+(2) Covered air carrier.—The term “covered air carrier” means an air carrier that provides scheduled passenger air transportation by operating an aircraft that as originally designed has a passenger capacity of 30 or more seats.
+
+
+(c) Savings Provision.—Nothing in this section may be construed to modify, abridge, or repeal any obligation of an air carrier under section 42301.
+
+(Added Pub. L. 115–254, div. B, title IV, § 428(a), Oct. 5, 2018, 132 Stat. 3341.)</akn:p></akn:content><akn:subsection eId="subsec_42304_a"><akn:num>(a)</akn:num><akn:heading>General Requirements.—</akn:heading><akn:content><akn:p>(a) In the event of a widespread disruption, a covered air carrier shall immediately publish, via a prominent link on the air carrier’s public internet website, a clear statement indicating whether, with respect to a passenger of the air carrier whose travel is interrupted as a result of the widespread disruption, the air carrier will—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42304_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section, the following definitions apply:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42304_c"><akn:num>(c)</akn:num><akn:heading>Savings Provision.—</akn:heading><akn:content><akn:p>(c) Nothing in this section may be construed to modify, abridge, or repeal any obligation of an air carrier under section 42301.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

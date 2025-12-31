@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/48D" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/48D/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/48D/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_48D"><akn:num>48D</akn:num><akn:heading>Advanced manufacturing investment credit</akn:heading><akn:content><akn:p>§ 48D. Advanced manufacturing investment credit(a) Establishment of creditFor purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 35 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.
+
+
+(b) Qualified investment(1) In generalFor purposes of subsection (a), the qualified investment with respect to any advanced manufacturing facility for any taxable year is the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of an advanced manufacturing facility.
+
+
+(2) Qualified property(A) In generalFor purposes of this subsection, the term “qualified property” means property—(i) which is tangible property,
+
+(ii) with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
+
+(iii) which is—(I) constructed, reconstructed, or erected by the taxpayer, or
+
+(II) acquired by the taxpayer if the original use of such property commences with the taxpayer, and
+
+
+(iv) which is integral to the operation of the advanced manufacturing facility.
+
+
+(B) Buildings and structural components(i) In generalThe term “qualified property” includes any building or its structural components which otherwise satisfy the requirements under subparagraph (A).
+
+
+(ii) ExceptionClause (i) shall not apply with respect to a building or portion of a building used for offices, administrative services, or other functions unrelated to manufacturing.
+
+
+
+
+(3) Advanced manufacturing facilityFor purposes of this section, the term “advanced manufacturing facility” means a facility for which the primary purpose is the manufacturing of semiconductors or semiconductor manufacturing equipment.
+
+
+(4) Coordination with rehabilitation creditThe qualified investment with respect to any advanced manufacturing facility for any taxable year shall not include that portion of the basis of any property which is attrib</akn:p></akn:content><akn:subsection eId="subsec_48D_a"><akn:num>(a)</akn:num><akn:heading>Establishment of credit</akn:heading><akn:content><akn:p>(a) Establishment of credit For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 35 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48D_b"><akn:num>(b)</akn:num><akn:heading>Qualified investment</akn:heading><akn:content><akn:p>(b) Qualified investment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48D_c"><akn:num>(c)</akn:num><akn:heading>Eligible taxpayer</akn:heading><akn:content><akn:p>(c) Eligible taxpayer For purposes of this section, the term “eligible taxpayer” means any taxpayer which—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48D_d"><akn:num>(d)</akn:num><akn:heading>Elective payment</akn:heading><akn:content><akn:p>(d) Elective payment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48D_e"><akn:num>(e)</akn:num><akn:heading>Termination of credit</akn:heading><akn:content><akn:p>(e) Termination of credit The credit allowed under this section shall not apply to property the construction of which begins after December 31, 2026.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

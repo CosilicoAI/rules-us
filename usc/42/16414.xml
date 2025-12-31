@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16414" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16414/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16414/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16414"><akn:num>16414</akn:num><akn:heading>National Power Plant Operations Technology and Educational Center</akn:heading><akn:content><akn:p>§ 16414. National Power Plant Operations Technology and Educational Center(a) EstablishmentThe Secretary shall support the establishment of a National Power Plant Operations Technology and Education Center (referred to in this section as the “Center”), to address the need for training and educating certified operators and technicians for the electric power industry.
+
+
+(b) Location of CenterThe Secretary shall support the establishment of the Center at an institution of higher education that has—(1) expertise in providing degree programs in electric power generation, transmission, and distribution technologies;
+
+(2) expertise in providing onsite and Internet-based training; and
+
+(3) demonstrated responsiveness to workforce and training requirements in the electric power industry.
+
+
+(c) Training and continuing education(1) In generalThe Center shall provide training and continuing education in electric power generation, transmission, and distribution technologies and operations.
+
+
+(2) LocationThe Center shall carry out training and education activities under paragraph (1)—(A) at the Center; and
+
+(B) through Internet-based information technologies that allow for learning at remote sites.
+
+
+
+(Pub. L. 109–58, title XI, § 1106, Aug. 8, 2005, 119 Stat. 940.)</akn:p></akn:content><akn:subsection eId="subsec_16414_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary shall support the establishment of a National Power Plant Operations Technology and Education Center (referred to in this section as the “Center”), to address the need for training and educating certified operators and technicians for the electric power industry.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16414_b"><akn:num>(b)</akn:num><akn:heading>Location of Center</akn:heading><akn:content><akn:p>(b) Location of Center The Secretary shall support the establishment of the Center at an institution of higher education that has—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16414_c"><akn:num>(c)</akn:num><akn:heading>Training and continuing education</akn:heading><akn:content><akn:p>(c) Training and continuing education</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

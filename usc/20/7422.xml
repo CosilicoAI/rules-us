@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/7422" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/7422/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/7422/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7422"><akn:num>7422</akn:num><akn:heading>Grants to local educational agencies and tribes</akn:heading><akn:content><akn:p>§ 7422. Grants to local educational agencies and tribes(a) In generalThe Secretary may make grants, from allocations made under section 7423 of this title, and in accordance with this section and section 7423 of this title, to—(1) local educational agencies;
+
+(2) Indian tribes, as provided under subsection (c)(1);
+
+(3) Indian organizations, as provided under subsection (c)(1);
+
+(4) consortia of 2 or more local educational agencies, Indian tribes, Indian organizations, or Indian community-based organizations, if each local educational agency participating in such a consortium, if applicable—(A) provides an assurance that the eligible Indian children served by such local educational agency will receive the services of the programs funded under this subpart; and
+
+(B) is subject to all the requirements, assurances, and obligations applicable to local educational agencies under this subpart; and
+
+
+(5) Indian community-based organizations, as provided under subsection (d)(1).
+
+
+(b) Local educational agencies(1) Enrollment requirementsSubject to paragraph (2), a local educational agency shall be eligible for a grant under this subpart for any fiscal year if the number of Indian children eligible under section 7427 of this title who were enrolled in the schools of the agency, and to whom the agency provided free public education, during the preceding fiscal year—(A) was at least 10; or
+
+(B) constituted not less than 25 percent of the total number of individuals enrolled in the schools of such agency.
+
+
+(2) Cooperative agreementsA local educational agency may enter into a cooperative agreement with an Indian tribe under this subpart if such Indian tribe—(A) represents not less than 25 percent of the eligible Indian children who are served by such local educational agency; and
+
+(B) requests that the local educational agency enter into a cooperative agreement under this subpart.
+
+
+(3) ExclusionThe requirement of paragraph (1) shall not apply in Alaska, California, or Oklahoma,</akn:p></akn:content><akn:subsection eId="subsec_7422_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may make grants, from allocations made under section 7423 of this title, and in accordance with this section and section 7423 of this title, to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7422_b"><akn:num>(b)</akn:num><akn:heading>Local educational agencies</akn:heading><akn:content><akn:p>(b) Local educational agencies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7422_c"><akn:num>(c)</akn:num><akn:heading>Indian tribes and Indian organizations</akn:heading><akn:content><akn:p>(c) Indian tribes and Indian organizations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7422_d"><akn:num>(d)</akn:num><akn:heading>Indian community-based organization</akn:heading><akn:content><akn:p>(d) Indian community-based organization</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

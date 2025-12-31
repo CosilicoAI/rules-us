@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2000cc" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2000cc/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2000cc/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2000cc"><akn:num>2000cc</akn:num><akn:heading>Protection of land use as religious exercise</akn:heading><akn:content><akn:p>§ 2000cc. Protection of land use as religious exercise(a) Substantial burdens(1) General ruleNo government shall impose or implement a land use regulation in a manner that imposes a substantial burden on the religious exercise of a person, including a religious assembly or institution, unless the government demonstrates that imposition of the burden on that person, assembly, or institution—(A) is in furtherance of a compelling governmental interest; and
+
+(B) is the least restrictive means of furthering that compelling governmental interest.
+
+
+(2) Scope of applicationThis subsection applies in any case in which—(A) the substantial burden is imposed in a program or activity that receives Federal financial assistance, even if the burden results from a rule of general applicability;
+
+(B) the substantial burden affects, or removal of that substantial burden would affect, commerce with foreign nations, among the several States, or with Indian tribes, even if the burden results from a rule of general applicability; or
+
+(C) the substantial burden is imposed in the implementation of a land use regulation or system of land use regulations, under which a government makes, or has in place formal or informal procedures or practices that permit the government to make, individualized assessments of the proposed uses for the property involved.
+
+
+
+(b) Discrimination and exclusion(1) Equal termsNo government shall impose or implement a land use regulation in a manner that treats a religious assembly or institution on less than equal terms with a nonreligious assembly or institution.
+
+
+(2) NondiscriminationNo government shall impose or implement a land use regulation that discriminates against any assembly or institution on the basis of religion or religious denomination.
+
+
+(3) Exclusions and limitsNo government shall impose or implement a land use regulation that—(A) totally excludes religious assemblies from a jurisdiction; or
+
+(B) unreasonably limits religious assemblies, instituti</akn:p></akn:content><akn:subsection eId="subsec_2000cc_a"><akn:num>(a)</akn:num><akn:heading>Substantial burdens</akn:heading><akn:content><akn:p>(a) Substantial burdens</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2000cc_b"><akn:num>(b)</akn:num><akn:heading>Discrimination and exclusion</akn:heading><akn:content><akn:p>(b) Discrimination and exclusion</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

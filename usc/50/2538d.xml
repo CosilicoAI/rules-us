@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2538d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2538d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2538d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2538d"><akn:num>2538d</akn:num><akn:heading>Incorporation of integrated surety architecture</akn:heading><akn:content><akn:p>§ 2538d. Incorporation of integrated surety architecture(a) Shipments(1) The Administrator shall ensure that shipments described in paragraph (2) incorporate surety technologies relating to transportation and shipping developed by the Integrated Surety Architecture program of the Administration.
+
+(2) A shipment described in this paragraph is an over-the-road shipment of the Administration that involves any nuclear weapon planned to be in the active stockpile after 2025.
+
+
+(b) Certain programs(1) The Administrator, in coordination with the Chairman of the Nuclear Weapons Council, shall ensure that each program described in paragraph (2) incorporates integrated designs compatible with the Integrated Surety Architecture program.
+
+(2) A program described in this subsection is a program of the Administration that is a warhead development program, a life extension program, or a warhead major alteration program.
+
+
+(c) Determination(1) If, on a case-by-case basis, the Administrator determines that a shipment under subsection (a) will not incorporate some or all of the surety technologies described in such subsection, or that a program under subsection (b) will not incorporate some or all of the integrated designs described in such subsection, the Administrator shall submit such determination to the congressional defense committees, including the results of an analysis conducted pursuant to paragraph (2).
+
+(2) Each determination made under paragraph (1) shall be based on a documented, system risk analysis that considers security risk reduction, operational impacts, and technical risk.
+
+
+(d) TerminationThe requirements of subsections (a) and (b) shall terminate on December 31, 2029.
+
+
+(Pub. L. 107–314, div. D, title XLII, § 4222, as added Pub. L. 115–91, div. C, title XXXI, § 3112(a), Dec. 12, 2017, 131 Stat. 1883.)</akn:p></akn:content><akn:subsection eId="subsec_2538d_a"><akn:num>(a)</akn:num><akn:heading>Shipments</akn:heading><akn:content><akn:p>(a) Shipments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2538d_b"><akn:num>(b)</akn:num><akn:heading>Certain programs</akn:heading><akn:content><akn:p>(b) Certain programs</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2538d_c"><akn:num>(c)</akn:num><akn:heading>Determination</akn:heading><akn:content><akn:p>(c) Determination</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2538d_d"><akn:num>(d)</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>(d) Termination The requirements of subsections (a) and (b) shall terminate on December 31, 2029.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

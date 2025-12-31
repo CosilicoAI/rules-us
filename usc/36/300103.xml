@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/300103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/300103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/300103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300103"><akn:num>300103</akn:num><akn:heading>Membership and chapters</akn:heading><akn:content><akn:p>§ 300103. Membership and chapters(a) Membership.—Membership in the corporation is open to all the people of the United States and its territories and possessions, on payment of an amount specified, or as otherwise provided, in the bylaws.
+
+(b) Chapters.—(1) The chapters of the corporation are the local units of the corporation. The corporation shall prescribe policies and regulations related to—(A) granting charters to the chapters and revoking those charters;
+
+(B) the territorial jurisdiction of the chapters;
+
+(C) the relationship of the chapters to the corporation; and
+
+(D) compliance by the chapters with the policies and regulations of the corporation.
+
+
+(2) The policies and regulations shall require that each chapter adhere to the democratic principles of election specified in the bylaws in electing the governing body of the chapter and selecting delegates to the annual meeting of the corporation.
+
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491; Pub. L. 110–26, § 5, May 11, 2007, 121 Stat. 106.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+300103(a)36:4a (1st par.).Jan. 5, 1905, ch. 23, § 4a, as added May 8, 1947, ch. 50, § 5, 61 Stat. 81.
+300103(b)36:4a (last par.). 
+
+
+In subsection (a), the word “possessions” is substituted for “dependencies” for clarity and consistency in the revised title. The words “from time to time” are omitted as unnecessary.
+In subsection (b)(1), before clause (A), the words “within the States and Territories of the United States” are omitted as unnecessary. The words “The board of governors shall prescribe regulations related to” are substituted for “The regulations with respect to . . . shall be as determined from time to time by the Board of Governors” for consistency in the revised title. In clause (D), the word “regulations” is substituted for “rules” for clarity and consistency in the revised title and with other titles of the United States Code.
+
+Editorial Notes
+Amendme</akn:p></akn:content><akn:subsection eId="subsec_300103_a"><akn:num>(a)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(a) Membership in the corporation is open to all the people of the United States and its territories and possessions, on payment of an amount specified, or as otherwise provided, in the bylaws.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300103_b"><akn:num>(b)</akn:num><akn:heading>Chapters.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

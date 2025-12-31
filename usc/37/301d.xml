@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/37/301d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/37/301d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/37/301d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_301d"><akn:num>301d</akn:num><akn:heading>Multiyear retention bonus: medical officers of the armed forces</akn:heading><akn:content><akn:p>§ 301d. Multiyear retention bonus: medical officers of the armed forces(a) Bonus Authorized.—(1) A medical officer described in subsection (b) who executes a written agreement to remain on active duty for two, three, or four years after completion of any other active-duty service commitment may, upon acceptance of the written agreement by the Secretary of the military department concerned, be paid a retention bonus as provided in this section.
+
+(2) The amount of a retention bonus under paragraph (1) may not exceed $75,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
+
+
+(b) Eligible Officers.—This section applies to an officer of the armed forces who—(1) is an officer of the Medical Corps of the Army or the Navy or an officer of the Air Force designated as a medical officer;
+
+(2) is in a pay grade below pay grade O–7;
+
+(3) has at least eight years of creditable service (computed as described in section 302(g) of this title) or has completed any active-duty service commitment incurred for medical education and training; and
+
+(4) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
+
+
+(c) Repayment.—An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
+
+(Added Pub. L. 101–510, div. A, title VI, § 611(a)(1), Nov. 5, 1990, 104 Stat. 1576; amended Pub. L. 102–484, div. A, title X, § 1054(a)(2), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 107–314, div. A, title VI, § 615(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, § 687(b)(2), Jan. 6, 2006, 119 Stat. 3327; Pub. L. 110–181, div. A, title VI, § 615(b), Jan. 28, 2008, 122 Stat. 150.)
+
+Editorial Notes
+Amend</akn:p></akn:content><akn:subsection eId="subsec_301d_a"><akn:num>(a)</akn:num><akn:heading>Bonus Authorized.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301d_b"><akn:num>(b)</akn:num><akn:heading>Eligible Officers.—</akn:heading><akn:content><akn:p>(b) This section applies to an officer of the armed forces who—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301d_c"><akn:num>(c)</akn:num><akn:heading>Repayment.—</akn:heading><akn:content><akn:p>(c) An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

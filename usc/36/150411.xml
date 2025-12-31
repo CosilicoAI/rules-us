@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/150411" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/150411/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/150411/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_150411"><akn:num>150411</akn:num><akn:heading>Records and inspection</akn:heading><akn:content><akn:p>§ 150411. Records and inspection(a) Records.—The corporation shall keep—(1) correct and complete books and records of accounts;
+
+(2) minutes of any proceeding of the corporation involving any member of the corporation, the board of directors, or any committee having authority under the board of directors; and
+
+(3) at the principal office of the corporation, a record of the names and addresses of all members of the corporation having the right to vote.
+
+
+(b) Inspection.—(1) In general.—All books and records of the corporation may be inspected by any member having the right to vote, or by any agent or attorney of such a member, for any proper purpose, at any reasonable time.
+
+(2) Effect.—Nothing in this section contravenes—(A) the laws of the jurisdiction under which the corporation is incorporated; or
+
+(B) the laws of those jurisdictions within the United States and its territories within which the corporation carries out activities in furtherance of the purposes of the corporation.
+
+
+
+(Added Pub. L. 118–31, div. E, title LI, § 5103(a), Dec. 22, 2023, 137 Stat. 937.)</akn:p></akn:content><akn:subsection eId="subsec_150411_a"><akn:num>(a)</akn:num><akn:heading>Records.—</akn:heading><akn:content><akn:p>(a) The corporation shall keep—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_150411_b"><akn:num>(b)</akn:num><akn:heading>Inspection.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

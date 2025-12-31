@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10805" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10805/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10805/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10805"><akn:num>10805</akn:num><akn:heading>System requirements</akn:heading><akn:content><akn:p>§ 10805. System requirements(a) Authority; independent status; access to facilities and records; advisory council; annual report; grievance procedureA system established in a State under section 10803 of this title to protect and advocate the rights of individuals with mental illness shall—(1) have the authority to—(A) investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
+
+(B) pursue administrative, legal, and other appropriate remedies to ensure the protection of individuals with mental illness who are receiving care or treatment in the State; and
+
+(C) pursue administrative, legal, and other remedies on behalf of an individual who—(i) was a 11 So in original. Probably should be “an”. individual with mental illness; and
+
+(ii) is a resident of the State,
+
+
+but only with respect to matters which occur within 90 days after the date of the discharge of such individual from a facility providing care or treatment;
+
+
+(2) be independent of any agency in the State which provides treatment or services (other than advocacy services) to individuals with mental illness;
+
+(3) have access to facilities in the State providing care or treatment;
+
+(4) in accordance with section 10806 of this title, have access to all records of—(A) any individual who is a client of the system if such individual, or the legal guardian, conservator, or other legal representative of such individual, has authorized the system to have such access;
+
+(B) any individual (including an individual who has died or whose whereabouts are unknown)—(i) who by reason of the mental or physical condition of such individual is unable to authorize the system to have such access;
+
+(ii) who does not have a legal guardian, conservator, or other legal representative, or for whom the legal guardian is the State; and
+
+(iii) with respect to whom a complaint has been received by the system or </akn:p></akn:content><akn:subsection eId="subsec_10805_a"><akn:num>(a)</akn:num><akn:heading>Authority; independent status; access to facilities and records; advisory council; annual report; grievance procedure</akn:heading><akn:content><akn:p>(a) Authority; independent status; access to facilities and records; advisory council; annual report; grievance procedure A system established in a State under section 10803 of this title to protect and advocate the rights of individuals with mental illness shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10805_b"><akn:num>(b)</akn:num><akn:heading>Annual survey report; plan of corrections</akn:heading><akn:content><akn:p>(b) Annual survey report; plan of corrections The Secretary and the agency of a State which administers its State plan under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] shall provide the eligible system of the State with a copy of each annual survey report and plan of corrections for cited deficiencies made pursuant to titles XVIII and XIX of the Social Security Act [42 U.S.C. 1395 et seq., 1396 et seq.] with respect to any facility rendering care or treatment to individuals with mental illness in the State in which such system is located. A report or plan shall be made available within 30 days after the completion of the report or plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10805_c"><akn:num>(c)</akn:num><akn:heading>Governing authority</akn:heading><akn:content><akn:p>(c) Governing authority</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

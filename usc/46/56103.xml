@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/56103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/56103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/56103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_56103"><akn:num>56103</akn:num><akn:heading>Conditional approvals</akn:heading><akn:content><akn:p>§ 56103. Conditional approvals(a) In General.—In approving an act or transaction under section 56101 or 56102 of this title, the Secretary of Transportation may do so absolutely or upon conditions the Secretary considers advisable. The Secretary shall state the conditions in the notice of approval.
+
+(b) Violations.—A violation of a condition of approval is subject to the same penalties as a violation resulting from an act done without the required approval. The violation occurs at the time the condition is violated.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1654.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5610346 App.:839 (1st par.).Sept. 7, 1916, ch. 451, § 41 (1st par.), as added July 15, 1918, ch. 152, § 4, 40 Stat. 902; Exec. Order No. 6166, June 10, 1933, § 12; June 29, 1936, ch. 858, title II, § 204, title IX, § 904, 49 Stat. 1987, 2016; Pub. L. 97–31, § 12(32), Aug. 6, 1981, 95 Stat. 156.
+
+
+This section is substituted for the source provision to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_56103_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In approving an act or transaction under section 56101 or 56102 of this title, the Secretary of Transportation may do so absolutely or upon conditions the Secretary considers advisable. The Secretary shall state the conditions in the notice of approval.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_56103_b"><akn:num>(b)</akn:num><akn:heading>Violations.—</akn:heading><akn:content><akn:p>(b) A violation of a condition of approval is subject to the same penalties as a violation resulting from an act done without the required approval. The violation occurs at the time the condition is violated.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

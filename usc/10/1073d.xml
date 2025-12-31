@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1073d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1073d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1073d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1073d"><akn:num>1073d</akn:num><akn:heading>Military medical treatment facilities</akn:heading><akn:content><akn:p>§ 1073d. Military medical treatment facilities(a) In General.—To support the medical readiness of the armed forces and the readiness of medical personnel, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall maintain the military medical treatment facilities described in subsections (b), (c), and (d).
+
+(b) Medical Centers.—(1) The Secretary of Defense shall maintain medical centers in areas with a large population of members of the armed forces and covered beneficiaries.
+
+(2) Medical centers shall serve as referral facilities for members and covered beneficiaries who require comprehensive health care services that support medical readiness.
+
+(3) Medical centers shall consist of the following:(A) Inpatient and outpatient tertiary care facilities that incorporate specialty and subspecialty care.
+
+(B) Graduate medical education programs.
+
+(C) Residency training programs.
+
+(D) Level one, level two, or level three trauma care capabilities.
+
+
+(4)(A) The Secretary shall designate certain major medical centers as regional centers of excellence for the provision of specialty care services in the areas of specialty care described in subparagraph (D). A major medical center may be designated as a center of excellence under this subparagraph for more than one such area of specialty care.
+
+(B) The Secretary may designate certain medical centers as satellite centers of excellence for the provision of specialty care services for specific conditions, such as the following:(i) Post-traumatic stress.
+
+(ii) Traumatic brain injury.
+
+(iii) Such other conditions as the Secretary determines appropriate.
+
+
+(C) Centers of excellence designated under this paragraph shall serve the purposes of—(i) ensuring the military medical force readiness of the Department of Defense and the medical readiness of the armed forces;
+
+(ii) improving the quality of health care furnished by the Secretary to eligible beneficiaries; and
+
+(iii) improving health outcomes</akn:p></akn:content><akn:subsection eId="subsec_1073d_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) To support the medical readiness of the armed forces and the readiness of medical personnel, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall maintain the military medical treatment facilities described in subsections (b), (c), and (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1073d_b"><akn:num>(b)</akn:num><akn:heading>Medical Centers.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1073d_c"><akn:num>(c)</akn:num><akn:heading>Hospitals.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1073d_d"><akn:num>(d)</akn:num><akn:heading>Ambulatory Care Centers.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1073d_e"><akn:num>(e)</akn:num><akn:heading>Maintenance of Inpatient Capabilities at Military Medical Treatment Facilities Located Outside the United States.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1073d_f"><akn:num>(f)</akn:num><akn:heading>Notification Required to Modify Scope of Services Provided at Military Medical Treatment Facilities.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

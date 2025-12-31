@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/574a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/574a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/574a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_574a"><akn:num>574a</akn:num><akn:heading>Training funds</akn:heading><akn:content><akn:p>§ 574a. Training funds(a) In generalThe Secretary may include individuals not employed by the Department of the Army in training classes and courses offered by the Corps of Engineers in any case in which the Secretary determines that it is in the best interest of the Federal Government to include those individuals as participants.
+
+
+(b) Expenses(1) In generalAn individual not employed by the Department of the Army attending a training class or course described in subsection (a) shall pay the full cost of the training provided to the individual.
+
+
+(2) PaymentsPayments made by an individual for training received under paragraph (1), up to the actual cost of the training—(A) may be retained by the Secretary;
+
+(B) shall be credited to an appropriations account used for paying training costs; and
+
+(C) shall be available for use by the Secretary, without further appropriation, for training purposes.
+
+
+(3) Excess amountsAny payments received under paragraph (2) that are in excess of the actual cost of training provided shall be credited as miscellaneous receipts to the Treasury of the United States.
+
+
+
+(Pub. L. 110–114, title II, § 2016, Nov. 8, 2007, 121 Stat. 1076.)
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.</akn:p></akn:content><akn:subsection eId="subsec_574a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may include individuals not employed by the Department of the Army in training classes and courses offered by the Corps of Engineers in any case in which the Secretary determines that it is in the best interest of the Federal Government to include those individuals as participants.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_574a_b"><akn:num>(b)</akn:num><akn:heading>Expenses</akn:heading><akn:content><akn:p>(b) Expenses</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

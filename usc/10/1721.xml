@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1721" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1721/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1721/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1721"><akn:num>1721</akn:num><akn:heading>Designation of acquisition positions and acquisition workforce career fields</akn:heading><akn:content><akn:p>§ 1721. Designation of acquisition positions and acquisition workforce career fields(a) Designation.—The Secretary of Defense shall designate in regulations those positions in the Department of Defense that are acquisition positions for purposes of this chapter. The Secretary shall also designate in regulations those career fields in the Department of Defense that are acquisition workforce career fields for purposes of this chapter.
+
+(b) Required Positions.—In designating the positions under subsection (a), the Secretary shall include, at a minimum, all acquisition-related positions in the following areas:(1) Program management.
+
+(2) Systems planning, research, development, engineering, and testing.
+
+(3) Procurement, including contracting.
+
+(4) Industrial property management.
+
+(5) Logistics.
+
+(6) Quality control and assurance.
+
+(7) Manufacturing and production.
+
+(8) Business, cost estimating, financial management, and auditing.
+
+(9) Education, training, and career development.
+
+(10) Construction.
+
+(11) Security cooperation.
+
+(12) Intellectual property.
+
+(13) Other positions, as necessary.
+
+
+(c) Management Headquarters Activities.—The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 12, 1996.
+
+(Added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1640; amended Pub. L. 102–25, title VII, § 701(j)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 105–85, div. A, title IX, § 912(f), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 115–91, div. A, title VIII, § 802(b), Dec. 12, 2017, 131 Stat. </akn:p></akn:content><akn:subsection eId="subsec_1721_a"><akn:num>(a)</akn:num><akn:heading>Designation.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense shall designate in regulations those positions in the Department of Defense that are acquisition positions for purposes of this chapter. The Secretary shall also designate in regulations those career fields in the Department of Defense that are acquisition workforce career fields for purposes of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1721_b"><akn:num>(b)</akn:num><akn:heading>Required Positions.—</akn:heading><akn:content><akn:p>(b) In designating the positions under subsection (a), the Secretary shall include, at a minimum, all acquisition-related positions in the following areas:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1721_c"><akn:num>(c)</akn:num><akn:heading>Management Headquarters Activities.—</akn:heading><akn:content><akn:p>(c) The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 12, 1996.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

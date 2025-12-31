@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6831" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6831/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6831/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6831"><akn:num>6831</akn:num><akn:heading>Congressional findings and purpose</akn:heading><akn:content><akn:p>§ 6831. Congressional findings and purpose(a) The Congress finds that—(1) large amounts of fuel and energy are consumed unnecessarily each year in heating, cooling, ventilating, and providing domestic hot water for newly constructed residential and commercial buildings because such buildings lack adequate energy conservation features;
+
+(2) Federal voluntary performance standards for newly constructed buildings can prevent such waste of energy, which the Nation can no longer afford in view of its current and anticipated energy shortage;
+
+(3) the failure to provide adequate energy conservation measures in newly constructed buildings increases long-term operating costs that may affect adversely the repayment of, and security for, loans made, insured, or guaranteed by Federal agencies or made by federally insured or regulated instrumentalities; and
+
+(4) State and local building codes or similar controls can provide an existing means by which to assure, in coordination with other building requirements and with a minimum of Federal interference in State and local transactions, that newly constructed buildings contain adequate energy conservation features.
+
+
+(b) The purposes of this subchapter, therefore, are to—(1) redirect Federal policies and practices to assure that reasonable energy conservation features will be incorporated into new commercial and residential buildings receiving Federal financial assistance;
+
+(2) provide for the development and implementation, as soon as practicable, of voluntary performance standards for new residential and commercial buildings which are designed to achieve the maximum practicable improvements in energy efficiency and increases in the use of nondepletable sources of energy; and
+
+(3) encourage States and local governments to adopt and enforce such standards through their existing building codes and other construction control mechanisms, or to apply them through a special approval process.
+
+
+(Pub. L. 94–385, title III, § 302, Aug. 14,</akn:p></akn:content><akn:subsection eId="subsec_6831_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6831_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The purposes of this subchapter, therefore, are to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

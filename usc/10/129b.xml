@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/129b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/129b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/129b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_129b"><akn:num>129b</akn:num><akn:heading>Authority to procure personal services</akn:heading><akn:content><akn:p>§ 129b. Authority to procure personal services(a) Authority.—Subject to subsection (b), the Secretary of Defense and the Secretaries of the military departments may—(1) procure the services of experts or consultants (or of organizations of experts or consultants) in accordance with section 3109 of title 5; and
+
+(2) pay in connection with such services travel expenses of individuals, including transportation and per diem in lieu of subsistence while such individuals are traveling from their homes or places of business to official duty stations and return as may be authorized by law.
+
+
+(b) Conditions.—The services of experts or consultants (or organizations thereof) may be procured under subsection (a) only if the Secretary of Defense or the Secretary of the military department concerned, as the case may be, determines that—(1) the procurement of such services is advantageous to the United States; and
+
+(2) such services cannot adequately be provided by the Department of Defense.
+
+
+(c) Regulations.—Procurement of the services of experts and consultants (or organizations thereof) under subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense.
+
+(d) Additional Authority for Personal Services Contracts.—(1) In addition to the authority provided under subsection (a), the Secretary of Defense may enter into personal services contracts if the personal services—(A) are to be provided by individuals outside the United States, regardless of their nationality, and are determined by the Secretary to be necessary and appropriate for supporting the activities and programs of the Department of Defense outside the United States;
+
+(B) directly support the mission of a defense intelligence component or counter-intelligence organization of the Department of Defense; or
+
+(C) directly support the mission of the special operations command of the Department of Defense.
+
+
+(2) The contracting officer for a personal services contract under this subsection sha</akn:p></akn:content><akn:subsection eId="subsec_129b_a"><akn:num>(a)</akn:num><akn:heading>Authority.—</akn:heading><akn:content><akn:p>(a) Subject to subsection (b), the Secretary of Defense and the Secretaries of the military departments may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129b_b"><akn:num>(b)</akn:num><akn:heading>Conditions.—</akn:heading><akn:content><akn:p>(b) The services of experts or consultants (or organizations thereof) may be procured under subsection (a) only if the Secretary of Defense or the Secretary of the military department concerned, as the case may be, determines that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129b_c"><akn:num>(c)</akn:num><akn:heading>Regulations.—</akn:heading><akn:content><akn:p>(c) Procurement of the services of experts and consultants (or organizations thereof) under subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_129b_d"><akn:num>(d)</akn:num><akn:heading>Additional Authority for Personal Services Contracts.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

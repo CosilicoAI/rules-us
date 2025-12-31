@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10367" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10367/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10367/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10367"><akn:num>10367</akn:num><akn:heading>Water data enhancement by United States Geological Survey</akn:heading><akn:content><akn:p>§ 10367. Water data enhancement by United States Geological Survey(a) Federal priority streamgage program(1) In generalThe Secretary, in consultation with the Advisory Committee and the Panel and consistent with this section, shall proceed with implementation of the Federal priority streamgage program.
+
+
+(2) RequirementsIn conducting the Federal priority streamgage program, the Secretary shall—(A) measure streamflow and related environmental variables in nationally significant watersheds—(i) in a reliable and continuous manner; and
+
+(ii) to develop a comprehensive source of information on which public and private decisions relating to the management of water resources may be based;
+
+
+(B) provide for a better understanding of hydrologic extremes (including floods and droughts) through the conduct of intensive data collection activities during and following hydrologic extremes;
+
+(C) establish a base network that provides resources that are necessary for—(i) the monitoring of long-term changes in streamflow; and
+
+(ii) the conduct of assessments to determine the extent to which each long-term change monitored under clause (i) is related to global climate change;
+
+
+(D) integrate the Federal priority streamgage program with data collection activities of Federal agencies and appropriate State water resource agencies (including the National Integrated Drought Information System)—(i) to enhance the comprehensive understanding of water availability;
+
+(ii) to improve flood-hazard assessments;
+
+(iii) to identify any data gap with respect to water resources; and
+
+(iv) to improve hydrologic forecasting; and
+
+
+(E) incorporate principles of adaptive management in the conduct of periodic reviews of information collected under the Federal priority streamgage program to assess whether the objectives of the Federal priority streamgage program are being adequately addressed.
+
+
+(3) Improved methodologiesThe Secretary shall—(A) improve methodologies relating to the analysis and delivery o</akn:p></akn:content><akn:subsection eId="subsec_10367_a"><akn:num>(a)</akn:num><akn:heading>Federal priority streamgage program</akn:heading><akn:content><akn:p>(a) Federal priority streamgage program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10367_b"><akn:num>(b)</akn:num><akn:heading>National groundwater resources monitoring</akn:heading><akn:content><akn:p>(b) National groundwater resources monitoring</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10367_c"><akn:num>(c)</akn:num><akn:heading>Improved water estimation, measurement, and monitoring technologies</akn:heading><akn:content><akn:p>(c) Improved water estimation, measurement, and monitoring technologies</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

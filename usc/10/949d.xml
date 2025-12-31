@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/949d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/949d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/949d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_949d"><akn:num>949d</akn:num><akn:heading>Sessions</akn:heading><akn:content><akn:p>§ 949d. Sessions(a) Sessions Without Presence of Members.—(1) At any time after the service of charges which have been referred for trial by military commission under this chapter, the military judge may call the military commission into session without the presence of the members for the purpose of—(A) hearing and determining motions raising defenses or objections which are capable of determination without trial of the issues raised by a plea of not guilty;
+
+(B) hearing and ruling upon any matter which may be ruled upon by the military judge under this chapter, whether or not the matter is appropriate for later consideration or decision by the members;
+
+(C) if permitted by regulations prescribed by the Secretary of Defense, receiving the pleas of the accused; and
+
+(D) performing any other procedural function which may be performed by the military judge under this chapter or under rules prescribed pursuant to section 949a of this title and which does not require the presence of the members.
+
+
+(2) Except as provided in subsections (b), (c), and (d), any proceedings under paragraph (1) shall be conducted in the presence of the accused, defense counsel, and trial counsel, and shall be made part of the record.
+
+
+(b) Deliberation or Vote of Members.—When the members of a military commission under this chapter deliberate or vote, only the members may be present.
+
+(c) Closure of Proceedings.—(1) The military judge may close to the public all or part of the proceedings of a military commission under this chapter.
+
+(2) The military judge may close to the public all or a portion of the proceedings under paragraph (1) only upon making a specific finding that such closure is necessary to—(A) protect information the disclosure of which could reasonably be expected to cause damage to the national security, including intelligence or law enforcement sources, methods, or activities; or
+
+(B) ensure the physical safety of individuals.
+
+
+(3) A finding under paragraph (2) may be based u</akn:p></akn:content><akn:subsection eId="subsec_949d_a"><akn:num>(a)</akn:num><akn:heading>Sessions Without Presence of Members.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_949d_b"><akn:num>(b)</akn:num><akn:heading>Deliberation or Vote of Members.—</akn:heading><akn:content><akn:p>(b) When the members of a military commission under this chapter deliberate or vote, only the members may be present.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_949d_c"><akn:num>(c)</akn:num><akn:heading>Closure of Proceedings.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_949d_d"><akn:num>(d)</akn:num><akn:heading>Exclusion of Accused From Certain Proceedings.—</akn:heading><akn:content><akn:p>(d) The military judge may exclude the accused from any portion of a proceeding upon a determination that, after being warned by the military judge, the accused persists in conduct that justifies exclusion from the courtroom—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

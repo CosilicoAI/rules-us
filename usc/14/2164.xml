@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/2164" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/2164/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/2164/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2164"><akn:num>2164</akn:num><akn:heading>Officers considered for removal; retirement or discharge; separation benefits</akn:heading><akn:content><akn:p>§ 2164. Officers considered for removal; retirement or discharge; separation benefits(a) At any time during proceedings under section 2159 or 2160 of this title, and before the removal of an officer, the Secretary may grant a request—(1) for voluntary retirement, if the officer is otherwise qualified therefor; or
+
+(2) for discharge with separation benefits under section 2146(c) of this title.
+
+
+(b) Each officer removed from active duty under section 2163 of this title shall—(1) if on the date of removal the officer is eligible for voluntary retirement under any law, be retired in the grade for which he would be eligible if retired at his request; or
+
+(2) if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged with separation benefits under section 2146(c) of this title, unless under regulations promulgated by the Secretary the condition under which the officer is discharged does not warrant an honorable discharge.
+
+
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 327; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 99–348, title II, § 205(b)(6), July 1, 1986, 100 Stat. 700; Pub. L. 105–383, title II, § 201(c), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, § 416(a)(5), Nov. 25, 2002, 116 Stat. 2122; renumbered § 2164 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+
+Editorial Notes
+Amendments2018—Pub. L. 115–282, § 112(b), renumbered section 327 of this title as this section.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2159 or 2160” for “section 322 or 323” in introductory provisions.
+Subsec. (a)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)” for “section 286(c)”.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2163” for “section 326” in introductory provisions.
+Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)” for “section 286(c)”.
+2002—Pu</akn:p></akn:content><akn:subsection eId="subsec_2164_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) At any time during proceedings under section 2159 or 2160 of this title, and before the removal of an officer, the Secretary may grant a request—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2164_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Each officer removed from active duty under section 2163 of this title shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

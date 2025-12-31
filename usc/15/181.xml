@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/181" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/181/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/181/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_181"><akn:num>181</akn:num><akn:heading>Repealed. Pub. L. 87–826, § 3, Oct. 15, 1962, 76 Stat. 953</akn:heading><akn:content><akn:p>§ 181. Repealed. Pub. L. 87–826, § 3, Oct. 15, 1962, 76 Stat. 953
+
+Section, R.S. § 341; acts Aug. 23, 1912, ch. 350, § 1, 37 Stat. 407; Mar. 1, 1919, ch. 86, 40 Stat. 1256, required preparation of an annual statement of merchandise. See section 301 et seq. of Title 13, Census.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of RepealRepeal effective 180 days after Oct. 15, 1962, see section 4 of Pub. L. 87–826, set out as a note under section 301 of Title 13, Census.
+
+Savings ProvisionSee section 3 of Pub. L. 87–826, set out as a note under sections 173 and 174 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

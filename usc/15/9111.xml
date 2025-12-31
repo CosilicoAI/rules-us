@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9111"><akn:num>9111</akn:num><akn:heading>Assistance for providers of transportation services affected by COVID–19</akn:heading><akn:content><akn:p>§ 9111. Assistance for providers of transportation services affected by COVID–19(a) DefinitionsIn this section:(1) Covered periodThe term “covered period”, with respect to a provider of transportation services, means the period—(A) beginning on December 27, 2020; and
+
+(B) ending on the later of—(i) March 31, 2021; or
+
+(ii) the date on which all funds provided to the provider of transportation services under subsection (c) are expended.
+
+
+
+(2) COVID–19The term “COVID–19” means the Coronavirus Disease 2019.
+
+
+(3) Payroll costs(A) In generalThe term “payroll costs” means—(i) any payment to an employee of compensation in the form of—(I) salary, wage, commission, or similar compensation;
+
+(II) payment of a cash tip or an equivalent;
+
+(III) payment for vacation, parental, family, medical, or sick leave;
+
+(IV) payment required for the provision of group health care or other group insurance benefits, including insurance premiums;
+
+(V) payment of a retirement benefit;
+
+(VI) payment of a State or local tax assessed on employees with respect to compensation; or
+
+(VII) paid administrative leave; and
+
+
+(ii) any payment of compensation to, or income of, a sole proprietor or independent contractor—(I) that is—(aa) a wage;
+
+(bb) a commission;
+
+(cc) income;
+
+(dd) net earnings from self-employment; or
+
+(ee) similar compensation; and
+
+
+(II) in an amount equal to not more than $100,000 during 1 calendar year, as prorated for the covered period.
+
+
+
+(B) ExclusionsThe term “payroll costs” does not include—(i) any compensation of an individual employee in excess of an annual salary of $100,000, as prorated for the covered period;
+
+(ii) any tax imposed or withheld under chapter 21, 22, or 24 of title 26 during the covered period;
+
+(iii) any compensation of an employee whose principal place of residence is outside the United States;
+
+(iv) any qualified sick leave wages for which a credit is allowed under section 7001 of the Families First Coronavirus Response Act (26 U.S.C. 3111 note; Public</akn:p></akn:content><akn:subsection eId="subsec_9111_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9111_b"><akn:num>(b)</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>(b) Funding Out of any funds in the Treasury not otherwise appropriated, there are appropriated to provide grants to eligible providers of transportation services under this section, $2,000,000,000 for fiscal year 2021, to remain available until expended.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9111_c"><akn:num>(c)</akn:num><akn:heading>Provision of assistance</akn:heading><akn:content><akn:p>(c) Provision of assistance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9111_d"><akn:num>(d)</akn:num><akn:heading>Eligible activities</akn:heading><akn:content><akn:p>(d) Eligible activities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9111_e"><akn:num>(e)</akn:num><akn:heading>Compensation of returning employees</akn:heading><akn:content><akn:p>(e) Compensation of returning employees Notwithstanding any other provision of law, any compensation provided to a returning employee under subsection (d)(1)(D)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9111_f"><akn:num>(f)</akn:num><akn:heading>Administrative provisions</akn:heading><akn:content><akn:p>(f) Administrative provisions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

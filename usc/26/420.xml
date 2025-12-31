@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/420" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/420/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/420/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_420"><akn:num>420</akn:num><akn:heading>Transfers of excess pension assets to retiree health accounts</akn:heading><akn:content><akn:p>§ 420. Transfers of excess pension assets to retiree health accounts(a) General ruleIf there is a qualified transfer of any excess pension assets of a defined benefit plan to a health benefits account, or an applicable life insurance account, which is part of such plan—(1) a trust which is part of such plan shall not be treated as failing to meet the requirements of subsection (a) or (h) of section 401 solely by reason of such transfer (or any other action authorized under this section),
+
+(2) no amount shall be includible in the gross income of the employer maintaining the plan solely by reason of such transfer,
+
+(3) such transfer shall not be treated—(A) as an employer reversion for purposes of section 4980, or
+
+(B) as a prohibited transaction for purposes of section 4975, and
+
+
+(4) the limitations of subsection (d) shall apply to such employer.
+
+
+(b) Qualified transferFor purposes of this section—(1) In generalThe term “qualified transfer” means a transfer—(A) of excess pension assets of a defined benefit plan to a health benefits account, or an applicable life insurance account, which is part of such plan,
+
+(B) which does not contravene any other provision of law, and
+
+(C) with respect to which the following requirements are met in connection with the plan—(i) the use requirements of subsection (c)(1),
+
+(ii) the vesting requirements of subsection (c)(2), and
+
+(iii) the minimum cost requirements of subsection (c)(3).
+
+
+
+(2) Only 1 transfer per yearNo more than 1 transfer with respect to any plan during a taxable year may be treated as a qualified transfer for purposes of this section. If there is a transfer from a defined benefit plan to both a health benefits account and an applicable life insurance account during any taxable year, such transfers shall be treated as 1 transfer for purposes of this paragraph.
+
+
+(3) Limitation on amount transferredThe amount of excess pension assets which may be transferred to an account in a qualified transfer shall not exceed the</akn:p></akn:content><akn:subsection eId="subsec_420_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule If there is a qualified transfer of any excess pension assets of a defined benefit plan to a health benefits account, or an applicable life insurance account, which is part of such plan—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_b"><akn:num>(b)</akn:num><akn:heading>Qualified transfer</akn:heading><akn:content><akn:p>(b) Qualified transfer For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_c"><akn:num>(c)</akn:num><akn:heading>Requirements of plans transferring assets</akn:heading><akn:content><akn:p>(c) Requirements of plans transferring assets</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_d"><akn:num>(d)</akn:num><akn:heading>Limitations on employer</akn:heading><akn:content><akn:p>(d) Limitations on employer For purposes of this title—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_e"><akn:num>(e)</akn:num><akn:heading>Definition and special rules</akn:heading><akn:content><akn:p>(e) Definition and special rules For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_f"><akn:num>(f)</akn:num><akn:heading>Qualified transfers to cover future retiree costs and collectively bargained retiree benefits</akn:heading><akn:content><akn:p>(f) Qualified transfers to cover future retiree costs and collectively bargained retiree benefits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_420_g"><akn:num>(g)</akn:num><akn:heading>Segment rates determined without pension stabilization</akn:heading><akn:content><akn:p>(g) Segment rates determined without pension stabilization For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

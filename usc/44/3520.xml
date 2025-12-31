@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3520" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3520/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3520/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3520"><akn:num>3520</akn:num><akn:heading>Chief Data Officers</akn:heading><akn:content><akn:p>§ 3520. Chief Data Officers(a) Establishment.—The head of each agency shall designate a nonpolitical appointee employee in the agency as the Chief Data Officer of the agency.
+
+(b) Qualifications.—The Chief Data Officer of an agency shall be designated on the basis of demonstrated training and experience in data management, governance (including creation, application, and maintenance of data standards), collection, analysis, protection, use, and dissemination, including with respect to any statistical and related techniques to protect and de-identify confidential data.
+
+(c) Functions.—The Chief Data Officer of an agency shall—(1) be responsible for lifecycle data management;
+
+(2) coordinate with any official in the agency responsible for using, protecting, disseminating, and generating data to ensure that the data needs of the agency are met;
+
+(3) manage data assets of the agency, including the standardization of data format, sharing of data assets, and publication of data assets in accordance with applicable law;
+
+(4) in carrying out the requirements under paragraphs (3) and (5), consult with any statistical official of the agency (as designated under section 314 of title 5);
+
+(5) carry out the requirements of the agency under subsections (b) through (d), (f), and (i) of section 3506, section 3507, and section 3511;
+
+(6) ensure that, to the extent practicable, agency data conforms with data management best practices;
+
+(7) engage agency employees, the public, and contractors in using public data assets and encourage collaborative approaches on improving data use;
+
+(8) support the Performance Improvement Officer of the agency in identifying and using data to carry out the functions described in section 1124(a)(2) of title 31;
+
+(9) support the Evaluation Officer of the agency in obtaining data to carry out the functions described in section 313(d) of title 5;
+
+(10) review the impact of the infrastructure of the agency on data asset accessibility and coordinate with the</akn:p></akn:content><akn:subsection eId="subsec_3520_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) The head of each agency shall designate a nonpolitical appointee employee in the agency as the Chief Data Officer of the agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3520_b"><akn:num>(b)</akn:num><akn:heading>Qualifications.—</akn:heading><akn:content><akn:p>(b) The Chief Data Officer of an agency shall be designated on the basis of demonstrated training and experience in data management, governance (including creation, application, and maintenance of data standards), collection, analysis, protection, use, and dissemination, including with respect to any statistical and related techniques to protect and de-identify confidential data.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3520_c"><akn:num>(c)</akn:num><akn:heading>Functions.—</akn:heading><akn:content><akn:p>(c) The Chief Data Officer of an agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3520_d"><akn:num>(d)</akn:num><akn:heading>Delegation of Responsibilities.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3520_e"><akn:num>(e)</akn:num><akn:heading>Reports.—</akn:heading><akn:content><akn:p>(e) The Chief Data Officer of an agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives an annual report on the compliance of the agency with the requirements of this subchapter, including information on each requirement that the agency could not carry out and, if applicable, what the agency needs to carry out such requirement.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/18302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/18302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/18302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18302"><akn:num>18302</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 18302. Definitions
+In this chapter, the following definitions apply:(1) Arbitration.—The term “arbitration”—(A) means the arbitration of disputes, regarding the terms and conditions of employment, that is required under an interstate compact governing an interstate compact agency operating in the national capital area; but
+
+(B) does not include the interpretation and application of rights arising from an existing collective bargaining agreement.
+
+
+(2) Arbitrator.—The term “arbitrator” refers to either a single arbitrator, or a board of arbitrators, chosen under applicable procedures.
+
+(3) Interstate compact agency operating in the national capital area.—The term “interstate compact agency operating in the national capital area” means any interstate compact agency that provides public transit services and that was established by an interstate compact to which the District of Columbia is a signatory.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1292.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1830240:1302(1), (2), (4), (5).Pub. L. 104–50, title IV, § 403(1), (2), (4), (5), Nov. 15, 1995, 109 Stat. 464.
+
+
+The text of 40:1302(4) and (5) is combined to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_18302_1"><akn:num>(1)</akn:num><akn:heading>Arbitration.—</akn:heading><akn:content><akn:p>(1) The term “arbitration”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_2"><akn:num>(2)</akn:num><akn:heading>Arbitrator.—</akn:heading><akn:content><akn:p>(2) The term “arbitrator” refers to either a single arbitrator, or a board of arbitrators, chosen under applicable procedures.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_3"><akn:num>(3)</akn:num><akn:heading>Interstate compact agency operating in the national capital area.—</akn:heading><akn:content><akn:p>(3) The term “interstate compact agency operating in the national capital area” means any interstate compact agency that provides public transit services and that was established by an interstate compact to which the District of Columbia is a signatory.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

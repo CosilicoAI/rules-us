@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/10209" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/10209/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/10209/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10209"><akn:num>10209</akn:num><akn:heading>Regular and reserve components: discrimination prohibited</akn:heading><akn:content><akn:p>§ 10209. Regular and reserve components: discrimination prohibited
+Laws applying to both Regulars and Reserves shall be administered without discrimination—(1) among Regulars;
+
+(2) among Reserves; and
+
+(3) between Regulars and Reserves.
+
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 277 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.</akn:p></akn:content><akn:subsection eId="subsec_10209_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) among Regulars;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10209_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) among Reserves; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10209_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) between Regulars and Reserves.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

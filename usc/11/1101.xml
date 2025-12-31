@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1101"><akn:num>1101</akn:num><akn:heading>Definitions for this chapter</akn:heading><akn:content><akn:p>§ 1101. Definitions for this chapter
+In this chapter—(1) “debtor in possession” means debtor except when a person that has qualified under section 322 of this title is serving as trustee in the case;
+
+(2) “substantial consummation” means—(A) transfer of all or substantially all of the property proposed by the plan to be transferred;
+
+(B) assumption by the debtor or by the successor to the debtor under the plan of the business or of the management of all or substantially all of the property dealt with by the plan; and
+
+(C) commencement of distribution under the plan.
+
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2626.)
+
+Historical and Revision Notes
+senate report no. 95–989This section contains definitions of three terms that are used in chapter 11. Paragraph (1) defines debtor in possession to mean the debtor, except when a trustee who has qualified in serving in the case.
+Paragraph (2), derived from section 229a of current law [section 629(a) of former title 11], defines substantial consummation. Substantial consummation of a plan occurs when transfer of all or substantially all of the property proposed by the plan to be transferred is actually transferred; when the debtor (or its successor) has assumed the business of the debtor or the management of all or substantially all of the property dealt with by the plan; and when distribution under the plan has commenced.
+Paragraph (3) defines for purposes of Chapter 11 a public company to mean “a debtor who, within 12 months prior to the filing of a petition for relief under this chapter, had outstanding liabilities of $5 million or more, exclusive of liabilities for goods, services, or taxes and not less than 1,000 security holders.” There are, as noted, special safeguards for public investors related to the reorganization of a public company, as so defined.
+Both requirements must be met: liabilities, excluding tax obligations and trade liabilities, must be $5 million or more; and (2) the number of holders of securities, de</akn:p></akn:content><akn:subsection eId="subsec_1101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “debtor in possession” means debtor except when a person that has qualified under section 322 of this title is serving as trustee in the case;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “substantial consummation” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

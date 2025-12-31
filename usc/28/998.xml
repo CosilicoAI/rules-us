@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/998" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/998/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/998/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_998"><akn:num>998</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 998. Definitions
+As used in this chapter—(a) “Commission” means the United States Sentencing Commission;
+
+(b) “Commissioner” means a member of the United States Sentencing Commission;
+
+(c) “guidelines” means the guidelines promulgated by the Commission pursuant to section 994(a) of this title; and
+
+(d) “rules and regulations” means rules and regulations promulgated by the Commission pursuant to section 995 of this title.
+
+(Added Pub. L. 98–473, title II, § 217(a), Oct. 12, 1984, 98 Stat. 2026.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.</akn:p></akn:content><akn:subsection eId="subsec_998_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) “Commission” means the United States Sentencing Commission;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_998_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) “Commissioner” means a member of the United States Sentencing Commission;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_998_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) “guidelines” means the guidelines promulgated by the Commission pursuant to section 994(a) of this title; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_998_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) “rules and regulations” means rules and regulations promulgated by the Commission pursuant to section 995 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/4/111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/4/111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/4/111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_111"><akn:num>111</akn:num><akn:heading>Same; taxation affecting Federal employees; income tax</akn:heading><akn:content><akn:p>§ 111. Same; taxation affecting Federal employees; income tax(a) General Rule.—The United States consents to the taxation of pay or compensation for personal service as an officer or employee of the United States, a territory or possession or political subdivision thereof, the government of the District of Columbia, or an agency or instrumentality of one or more of the foregoing, by a duly constituted taxing authority having jurisdiction, if the taxation does not discriminate against the officer or employee because of the source of the pay or compensation.
+
+(b) Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Columbia River.—Pay or compensation paid by the United States for personal services as an employee of the United States at a hydroelectric facility—(1) which is owned by the United States;
+
+(2) which is located on the Columbia River; and
+
+(3) portions of which are within the States of Oregon and Washington,
+
+
+shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.
+
+(c) Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Missouri River.—Pay or compensation paid by the United States for personal services as an employee of the United States at a hydroelectric facility—(1) which is owned by the United States;
+
+(2) which is located on the Missouri River; and
+
+(3) portions of which are within the States of South Dakota and Nebraska,
+
+
+shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.
+
+(Added Pub. L. 89–554, § 2(c), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 105–261, div. A, title X, § 1075(b)(1), Oct. 17, 1998, 112 Stat. 2138.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 84aApr. 12, 1939, ch. 59, § 4, 53 Stat. 575.
+
+
+The words “received after December 31, 1938,” are omitted as </akn:p></akn:content><akn:subsection eId="subsec_111_a"><akn:num>(a)</akn:num><akn:heading>General Rule.—</akn:heading><akn:content><akn:p>(a) The United States consents to the taxation of pay or compensation for personal service as an officer or employee of the United States, a territory or possession or political subdivision thereof, the government of the District of Columbia, or an agency or instrumentality of one or more of the foregoing, by a duly constituted taxing authority having jurisdiction, if the taxation does not discriminate against the officer or employee because of the source of the pay or compensation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_b"><akn:num>(b)</akn:num><akn:heading>Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Columbia River.—</akn:heading><akn:content><akn:p>(b) Pay or compensation paid by the United States for personal services as an employee of the United States at a hydroelectric facility— shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_c"><akn:num>(c)</akn:num><akn:heading>Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Missouri River.—</akn:heading><akn:content><akn:p>(c) Pay or compensation paid by the United States for personal services as an employee of the United States at a hydroelectric facility— shall be subject to taxation by the State or any political subdivision thereof of which such employee is a resident.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

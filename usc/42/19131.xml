@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/19131" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/19131/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/19131/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_19131"><akn:num>19131</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 19131. Definitions
+In this subchapter:(1) InitiativeThe term “Initiative” means the National Engineering Biology Research and Development Initiative established under section 19132 of this title.
+
+
+(2) OmicsThe term “omics” refers to the collective technologies used to explore the roles, relationships, and actions of the various types of molecules that make up the cells and systems of an organism and the systems level analysis of their functions.
+
+
+(Pub. L. 117–167, div. B, title IV, § 10401, Aug. 9, 2022, 136 Stat. 1599.)
+
+Executive Documents
+
+Executive Order No. 14081
+Ex. Ord. No. 14081, Sept. 12, 2022, 87 F.R. 56849, which related to advancing biotechnology and biomanufacturing innovation for a sustainable, safe, and secure American bioeconomy, was revoked by Ex. Ord. No. 14236, § 2(k), Mar. 14, 2024, 90 F.R. 13037.</akn:p></akn:content><akn:subsection eId="subsec_19131_1"><akn:num>(1)</akn:num><akn:heading>Initiative</akn:heading><akn:content><akn:p>(1) Initiative The term “Initiative” means the National Engineering Biology Research and Development Initiative established under section 19132 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19131_2"><akn:num>(2)</akn:num><akn:heading>Omics</akn:heading><akn:content><akn:p>(2) Omics The term “omics” refers to the collective technologies used to explore the roles, relationships, and actions of the various types of molecules that make up the cells and systems of an organism and the systems level analysis of their functions.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

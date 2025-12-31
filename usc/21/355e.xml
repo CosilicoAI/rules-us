@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/355e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/355e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/355e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_355e"><akn:num>355e</akn:num><akn:heading>Pharmaceutical security</akn:heading><akn:content><akn:p>§ 355e. Pharmaceutical security(a) In generalThe Secretary shall develop standards and identify and validate effective technologies for the purpose of securing the drug supply chain against counterfeit, diverted, subpotent, substandard, adulterated, misbranded, or expired drugs.
+
+
+(b) Standards development(1) In generalThe Secretary shall, in consultation with the agencies specified in paragraph (4), manufacturers, distributors, pharmacies, and other supply chain stakeholders, prioritize and develop standards for the identification, validation, authentication, and tracking and tracing of prescription drugs.
+
+
+(2) Standardized numeral identifierNot later than 30 months after September 27, 2007, the Secretary shall develop a standardized numerical identifier (which, to the extent practicable, shall be harmonized with international consensus standards for such an identifier) to be applied to a prescription drug at the point of manufacturing and repackaging (in which case the numerical identifier shall be linked to the numerical identifier applied at the point of manufacturing) at the package or pallet level, sufficient to facilitate the identification, validation, authentication, and tracking and tracing of the prescription drug.
+
+
+(3) Promising technologiesThe standards developed under this subsection shall address promising technologies, which may include—(A) radio frequency identification technology;
+
+(B) nanotechnology;
+
+(C) encryption technologies; and
+
+(D) other track-and-trace or authentication technologies.
+
+
+(4) Interagency collaborationIn carrying out this subsection, the Secretary shall consult with Federal health and security agencies, including—(A) the Department of Justice;
+
+(B) the Department of Homeland Security;
+
+(C) the Department of Commerce; and
+
+(D) other appropriate Federal and State agencies.
+
+
+
+(c) Inspection and enforcement(1) In generalThe Secretary shall expand and enhance the resources and facilities of agency components of the Food and Drug</akn:p></akn:content><akn:subsection eId="subsec_355e_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall develop standards and identify and validate effective technologies for the purpose of securing the drug supply chain against counterfeit, diverted, subpotent, substandard, adulterated, misbranded, or expired drugs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_355e_b"><akn:num>(b)</akn:num><akn:heading>Standards development</akn:heading><akn:content><akn:p>(b) Standards development</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_355e_c"><akn:num>(c)</akn:num><akn:heading>Inspection and enforcement</akn:heading><akn:content><akn:p>(c) Inspection and enforcement</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_355e_d"><akn:num>(d)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(d) Definition In this section, the term “prescription drug” means a drug subject to section 353(b)(1) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

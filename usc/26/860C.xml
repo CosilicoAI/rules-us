@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/860C" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/860C/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/860C/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_860C"><akn:num>860C</akn:num><akn:heading>Taxation of residual interests</akn:heading><akn:content><akn:p>§ 860C. Taxation of residual interests(a) Pass-thru of income or loss(1) In generalIn determining the tax under this chapter of any holder of a residual interest in a REMIC, such holder shall take into account his daily portion of the taxable income or net loss of such REMIC for each day during the taxable year on which such holder held such interest.
+
+
+(2) Daily portionThe daily portion referred to in paragraph (1) shall be determined—(A) by allocating to each day in any calendar quarter its ratable portion of the taxable income (or net loss) for such quarter, and
+
+(B) by allocating the amount so allocated to any day among the holders (on such day) of residual interests in proportion to their respective holdings on such day.
+
+
+
+(b) Determination of taxable income or net lossFor purposes of this section—(1) Taxable incomeThe taxable income of a REMIC shall be determined under an accrual method of accounting and, except as provided in regulations, in the same manner as in the case of an individual, except that—(A) regular interests in such REMIC (if not otherwise debt instruments) shall be treated as indebtedness of such REMIC,
+
+(B) market discount on any market discount bond shall be included in gross income for the taxable years to which it is attributable as determined under the rules of section 1276(b)(2) (and sections 1276(a) and 1277 shall not apply),
+
+(C) there shall not be taken into account any item of income, gain, loss, or deduction allocable to a prohibited transaction,
+
+(D) the deductions referred to in section 703(a)(2) (other than any deduction under section 212) shall not be allowed, and
+
+(E) the amount of the net income from foreclosure property (if any) shall be reduced by the amount of the tax imposed by section 860G(c).
+
+
+(2) Net lossThe net loss of any REMIC is the excess of—(A) the deductions allowable in computing the taxable income of such REMIC, over
+
+(B) its gross income.
+
+
+Such amount shall be determined with the modifications set forth in </akn:p></akn:content><akn:subsection eId="subsec_860C_a"><akn:num>(a)</akn:num><akn:heading>Pass-thru of income or loss</akn:heading><akn:content><akn:p>(a) Pass-thru of income or loss</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860C_b"><akn:num>(b)</akn:num><akn:heading>Determination of taxable income or net loss</akn:heading><akn:content><akn:p>(b) Determination of taxable income or net loss For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860C_c"><akn:num>(c)</akn:num><akn:heading>Distributions</akn:heading><akn:content><akn:p>(c) Distributions Any distribution by a REMIC—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860C_d"><akn:num>(d)</akn:num><akn:heading>Basis rules</akn:heading><akn:content><akn:p>(d) Basis rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860C_e"><akn:num>(e)</akn:num><akn:heading>Special rules</akn:heading><akn:content><akn:p>(e) Special rules</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

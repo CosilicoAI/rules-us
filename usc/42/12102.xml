@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/12102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/12102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/12102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12102"><akn:num>12102</akn:num><akn:heading>Definition of disability</akn:heading><akn:content><akn:p>§ 12102. Definition of disability
+As used in this chapter:(1) DisabilityThe term “disability” means, with respect to an individual—(A) a physical or mental impairment that substantially limits one or more major life activities of such individual;
+
+(B) a record of such an impairment; or
+
+(C) being regarded as having such an impairment (as described in paragraph (3)).
+
+
+(2) Major life activities(A) In generalFor purposes of paragraph (1), major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating, and working.
+
+
+(B) Major bodily functionsFor purposes of paragraph (1), a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.
+
+
+
+(3) Regarded as having such an impairmentFor purposes of paragraph (1)(C):(A) An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this chapter because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
+
+(B) Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
+
+
+(4) Rules of construction regarding the definition of disabilityThe definition of “disability” in paragraph (1) shall be construed in accordance with the following:(A) The definition of disability in this chapter shall be construed in favor of broad coverage of individuals under this chapter, to the maximum extent permitted by the terms of this chapter.
+</akn:p></akn:content><akn:subsection eId="subsec_12102_1"><akn:num>(1)</akn:num><akn:heading>Disability</akn:heading><akn:content><akn:p>(1) Disability The term “disability” means, with respect to an individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12102_2"><akn:num>(2)</akn:num><akn:heading>Major life activities</akn:heading><akn:content><akn:p>(2) Major life activities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12102_3"><akn:num>(3)</akn:num><akn:heading>Regarded as having such an impairment</akn:heading><akn:content><akn:p>(3) Regarded as having such an impairment For purposes of paragraph (1)(C):</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12102_4"><akn:num>(4)</akn:num><akn:heading>Rules of construction regarding the definition of disability</akn:heading><akn:content><akn:p>(4) Rules of construction regarding the definition of disability The definition of “disability” in paragraph (1) shall be construed in accordance with the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

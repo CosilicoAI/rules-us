@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/1503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/1503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/1503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1503"><akn:num>1503</akn:num><akn:heading>Contract price adjustment</akn:heading><akn:content><akn:p>§ 1503. Contract price adjustment(a) Disagreement Constitutes a Dispute.—If the Federal Government and a contractor or subcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under chapter 71 of this title.
+
+(b) Amount of Adjustment.—A contract price adjustment undertaken under section 1502(f)(2) of this title shall be made, where applicable, on relevant contracts between the Federal Government and the contractor that are subject to the cost accounting standards so as to protect the Federal Government from payment, in the aggregate, of increased costs, as defined by the Cost Accounting Standards Board. The Federal Government may not recover costs greater than the aggregate increased cost to the Federal Government, as defined by the Board, on the relevant contracts subject to the price adjustment unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the price negotiation and which it failed to disclose to the Federal Government.
+
+(c) Interest.—The interest rate applicable to a contract price adjustment is the annual rate of interest established under section 6621 of the Internal Revenue Code of 1986 (26 U.S.C. 6621) for the period. Interest accrues from the time payments of the increased costs were made to the contractor or subcontractor to the time the Federal Government receives full compensation for the price adjustment.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3699.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1503(a)41:422(h)(2).Pub. L. 93–400, § 26(h)(2)–(4), as added Pub. L. 100–679, § 5(a), Nov. 17, 1988, 102 Stat. 4062.
+1503(b)41:422(h)(3).
+1503(c)41:422(h)(4).</akn:p></akn:content><akn:subsection eId="subsec_1503_a"><akn:num>(a)</akn:num><akn:heading>Disagreement Constitutes a Dispute.—</akn:heading><akn:content><akn:p>(a) If the Federal Government and a contractor or subcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under chapter 71 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1503_b"><akn:num>(b)</akn:num><akn:heading>Amount of Adjustment.—</akn:heading><akn:content><akn:p>(b) A contract price adjustment undertaken under section 1502(f)(2) of this title shall be made, where applicable, on relevant contracts between the Federal Government and the contractor that are subject to the cost accounting standards so as to protect the Federal Government from payment, in the aggregate, of increased costs, as defined by the Cost Accounting Standards Board. The Federal Government may not recover costs greater than the aggregate increased cost to the Federal Government, as defined by the Board, on the relevant contracts subject to the price adjustment unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the price negotiation and which it failed to disclose to the Federal Government.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1503_c"><akn:num>(c)</akn:num><akn:heading>Interest.—</akn:heading><akn:content><akn:p>(c) The interest rate applicable to a contract price adjustment is the annual rate of interest established under section 6621 of the Internal Revenue Code of 1986 (26 U.S.C. 6621) for the period. Interest accrues from the time payments of the increased costs were made to the contractor or subcontractor to the time the Federal Government receives full compensation for the price adjustment.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

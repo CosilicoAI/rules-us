@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/5105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/5105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/5105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5105"><akn:num>5105</akn:num><akn:heading>Inventory of real property</akn:heading><akn:content><akn:p>§ 5105. Inventory of real property(a) In General.—The Commandant shall maintain an inventory of all real property, including submerged lands, under the control of the Coast Guard, which shall include—(1) the size, the location, and any other appropriate description of each unit of such property;
+
+(2) an assessment of the physical condition of each unit of such property, excluding lands;
+
+(3) a determination of whether each unit of such property should be—(A) retained to fulfill a current or projected Coast Guard mission requirement; or
+
+(B) subject to divestiture; and
+
+
+(4) other information the Commandant considers appropriate.
+
+
+(b) Updates.—The Commandant shall update information on each unit of real property included in the inventory required under subsection (a) not later than 30 days after any change relating to the control of such property.
+
+(c) Recommendations to Congress.—Not later than March 30, 2016, and every 5 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—(1) a list of all real property under the control of the Coast Guard and the location of such property by property type;
+
+(2) recommendations for divestiture with respect to any units of such property; and
+
+(3) recommendations for consolidating any units of such property, including—(A) an estimate of the costs or savings associated with each recommended consolidation; and
+
+(B) a discussion of the impact that such consolidation would have on Coast Guard mission effectiveness.
+
+
+
+(Added Pub. L. 113–281, title II, § 217(a), Dec. 18, 2014, 128 Stat. 3035, § 679; amended Pub. L. 115–232, div. C, title XXXV, § 3539, Aug. 13, 2018, 132 Stat. 2322; renumbered § 5105, Pub. L. 115–282, title I, § 122(b), Dec. 4, 2018, 132 Stat. 4239.)
+
+Editorial Notes
+Amendments2018—Pub. L. 115–282 renumbered section 679 of this title as this section</akn:p></akn:content><akn:subsection eId="subsec_5105_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Commandant shall maintain an inventory of all real property, including submerged lands, under the control of the Coast Guard, which shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5105_b"><akn:num>(b)</akn:num><akn:heading>Updates.—</akn:heading><akn:content><akn:p>(b) The Commandant shall update information on each unit of real property included in the inventory required under subsection (a) not later than 30 days after any change relating to the control of such property.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5105_c"><akn:num>(c)</akn:num><akn:heading>Recommendations to Congress.—</akn:heading><akn:content><akn:p>(c) Not later than March 30, 2016, and every 5 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

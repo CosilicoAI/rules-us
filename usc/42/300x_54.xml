@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300x–54" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300x–54/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300x–54/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300x_54"><akn:num>300x–54</akn:num><akn:heading>Disposition of certain funds appropriated for allotments</akn:heading><akn:content><akn:p>§ 300x–54. Disposition of certain funds appropriated for allotments(a) In generalAmounts described in subsection (b) and available for a fiscal year pursuant to section 300x or 300x–21 of this title, as the case may be, shall be allotted by the Secretary and paid to the States receiving a grant under the program involved, other than any State referred to in subsection (b) with respect to such program. Such amounts shall be allotted in a manner equivalent to the manner in which the allotment under the program involved was determined.
+
+
+(b) Specification of amountsThe amounts referred to in subsection (a) are any amounts that—(1) are not paid to States under the program involved as a result of—(A) the failure of any State to submit an application in accordance with the program;
+
+(B) the failure of any State to prepare such application in compliance with the program; or
+
+(C) any State informing the Secretary that the State does not intend to expend the full amount of the allotment made to the State under the program;
+
+
+(2) are terminated, repaid, or offset under section 300x–55 of this title;
+
+(3) in the case of the program established in section 300x of this title, are available as a result of reductions in allotments under such section pursuant to section 300x–1(d) or 300x–4(b) of this title; or
+
+(4) in the case of the program established in section 300x–21 of this title, are available as a result of reductions in allotments under such section pursuant to section 300x–26 or 300x–30 of this title.
+
+
+(July 1, 1944, ch. 373, title XIX, § 1944, as added Pub. L. 102–321, title II, § 203(a), July 10, 1992, 106 Stat. 404.)</akn:p></akn:content><akn:subsection eId="subsec_300x_54_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Amounts described in subsection (b) and available for a fiscal year pursuant to section 300x or 300x–21 of this title, as the case may be, shall be allotted by the Secretary and paid to the States receiving a grant under the program involved, other than any State referred to in subsection (b) with respect to such program. Such amounts shall be allotted in a manner equivalent to the manner in which the allotment under the program involved was determined.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300x_54_b"><akn:num>(b)</akn:num><akn:heading>Specification of amounts</akn:heading><akn:content><akn:p>(b) Specification of amounts The amounts referred to in subsection (a) are any amounts that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5121" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5121/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5121/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5121"><akn:num>5121</akn:num><akn:heading>Congressional findings and declarations</akn:heading><akn:content><akn:p>§ 5121. Congressional findings and declarations(a) The Congress hereby finds and declares that—(1) because disasters often cause loss of life, human suffering, loss of income, and property loss and damage; and
+
+(2) because disasters often disrupt the normal functioning of governments and communities, and adversely affect individuals and families with great severity;
+
+
+special measures, designed to assist the efforts of the affected States in expediting the rendering of aid, assistance, and emergency services, and the reconstruction and rehabilitation of devastated areas, are necessary.
+
+(b) It is the intent of the Congress, by this chapter, to provide an orderly and continuing means of assistance by the Federal Government to State and local governments in carrying out their responsibilities to alleviate the suffering and damage which result from such disasters by—(1) revising and broadening the scope of existing disaster relief programs;
+
+(2) encouraging the development of comprehensive disaster preparedness and assistance plans, programs, capabilities, and organizations by the States and by local governments;
+
+(3) achieving greater coordination and responsiveness of disaster preparedness and relief programs;
+
+(4) encouraging individuals, States, and local governments to protect themselves by obtaining insurance coverage to supplement or replace governmental assistance;
+
+(5) encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations;
+
+(6) providing Federal assistance programs for both public and private losses sustained in disasters; and
+
+(7) identifying and improving the climate and natural hazard resilience of vulnerable communities.
+
+
+(Pub. L. 93–288, title I, § 101, May 22, 1974, 88 Stat. 143; Pub. L. 100–707, title I, § 103(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 117–255, § 2, Dec. 20, 2022, 136 Stat. 2363.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (b)</akn:p></akn:content><akn:subsection eId="subsec_5121_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress hereby finds and declares that— special measures, designed to assist the efforts of the affected States in expediting the rendering of aid, assistance, and emergency services, and the reconstruction and rehabilitation of devastated areas, are necessary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5121_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) It is the intent of the Congress, by this chapter, to provide an orderly and continuing means of assistance by the Federal Government to State and local governments in carrying out their responsibilities to alleviate the suffering and damage which result from such disasters by—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

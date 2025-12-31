@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/7105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/7105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/7105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7105"><akn:num>7105</akn:num><akn:heading>Prescribing uniform technical and administrative provisions</akn:heading><akn:content><akn:p>§ 7105. Prescribing uniform technical and administrative provisions(a) To make participation in a project easier than would be possible because of varying or conflicting technical or administrative regulations and procedures not required by law, the head of an executive agency may prescribe uniform provisions about inconsistent or conflicting requirements on—(1) financial administration of the project (including accounting, reporting and auditing, and maintaining a separate bank account), to the extent consistent with section 7108 of this title;
+
+(2) the timing of payments by the United States Government for the project when one schedule or a combined schedule is to be established for the project;
+
+(3) providing assistance by grant rather than procurement contract or by procurement contract rather than by grant; and
+
+(4) accountability for, or the disposition of, records, property, or structures acquired or constructed with assistance from the Government when common regulations are established for the project.
+
+
+(b) To make easier the processing of applications for assistance, the head of an executive agency may provide for review of proposals for a project by one panel, board, or committee where reviews by separate panels, boards, or committees are not specifically required by law.
+
+(c) Notwithstanding a requirement that one public agency or a specific public agency be established or designated to carry out or supervise that part of the assistance from the Government under an assistance program for a jointly financed project, the head of the executive agency carrying out the program may waive the requirement when—(1) administration by another public agency is consistent with State or local law and the objectives of the assistance program; and
+
+(2)(A) the waiver is requested by the head of a unit of general government certifying jurisdiction over the public agencies concerned; or
+
+(B) the State or local public agencies concerned agree to the waiver.
+
+
+
+(Pub. L. 97–2</akn:p></akn:content><akn:subsection eId="subsec_7105_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) To make participation in a project easier than would be possible because of varying or conflicting technical or administrative regulations and procedures not required by law, the head of an executive agency may prescribe uniform provisions about inconsistent or conflicting requirements on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7105_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) To make easier the processing of applications for assistance, the head of an executive agency may provide for review of proposals for a project by one panel, board, or committee where reviews by separate panels, boards, or committees are not specifically required by law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7105_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Notwithstanding a requirement that one public agency or a specific public agency be established or designated to carry out or supervise that part of the assistance from the Government under an assistance program for a jointly financed project, the head of the executive agency carrying out the program may waive the requirement when—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

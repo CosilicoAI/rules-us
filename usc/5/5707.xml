@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5707" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5707/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5707/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5707"><akn:num>5707</akn:num><akn:heading>Regulations and reports</akn:heading><akn:content><akn:p>§ 5707. Regulations and reports(a)(1) The Administrator of General Services shall prescribe regulations necessary for the administration of this subchapter, except that the Director of the Administrative Office of the United States Courts shall prescribe such regulations with respect to official travel by employees of the judicial branch of the Government.
+
+(2) Regulations promulgated to implement section 5702 or 5706a of this title shall be transmitted to the appropriate committees of the Congress and shall not take effect until 30 days after such transmittal.
+
+
+(b) The Administrator of General Services shall prescribe the mileage reimbursement rates for use on official business of privately owned airplanes, privately owned automobiles, and privately owned motorcycles while engaged on official business as provided for in section 5704 of this title as follows:(1)(A) The Administrator of General Services shall conduct periodic investigations of the cost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
+
+(B) In conducting the periodic investigations, the Administrator shall review and analyze among other factors—(i) depreciation of original vehicle cost;
+
+(ii) gasoline and oil (excluding taxes);
+
+(iii) maintenance, accessories, parts, and tires;
+
+(iv) insurance; and
+
+(v) State and Federal taxes.
+
+
+
+(2)(A) The Administrator shall issue regulations under this section which—(i) shall provide that the mileage reimbursement rate for privately owned automobiles, as provided in section 5704(a)(1), is the single standard mileage rate established by the Internal Revenue Service referred to in that section, and
+
+(ii) shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
+
+
+(B) At least once each y</akn:p></akn:content><akn:subsection eId="subsec_5707_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5707_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Administrator of General Services shall prescribe the mileage reimbursement rates for use on official business of privately owned airplanes, privately owned automobiles, and privately owned motorcycles while engaged on official business as provided for in section 5704 of this title as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5707_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

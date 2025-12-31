@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/171" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/171/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/171/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_171"><akn:num>171</akn:num><akn:heading>Armed Forces Policy Council</akn:heading><akn:content><akn:p>§ 171. Armed Forces Policy Council(a) There is in the Department of Defense an Armed Forces Policy Council consisting of—(1) the Secretary of Defense, as Chairman, with the power of decision;
+
+(2) the Deputy Secretary of Defense;
+
+(3) the Under Secretary of Defense for Acquisition and Sustainment;
+
+(4) the Under Secretary of Defense for Research and Engineering;
+
+(5) the Secretary of the Army;
+
+(6) the Secretary of the Navy;
+
+(7) the Secretary of the Air Force;
+
+(8) the Under Secretary of Defense for Policy;
+
+(9) the Deputy Under Secretary of Defense for Acquisition and Technology;
+
+(10) the Deputy Under Secretary of Defense for Research and Engineering;
+
+(11) the Deputy Under Secretary of Defense for Acquisition and Sustainment;
+
+(12) the Chairman of the Joint Chiefs of Staff;
+
+(13) the Chief of Staff of the Army;
+
+(14) the Chief of Naval Operations;
+
+(15) the Chief of Staff of the Air Force;
+
+(16) the Commandant of the Marine Corps; and
+
+(17) the Chief of Space Operations.
+
+
+(b) The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 85–599, § 9(c), Aug. 6, 1958, 72 Stat. 521; Pub. L. 92–596, § 5, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 3(b), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 98–94, title XII, § 1213, Sept. 24, 1983, 97 Stat. 687; Pub. L. 99–500, § 101(c) [title X, § 903(e)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, § 101(c) [title X, § 903(e)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(e), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, § 904(d)(1), (3), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 1</akn:p></akn:content><akn:subsection eId="subsec_171_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) There is in the Department of Defense an Armed Forces Policy Council consisting of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_171_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

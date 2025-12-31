@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5000B" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5000B/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5000B/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5000B"><akn:num>5000B</akn:num><akn:heading>Imposition of tax on indoor tanning services</akn:heading><akn:content><akn:p>§ 5000B. Imposition of tax on indoor tanning services(a) In generalThere is hereby imposed on any indoor tanning service a tax equal to 10 percent of the amount paid for such service (determined without regard to this section), whether paid by insurance or otherwise.
+
+
+(b) Indoor tanning serviceFor purposes of this section—(1) In generalThe term “indoor tanning service” means a service employing any electronic product designed to incorporate 1 or more ultraviolet lamps and intended for the irradiation of an individual by ultraviolet radiation, with wavelengths in air between 200 and 400 nanometers, to induce skin tanning.
+
+
+(2) Exclusion of phototherapy servicesSuch term does not include any phototherapy service performed by a licensed medical professional.
+
+
+
+(c) Payment of tax(1) In generalThe tax imposed by this section shall be paid by the individual on whom the service is performed.
+
+
+(2) CollectionEvery person receiving a payment for services on which a tax is imposed under subsection (a) shall collect the amount of the tax from the individual on whom the service is performed and remit such tax quarterly to the Secretary at such time and in such manner as provided by the Secretary.
+
+
+(3) Secondary liabilityWhere any tax imposed by subsection (a) is not paid at the time payments for indoor tanning services are made, then to the extent that such tax is not collected, such tax shall be paid by the person who performs the service.
+
+
+
+(Added Pub. L. 111–148, title X, § 10907(b), Mar. 23, 2010, 124 Stat. 1020.)
+
+Editorial Notes
+Prior ProvisionsA prior section 5000B, added Pub. L. 111–148, title IX, § 9017(a), Mar. 23, 2010, 124 Stat. 872, which related to tax on elective cosmetic medical procedures, and section 9017(c) of Pub. L. 111–148, which provided that the amendments made by section 9017 of Pub. L. 111–148 were applicable to procedures performed on or after Jan. 1, 2010, were not set out in the Code in view of Pub. L. 111–148, title X, § 10907(a), Mar. 23, 201</akn:p></akn:content><akn:subsection eId="subsec_5000B_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general There is hereby imposed on any indoor tanning service a tax equal to 10 percent of the amount paid for such service (determined without regard to this section), whether paid by insurance or otherwise.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5000B_b"><akn:num>(b)</akn:num><akn:heading>Indoor tanning service</akn:heading><akn:content><akn:p>(b) Indoor tanning service For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5000B_c"><akn:num>(c)</akn:num><akn:heading>Payment of tax</akn:heading><akn:content><akn:p>(c) Payment of tax</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

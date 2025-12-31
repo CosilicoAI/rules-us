@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/2297" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/2297/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/2297/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2297"><akn:num>2297</akn:num><akn:heading>Job search allowances</akn:heading><akn:content><akn:p>§ 2297. Job search allowances(a) Job search allowance authorized(1) In generalAn adversely affected worker covered by a certification issued under subpart A of this part may file an application with the Secretary for payment of a job search allowance.
+
+
+(2) Approval of applicationsThe Secretary may grant an allowance pursuant to an application filed under paragraph (1) when all of the following apply:(A) Assist adversely affected workerThe allowance is paid to assist an adversely affected worker who has been totally separated in securing a job within the United States.
+
+
+(B) Local employment not availableThe Secretary determines that the worker cannot reasonably be expected to secure suitable employment in the commuting area in which the worker resides.
+
+
+(C) ApplicationThe worker has filed an application for the allowance with the Secretary before—(i) the later of—(I) the 365th day after the date of the certification under which the worker is certified as eligible; or
+
+(II) the 365th day after the date of the worker’s last total separation; or
+
+
+(ii) the date that is the 182d day after the date on which the worker concluded training, unless the worker received a waiver under section 2291(c) of this title.
+
+
+
+
+(b) Amount of allowance(1) In generalAn allowance granted under subsection (a) shall provide reimbursement to the worker of 90 percent of the cost of necessary job search expenses as prescribed by the Secretary in regulations.
+
+
+(2) Maximum allowanceReimbursement under this subsection may not exceed $1,250 for any worker.
+
+
+(3) Allowance for subsistence and transportationReimbursement under this subsection may not be made for subsistence and transportation expenses at levels exceeding those allowable under section 2296(b)(1) and (2) of this title.
+
+
+
+(c) ExceptionNotwithstanding subsection (b), the Secretary shall reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secre</akn:p></akn:content><akn:subsection eId="subsec_2297_a"><akn:num>(a)</akn:num><akn:heading>Job search allowance authorized</akn:heading><akn:content><akn:p>(a) Job search allowance authorized</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2297_b"><akn:num>(b)</akn:num><akn:heading>Amount of allowance</akn:heading><akn:content><akn:p>(b) Amount of allowance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2297_c"><akn:num>(c)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(c) Exception Notwithstanding subsection (b), the Secretary shall reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1277" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1277/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1277/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1277"><akn:num>1277</akn:num><akn:heading>Deferral of interest deduction allocable to accrued market discount</akn:heading><akn:content><akn:p>§ 1277. Deferral of interest deduction allocable to accrued market discount(a) General ruleExcept as otherwise provided in this section, the net direct interest expense with respect to any market discount bond shall be allowed as a deduction for the taxable year only to the extent that such expense exceeds the portion of the market discount allocable to the days during the taxable year on which such bond was held by the taxpayer (as determined under the rules of section 1276(b)).
+
+
+(b) Disallowed deduction allowed for later years(1) Election to take into account in later year where net interest income from bond(A) In generalIf—(i) there is net interest income for any taxable year with respect to any market discount bond, and
+
+(ii) the taxpayer makes an election under this subparagraph with respect to such bond,
+
+
+any disallowed interest expense with respect to such bond shall be treated as interest paid or accrued by the taxpayer during such taxable year to the extent such disallowed interest expense does not exceed the net interest income with respect to such bond.
+
+(B) Determination of disallowed interest expenseFor purposes of subparagraph (A), the amount of the disallowed interest expense—(i) shall be determined as of the close of the preceding taxable year, and
+
+(ii) shall not include any amount previously taken into account under subparagraph (A).
+
+
+(C) Net interest incomeFor purposes of this paragraph, the term “net interest income” means the excess of the amount determined under paragraph (2) of subsection (c) over the amount determined under paragraph (1) of subsection (c).
+
+
+
+(2) Remainder of disallowed interest expense allowed for year of disposition(A) In generalExcept as otherwise provided in this paragraph, the amount of the disallowed interest expense with respect to any market discount bond shall be treated as interest paid or accrued by the taxpayer in the taxable year in which such bond is disposed of.
+
+
+(B) Nonrecognition transactionsIf any market</akn:p></akn:content><akn:subsection eId="subsec_1277_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Except as otherwise provided in this section, the net direct interest expense with respect to any market discount bond shall be allowed as a deduction for the taxable year only to the extent that such expense exceeds the portion of the market discount allocable to the days during the taxable year on which such bond was held by the taxpayer (as determined under the rules of section 1276(b)).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1277_b"><akn:num>(b)</akn:num><akn:heading>Disallowed deduction allowed for later years</akn:heading><akn:content><akn:p>(b) Disallowed deduction allowed for later years</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1277_c"><akn:num>(c)</akn:num><akn:heading>Net direct interest expense</akn:heading><akn:content><akn:p>(c) Net direct interest expense For purposes of this section, the term “net direct interest expense” means, with respect to any market discount bond, the excess (if any) of— In the case of any financial institution which is a bank (as defined in section 585(a)(2)), the determination of whether interest is described in paragraph (1) shall be made under principles similar to the principles of section 291(e)(1)(B)(ii). Under rules similar to the rules of section 265(a)(5), short sale expenses shall be treated as interest for purposes of determining net direct interest expense.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

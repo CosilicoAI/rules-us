@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/2504" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/2504/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/2504/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2504"><akn:num>2504</akn:num><akn:heading>Computation of retired pay</akn:heading><akn:content><akn:p>§ 2504. Computation of retired pay(a)(1) The retired pay of a member who first became a member of a uniformed service (as defined in section 101 of title 10) before September 8, 1980, is determined by multiplying—(A) the sum of—(i) the basic pay of the member’s retired grade or rate, and
+
+(ii) all permanent additions thereto including longevity credit to which the member was entitled at the time of retirement; by
+
+
+(B) the retired pay multiplier determined under section 1409 of title 10 for the number of years of service that may be credited to the member under section 1405 of such title.
+
+
+(2) In the case of an officer who served as Commandant, retired pay under paragraph (1) shall be computed at the highest rate of basic pay applicable to the officer while so serving.
+
+(3) In the case of an enlisted member who served as the master chief petty officer of the Coast Guard, retired pay under paragraph (1) shall be computed at the highest rate of basic pay to which the member was entitled while so serving, if that basic pay is greater than the basic pay of the grade or rate to which the member is otherwise entitled at the time of retirement.
+
+(4) In the case of an officer whose retired pay is computed on the pay of a grade for which basic pay is not based upon years of service, retired pay under paragraph (1) shall be computed on the basis of the number of years of service for which the officer would be entitled to credit in the computation of pay on the active list had the officer been serving in the grade of captain at the time of retirement.
+
+
+(b) The retired pay of a member who first became a member of a uniformed service (as defined in section 101 of title 10) on or after September 8, 1980, is determined by multiplying—(1) the retired pay base determined under section 1407 of title 10; by
+
+(2) the retired pay multiplier determined under section 1409 of title 10 for the number of years of service that may be credited to the member under section 1405 of such title.
+</akn:p></akn:content><akn:subsection eId="subsec_2504_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2504_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The retired pay of a member who first became a member of a uniformed service (as defined in section 101 of title 10) on or after September 8, 1980, is determined by multiplying—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2504_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2504_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) In addition to amounts computed pursuant to subsections (a) through (c) of this section, a full TSP member (as defined in section 8440e(a) of title 5) of the Coast Guard is entitled to continuation pay pursuant to section 356 of title 37.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

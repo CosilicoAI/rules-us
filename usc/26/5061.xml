@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5061" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5061/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5061/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5061"><akn:num>5061</akn:num><akn:heading>Method of collecting tax</akn:heading><akn:content><akn:p>§ 5061. Method of collecting tax(a) Collection by returnThe taxes on distilled spirits, wines, and beer shall be collected on the basis of a return. The Secretary shall, by regulation, prescribe the period or event for which such return shall be filed, the time for filing such return, the information to be shown in such return, and the time for payment of such tax.
+
+
+(b) ExceptionsNotwithstanding the provisions of subsection (a), any taxes imposed on, or amounts to be paid or collected in respect of, distilled spirits, wines, and beer under—(1) section 5001(a)(4), (5), or (6),
+
+(2) section 5006(c) or (d),
+
+(3) section 5041(f),
+
+(4) section 5043(a)(3),
+
+(5) section 5054(a)(3) or (4), or
+
+(6) section 5505(a),
+
+
+shall be immediately due and payable at the time provided by such provisions (or if no specific time for payment is provided, at the time the event referred to in such provision occurs). Such taxes and amounts shall be assessed and collected by the Secretary on the basis of the information available to him in the same manner as taxes payable by return but with respect to which no return has been filed.
+
+(c) Import dutiesThe internal revenue taxes imposed by this part shall be in addition to any import duties unless such duties are specifically designated as being in lieu of internal revenue tax.
+
+
+(d) Time for collecting tax on distilled spirits, wines, and beer(1) In generalExcept as otherwise provided in this subsection, in the case of distilled spirits, wines, and beer to which this part applies (other than subsection (b) of this section) which are withdrawn under bond for deferred payment of tax, the last day for payment of such tax shall be the 14th day after the last day of the semimonthly period during which the withdrawal occurs.
+
+
+(2) Imported articlesIn the case of distilled spirits, wines, and beer which are imported into the United States (other than in bulk containers)—(A) In generalThe last day for payment of tax shall be the 14th day after the la</akn:p></akn:content><akn:subsection eId="subsec_5061_a"><akn:num>(a)</akn:num><akn:heading>Collection by return</akn:heading><akn:content><akn:p>(a) Collection by return The taxes on distilled spirits, wines, and beer shall be collected on the basis of a return. The Secretary shall, by regulation, prescribe the period or event for which such return shall be filed, the time for filing such return, the information to be shown in such return, and the time for payment of such tax.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5061_b"><akn:num>(b)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(b) Exceptions Notwithstanding the provisions of subsection (a), any taxes imposed on, or amounts to be paid or collected in respect of, distilled spirits, wines, and beer under— shall be immediately due and payable at the time provided by such provisions (or if no specific time for payment is provided, at the time the event referred to in such provision occurs). Such taxes and amounts shall be assessed and collected by the Secretary on the basis of the information available to him in the same manner as taxes payable by return but with respect to which no return has been filed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5061_c"><akn:num>(c)</akn:num><akn:heading>Import duties</akn:heading><akn:content><akn:p>(c) Import duties The internal revenue taxes imposed by this part shall be in addition to any import duties unless such duties are specifically designated as being in lieu of internal revenue tax.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5061_d"><akn:num>(d)</akn:num><akn:heading>Time for collecting tax on distilled spirits, wines, and beer</akn:heading><akn:content><akn:p>(d) Time for collecting tax on distilled spirits, wines, and beer</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5061_e"><akn:num>(e)</akn:num><akn:heading>Payment by electronic fund transfer</akn:heading><akn:content><akn:p>(e) Payment by electronic fund transfer</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

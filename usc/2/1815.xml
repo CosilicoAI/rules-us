@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/1815" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/1815/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/1815/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1815"><akn:num>1815</akn:num><akn:heading>Repealed. Pub. L. 109–58, title I, § 101(c), Aug. 8, 2005, 119 Stat. 606</akn:heading><akn:content><akn:p>§ 1815. Repealed. Pub. L. 109–58, title I, § 101(c), Aug. 8, 2005, 119 Stat. 606
+
+Section, Pub. L. 105–275, title III, § 310, Oct. 21, 1998, 112 Stat. 2456, related to energy conservation and management.
+
+Editorial Notes
+Codification
+Section was classified to section 166i of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

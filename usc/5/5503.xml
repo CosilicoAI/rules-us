@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5503"><akn:num>5503</akn:num><akn:heading>Recess appointments</akn:heading><akn:content><akn:p>§ 5503. Recess appointments(a) Payment for services may not be made from the Treasury of the United States to an individual appointed during a recess of the Senate to fill a vacancy in an existing office, if the vacancy existed while the Senate was in session and was by law required to be filled by and with the advice and consent of the Senate, until the appointee has been confirmed by the Senate. This subsection does not apply—(1) if the vacancy arose within 30 days before the end of the session of the Senate;
+
+(2) if, at the end of the session, a nomination for the office, other than the nomination of an individual appointed during the preceding recess of the Senate, was pending before the Senate for its advice and consent; or
+
+(3) if a nomination for the office was rejected by the Senate within 30 days before the end of the session and an individual other than the one whose nomination was rejected thereafter receives a recess appointment.
+
+
+(b) A nomination to fill a vacancy referred to by paragraph (1), (2), or (3) of subsection (a) of this section shall be submitted to the Senate not later than 40 days after the beginning of the next session of the Senate.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 475.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 56.R.S. § 1761.July 11, 1940, ch. 580, 54 Stat. 751.
+
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.</akn:p></akn:content><akn:subsection eId="subsec_5503_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Payment for services may not be made from the Treasury of the United States to an individual appointed during a recess of the Senate to fill a vacancy in an existing office, if the vacancy existed while the Senate was in session and was by law required to be filled by and with the advice and consent of the Senate, until the appointee has been confirmed by the Senate. This subsection does not apply—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5503_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A nomination to fill a vacancy referred to by paragraph (1), (2), or (3) of subsection (a) of this section shall be submitted to the Senate not later than 40 days after the beginning of the next session of the Senate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/70503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/70503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/70503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70503"><akn:num>70503</akn:num><akn:heading>Ground-based analog capabilities</akn:heading><akn:content><akn:p>§ 70503. Ground-based analog capabilities(a) In General.—The Administrator may establish a ground-based analog capability in remote United States locations in order to assist in the development of lunar operations, life support, and in-situ resource utilization experience and capabilities.
+
+(b) Environmental Characteristics.—The Administrator shall select locations for the activities described in subsection (a) that—(1) are regularly accessible;
+
+(2) have significant temperature extremes and range; and
+
+(3) have access to energy and natural resources (including geothermal, permafrost, volcanic, or other potential resources).
+
+
+(c) Involvement of Local Populations and Private Sector Partners.—In carrying out this section, the Administrator shall involve local populations, academia, and industrial partners as much as possible to ensure that ground-based benefits and applications are encouraged and developed.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3430.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+7050342 U.S.C. 16764.Pub. L. 109–155, title V, § 504, Dec. 30, 2005, 119 Stat. 2929.</akn:p></akn:content><akn:subsection eId="subsec_70503_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Administrator may establish a ground-based analog capability in remote United States locations in order to assist in the development of lunar operations, life support, and in-situ resource utilization experience and capabilities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70503_b"><akn:num>(b)</akn:num><akn:heading>Environmental Characteristics.—</akn:heading><akn:content><akn:p>(b) The Administrator shall select locations for the activities described in subsection (a) that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70503_c"><akn:num>(c)</akn:num><akn:heading>Involvement of Local Populations and Private Sector Partners.—</akn:heading><akn:content><akn:p>(c) In carrying out this section, the Administrator shall involve local populations, academia, and industrial partners as much as possible to ensure that ground-based benefits and applications are encouraged and developed.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

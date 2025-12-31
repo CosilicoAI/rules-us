@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/4908" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/4908/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/4908/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4908"><akn:num>4908</akn:num><akn:heading>Effect on other laws and agreements</akn:heading><akn:content><akn:p>§ 4908. Effect on other laws and agreements(a) Effect on State law(1) In generalWith respect to any residential mortgage or residential mortgage transaction consummated after the effective date of this chapter, and except as provided in paragraph (2), the provisions of this chapter shall supersede any provisions of the law of any State relating to requirements for obtaining or maintaining private mortgage insurance in connection with residential mortgage transactions, cancellation or automatic termination of such private mortgage insurance, any disclosure of information addressed by this chapter, and any other matter specifically addressed by this chapter.
+
+
+(2) Protection of existing State laws(A) In generalThe provisions of this chapter do not supersede protected State laws, except to the extent that the protected State laws are inconsistent with any provision of this chapter, and then only to the extent of the inconsistency.
+
+
+(B) InconsistenciesA protected State law shall not be considered to be inconsistent with a provision of this chapter if the protected State law—(i) requires termination of private mortgage insurance or other mortgage guaranty insurance—(I) at a date earlier than as provided in this chapter; or
+
+(II) when a mortgage principal balance is achieved that is higher than as provided in this chapter; or
+
+
+(ii) requires disclosure of information—(I) that provides more information than the information required by this chapter; or
+
+(II) more often or at a date earlier than is required by this chapter.
+
+
+
+(C) Protected State lawsFor purposes of this paragraph, the term “protected State law” means a State law—(i) regarding any requirements relating to private mortgage insurance in connection with residential mortgage transactions;
+
+(ii) that was enacted not later than 2 years after July 29, 1998; and
+
+(iii) that is the law of a State that had in effect, on or before January 2, 1998, any State law described in clause (i).
+
+
+
+
+(b) Effect on other agreemen</akn:p></akn:content><akn:subsection eId="subsec_4908_a"><akn:num>(a)</akn:num><akn:heading>Effect on State law</akn:heading><akn:content><akn:p>(a) Effect on State law</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4908_b"><akn:num>(b)</akn:num><akn:heading>Effect on other agreements</akn:heading><akn:content><akn:p>(b) Effect on other agreements The provisions of this chapter shall supersede any conflicting provision contained in any agreement relating to the servicing of a residential mortgage loan entered into by the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or any private investor or note holder (or any successors thereto).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

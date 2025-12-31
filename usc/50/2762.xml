@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2762" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2762/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2762/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2762"><akn:num>2762</akn:num><akn:heading>Restriction on use of funds to pay penalties under Clean Air Act</akn:heading><akn:content><akn:p>§ 2762. Restriction on use of funds to pay penalties under Clean Air Act
+None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540; 94 Stat. 3197) or any other Act may be used to pay any penalty, fine, forfeiture, or settlement resulting from a failure to comply with the Clean Air Act (42 U.S.C. 7401 et seq.) with respect to any defense activity of the Department of Energy if—(1) the Secretary finds that compliance is physically impossible within the time prescribed for compliance; or
+
+(2) the President has specifically requested appropriations for compliance and Congress has failed to appropriate funds for such purpose.
+
+(Pub. L. 107–314, div. D, title XLVII, § 4722, formerly Pub. L. 96–540, title II, § 211, Dec. 17, 1980, 94 Stat. 3203; renumbered Pub. L. 107–314, div. D, title XLVII, § 4722, and amended Pub. L. 108–136, div. C, title XXXI, § 3141(j)(5), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, § 3146(h)(6), Dec. 26, 2013, 127 Stat. 1081; Pub. L. 113–291, div. C, title XXXI, § 3142(r), Dec. 19, 2014, 128 Stat. 3901.)
+
+Editorial Notes
+
+References in TextThe Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which insofar as classified to the Code, enacted this section and section 2513 of this title.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+Codification
+Section was formerly classified to section 7273 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+Prior ProvisionsProvisions similar to</akn:p></akn:content><akn:subsection eId="subsec_2762_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the Secretary finds that compliance is physically impossible within the time prescribed for compliance; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2762_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the President has specifically requested appropriations for compliance and Congress has failed to appropriate funds for such purpose.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

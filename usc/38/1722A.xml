@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1722A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1722A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1722A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1722A"><akn:num>1722A</akn:num><akn:heading>Copayment for medications</akn:heading><akn:content><akn:p>§ 1722A. Copayment for medications(a)(1) Subject to paragraph (2), the Secretary shall require a veteran to pay the United States $2 for each 30-day supply of medication furnished such veteran under this chapter on an outpatient basis for the treatment of a non-service-connected disability or condition. If the amount supplied is less than a 30-day supply, the amount of the charge may not be reduced.
+
+(2) The Secretary may not require a veteran to pay an amount in excess of the cost to the Secretary for medication described in paragraph (1).
+
+(3) Paragraph (1) does not apply—(A) to a veteran with a service-connected disability rated 50 percent or more;
+
+(B) to a veteran who is a former prisoner of war;
+
+(C) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title; or
+
+(D) to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 11 See References in Text note below. of title 14.
+
+
+(4) Paragraph (1) does not apply to opioid antagonists furnished under this chapter to a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose.
+
+
+(b) The Secretary, pursuant to regulations which the Secretary shall prescribe, may—(1) increase the copayment amount in effect under subsection (a); and
+
+(2) establish a maximum monthly and a maximum annual pharmaceutical copayment amount under subsection (a) for veterans who have multiple outpatient prescriptions.
+
+
+(c) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
+
+(Added Pub. L. 101–508, title VIII, § 8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, § 622A; renumbered § 1722A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, titl</akn:p></akn:content><akn:subsection eId="subsec_1722A_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1722A_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary, pursuant to regulations which the Secretary shall prescribe, may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1722A_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

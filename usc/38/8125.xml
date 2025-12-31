@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/8125" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/8125/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/8125/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8125"><akn:num>8125</akn:num><akn:heading>Procurement of health-care items</akn:heading><akn:content><akn:p>§ 8125. Procurement of health-care items(a) Except as provided in subsections (b) and (c) of this section, the Secretary may not procure health-care items under local contracts.
+
+(b)(1) A health-care item for use by the Department may be procured under a local contract if—(A) the procurement is within the limits prescribed in paragraph (3) of this subsection; and
+
+(B)(i) the item is not otherwise available to the Department medical center concerned,
+
+(ii) procurement of the item by a local contract is necessary for the effective furnishing of health-care services or the conduct of a research or education program at a Department medical center, as determined by the director of the center in accordance with regulations which the Under Secretary for Health shall prescribe, or
+
+(iii) procurement under a local contract is demonstrably more cost-effective for the item.
+
+
+
+(2) In the case of the need for an emergency procurement of a health-care item, such item may be procured under a local contract, but no greater quantity of such item may be procured by a local contract than is reasonably necessary to meet the emergency need and the reasonably foreseeable need for the item at the medical center concerned until resupply can be achieved through procurement actions other than emergency procurement.
+
+(3)(A) Except as provided in subparagraphs (C) and (D) of this paragraph, not more than 20 percent of the total of all health-care items procured by the Department in any fiscal year (measured as a percent of the total cost of all such health-care items procured by the Department in that fiscal year) may be procured under local contracts.
+
+(B) Local contracts for the procurement of health-care items shall, to the maximum extent feasible, be awarded to regular dealers or manufacturers engaged in the wholesale supply of such items.
+
+(C) The Secretary may increase for a fiscal year the percentage specified in subparagraph (A) of this section to a percentage not greater than 30 perc</akn:p></akn:content><akn:subsection eId="subsec_8125_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as provided in subsections (b) and (c) of this section, the Secretary may not procure health-care items under local contracts.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8125_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8125_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) A provision of law that is inconsistent with subsection (a) or (b) of this section shall not apply, to the extent of the inconsistency, to the procurement of a health-care item for use by the Department.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8125_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) For the purposes of this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

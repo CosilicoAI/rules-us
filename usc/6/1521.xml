@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/1521" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/1521/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/1521/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1521"><akn:num>1521</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1521. Definitions
+In this subchapter:(1) AgencyThe term “agency” has the meaning given the term in section 3502 of title 44.
+
+
+(2) Agency information systemThe term “agency information system” has the meaning given the term in section 660 of this title.
+
+
+(3) Appropriate congressional committeesThe term “appropriate congressional committees” means—(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(B) the Committee on Homeland Security of the House of Representatives.
+
+
+(4) Cybersecurity risk; information systemThe terms “cybersecurity risk” and “information system” have the meanings given those terms in section 650 of this title.
+
+
+(5) DirectorThe term “Director” means the Director of the Office of Management and Budget.
+
+
+(6) Intelligence communityThe term “intelligence community” has the meaning given the term in section 3003(4) of title 50.
+
+
+(7) National security systemThe term “national security system” has the meaning given the term in section 11103 of title 40.
+
+
+(8) SecretaryThe term “Secretary” means the Secretary of Homeland Security.
+
+
+(Pub. L. 114–113, div. N, title II, § 222, Dec. 18, 2015, 129 Stat. 2963; Pub. L. 115–278, § 2(h)(1)(D), Nov. 16, 2018, 132 Stat. 4182; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(1)(A), Dec. 23, 2022, 136 Stat. 3663.)
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+
+Amendments2022—Par. (4). Pub. L. 117–263 substituted “section 650 of this title” for “section 659 of this title”.
+2018—Par. (2). Pub. L. 115–278, § 2(h)(1)(D)(i), substituted “section 660 of this title” for “section 149 of this title, as added by section 223(a)(4) of this division”.
+Par. (4). Pub. L. 115–278, § 2(h)(1)(D)(ii), substituted “section 659 of this title” for “</akn:p></akn:content><akn:subsection eId="subsec_1521_1"><akn:num>(1)</akn:num><akn:heading>Agency</akn:heading><akn:content><akn:p>(1) Agency The term “agency” has the meaning given the term in section 3502 of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1521_2"><akn:num>(2)</akn:num><akn:heading>Agency information system</akn:heading><akn:content><akn:p>(2) Agency information system The term “agency information system” has the meaning given the term in section 660 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1521_3"><akn:num>(3)</akn:num><akn:heading>Appropriate congressional committees</akn:heading><akn:content><akn:p>(3) Appropriate congressional committees The term “appropriate congressional committees” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1521_4"><akn:num>(4)</akn:num><akn:heading>Cybersecurity risk; information system</akn:heading><akn:content><akn:p>(4) Cybersecurity risk; information system The terms “cybersecurity risk” and “information system” have the meanings given those terms in section 650 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1521_5"><akn:num>(5)</akn:num><akn:heading>Director</akn:heading><akn:content><akn:p>(5) Director The term “Director” means the Director of the Office of Management and Budget.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1521_6"><akn:num>(6)</akn:num><akn:heading>Intelligence community</akn:heading><akn:content><akn:p>(6) Intelligence community The term “intelligence community” has the meaning given the term in section 3003(4) of title 50.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1521_7"><akn:num>(7)</akn:num><akn:heading>National security system</akn:heading><akn:content><akn:p>(7) National security system The term “national security system” has the meaning given the term in section 11103 of title 40.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1521_8"><akn:num>(8)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(8) Secretary The term “Secretary” means the Secretary of Homeland Security.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

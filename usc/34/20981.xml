@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/20981" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/20981/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/20981/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20981"><akn:num>20981</akn:num><akn:heading>Pilot program for monitoring sexual offenders</akn:heading><akn:content><akn:p>§ 20981. Pilot program for monitoring sexual offenders(a) Sex offender monitoring program(1) Grants authorized(A) In generalThe Attorney General is authorized to award grants (referred to as “Jessica Lunsford and Sarah Lunde Grants”) to States, local governments, and Indian tribal governments to assist in—(i) carrying out programs to outfit sex offenders with electronic monitoring units; and
+
+(ii) the employment of law enforcement officials necessary to carry out such programs.
+
+
+(B) DurationThe Attorney General shall award grants under this section for a period not to exceed 3 years.
+
+
+(C) Minimum standardsThe electronic monitoring units used in the pilot program shall at a minimum—(i) provide a tracking device for each offender that contains a central processing unit with global positioning system; and
+
+(ii) permit continuous monitoring of offenders 24 hours a day.
+
+
+
+(2) Application(A) In generalEach State, local government, or Indian tribal government desiring a grant under this section shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may reasonably require.
+
+
+(B) ContentsEach application submitted pursuant to subparagraph (A) shall—(i) describe the activities for which assistance under this section is sought; and
+
+(ii) provide such additional assurances as the Attorney General determines to be essential to ensure compliance with the requirements of this section.
+
+
+
+
+(b) InnovationIn making grants under this section, the Attorney General shall ensure that different approaches to monitoring are funded to allow an assessment of effectiveness.
+
+
+(c) Authorization of appropriations(1) In generalThere are authorized to be appropriated $5,000,000 for each of the fiscal years 2007 through 2009 to carry out this section.
+
+
+(2) ReportNot later than September 1, 2010, the Attorney General shall report to Congress—(A) assessing the effectiveness and value of this section;
+
+(B) comp</akn:p></akn:content><akn:subsection eId="subsec_20981_a"><akn:num>(a)</akn:num><akn:heading>Sex offender monitoring program</akn:heading><akn:content><akn:p>(a) Sex offender monitoring program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20981_b"><akn:num>(b)</akn:num><akn:heading>Innovation</akn:heading><akn:content><akn:p>(b) Innovation In making grants under this section, the Attorney General shall ensure that different approaches to monitoring are funded to allow an assessment of effectiveness.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20981_c"><akn:num>(c)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(c) Authorization of appropriations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

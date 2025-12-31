@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/20114" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/20114/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/20114/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20114"><akn:num>20114</akn:num><akn:heading>Administration and Department of Defense coordination</akn:heading><akn:content><akn:p>§ 20114. Administration and Department of Defense coordination(a) Advise and Consult.—The Administration and the Department of Defense, through the President, shall advise and consult with each other on all matters within their respective jurisdictions related to aeronautical and space activities and shall keep each other fully and currently informed with respect to such activities.
+
+(b) Referral to the President.—If the Secretary of Defense concludes that any request, action, proposed action, or failure to act on the part of the Administrator is adverse to the responsibilities of the Department of Defense, or the Administrator concludes that any request, action, proposed action, or failure to act on the part of the Department of Defense is adverse to the responsibilities of the Administration, and the Administrator and the Secretary of Defense are unable to reach an agreement with respect to the matter, either the Administrator or the Secretary of Defense may refer the matter to the President for a decision (which shall be final).
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3336.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+20114(a)42 U.S.C. 2474(b).Pub. L. 85–568, title II, § 204(b), (c), July 29, 1958, 72 Stat. 431.
+20114(b)42 U.S.C. 2474(c).
+
+
+In subsection (a), the words “through the President” are substituted for “through the Liaison Committee” because the Civilian-Military Liaison Committee, which was established by section 204(a) of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2474(a)), was abolished and its functions, together with the functions of its chairman and other officers, were transferred to the President by sections 1(e) and 3(a) of Reorganization Plan No. 4 of 1965 (5 App. U.S.C.).
+ In subsection (b), the words “as provided in section 201 (e)”, which appeared at the end of the subsection, are omitted as obsolete. Section 201 of Public Law 85–568, which was classified to</akn:p></akn:content><akn:subsection eId="subsec_20114_a"><akn:num>(a)</akn:num><akn:heading>Advise and Consult.—</akn:heading><akn:content><akn:p>(a) The Administration and the Department of Defense, through the President, shall advise and consult with each other on all matters within their respective jurisdictions related to aeronautical and space activities and shall keep each other fully and currently informed with respect to such activities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20114_b"><akn:num>(b)</akn:num><akn:heading>Referral to the President.—</akn:heading><akn:content><akn:p>(b) If the Secretary of Defense concludes that any request, action, proposed action, or failure to act on the part of the Administrator is adverse to the responsibilities of the Department of Defense, or the Administrator concludes that any request, action, proposed action, or failure to act on the part of the Department of Defense is adverse to the responsibilities of the Administration, and the Administrator and the Secretary of Defense are unable to reach an agreement with respect to the matter, either the Administrator or the Secretary of Defense may refer the matter to the President for a decision (which shall be final).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

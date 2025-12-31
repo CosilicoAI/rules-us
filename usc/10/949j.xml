@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/949j" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/949j/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/949j/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_949j"><akn:num>949j</akn:num><akn:heading>Opportunity to obtain witnesses and other evidence</akn:heading><akn:content><akn:p>§ 949j. Opportunity to obtain witnesses and other evidence(a) In General.—(1) Defense counsel in a military commission under this chapter shall have a reasonable opportunity to obtain witnesses and other evidence as provided in regulations prescribed by the Secretary of Defense. The opportunity to obtain witnesses and evidence shall be comparable to the opportunity available to a criminal defendant in a court of the United States under article III of the Constitution.
+
+(2) Process issued in military commissions under this chapter to compel witnesses to appear and testify and to compel the production of other evidence—(A) shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue; and
+
+(B) shall run to any place where the United States shall have jurisdiction thereof.
+
+
+
+(b) Disclosure of Exculpatory Evidence.—(1) As soon as practicable, trial counsel in a military commission under this chapter shall disclose to the defense the existence of any evidence that reasonably tends to—(A) negate the guilt of the accused of an offense charged; or
+
+(B) reduce the degree of guilt of the accused with respect to an offense charged.
+
+
+(2) The trial counsel shall, as soon as practicable, disclose to the defense the existence of evidence that reasonably tends to impeach the credibility of a witness whom the government intends to call at trial.
+
+(3) The trial counsel shall, as soon as practicable upon a finding of guilt, disclose to the defense the existence of evidence that is not subject to paragraph (1) or paragraph (2) but that reasonably may be viewed as mitigation evidence at sentencing.
+
+(4) The disclosure obligations under this subsection encompass evidence that is known or reasonably should be known to any government officials who participated in the investigation and prosecution of the case against the defendant.
+
+
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587.)
+
+Editorial Notes
+Prior Provi</akn:p></akn:content><akn:subsection eId="subsec_949j_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_949j_b"><akn:num>(b)</akn:num><akn:heading>Disclosure of Exculpatory Evidence.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/11303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/11303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/11303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11303"><akn:num>11303</akn:num><akn:heading>Performance-based and results-based management</akn:heading><akn:content><akn:p>§ 11303. Performance-based and results-based management(a) In General.—The Director of the Office of Management and Budget shall encourage the use of performance-based and results-based management in fulfilling the responsibilities assigned under section 3504(h) of title 44.
+
+(b) Evaluation of Agency Programs and Investments.—(1) Requirement.—The Director shall evaluate the information resources management practices of the executive agencies with respect to the performance and results of the investments made by the executive agencies in information technology.
+
+(2) Direction for executive agency action.—The Director shall issue to the head of each executive agency clear and concise direction that the head of each agency shall—(A) establish effective and efficient capital planning processes for selecting, managing, and evaluating the results of all of its major investments in information systems;
+
+(B) determine, before making an investment in a new information system—(i) whether the function to be supported by the system should be performed by the private sector and, if so, whether any component of the executive agency performing that function should be converted from a governmental organization to a private sector organization; or
+
+(ii) whether the function should be performed by the executive agency and, if so, whether the function should be performed by a private sector source under contract or by executive agency personnel;
+
+
+(C) analyze the missions of the executive agency and, based on the analysis, revise the executive agency’s mission-related processes and administrative processes, as appropriate, before making significant investments in information technology to be used in support of those missions; and
+
+(D) ensure that the information security policies, procedures, and practices are adequate.
+
+
+(3) Guidance for multiagency investments.—The direction issued under paragraph (2) shall include guidance for undertaking efficiently and effectively interagency and</akn:p></akn:content><akn:subsection eId="subsec_11303_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Director of the Office of Management and Budget shall encourage the use of performance-based and results-based management in fulfilling the responsibilities assigned under section 3504(h) of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11303_b"><akn:num>(b)</akn:num><akn:heading>Evaluation of Agency Programs and Investments.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/11102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/11102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/11102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11102"><akn:num>11102</akn:num><akn:heading>Medicine chests</akn:heading><akn:content><akn:p>§ 11102. Medicine chests(a) A vessel of the United States on a voyage from a port in the United States to a foreign port (except to a Canadian port), and a vessel of the United States of at least 75 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title on a voyage between a port of the United States on the Atlantic Ocean and Pacific Ocean, shall be provided with a medicine chest.
+
+(b) The owner and master of a vessel not equipped as required by subsection (a) of this section or a regulation prescribed under subsection (a) are liable to the United States Government for a civil penalty of $500. If the offense was due to the fault of the owner, a master penalized under this section has the right to recover the penalty and costs from the owner.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 578; Pub. L. 104–324, title VII, § 741, Oct. 19, 1996, 110 Stat. 3942.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+11102(a)46:666
+11102(b)46:667
+
+
+Section 11102 requires that a United States vessel on a foreign or intercoastal domestic voyage be equipped with a medicine chest, and provides a penalty for noncompliance. The Committee intends that regulation will provide for a well stocked medicine chest adequate for the crew of a vessel.
+
+Editorial Notes
+Amendments1996—Subsec. (a). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “75 gross tons”.</akn:p></akn:content><akn:subsection eId="subsec_11102_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A vessel of the United States on a voyage from a port in the United States to a foreign port (except to a Canadian port), and a vessel of the United States of at least 75 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title on a voyage between a port of the United States on the Atlantic Ocean and Pacific Ocean, shall be provided with a medicine chest.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11102_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The owner and master of a vessel not equipped as required by subsection (a) of this section or a regulation prescribed under subsection (a) are liable to the United States Government for a civil penalty of $500. If the offense was due to the fault of the owner, a master penalized under this section has the right to recover the penalty and costs from the owner.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

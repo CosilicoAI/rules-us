@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/2041" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/2041/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/2041/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2041"><akn:num>2041</akn:num><akn:heading>Housing assistance for homeless veterans</akn:heading><akn:content><akn:p>§ 2041. Housing assistance for homeless veterans(a)(1) To assist homeless veterans and their families in acquiring shelter or permanent housing, the Secretary may enter into agreements described in paragraph (2) with—(A) nonprofit organizations, with preference being given to any organization that is the recipient of a grant under section 2011, 2013, 2044, or 2061 of this title; or
+
+(B) any State or tribal entity, or any political subdivision thereof.
+
+
+(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, lease with an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
+
+(3) The Secretary may enter into an agreement under paragraph (1) of this subsection only if—(A) the Secretary determines that such an action will not adversely affect the ability of the Department—(i) to fulfill its statutory missions with respect to the Department loan guaranty program and the short- and long-term solvency of the Veterans Housing Benefit Program Fund established under section 3722 of this title; or
+
+(ii) to carry out other functions and administer other programs authorized by law;
+
+
+(B) the entity to which the property is sold, leased, or donated agrees to—(i)(I) utilize the property solely as a shelter or permanent housing primarily for homeless veterans and their families; or
+
+(II) sell or rent the property directly to homeless veterans or veterans at risk of homelessness;
+
+
+(ii) comply with all zoning laws relating to the property;
+
+(iii) make no use of the property that is not compatible with the area where the property is located; and
+
+(iv) take such other actions as the Secretary determines are necessary or appropriate in the best interests of homele</akn:p></akn:content><akn:subsection eId="subsec_2041_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2041_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2041_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary may not enter into agreements under subsection (a) after September 30, 2026.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

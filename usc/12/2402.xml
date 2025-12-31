@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/2402" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/2402/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/2402/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2402"><akn:num>2402</akn:num><akn:heading>Membership of Commission</akn:heading><akn:content><akn:p>§ 2402. Membership of Commission(a) CompositionThe Commission shall be composed of twenty-six members as follows:(1) the Chairman of the Board of Governors of the Federal Reserve System or his delegate;
+
+(2) the Attorney General or his delegate;
+
+(3) the Comptroller of the Currency or his delegate;
+
+(4) the Chairman of the Federal Home Loan Bank Board or his delegate;
+
+(5) the Administrator of the National Credit Union Administration or his delegate;
+
+(6) the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation or his delegate;
+
+(7) the Chairman of the Federal Communications Commission or his delegate;
+
+(8) the Postmaster General or his delegate;
+
+(9) the Secretary of the Treasury or his delegate;
+
+(10) the Chairman of the Federal Trade Commission or his delegate;
+
+(11) two individuals, appointed by the President, one of whom is an official of a State agency which regulates banking, or similar financial institutions, and one of whom is an official of a State agency which regulates thrift or similar financial institutions;
+
+(12) seven individuals, appointed by the President, who are officers or employees of, or who otherwise represent banking, thrift, or other business entities, including one representative each of commercial banks, mutual savings banks, savings and loan associations, credit unions, retailers, nonbanking institutions offering credit card services, and organizations providing interchange services for credit cards issued by banks;
+
+(13) five individuals, appointed by the President, from private life who are not affiliated with, do not represent and have no substantial interest in any banking, thrift, or other financial institution, including but not limited to credit unions, retailers, and insurance companies;
+
+(14) the Comptroller General of the United States or his delegate; and
+
+(15) the Director of the Office of Technology Assessment.
+
+
+(b) Designation of ChairpersonThe Chairperson shall be designated by the President at </akn:p></akn:content><akn:subsection eId="subsec_2402_a"><akn:num>(a)</akn:num><akn:heading>Composition</akn:heading><akn:content><akn:p>(a) Composition The Commission shall be composed of twenty-six members as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2402_b"><akn:num>(b)</akn:num><akn:heading>Designation of Chairperson</akn:heading><akn:content><akn:p>(b) Designation of Chairperson The Chairperson shall be designated by the President at the time of his appointment from among the members of the Commission and such selection shall be by and with the advice and consent of the Senate unless the appointee holds an office to which he was appointed by and with the advice and consent of the Senate.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2402_c"><akn:num>(c)</akn:num><akn:heading>Vacancies</akn:heading><akn:content><akn:p>(c) Vacancies A vacancy in the Commission shall be filled in the manner in which the original appointment was made.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

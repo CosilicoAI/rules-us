@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/525" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/525/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/525/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_525"><akn:num>525</akn:num><akn:heading>Distribution of commissioned officers on active duty in general officer and flag officer grades</akn:heading><akn:content><akn:p>§ 525. Distribution of commissioned officers on active duty in general officer and flag officer grades(a) For purposes of the applicable limitation in section 526(a) of this title on general and flag officers on active duty, no appointment of an officer on the active duty list may be made—(1) in the Army, if that appointment would result in more than—(A) 8 officers in the grade of general;
+
+(B) 46 officers in a grade above the grade of major general; or
+
+(C) 90 officers in the grade of major general;
+
+
+(2) in the Air Force, if that appointment would result in more than—(A) 9 officers in the grade of general;
+
+(B) 44 officers in a grade above the grade of major general; or
+
+(C) 73 officers in the grade of major general;
+
+
+(3) in the Navy, if that appointment would result in more than—(A) 6 officers in the grade of admiral;
+
+(B) 34 officers in a grade above the grade of rear admiral; or
+
+(C) 49 officers in the grade of rear admiral;
+
+
+(4) in the Marine Corps, if that appointment would result in more than—(A) 2 officers in the grade of general;
+
+(B) 18 officers in a grade above the grade of major general; or
+
+(C) 21.11 So in original. The period probably should not appear. officers in the grade of major general; and
+
+
+(5) in the Space Force, if that appointment would result in more than—(A) 2 officers in the grade of general;
+
+(B) 7 officers in a grade above the grade of major general; or
+
+(C) 6 officers in the grade of major general.
+
+
+
+(b) The limitations of subsection (a) do not include the following:(1) An officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but no more than three officers from each armed forces may be on active duty who are excluded under this paragraph.
+
+(2) The number of officers required to serve in joint d</akn:p></akn:content><akn:subsection eId="subsec_525_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For purposes of the applicable limitation in section 526(a) of this title on general and flag officers on active duty, no appointment of an officer on the active duty list may be made—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The limitations of subsection (a) do not include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) An officer continuing to hold the grade of general or admiral under section 601(b)(5) of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Chief of Space Operations shall not be counted for purposes of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) The following officers shall not be counted for purposes of this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer’s armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g) A naval officer while serving as the Medical Officer of the Marine Corps is in addition to the number that would otherwise be permitted for the Navy for officers serving on active duty in the grade of rear admiral (lower half) under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_h"><akn:num>(h)</akn:num><akn:content><akn:p>(h)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/3671" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/3671/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/3671/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3671"><akn:num>3671</akn:num><akn:heading>Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat </akn:heading><akn:content><akn:p>§ 3671. Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles(a)(1) The Secretary of a military department may make a contract for the lease of a vessel, aircraft, or combat vehicle or for the provision of a service through use by a contractor of a vessel, aircraft, or combat vehicle only as provided in subsection (b) if—(A) the contract will be a long-term lease or charter; or
+
+(B) the terms of the contract provide for a substantial termination liability on the part of the United States.
+
+
+(2) The Secretary of a military department may make a contract that is an agreement to lease or charter or an agreement to provide services and that is (or will be) accompanied by a contract for the actual lease, charter, or provision of services only as provided in subsection (b) if the contract for the actual lease, charter, or provision of services is (or will be) a contract described in paragraph (1).
+
+
+(b)(1) The Secretary may make a contract described in subsection (a)(1) if—(A) the Secretary has been specifically authorized by law to make the contract;
+
+(B) before a solicitation for proposals for the contract was issued the Secretary notified the congressional defense committees of the Secretary’s intention to issue such a solicitation;
+
+(C) the Secretary has notified those committees of the proposed contract and provided a detailed description of the terms of the proposed contract and a justification for entering into the proposed contract rather than providing for the lease, charter, or services involved through purchase of the vessel, aircraft, or combat vehicle to be used under the contract, and a period of 30 days of continuous session of Congress has expired following the date on which notice was received by such committees; and
+
+(D) the Secretary has certified to those committees—(i) that entering into the proposed contract as a means of obtaining the vessel, aircraft, or combat vehicle is the most cost-effectiv</akn:p></akn:content><akn:subsection eId="subsec_3671_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3671_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

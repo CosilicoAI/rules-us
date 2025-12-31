@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/151106" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/151106/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/151106/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_151106"><akn:num>151106</akn:num><akn:heading>Tax exemption</akn:heading><akn:content><akn:p>§ 151106. Tax exemption(a) Real Property.—Real property of the corporation is exempt from taxation if it is—(1) located in the District of Columbia;
+
+(2) used for the purposes provided in section 151102 of this title; and
+
+(3) not used to produce income.
+
+
+(b) Personal Property.—Personal property of the corporation is exempt from taxation if it is used for the purposes provided in section 151102 of this title or to produce income to be used for those purposes.
+
+(c) Annual Report.—The corporation shall submit annually to the Secretary of Education a written report stating in detail for the prior year—(1) the real and personal property held by the corporation;
+
+(2) the income from the property; and
+
+(3) the expenditure or other use or disposition of the property and income from the property.
+
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1398.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+151106(a), (b)36:5304 (words before last proviso).June 30, 1906, ch. 3929, § 4, 34 Stat. 805.
+151106(c)36:5304 (last proviso). 
+
+
+In subsections (a) and (b), the words “the purposes provided in section 151102 of this title” are substituted for “the educational or other purposes of the corporation as aforesaid” and “educational purposes aforesaid” for clarity. The words “Provided, however, That this exemption shall not apply to any property of the corporation which shall not be used for or the income of which shall not be applied to the educational purposes of the corporation” are omitted as unnecessary.
+In subsection (b), the words “and funds” are omitted as included in “personal property”. The words “held” and “invested” are omitted as included in “used . . . to produce income”.
+In subsection (c), the words “Secretary of Education” are substituted for “Commissioner of Education of the United States” because all functions of the Commissioner of Education have been transferred to the Secretary of Education as provided in 20:3441</akn:p></akn:content><akn:subsection eId="subsec_151106_a"><akn:num>(a)</akn:num><akn:heading>Real Property.—</akn:heading><akn:content><akn:p>(a) Real property of the corporation is exempt from taxation if it is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151106_b"><akn:num>(b)</akn:num><akn:heading>Personal Property.—</akn:heading><akn:content><akn:p>(b) Personal property of the corporation is exempt from taxation if it is used for the purposes provided in section 151102 of this title or to produce income to be used for those purposes.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151106_c"><akn:num>(c)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(c) The corporation shall submit annually to the Secretary of Education a written report stating in detail for the prior year—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/151303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/151303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/151303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_151303"><akn:num>151303</akn:num><akn:heading>Board of directors</akn:heading><akn:content><akn:p>§ 151303. Board of directors(a) General.—The board of directors is the governing body of the corporation.
+
+(b) Members and Appointment.—(1) The Administrator of the United States Fire Administration of the Federal Emergency Management Agency is an ex officio nonvoting member of the board. The Administrator appoints the voting members of the board.
+
+(2) The board consists of the following 12 voting members:(A) one active volunteer firefighter;
+
+(B) one active career firefighter;
+
+(C) one United States Government firefighter; and
+
+(D) nine individuals who have a demonstrated interest in the fire service.
+
+
+(3) The terms of office of the voting members are 6 years (except for the initial members). The terms shall be staggered so that the terms of 4 members expire every 2 years.
+
+(4) A vacancy on the board shall be filled within 60 days in the manner in which the original appointment was made.
+
+
+(c) Chairman.—The chairman shall be elected by the board from its voting members for a 2-year term.
+
+(d) Quorum.—A majority of the current membership of the board is a quorum.
+
+(e) Meetings.—The board shall meet at the call of the chairman at least once a year. If a member of the board misses 3 consecutive meetings, that member may be removed from the board and that vacancy may be filled as provided in subsection (b)(4) of this section.
+
+(f) Status and Compensation.—(1) Appointment to the board shall not constitute employment by or the holding of an office of the United States.
+
+(2) Members of the board shall serve without compensation.
+
+
+(g) Liability.—Members of the board are not personally liable, except for gross negligence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, § 1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, § 113(b), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, § 206(a), Dec. 6, 2003, 117 Stat. 2040; Pub. L. 109–284, § 5(9), Sept. 27, 2006, 120 Stat. 1212.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+Pub. L. 105–225</akn:p></akn:content><akn:subsection eId="subsec_151303_a"><akn:num>(a)</akn:num><akn:heading>General.—</akn:heading><akn:content><akn:p>(a) The board of directors is the governing body of the corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151303_b"><akn:num>(b)</akn:num><akn:heading>Members and Appointment.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151303_c"><akn:num>(c)</akn:num><akn:heading>Chairman.—</akn:heading><akn:content><akn:p>(c) The chairman shall be elected by the board from its voting members for a 2-year term.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151303_d"><akn:num>(d)</akn:num><akn:heading>Quorum.—</akn:heading><akn:content><akn:p>(d) A majority of the current membership of the board is a quorum.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151303_e"><akn:num>(e)</akn:num><akn:heading>Meetings.—</akn:heading><akn:content><akn:p>(e) The board shall meet at the call of the chairman at least once a year. If a member of the board misses 3 consecutive meetings, that member may be removed from the board and that vacancy may be filled as provided in subsection (b)(4) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151303_f"><akn:num>(f)</akn:num><akn:heading>Status and Compensation.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151303_g"><akn:num>(g)</akn:num><akn:heading>Liability.—</akn:heading><akn:content><akn:p>(g) Members of the board are not personally liable, except for gross negligence.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

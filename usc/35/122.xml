@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/35/122" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/35/122/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/35/122/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_122"><akn:num>122</akn:num><akn:heading>Confidential status of applications; publication of patent applications</akn:heading><akn:content><akn:p>§ 122. Confidential status of applications; publication of patent applications(a) Confidentiality.—Except as provided in subsection (b), applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of an Act of Congress or in such special circumstances as may be determined by the Director.
+
+(b) Publication.—(1) In general.—(A) Subject to paragraph (2), each application for a patent shall be published, in accordance with procedures determined by the Director, promptly after the expiration of a period of 18 months from the earliest filing date for which a benefit is sought under this title. At the request of the applicant, an application may be published earlier than the end of such 18-month period.
+
+(B) No information concerning published patent applications shall be made available to the public except as the Director determines.
+
+(C) Notwithstanding any other provision of law, a determination by the Director to release or not to release information concerning a published patent application shall be final and nonreviewable.
+
+
+(2) Exceptions.—(A) An application shall not be published if that application is—(i) no longer pending;
+
+(ii) subject to a secrecy order under section 181;
+
+(iii) a provisional application filed under section 111(b); or
+
+(iv) an application for a design patent filed under chapter 16.
+
+
+(B)(i) If an applicant makes a request upon filing, certifying that the invention disclosed in the application has not and will not be the subject of an application filed in another country, or under a multilateral international agreement, that requires publication of applications 18 months after filing, the application shall not be published as provided in paragraph (1).
+
+(ii) An applicant may rescind a request made under clause (i) at any time.
+
+(iii) An applicant who has made a request under clause (i) </akn:p></akn:content><akn:subsection eId="subsec_122_a"><akn:num>(a)</akn:num><akn:heading>Confidentiality.—</akn:heading><akn:content><akn:p>(a) Except as provided in subsection (b), applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of an Act of Congress or in such special circumstances as may be determined by the Director.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_122_b"><akn:num>(b)</akn:num><akn:heading>Publication.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_122_c"><akn:num>(c)</akn:num><akn:heading>Protest and Pre-Issuance Opposition.—</akn:heading><akn:content><akn:p>(c) The Director shall establish appropriate procedures to ensure that no protest or other form of pre-issuance opposition to the grant of a patent on an application may be initiated after publication of the application without the express written consent of the applicant.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_122_d"><akn:num>(d)</akn:num><akn:heading>National Security.—</akn:heading><akn:content><akn:p>(d) No application for patent shall be published under subsection (b)(1) if the publication or disclosure of such invention would be detrimental to the national security. The Director shall establish appropriate procedures to ensure that such applications are promptly identified and the secrecy of such inventions is maintained in accordance with chapter 17.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_122_e"><akn:num>(e)</akn:num><akn:heading>Preissuance Submissions by Third Parties.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

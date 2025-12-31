@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2816" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2816/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2816/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2816"><akn:num>2816</akn:num><akn:heading>Consideration of energy security and energy resilience in life-cycle cost for military construction</akn:heading><akn:content><akn:p>§ 2816. Consideration of energy security and energy resilience in life-cycle cost for military construction(a) In General.—(1) The Secretary concerned, when evaluating the life-cycle designed cost of a covered military construction project, shall include as a facility requirement the long-term consideration of energy security and energy resilience that would ensure that the resulting facility is capable of continuing to perform its missions, during the life of the facility, in the event of a natural or human-caused disaster, an attack, or any other unplanned event that would otherwise interfere with the ability of the facility to perform its missions.
+
+(2) A facility requirement under paragraph (1) shall not be weighed, for cost purposes, against other facility requirements in determining the design of the facility.
+
+
+(b) Inclusion in the Building Life-cycle Cost Program.—The Secretary shall include the requirements of subsection (a) in applying the latest version of the building life-cycle cost program, as developed by the National Institute of Standards and Technology, to consider on-site distributed energy assets in a building design for a covered military construction project.
+
+(c) Covered Military Construction Project Defined.—(1) In this section, the term “covered military construction project” means a military construction project for a facility that is used to perform critical functions during a natural or human-caused disaster, an attack, or any other unplanned event.
+
+(2) For purposes of paragraph (1), the term “facility” includes at a minimum any of the following:(A) Operations centers.
+
+(B) Nuclear command and control facilities.
+
+(C) Integrated strategic and tactical warning and attack assessment facilities.
+
+(D) Continuity of government facilities.
+
+(E) Missile defense facilities.
+
+(F) Air defense facilities.
+
+(G) Hospitals.
+
+(H) Armories and readiness centers of the National Guard.
+
+(I) Communications facilities.
+
+(J) Satellite and missile launch and </akn:p></akn:content><akn:subsection eId="subsec_2816_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2816_b"><akn:num>(b)</akn:num><akn:heading>Inclusion in the Building Life-cycle Cost Program.—</akn:heading><akn:content><akn:p>(b) The Secretary shall include the requirements of subsection (a) in applying the latest version of the building life-cycle cost program, as developed by the National Institute of Standards and Technology, to consider on-site distributed energy assets in a building design for a covered military construction project.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2816_c"><akn:num>(c)</akn:num><akn:heading>Covered Military Construction Project Defined.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

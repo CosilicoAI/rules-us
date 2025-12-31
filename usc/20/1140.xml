@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1140" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1140/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1140/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1140"><akn:num>1140</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1140. Definitions
+In this part:(1) Comprehensive transition and postsecondary program for students with intellectual disabilitiesThe term “comprehensive transition and postsecondary program for students with intellectual disabilities” means a degree, certificate, or nondegree program that meets each of the following:(A) Is offered by an institution of higher education.
+
+(B) Is designed to support students with intellectual disabilities who are seeking to continue academic, career and technical, and independent living instruction at an institution of higher education in order to prepare for gainful employment.
+
+(C) Includes an advising and curriculum structure.
+
+(D) Requires students with intellectual disabilities to participate on not less than a half-time basis as determined by the institution, with such participation focusing on academic components, and occurring through 1 or more of the following activities:(i) Regular enrollment in credit-bearing courses with nondisabled students offered by the institution.
+
+(ii) Auditing or participating in courses with nondisabled students offered by the institution for which the student does not receive regular academic credit.
+
+(iii) Enrollment in noncredit-bearing, nondegree courses with nondisabled students.
+
+(iv) Participation in internships or work-based training in settings with nondisabled individuals.
+
+
+(E) Requires students with intellectual disabilities to be socially and academically integrated with non-disabled students to the maximum extent possible.
+
+
+(2) Student with an intellectual disabilityThe term “student with an intellectual disability” means a student—(A) with a cognitive impairment, characterized by significant limitations in—(i) intellectual and cognitive functioning; and
+
+(ii) adaptive behavior as expressed in conceptual, social, and practical adaptive skills; and
+
+
+(B) who is currently, or was formerly, eligible for a free appropriate public education under the Individuals with Disabilities Educati</akn:p></akn:content><akn:subsection eId="subsec_1140_1"><akn:num>(1)</akn:num><akn:heading>Comprehensive transition and postsecondary program for students with intellectual disabilities</akn:heading><akn:content><akn:p>(1) Comprehensive transition and postsecondary program for students with intellectual disabilities The term “comprehensive transition and postsecondary program for students with intellectual disabilities” means a degree, certificate, or nondegree program that meets each of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1140_2"><akn:num>(2)</akn:num><akn:heading>Student with an intellectual disability</akn:heading><akn:content><akn:p>(2) Student with an intellectual disability The term “student with an intellectual disability” means a student—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

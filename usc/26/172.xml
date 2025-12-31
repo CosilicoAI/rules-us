@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/172" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/172/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/172/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_172"><akn:num>172</akn:num><akn:heading>Net operating loss deduction</akn:heading><akn:content><akn:p>§ 172. Net operating loss deduction(a) Deduction allowedThere shall be allowed as a deduction for the taxable year an amount equal to—(1) in the case of a taxable year beginning before January 1, 2021, the aggregate of the net operating loss carryovers to such year, plus the net operating loss carrybacks to such year, and
+
+(2) in the case of a taxable year beginning after December 31, 2020, the sum of—(A) the aggregate amount of net operating losses arising in taxable years beginning before January 1, 2018, carried to such taxable year, plus
+
+(B) the lesser of—(i) the aggregate amount of net operating losses arising in taxable years beginning after December 31, 2017, carried to such taxable year, or
+
+(ii) 80 percent of the excess (if any) of—(I) taxable income computed without regard to the deductions under this section and sections 199A and 250, over
+
+(II) the amount determined under subparagraph (A).
+
+
+
+
+
+For purposes of this subtitle, the term “net operating loss deduction” means the deduction allowed by this subsection.
+
+(b) Net operating loss carrybacks and carryovers(1) Years to which loss may be carried(A) General ruleA net operating loss for any taxable year—(i) shall be a net operating loss carryback to the extent provided in subparagraphs (B), (C)(i), and (D), and
+
+(ii) except as provided in subparagraph (C)(ii), shall be a net operating loss carryover—(I) in the case of a net operating loss arising in a taxable year beginning before January 1, 2018, to each of the 20 taxable years following the taxable year of the loss, and
+
+(II) in the case of a net operating loss arising in a taxable year beginning after December 31, 2017, to each taxable year following the taxable year of the loss.
+
+
+
+(B) Farming losses(i) In generalIn the case of any portion of a net operating loss for the taxable year which is a farming loss with respect to the taxpayer, such loss shall be a net operating loss carryback to each of the 2 taxable years preceding the taxable year of suc</akn:p></akn:content><akn:subsection eId="subsec_172_a"><akn:num>(a)</akn:num><akn:heading>Deduction allowed</akn:heading><akn:content><akn:p>(a) Deduction allowed There shall be allowed as a deduction for the taxable year an amount equal to— For purposes of this subtitle, the term “net operating loss deduction” means the deduction allowed by this subsection.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_172_b"><akn:num>(b)</akn:num><akn:heading>Net operating loss carrybacks and carryovers</akn:heading><akn:content><akn:p>(b) Net operating loss carrybacks and carryovers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_172_c"><akn:num>(c)</akn:num><akn:heading>Net operating loss defined</akn:heading><akn:content><akn:p>(c) Net operating loss defined For purposes of this section, the term “net operating loss” means the excess of the deductions allowed by this chapter over the gross income. Such excess shall be computed with the modifications specified in subsection (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_172_d"><akn:num>(d)</akn:num><akn:heading>Modifications</akn:heading><akn:content><akn:p>(d) Modifications The modifications referred to in this section are as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_172_e"><akn:num>(e)</akn:num><akn:heading>Law applicable to computations</akn:heading><akn:content><akn:p>(e) Law applicable to computations In determining the amount of any net operating loss carryback or carryover to any taxable year, the necessary computations involving any other taxable year shall be made under the law applicable to such other taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_172_f"><akn:num>(f)</akn:num><akn:heading>Special rule for insurance companies</akn:heading><akn:content><akn:p>(f) Special rule for insurance companies In the case of an insurance company (as defined in section 816(a)) other than a life insurance company—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_172_g"><akn:num>(g)</akn:num><akn:heading>Cross references</akn:heading><akn:content><akn:p>(g) Cross references</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

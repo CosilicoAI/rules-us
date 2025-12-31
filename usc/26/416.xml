@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/416" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/416/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/416/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_416"><akn:num>416</akn:num><akn:heading>Special rules for top-heavy plans</akn:heading><akn:content><akn:p>§ 416. Special rules for top-heavy plans(a) General ruleA trust shall not constitute a qualified trust under section 401(a) for any plan year if the plan of which it is a part is a top-heavy plan for such plan year unless such plan meets—(1) the vesting requirements of subsection (b), and
+
+(2) the minimum benefit requirements of subsection (c).
+
+
+(b) Vesting requirements(1) In generalA plan satisfies the requirements of this subsection if it satisfies the requirements of either of the following subparagraphs:(A) 3-year vestingA plan satisfies the requirements of this subparagraph if an employee who has completed at least 3 years of service with the employer or employers maintaining the plan has a nonforfeitable right to 100 percent of his accrued benefit derived from employer contributions.
+
+
+(B) 6-year graded vestingA plan satisfies the requirements of this subparagraph if an employee has a nonforfeitable right to a percentage of his accrued benefit derived from employer contributions determined under the following table:
+
+
+
+
+
+
+ Years of serviceThe nonforfeitable percentage is:
+
+
+220
+340
+460
+580
+6 or more100
+
+
+
+
+
+
+(2) Certain rules made applicableExcept to the extent inconsistent with the provisions of this subsection, the rules of section 411 shall apply for purposes of this subsection.
+
+
+
+(c) Plan must provide minimum benefits(1) Defined benefit plans(A) In generalA defined benefit plan meets the requirements of this subsection if the accrued benefit derived from employer contributions of each participant who is a non-key employee, when expressed as an annual retirement benefit, is not less than the applicable percentage of the participant’s average compensation for years in the testing period.
+
+
+(B) Applicable percentageFor purposes of subparagraph (A), the term “applicable percentage” means the lesser of—(i) 2 percent multiplied by the number of years of service with the employer, or
+
+(ii) 20 percent.
+
+
+(C) Years of serviceFor purposes of this paragraph—(i) In </akn:p></akn:content><akn:subsection eId="subsec_416_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule A trust shall not constitute a qualified trust under section 401(a) for any plan year if the plan of which it is a part is a top-heavy plan for such plan year unless such plan meets—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_b"><akn:num>(b)</akn:num><akn:heading>Vesting requirements</akn:heading><akn:content><akn:p>(b) Vesting requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_c"><akn:num>(c)</akn:num><akn:heading>Plan must provide minimum benefits</akn:heading><akn:content><akn:p>(c) Plan must provide minimum benefits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_d"><akn:num>(d)</akn:num><akn:heading>Repealed. Pub. L. 99–514, title XI, § 1106(d)(3)(B)(i), Oct. 22, 1986, 100 Stat. 2424]</akn:heading><akn:content><akn:p>[(d) Repealed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_e"><akn:num>(e)</akn:num><akn:heading>Plan must meet requirements without taking into account social security and similar contributions and benefits</akn:heading><akn:content><akn:p>(e) Plan must meet requirements without taking into account social security and similar contributions and benefits A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_f"><akn:num>(f)</akn:num><akn:heading>Coordination where employer has 2 or more plans</akn:heading><akn:content><akn:p>(f) Coordination where employer has 2 or more plans The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_g"><akn:num>(g)</akn:num><akn:heading>Top-heavy plan defined</akn:heading><akn:content><akn:p>(g) Top-heavy plan defined For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_h"><akn:num>(h)</akn:num><akn:heading>Repealed. Pub. L. 104–188, title I, § 1452(c)(7), Aug. 20, 1996, 110 Stat. 1816]</akn:heading><akn:content><akn:p>[(h) Repealed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_416_i"><akn:num>(i)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(i) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

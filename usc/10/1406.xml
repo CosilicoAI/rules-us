@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1406" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1406/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1406/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1406"><akn:num>1406</akn:num><akn:heading>Retired pay base for members who first became members before September 8, 1980: final basic pay</akn:heading><akn:content><akn:p>§ 1406. Retired pay base for members who first became members before September 8, 1980: final basic pay(a) Use of Retired Pay Base in Computing Retired Pay.—(1) General rule.—The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service before September 8, 1980, is computed using the retired pay base or retainer pay base determined under this section.
+
+(2) Exception for recomputation.—Recomputation of retired or retainer pay to reflect later active duty is provided for under section 1402 of this title without reference to a retired pay base or retainer pay base.
+
+
+(b) Retirement Under Subtitle A or E.—(1) Disability, warrant officer, and dopma retirement.—In the case of a person whose retired pay is computed under this subtitle, the retired pay base is determined in accordance with the following table.
+
+
+
+
+
+
+For a member entitled toretired pay under section:The retired pay base is:
+
+
+1 Compute at rates applicable on date of retirement or date when member’s name was placed on temporary disability retired list, as the case may be.
+
+
+2 Compute at rates applicable on date of retirement.
+
+
+3 For the purposes of this subsection, determine member’s retired grade as if sections 7342 and 9342 did not apply.
+
+
+
+1201120212041205Monthly basic pay 1 of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher.
+ 580126312931305Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade.
+ 633 634 635 636125112521253Monthly basic pay 2 of member’s retired grade.3
+
+
+
+
+(2) Non-regular service retirement.—In the case of a person who is entitled to retired pay under section 127</akn:p></akn:content><akn:subsection eId="subsec_1406_a"><akn:num>(a)</akn:num><akn:heading>Use of Retired Pay Base in Computing Retired Pay.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_b"><akn:num>(b)</akn:num><akn:heading>Retirement Under Subtitle A or E.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_c"><akn:num>(c)</akn:num><akn:heading>Voluntary Retirement for Members of the Army.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_d"><akn:num>(d)</akn:num><akn:heading>Retirement for Members of the Navy and Marine Corps.—</akn:heading><akn:content><akn:p>(d) In the case of a member whose retired pay is computed under section 8333 of this title, who is advanced on the retired list under section 8262 or 8334 of this title, or who is entitled to retainer pay under section 8330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
+
+
+
+
+
+
+For a member entitled toretired or retainer pay under section:The retired pay base orretainer pay base is:
+
+
+1 If the rate specified is less than the pay of any warrant officer grade satisfactorily held by the member on active duty, use the monthly basic pay of that warrant officer grade.
+
+
+
+8323  8325(a)8372  Basic pay of the grade in which the member retired.1
+8325(b)Basic pay of the grade the officer would hold if he had not received an appointment described in section 8325(b).
+8326  Basic pay of the pay grade in which the member was serving on the day before retirement.
+8330  Basic pay that the member received at the time of transfer to the Fleet </akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_e"><akn:num>(e)</akn:num><akn:heading>Voluntary Retirement for Members of the Air Force and Space Force.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_f"><akn:num>(f)</akn:num><akn:heading>Coast Guard.—</akn:heading><akn:content><akn:p>(f) In the case of a member who is retired under any section of title 14, the member’s retired pay is computed under section 423(a) 11 See References in Text note below. of title 14 in the manner provided in that section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_g"><akn:num>(g)</akn:num><akn:heading>Commissioned Corps of National Oceanic and Atmospheric Administration.—</akn:heading><akn:content><akn:p>(g) In the case of an officer whose retired pay is computed under section 245 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3045), the retired pay base is the basic pay of the rank with which the officer retired.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_h"><akn:num>(h)</akn:num><akn:heading>Commissioned Corps of Public Health Service.—</akn:heading><akn:content><akn:p>(h) In the case of an officer who is retired under section 210(g) or 211(a) of the Public Health Service Act (42 U.S.C. 211(g), 212(a)), the retired pay base is determined as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1406_i"><akn:num>(i)</akn:num><akn:heading>Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, Chief of the National Guard Bureau, Commanders of Combatant Commands, and Senior Enlisted Members.—</akn:heading><akn:content><akn:p>(i)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

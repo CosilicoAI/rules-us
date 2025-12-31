@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/2251" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/2251/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/2251/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2251"><akn:num>2251</akn:num><akn:heading>Stay of State court proceedings</akn:heading><akn:content><akn:p>§ 2251. Stay of State court proceedings(a) In General.—(1) Pending matters.—A justice or judge of the United States before whom a habeas corpus proceeding is pending, may, before final judgment or after final judgment of discharge, or pending appeal, stay any proceeding against the person detained in any State court or by or under the authority of any State for any matter involved in the habeas corpus proceeding.
+
+(2) Matter not pending.—For purposes of this section, a habeas corpus proceeding is not pending until the application is filed.
+
+(3) Application for appointment of counsel.—If a State prisoner sentenced to death applies for appointment of counsel pursuant to section 3599(a)(2) of title 18 in a court that would have jurisdiction to entertain a habeas corpus application regarding that sentence, that court may stay execution of the sentence of death, but such stay shall terminate not later than 90 days after counsel is appointed or the application for appointment of counsel is withdrawn or denied.
+
+
+(b) No Further Proceedings.—After the granting of such a stay, any such proceeding in any State court or by or under the authority of any State shall be void. If no stay is granted, any such proceeding shall be as valid as if no habeas corpus proceedings or appeal were pending.
+
+(June 25, 1948, ch. 646, 62 Stat. 966; Pub. L. 109–177, title V, § 507(f), Mar. 9, 2006, 120 Stat. 251.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 465 (R.S. § 766; Mar. 3, 1893, ch. 226, 27 Stat. 751; Feb. 13, 1925, ch. 229, § 8(c), 43 Stat. 940; June 19, 1934, ch. 673, 48 Stat. 1177).
+Provisions relating to proceedings pending in 1934 were deleted as obsolete.
+A provision requiring an appeal to be taken within 3 months was omitted as covered by sections 2101 and 2107 of this title.
+Changes were made in phraseology.
+
+Editorial Notes
+Amendments2006—Pub. L. 109–177 designated first par. of existing provisions as subsec. (a)(1) and inserted headings, added pars. (2)</akn:p></akn:content><akn:subsection eId="subsec_2251_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2251_b"><akn:num>(b)</akn:num><akn:heading>No Further Proceedings.—</akn:heading><akn:content><akn:p>(b) After the granting of such a stay, any such proceeding in any State court or by or under the authority of any State shall be void. If no stay is granted, any such proceeding shall be as valid as if no habeas corpus proceedings or appeal were pending.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

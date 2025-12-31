@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/32506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/32506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/32506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_32506"><akn:num>32506</akn:num><akn:heading>Prohibited acts</akn:heading><akn:content><akn:p>§ 32506. Prohibited acts(a) General.—Except as provided in this section and section 32502 of this title, a person may not—(1) manufacture for sale, sell, offer for sale, introduce or deliver for introduction in interstate commerce, or import into the United States, a passenger motor vehicle or passenger motor vehicle equipment manufactured on or after the date an applicable standard under section 32502 of this title takes effect, unless it conforms to the standard;
+
+(2) fail to comply with an applicable regulation prescribed by the Secretary of Transportation under this chapter;
+
+(3) fail to keep records, refuse access to or copying of records, fail to make reports or provide items or information, or fail or refuse to allow entry or inspection, as required by this chapter or a regulation prescribed under this chapter; or
+
+(4) fail to provide the certificate required by section 32504 of this title, or provide a certificate that the person knows, or in the exercise of reasonable care has reason to know, is false or misleading in a material respect.
+
+
+(b) Nonapplication.—Subsection (a)(1) of this section does not apply to—(1) the sale, offer for sale, or introduction or delivery for introduction in interstate commerce of a passenger motor vehicle or passenger motor vehicle equipment after the first purchase of the vehicle or equipment in good faith other than for resale (but this clause does not prohibit a standard from requiring that a vehicle or equipment be manufactured to comply with the standard over a specified period of operation or use); or
+
+(2) a person—(A) establishing that the person had no reason to know, by exercising reasonable care, that the vehicle or equipment does not comply with the standard; or
+
+(B) holding, without knowing about a noncompliance and before that first purchase, a certificate issued under section 32504 of this title stating that the vehicle or equipment complies with the standard.
+
+
+
+(c) Importing Noncomplying Vehicles and Equipment.—</akn:p></akn:content><akn:subsection eId="subsec_32506_a"><akn:num>(a)</akn:num><akn:heading>General.—</akn:heading><akn:content><akn:p>(a) Except as provided in this section and section 32502 of this title, a person may not—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32506_b"><akn:num>(b)</akn:num><akn:heading>Nonapplication.—</akn:heading><akn:content><akn:p>(b) Subsection (a)(1) of this section does not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32506_c"><akn:num>(c)</akn:num><akn:heading>Importing Noncomplying Vehicles and Equipment.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32506_d"><akn:num>(d)</akn:num><akn:heading>Liability Under Other Law.—</akn:heading><akn:content><akn:p>(d) Compliance with a standard under this chapter does not exempt a person from liability provided by law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

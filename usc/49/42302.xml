@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/42302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/42302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/42302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_42302"><akn:num>42302</akn:num><akn:heading>Consumer complaints</akn:heading><akn:content><akn:p>§ 42302. Consumer complaints(a) In General.—The Secretary of Transportation shall—(1) maintain an accessible website through the Office of Aviation Consumer Protection to accept the submission of complaints from airline passengers regarding air travel service problems; and
+
+(2) take appropriate actions to notify the public of such accessible website.
+
+
+(b) Notice to Passengers on the Internet.—An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include on the accessible website of the carrier—(1) the accessible website, e-mail address, or telephone number of the air carrier for the submission of complaints by passengers about air travel service problems; and
+
+(2) the accessible website maintained pursuant to subsection (a).
+
+
+(c) Use of Additional or Alternative Technologies.—The Secretary shall periodically evaluate the benefits of using mobile phone applications or other widely used technologies to—(1) provide additional or alternative means for air passengers to submit complaints; and
+
+(2) provide such additional or alternative means as the Secretary determines appropriate.
+
+
+(d) Air Ambulance Providers.—Each air ambulance provider shall include the accessible website, or a link to such accessible website, maintained pursuant to subsection (a) and the contact information for the Aviation Consumer Advocate established by section 424 of the FAA Reauthorization Act of 2018 (49 U.S.C. 42302 note) on—(1) any invoice, bill, or other communication provided to a passenger or customer of such provider; and
+
+(2) the accessible website and any related mobile device application of such provider.
+
+
+(Added Pub. L. 112–95, title IV, § 415(a), Feb. 14, 2012, 126 Stat. 95; amended Pub. L. 115–254, div. B, title IV, §§ 405, 419(a), 423(a), Oct. 5, 2018, 132 Stat. 3329, 3336, 3337; Pub. L. 118–63, title V, § 520, May 16, 2024, 138 Stat. 1200.)
+
+Editor</akn:p></akn:content><akn:subsection eId="subsec_42302_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42302_b"><akn:num>(b)</akn:num><akn:heading>Notice to Passengers on the Internet.—</akn:heading><akn:content><akn:p>(b) An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include on the accessible website of the carrier—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42302_c"><akn:num>(c)</akn:num><akn:heading>Use of Additional or Alternative Technologies.—</akn:heading><akn:content><akn:p>(c) The Secretary shall periodically evaluate the benefits of using mobile phone applications or other widely used technologies to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42302_d"><akn:num>(d)</akn:num><akn:heading>Air Ambulance Providers.—</akn:heading><akn:content><akn:p>(d) Each air ambulance provider shall include the accessible website, or a link to such accessible website, maintained pursuant to subsection (a) and the contact information for the Aviation Consumer Advocate established by section 424 of the FAA Reauthorization Act of 2018 (49 U.S.C. 42302 note) on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

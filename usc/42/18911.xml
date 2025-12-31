@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18911" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18911/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18911/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18911"><akn:num>18911</akn:num><akn:heading>Basic energy sciences program</akn:heading><akn:content><akn:p>§ 18911. Basic energy sciences program(a) to (c) Omitted
+
+(d) Foundational nuclear science(1) In generalThe Director of the Office of Science shall support a program of research and development to bridge scientific barriers to, and expand theoretical and fundamental knowledge relevant to, understanding nuclear materials and matter for the benefit of commerce, medicine, and national security.
+
+
+(2) ActivitiesAs part of the program described in paragraph (1)—(A) the Director of the Office of Science shall support basic research to pursue distinct lines of scientific inquiry, including—(i) research in nuclear materials science, including the application of advanced computing practices to foundational and emerging research areas in nuclear materials science and discovery, such as—(I) the advanced characterization of materials;
+
+(II) materials synthesis;
+
+(III) processing;
+
+(IV) the innovative use of experimental and theoretical data; and
+
+(V) mechanical behavior in unique environments, including the effects of radiation;
+
+
+(ii) electrochemistry research and associated techniques for processing nuclear materials;
+
+(iii) the development of advanced instrumentation and nuclear data collection to inform the activities described in clauses (i) and (ii); and
+
+(iv) any other area of research, as determined by the Director of the Office of Science; and
+
+
+(B) the Assistant Secretary for Nuclear Energy shall consult with the Director of the Office of Science to support the direction of translational research, development, and validation of physical concepts developed under the program.
+
+
+(3) FundingOf the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary of Energy to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
+
+
+
+(e) Carbon Materials Science Initiative(1) Initiative(A) In generalThe Director of the Office of Science (referred to in this subs</akn:p></akn:content><akn:subsection eId="subsec_18911_a"><akn:num>(a)</akn:num><akn:heading>to (c) Omitted</akn:heading><akn:content><akn:p>(a) to (c) Omitted</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18911_d"><akn:num>(d)</akn:num><akn:heading>Foundational nuclear science</akn:heading><akn:content><akn:p>(d) Foundational nuclear science</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18911_e"><akn:num>(e)</akn:num><akn:heading>Carbon Materials Science Initiative</akn:heading><akn:content><akn:p>(e) Carbon Materials Science Initiative</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18911_f"><akn:num>(f)</akn:num><akn:heading>Carbon Sequestration Research and Geologic Computational Science Initiative</akn:heading><akn:content><akn:p>(f) Carbon Sequestration Research and Geologic Computational Science Initiative</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18911_g"><akn:num>(g)</akn:num><akn:heading>Funding for Carbon Initiatives</akn:heading><akn:content><akn:p>(g) Funding for Carbon Initiatives Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under subsections (e) and (f) $50,000,000 for each of fiscal years 2023 through 2027.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

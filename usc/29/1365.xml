@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1365" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1365/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1365/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1365"><akn:num>1365</akn:num><akn:heading>Annual report of plan administrator</akn:heading><akn:content><akn:p>§ 1365. Annual report of plan administrator
+For each plan year for which section 1321 of this title applies to a plan, the plan administrator shall file with the corporation, on a form prescribed by the corporation, an annual report which identifies the plan and plan administrator and which includes—(1) a copy of each notification required under section 1363 of this title with respect to such year,
+
+(2) a statement disclosing whether any reportable event (described in section 1343(b) 11 See References in Text note below. of this title) occurred during the plan year except to the extent the corporation waives such requirement, and
+
+(3) in the case of a multiemployer plan, information with respect to such plan which the corporation determines is necessary for the enforcement of subtitle E and requires by regulation, which may include—(A) a statement certified by the plan’s enrolled actuary of—(i) the value of all vested benefits under the plan as of the end of the plan year, and
+
+(ii) the value of the plan’s assets as of the end of the plan year;
+
+
+(B) a statement certified by the plan sponsor of each claim for outstanding withdrawal liability (within the meaning of section 1301(a)(12) of this title) and its value as of the end of that plan year and as of the end of the preceding plan year; and
+
+(C) the number of employers having an obligation to contribute to the plan and the number of employers required to make withdrawal liability payments.
+
+
+
+The report shall be filed within 6 months after the close of the plan year to which it relates. The corporation shall cooperate with the Secretary of the Treasury and the Secretary of Labor in an endeavor to coordinate the timing and content, and possibly obtain the combination, of reports under this section with reports required to be made by plan administrators to such Secretaries.
+(Pub. L. 93–406, title IV, § 4065, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 96–364, title I, § 106, Sept. 26, 1980, 94 Stat. 1266.)
+
+Editorial Note</akn:p></akn:content><akn:subsection eId="subsec_1365_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) a copy of each notification required under section 1363 of this title with respect to such year,</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1365_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) a statement disclosing whether any reportable event (described in section 1343(b) 11 See References in Text note below. of this title) occurred during the plan year except to the extent the corporation waives such requirement, and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1365_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) in the case of a multiemployer plan, information with respect to such plan which the corporation determines is necessary for the enforcement of subtitle E and requires by regulation, which may include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

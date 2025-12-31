@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/9303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/9303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/9303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9303"><akn:num>9303</akn:num><akn:heading>Use of eligible obligations instead of surety bonds</akn:heading><akn:content><akn:p>§ 9303. Use of eligible obligations instead of surety bonds(a) If a person is required under a law of the United States to give a surety bond, the person may give an eligible obligation as security instead of a surety bond. The obligation shall—(1) be given to the official having authority to approve the surety bond;
+
+(2) as determined by the Secretary of the Treasury, have a market value that is equal to or greater than the amount of the required surety bond; and
+
+(3) authorize the official receiving the obligation to collect or sell the obligation if the person defaults on a required condition.
+
+
+(b)(1) An official receiving an eligible obligation under subsection (a) of this section may deposit it with—(A) the Secretary of the Treasury;
+
+(B) a Federal reserve bank; or
+
+(C) a depositary designated by the Secretary.
+
+
+(2) The Secretary, bank, or depositary shall issue a receipt that describes the obligation deposited.
+
+
+(c) Using an eligible obligation instead of a surety bond for security is the same as using—(1) a personal or corporate surety bond;
+
+(2) a certified check;
+
+(3) a bank draft;
+
+(4) a post office money order; or
+
+(5) cash.
+
+
+(d) When security is no longer required, an eligible obligation given instead of a surety bond shall be returned to the person giving the obligation. If a person, supplying labor or material to a contractor defaulting under sections 3131 and 3133 of title 40, files with the United States Government the application and affidavit provided under section 3133(a) of title 40, the Government—(1) may return to the contractor the eligible obligation given as security (or proceeds of the eligible obligation given) under sections 3131 and 3133 of title 40 only after the 90-day period for bringing a civil action under section 3133(b) of title 40; and
+
+(2) if a civil action is brought in the 90-day period, shall hold the eligible obligation or the proceeds subject to the order of the court having jurisdiction of the action.
+
+
+(e) This sectio</akn:p></akn:content><akn:subsection eId="subsec_9303_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) If a person is required under a law of the United States to give a surety bond, the person may give an eligible obligation as security instead of a surety bond. The obligation shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9303_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9303_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Using an eligible obligation instead of a surety bond for security is the same as using—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9303_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) When security is no longer required, an eligible obligation given instead of a surety bond shall be returned to the person giving the obligation. If a person, supplying labor or material to a contractor defaulting under sections 3131 and 3133 of title 40, files with the United States Government the application and affidavit provided under section 3133(a) of title 40, the Government—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9303_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) This section does not affect the—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9303_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) To avoid frequent substitution of eligible obligations, the Secretary may prescribe regulations limiting the effect of this section to an eligible obligation maturing more than one year after the date the obligation is given as security.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

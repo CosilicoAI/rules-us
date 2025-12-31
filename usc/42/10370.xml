@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10370" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10370/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10370/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10370"><akn:num>10370</akn:num><akn:heading>Effect</akn:heading><akn:content><akn:p>§ 10370. Effect(a) In generalNothing in this chapter supersedes or limits any existing authority provided, or responsibility conferred, by any provision of law.
+
+
+(b) Effect on State water law(1) In generalNothing in this chapter preempts or affects any—(A) State water law; or
+
+(B) interstate compact governing water.
+
+
+(2) Compliance requiredThe Secretary shall comply with applicable State water laws in carrying out this chapter.
+
+
+
+(Pub. L. 111–11, title IX, § 9510, Mar. 30, 2009, 123 Stat. 1346.)</akn:p></akn:content><akn:subsection eId="subsec_10370_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Nothing in this chapter supersedes or limits any existing authority provided, or responsibility conferred, by any provision of law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10370_b"><akn:num>(b)</akn:num><akn:heading>Effect on State water law</akn:heading><akn:content><akn:p>(b) Effect on State water law</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

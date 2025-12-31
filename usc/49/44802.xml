@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/44802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/44802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/44802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_44802"><akn:num>44802</akn:num><akn:heading>Integration of civil unmanned aircraft systems into national airspace system</akn:heading><akn:content><akn:p>§ 44802. Integration of civil unmanned aircraft systems into national airspace system(a) Required Planning for Integration.—(1) Comprehensive plan.—Not later than November 10, 2012,11 See Prior Provisions note below. the Secretary of Transportation, in consultation with representatives of the aviation industry, Federal agencies that employ unmanned aircraft systems technology in the national airspace system, and the unmanned aircraft systems industry, shall develop a comprehensive plan to safely accelerate the integration of civil unmanned aircraft systems into the national airspace system.
+
+(2) Contents of plan.—The plan required under paragraph (1) shall contain, at a minimum, recommendations or projections on—(A) the rulemaking to be conducted under subsection (b), with specific recommendations on how the rulemaking will—(i) define the acceptable standards for operation and certification of civil unmanned aircraft systems;
+
+(ii) ensure that any civil unmanned aircraft system includes a sense-and-avoid capability; and
+
+(iii) establish standards and requirements for the operator and pilot of a civil unmanned aircraft system, including standards and requirements for registration and licensing;
+
+
+(B) the best methods to enhance the technologies and subsystems necessary to achieve the safe and routine operation of civil unmanned aircraft systems in the national airspace system;
+
+(C) a phased-in approach to the integration of civil unmanned aircraft systems into the national airspace system;
+
+(D) a timeline for the phased-in approach described under subparagraph (C);
+
+(E) creation of a safe airspace designation for cooperative manned and unmanned flight operations in the national airspace system;
+
+(F) establishment of a process to develop certification, flight standards, and air traffic requirements for civil unmanned aircraft systems at test ranges where such systems are subject to testing;
+
+(G) the best methods to ensure the safe operation of civil unmanned aircraft </akn:p></akn:content><akn:subsection eId="subsec_44802_a"><akn:num>(a)</akn:num><akn:heading>Required Planning for Integration.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44802_b"><akn:num>(b)</akn:num><akn:heading>Rulemaking.—</akn:heading><akn:content><akn:p>(b) Not later than 18 months after the date on which the plan required under subsection (a)(1) is submitted to Congress under subsection (a)(4), the Secretary shall publish in the Federal Register—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

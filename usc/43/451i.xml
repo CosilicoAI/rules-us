@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/451i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/451i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/451i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_451i"><akn:num>451i</akn:num><akn:heading>“Federal irrigation project” defined</akn:heading><akn:content><akn:p>§ 451i. “Federal irrigation project” defined
+As used in this subchapter, the term “Federal irrigation project” means any irrigation project subject to the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), to which laws this subchapter itself shall be deemed a supplement.
+(Aug. 13, 1953, ch. 428, § 11, 67 Stat. 568.)
+
+Editorial Notes
+
+References in TextAct of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

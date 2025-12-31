@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/2201" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/2201/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/2201/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2201"><akn:num>2201</akn:num><akn:heading>Establishment of Department</akn:heading><akn:content><akn:p>§ 2201. Establishment of Department
+There shall be at the seat of government a Department of Agriculture, the general design and duties of which shall be to acquire and to diffuse among the people of the United States useful information on subjects connected with agriculture, rural development, aquaculture, and human nutrition, in the most general and comprehensive sense of those terms, and to procure, propagate, and distribute among the people new and valuable seeds and plants.
+(R.S. § 520; Pub. L. 92–419, title VI, § 603(a), Aug. 30, 1972, 86 Stat. 675; Pub. L. 95–113, title XV, § 1502(a), Sept. 29, 1977, 91 Stat. 1021.)
+
+Editorial Notes
+Codification
+R.S. § 520 derived from act May 15, 1862, ch. 72, § 1, 12 Stat. 387.
+Section was formerly classified to section 511 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+Amendments1977—Pub. L. 95–113 inserted references to aquaculture and human nutrition.
+1972—Pub. L. 92–419 substituted “agriculture and rural development” and “those terms” for “agriculture” and “that word”, respectively.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1977 AmendmentAmendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
+
+Short Title of 2024 AmendmentPub. L. 118–191, § 1, Dec. 23, 2024, 138 Stat. 2658, provided that: “This Act [enacting section 2279l of this title] may be cited as the ‘Beagle Brigade Act of 2023’.”
+
+
+Short Title of 1997 AmendmentPub. L. 105–113, § 1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Act [enacting section 2204g of this title, amending sections 1991 and 2276 of this title and section 9 of Title 13, Census, repealing section 142 of Title 13, and enacting provisions set out as a note under section 1991 of this title] may be cited as the ‘Census of Agriculture Act of 1997’.”
+
+
+Short Title of 1980 AmendmentP</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/15101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/15101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/15101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15101"><akn:num>15101</akn:num><akn:heading>National Chemical Transportation Safety Advisory Committee</akn:heading><akn:content><akn:p>§ 15101. National Chemical Transportation Safety Advisory Committee(a) Establishment.—There is established a National Chemical Transportation Safety Advisory Committee (in this section referred to as the “Committee”).
+
+(b) Function.—The Committee shall advise the Secretary on matters relating to the safe and secure marine transportation of hazardous materials.
+
+(c) Membership.—(1) In general.—The Committee shall consist of not more than 25 members appointed by the Secretary in accordance with this section and section 15109 of this chapter.
+
+(2) Expertise.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+(3) Representation.—Each member of the Committee shall represent 1 of the following:(A) Chemical manufacturing entities.
+
+(B) Entities related to marine handling or transportation of chemicals.
+
+(C) Vessel design and construction entities.
+
+(D) Marine safety or security entities.
+
+(E) Marine environmental protection entities.
+
+
+(4) Distribution.—The Secretary shall, based on the needs of the Coast Guard, determine the number of members of the Committee who represent each entity specified in paragraph (3). Neither this paragraph nor any other provision of law shall be construed to require an equal distribution of members representing each entity specified in paragraph (3).
+
+
+(Added Pub. L. 115–282, title VI, § 601(a), Dec. 4, 2018, 132 Stat. 4280.)</akn:p></akn:content><akn:subsection eId="subsec_15101_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is established a National Chemical Transportation Safety Advisory Committee (in this section referred to as the “Committee”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15101_b"><akn:num>(b)</akn:num><akn:heading>Function.—</akn:heading><akn:content><akn:p>(b) The Committee shall advise the Secretary on matters relating to the safe and secure marine transportation of hazardous materials.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15101_c"><akn:num>(c)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

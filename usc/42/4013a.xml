@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/4013a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/4013a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/4013a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4013a"><akn:num>4013a</akn:num><akn:heading>Policy disclosures</akn:heading><akn:content><akn:p>§ 4013a. Policy disclosures(a) In generalNotwithstanding any other provision of law, in addition to any other disclosures that may be required, each policy under the National Flood Insurance Program shall state all conditions, exclusions, and other limitations pertaining to coverage under the subject policy, regardless of the underlying insurance product, in plain English, in boldface type, and in a font size that is twice the size of the text of the body of the policy.
+
+
+(b) ViolationsThe Administrator may impose a civil penalty of not more than $50,000 on any person that fails to comply with subsection (a).
+
+
+(Pub. L. 112–141, div. F, title II, § 100234, July 6, 2012, 126 Stat. 956.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions
+For definitions of terms used in this section, see section 4004 of this title.</akn:p></akn:content><akn:subsection eId="subsec_4013a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Notwithstanding any other provision of law, in addition to any other disclosures that may be required, each policy under the National Flood Insurance Program shall state all conditions, exclusions, and other limitations pertaining to coverage under the subject policy, regardless of the underlying insurance product, in plain English, in boldface type, and in a font size that is twice the size of the text of the body of the policy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4013a_b"><akn:num>(b)</akn:num><akn:heading>Violations</akn:heading><akn:content><akn:p>(b) Violations The Administrator may impose a civil penalty of not more than $50,000 on any person that fails to comply with subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

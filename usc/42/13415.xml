@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/13415" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/13415/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/13415/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13415"><akn:num>13415</akn:num><akn:heading>Midcontinent Energy Research Center</akn:heading><akn:content><akn:p>§ 13415. Midcontinent Energy Research Center(a) FindingCongress finds that petroleum resources in the midcontinent region of the United States are very large but are being prematurely abandoned.
+
+
+(b) PurposesThe purposes of this section are to—(1) improve the efficiency of petroleum recovery;
+
+(2) increase ultimate petroleum recovery; and
+
+(3) delay the abandonment of resources.
+
+
+(c) EstablishmentThe Secretary may establish the Midcontinent Energy Research Center (referred to in this section as the “Center”) to—(1) conduct research in petroleum geology and engineering focused on improving the recovery of petroleum from existing fields and established plays in the upper midcontinent region of the United States; and
+
+(2) ensure that the results of the research described in paragraph (1) are transferred to users.
+
+
+(d) Research(1) In generalIn conducting research under this section, the Center shall, to the extent practicable, cooperate with agencies of the Federal Government, the States in the midcontinent region of the United States, and the affected industry.
+
+
+(2) ProgramsResearch programs conducted by the Center may include—(A) data base development and transfer of technology;
+
+(B) reservoir management;
+
+(C) reservoir characterization;
+
+(D) advanced recovery methods; and
+
+(E) development of new technology.
+
+
+
+(Pub. L. 102–486, title XX, § 2015, Oct. 24, 1992, 106 Stat. 3060.)</akn:p></akn:content><akn:subsection eId="subsec_13415_a"><akn:num>(a)</akn:num><akn:heading>Finding</akn:heading><akn:content><akn:p>(a) Finding Congress finds that petroleum resources in the midcontinent region of the United States are very large but are being prematurely abandoned.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13415_b"><akn:num>(b)</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>(b) Purposes The purposes of this section are to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13415_c"><akn:num>(c)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(c) Establishment The Secretary may establish the Midcontinent Energy Research Center (referred to in this section as the “Center”) to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13415_d"><akn:num>(d)</akn:num><akn:heading>Research</akn:heading><akn:content><akn:p>(d) Research</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

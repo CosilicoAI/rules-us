@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1936b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1936b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1936b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1936b"><akn:num>1936b</akn:num><akn:heading>Intermediary relending program</akn:heading><akn:content><akn:p>§ 1936b. Intermediary relending program(a) In generalThe Secretary may make or guarantee loans to eligible entities described in subsection (b) so that the eligible entities may relend the funds to individuals and entities for the purposes described in subsection (c).
+
+
+(b) Eligible entitiesEntities eligible for loans and loan guarantees described in subsection (a) are—(1) public agencies;
+
+(2) Indian tribes;
+
+(3) cooperatives; and
+
+(4) nonprofit corporations.
+
+
+(c) Eligible purposesThe proceeds from loans made or guaranteed by the Secretary pursuant to subsection (a) may be relent by eligible entities for projects that—(1) predominately serve communities in rural areas; and
+
+(2) as determined by the Secretary—(A) promote community development;
+
+(B) establish new businesses;
+
+(C) establish and support microlending programs; and
+
+(D) create or retain employment opportunities.
+
+
+
+(d) LimitationThe Secretary shall not make loans under section 9812(a) of title 42.
+
+
+(e) Limitation on loan amountsThe maximum amount of a loan by an eligible entity described in subsection (b) to individuals and entities for a project under subsection (c), including the unpaid balance of any existing loans, shall be the lesser of—(1) $400,000; and
+
+(2) 50 percent of the loan to the eligible entity under subsection (a).
+
+
+(f) Applications(1) In generalTo be eligible to receive a loan or loan guarantee under subsection (a), an eligible entity described in subsection (b) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+
+(2) EvaluationIn evaluating applications submitted under paragraph (1), the Secretary shall—(A)(i) take into consideration the previous performance of an eligible entity in carrying out projects under subsection (c); and
+
+(ii) in the case of satisfactory performance under clause (i), require the eligible entity to contribute less equity for subsequent loans without modifying the priority gi</akn:p></akn:content><akn:subsection eId="subsec_1936b_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may make or guarantee loans to eligible entities described in subsection (b) so that the eligible entities may relend the funds to individuals and entities for the purposes described in subsection (c).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_b"><akn:num>(b)</akn:num><akn:heading>Eligible entities</akn:heading><akn:content><akn:p>(b) Eligible entities Entities eligible for loans and loan guarantees described in subsection (a) are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_c"><akn:num>(c)</akn:num><akn:heading>Eligible purposes</akn:heading><akn:content><akn:p>(c) Eligible purposes The proceeds from loans made or guaranteed by the Secretary pursuant to subsection (a) may be relent by eligible entities for projects that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_d"><akn:num>(d)</akn:num><akn:heading>Limitation</akn:heading><akn:content><akn:p>(d) Limitation The Secretary shall not make loans under section 9812(a) of title 42.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_e"><akn:num>(e)</akn:num><akn:heading>Limitation on loan amounts</akn:heading><akn:content><akn:p>(e) Limitation on loan amounts The maximum amount of a loan by an eligible entity described in subsection (b) to individuals and entities for a project under subsection (c), including the unpaid balance of any existing loans, shall be the lesser of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_f"><akn:num>(f)</akn:num><akn:heading>Applications</akn:heading><akn:content><akn:p>(f) Applications</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_g"><akn:num>(g)</akn:num><akn:heading>Return of equity</akn:heading><akn:content><akn:p>(g) Return of equity The Secretary shall establish a schedule that is consistent with the amortization schedules of the portfolio of loans made or guaranteed under subsection (a) for the return of any equity contribution made under this section by an eligible entity described in subsection (b), if the eligible entity is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_h"><akn:num>(h)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(h) Regulations The Secretary shall promulgate regulations and establish procedures reducing the administrative requirements on eligible entities described in subsection (b), including regulations to carry out the amendments made to this section by the Agriculture Improvement Act of 2018.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1936b_i"><akn:num>(i)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(i) Authorization of appropriations There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

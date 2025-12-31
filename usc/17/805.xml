@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/17/805" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/17/805/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/17/805/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_805"><akn:num>805</akn:num><akn:heading>General rule for voluntarily negotiated agreements</akn:heading><akn:content><akn:p>§ 805. General rule for voluntarily negotiated agreements
+Any rates or terms under this title that—(1) are agreed to by participants to a proceeding under section 803(b)(3),
+
+(2) are adopted by the Copyright Royalty Judges as part of a determination under this chapter, and
+
+(3) are in effect for a period shorter than would otherwise apply under a determination pursuant to this chapter,
+
+
+shall remain in effect for such period of time as would otherwise apply under such determination, except that the Copyright Royalty Judges shall adjust the rates pursuant to the voluntary negotiations to reflect national monetary inflation during the additional period the rates remain in effect.
+(Added Pub. L. 108–419, § 3(a), Nov. 30, 2004, 118 Stat. 2360.)
+
+Editorial Notes
+Prior ProvisionsPrior sections 805 to 810 were repealed by Pub. L. 103–198, § 2(e), Dec. 17, 1993, 107 Stat. 2308.
+Section 805, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to staff of Copyright Royalty Tribunal.
+Section 806, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to administrative support of Tribunal.
+Section 807, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to deduction of costs of proceedings involving distribution of royalty fees.
+Section 808, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to reporting requirements of the Tribunal.
+Section 809, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to effective date of final determinations of Tribunal.
+Section 810, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2598, related to judicial review of final decisions of Tribunal.</akn:p></akn:content><akn:subsection eId="subsec_805_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) are agreed to by participants to a proceeding under section 803(b)(3),</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_805_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) are adopted by the Copyright Royalty Judges as part of a determination under this chapter, and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_805_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) are in effect for a period shorter than would otherwise apply under a determination pursuant to this chapter,</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

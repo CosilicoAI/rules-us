@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/6573" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/6573/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/6573/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6573"><akn:num>6573</akn:num><akn:heading>Restoration plans</akn:heading><akn:content><akn:p>§ 6573. Restoration plans(a) In generalLand enrolled in the healthy forests reserve program shall be subject to a restoration plan, to be developed jointly by the landowner and the Secretary of Agriculture, in coordination with the Secretary of the Interior.
+
+
+(b) PracticesThe restoration plan shall require such restoration practices and measures as are necessary to restore and enhance habitat for species described in section 6572(b) of this title, including the following:(1) Land management practices.
+
+(2) Vegetative treatments.
+
+(3) Structural practices and measures.
+
+(4) Practices to increase carbon sequestration.
+
+(5) Practices to improve biological diversity.
+
+(6) Other practices and measures.
+
+
+(Pub. L. 108–148, title V, § 503, Dec. 3, 2003, 117 Stat. 1912; Pub. L. 115–334, title VIII, § 8407(a)(7), (9), Dec. 20, 2018, 132 Stat. 4846.)
+
+Editorial Notes
+Amendments2018—Subsec. (a). Pub. L. 115–334, § 8407(a)(9), substituted “Secretary of the Interior” for “Secretary of Interior”.
+Subsec. (b). Pub. L. 115–334, § 8407(a)(7), amended subsec. (b) generally. Prior to amendment, text read as follows: “The restoration plan shall require such restoration practices as are necessary to restore and enhance habitat for—
+“(1) species listed as endangered or threatened under section 1533 of this title; and
+“(2) animal or plant species before the species reach threatened or endangered status, such as candidate, State-listed species, and special concern species.”</akn:p></akn:content><akn:subsection eId="subsec_6573_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Land enrolled in the healthy forests reserve program shall be subject to a restoration plan, to be developed jointly by the landowner and the Secretary of Agriculture, in coordination with the Secretary of the Interior.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6573_b"><akn:num>(b)</akn:num><akn:heading>Practices</akn:heading><akn:content><akn:p>(b) Practices The restoration plan shall require such restoration practices and measures as are necessary to restore and enhance habitat for species described in section 6572(b) of this title, including the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8712" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8712/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8712/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8712"><akn:num>8712</akn:num><akn:heading>Annual accounting; special contingency reserve</akn:heading><akn:content><akn:p>§ 8712. Annual accounting; special contingency reserve
+A policy purchased under this chapter shall provide for an accounting to the Office of Personnel Management not later than 90 days after the end of each policy year. The accounting shall set forth, in a form approved by the Office—(1) the amounts of premiums actually accrued under the policy from its date of issue to the end of the policy year;
+
+(2) the total of all mortality and other claim charges incurred for that period; and
+
+(3) the amounts of the insurers’ expense and risk charges for that period.
+
+
+An excess of the total of paragraph (1) of this section over the sum of paragraphs (2) and (3) of this section shall be held by the company issuing the policy as a special contingency reserve to be used by the company only for charges under the policy. The reserve shall bear interest at a rate determined in advance of each policy year by the company and approved by the Office as being consistent with the rates generally used by the company for similar funds held under other group life insurance policies. When the Office determines that the special contingency reserve has attained an amount estimated by it to make satisfactory provision for adverse fluctuations in future charges under the policy, any further excess shall be deposited in the Treasury of the United States to the credit of the Employees’ Life Insurance Fund. When a policy is discontinued, any balance remaining in the special contingency reserve after all charges have been made shall be deposited in the Treasury to the credit of the Fund. The company may make the deposit in equal monthly installments over a period of not more than 2 years.
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 2097(d).Aug. 17, 1954, ch. 752, § 8(d), 68 Stat. 741.
+
+
+The words “A policy purcha</akn:p></akn:content><akn:subsection eId="subsec_8712_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the amounts of premiums actually accrued under the policy from its date of issue to the end of the policy year;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8712_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the total of all mortality and other claim charges incurred for that period; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8712_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the amounts of the insurers’ expense and risk charges for that period.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

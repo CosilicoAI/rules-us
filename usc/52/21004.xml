@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/21004" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/21004/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/21004/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_21004"><akn:num>21004</akn:num><akn:heading>State plan</akn:heading><akn:content><akn:p>§ 21004. State plan(a) In generalThe State plan shall contain a description of each of the following:(1) How the State will use the requirements payment to meet the requirements of subchapter III, and, if applicable under section 21001(a)(2) of this title, to carry out other activities to improve the administration of elections.
+
+(2) How the State will distribute and monitor the distribution of the requirements payment to units of local government or other entities in the State for carrying out the activities described in paragraph (1), including a description of—(A) the criteria to be used to determine the eligibility of such units or entities for receiving the payment; and
+
+(B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (8).
+
+
+(3) How the State will provide for programs for voter education, election official education and training, and poll worker training which will assist the State in meeting the requirements of subchapter III.
+
+(4) How the State will adopt voting system guidelines and processes which are consistent with the requirements of section 21081 of this title.
+
+(5) How the State will establish a fund described in subsection (b) for purposes of administering the State’s activities under this subpart, including information on fund management.
+
+(6) The State’s proposed budget for activities under this subpart, based on the State’s best estimates of the costs of such activities and the amount of funds to be made available, including specific information on—(A) the costs of the activities required to be carried out to meet the requirements of subchapter III;
+
+(B) the portion of the requirements payment which will be used to carry out activities to meet such requirements; and
+
+(C) the portion of the requirements payment which will be used to carry out other activities.
+
+
+(7) How the State, in using the req</akn:p></akn:content><akn:subsection eId="subsec_21004_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The State plan shall contain a description of each of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21004_b"><akn:num>(b)</akn:num><akn:heading>Requirements for election fund</akn:heading><akn:content><akn:p>(b) Requirements for election fund</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21004_c"><akn:num>(c)</akn:num><akn:heading>Protection against actions based on information in plan</akn:heading><akn:content><akn:p>(c) Protection against actions based on information in plan</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

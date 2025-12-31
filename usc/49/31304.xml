@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/31304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/31304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/31304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31304"><akn:num>31304</akn:num><akn:heading>Employer responsibilities</akn:heading><akn:content><akn:p>§ 31304. Employer responsibilities(a) In General.—An employer may not allow an employee to operate a commercial motor vehicle in the United States during a period that the employer knows or should reasonably know that the employee—(1) has a driver’s license revoked, suspended, or canceled by a State, has lost the right to operate a commercial motor vehicle in a State, or has been disqualified from operating a commercial motor vehicle; or
+
+(2) has more than one driver’s license (except as allowed under section 31302 of this title).
+
+
+(b) Driver Violation Records.—(1) Periodic review.—Except as provided in paragraph (3), an employer shall ascertain the driving record of each driver it employs—(A) by making an inquiry at least once every 12 months to the appropriate State agency in which the driver held or holds a commercial driver’s license or permit during such time period;
+
+(B) by receiving occurrence-based reports of changes in the status of a driver’s record from 1 or more driver record notification systems that meet minimum standards issued by the Secretary; or
+
+(C) by a combination of inquiries to States and reports from driver record notification systems.
+
+
+(2) Record keeping.—A copy of the reports received under paragraph (1) shall be maintained in the driver’s qualification file.
+
+(3) Exceptions to record review requirement.—Paragraph (1) shall not apply to a driver employed by an employer who, in any 7-day period, is employed or used as a driver by more than 1 employer—(A) if the employer obtains the driver’s identification number, type, and issuing State of the driver’s commercial motor vehicle license; or
+
+(B) if the information described in subparagraph (A) is furnished by another employer and the employer that regularly employs the driver meets the other requirements under this section.
+
+
+(4) Driver record notification system defined.—In this section, the term “driver record notification system” means a system that automatically furnishes an employer wit</akn:p></akn:content><akn:subsection eId="subsec_31304_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) An employer may not allow an employee to operate a commercial motor vehicle in the United States during a period that the employer knows or should reasonably know that the employee—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31304_b"><akn:num>(b)</akn:num><akn:heading>Driver Violation Records.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1507" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1507/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1507/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1507"><akn:num>1507</akn:num><akn:heading>Recommendation of status of death</akn:heading><akn:content><akn:p>§ 1507. Recommendation of status of death(a) Requirements Relating to Recommendation.—A board appointed under section 1503, 1504, or 1505 of this title may not recommend that a person be declared dead unless—(1) credible evidence exists to suggest that the person is dead;
+
+(2) the United States possesses no credible evidence that suggests that the person is alive; and
+
+(3) representatives of the United States—(A) have made a complete search of the area where the person was last seen (unless, after making a good faith effort to obtain access to such area, such representatives are not granted such access); and
+
+(B) have examined the records of the government or entity having control over the area where the person was last seen (unless, after making a good faith effort to obtain access to such records, such representatives are not granted such access).
+
+
+
+(b) Submittal of Information on Death.—If a board appointed under section 1503, 1504, or 1505 of this title makes a recommendation that a missing person be declared dead, the board shall include in the report of the board with respect to the person under that section the following:(1) A detailed description of the location where the death occurred.
+
+(2) A statement of the date on which the death occurred.
+
+(3) A description of the location of the body, if recovered.
+
+(4) If the body has been recovered and is not identifiable through visual means, a certification by a forensic pathologist that the body recovered is that of the missing person. In determining whether to make such a certification, the forensic pathologist shall consider, as determined necessary by the Secretary of the military department concerned, additional evidence and information provided by appropriate specialists in forensic medicine or other appropriate medical sciences.
+
+
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 347; amended Pub. L. 104–201, div. A, title V, § 578(e), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 10</akn:p></akn:content><akn:subsection eId="subsec_1507_a"><akn:num>(a)</akn:num><akn:heading>Requirements Relating to Recommendation.—</akn:heading><akn:content><akn:p>(a) A board appointed under section 1503, 1504, or 1505 of this title may not recommend that a person be declared dead unless—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1507_b"><akn:num>(b)</akn:num><akn:heading>Submittal of Information on Death.—</akn:heading><akn:content><akn:p>(b) If a board appointed under section 1503, 1504, or 1505 of this title makes a recommendation that a missing person be declared dead, the board shall include in the report of the board with respect to the person under that section the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

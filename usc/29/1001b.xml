@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1001b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1001b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1001b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1001b"><akn:num>1001b</akn:num><akn:heading>Findings and declaration of policy</akn:heading><akn:content><akn:p>§ 1001b. Findings and declaration of policy(a) FindingsThe Congress finds that—(1) single-employer defined benefit pension plans have a substantial impact on interstate commerce and are affected with a national interest;
+
+(2) the continued well-being and retirement income security of millions of workers, retirees, and their dependents are directly affected by such plans;
+
+(3) the existence of a sound termination insurance system is fundamental to the retirement income security of participants and beneficiaries of such plans; and
+
+(4) the current termination insurance system in some instances encourages employers to terminate pension plans, evade their obligations to pay benefits, and shift unfunded pension liabilities onto the termination insurance system and the other premium-payers.
+
+
+(b) Additional findingsThe Congress further finds that modification of the current termination insurance system and an increase in the insurance premium for single-employer defined benefit pension plans—(1) is desirable to increase the likelihood that full benefits will be paid to participants and beneficiaries of such plans;
+
+(2) is desirable to provide for the transfer of liabilities to the termination insurance system only in cases of severe hardship;
+
+(3) is necessary to maintain the premium costs of such system at a reasonable level; and
+
+(4) is necessary to finance properly current funding deficiencies and future obligations of the single-employer pension plan termination insurance system.
+
+
+(c) Declaration of policyIt is hereby declared to be the policy of this title—(1) to foster and facilitate interstate commerce;
+
+(2) to encourage the maintenance and growth of single-employer defined benefit pension plans;
+
+(3) to increase the likelihood that participants and beneficiaries under single-employer defined benefit pension plans will receive their full benefits;
+
+(4) to provide for the transfer of unfunded pension liabilities onto the single-employer pension plan termination ins</akn:p></akn:content><akn:subsection eId="subsec_1001b_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001b_b"><akn:num>(b)</akn:num><akn:heading>Additional findings</akn:heading><akn:content><akn:p>(b) Additional findings The Congress further finds that modification of the current termination insurance system and an increase in the insurance premium for single-employer defined benefit pension plans—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1001b_c"><akn:num>(c)</akn:num><akn:heading>Declaration of policy</akn:heading><akn:content><akn:p>(c) Declaration of policy It is hereby declared to be the policy of this title—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

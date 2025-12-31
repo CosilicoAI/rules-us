@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/32505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/32505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/32505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_32505"><akn:num>32505</akn:num><akn:heading>Information and compliance requirements</akn:heading><akn:content><akn:p>§ 32505. Information and compliance requirements(a) General Authority.—(1) To enable the Secretary of Transportation to decide whether a manufacturer of passenger motor vehicles or passenger motor vehicle equipment is complying with this chapter and standards prescribed under this chapter, the Secretary may require the manufacturer to—(A) keep records;
+
+(B) make reports;
+
+(C) provide items and information, including vehicles and equipment for testing at a negotiated price not more than the manufacturer’s cost; and
+
+(D) allow an officer or employee designated by the Secretary to inspect vehicles and relevant records of the manufacturer.
+
+
+(2) To enforce this chapter, an officer or employee designated by the Secretary, on presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, may inspect a facility in which passenger motor vehicles or passenger motor vehicle equipment is manufactured, held for introduction in interstate commerce, or held for sale after introduction in interstate commerce. An inspection shall be conducted at a reasonable time, in a reasonable way, and with reasonable promptness.
+
+
+(b) Powers of Secretary and Civil Actions To Enforce.—(1) In carrying out this chapter, the Secretary may—(A) inspect and copy records of any person at reasonable times;
+
+(B) order a person to file written reports or answers to specific questions, including reports or answers under oath; and
+
+(C) conduct hearings, administer oaths, take testimony, and require (by subpena or otherwise) the appearance and testimony of witnesses and the production of records the Secretary considers advisable.
+
+
+(2) A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
+
+(3) A civil action to enforce a subpena or order of the Secretary under this subsection may be brought in the United States district court for any judicial district in which the proceeding by th</akn:p></akn:content><akn:subsection eId="subsec_32505_a"><akn:num>(a)</akn:num><akn:heading>General Authority.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32505_b"><akn:num>(b)</akn:num><akn:heading>Powers of Secretary and Civil Actions To Enforce.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32505_c"><akn:num>(c)</akn:num><akn:heading>Confidentiality of Information.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

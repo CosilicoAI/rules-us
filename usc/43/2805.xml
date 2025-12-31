@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/2805" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/2805/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/2805/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2805"><akn:num>2805</akn:num><akn:heading>National Geospatial Data Asset data themes</akn:heading><akn:content><akn:p>§ 2805. National Geospatial Data Asset data themes(a) In generalThe Committee shall designate as National Geospatial Data Asset data themes the primary topics and subjects for which the coordinated development, maintenance, and dissemination of geospatial data will benefit the Federal Government and the interests of the people of the United States, which shall—(1) be representations of conceptual topics describing digital spatial information for the Nation; and
+
+(2) contain associated datasets (with attribute records and coordinates)—(A) that are documented, verifiable, and officially designated to meet recognized standards;
+
+(B) that may be used in common; and
+
+(C) from which other datasets may be derived.
+
+
+
+(b) Lead covered agencies(1) In generalFor each National Geospatial Data Asset data theme, the Committee shall designate one or more covered agencies as the lead covered agencies for the National Geospatial Data Asset data theme.
+
+
+(2) General responsibilityThe lead covered agencies for a National Geospatial Data Asset data theme shall be responsible for ensuring the coordinated management of the data, supporting resources (including technology and personnel), and related services and products of the National Geospatial Data Asset data theme.
+
+
+(3) Specific responsibilitiesTo assist in fulfilling the responsibilities under paragraph (2) with respect to a National Geospatial Data Asset data theme, the lead covered agencies shall—(A) provide leadership and facilitate the development and implementation of geospatial data standards for the National Geospatial Data Asset data theme, with a particular emphasis on a data content standard for the National Geospatial Data Asset data theme, including by—(i) assessing existing standards;
+
+(ii) identifying anticipated or needed data standards; and
+
+(iii) developing a plan to originate and implement needed standards with relevant community and international practices—(I) in accordance with Office of Management and Budget C</akn:p></akn:content><akn:subsection eId="subsec_2805_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Committee shall designate as National Geospatial Data Asset data themes the primary topics and subjects for which the coordinated development, maintenance, and dissemination of geospatial data will benefit the Federal Government and the interests of the people of the United States, which shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2805_b"><akn:num>(b)</akn:num><akn:heading>Lead covered agencies</akn:heading><akn:content><akn:p>(b) Lead covered agencies</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

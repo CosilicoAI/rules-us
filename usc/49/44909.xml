@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/44909" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/44909/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/44909/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_44909"><akn:num>44909</akn:num><akn:heading>Passenger manifests</akn:heading><akn:content><akn:p>§ 44909. Passenger manifests(a) Air Carrier Requirements.—(1) The Secretary of Transportation shall require each air carrier to provide a passenger manifest for a flight to an appropriate representative of the Secretary of State—(A) not later than one hour after that carrier is notified of an aviation disaster outside the United States involving that flight; or
+
+(B) if it is not technologically feasible or reasonable to comply with clause (A) of this paragraph, then as expeditiously as possible, but not later than 3 hours after the carrier is so notified.
+
+
+(2) The passenger manifest should include the following information:(A) the full name of each passenger.
+
+(B) the passport number of each passenger, if required for travel.
+
+(C) the name and telephone number of a contact for each passenger.
+
+
+(3) In carrying out this subsection, the Secretary of Transportation shall consider the necessity and feasibility of requiring air carriers to collect passenger manifest information as a condition for passengers boarding a flight of the carrier.
+
+
+(b) Foreign Air Carrier Requirements.—The Secretary of Transportation shall consider imposing a requirement on foreign air carriers comparable to that imposed on air carriers under subsection (a)(1) and (2) of this section.
+
+(c) Flights in Foreign Air Transportation to the United States.—(1) In general.—Each air carrier and foreign air carrier operating a passenger flight in foreign air transportation to the United States shall provide to the Commissioner of U.S. Customs and Border Protection by electronic transmission a passenger and crew manifest containing the information specified in paragraph (2). Carriers may use the advanced passenger information system established under section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) to provide the information required by the preceding sentence.
+
+(2) Information.—A passenger and crew manifest for a flight required under paragraph (1) shall contain the following information:(A) The fu</akn:p></akn:content><akn:subsection eId="subsec_44909_a"><akn:num>(a)</akn:num><akn:heading>Air Carrier Requirements.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44909_b"><akn:num>(b)</akn:num><akn:heading>Foreign Air Carrier Requirements.—</akn:heading><akn:content><akn:p>(b) The Secretary of Transportation shall consider imposing a requirement on foreign air carriers comparable to that imposed on air carriers under subsection (a)(1) and (2) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44909_c"><akn:num>(c)</akn:num><akn:heading>Flights in Foreign Air Transportation to the United States.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

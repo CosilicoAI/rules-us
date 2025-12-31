@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/1301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/1301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/1301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1301"><akn:num>1301</akn:num><akn:heading>Charge of property transferred to the Federal Government</akn:heading><akn:content><akn:p>§ 1301. Charge of property transferred to the Federal Government(a) In General.—Except as provided in subsection (b), the Administrator of General Services shall have charge of—(1) all land and other property which has been or may be assigned, set off, or conveyed to the Federal Government in payment of debts;
+
+(2) all trusts created for the use of the Government in payment of debts due the Government; and
+
+(3) the sale and disposal of land—(A) assigned or set off to the Government in payment of debt; or
+
+(B) vested in the Government by mortgage or other security for the payment of debts.
+
+
+
+(b) Nonapplication.—This section does not apply to—(1) real estate which has been or shall be assigned, set off, or conveyed to the Government in payment of debts arising under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.); or
+
+(2) trusts created for the use of the Government in payment of debts arising under the Code and due the Government.
+
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1131.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+130140:301.R.S. § 3750; Pub. L. 89–30, § 2, June 2, 1965, 79 Stat. 119.
+
+
+In subsection (a), the words “Except as provided in subsection (b)” are added for clarity.
+In subsection (b)(1), the words “the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.)” are substituted for “the internal-revenue laws” for clarity and for consistency in the revised title and with other titles of the United States Code.
+
+Editorial Notes
+
+References in TextThe Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified to Title 26, Internal Revenue Code.</akn:p></akn:content><akn:subsection eId="subsec_1301_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Except as provided in subsection (b), the Administrator of General Services shall have charge of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1301_b"><akn:num>(b)</akn:num><akn:heading>Nonapplication.—</akn:heading><akn:content><akn:p>(b) This section does not apply to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1562a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1562a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1562a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1562a"><akn:num>1562a</akn:num><akn:heading>Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tra</akn:heading><akn:content><akn:p>§ 1562a. Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tracking by Department of Defense(a) Designation of Responsible Component.—The Secretary of Defense shall designate a component of the Office of the Secretary of Defense to be responsible for documenting and tracking all covered allegations of retaliation and shall ensure that the Secretaries concerned and the Inspector General of the Department of Defense provide to such component the information required to be documented and tracked as described in subsection (b).
+
+(b) Tracking of Allegations.—The head of the component designated by the Secretary under subsection (a) shall document and track each covered allegation of retaliation, including—(1) that such an allegation has been reported and by whom;
+
+(2) the date of the report;
+
+(3) the nature of the allegation and the name of the person or persons alleged to have engaged in such retaliation;
+
+(4) the Department of Defense component or other entity responsible for the investigation of or inquiry into the allegation;
+
+(5) the entry of findings;
+
+(6) referral of such findings to a decisionmaker for review and action, as appropriate;
+
+(7) the outcome of final action; and
+
+(8) any other element of information pertaining to the allegation determined appropriate by the Secretary or the head of the component designated by the Secretary.
+
+
+(c) Covered Allegation of Retaliation Defined.—In this section, the term “covered allegation of retaliation” means an allegation of retaliation—(1) made by—(A) an alleged victim of sexual assault or sexual harassment;
+
+(B) an individual charged with providing services or support to an alleged victim of sexual assault or sexual harassment;
+
+(C) a witness or bystander to an alleged sexual assault or sexual harassment; or
+
+(D) any other person associated with an alleged victim of a sexual assault or sexual harassment; and
+
+
+(2) without regard to whether the allegation is reported to or </akn:p></akn:content><akn:subsection eId="subsec_1562a_a"><akn:num>(a)</akn:num><akn:heading>Designation of Responsible Component.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense shall designate a component of the Office of the Secretary of Defense to be responsible for documenting and tracking all covered allegations of retaliation and shall ensure that the Secretaries concerned and the Inspector General of the Department of Defense provide to such component the information required to be documented and tracked as described in subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1562a_b"><akn:num>(b)</akn:num><akn:heading>Tracking of Allegations.—</akn:heading><akn:content><akn:p>(b) The head of the component designated by the Secretary under subsection (a) shall document and track each covered allegation of retaliation, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1562a_c"><akn:num>(c)</akn:num><akn:heading>Covered Allegation of Retaliation Defined.—</akn:heading><akn:content><akn:p>(c) In this section, the term “covered allegation of retaliation” means an allegation of retaliation—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

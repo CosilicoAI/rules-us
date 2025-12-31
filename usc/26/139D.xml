@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/139D" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/139D/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/139D/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_139D"><akn:num>139D</akn:num><akn:heading>Indian health care benefits</akn:heading><akn:content><akn:p>§ 139D. Indian health care benefits(a) General ruleExcept as otherwise provided in this section, gross income does not include the value of any qualified Indian health care benefit.
+
+
+(b) Qualified Indian health care benefitFor purposes of this section, the term “qualified Indian health care benefit” means—(1) any health service or benefit provided or purchased, directly or indirectly, by the Indian Health Service through a grant to or a contract or compact with an Indian tribe or tribal organization, or through a third-party program funded by the Indian Health Service,
+
+(2) medical care provided or purchased by, or amounts to reimburse for such medical care provided by, an Indian tribe or tribal organization for, or to, a member of an Indian tribe, including a spouse or dependent of such a member,
+
+(3) coverage under accident or health insurance (or an arrangement having the effect of accident or health insurance), or an accident or health plan, provided by an Indian tribe or tribal organization for medical care to a member of an Indian tribe, include a spouse or dependent of such a member, and
+
+(4) any other medical care provided by an Indian tribe or tribal organization that supplements, replaces, or substitutes for a program or service relating to medical care provided by the Federal government to Indian tribes or members of such a tribe.
+
+
+(c) DefinitionsFor purposes of this section—(1) Indian tribeThe term “Indian tribe” has the meaning given such term by section 45A(c)(6).
+
+
+(2) Tribal organizationThe term “tribal organization” has the meaning given such term by section 4(l) of the Indian Self-Determination and Education Assistance Act.
+
+
+(3) Medical careThe term “medical care” has the same meaning as when used in section 213.
+
+
+(4) Accident or health insurance; accident or health planThe terms “accident or health insurance” and “accident or health plan” have the same meaning as when used in section 105.
+
+
+(5) DependentThe term “dependent” has the meaning giv</akn:p></akn:content><akn:subsection eId="subsec_139D_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Except as otherwise provided in this section, gross income does not include the value of any qualified Indian health care benefit.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_139D_b"><akn:num>(b)</akn:num><akn:heading>Qualified Indian health care benefit</akn:heading><akn:content><akn:p>(b) Qualified Indian health care benefit For purposes of this section, the term “qualified Indian health care benefit” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_139D_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_139D_d"><akn:num>(d)</akn:num><akn:heading>Denial of double benefit</akn:heading><akn:content><akn:p>(d) Denial of double benefit Subsection (a) shall not apply to the amount of any qualified Indian health care benefit which is not includible in gross income of the beneficiary of such benefit under any other provision of this chapter, or to the amount of any such benefit for which a deduction is allowed to such beneficiary under any other provision of this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

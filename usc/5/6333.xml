@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/6333" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/6333/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/6333/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6333"><akn:num>6333</akn:num><akn:heading>Receipt and use of transferred leave</akn:heading><akn:content><akn:p>§ 6333. Receipt and use of transferred leave(a)(1) An application to receive donations of leave under this subchapter, whether submitted by or on behalf of an employee—(A) shall be submitted to the employing agency of the proposed leave recipient; and
+
+(B) shall include—(i) the name, position title, and grade or pay level of the proposed leave recipient;
+
+(ii) the reasons why transferred leave is needed, including a brief description of the nature, severity, anticipated duration, and, if it is a recurring one, the approximate frequency of the medical emergency involved;
+
+(iii) if the employing agency so requires, certification from 1 or more physicians, or other appropriate experts, with respect to any matter under clause (ii); and
+
+(iv) any other information which the employing agency may reasonably require.
+
+
+
+(2) If an agency requires that an employee obtain certification under paragraph (1)(B)(iii) from 2 or more sources, the agency shall ensure, either by direct payment to the expert involved or by reimbursement, that the employee is not required to pay for the expenses associated with obtaining certification from more than 1 of such sources.
+
+(3) An employing agency shall approve or disapprove an application of a proposed leave recipient for leave under this subchapter, and, to the extent practicable, shall notify the proposed leave recipient (or other person acting on behalf of the proposed recipient, if appropriate) of the decision of the agency, in writing, within 10 days (excluding Saturdays, Sundays, and legal public holidays) after receiving such application.
+
+
+(b)(1) A leave recipient may use annual leave received under this subchapter in the same manner and for the same purposes as if such leave recipient had accrued that leave under section 6303, except that any annual leave, and any sick leave, accrued or accumulated by the leave recipient and available for the purpose involved must be exhausted before any transferred annual leave may be used.
+
+(2)(A</akn:p></akn:content><akn:subsection eId="subsec_6333_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6333_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6333_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Transferred annual leave—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

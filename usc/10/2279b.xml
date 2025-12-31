@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2279b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2279b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2279b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2279b"><akn:num>2279b</akn:num><akn:heading>Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise</akn:heading><akn:content><akn:p>§ 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise(a) Establishment.—There is within the Department of Defense a council to be known as the “Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise” (in this section referred to as the “Council”).
+
+(b) Membership.—The members of the Council shall be as follows:(1) The Under Secretary of Defense for Policy.
+
+(2) The Under Secretary of Defense for Research and Engineering.
+
+(3) The Under Secretary of Defense for Acquisition and Sustainment.
+
+(4) The Vice Chairman of the Joint Chiefs of Staff.
+
+(5) The Commander of the United States Strategic Command.
+
+(6) The Commander of the United States Northern Command.
+
+(7) The Commander of the United States Space Command.
+
+(8) The Commander of United States Cyber Command.
+
+(9) The Director of the National Security Agency.
+
+(10) The Chief Information Officer of the Department of Defense.
+
+(11) The Secretaries of the military departments, who shall be ex officio members.
+
+(12) Such other officers of the Department of Defense as the Secretary may designate.
+
+
+(c) Co-chair.—The Council shall be co-chaired by the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Vice Chairman of the Joint Chiefs of Staff.
+
+(d) Responsibilities.—(1) The Council shall be responsible for oversight of the Department of Defense positioning, navigation, and timing enterprise, including positioning, navigation, and timing services provided to civil, commercial, scientific, and international users.
+
+(2) In carrying out the responsibility for oversight of the Department of Defense positioning, navigation, and timing enterprise as specified in paragraph (1), the Council shall be responsible for the following:(A) Oversight of performance assessments (including interoperability).
+
+(B) Vulnerability identification and mitigation.
+
+(C) Architec</akn:p></akn:content><akn:subsection eId="subsec_2279b_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is within the Department of Defense a council to be known as the “Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise” (in this section referred to as the “Council”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2279b_b"><akn:num>(b)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(b) The members of the Council shall be as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2279b_c"><akn:num>(c)</akn:num><akn:heading>Co-chair.—</akn:heading><akn:content><akn:p>(c) The Council shall be co-chaired by the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Vice Chairman of the Joint Chiefs of Staff.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2279b_d"><akn:num>(d)</akn:num><akn:heading>Responsibilities.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2279b_e"><akn:num>(e)</akn:num><akn:heading>Annual Reports.—</akn:heading><akn:content><akn:p>(e) At the same time each year that the budget of the President is submitted to Congress under section 1105(a) of title 31, the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2279b_f"><akn:num>(f)</akn:num><akn:heading>Budget and Funding Matters.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2279b_g"><akn:num>(g)</akn:num><akn:heading>Notification of Anomalies.—</akn:heading><akn:content><akn:p>(g)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2279b_h"><akn:num>(h)</akn:num><akn:heading>Termination.—</akn:heading><akn:content><akn:p>(h) The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

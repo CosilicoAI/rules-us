@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10265" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10265/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10265/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10265"><akn:num>10265</akn:num><akn:heading>Compensation of members</akn:heading><akn:content><akn:p>§ 10265. Compensation of members(a) In generalEach member of the Board shall be paid at the rate of pay payable for level III of the Executive Schedule for each day (including travel time) such member is engaged in the work of the Board.
+
+
+(b) Travel expensesEach member of the Board may receive travel expenses, including per diem in lieu of subsistence, in the same manner as is permitted under sections 5702 and 5703 of title 5.
+
+
+(Pub. L. 97–425, title V, § 505, as added Pub. L. 100–202, § 101(d) [title III], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, § 5051, Dec. 22, 1987, 101 Stat. 1330–249.)
+
+Editorial Notes
+
+References in TextLevel III of the Executive Schedule, referred to in subsec. (a), is set out in section 5314 of Title 5, Government Organization and Employees.
+
+Codification
+Pub. L. 100–202 and Pub. L. 100–203 added identical sections.</akn:p></akn:content><akn:subsection eId="subsec_10265_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Each member of the Board shall be paid at the rate of pay payable for level III of the Executive Schedule for each day (including travel time) such member is engaged in the work of the Board.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10265_b"><akn:num>(b)</akn:num><akn:heading>Travel expenses</akn:heading><akn:content><akn:p>(b) Travel expenses Each member of the Board may receive travel expenses, including per diem in lieu of subsistence, in the same manner as is permitted under sections 5702 and 5703 of title 5.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

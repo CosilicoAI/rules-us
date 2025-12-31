@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/41722" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/41722/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/41722/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41722"><akn:num>41722</akn:num><akn:heading>Delay reduction actions</akn:heading><akn:content><akn:p>§ 41722. Delay reduction actions(a) Scheduling Reduction Meetings.—The Secretary of Transportation may request that air carriers meet with the Administrator of the Federal Aviation Administration to discuss flight reductions at severely congested airports to reduce overscheduling and flight delays during hours of peak operation if—(1) the Administrator determines that it is necessary to convene such a meeting; and
+
+(2) the Secretary determines that the meeting is necessary to meet a serious transportation need or achieve an important public benefit.
+
+
+(b) Meeting Conditions.—Any meeting under subsection (a)—(1) shall be chaired by the Administrator;
+
+(2) shall be open to all scheduled air carriers; and
+
+(3) shall be limited to discussions involving the airports and time periods described in the Administrator’s determination.
+
+
+(c) Flight Reduction Targets.—Before any such meeting is held, the Administrator shall establish flight reduction targets for the meeting and notify the attending air carriers of those targets not less than 48 hours before the meeting.
+
+(d) Delay Reduction Offers.—An air carrier attending the meeting shall make any offer to meet a flight reduction target to the Administrator rather than to another carrier.
+
+(e) Transcript.—The Administrator shall ensure that a transcript of the meeting is kept and made available to the public not later than 3 business days after the conclusion of the meeting.
+
+(Added Pub. L. 108–176, title IV, § 422(a), Dec. 12, 2003, 117 Stat. 2552.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
+
+Schedule ReductionPub. L. 112–95, title IV, § 413, Feb. 14, 2012, 126 Stat. 89, provided that:
+“(a) In General.—If the Administrator of the Federal Aviation Administration determines that—“(1) </akn:p></akn:content><akn:subsection eId="subsec_41722_a"><akn:num>(a)</akn:num><akn:heading>Scheduling Reduction Meetings.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation may request that air carriers meet with the Administrator of the Federal Aviation Administration to discuss flight reductions at severely congested airports to reduce overscheduling and flight delays during hours of peak operation if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41722_b"><akn:num>(b)</akn:num><akn:heading>Meeting Conditions.—</akn:heading><akn:content><akn:p>(b) Any meeting under subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41722_c"><akn:num>(c)</akn:num><akn:heading>Flight Reduction Targets.—</akn:heading><akn:content><akn:p>(c) Before any such meeting is held, the Administrator shall establish flight reduction targets for the meeting and notify the attending air carriers of those targets not less than 48 hours before the meeting.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41722_d"><akn:num>(d)</akn:num><akn:heading>Delay Reduction Offers.—</akn:heading><akn:content><akn:p>(d) An air carrier attending the meeting shall make any offer to meet a flight reduction target to the Administrator rather than to another carrier.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41722_e"><akn:num>(e)</akn:num><akn:heading>Transcript.—</akn:heading><akn:content><akn:p>(e) The Administrator shall ensure that a transcript of the meeting is kept and made available to the public not later than 3 business days after the conclusion of the meeting.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

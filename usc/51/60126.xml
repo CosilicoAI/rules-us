@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/60126" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/60126/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/60126/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60126"><akn:num>60126</akn:num><akn:heading>Annual reports</akn:heading><akn:content><akn:p>§ 60126. Annual reports(a) In General.—The Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 180 days after the date of enactment of the U.S. Commercial Space Launch Competitiveness Act, and annually thereafter, on—(1) the Secretary’s implementation of section 60121, including—(A) a list of all applications received in the previous calendar year;
+
+(B) a list of all applications that resulted in a license under section 60121;
+
+(C) a list of all applications denied and an explanation of why each application was denied, including any information relevant to the interagency adjudication process of a licensing request;
+
+(D) a list of all applications that required additional information; and
+
+(E) a list of all applications whose disposition exceeded the 120 day deadline established in section 60121(c), the total days overdue for each application that exceeded such deadline, and an explanation for the delay;
+
+
+(2) all notifications and information provided to the Secretary under section 60122; and
+
+(3) a description of all actions taken by the Secretary under the administrative authority granted by paragraphs (4), (5), and (6) of section 60123(a).
+
+
+(b) Classified Annexes.—Each report under subsection (a) may include classified annexes as necessary to protect the disclosure of sensitive or classified information.
+
+(c) Sunset.—The reporting requirement under this section terminates effective September 30, 2020.
+
+(Added Pub. L. 114–90, title II, § 201(a), Nov. 25, 2015, 129 Stat. 719.)
+
+Editorial Notes
+
+References in TextThe date of enactment of the U.S. Commercial Space Launch Competitiveness Act, referred to in subsec. (a), is the date of enactment of Pub. L. 114–90, which was approved Nov. 25, 2015.</akn:p></akn:content><akn:subsection eId="subsec_60126_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 180 days after the date of enactment of the U.S. Commercial Space Launch Competitiveness Act, and annually thereafter, on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60126_b"><akn:num>(b)</akn:num><akn:heading>Classified Annexes.—</akn:heading><akn:content><akn:p>(b) Each report under subsection (a) may include classified annexes as necessary to protect the disclosure of sensitive or classified information.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60126_c"><akn:num>(c)</akn:num><akn:heading>Sunset.—</akn:heading><akn:content><akn:p>(c) The reporting requirement under this section terminates effective September 30, 2020.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

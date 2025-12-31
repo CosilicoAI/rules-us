@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5111"><akn:num>5111</akn:num><akn:heading>Congressional findings and declaration of purpose</akn:heading><akn:content><akn:p>§ 5111. Congressional findings and declaration of purpose(a) FindingsCongress finds that—(1) on the last day of fiscal year 2009, some 424,000 children were living in temporary foster family homes or other foster care settings;
+
+(2) most children in foster care are victims of child abuse or neglect by their biological parents and their entry into foster care brought them the additional trauma of separation from their homes and often their communities;
+
+(3) on average, children entering foster care have more physical and mental health needs than do children in the general population, and some require intensive services because the children entering foster care—(A) were born to mothers who did not receive prenatal care;
+
+(B) were born with life-threatening conditions or disabilities;
+
+(C) were born addicted to alcohol or other drugs; or
+
+(D) have HIV/AIDS;
+
+
+(4) each year, thousands of children in foster care, regardless of their age, the size of the sibling group they are a part of, their racial or ethnic status, their medical condition, or any physical, mental or emotional disability they may have, are in need of placement with permanent, loving, adoptive families;
+
+(5)(A) States have made important strides in increasing the number of children who are placed in permanent homes with adoptive parents and in reducing the length of time children wait for such a placement; and
+
+(B) many thousands of children, however, still remain in institutions or foster homes solely because of legal and other barriers to such a placement;
+
+
+(6)(A) on the last day of fiscal year 2009, there were 115,000 children waiting for adoption;
+
+(B) children waiting for adoption have had parental rights of all living parents terminated or the children have a permanency goal of adoption;
+
+(C)(i) the average age of children adopted with public child welfare agency involvement during fiscal year 2009 was a little more than 6 years; and
+
+(ii) the average age of children waiting for adoption on the la</akn:p></akn:content><akn:subsection eId="subsec_5111_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5111_b"><akn:num>(b)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(b) Purpose It is the purpose of this subchapter to facilitate the elimination of barriers, including geographic barriers, to adoption and to provide permanent and loving home environments for children who would benefit from adoption, particularly older children, minority children, and children with special needs, including disabled infants with life-threatening conditions, by providing a mechanism to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

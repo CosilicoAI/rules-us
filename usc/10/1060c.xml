@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1060c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1060c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1060c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1060c"><akn:num>1060c</akn:num><akn:heading>Provision of veterinary services</akn:heading><akn:content><akn:p>§ 1060c. Provision of veterinary services(a) In General.—A veterinary professional described in subsection (b) may provide veterinary services in any State, the District of Columbia, or a territory or possession of the United States, without regard to where such veterinary professional or the patient animal are located, if the provision of such services is within the scope of the authorized duties of such veterinary professional for the Department of Defense.
+
+(b) Veterinary Professional Described.—A veterinary professional described in this subsection is an individual who is—(1)(A) a member of the armed forces, a civilian employee of the Department of Defense, or otherwise credentialed and privileged at a Federal veterinary institution or location designated by the Secretary of Defense for purposes of this section; or
+
+(B) a member of the National Guard performing training or duty under section 502(f) of title 32;
+
+
+(2) certified as a veterinary professional by a certification recognized by the Secretary of Defense; and
+
+(3) currently licensed by a State, the District of Columbia, or a territory or possession of the United States to provide veterinary services.
+
+
+(Added Pub. L. 116–92, div. A, title VII, § 735(a), Dec. 20, 2019, 133 Stat. 1462; amended Pub. L. 118–159, div. A, title VII, § 733, Dec. 23, 2024, 138 Stat. 1956.)
+
+Editorial Notes
+Amendments2024—Pub. L. 118–159, § 733(1), struck out “in emergencies” after “veterinary services” in section catchline.
+Subsec. (a). Pub. L. 118–159, § 733(2), struck out “for the purposes described in subsection (c)” after “veterinary services”.
+Subsec. (c). Pub. L. 118–159, § 733(3), struck out subsec. (c) which described the purposes of veterinary services in response to certain emergencies.</akn:p></akn:content><akn:subsection eId="subsec_1060c_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A veterinary professional described in subsection (b) may provide veterinary services in any State, the District of Columbia, or a territory or possession of the United States, without regard to where such veterinary professional or the patient animal are located, if the provision of such services is within the scope of the authorized duties of such veterinary professional for the Department of Defense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1060c_b"><akn:num>(b)</akn:num><akn:heading>Veterinary Professional Described.—</akn:heading><akn:content><akn:p>(b) A veterinary professional described in this subsection is an individual who is—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

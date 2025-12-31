@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/143" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/143/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/143/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_143"><akn:num>143</akn:num><akn:heading>Wright Brothers Day</akn:heading><akn:content><akn:p>§ 143. Wright Brothers Day(a) Designation.—December 17 is Wright Brothers Day.
+
+(b) Purpose.—Wright Brothers Day commemorates the first successful flights in a heavier than air, mechanically propelled airplane, that were made by Orville and Wilbur Wright on December 17, 1903, near Kitty Hawk, North Carolina.
+
+(c) Proclamation.—The President is requested to issue each year a proclamation inviting the people of the United States to observe Wright Brothers Day with appropriate ceremonies and activities.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1262.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+143(a)36:169 (1st sentence words before 1st comma).Dec. 17, 1963, Pub. L. 88–209, 77 Stat. 402.
+143(b)36:169 (1st sentence words after 1st comma). 
+143(c)36:169 (last sentence). 
+
+
+
+Statutory Notes and Related Subsidiaries
+Centennial of Flight Commemoration ActPub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, as amended by Pub. L. 106–68, § 1, Oct. 6, 1999, 113 Stat. 981, known as the Centennial of Flight Commemoration Act, established the Centennial of Flight Commission to carry out certain activities related to the history of aviation and the commemoration of the centennial of powered flight, required the Commission to make annual reports and a final report not later than June 30, 2004, and provided that the Commission terminate not later than 60 days after submission of the final report.</akn:p></akn:content><akn:subsection eId="subsec_143_a"><akn:num>(a)</akn:num><akn:heading>Designation.—</akn:heading><akn:content><akn:p>(a) December 17 is Wright Brothers Day.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_143_b"><akn:num>(b)</akn:num><akn:heading>Purpose.—</akn:heading><akn:content><akn:p>(b) Wright Brothers Day commemorates the first successful flights in a heavier than air, mechanically propelled airplane, that were made by Orville and Wilbur Wright on December 17, 1903, near Kitty Hawk, North Carolina.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_143_c"><akn:num>(c)</akn:num><akn:heading>Proclamation.—</akn:heading><akn:content><akn:p>(c) The President is requested to issue each year a proclamation inviting the people of the United States to observe Wright Brothers Day with appropriate ceremonies and activities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

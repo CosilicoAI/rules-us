@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/1171" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/1171/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/1171/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1171"><akn:num>1171</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1171. Definitions
+In this chapter:(1) Appropriate congressional committees.—The term “appropriate congressional committees” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(2) Chief acquisition officer.—The term “Chief Acquisition Officer” means the officer appointed under section 308 of this title.
+
+(3) Customer of a major acquisition program.—The term “customer of a major acquisition program” means the operating field unit of the Coast Guard that will field the system or systems acquired under a major acquisition program.
+
+(4) Level 1 acquisition.—The term “Level 1 acquisition” means—(A) an acquisition by the Coast Guard—(i) the estimated life-cycle costs of which exceed $1,000,000,000; or
+
+(ii) the estimated total acquisition costs of which exceed $300,000,000; or
+
+
+(B) any acquisition that the Chief Acquisition Officer of the Coast Guard determines to have a special interest—(i) due to—(I) the experimental or technically immature nature of the asset;
+
+(II) the technological complexity of the asset;
+
+(III) the commitment of resources; or
+
+(IV) the nature of the capability or set of capabilities to be achieved; or
+
+
+(ii) because such acquisition is a joint acquisition.
+
+
+
+(5) Level 2 acquisition.—The term “Level 2 acquisition” means an acquisition by the Coast Guard—(A) the estimated life-cycle costs of which are equal to or less than $1,000,000,000, but greater than $300,000,000; or
+
+(B) the estimated total acquisition costs of which are equal to or less than $300,000,000, but greater than $100,000,000.
+
+
+(6) Life-cycle cost.—The term “life-cycle cost” means all costs for development, procurement, construction, and operations and support for a particular capability or asset, without regard to funding source or management control.
+
+(7) Major acquisition program.—The term “major acquisition program” means an ongoing acquisition undertaken by the Coa</akn:p></akn:content><akn:subsection eId="subsec_1171_1"><akn:num>(1)</akn:num><akn:heading>Appropriate congressional committees.—</akn:heading><akn:content><akn:p>(1) The term “appropriate congressional committees” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_2"><akn:num>(2)</akn:num><akn:heading>Chief acquisition officer.—</akn:heading><akn:content><akn:p>(2) The term “Chief Acquisition Officer” means the officer appointed under section 308 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_3"><akn:num>(3)</akn:num><akn:heading>Customer of a major acquisition program.—</akn:heading><akn:content><akn:p>(3) The term “customer of a major acquisition program” means the operating field unit of the Coast Guard that will field the system or systems acquired under a major acquisition program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_4"><akn:num>(4)</akn:num><akn:heading>Level 1 acquisition.—</akn:heading><akn:content><akn:p>(4) The term “Level 1 acquisition” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_5"><akn:num>(5)</akn:num><akn:heading>Level 2 acquisition.—</akn:heading><akn:content><akn:p>(5) The term “Level 2 acquisition” means an acquisition by the Coast Guard—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_6"><akn:num>(6)</akn:num><akn:heading>Life-cycle cost.—</akn:heading><akn:content><akn:p>(6) The term “life-cycle cost” means all costs for development, procurement, construction, and operations and support for a particular capability or asset, without regard to funding source or management control.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_7"><akn:num>(7)</akn:num><akn:heading>Major acquisition program.—</akn:heading><akn:content><akn:p>(7) The term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_8"><akn:num>(8)</akn:num><akn:heading>Project or program manager defined.—</akn:heading><akn:content><akn:p>(8) The term “project or program manager” means an individual designated—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_9"><akn:num>(9)</akn:num><akn:heading>Safety concern.—</akn:heading><akn:content><akn:p>(9) The term “safety concern” means any hazard associated with a capability or asset or a subsystem of a capability or asset that is likely to cause serious bodily injury or death to a typical Coast Guard user in testing, maintaining, repairing, or operating the capability, asset, or subsystem or any hazard associated with the capability, asset, or subsystem that is likely to cause major damage to the capability, asset, or subsystem during the course of its normal operation by a typical Coast Guard user.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1171_10"><akn:num>(10)</akn:num><akn:heading>Developmental test and evaluation.—</akn:heading><akn:content><akn:p>(10) The term “developmental test and evaluation” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

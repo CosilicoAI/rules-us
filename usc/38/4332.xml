@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/4332" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/4332/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/4332/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4332"><akn:num>4332</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>§ 4332. Reports(a) Annual Report by Secretary.—The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:(1) The number of cases reviewed by the Department of Labor under this chapter during the fiscal year for which the report is made.
+
+(2) The number of cases reviewed by the Secretary of Defense under the National Committee for Employer Support of the Guard and Reserve of the Department of Defense during the fiscal year for which the report is made.
+
+(3) The number of cases referred to the Attorney General or the Special Counsel pursuant to section 4323 or 4324, respectively, during such fiscal year and the number of actions initiated by the Office of Special Counsel before the Merit Systems Protection Board pursuant to section 4324 during such fiscal year.
+
+(4) The number of complaints filed by the Attorney General pursuant to section 4323 during such fiscal year.
+
+(5) The number of cases reviewed by the Secretary and the Secretary of Defense through the National Committee for Employer Support of the Guard and Reserve of the Department of Defense that involve the same person.
+
+(6) With respect to the cases reported on pursuant to paragraphs (1), (2), (3), (4), and (5)—(A) the number of such cases that involve a disability-related issue; and
+
+(B) the number of such cases that involve a person who has a service-connected disability.
+
+
+(7) The nature and status of each case reported on pursuant to paragraph (1), (2), (3), (4), or (5).
+
+(8) With respect to the cases reported on pursuant to paragraphs (1), (2), (3), (4), and (5) the number of such cases that involve persons with different occupations or persons seeking different occupations, as designated by the Standard Occupational Classification System.
+
+(9) An indication of wh</akn:p></akn:content><akn:subsection eId="subsec_4332_a"><akn:num>(a)</akn:num><akn:heading>Annual Report by Secretary.—</akn:heading><akn:content><akn:p>(a) The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4332_b"><akn:num>(b)</akn:num><akn:heading>Quarterly Reports.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4332_c"><akn:num>(c)</akn:num><akn:heading>Uniform Categorization of Data.—</akn:heading><akn:content><akn:p>(c) The Secretary shall coordinate with the Secretary of Defense, the Attorney General, and the Special Counsel to ensure that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

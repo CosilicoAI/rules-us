@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/4831" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/4831/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/4831/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4831"><akn:num>4831</akn:num><akn:heading>Security Review Committees</akn:heading><akn:content><akn:p>§ 4831. Security Review Committees(a) In general(1) Convening the Security Review CommitteeIn any case of a serious security incident involving loss of life, serious injury, or significant destruction of property at, or related to, a United States Government diplomatic mission abroad (referred to in this subchapter as a “Serious Security Incident”), and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, the Secretary of State shall convene a Security Review Committee, which shall issue a report providing a full account of what occurred, consistent with section 4834 of this title.
+
+
+(2) Committee compositionThe Secretary shall designate a Chairperson and may designate additional personnel of commensurate seniority to serve on the Security Review Committee, which shall include—(A) the Director of the Office of Management Strategy and Solutions;
+
+(B) the Assistant Secretary responsible for the region where the incident occurred;
+
+(C) the Assistant Secretary of State for Diplomatic Security;
+
+(D) the Assistant Secretary of State for Intelligence and Research;
+
+(E) an Assistant Secretary-level representative from any involved United States Government department or agency; and
+
+(F) other personnel determined to be necessary or appropriate.
+
+
+(3) Exceptions to convening a Security Review Committee(A) In generalThe Secretary of State is not required to convene a Security Review Committee—(i) if the Secretary determines that the incident involves only causes unrelated to security, such as when the security at issue is outside of the scope of the Secretary of State’s security responsibilities under section 4802 of this title;
+
+(ii) if operational control of overseas security functions has been delegated to another agency in accordance with section 4805 of this title;
+
+(iii) if the incident is a cybersecurity incident and is covered by other review mechanisms; or
+
+(iv) in </akn:p></akn:content><akn:subsection eId="subsec_4831_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4831_b"><akn:num>(b)</akn:num><akn:heading>Deadlines for convening Security Review Committees</akn:heading><akn:content><akn:p>(b) Deadlines for convening Security Review Committees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4831_c"><akn:num>(c)</akn:num><akn:heading>Congressional notification</akn:heading><akn:content><akn:p>(c) Congressional notification Whenever the Secretary of State convenes a Security Review Committee, the Secretary shall promptly inform the chair and ranking member of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/764" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/764/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/764/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_764"><akn:num>764</akn:num><akn:heading>National exercise simulation center</akn:heading><akn:content><akn:p>§ 764. National exercise simulation center
+The President shall establish a national exercise simulation center that—(1) uses a mix of live, virtual, and constructive simulations to—(A) prepare elected officials, emergency managers, emergency response providers, and emergency support providers at all levels of government to operate cohesively;
+
+(B) provide a learning environment for the homeland security personnel of all Federal agencies;
+
+(C) assist in the development of operational procedures and exercises, particularly those based on catastrophic incidents; and
+
+(D) allow incident commanders to exercise decisionmaking in a simulated environment; and
+
+
+(2) uses modeling and simulation for training, exercises, and command and control functions at the operational level.
+
+(Pub. L. 109–295, title VI, § 664, Oct. 4, 2006, 120 Stat. 1433.)</akn:p></akn:content><akn:subsection eId="subsec_764_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) uses a mix of live, virtual, and constructive simulations to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_764_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) uses modeling and simulation for training, exercises, and command and control functions at the operational level.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

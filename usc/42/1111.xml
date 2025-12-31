@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1111"><akn:num>1111</akn:num><akn:heading>Data exchange standardization for improved interoperability</akn:heading><akn:content><akn:p>§ 1111. Data exchange standardization for improved interoperability(a) Data exchange standards(1) The Secretary of Labor, in consultation with an interagency work group which shall be established by the Office of Management and Budget, and considering State and employer perspectives, shall, by rule, designate a data exchange standard for any category of information required under subchapter III, subchapter XII, or this subchapter.
+
+(2) Data exchange standards designated under paragraph (1) shall, to the extent practicable, be nonproprietary and interoperable.
+
+(3) In designating data exchange standards under this subsection, the Secretary of Labor shall, to the extent practicable, incorporate—(A) interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget, such as the International Organization for Standardization;
+
+(B) interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and
+
+(C) interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance, such as the Federal Acquisition Regulations Council.
+
+
+
+(b) Data exchange standards for reporting(1) The Secretary of Labor, in consultation with an interagency work group established by the Office of Management and Budget, and considering State and employer perspectives, shall, by rule, designate data exchange standards to govern the reporting required under subchapter III, subchapter XII, or this subchapter.
+
+(2) The data exchange standards required by paragraph (1) shall, to the extent practicable—(A) incorporate a widely accepted, nonproprietary, searchable, computer-readable format;
+
+(B) be consistent with and implement applicable accounting principles; and
+
+(C) be capable of being continually upgraded as necessary.
+
+
+(3) In designating reporting standards under this subsection, the Secre</akn:p></akn:content><akn:subsection eId="subsec_1111_a"><akn:num>(a)</akn:num><akn:heading>Data exchange standards</akn:heading><akn:content><akn:p>(a) Data exchange standards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1111_b"><akn:num>(b)</akn:num><akn:heading>Data exchange standards for reporting</akn:heading><akn:content><akn:p>(b) Data exchange standards for reporting</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

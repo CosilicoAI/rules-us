@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16233" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16233/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16233/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16233"><akn:num>16233</akn:num><akn:heading>Low-cost renewable hydrogen and infrastructure for vehicle propulsion</akn:heading><akn:content><akn:p>§ 16233. Low-cost renewable hydrogen and infrastructure for vehicle propulsion
+The Secretary shall—(1) establish a research, development, and demonstration program to determine the feasibility of using hydrogen propulsion in light-weight vehicles and the integration of the associated hydrogen production infrastructure using off-the-shelf components; and
+
+(2) identify universities and institutions that—(A) have expertise in researching and testing vehicles fueled by hydrogen, methane, and other fuels;
+
+(B) have expertise in integrating off-the-shelf components to minimize cost; and
+
+(C) within 2 years can test a vehicle based on an existing commercially available platform with a curb weight of not less than 2,000 pounds before modifications, that—(i) operates solely on hydrogen;
+
+(ii) qualifies as a light-duty passenger vehicle; and
+
+(iii) uses hydrogen produced from water using only solar energy.
+
+
+
+(Pub. L. 109–58, title IX, § 933, Aug. 8, 2005, 119 Stat. 872.)</akn:p></akn:content><akn:subsection eId="subsec_16233_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) establish a research, development, and demonstration program to determine the feasibility of using hydrogen propulsion in light-weight vehicles and the integration of the associated hydrogen production infrastructure using off-the-shelf components; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16233_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) identify universities and institutions that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

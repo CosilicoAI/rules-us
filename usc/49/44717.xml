@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/44717" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/44717/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/44717/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_44717"><akn:num>44717</akn:num><akn:heading>Aging aircraft</akn:heading><akn:content><akn:p>§ 44717. Aging aircraft(a) Inspections and Reviews.—The Administrator of the Federal Aviation Administration shall prescribe regulations that ensure the continuing airworthiness of aging aircraft. The regulations prescribed under subsection (a) of this section—(1) at least shall require the Administrator to make inspections, and review the maintenance and other records, of each aircraft an air carrier uses to provide air transportation that the Administrator decides may be necessary to enable the Administrator to decide whether the aircraft is in safe condition and maintained properly for operation in air transportation;
+
+(2) at least shall require an air carrier to demonstrate to the Administrator, as part of the inspection, that maintenance of the aircraft’s age-sensitive parts and components has been adequate and timely enough to ensure the highest degree of safety;
+
+(3) shall require the air carrier to make available to the Administrator the aircraft and any records about the aircraft that the Administrator requires to carry out a review; and
+
+(4) shall establish procedures to be followed in carrying out an inspection.
+
+
+(b) When and How Inspections and Reviews Shall Be Carried Out.—(1) Inspections and reviews required under subsection (a)(1) of this section shall be carried out as part of each heavy maintenance check of the aircraft conducted after the 14th year in which the aircraft has been in service.
+
+(2) Inspections under subsection (a)(1) of this section shall be carried out as provided under section 44701(a)(2)(B) and (C) of this title.
+
+
+(c) Aircraft Maintenance Safety Programs.—The Administrator shall establish—(1) a program to verify that air carriers are maintaining their aircraft according to maintenance programs approved by the Administrator;
+
+(2) a program—(A) to provide inspectors and engineers of the Administration with training necessary to conduct auditing inspections of aircraft operated by air carriers for corrosion and metal fatigue; and
+
+(</akn:p></akn:content><akn:subsection eId="subsec_44717_a"><akn:num>(a)</akn:num><akn:heading>Inspections and Reviews.—</akn:heading><akn:content><akn:p>(a) The Administrator of the Federal Aviation Administration shall prescribe regulations that ensure the continuing airworthiness of aging aircraft. The regulations prescribed under subsection (a) of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44717_b"><akn:num>(b)</akn:num><akn:heading>When and How Inspections and Reviews Shall Be Carried Out.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44717_c"><akn:num>(c)</akn:num><akn:heading>Aircraft Maintenance Safety Programs.—</akn:heading><akn:content><akn:p>(c) The Administrator shall establish—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44717_d"><akn:num>(d)</akn:num><akn:heading>Foreign Air Transportation.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

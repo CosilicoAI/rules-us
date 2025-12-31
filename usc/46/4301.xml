@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/4301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/4301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/4301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4301"><akn:num>4301</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>§ 4301. Application(a) This chapter applies to a recreational vessel and associated equipment carried in the vessel on waters subject to the jurisdiction of the United States (including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988) and, for a vessel owned in the United States, on the high seas.
+
+(b) Except when expressly otherwise provided, this chapter does not apply to a foreign vessel temporarily operating on waters subject to the jurisdiction of the United States.
+
+(c) Until there is a final judicial decision that they are navigable waters of the United States, the following waters lying entirely in New Hampshire are declared not to be waters subject to the jurisdiction of the United States within the meaning of this section: Lake Winnisquam, Lake Winnipesaukee, parts of the Merrimack River, and their tributary and connecting waters.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529; Pub. L. 105–383, title III, § 301(b)(4), Nov. 13, 1998, 112 Stat. 3417.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+430146:1453
+
+
+Section 4301 provides that this chapter is applicable to a recreational vessel that operates on waters subject to the jurisdiction of the United States or that is owned in the United States and while operating on the high seas.
+It also provides that a foreign recreational vessel that temporarily uses our waters is not subject to the requirements of this chapter. However, if the vessel remains permanently in the United States, it would be subject to the provisions of this chapter.
+Section 4301(c) recognizes the ongoing controversy over the navigability of certain waters of New Hampshire. While a recreational vessel operating on these waters need not meet the requirements of this chapter, it would be prohibited from operating on any other waters subject to the jurisdiction of the United States if it does not comply with these requirements.
+
+Editorial No</akn:p></akn:content><akn:subsection eId="subsec_4301_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) This chapter applies to a recreational vessel and associated equipment carried in the vessel on waters subject to the jurisdiction of the United States (including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988) and, for a vessel owned in the United States, on the high seas.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4301_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except when expressly otherwise provided, this chapter does not apply to a foreign vessel temporarily operating on waters subject to the jurisdiction of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4301_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Until there is a final judicial decision that they are navigable waters of the United States, the following waters lying entirely in New Hampshire are declared not to be waters subject to the jurisdiction of the United States within the meaning of this section: Lake Winnisquam, Lake Winnipesaukee, parts of the Merrimack River, and their tributary and connecting waters.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

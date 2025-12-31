@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3606" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3606/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3606/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3606"><akn:num>3606</akn:num><akn:heading>E-Government report</akn:heading><akn:content><akn:p>§ 3606. E-Government report(a) Not later than March 1 of each year, the Director shall submit an E-Government status report to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.
+
+(b) The report under subsection (a) shall contain—(1) a summary of the information reported by agencies under section 202(f) 11 So in original. Probably should be “section 202(g)”. of the E-Government Act of 2002;
+
+(2) the information required to be reported by section 3604(f); and
+
+(3) a description of compliance by the Federal Government with other goals and provisions of the E-Government Act of 2002.
+
+
+(Added Pub. L. 107–347, title I, § 101(a), Dec. 17, 2002, 116 Stat. 2909.)
+
+Editorial Notes
+
+References in TextThe E-Government Act of 2002, referred to in subsec. (b)(3), is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. Section 202 of the Act is set out in a note under section 3501 of this title. For complete classification of this Act to the Code, see Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Effective DateSection effective 120 days after </akn:p></akn:content><akn:subsection eId="subsec_3606_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Not later than March 1 of each year, the Director shall submit an E-Government status report to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3606_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The report under subsection (a) shall contain—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

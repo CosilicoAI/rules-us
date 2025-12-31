@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/233" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/233/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/233/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_233"><akn:num>233</akn:num><akn:heading>Departure from prescribed forms</akn:heading><akn:content><akn:p>§ 233. Departure from prescribed forms
+In cases where the forms of official documents, as prescribed by title 34 of the Revised Statutes, shall be substantially complied with and observed, according to the true intent thereof, no penalty or forfeiture shall be incurred by a deviation therefrom.
+(R.S. § 2769.)
+
+Editorial Notes
+
+References in TextTitle 34 of the Revised Statutes, referred to in text, was in the original “this Title”, meaning title 34 of the Revised Statutes, consisting of R.S. §§ 2517 to 3129. For complete classification of R.S. §§ 2517 to 3129 to the Code, see Tables.
+
+Codification
+R.S. § 2769 derived from act Mar. 2, 1799, ch. 22, § 111, 1 Stat. 704.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

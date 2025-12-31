@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/306" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/306/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/306/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_306"><akn:num>306</akn:num><akn:heading>Dispositions of certain stock</akn:heading><akn:content><akn:p>§ 306. Dispositions of certain stock(a) General ruleIf a shareholder sells or otherwise disposes of section 306 stock (as defined in subsection (c))—(1) Dispositions other than redemptionsIf such disposition is not a redemption (within the meaning of section 317(b))—(A) The amount realized shall be treated as ordinary income. This subparagraph shall not apply to the extent that—(i) the amount realized, exceeds
+
+(ii) such stock’s ratable share of the amount which would have been a dividend at the time of distribution if (in lieu of section 306 stock) the corporation had distributed money in an amount equal to the fair market value of the stock at the time of distribution.
+
+
+(B) Any excess of the amount realized over the sum of—(i) the amount treated under subparagraph (A) as ordinary income, plus
+
+(ii) the adjusted basis of the stock,
+
+
+shall be treated as gain from the sale of such stock.
+
+(C) No loss shall be recognized.
+
+(D) Treatment as dividend.—For purposes of section 1(h)(11) and such other provisions as the Secretary may specify, any amount treated as ordinary income under this paragraph shall be treated as a dividend received from the corporation.
+
+
+(2) RedemptionIf the disposition is a redemption, the amount realized shall be treated as a distribution of property to which section 301 applies.
+
+
+
+(b) ExceptionsSubsection (a) shall not apply—(1) Termination of shareholder’s interest, etc.(A) Not in redemptionIf the disposition—(i) is not a redemption;
+
+(ii) is not, directly or indirectly, to a person the ownership of whose stock would (under section 318(a)) be attributable to the shareholder; and
+
+(iii) terminates the entire stock interest of the shareholder in the corporation (and for purposes of this clause, section 318(a) shall apply).
+
+
+(B) In redemptionIf the disposition is a redemption and paragraph (3) or (4) of section 302(b) applies.
+
+
+
+(2) LiquidationsIf the section 306 stock is redeemed in a distribution in complete liquidation to which part II (se</akn:p></akn:content><akn:subsection eId="subsec_306_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule If a shareholder sells or otherwise disposes of section 306 stock (as defined in subsection (c))—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_306_b"><akn:num>(b)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(b) Exceptions Subsection (a) shall not apply—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_306_c"><akn:num>(c)</akn:num><akn:heading>Section 306 stock defined</akn:heading><akn:content><akn:p>(c) Section 306 stock defined</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_306_d"><akn:num>(d)</akn:num><akn:heading>Stock rights</akn:heading><akn:content><akn:p>(d) Stock rights For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_306_e"><akn:num>(e)</akn:num><akn:heading>Convertible stock</akn:heading><akn:content><akn:p>(e) Convertible stock For purposes of subsection (c)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_306_f"><akn:num>(f)</akn:num><akn:heading>Source of gain</akn:heading><akn:content><akn:p>(f) Source of gain The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under the preceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_306_g"><akn:num>(g)</akn:num><akn:heading>Change in terms and conditions of stock</akn:heading><akn:content><akn:p>(g) Change in terms and conditions of stock If a substantial change is made in the terms and conditions of any stock, then, for purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

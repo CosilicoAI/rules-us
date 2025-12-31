@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1059" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1059/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1059/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1059"><akn:num>1059</akn:num><akn:heading>Duration of grant</akn:heading><akn:content><akn:p>§ 1059. Duration of grant(a) Award periodThe Secretary may award a grant to an eligible institution under this part for 5 years.
+
+
+(b) LimitationsIn awarding grants under this part the Secretary shall give priority to applicants who are not already receiving a grant under this part, except that for the purpose of this subsection a grant under subsection (c) and a grant under section 1068c(a)(1) of this title shall not be considered a grant under this part.
+
+
+(c) Planning grantsNotwithstanding subsection (a), the Secretary may award a grant to an eligible institution under this part for a period of one year for the purpose of preparation of plans and applications for a grant under this part.
+
+
+(d) Wait-out-periodEach eligible institution that received a grant under this part for a 5-year period shall not be eligible to receive an additional grant under this part until 2 years after the date on which the 5-year grant period terminates.
+
+
+(Pub. L. 89–329, title III, § 313, as added Pub. L. 99–498, title III, § 301(a), Oct. 17, 1986, 100 Stat. 1294; amended Pub. L. 102–325, title III, § 302(c), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, § 2(a)(6), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §§ 301(c)(3), 303(c), Oct. 7, 1998, 112 Stat. 1637, 1639.)
+
+Editorial Notes
+Prior ProvisionsA prior section 1059, Pub. L. 89–329, title III, § 313, as added Pub. L. 96–374, title III, § 301, Oct. 3, 1980, 94 Stat. 1392, provided for duration of grants under this part, prior to the general revision of this subchapter by Pub. L. 99–498.
+
+Amendments1998—Subsec. (b). Pub. L. 105–244, § 303(c)(1), inserted “subsection (c) and a grant under” after “this subsection a grant under”.
+Pub. L. 105–244, § 301(c)(3), substituted “section 1068c(a)(1)” for “section 1069(a)(1)”.
+Subsec. (d). Pub. L. 105–244, § 303(c)(2), added subsec. (d).
+1993—Subsec. (b). Pub. L. 103–208 inserted before period at end “, except that for the purpose of this subsection a grant under section 1069(a)(</akn:p></akn:content><akn:subsection eId="subsec_1059_a"><akn:num>(a)</akn:num><akn:heading>Award period</akn:heading><akn:content><akn:p>(a) Award period The Secretary may award a grant to an eligible institution under this part for 5 years.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1059_b"><akn:num>(b)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(b) Limitations In awarding grants under this part the Secretary shall give priority to applicants who are not already receiving a grant under this part, except that for the purpose of this subsection a grant under subsection (c) and a grant under section 1068c(a)(1) of this title shall not be considered a grant under this part.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1059_c"><akn:num>(c)</akn:num><akn:heading>Planning grants</akn:heading><akn:content><akn:p>(c) Planning grants Notwithstanding subsection (a), the Secretary may award a grant to an eligible institution under this part for a period of one year for the purpose of preparation of plans and applications for a grant under this part.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1059_d"><akn:num>(d)</akn:num><akn:heading>Wait-out-period</akn:heading><akn:content><akn:p>(d) Wait-out-period Each eligible institution that received a grant under this part for a 5-year period shall not be eligible to receive an additional grant under this part until 2 years after the date on which the 5-year grant period terminates.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

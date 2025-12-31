@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/981" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/981/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/981/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_981"><akn:num>981</akn:num><akn:heading>Pilot integrated scanning system</akn:heading><akn:content><akn:p>§ 981. Pilot integrated scanning system(a) DesignationsNot later than 90 days after October 13, 2006, the Secretary shall designate 3 foreign seaports through which containers pass or are transshipped to the United States for the establishment of pilot integrated scanning systems that couple nonintrusive imaging equipment and radiation detection equipment. In making the designations under this subsection, the Secretary shall consider 3 distinct ports with unique features and differing levels of trade volume.
+
+
+(b) CoordinationThe Secretary shall—(1) coordinate with the Secretary of Energy, as necessary, to provide radiation detection equipment through the Department of Energy’s Second Line of Defense and Megaports programs; or
+
+(2) work with the private sector or, when possible, host governments to obtain radiation detection equipment that meets both the Department’s and the Department of Energy’s technical specifications for such equipment.
+
+
+(c) Pilot system implementationNot later than 1 year after October 13, 2006, the Secretary shall achieve a full-scale implementation of the pilot integrated scanning system at the ports designated under subsection (a), which—(1) shall scan all containers destined for the United States that are loaded in such ports;
+
+(2) shall electronically transmit the images and information to appropriate United States Government personnel in the country in which the port is located or in the United States for evaluation and analysis;
+
+(3) shall resolve every radiation alarm according to established Department procedures;
+
+(4) shall utilize the information collected to enhance the Automated Targeting System or other relevant programs;
+
+(5) shall store the information for later retrieval and analysis; and
+
+(6) may provide an automated notification of questionable or high-risk cargo as a trigger for further inspection by appropriately trained personnel.
+
+
+(d) ReportNot later than 180 days after achieving full-scale implementation under subsect</akn:p></akn:content><akn:subsection eId="subsec_981_a"><akn:num>(a)</akn:num><akn:heading>Designations</akn:heading><akn:content><akn:p>(a) Designations Not later than 90 days after October 13, 2006, the Secretary shall designate 3 foreign seaports through which containers pass or are transshipped to the United States for the establishment of pilot integrated scanning systems that couple nonintrusive imaging equipment and radiation detection equipment. In making the designations under this subsection, the Secretary shall consider 3 distinct ports with unique features and differing levels of trade volume.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_981_b"><akn:num>(b)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(b) Coordination The Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_981_c"><akn:num>(c)</akn:num><akn:heading>Pilot system implementation</akn:heading><akn:content><akn:p>(c) Pilot system implementation Not later than 1 year after October 13, 2006, the Secretary shall achieve a full-scale implementation of the pilot integrated scanning system at the ports designated under subsection (a), which—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_981_d"><akn:num>(d)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(d) Report Not later than 180 days after achieving full-scale implementation under subsection (c), the Secretary, in consultation with the Secretary of State and, as appropriate, the Secretary of Energy, shall submit a report to the appropriate congressional committees, that includes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

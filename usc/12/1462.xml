@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/1462" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/1462/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/1462/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1462"><akn:num>1462</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1462. Definitions
+For purposes of this chapter—(1) CorporationThe term “Corporation” means the Federal Deposit Insurance Corporation.
+
+
+(2) Savings associationThe term “savings association” means a savings association, as defined in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813], the deposits of which are insured by the Corporation.
+
+
+(3) Federal savings associationThe term “Federal savings association” means a Federal savings association or a Federal savings bank chartered under section 1464 of this title.
+
+
+(4) National bankThe term “national bank” has the same meaning as in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813].
+
+
+(5) Federal banking agenciesThe term “Federal banking agencies” means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
+
+
+(6) StateThe term “State” has the same meaning as in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813].
+
+
+(7) AffiliateThe term “affiliate” means any person that controls, is controlled by, or is under common control with, a savings association, except as provided in section 1467a of this title.
+
+
+(8) BoardThe term “Board”, other than in the context of the Board of Directors of the Corporation, means the Board of Governors of the Federal Reserve System.
+
+
+(9) ComptrollerThe term “Comptroller” means the Comptroller of the Currency.
+
+
+(10) Appropriate Federal banking agencyThe term “appropriate Federal banking agency” has the same meaning as in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).
+
+
+(11) Functionally regulated subsidiaryThe term “functionally regulated subsidiary” has the same meaning as in section 5(c)(5) of the Bank Holding Company Act of 1956 (12 U.S.C. 1844(c)(5)).
+
+
+(June 13, 1933, ch. 64, § 2, 48 Stat. 128; June 27, 1934, ch. 847, title V, § 508(a), 48 Stat. 1264; May 28, 1935, ch. 150, § 10, 49 Stat. 296; 1947 Reorg. Plan No. 3, eff. July 27</akn:p></akn:content><akn:subsection eId="subsec_1462_1"><akn:num>(1)</akn:num><akn:heading>Corporation</akn:heading><akn:content><akn:p>(1) Corporation The term “Corporation” means the Federal Deposit Insurance Corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_2"><akn:num>(2)</akn:num><akn:heading>Savings association</akn:heading><akn:content><akn:p>(2) Savings association The term “savings association” means a savings association, as defined in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813], the deposits of which are insured by the Corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_3"><akn:num>(3)</akn:num><akn:heading>Federal savings association</akn:heading><akn:content><akn:p>(3) Federal savings association The term “Federal savings association” means a Federal savings association or a Federal savings bank chartered under section 1464 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_4"><akn:num>(4)</akn:num><akn:heading>National bank</akn:heading><akn:content><akn:p>(4) National bank The term “national bank” has the same meaning as in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813].</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_5"><akn:num>(5)</akn:num><akn:heading>Federal banking agencies</akn:heading><akn:content><akn:p>(5) Federal banking agencies The term “Federal banking agencies” means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_6"><akn:num>(6)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(6) State The term “State” has the same meaning as in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813].</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_7"><akn:num>(7)</akn:num><akn:heading>Affiliate</akn:heading><akn:content><akn:p>(7) Affiliate The term “affiliate” means any person that controls, is controlled by, or is under common control with, a savings association, except as provided in section 1467a of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_8"><akn:num>(8)</akn:num><akn:heading>Board</akn:heading><akn:content><akn:p>(8) Board The term “Board”, other than in the context of the Board of Directors of the Corporation, means the Board of Governors of the Federal Reserve System.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_9"><akn:num>(9)</akn:num><akn:heading>Comptroller</akn:heading><akn:content><akn:p>(9) Comptroller The term “Comptroller” means the Comptroller of the Currency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1462_10"><akn:num>(10)</akn:num><akn:heading>Appropriate Federal banking agency</akn:heading><akn:content><akn:p>(10) Appropriate Federal banking agency The term “appropriate Federal banking agency” has the same meaning as in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

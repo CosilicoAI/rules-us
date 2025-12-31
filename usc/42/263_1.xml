@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/263–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/263–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/263–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_263_1"><akn:num>263–1</akn:num><akn:heading>Education on biological products</akn:heading><akn:content><akn:p>§ 263–1. Education on biological products(a) Internet website(1) In generalThe Secretary may maintain and operate an internet website to provide educational materials for health care providers, patients, and caregivers, regarding the meaning of the terms, and the standards for review and licensing of, biological products, including biosimilar biological products and interchangeable biosimilar biological products.
+
+
+(2) ContentEducational materials provided under paragraph (1) may include—(A) explanations of key statutory and regulatory terms, including “biosimilar” and “interchangeable”, and clarification regarding the use of interchangeable biosimilar biological products;
+
+(B) information related to development programs for biological products, including biosimilar biological products and interchangeable biosimilar biological products and relevant clinical considerations for prescribers, which may include, as appropriate and applicable, information related to the comparability of such biological products;
+
+(C) an explanation of the process for reporting adverse events for biological products, including biosimilar biological products and interchangeable biosimilar biological products; and
+
+(D) an explanation of the relationship between biosimilar biological products and interchangeable biosimilar biological products licensed under section 262(k) of this title and reference products (as defined in section 262(i) of this title), including the standards for review and licensing of each such type of biological product.
+
+
+(3) FormatThe educational materials provided under paragraph (1) may be—(A) in formats such as webinars, continuing education modules, videos, fact sheets, infographics, stakeholder toolkits, or other formats as appropriate and applicable; and
+
+(B) tailored for the unique needs of health care providers, patients, caregivers, and other audiences, as the Secretary determines appropriate.
+
+
+(4) Other informationIn addition to the information described in p</akn:p></akn:content><akn:subsection eId="subsec_263_1_a"><akn:num>(a)</akn:num><akn:heading>Internet website</akn:heading><akn:content><akn:p>(a) Internet website</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_263_1_b"><akn:num>(b)</akn:num><akn:heading>Continuing education</akn:heading><akn:content><akn:p>(b) Continuing education The Secretary shall advance education and awareness among health care providers regarding biological products, including biosimilar biological products and interchangeable biosimilar biological products, as appropriate, including by developing or improving continuing education programs that advance the education of such providers on the prescribing of, and relevant clinical considerations with respect to, biological products, including biosimilar biological products and interchangeable biosimilar biological products.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

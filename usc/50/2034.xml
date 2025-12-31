@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2034" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2034/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2034/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2034"><akn:num>2034</akn:num><akn:heading>Survivor annuity for certain other former spouses</akn:heading><akn:content><akn:p>§ 2034. Survivor annuity for certain other former spouses(a) Survivor annuity(1) In generalAn individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—(A) the unreduced amount of the participant’s or retired participant’s annuity, as computed under section 2031(a) of this title; or
+
+(B) the unreduced amount of what such annuity as so computed would be if the participant, former participant, or retired participant had not elected payment of the lump-sum credit under section 2143 of this title.
+
+
+(2) Reduction in survivor annuityA survivor annuity payable under this section shall be reduced by an amount equal to any survivor annuity payments made to the former spouse under section 2033 of this title.
+
+
+
+(b) LimitationsA former spouse is not entitled to a survivor annuity under this section if—(1) the former spouse remarries before age 55, except that the entitlement of the former spouse to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
+
+(2) the former spouse is less than 50 years of age.
+
+
+(c) Commencement and termination of annuity(1) Commencement of annuityThe entitlement of a former spouse to a survivor annuity under this section shall commence—(A) in the case of a former spouse of a participant or retired participant who is deceased as of October 1, 1986, beginning on the later of—(i) the 60th day after such date; or
+
+(ii) the date on which the former spouse reaches age 50; and
+
+
+(B) in the case of any other former spouse, beginning on the latest of—(i) the date on which the participant or retired participant to whom the former spouse was married dies;
+
+(ii) the 60th day after October 1, 1986; or
+
+(iii) the date on which the former spouse attains age 50.
+
+
+
+(2) Termination of annuityThe entitlement o</akn:p></akn:content><akn:subsection eId="subsec_2034_a"><akn:num>(a)</akn:num><akn:heading>Survivor annuity</akn:heading><akn:content><akn:p>(a) Survivor annuity</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2034_b"><akn:num>(b)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(b) Limitations A former spouse is not entitled to a survivor annuity under this section if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2034_c"><akn:num>(c)</akn:num><akn:heading>Commencement and termination of annuity</akn:heading><akn:content><akn:p>(c) Commencement and termination of annuity</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2034_d"><akn:num>(d)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(d) Application</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2034_e"><akn:num>(e)</akn:num><akn:heading>Restoration of annuity</akn:heading><akn:content><akn:p>(e) Restoration of annuity Notwithstanding subsection (d)(1), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/48/2146" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/48/2146/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/48/2146/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2146"><akn:num>2146</akn:num><akn:heading>Oversight Board duties related to restructuring</akn:heading><akn:content><akn:p>§ 2146. Oversight Board duties related to restructuring(a) Requirements for restructuring certificationThe Oversight Board, prior to issuing a restructuring certification regarding an entity (as such term is defined in section 101 of title 11), shall determine, in its sole discretion, that—(1) the entity has made good-faith efforts to reach a consensual restructuring with creditors;
+
+(2) the entity has—(A) adopted procedures necessary to deliver timely audited financial statements; and
+
+(B) made public draft financial statements and other information sufficient for any interested person to make an informed decision with respect to a possible restructuring;
+
+
+(3) the entity is either a covered territory that has adopted a Fiscal Plan certified by the Oversight Board, a covered territorial instrumentality that is subject to a Territory Fiscal Plan certified by the Oversight Board, or a covered territorial instrumentality that has adopted an Instrumentality Fiscal Plan certified by the Oversight Board; and
+
+(4)(A) no order approving a Qualifying Modification under section 2231 of this title has been entered with respect to such entity; or
+
+(B) if an order approving a Qualifying Modification has been entered with respect to such entity, the entity is unable to make its debt payments notwithstanding the approved Qualifying Modification, in which case, all claims affected by the Qualifying Modification shall be subject to a subchapter III case.
+
+
+
+(b) Issuance of restructuring certificationThe issuance of a restructuring certification under this section requires a vote of no fewer than 5 members of the Oversight Board in the affirmative, which shall satisfy the requirement set forth in section 2162(2) of this title.
+
+
+(Pub. L. 114–187, title II, § 206, June 30, 2016, 130 Stat. 574.)</akn:p></akn:content><akn:subsection eId="subsec_2146_a"><akn:num>(a)</akn:num><akn:heading>Requirements for restructuring certification</akn:heading><akn:content><akn:p>(a) Requirements for restructuring certification The Oversight Board, prior to issuing a restructuring certification regarding an entity (as such term is defined in section 101 of title 11), shall determine, in its sole discretion, that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2146_b"><akn:num>(b)</akn:num><akn:heading>Issuance of restructuring certification</akn:heading><akn:content><akn:p>(b) Issuance of restructuring certification The issuance of a restructuring certification under this section requires a vote of no fewer than 5 members of the Oversight Board in the affirmative, which shall satisfy the requirement set forth in section 2162(2) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/284l" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/284l/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/284l/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_284l"><akn:num>284l</akn:num><akn:heading>Enhancement awards</akn:heading><akn:content><akn:p>§ 284l. Enhancement awards(a) Mentored Patient-Oriented Research Career Development Awards(1) Grants(A) In generalThe Director of the National Institutes of Health shall make grants (to be referred to as “Mentored Patient-Oriented Research Career Development Awards”) to support individual careers in clinical research at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+
+
+(B) UseGrants under subparagraph (A) shall be used to support clinical investigators in the early phases of their independent careers by providing salary and such other support for a period of supervised study.
+
+
+
+(2) ApplicationsAn application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
+
+
+
+(b) Mid-Career Investigator Awards in Patient-Oriented Research(1) Grants(A) In generalThe Director of the National Institutes of Health shall make grants (to be referred to as “Mid-Career Investigator Awards in Patient-Oriented Research”) to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+
+
+(B) UseGrants under subparagraph (A) shall be used to provide support for mid-career level clinicians to allow such clinicians to devote time to clinical research and to act as mentors for beginning clinical investigators.
+
+
+
+(2) ApplicationsAn application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director requires.
+
+
+
+(c) Graduate Training in Clinical Investigation Award(1) In generalThe Director of the National Institutes of Health shall make grants (to be referred to as “Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master’s or doctoral degrees in clinical inves</akn:p></akn:content><akn:subsection eId="subsec_284l_a"><akn:num>(a)</akn:num><akn:heading>Mentored Patient-Oriented Research Career Development Awards</akn:heading><akn:content><akn:p>(a) Mentored Patient-Oriented Research Career Development Awards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_284l_b"><akn:num>(b)</akn:num><akn:heading>Mid-Career Investigator Awards in Patient-Oriented Research</akn:heading><akn:content><akn:p>(b) Mid-Career Investigator Awards in Patient-Oriented Research</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_284l_c"><akn:num>(c)</akn:num><akn:heading>Graduate Training in Clinical Investigation Award</akn:heading><akn:content><akn:p>(c) Graduate Training in Clinical Investigation Award</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_284l_d"><akn:num>(d)</akn:num><akn:heading>Clinical Research Curriculum Awards</akn:heading><akn:content><akn:p>(d) Clinical Research Curriculum Awards</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

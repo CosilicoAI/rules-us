@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_111"><akn:num>111</akn:num><akn:heading>Executive department</akn:heading><akn:content><akn:p>§ 111. Executive department(a) The Department of Defense is an executive department of the United States.
+
+(b) The Department is composed of the following:(1) The Office of the Secretary of Defense.
+
+(2) The Joint Chiefs of Staff.
+
+(3) The Joint Staff.
+
+(4) The Defense Agencies.
+
+(5) Department of Defense Field Activities.
+
+(6) The Department of the Army.
+
+(7) The Department of the Navy.
+
+(8) The Department of the Air Force.
+
+(9) The unified and specified combatant commands.
+
+(10) Such other offices, agencies, activities, and commands as may be established or designated by law or by the President.
+
+(11) All offices, agencies, activities, and commands under the control or supervision of any element named in paragraphs (1) through (10).
+
+
+(c) If the President establishes or designates an office, agency, activity, or command in the Department of Defense of a kind other than those described in paragraphs (1) through (9) of subsection (b), the President shall notify Congress not later than 60 days thereafter.
+
+(Added Pub. L. 87–651, title II, § 202, Sept. 7, 1962, 76 Stat. 517, § 131; renumbered § 111 and amended Pub. L. 99–433, title I, § 101(a)(2), (b), Oct. 1, 1986, 100 Stat. 994, 995.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1315:171(a) (less last 10 words), (b).July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10, 1949, ch. 412, § 4 (1st (less last 10 words) and 2d pars.), 63 Stat. 579.
+
+
+The words “There is established”, in 5 U.S.C. 171(a), are omitted as executed. 5 U.S.C. 171(b) (1st 26 words) is omitted as covered by the definitions of “department” and “military departments” in section 101(5) and (7), respectively, of this title. 5 U.S.C. 171(b) (27th through 49th words) is omitted as executed. 5 U.S.C. 171(b) (last 18 words) is omitted as surplusage.
+
+Editorial Notes
+Amendments1986—Pub. L. 99–433 renumbered section 131 of this title as this section, designated existing prov</akn:p></akn:content><akn:subsection eId="subsec_111_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Department of Defense is an executive department of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Department is composed of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_111_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) If the President establishes or designates an office, agency, activity, or command in the Department of Defense of a kind other than those described in paragraphs (1) through (9) of subsection (b), the President shall notify Congress not later than 60 days thereafter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/7696" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/7696/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/7696/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7696"><akn:num>7696</akn:num><akn:heading>Term of obligated service</akn:heading><akn:content><akn:p>§ 7696. Term of obligated service(a) In General.—In addition to any requirements under section 5379(c) of title 5, a participant in the Specialty Education Loan Repayment Program must agree, in writing and before the Secretary may make any payment to or for the participant, to—(1) obtain a license to practice medicine in a State;
+
+(2) successfully complete post-graduate training leading to eligibility for board certification in a specialty;
+
+(3) serve as a full-time clinical practice employee of the Veterans Health Administration for 12 months for every $40,000 in such benefits that the employee receives, but in no case for fewer than 24 months; and
+
+(4) except as provided in subsection (b), to begin such service as a full-time practice employee by not later than 60 days after completing a residency.
+
+
+(b) Fellowship.—In the case of a participant who receives an accredited fellowship in a medical specialty other than a medical specialty described in section 7692 of this title, the Secretary, on written request of the participant, may delay the term of obligated service under subsection (a) for the participant until after the participant completes the fellowship, but in no case later than 60 days after completion of such fellowship.
+
+(c) Penalty.—(1) An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: A = B × ((T − S) ÷ T).
+
+(2) In the formula in paragraph (1):(A) “A” is the amount the employee owes the Federal Government.
+
+(B) “B” is the sum of all payments to or for the participant under the Specialty Education Loan Repayment Program.
+
+(C) “T” is the number of months in the period of obligated service of the employee.
+
+(D) “S” is the number of whole months of such period of obligated service served by the employee.
+
+
+
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1465; amended Pub. L. 116–61, § 6(8), Sept. 30, 2019, 1</akn:p></akn:content><akn:subsection eId="subsec_7696_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In addition to any requirements under section 5379(c) of title 5, a participant in the Specialty Education Loan Repayment Program must agree, in writing and before the Secretary may make any payment to or for the participant, to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7696_b"><akn:num>(b)</akn:num><akn:heading>Fellowship.—</akn:heading><akn:content><akn:p>(b) In the case of a participant who receives an accredited fellowship in a medical specialty other than a medical specialty described in section 7692 of this title, the Secretary, on written request of the participant, may delay the term of obligated service under subsection (a) for the participant until after the participant completes the fellowship, but in no case later than 60 days after completion of such fellowship.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7696_c"><akn:num>(c)</akn:num><akn:heading>Penalty.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/242p" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/242p/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/242p/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_242p"><akn:num>242p</akn:num><akn:heading>National disease prevention data profile</akn:heading><akn:content><akn:p>§ 242p. National disease prevention data profile(a) The Secretary, acting through the National Center for Health Statistics, shall submit to Congress on March 15, 1990, and on March 15 of every third year thereafter, a national disease prevention data profile in order to provide a data base for the effective implementation of this Act and to increase public awareness of the prevalence, incidence, and any trends in the preventable causes of death and disability in the United States. Such profile shall include at a minimum—(1) mortality rates for preventable diseases;
+
+(2) morbidity rates associated with preventable diseases;
+
+(3) the physical determinants of health of the population of the United States and the relationship between these determinants of health and the incidence and prevalence of preventable causes of death and disability; and
+
+(4) the behavioral determinants of health of the population of the United States including, but not limited to, smoking, nutritional and dietary habits, exercise, and alcohol consumption, and the relationship between these determinants of health and the incidence and prevalence of preventable causes of death and disability.
+
+
+(b) In preparing the profile required by subsection (a), the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.
+
+(Pub. L. 95–626, title IV, § 404, Nov. 10, 1978, 92 Stat. 3591; Pub. L. 100–177, title I, § 106(b), Dec. 1, 1987, 101 Stat. 989.)
+
+Editorial Notes
+
+References in TextThis Act, referred to in subsec. (a), is Pub. L. 95–626, Nov. 10, 1978, 92 Stat. 3551, known as the Health Services and Centers Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 201 of this title and Tables.
+
+Codification
+Section was enacted as part of the Health Services and Centers Amendments of 1978, and not as part of the Public Health Service Ac</akn:p></akn:content><akn:subsection eId="subsec_242p_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary, acting through the National Center for Health Statistics, shall submit to Congress on March 15, 1990, and on March 15 of every third year thereafter, a national disease prevention data profile in order to provide a data base for the effective implementation of this Act and to increase public awareness of the prevalence, incidence, and any trends in the preventable causes of death and disability in the United States. Such profile shall include at a minimum—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_242p_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In preparing the profile required by subsection (a), the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

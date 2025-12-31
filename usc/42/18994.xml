@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18994" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18994/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18994/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18994"><akn:num>18994</akn:num><akn:heading>STEM workforce data</akn:heading><akn:content><akn:p>§ 18994. STEM workforce data(a) Skilled technical workforce portfolio review(1) In generalNot later than 1 year after August 9, 2022, the Director shall conduct a full portfolio analysis of the Foundation’s skilled technical workforce investments across all Directorates in the areas of education, research, infrastructure, data collection, and analysis.
+
+
+(2) ReportNot later than 180 days after the date of the review under paragraph (1) is complete, the Director shall submit to Congress and make widely available to the public a summary report of the portfolio review.
+
+
+
+(b) Survey data(1) Rotating topic modulesTo meet evolving needs for data on the state of the science and engineering workforce, the Director shall assess, through coordination with other Federal statistical agencies and drawing on input from relevant stakeholders, the feasibility and benefits of incorporating questions or topic modules to existing National Center for Science and Engineering Statistics surveys that would vary from cycle to cycle.
+
+
+(2) New dataNot later than 1 year after August 9, 2022, the Director shall submit to Congress and the Board the results of an assessment, carried out in coordination with other Federal agencies and with input from relevant stakeholders, of the feasibility and benefits of incorporating new questions or topic modules to existing National Center for Science and Engineering Statistics surveys on—(A) the skilled technical workforce;
+
+(B) working conditions and work-life balance;
+
+(C) harassment and discrimination;
+
+(D) immigration and emigration; and
+
+(E) any other topics at the discretion of the Director.
+
+
+(3) Longitudinal designThe Director shall continue and accelerate efforts to enhance the usefulness of National Center for Science and Engineering Statistics survey data for longitudinal research and analysis.
+
+
+(4) Government Accountability Office reviewNot later than 1 year after August 9, 2022, the Comptroller General of the United States shall submit a re</akn:p></akn:content><akn:subsection eId="subsec_18994_a"><akn:num>(a)</akn:num><akn:heading>Skilled technical workforce portfolio review</akn:heading><akn:content><akn:p>(a) Skilled technical workforce portfolio review</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18994_b"><akn:num>(b)</akn:num><akn:heading>Survey data</akn:heading><akn:content><akn:p>(b) Survey data</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

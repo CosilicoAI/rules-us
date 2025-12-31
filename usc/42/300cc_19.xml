@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300cc–19" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300cc–19/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300cc–19/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300cc_19"><akn:num>300cc–19</akn:num><akn:heading>National blood resource education program</akn:heading><akn:content><akn:p>§ 300cc–19. National blood resource education program
+After consultation with the Director of the National Heart, Lung, and Blood Institute and the Commissioner of Food and Drugs, the Secretary shall establish a program of research and education regarding blood donations and transfusions to maintain and improve the safety of the blood supply. Education programs shall be directed at health professionals, patients, and the community to—(1) in the case of the public and patients undergoing treatment—(A) increase awareness that the process of donating blood is safe;
+
+(B) promote the concept that blood donors are contributors to a national need to maintain an adequate and safe blood supply;
+
+(C) encourage blood donors to donate more than once a year; and
+
+(D) encourage repeat blood donors to recruit new donors;
+
+
+(2) in the case of health professionals—(A) improve knowledge, attitudes, and skills of health professionals in the appropriate use of blood and blood components;
+
+(B) increase the awareness and understanding of health professionals regarding the risks versus benefits of blood transfusion; and
+
+(C) encourage health professionals to consider alternatives to the administration of blood or blood components for their patients; and
+
+
+(3) in the case of the community, increase coordination, communication, and collaboration among community, professional, industry, and government organizations regarding blood donation and transfusion issues.
+
+(July 1, 1944, ch. 373, title XXIII, § 2319, as added Pub. L. 100–607, title II, § 201(4), Nov. 4, 1988, 102 Stat. 3074.)</akn:p></akn:content><akn:subsection eId="subsec_300cc_19_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) in the case of the public and patients undergoing treatment—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300cc_19_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) in the case of health professionals—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300cc_19_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) in the case of the community, increase coordination, communication, and collaboration among community, professional, industry, and government organizations regarding blood donation and transfusion issues.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

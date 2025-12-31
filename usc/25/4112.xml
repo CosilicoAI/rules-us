@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/4112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/4112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/4112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4112"><akn:num>4112</akn:num><akn:heading>Indian housing plans</akn:heading><akn:content><akn:p>§ 4112. Indian housing plans(a) Plan submissionThe Secretary shall provide—(1)(A) for an Indian tribe to submit to the Secretary, by not later than 75 days before the beginning of each tribal program year, a 1-year housing plan for the Indian tribe; or
+
+(B) for the tribally designated housing entity for the tribe to submit the plan as provided in subsection (c) for the tribe; and
+
+
+(2) for the review of such plans.
+
+
+(b) 1-year plan requirement(1) In generalA housing plan of an Indian tribe under this section shall—(A) be in such form as the Secretary may prescribe; and
+
+(B) contain the information described in paragraph (2).
+
+
+(2) Required informationA housing plan shall include the following information with respect to the tribal program year for which assistance under this chapter is made available:(A) Description of planned activitiesA statement of planned activities, including—(i) the types of household to receive assistance;
+
+(ii) the types and levels of assistance to be provided;
+
+(iii) the number of units planned to be produced;
+
+(iv)(I) a description of any housing to be demolished or disposed of;
+
+(II) a timetable for the demolition or disposition; and
+
+(III) any other information required by the Secretary with respect to the demolition or disposition;
+
+
+(v) a description of the manner in which the recipient will protect and maintain the viability of housing owned and operated by the recipient that was developed under a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.); and
+
+(vi) outcomes anticipated to be achieved by the recipient.
+
+
+(B) Statement of needsA statement of the housing needs of the low-income Indian families residing in the jurisdiction of the Indian tribe, and the means by which those needs will be addressed during the applicable period, including—(i) a description of the estimated housing needs and the need for assistance for the low-income Indian famili</akn:p></akn:content><akn:subsection eId="subsec_4112_a"><akn:num>(a)</akn:num><akn:heading>Plan submission</akn:heading><akn:content><akn:p>(a) Plan submission The Secretary shall provide—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_b"><akn:num>(b)</akn:num><akn:heading>1-year plan requirement</akn:heading><akn:content><akn:p>(b) 1-year plan requirement</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_c"><akn:num>(c)</akn:num><akn:heading>Participation of tribally designated housing entity</akn:heading><akn:content><akn:p>(c) Participation of tribally designated housing entity A plan under this section for an Indian tribe may be prepared and submitted on behalf of the tribe by the tribally designated housing entity for the tribe, but only if such plan contains a certification by the recognized tribal government of the grant beneficiary that such tribe—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_d"><akn:num>(d)</akn:num><akn:heading>Coordination of plans</akn:heading><akn:content><akn:p>(d) Coordination of plans A plan under this section may cover more than 1 Indian tribe, but only if the certification requirements under subsection (c) are complied with by each such grant beneficiary covered.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4112_e"><akn:num>(e)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(e) Regulations The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

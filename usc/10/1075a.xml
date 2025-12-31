@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1075a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1075a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1075a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1075a"><akn:num>1075a</akn:num><akn:heading>TRICARE Prime: cost sharing</akn:heading><akn:content><akn:p>§ 1075a. TRICARE Prime: cost sharing(a) Cost-sharing Requirements.—The cost-sharing requirements under TRICARE Prime are as follows:(1) There are no cost-sharing requirements for beneficiaries who are covered by section 1074(a) of this title.
+
+(2) With respect to beneficiaries in the active-duty family member category or the retired category (as described in section 1075(b)(1) of this title) by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services on or after January 1, 2018, or by reason of being a dependent of such a member, the cost-sharing requirements shall be calculated pursuant to subsection (b)(1).
+
+(3)(A) With respect to beneficiaries described in subparagraph (B) in the active-duty family member category or the retired category (as described in section 1075(b)(1) of this title), the cost-sharing requirements shall be calculated in accordance with the other provisions of this chapter without regard to subsection (b).
+
+(B) Beneficiaries described in this subparagraph are beneficiaries who are eligible to enroll in the TRICARE program by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services before January 1, 2018, or by reason of being a dependent of such a member.
+
+
+
+(b) Cost-sharing Amounts.—(1) Beneficiaries described in subsection (a)(2) enrolled in TRICARE Prime shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years:
+
+
+
+
+
+
+
+TRICARE Prime Active-Duty Family Member  (Individual/Family)  Retired  (Individual/Family) 
+
+
+Annual Enrollment$0$350 / $700
+Annual deductibleNoNo
+Annual catastrophic cap$1,000$3,500
+Outpatient visit civilian network$0$20 primary care
+..................... $30 specialty care
+ER visit civilian network$0$60 network
+Urgen</akn:p></akn:content><akn:subsection eId="subsec_1075a_a"><akn:num>(a)</akn:num><akn:heading>Cost-sharing Requirements.—</akn:heading><akn:content><akn:p>(a) The cost-sharing requirements under TRICARE Prime are as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1075a_b"><akn:num>(b)</akn:num><akn:heading>Cost-sharing Amounts.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1075a_c"><akn:num>(c)</akn:num><akn:heading>Special Rule for Amounts Without Referrals.—</akn:heading><akn:content><akn:p>(c) Notwithstanding subsection (b)(1), the cost-sharing amount for a beneficiary enrolled in TRICARE Prime who does not obtain a referral for care under paragraph (1) of section 1095f(a) of this title (or a waiver pursuant to paragraph (2) of such section for such care) shall be an amount equal to 50 percent of the allowed point-of-service charge for such care.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1075a_d"><akn:num>(d)</akn:num><akn:heading>Prohibition on Cost-sharing for Certain Services.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

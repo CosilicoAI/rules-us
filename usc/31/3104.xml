@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3104"><akn:num>3104</akn:num><akn:heading>Certificates of indebtedness and Treasury bills</akn:heading><akn:content><akn:p>§ 3104. Certificates of indebtedness and Treasury bills(a) The Secretary of the Treasury may borrow on the credit of the United States Government amounts necessary for expenditures authorized by law and may buy, redeem, and make refunds under section 3111 of this title. For amounts borrowed, the Secretary may issue—(1) certificates of indebtedness of the Government; and
+
+(2) Treasury bills of the Government.
+
+
+(b) The Secretary may prescribe conditions for issuing certificates of indebtedness and Treasury bills under section 3121 of this title and conditions under which the certificates and bills may be redeemed before maturity. Notwithstanding section 3121(a)(5) of this title, the payment date of certificates of indebtedness and Treasury bills may not be more than one year after the date of issue.
+
+(c) Treasury bills issued under this section may not be accepted before maturity to pay principal or interest on obligations of governments of foreign countries that are held by the United States Government.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 939.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3104(a)31:754(a)(1st, 2d sentences).Sept. 24, 1917, ch. 56, § 5(a)(less form of certificates of indebtedness and Treasury bills, finality), 40 Stat. 290; Apr. 4, 1918, ch. 44, § 4, 40 Stat. 504; Mar. 3, 1919, ch. 100, § 3, 40 Stat. 1311; restated June 17, 1929, ch. 26, 46 Stat. 19; Feb. 4, 1935, ch. 5, §§ 2, 3, 49 Stat. 20.
+3104(b)31:754(a)(3d sentence)(less form of certificates of indebtedness and Treasury bills, finality).
+3104(c)31:754(a)(last sentence).
+
+
+In subsection (a), before clause (1), the words “In addition to the bonds and notes authorized by sections 752, 753, and 757c of this title” are omitted as unnecessary. The words “subject to the limitation imposed by section 757b of this title” are omitted as surplus. The words “for expenditures authorized by law” are substituted for “for the purposes of this A</akn:p></akn:content><akn:subsection eId="subsec_3104_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of the Treasury may borrow on the credit of the United States Government amounts necessary for expenditures authorized by law and may buy, redeem, and make refunds under section 3111 of this title. For amounts borrowed, the Secretary may issue—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3104_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary may prescribe conditions for issuing certificates of indebtedness and Treasury bills under section 3121 of this title and conditions under which the certificates and bills may be redeemed before maturity. Notwithstanding section 3121(a)(5) of this title, the payment date of certificates of indebtedness and Treasury bills may not be more than one year after the date of issue.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3104_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Treasury bills issued under this section may not be accepted before maturity to pay principal or interest on obligations of governments of foreign countries that are held by the United States Government.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

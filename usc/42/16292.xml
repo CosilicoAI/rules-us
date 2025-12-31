@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16292" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16292/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16292/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16292"><akn:num>16292</akn:num><akn:heading>Carbon capture technology program</akn:heading><akn:content><akn:p>§ 16292. Carbon capture technology program(a) DefinitionsIn this section:(1) Large-scale pilot projectThe term “large-scale pilot project” means a pilot project that—(A) represents the scale of technology development beyond laboratory development and bench scale testing, but not yet advanced to the point of being tested under real operational conditions at commercial scale;
+
+(B) represents the scale of technology necessary to gain the operational data needed to understand the technical and performance risks of the technology before the application of that technology at commercial scale or in commercial-scale demonstration; and
+
+(C) is large enough—(i) to validate scaling factors; and
+
+(ii) to demonstrate the interaction between major components so that control philosophies for a new process can be developed and enable the technology to advance from large-scale pilot project application to commercial-scale demonstration or application.
+
+
+
+(2) Natural gasThe term “natural gas” means any fuel consisting in whole or in part of—(A) natural gas;
+
+(B) liquid petroleum gas;
+
+(C) synthetic gas derived from petroleum or natural gas liquids;
+
+(D) any mixture of natural gas and synthetic gas; or
+
+(E) biomethane.
+
+
+(3) Natural gas electric generation facility(A) In generalThe term “natural gas electric generation facility” means a facility that generates electric energy using natural gas as the fuel.
+
+
+(B) InclusionsThe term “natural gas electric generation facility” includes without limitation a new or existing—(i) simple cycle plant;
+
+(ii) combined cycle plant;
+
+(iii) combined heat and power plant; or
+
+(iv) steam methane reformer that produces hydrogen from natural gas for use in the production of electric energy.
+
+
+
+(4) ProgramThe term “program” means the program established under subsection (b)(1).
+
+
+(5) Transformational technology(A) In generalThe term “transformational technology” means a technology that represents a significant change in the methods used to convert energy</akn:p></akn:content><akn:subsection eId="subsec_16292_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16292_b"><akn:num>(b)</akn:num><akn:heading>Carbon capture technology program</akn:heading><akn:content><akn:p>(b) Carbon capture technology program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16292_c"><akn:num>(c)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(c) Report</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16292_d"><akn:num>(d)</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>(d) Funding</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16292_e"><akn:num>(e)</akn:num><akn:heading>Carbon capture test centers</akn:heading><akn:content><akn:p>(e) Carbon capture test centers</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

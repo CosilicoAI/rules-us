@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1835" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1835/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1835/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1835"><akn:num>1835</akn:num><akn:heading>Advisory council</akn:heading><akn:content><akn:p>§ 1835. Advisory council(a) In General.—The Secretary shall establish an advisory council on health care and benefits for covered children.
+
+(b) Membership.—The advisory council established under subsection (a) shall be composed of Federal employees.
+
+(c) Duties.—The advisory council established under subsection (a) shall solicit feedback from covered children and covered veterans on the health care and benefits provided under this chapter and communicate such feedback to the Secretary.
+
+(Added Pub. L. 118–18, § 1(b), Oct. 6, 2023, 137 Stat. 103.)
+
+Editorial Notes
+Prior ProvisionsA prior section 1835 was renumbered section 2041 of this title.
+
+Statutory Notes and Related Subsidiaries
+Deadline for Establishment of Advisory CouncilPub. L. 118–18, § 1(d)(1), Oct. 6, 2023, 137 Stat. 104, provided that: “Not later than 270 days after the date of the enactment of this Act [Oct. 6, 2023], the Secretary of Veterans Affairs shall establish the advisory council required under section 1835 of title 38, United States Code, as added by subsection (b).”</akn:p></akn:content><akn:subsection eId="subsec_1835_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary shall establish an advisory council on health care and benefits for covered children.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1835_b"><akn:num>(b)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(b) The advisory council established under subsection (a) shall be composed of Federal employees.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1835_c"><akn:num>(c)</akn:num><akn:heading>Duties.—</akn:heading><akn:content><akn:p>(c) The advisory council established under subsection (a) shall solicit feedback from covered children and covered veterans on the health care and benefits provided under this chapter and communicate such feedback to the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

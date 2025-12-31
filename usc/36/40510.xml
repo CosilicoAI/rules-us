@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/40510" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/40510/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/40510/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40510"><akn:num>40510</akn:num><akn:heading>Liability</akn:heading><akn:content><akn:p>§ 40510. Liability(a) Liability of Corporation.—The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
+
+(b) Immunity of Individuals.—A member or private individual is not liable for the obligations of the corporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1335.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+40510(a)36:801.Aug. 14, 1958, Pub. L. 85–642, §§ 9(a) (1st sentence words after last comma), 11, 72 Stat. 599, 600.
+40510(b)36:799(a) (1st sentence words after last comma).</akn:p></akn:content><akn:subsection eId="subsec_40510_a"><akn:num>(a)</akn:num><akn:heading>Liability of Corporation.—</akn:heading><akn:content><akn:p>(a) The corporation is liable for the acts of its officers and agents acting within the scope of their authority.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40510_b"><akn:num>(b)</akn:num><akn:heading>Immunity of Individuals.—</akn:heading><akn:content><akn:p>(b) A member or private individual is not liable for the obligations of the corporation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

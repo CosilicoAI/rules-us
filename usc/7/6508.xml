@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/6508" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/6508/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/6508/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6508"><akn:num>6508</akn:num><akn:heading>Prohibited crop production practices and materials</akn:heading><akn:content><akn:p>§ 6508. Prohibited crop production practices and materials(a) Seed, seedlings and planting practicesFor a farm to be certified under this chapter, producers on such farm shall not apply materials to, or engage in practices on, seeds or seedlings that are contrary to, or inconsistent with, the applicable organic certification program.
+
+
+(b) Soil amendmentsFor a farm to be certified under this chapter, producers on such farm shall not—(1) use any fertilizers containing synthetic ingredients or any commercially blended fertilizers containing materials prohibited under this chapter or under the applicable State organic certification program; or
+
+(2) use as a source of nitrogen: phosphorous, lime, potash, or any materials that are inconsistent with the applicable organic certification program.
+
+
+(c) Crop managementFor a farm to be certified under this chapter, producers on such farm shall not—(1) use natural poisons such as arsenic or lead salts that have long-term effects and persist in the environment, as determined by the applicable governing State official or the Secretary;
+
+(2) use plastic mulches, unless such mulches are removed at the end of each growing or harvest season; or
+
+(3) use transplants that are treated with any synthetic or prohibited material.
+
+
+(Pub. L. 101–624, title XXI, § 2109, Nov. 28, 1990, 104 Stat. 3940.)</akn:p></akn:content><akn:subsection eId="subsec_6508_a"><akn:num>(a)</akn:num><akn:heading>Seed, seedlings and planting practices</akn:heading><akn:content><akn:p>(a) Seed, seedlings and planting practices For a farm to be certified under this chapter, producers on such farm shall not apply materials to, or engage in practices on, seeds or seedlings that are contrary to, or inconsistent with, the applicable organic certification program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6508_b"><akn:num>(b)</akn:num><akn:heading>Soil amendments</akn:heading><akn:content><akn:p>(b) Soil amendments For a farm to be certified under this chapter, producers on such farm shall not—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6508_c"><akn:num>(c)</akn:num><akn:heading>Crop management</akn:heading><akn:content><akn:p>(c) Crop management For a farm to be certified under this chapter, producers on such farm shall not—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

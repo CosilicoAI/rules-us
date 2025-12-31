@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/35/376" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/35/376/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/35/376/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_376"><akn:num>376</akn:num><akn:heading>Fees</akn:heading><akn:content><akn:p>§ 376. Fees(a) The required payment of the international fee and the handling fee, which amounts are specified in the Regulations, shall be paid in United States currency. The Patent and Trademark Office shall charge a national fee as provided in section 41(a), and may also charge the following fees:(1) A transmittal fee (see section 361(d)).
+
+(2) A search fee (see section 361(d)).
+
+(3) A supplemental search fee (to be paid when required).
+
+(4) A preliminary examination fee and any additional fees (see section 362(b)).
+
+(5) Such other fees as established by the Director.
+
+
+(b) The amounts of fees specified in subsection (a) of this section, except the international fee and the handling fee, shall be prescribed by the Director. He may refund any sum paid by mistake or in excess of the fees so specified, or if required under the treaty and the Regulations. The Director may also refund any part of the search fee, the national fee, the preliminary examination fee, and any additional fees, where he determines such refund to be warranted.
+
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 690; amended Pub. L. 98–622, title IV, §§ 402(g), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, § 8, Nov. 6, 1986, 100 Stat. 3486; Pub. L. 102–204, § 5(g)(1), Dec. 10, 1991, 105 Stat. 1640; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(a)(21), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1905, 1906.)
+
+Editorial Notes
+Amendments2002—Subsec. (a)(1) to (3). Pub. L. 107–273, § 13206(a)(21), substituted period for semicolon at end.
+Subsecs. (a)(5), (b). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+1999—Subsecs. (a)(5), (b). Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+1991—Subsec. (a). Pub. L. 102–204, § 5(g)(1)(A), in</akn:p></akn:content><akn:subsection eId="subsec_376_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The required payment of the international fee and the handling fee, which amounts are specified in the Regulations, shall be paid in United States currency. The Patent and Trademark Office shall charge a national fee as provided in section 41(a), and may also charge the following fees:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_376_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The amounts of fees specified in subsection (a) of this section, except the international fee and the handling fee, shall be prescribed by the Director. He may refund any sum paid by mistake or in excess of the fees so specified, or if required under the treaty and the Regulations. The Director may also refund any part of the search fee, the national fee, the preliminary examination fee, and any additional fees, where he determines such refund to be warranted.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

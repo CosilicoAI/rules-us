@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/921" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/921/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/921/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_921"><akn:num>921</akn:num><akn:heading>Art. 121. Larceny and wrongful appropriation</akn:heading><akn:content><akn:p>§ 921. Art. 121. Larceny and wrongful appropriation(a) Any person subject to this chapter who wrongfully takes, obtains, or withholds, by any means, from the possession of the owner or of any other person any money, personal property, or article of value of any kind—(1) with intent permanently to deprive or defraud another person of the use and benefit of property or to appropriate it to his own use or the use of any person other than the owner, steals that property and is guilty of larceny; or
+
+(2) with intent temporarily to deprive or defraud another person of the use and benefit of property or to appropriate it to his own use or the use of any person other than the owner, is guilty of wrongful appropriation.
+
+
+(b) Any person found guilty of larceny or wrongful appropriation shall be punished as a court-martial may direct.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 73.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+921(a)921(b)50:715(a).50:715(b).May 5, 1950, ch. 169, § 1 (Art. 121), 64 Stat. 140.
+
+
+In subsection (a), the words “whatever” and “true” are omitted as surplusage. The word “it” is substituted for the words “the same” in clauses (1) and (2).</akn:p></akn:content><akn:subsection eId="subsec_921_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Any person subject to this chapter who wrongfully takes, obtains, or withholds, by any means, from the possession of the owner or of any other person any money, personal property, or article of value of any kind—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_921_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Any person found guilty of larceny or wrongful appropriation shall be punished as a court-martial may direct.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

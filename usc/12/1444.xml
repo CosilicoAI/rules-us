@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/1444" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/1444/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/1444/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1444"><akn:num>1444</akn:num><akn:heading>Eligibility to membership in banks</akn:heading><akn:content><akn:p>§ 1444. Eligibility to membership in banks(a) Any organization organized under the laws of any State and subject to inspection and regulation under the banking or similar laws of such State shall be eligible to become a member under this chapter if—(1) it is organized solely for the purpose of supplying credit to its members;
+
+(2) its membership (A) is confined exclusively to building and loan associations, savings and loan associations, cooperative banks, and homestead associations; or (B) is confined exclusively to savings banks; and
+
+(3) of the institutions to which its membership is confined which are organized within the State, its membership includes a majority of such institutions.
+
+
+(b) In all respects, but subject to such additional rules and regulations as the Director may provide, any such organization shall be a member for the purposes of this chapter.
+
+(July 22, 1932, ch. 522, § 24, 47 Stat. 739; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
+
+Editorial Notes
+Amendments2008—Subsec. (b). Pub. L. 110–289 substituted “the Director” for “the Board”.
+1989—Subsec. (b). Pub. L. 101–73 substituted “Board” for “board”.</akn:p></akn:content><akn:subsection eId="subsec_1444_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Any organization organized under the laws of any State and subject to inspection and regulation under the banking or similar laws of such State shall be eligible to become a member under this chapter if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1444_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In all respects, but subject to such additional rules and regulations as the Director may provide, any such organization shall be a member for the purposes of this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

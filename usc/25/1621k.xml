@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/1621k" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/1621k/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/1621k/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1621k"><akn:num>1621k</akn:num><akn:heading>Coverage of screening mammography</akn:heading><akn:content><akn:p>§ 1621k. Coverage of screening mammography
+The Secretary, through the Service, shall provide for screening mammography (as defined in section 1861(jj) of the Social Security Act [42 U.S.C. 1395x(jj)]) for Indian and urban Indian women 35 years of age or older at a frequency, determined by the Secretary (in consultation with the Director of the National Cancer Institute), appropriate to such women, and under such terms and conditions as are consistent with standards established by the Secretary to assure the safety and accuracy of screening mammography under part B of title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] and other cancer screenings.
+(Pub. L. 94–437, title II, § 212, as added Pub. L. 102–573, title II, § 207(a), Oct. 29, 1992, 106 Stat. 4550; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+Editorial Notes
+
+References in TextThe Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Codification
+Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+Amendments2010—Pub. L. 111–148 inserted “and other cancer screenings” before period at end.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

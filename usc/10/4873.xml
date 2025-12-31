@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/4873" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/4873/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/4873/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4873"><akn:num>4873</akn:num><akn:heading>Additional requirements pertaining to printed circuit boards</akn:heading><akn:content><akn:p>§ 4873. Additional requirements pertaining to printed circuit boards(a) In General.—(1) Beginning on the date determined under paragraph (3), the Secretary of Defense may not acquire a covered printed circuit board from a covered nation.
+
+(2) Paragraph (1) shall not apply with respect to any acquisition of supplies or services below the micro-purchase threshold under section 3573 of this title.
+
+(3) Paragraph (1) shall take effect on January 1, 2027.
+
+
+(b) Waiver.—(1) The Secretary may waive the prohibition under subsection (a) if the Secretary determines in writing that—(A) there are no significant national security concerns regarding counterfeiting, quality, or unauthorized access created by such waiver;
+
+(B) the waiver is required to support national security; and
+
+(C) a covered printed circuit board of satisfactory quality and sufficient quantity, in the required form, cannot be procured as and when needed from nations other than a covered nation at reasonable cost, excluding comparisons with non-market economies.
+
+
+(2) Not later than 10 days after the Secretary provides a waiver under paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notice setting forth the reasoning for the waiver, together with a copy of the waiver itself.
+
+
+(c) Definitions.—In this section:(1) Covered nation.—The term “covered nation” means—(A) the Democratic People’s Republic of North Korea;
+
+(B) the People’s Republic of China;
+
+(C) the Russian Federation; and
+
+(D) the Islamic Republic of Iran.
+
+
+(2) Covered printed circuit board.—The term “covered printed circuit board” means any specified type of partially manufactured or complete bare printed circuit board or fully or partially assembled printed circuit board that—(A) performs a mission critical function in any product or service that is not a commercial product or commercial service; or
+
+(B) is a component of—(i) a def</akn:p></akn:content><akn:subsection eId="subsec_4873_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4873_b"><akn:num>(b)</akn:num><akn:heading>Waiver.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4873_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4873_d"><akn:num>(d)</akn:num><akn:heading>Rulemaking.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4873_e"><akn:num>(e)</akn:num><akn:heading>Applicability.—</akn:heading><akn:content><akn:p>(e) This section shall apply only with respect to contracts entered into after the issuance of a final rule implementing this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4873_f"><akn:num>(f)</akn:num><akn:heading>Rule of Construction.—</akn:heading><akn:content><akn:p>(f) Nothing in this section shall be construed to prohibit the Department of Defense from entering into a contract with an entity that connects to the facilities of a third party, for the purposes of backhaul, roaming, or interconnection arrangements, on the basis of the noncompliance by the third party with the provisions of this section or use of equipment or services that do not route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

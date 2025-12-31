@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/1852" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/1852/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/1852/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1852"><akn:num>1852</akn:num><akn:heading>Concentration limits on large financial firms</akn:heading><akn:content><akn:p>§ 1852. Concentration limits on large financial firms(a) DefinitionsIn this section—(1) the term “Council” means the Financial Stability Oversight Council;
+
+(2) the term “financial company” means—(A) an insured depository institution;
+
+(B) a bank holding company;
+
+(C) a savings and loan holding company;
+
+(D) a company that controls an insured depository institution;
+
+(E) a nonbank financial company supervised by the Board under title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act [12 U.S.C. 5311 et seq.]; and
+
+(F) a foreign bank or company that is treated as a bank holding company for purposes of this chapter; and
+
+
+(3) the term “liabilities” means—(A) with respect to a United States financial company—(i) the total risk-weighted assets of the financial company, as determined under the risk-based capital rules applicable to bank holding companies, as adjusted to reflect exposures that are deducted from regulatory capital; less
+
+(ii) the total regulatory capital of the financial company under the risk-based capital rules applicable to bank holding companies;
+
+
+(B) with respect to a foreign-based financial company—(i) the total risk-weighted assets of the United States operations of the financial company, as determined under the applicable risk-based capital rules, as adjusted to reflect exposures that are deducted from regulatory capital; less
+
+(ii) the total regulatory capital of the United States operations of the financial company, as determined under the applicable risk-based capital rules; and
+
+
+(C) with respect to an insurance company or other nonbank financial company supervised by the Board, such assets of the company as the Board shall specify by rule, in order to provide for consistent and equitable treatment of such companies.
+
+
+
+(b) Concentration limitSubject to the recommendations by the Council under subsection (e), a financial company may not merge or consolidate with, acquire all or substantially all of the assets of, or otherwise a</akn:p></akn:content><akn:subsection eId="subsec_1852_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1852_b"><akn:num>(b)</akn:num><akn:heading>Concentration limit</akn:heading><akn:content><akn:p>(b) Concentration limit Subject to the recommendations by the Council under subsection (e), a financial company may not merge or consolidate with, acquire all or substantially all of the assets of, or otherwise acquire control of, another company, if the total consolidated liabilities of the acquiring financial company upon consummation of the transaction would exceed 10 percent of the aggregate consolidated liabilities of all financial companies at the end of the calendar year preceding the transaction.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1852_c"><akn:num>(c)</akn:num><akn:heading>Exception to concentration limit</akn:heading><akn:content><akn:p>(c) Exception to concentration limit With the prior written consent of the Board, the concentration limit under subsection (b) shall not apply to an acquisition—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1852_d"><akn:num>(d)</akn:num><akn:heading>Rulemaking and guidance</akn:heading><akn:content><akn:p>(d) Rulemaking and guidance The Board shall issue regulations implementing this section in accordance with the recommendations of the Council under subsection (e), including the definition of terms, as necessary. The Board may issue interpretations or guidance regarding the application of this section to an individual financial company or to financial companies in general.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1852_e"><akn:num>(e)</akn:num><akn:heading>Council study and rulemaking</akn:heading><akn:content><akn:p>(e) Council study and rulemaking</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

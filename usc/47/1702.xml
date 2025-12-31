@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/1702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/1702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/1702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1702"><akn:num>1702</akn:num><akn:heading>Grants for broadband deployment</akn:heading><akn:content><akn:p>§ 1702. Grants for broadband deployment(a) Definitions(1) Areas, locations, and institutions lacking broadband accessIn this section:(A) Unserved locationThe term “unserved location” means a broadband-serviceable location, as determined in accordance with the broadband DATA maps, that—(i) has no access to broadband service; or
+
+(ii) lacks access to reliable broadband service offered with—(I) a speed of not less than—(aa) 25 megabits per second for downloads; and
+
+(bb) 3 megabits per second for uploads; and
+
+
+(II) a latency sufficient to support real-time, interactive applications.
+
+
+
+(B) Unserved service projectThe term “unserved service project” means a project in which not less than 80 percent of broadband-serviceable locations served by the project are unserved locations.
+
+
+(C) Underserved locationThe term “underserved location” means a location—(i) that is not an unserved location; and
+
+(ii) as determined in accordance with the broadband DATA maps, lacks access to reliable broadband service offered with—(I) a speed of not less than—(aa) 100 megabits per second for downloads; and
+
+(bb) 20 megabits per second for uploads; and
+
+
+(II) a latency sufficient to support real-time, interactive applications.
+
+
+
+(D) Underserved service projectThe term “underserved service project” means a project in which not less than 80 percent of broadband-serviceable locations served by the project are unserved locations or underserved locations.
+
+
+(E) Eligible community anchor institutionThe term “eligible community anchor institution” means a community anchor institution that lacks access to gigabit-level broadband service.
+
+
+
+(2) Other definitionsIn this section:(A) Assistant SecretaryThe term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.
+
+
+(B) Broadband; broadband serviceThe term “broadband” or “broadband service” has the meaning given the term “broadband internet access service” in section 8.1(b) of title 47, Code of Federal Re</akn:p></akn:content><akn:subsection eId="subsec_1702_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_b"><akn:num>(b)</akn:num><akn:heading>Broadband Equity, Access, and Deployment Program</akn:heading><akn:content><akn:p>(b) Broadband Equity, Access, and Deployment Program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_c"><akn:num>(c)</akn:num><akn:heading>Allocation</akn:heading><akn:content><akn:p>(c) Allocation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_d"><akn:num>(d)</akn:num><akn:heading>Administrative expenses</akn:heading><akn:content><akn:p>(d) Administrative expenses</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_e"><akn:num>(e)</akn:num><akn:heading>Implementation</akn:heading><akn:content><akn:p>(e) Implementation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_f"><akn:num>(f)</akn:num><akn:heading>Use of funds</akn:heading><akn:content><akn:p>(f) Use of funds An eligible entity may use grant funds received under this section to competitively award subgrants for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_g"><akn:num>(g)</akn:num><akn:heading>General Program requirements</akn:heading><akn:content><akn:p>(g) General Program requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_h"><akn:num>(h)</akn:num><akn:heading>Broadband network deployment</akn:heading><akn:content><akn:p>(h) Broadband network deployment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_i"><akn:num>(i)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(i) Regulations The Assistant Secretary may issue such regulations or other guidance, forms, instructions, and publications as may be necessary or appropriate to carry out the programs, projects, or activities authorized under this section, including to ensure that those programs, projects, or activities are completed in a timely and effective manner.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1702_j"><akn:num>(j)</akn:num><akn:heading>Reporting</akn:heading><akn:content><akn:p>(j) Reporting</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

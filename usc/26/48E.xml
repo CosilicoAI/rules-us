@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/48E" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/48E/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/48E/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_48E"><akn:num>48E</akn:num><akn:heading>Clean electricity investment credit</akn:heading><akn:content><akn:p>§ 48E. Clean electricity investment credit(a) Investment credit for qualified property(1) In generalFor purposes of section 46, the clean electricity investment credit for any taxable year is an amount equal to the applicable percentage of the qualified investment for such taxable year with respect to—(A) any qualified facility, and
+
+(B) any energy storage technology.
+
+
+(2) Applicable percentage(A) Qualified facilitiesSubject to paragraph (3)—(i) Base rateIn the case of any qualified facility which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.
+
+
+(ii) Alternative rateIn the case of any qualified facility—(I) with a maximum net output of less than 1 megawatt (as measured in alternating current),
+
+(II) the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or
+
+(III) which—(aa) satisfies the requirements of subsection (d)(3), and
+
+(bb) with respect to the construction of such facility, satisfies the requirements of subsection (d)(4),
+
+
+
+
+ the applicable percentage shall be 30 percent.
+
+(B) Energy storage technologySubject to paragraph (3)—(i) Base rateIn the case of any energy storage technology which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.
+
+
+(ii) Alternative rateIn the case of any energy storage technology—(I) with a capacity of less than 1 megawatt,
+
+(II) the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or
+
+(III) which—(aa) satisfies the requirements of subsection (d)(3), and
+
+(bb) with respect to the construction of such proper</akn:p></akn:content><akn:subsection eId="subsec_48E_a"><akn:num>(a)</akn:num><akn:heading>Investment credit for qualified property</akn:heading><akn:content><akn:p>(a) Investment credit for qualified property</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_b"><akn:num>(b)</akn:num><akn:heading>Qualified investment with respect to a qualified facility</akn:heading><akn:content><akn:p>(b) Qualified investment with respect to a qualified facility</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_c"><akn:num>(c)</akn:num><akn:heading>Qualified investment with respect to energy storage technology</akn:heading><akn:content><akn:p>(c) Qualified investment with respect to energy storage technology</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_d"><akn:num>(d)</akn:num><akn:heading>Special rules</akn:heading><akn:content><akn:p>(d) Special rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_e"><akn:num>(e)</akn:num><akn:heading>Credit phase-out</akn:heading><akn:content><akn:p>(e) Credit phase-out</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_f"><akn:num>(f)</akn:num><akn:heading>Greenhouse gas</akn:heading><akn:content><akn:p>(f) Greenhouse gas In this section, the term “greenhouse gas” has the same meaning given such term under section 45Y(e)(2).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_g"><akn:num>(g)</akn:num><akn:heading>Recapture of credit</akn:heading><akn:content><akn:p>(g) Recapture of credit For purposes of section 50, if the Secretary determines that the greenhouse gas emissions rate for a qualified facility is greater than 10 grams of CO2e per KWh, any property for which a credit was allowed under this section with respect to such facility shall cease to be investment credit property in the taxable year in which the determination is made.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_h"><akn:num>(h)</akn:num><akn:heading>Special rules for certain facilities placed in service in connection with low-income communities</akn:heading><akn:content><akn:p>(h) Special rules for certain facilities placed in service in connection with low-income communities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_i"><akn:num>(i)</akn:num><akn:heading>Denial of credit for expenditures for wind and solar leasing arrangements</akn:heading><akn:content><akn:p>(i) Denial of credit for expenditures for wind and solar leasing arrangements No credit shall be determined under this section for any qualified investment during the taxable year with respect to property described in paragraph (1) or (4) of section 25D(d) (as applied by substituting “lessee” for “taxpayer”) if the taxpayer rents or leases such property to a third party during such taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_48E_j"><akn:num>(j)</akn:num><akn:heading>Application to qualified fuel cell property</akn:heading><akn:content><akn:p>(j) Application to qualified fuel cell property For purposes of this section, in the case of any qualified fuel cell property (as defined in section 48(c)(1), as applied without regard to subparagraph (E) thereof)—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

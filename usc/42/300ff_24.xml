@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300ff–24" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300ff–24/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300ff–24/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300ff_24"><akn:num>300ff–24</akn:num><akn:heading>Grants for home- and community-based care</akn:heading><akn:content><akn:p>§ 300ff–24. Grants for home- and community-based care(a) UsesA State may use amounts provided under a grant awarded under section 300ff–21 of this title to make grants under section 300ff–22(b)(3)(J) of this title to entities to—(1) provide home- and community-based health services for individuals with HIV/AIDS pursuant to written plans of care prepared by a case management team, that shall include appropriate health care professionals, in such State for providing such services to such individuals;
+
+(2) provide outreach services to individuals with HIV/AIDS, including those individuals in rural areas; and
+
+(3) provide for the coordination of the provision of services under this section with the provision of HIV-related health services, including specialty care and vaccinations for hepatitis co-infection, provided by public and private entities.
+
+
+(b) PriorityIn awarding grants under subsection (a), a State shall give priority to entities that provide assurances to the State that—(1) such entities will participate in HIV care consortia if such consortia exist within the State; and
+
+(2) such entities will utilize amounts provided under such grants for the provision of home- and community-based services to low-income individuals with HIV/AIDS.
+
+
+(c) “Home- and community-based health services” definedAs used in section 300ff–21 of this title, the term “home- and community-based health services”—(1) means, with respect to an individual with HIV/AIDS, skilled health services furnished to the individual in the individual’s home pursuant to a written plan of care established by a case management team, that shall include appropriate health care professionals, for the provision of such services and items described in paragraph (2);
+
+(2) includes—(A) durable medical equipment;
+
+(B) home health aide services and personal care services furnished in the home of the individual;
+
+(C) day treatment or other partial hospitalization services;
+
+(D) home intravenous and aerosolized drug</akn:p></akn:content><akn:subsection eId="subsec_300ff_24_a"><akn:num>(a)</akn:num><akn:heading>Uses</akn:heading><akn:content><akn:p>(a) Uses A State may use amounts provided under a grant awarded under section 300ff–21 of this title to make grants under section 300ff–22(b)(3)(J) of this title to entities to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_24_b"><akn:num>(b)</akn:num><akn:heading>Priority</akn:heading><akn:content><akn:p>(b) Priority In awarding grants under subsection (a), a State shall give priority to entities that provide assurances to the State that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_24_c"><akn:num>(c)</akn:num><akn:heading>“Home- and community-based health services” defined</akn:heading><akn:content><akn:p>(c) “Home- and community-based health services” defined As used in section 300ff–21 of this title, the term “home- and community-based health services”—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

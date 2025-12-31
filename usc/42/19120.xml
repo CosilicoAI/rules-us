@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/19120" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/19120/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/19120/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_19120"><akn:num>19120</akn:num><akn:heading>Evaluation</akn:heading><akn:content><akn:p>§ 19120. Evaluation(a) In generalAfter the Directorate has been in operation for 6 years, the Director shall enter into an agreement with the National Academies to provide an evaluation of how well the Directorate is achieving the purposes identified in section 19102 of this title.
+
+
+(b) InclusionsThe evaluation shall include—(1) an assessment of the impact of Directorate activities on the Foundation’s primary science mission;
+
+(2) an assessment of the Directorate’s impact on the challenges and key technology focus areas under section 19107 of this title;
+
+(3) an assessment of efforts to ensure coordination between the Directorate and other Federal agencies, and with external entities;
+
+(4) a description of lessons learned from operation of the Directorate; and
+
+(5) recommended funding levels for the Directorate;
+
+
+(c) AvailabilityOn completion of the evaluation, the evaluation shall be made available to Congress and the public.
+
+
+(Pub. L. 117–167, div. B, title III, § 10399A, Aug. 9, 2022, 136 Stat. 1598.)</akn:p></akn:content><akn:subsection eId="subsec_19120_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general After the Directorate has been in operation for 6 years, the Director shall enter into an agreement with the National Academies to provide an evaluation of how well the Directorate is achieving the purposes identified in section 19102 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19120_b"><akn:num>(b)</akn:num><akn:heading>Inclusions</akn:heading><akn:content><akn:p>(b) Inclusions The evaluation shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19120_c"><akn:num>(c)</akn:num><akn:heading>Availability</akn:heading><akn:content><akn:p>(c) Availability On completion of the evaluation, the evaluation shall be made available to Congress and the public.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

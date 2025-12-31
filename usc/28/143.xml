@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/143" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/143/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/143/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_143"><akn:num>143</akn:num><akn:heading>Vacant judgeship as affecting proceedings</akn:heading><akn:content><akn:p>§ 143. Vacant judgeship as affecting proceedings
+When the office of a district judge becomes vacant, all pending process, pleadings and proceedings shall, when necessary, be continued by the clerk until a judge is appointed or designated to hold such court.
+(June 25, 1948, ch. 646, 62 Stat. 898.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 26 (Mar. 3, 1911, ch. 231, § 22, 36 Stat. 1090).
+The last clause of section 26 of title 28, U.S.C., 1940, ed., prescribing the powers of a designated judge was omitted as covered by section 296 of this title.
+Minor changes were made in phraseology.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

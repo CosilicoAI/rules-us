@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/230i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/230i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/230i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_230i"><akn:num>230i</akn:num><akn:heading>Report to Congressional committees</akn:heading><akn:content><akn:p>§ 230i. Report to Congressional committees
+By no later than the end of the first full fiscal year following November 10, 1978, the Secretary shall submit to the Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, a comprehensive report with recommendations as to sites within the Mississippi River Delta Region which constitute nationally significant examples of natural resources within that region.
+(Pub. L. 95–625, title IX, § 910, Nov. 10, 1978, 92 Stat. 3538.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+
+
+“Secretary” Defined
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

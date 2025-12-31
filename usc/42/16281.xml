@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16281" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16281/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16281/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16281"><akn:num>16281</akn:num><akn:heading>Advanced nuclear fuel availability</akn:heading><akn:content><akn:p>§ 16281. Advanced nuclear fuel availability(a) Program(1) EstablishmentThe Secretary shall establish and carry out, through the Office of Nuclear Energy, a program to support the availability of HA–LEU for civilian domestic research, development, demonstration, and commercial use.
+
+
+(2) Program elementsIn carrying out the program under paragraph (1), the Secretary—(A) shall develop, in consultation with the Commission, criticality benchmark data to assist the Commission in—(i) the licensing and regulation of special nuclear material fuel fabrication and enrichment facilities under part 70 of title 10, Code of Federal Regulations; and
+
+(ii) certification of transportation packages under part 71 of title 10, Code of Federal Regulations;
+
+
+(B) shall conduct research and development, and provide financial assistance to assist commercial entities, to design and license transportation packages for HA–LEU, including canisters for metal, gas, and other HA–LEU compositions;
+
+(C) shall, to the extent practicable—(i) by January 1, 2024, support commercial entity submission of such transportation package designs to the Commission for certification by the Commission under part 71 of title 10, Code of Federal Regulations; and
+
+(ii) encourage the Commission to have such transportation package designs so certified by the Commission within 24 months after receipt of an application;
+
+
+(D) shall consider options for acquiring or providing HA–LEU from a stockpile of uranium owned by the Department, or using enrichment technology, to make available to members of the consortium established pursuant to subparagraph (F) for commercial use or demonstration projects, taking into account cost and amount of time required, and prioritizing methods that would produce usable HA–LEU the quickest, including options for acquiring or providing HA–LEU—(i) that—(I) directly meets the needs of an end user; and
+
+(II) has been previously used or fabricated for another purpose;
+
+
+(ii) that meets the needs </akn:p></akn:content><akn:subsection eId="subsec_16281_a"><akn:num>(a)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(a) Program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16281_b"><akn:num>(b)</akn:num><akn:heading>Reports to Congress</akn:heading><akn:content><akn:p>(b) Reports to Congress</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16281_c"><akn:num>(c)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(c) Authorization of appropriations There are authorized to be appropriated to carry out research, development, demonstration, and transportation activities in this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16281_d"><akn:num>(d)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(d) Definitions In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

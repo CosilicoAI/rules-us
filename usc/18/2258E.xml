@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/2258E" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/2258E/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/2258E/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2258E"><akn:num>2258E</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 2258E. Definitions
+In sections 2258A through 2258E—(1) the terms “attorney for the government” and “State” have the meanings given those terms in rule 1 of the Federal Rules of Criminal Procedure;
+
+(2) the term “electronic communication service” has the meaning given that term in section 2510;
+
+(3) the term “electronic mail address” has the meaning given that term in section 3 of the CAN–SPAM Act of 2003 (15 U.S.C. 7702);
+
+(4) the term “Internet” has the meaning given that term in section 1101 of the Internet Tax Freedom Act (47 U.S.C. 151 note);
+
+(5) the term “remote computing service” has the meaning given that term in section 2711;
+
+(6) the term “provider” means an electronic communication service provider or remote computing service;
+
+(7) the term “NCMEC” means the National Center for Missing &amp; Exploited Children; and
+
+(8) the term “website” means any collection of material placed in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.
+
+(Added Pub. L. 110–401, title V, § 501(a), Oct. 13, 2008, 122 Stat. 4250; amended Pub. L. 115–395, § 6, Dec. 21, 2018, 132 Stat. 5294.)
+
+Editorial Notes
+
+References in TextThe Federal Rules of Criminal Procedure, referred to in par. (1), are set out in the Appendix to this title.
+Section 1101 of the Internet Tax Freedom Act, referred to in par. (4), is section 1101 of title XI of div. C of Pub. L. 105–277, which is set out in a note under section 151 of Title 47, Telecommunications.
+
+Amendments2018—Pub. L. 115–395, § 6(1), substituted “2258E” for “2258D” in introductory provisions.
+Pars. (6) to (8). Pub. L. 115–395, § 6(2)–(4), added pars. (6) and (7) and redesignated former par. (6) as (8).</akn:p></akn:content><akn:subsection eId="subsec_2258E_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the terms “attorney for the government” and “State” have the meanings given those terms in rule 1 of the Federal Rules of Criminal Procedure;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2258E_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “electronic communication service” has the meaning given that term in section 2510;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2258E_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “electronic mail address” has the meaning given that term in section 3 of the CAN–SPAM Act of 2003 (15 U.S.C. 7702);</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2258E_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the term “Internet” has the meaning given that term in section 1101 of the Internet Tax Freedom Act (47 U.S.C. 151 note);</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2258E_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) the term “remote computing service” has the meaning given that term in section 2711;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2258E_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) the term “provider” means an electronic communication service provider or remote computing service;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2258E_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) the term “NCMEC” means the National Center for Missing &amp; Exploited Children; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2258E_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) the term “website” means any collection of material placed in a computer server-based file archive so that it is publicly accessible, over the Internet, using hypertext transfer protocol or any successor protocol.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

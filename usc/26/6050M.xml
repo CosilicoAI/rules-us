@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6050M" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6050M/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6050M/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6050M"><akn:num>6050M</akn:num><akn:heading>Returns relating to persons receiving contracts from Federal executive agencies</akn:heading><akn:content><akn:p>§ 6050M. Returns relating to persons receiving contracts from Federal executive agencies(a) Requirement of reportingThe head of every Federal executive agency which enters into any contract shall make a return (at such time and in such form as the Secretary may by regulations prescribe) setting forth—(1) the name, address, and TIN of each person with which such agency entered into a contract during the calendar year, and
+
+(2) such other information as the Secretary may require.
+
+
+(b) Federal executive agencyFor purposes of this section, the term “Federal executive agency” means—(1) any Executive agency (as defined in section 105 of title 5, United States Code) other than the Government Accountability Office,
+
+(2) any military department (as defined in section 102 of such title), and
+
+(3) the United States Postal Service and the Postal Regulatory Commission.
+
+
+(c) Authority to extend reporting to licenses and subcontractsTo the extent provided in regulations, this section also shall apply to—(1) licenses granted by Federal executive agencies, and
+
+(2) subcontracts under contracts to which subsection (a) applies.
+
+
+(d) Authority to prescribe minimum amountsThis section shall not apply to contracts or licenses in any class which are below a minimum amount or value which may be prescribed by the Secretary by regulations for such class.
+
+
+(e) Exception for certain classified or confidential contracts(1) In generalExcept as provided in paragraph (2), this section shall not apply in the case of a contract described in paragraph (3).
+
+
+(2) Reporting requirementEach Federal executive agency which has entered into a contract described in paragraph (3) shall, upon a request of the Secretary which identifies a particular person, acknowledge whether such person has entered into such a contract with such agency and, if so, provide to the Secretary—(A) the information required under this section with respect to such person, and
+
+(B) such other information with respect to such pers</akn:p></akn:content><akn:subsection eId="subsec_6050M_a"><akn:num>(a)</akn:num><akn:heading>Requirement of reporting</akn:heading><akn:content><akn:p>(a) Requirement of reporting The head of every Federal executive agency which enters into any contract shall make a return (at such time and in such form as the Secretary may by regulations prescribe) setting forth—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6050M_b"><akn:num>(b)</akn:num><akn:heading>Federal executive agency</akn:heading><akn:content><akn:p>(b) Federal executive agency For purposes of this section, the term “Federal executive agency” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6050M_c"><akn:num>(c)</akn:num><akn:heading>Authority to extend reporting to licenses and subcontracts</akn:heading><akn:content><akn:p>(c) Authority to extend reporting to licenses and subcontracts To the extent provided in regulations, this section also shall apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6050M_d"><akn:num>(d)</akn:num><akn:heading>Authority to prescribe minimum amounts</akn:heading><akn:content><akn:p>(d) Authority to prescribe minimum amounts This section shall not apply to contracts or licenses in any class which are below a minimum amount or value which may be prescribed by the Secretary by regulations for such class.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6050M_e"><akn:num>(e)</akn:num><akn:heading>Exception for certain classified or confidential contracts</akn:heading><akn:content><akn:p>(e) Exception for certain classified or confidential contracts</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

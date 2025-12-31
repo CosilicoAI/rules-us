@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/6501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/6501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/6501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6501"><akn:num>6501</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6501. Definitions
+In this chapter:(1) ChildThe term “child” means an individual under the age of 13.
+
+
+(2) OperatorThe term “operator”—(A) means any person who operates a website located on the Internet or an online service and who collects or maintains personal information from or about the users of or visitors to such website or online service, or on whose behalf such information is collected or maintained, where such website or online service is operated for commercial purposes, including any person offering products or services for sale through that website or online service, involving commerce—(i) among the several States or with 1 or more foreign nations;
+
+(ii) in any territory of the United States or in the District of Columbia, or between any such territory and—(I) another such territory; or
+
+(II) any State or foreign nation; or
+
+
+(iii) between the District of Columbia and any State, territory, or foreign nation; but
+
+
+(B) does not include any nonprofit entity that would otherwise be exempt from coverage under section 45 of this title.
+
+
+(3) CommissionThe term “Commission” means the Federal Trade Commission.
+
+
+(4) DisclosureThe term “disclosure” means, with respect to personal information—(A) the release of personal information collected from a child in identifiable form by an operator for any purpose, except where such information is provided to a person other than the operator who provides support for the internal operations of the website and does not disclose or use that information for any other purpose; and
+
+(B) making personal information collected from a child by a website or online service directed to children or with actual knowledge that such information was collected from a child, publicly available in identifiable form, by any means including by a public posting, through the Internet, or through—(i) a home page of a website;
+
+(ii) a pen pal service;
+
+(iii) an electronic mail service;
+
+(iv) a message board; or
+
+(v) a chat room.
+
+
+
+(5) Federal a</akn:p></akn:content><akn:subsection eId="subsec_6501_1"><akn:num>(1)</akn:num><akn:heading>Child</akn:heading><akn:content><akn:p>(1) Child The term “child” means an individual under the age of 13.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_2"><akn:num>(2)</akn:num><akn:heading>Operator</akn:heading><akn:content><akn:p>(2) Operator The term “operator”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_3"><akn:num>(3)</akn:num><akn:heading>Commission</akn:heading><akn:content><akn:p>(3) Commission The term “Commission” means the Federal Trade Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_4"><akn:num>(4)</akn:num><akn:heading>Disclosure</akn:heading><akn:content><akn:p>(4) Disclosure The term “disclosure” means, with respect to personal information—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_5"><akn:num>(5)</akn:num><akn:heading>Federal agency</akn:heading><akn:content><akn:p>(5) Federal agency The term “Federal agency” means an agency, as that term is defined in section 551(1) of title 5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_6"><akn:num>(6)</akn:num><akn:heading>Internet</akn:heading><akn:content><akn:p>(6) Internet The term “Internet” means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_7"><akn:num>(7)</akn:num><akn:heading>Parent</akn:heading><akn:content><akn:p>(7) Parent The term “parent” includes a legal guardian.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_8"><akn:num>(8)</akn:num><akn:heading>Personal information</akn:heading><akn:content><akn:p>(8) Personal information The term “personal information” means individually identifiable information about an individual collected online, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_9"><akn:num>(9)</akn:num><akn:heading>Verifiable parental consent</akn:heading><akn:content><akn:p>(9) Verifiable parental consent The term “verifiable parental consent” means any reasonable effort (taking into consideration available technology), including a request for authorization for future collection, use, and disclosure described in the notice, to ensure that a parent of a child receives notice of the operator’s personal information collection, use, and disclosure practices, and authorizes the collection, use, and disclosure, as applicable, of personal information and the subsequent use of that information before that information is collected from that child.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_10"><akn:num>(10)</akn:num><akn:heading>Website or online service directed to children</akn:heading><akn:content><akn:p>(10) Website or online service directed to children</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

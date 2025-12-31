@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2278" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2278/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2278/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2278"><akn:num>2278</akn:num><akn:heading>Notification of foreign interference of national security space</akn:heading><akn:content><akn:p>§ 2278. Notification of foreign interference of national security space(a) Notice Required.—(1) Except as provided by paragraph (2), the Commander of the United States Space Command shall, with respect to each intentional attempt by a foreign actor to disrupt, degrade, or destroy a United States critical national security space capability, provide to the appropriate congressional committees—(A) not later than 48 hours after the Commander determines that there is reason to believe such attempt occurred, notice of such attempt; and
+
+(B) not later than 10 days after the date on which the Commander determines that there is reason to believe such attempt occurred, a notification described in subsection (b) with respect to such attempt.
+
+
+(2) With respect to intentional attempts by a foreign actor to disrupt, degrade, or destroy a United States critical national security space capability that are continuous or repetitive in nature, the Commander shall—(A) provide the notice and notification regarding the first attempt by such foreign actor in accordance with paragraph (1); and
+
+(B) during the period in which such foreign actor continues or repeats such attempts, provide to the appropriate congressional committees a consolidated monthly notice and notification of such attempts by not later than the tenth day of each month following the month in which the first notice under paragraph (1) was provided.
+
+
+
+(b) Notification Description.—A notification described in this subsection is a written notification that includes—(1) the name and a brief description of the national security space capability that was impacted by an attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability;
+
+(2) a description of such attempt, including the foreign actor, the date and time of such attempt, and any related capability outage and the mission impact of such outage; and
+
+(3) any other information the Commander considers relevant.
+
+
+(c) Definiti</akn:p></akn:content><akn:subsection eId="subsec_2278_a"><akn:num>(a)</akn:num><akn:heading>Notice Required.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2278_b"><akn:num>(b)</akn:num><akn:heading>Notification Description.—</akn:heading><akn:content><akn:p>(b) A notification described in this subsection is a written notification that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2278_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

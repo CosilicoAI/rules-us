@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4911" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4911/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4911/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4911"><akn:num>4911</akn:num><akn:heading>Tax on excess expenditures to influence legislation</akn:heading><akn:content><akn:p>§ 4911. Tax on excess expenditures to influence legislation(a) Tax imposed(1) In generalThere is hereby imposed on the excess lobbying expenditures of any organization to which this section applies a tax equal to 25 percent of the amount of the excess lobbying expenditures for the taxable year.
+
+
+(2) Organizations to which this section appliesThis section applies to any organization with respect to which an election under section 501(h) (relating to lobbying expenditures by public charities) is in effect for the taxable year.
+
+
+
+(b) Excess lobbying expendituresFor purposes of this section, the term “excess lobbying expenditures” means, for a taxable year, the greater of—(1) the amount by which the lobbying expenditures made by the organization during the taxable year exceed the lobbying nontaxable amount for such organization for such taxable year, or
+
+(2) the amount by which the grass roots expenditures made by the organization during the taxable year exceed the grass roots nontaxable amount for such organization for such taxable year.
+
+
+(c) DefinitionsFor purposes of this section—(1) Lobbying expendituresThe term “lobbying expenditures” means expenditures for the purpose of influencing legislation (as defined in subsection (d)).
+
+
+(2) Lobbying nontaxable amountThe lobbying nontaxable amount for any organization for any taxable year is the lesser of (A) $1,000,000 or (B) the amount determined under the following table:
+
+
+
+
+
+
+If the exempt purpose expenditures are—The lobbying nontaxable amount is—
+
+
+Not over $500,00020 percent of the exempt purpose expenditures.
+Over $500,000 but not over $1,000,000$100,000, plus 15 percent of the excess of the exempt purpose expenditures over $500,000.
+Over $1,000,000 but not over $1,500,000$175,000 plus 10 percent of the excess of the exempt purpose expenditures over $1,000,000.
+Over $1,500,000$225,000 plus 5 percent of the excess of the exempt purpose expenditures over $1,500,000.
+
+
+
+
+
+(3) Grass roots expendituresThe term “grass</akn:p></akn:content><akn:subsection eId="subsec_4911_a"><akn:num>(a)</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>(a) Tax imposed</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4911_b"><akn:num>(b)</akn:num><akn:heading>Excess lobbying expenditures</akn:heading><akn:content><akn:p>(b) Excess lobbying expenditures For purposes of this section, the term “excess lobbying expenditures” means, for a taxable year, the greater of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4911_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4911_d"><akn:num>(d)</akn:num><akn:heading>Influencing legislation</akn:heading><akn:content><akn:p>(d) Influencing legislation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4911_e"><akn:num>(e)</akn:num><akn:heading>Other definitions and special rules</akn:heading><akn:content><akn:p>(e) Other definitions and special rules For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4911_f"><akn:num>(f)</akn:num><akn:heading>Affiliated organizations</akn:heading><akn:content><akn:p>(f) Affiliated organizations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/5852" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/5852/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/5852/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5852"><akn:num>5852</akn:num><akn:heading>Agricultural Weather Office</akn:heading><akn:content><akn:p>§ 5852. Agricultural Weather Office(a) Establishment of Office and administration of system(1) Establishment requiredThe Secretary of Agriculture shall establish in the Department of Agriculture an Agricultural Weather Office to plan and administer the National Agricultural Weather Information System. The system shall be comprised of the office established under this section and the activities of the State agricultural weather information systems described in section 5854 of this title.
+
+
+(2) DirectorThe Secretary shall appoint a Director to manage the activities of the Agricultural Weather Office and to advise the Secretary on scientific and programmatic coordination for climate, weather, and remote sensing.
+
+
+
+(b) AuthorityThe Secretary, acting through the Office, may undertake the following activities to carry out this subchapter:(1) Enter into cooperative projects with the National Weather Service to—(A) support operational weather forecasting and observation useful in agriculture;
+
+(B) sponsor joint workshops to train agriculturalists about the optimum utilization of agricultural weather and climate data;
+
+(C) jointly develop improved computer models and computing capacity; and
+
+(D) enhance the quality and availability of weather and climate information needed by agriculturalists.
+
+
+(2) Obtain standardized weather observation data collected in near real time through State agricultural weather information systems.
+
+(3) Make, through the National Institute of Food and Agriculture, competitive grants under subsection (c) for research in atmospheric sciences and climatology.
+
+(4) Make grants to eligible States under section 5854 of this title to plan and administer State agricultural weather information systems.
+
+(5) Coordinate the activities of the Office with the weather and climate research activities of the National Institute of Food and Agriculture, the National Academy of Sciences, the National Science Foundation Atmospheric Services Program, and the National</akn:p></akn:content><akn:subsection eId="subsec_5852_a"><akn:num>(a)</akn:num><akn:heading>Establishment of Office and administration of system</akn:heading><akn:content><akn:p>(a) Establishment of Office and administration of system</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5852_b"><akn:num>(b)</akn:num><akn:heading>Authority</akn:heading><akn:content><akn:p>(b) Authority The Secretary, acting through the Office, may undertake the following activities to carry out this subchapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5852_c"><akn:num>(c)</akn:num><akn:heading>Competitive grants program</akn:heading><akn:content><akn:p>(c) Competitive grants program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5852_d"><akn:num>(d)</akn:num><akn:heading>Priority</akn:heading><akn:content><akn:p>(d) Priority In selecting among applications for grants under subsection (c), the Secretary shall give priority to proposals which emphasize—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

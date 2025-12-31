@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/70103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/70103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/70103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70103"><akn:num>70103</akn:num><akn:heading>Maritime transportation security plans</akn:heading><akn:content><akn:p>§ 70103. Maritime transportation security plans(a) National Maritime Transportation Security Plan.—(1) The Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
+
+(2) The National Maritime Transportation Security Plan shall provide for efficient, coordinated, and effective action to deter and minimize damage from a transportation security incident, and shall include the following:(A) Assignment of duties and responsibilities among Federal departments and agencies and coordination with State and local governmental agencies.
+
+(B) Identification of security resources.
+
+(C) Procedures and techniques to be employed in deterring a national transportation security incident.
+
+(D) Establishment of procedures for the coordination of activities of—(i) Coast Guard maritime security teams established under this chapter; and
+
+(ii) Federal Maritime Security Coordinators required under this chapter.
+
+
+(E) A system of surveillance and notice designed to safeguard against as well as ensure earliest possible notice of a transportation security incident and imminent threats of such a security incident to the appropriate State and Federal agencies.
+
+(F) Establishment of criteria and procedures to ensure immediate and effective Federal identification of a transportation security incident, or the substantial threat of such a security incident.
+
+(G) Designation of—(i) areas for which Area Maritime Transportation Security Plans are required to be prepared under subsection (b); and
+
+(ii) a Coast Guard official who shall be the Federal Maritime Security Coordinator for each such area.
+
+
+(H) A risk-based system for evaluating the potential for violations of security zones designated by the Secretary on the waters subject to the jurisdiction of the United States.
+
+(I) A recognition of certified systems of intermodal transportation.
+
+(J) A plan for ensuring that the flow of cargo through United States ports is </akn:p></akn:content><akn:subsection eId="subsec_70103_a"><akn:num>(a)</akn:num><akn:heading>National Maritime Transportation Security Plan.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70103_b"><akn:num>(b)</akn:num><akn:heading>Area Maritime Transportation Security Plans.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70103_c"><akn:num>(c)</akn:num><akn:heading>Vessel and Facility Security Plans.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70103_d"><akn:num>(d)</akn:num><akn:heading>Nondisclosure of Information.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70103_e"><akn:num>(e)</akn:num><akn:heading>Especially Hazardous Cargo.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70103_f"><akn:num>(f)</akn:num><akn:heading>Nondisclosure of Port Security Plans.—</akn:heading><akn:content><akn:p>(f) Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

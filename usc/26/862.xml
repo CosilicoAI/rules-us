@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/862" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/862/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/862/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_862"><akn:num>862</akn:num><akn:heading>Income from sources without the United States</akn:heading><akn:content><akn:p>§ 862. Income from sources without the United States(a) Gross income from sources without United StatesThe following items of gross income shall be treated as income from sources without the United States:(1) interest other than that derived from sources within the United States as provided in section 861(a)(1);
+
+(2) dividends other than those derived from sources within the United States as provided in section 861(a)(2);
+
+(3) compensation for labor or personal services performed without the United States;
+
+(4) rentals or royalties from property located without the United States or from any interest in such property, including rentals or royalties for the use of or for the privilege of using without the United States patents, copyrights, secret processes and formulas, good will, trade-marks, trade brands, franchises, and other like properties;
+
+(5) gains, profits, and income from the sale or exchange of real property located without the United States;
+
+(6) gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) within the United States and its sale or exchange without the United States;
+
+(7) underwriting income other than that derived from sources within the United States as provided in section 861(a)(7);
+
+(8) gains, profits, and income from the disposition of a United States real property interest (as defined in section 897(c)) when the real property is located in the Virgin Islands; and
+
+(9) amounts received, directly or indirectly, from a foreign person for the provision of a guarantee of indebtedness of such person other than amounts which are derived from sources within the United States as provided in section 861(a)(9).
+
+
+(b) Taxable income from sources without United StatesFrom the items of gross income specified in subsection (a) there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto, and a ratable part of any expenses, losses, or other deductio</akn:p></akn:content><akn:subsection eId="subsec_862_a"><akn:num>(a)</akn:num><akn:heading>Gross income from sources without United States</akn:heading><akn:content><akn:p>(a) Gross income from sources without United States The following items of gross income shall be treated as income from sources without the United States:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_862_b"><akn:num>(b)</akn:num><akn:heading>Taxable income from sources without United States</akn:heading><akn:content><akn:p>(b) Taxable income from sources without United States From the items of gross income specified in subsection (a) there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto, and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be treated in full as taxable income from sources without the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1635i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1635i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1635i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1635i"><akn:num>1635i</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1635i. Definitions
+In this part:(1) AffiliateThe term “affiliate”, with respect to a packer, means—(A) a person that directly or indirectly owns, controls, or holds with power to vote, 5 percent or more of the outstanding voting securities of the packer;
+
+(B) a person 5 percent or more of whose outstanding voting securities are directly or indirectly owned, controlled, or held with power to vote, by the packer; and
+
+(C) a person that directly or indirectly controls, or is controlled by or under common control with, the packer.
+
+
+(2) Applicable reporting periodThe term “applicable reporting period” means the period of time prescribed by the prior day report, the morning report, and the afternoon report, as required under section 1635j(c) of this title.
+
+
+(3) BarrowThe term “barrow” means a neutered male swine.
+
+
+(4) Base market hogThe term “base market hog” means a barrow or gilt for which no discounts are subtracted from and no premiums are added to the base price.
+
+
+(5) BoarThe term “boar” means a sexually-intact male swine.
+
+
+(6) Formula priceThe term “formula price” means a price determined by a mathematical formula under which the price established for a specified market serves as the basis for the formula.
+
+
+(7) GiltThe term “gilt” means a young female swine that has not produced a litter.
+
+
+(8) Hog classThe term “hog class” means, as applicable—(A) barrows or gilts;
+
+(B) sows; or
+
+(C) boars or stags.
+
+
+(9) Negotiated formula purchaseThe term “negotiated formula purchase” means a swine or pork market formula purchase under which—(A) the formula is determined by negotiation on a lot-by-lot basis; and
+
+(B) the swine are scheduled for delivery to the packer not later than 14 days after the date on which the formula is negotiated and swine are committed to the packer.
+
+
+(10) Noncarcass merit premiumThe term “noncarcass merit premium” means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than t</akn:p></akn:content><akn:subsection eId="subsec_1635i_1"><akn:num>(1)</akn:num><akn:heading>Affiliate</akn:heading><akn:content><akn:p>(1) Affiliate The term “affiliate”, with respect to a packer, means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_2"><akn:num>(2)</akn:num><akn:heading>Applicable reporting period</akn:heading><akn:content><akn:p>(2) Applicable reporting period The term “applicable reporting period” means the period of time prescribed by the prior day report, the morning report, and the afternoon report, as required under section 1635j(c) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_3"><akn:num>(3)</akn:num><akn:heading>Barrow</akn:heading><akn:content><akn:p>(3) Barrow The term “barrow” means a neutered male swine.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_4"><akn:num>(4)</akn:num><akn:heading>Base market hog</akn:heading><akn:content><akn:p>(4) Base market hog The term “base market hog” means a barrow or gilt for which no discounts are subtracted from and no premiums are added to the base price.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_5"><akn:num>(5)</akn:num><akn:heading>Boar</akn:heading><akn:content><akn:p>(5) Boar The term “boar” means a sexually-intact male swine.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_6"><akn:num>(6)</akn:num><akn:heading>Formula price</akn:heading><akn:content><akn:p>(6) Formula price The term “formula price” means a price determined by a mathematical formula under which the price established for a specified market serves as the basis for the formula.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_7"><akn:num>(7)</akn:num><akn:heading>Gilt</akn:heading><akn:content><akn:p>(7) Gilt The term “gilt” means a young female swine that has not produced a litter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_8"><akn:num>(8)</akn:num><akn:heading>Hog class</akn:heading><akn:content><akn:p>(8) Hog class The term “hog class” means, as applicable—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_9"><akn:num>(9)</akn:num><akn:heading>Negotiated formula purchase</akn:heading><akn:content><akn:p>(9) Negotiated formula purchase The term “negotiated formula purchase” means a swine or pork market formula purchase under which—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635i_10"><akn:num>(10)</akn:num><akn:heading>Noncarcass merit premium</akn:heading><akn:content><akn:p>(10) Noncarcass merit premium The term “noncarcass merit premium” means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

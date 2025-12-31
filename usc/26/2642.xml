@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2642" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2642/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2642/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2642"><akn:num>2642</akn:num><akn:heading>Inclusion ratio</akn:heading><akn:content><akn:p>§ 2642. Inclusion ratio(a) Inclusion ratio definedFor purposes of this chapter—(1) In generalExcept as otherwise provided in this section, the inclusion ratio with respect to any property transferred in a generation-skipping transfer shall be the excess (if any) of 1 over—(A) except as provided in subparagraph (B), the applicable fraction determined for the trust from which such transfer is made, or
+
+(B) in the case of a direct skip, the applicable fraction determined for such skip.
+
+
+(2) Applicable fractionFor purposes of paragraph (1), the applicable fraction is a fraction—(A) the numerator of which is the amount of the GST exemption allocated to the trust (or in the case of a direct skip, allocated to the property transferred in such skip), and
+
+(B) the denominator of which is—(i) the value of the property transferred to the trust (or involved in the direct skip), reduced by
+
+(ii) the sum of—(I) any Federal estate tax or State death tax actually recovered from the trust attributable to such property, and
+
+(II) any charitable deduction allowed under section 2055 or 2522 with respect to such property.
+
+
+
+
+(3) Severing of trusts(A) In generalIf a trust is severed in a qualified severance, the trusts resulting from such severance shall be treated as separate trusts thereafter for purposes of this chapter.
+
+
+(B) Qualified severanceFor purposes of subparagraph (A)—(i) In generalThe term “qualified severance” means the division of a single trust and the creation (by any means available under the governing instrument or under local law) of two or more trusts if—(I) the single trust was divided on a fractional basis, and
+
+(II) the terms of the new trusts, in the aggregate, provide for the same succession of interests of beneficiaries as are provided in the original trust.
+
+
+(ii) Trusts with inclusion ratio greater than zeroIf a trust has an inclusion ratio of greater than zero and less than 1, a severance is a qualified severance only if the single trust is divided into t</akn:p></akn:content><akn:subsection eId="subsec_2642_a"><akn:num>(a)</akn:num><akn:heading>Inclusion ratio defined</akn:heading><akn:content><akn:p>(a) Inclusion ratio defined For purposes of this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_b"><akn:num>(b)</akn:num><akn:heading>Valuation rules, etc.</akn:heading><akn:content><akn:p>(b) Valuation rules, etc. Except as provided in subsection (f)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_c"><akn:num>(c)</akn:num><akn:heading>Treatment of certain direct skips which are nontaxable gifts</akn:heading><akn:content><akn:p>(c) Treatment of certain direct skips which are nontaxable gifts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_d"><akn:num>(d)</akn:num><akn:heading>Special rules where more than 1 transfer made to trust</akn:heading><akn:content><akn:p>(d) Special rules where more than 1 transfer made to trust</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_e"><akn:num>(e)</akn:num><akn:heading>Special rules for charitable lead annuity trusts</akn:heading><akn:content><akn:p>(e) Special rules for charitable lead annuity trusts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_f"><akn:num>(f)</akn:num><akn:heading>Special rules for certain inter vivos transfers</akn:heading><akn:content><akn:p>(f) Special rules for certain inter vivos transfers Except as provided in regulations—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_g"><akn:num>(g)</akn:num><akn:heading>Relief provisions</akn:heading><akn:content><akn:p>(g) Relief provisions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

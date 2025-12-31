@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_506"><akn:num>506</akn:num><akn:heading>Office of Federal Procurement Policy</akn:heading><akn:content><akn:p>§ 506. Office of Federal Procurement Policy
+The Office of Federal Procurement Policy, established under section 1101(a) of title 41, is an office in the Office of Management and Budget.
+(Added Pub. L. 97–452, § 1(1)(A), Jan. 12, 1983, 96 Stat. 2467, § 504; renumbered § 506, Pub. L. 101–576, title II, § 202(a), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 111–350, § 5(h)(1), Jan. 4, 2011, 124 Stat. 3848.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+504(no source).
+
+
+The section is included to provide in subchapter I of chapter 5 of title 31 a complete list of the organizational units established by law that are in the Office of Management and Budget or are subject to the direction and supervision of the Director of the Office of Management and Budget.
+
+Editorial Notes
+Amendments2011—Pub. L. 111–350 substituted “section 1101(a) of title 41” for “section 5(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 404(a))”.
+1990—Pub. L. 101–576 renumbered section 504 of this title as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

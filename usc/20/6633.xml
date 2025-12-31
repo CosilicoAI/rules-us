@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/6633" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/6633/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/6633/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6633"><akn:num>6633</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>§ 6633. Reports(a) Activities summaryEach eligible entity receiving a grant under this subpart shall provide to the Secretary a summary of the activities assisted under the grant.
+
+
+(b) ReportThe Secretary shall provide to Congress an annual report on the implementation of the program carried out under this subpart, including—(1) information on eligible entities that received grant funds under this subpart, including—(A) information provided by eligible entities to the Secretary in the applications submitted under section 6632(c) of this title;
+
+(B) the summaries received under subsection (a); and
+
+(C) grant award amounts; and
+
+
+(2) student academic achievement and, as applicable, growth data from the schools participating in the programs supported under the grant.
+
+
+(c) Evaluation and technical assistance(1) Reservation of fundsOf the total amount reserved for this subpart for a fiscal year, the Secretary may reserve for such fiscal year not more than 1 percent for the cost of the evaluation under paragraph (2) and for technical assistance in carrying out this subpart.
+
+
+(2) EvaluationFrom amounts reserved under paragraph (1), the Secretary, acting through the Director of the Institute of Education Sciences, shall carry out an independent evaluation to measure the effectiveness of the program assisted under this subpart.
+
+
+(3) ContentsThe evaluation under paragraph (2) shall measure—(A) the effectiveness of the program in improving student academic achievement;
+
+(B) the satisfaction of the participating teachers, principals, or other school leaders; and
+
+(C) the extent to which the program assisted the eligible entities in recruiting and retaining high-quality teachers, principals, or other school leaders, especially in high-need subject areas.
+
+
+
+(Pub. L. 89–10, title II, § 2213, as added Pub. L. 114–95, title II, § 2002, Dec. 10, 2015, 129 Stat. 1935.)
+
+Editorial Notes
+Prior ProvisionsPrior sections 6633 and 6634 were repealed by Pub. L. 114–95, § 5, title II, § </akn:p></akn:content><akn:subsection eId="subsec_6633_a"><akn:num>(a)</akn:num><akn:heading>Activities summary</akn:heading><akn:content><akn:p>(a) Activities summary Each eligible entity receiving a grant under this subpart shall provide to the Secretary a summary of the activities assisted under the grant.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6633_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report The Secretary shall provide to Congress an annual report on the implementation of the program carried out under this subpart, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6633_c"><akn:num>(c)</akn:num><akn:heading>Evaluation and technical assistance</akn:heading><akn:content><akn:p>(c) Evaluation and technical assistance</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

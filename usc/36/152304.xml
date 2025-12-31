@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/152304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/152304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/152304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_152304"><akn:num>152304</akn:num><akn:heading>Governing body</akn:heading><akn:content><akn:p>§ 152304. Governing body(a) General.—(1) The board of directors is the governing body of the corporation. The board may be known as an Executive Committee.
+
+(2) The board shall consist of at least 10 individuals who shall be representative of members of the corporation or other individuals selected by the members of the corporation. The directors shall be elected by the members of the corporation annually or at another regular interval as provided in the bylaws of the corporation.
+
+
+(b) Officers.—The officers of the corporation are a chairman of the board, a president, one or more vice presidents, a secretary, a treasurer, and assistant officers the board designates. The officers shall perform the duties and have the powers provided in the bylaws and by the board.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1413.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+152304(a)36:667.Aug. 1, 1956, ch. 824, §§ 7, 8, 70 Stat. 796.
+152304(b)36:668. 
+
+
+In subsection (a)(1), the words “and referred to” are omitted as unnecessary.
+In subsection (a)(2), the words “at another regular interval as provided” are substituted for “at such other regular intervals as may be specified” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (b), the words “from time to time” are omitted as unnecessary.</akn:p></akn:content><akn:subsection eId="subsec_152304_a"><akn:num>(a)</akn:num><akn:heading>General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_152304_b"><akn:num>(b)</akn:num><akn:heading>Officers.—</akn:heading><akn:content><akn:p>(b) The officers of the corporation are a chairman of the board, a president, one or more vice presidents, a secretary, a treasurer, and assistant officers the board designates. The officers shall perform the duties and have the powers provided in the bylaws and by the board.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

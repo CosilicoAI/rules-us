@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/15306" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/15306/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/15306/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15306"><akn:num>15306</akn:num><akn:heading>Personal financial interests</akn:heading><akn:content><akn:p>§ 15306. Personal financial interests(a) Conflicts of Interest.—(1) No role allowed.—Except as permitted by paragraph (2), an individual who is a State member or alternate, or an officer or employee of a Commission, shall not participate personally and substantially as a member, alternate, officer, or employee of the Commission, through decision, approval, disapproval, recommendation, request for a ruling, or other determination, contract, claim, controversy, or other matter in which, to the individual’s knowledge, any of the following has a financial interest:(A) The individual.
+
+(B) The individual’s spouse, minor child, or partner.
+
+(C) An organization (except a State or political subdivision of a State) in which the individual is serving as an officer, director, trustee, partner, or employee.
+
+(D) Any person or organization with whom the individual is negotiating or has any arrangement concerning prospective employment.
+
+
+(2) Exception.—Paragraph (1) shall not apply if the individual, in advance of the proceeding, application, request for a ruling or other determination, contract, claim controversy, or other particular matter presenting a potential conflict of interest—(A) advises the Commission of the nature and circumstances of the matter presenting the conflict of interest;
+
+(B) makes full disclosure of the financial interest; and
+
+(C) receives a written decision of the Commission that the interest is not so substantial as to be considered likely to affect the integrity of the services that the Commission may expect from the individual.
+
+
+(3) Violation.—An individual violating this subsection shall be fined under title 18, imprisoned for not more than 1 year, or both.
+
+
+(b) State Member or Alternate.—A State member or alternate member may not receive any salary, or any contribution to, or supplementation of, salary, for services on a Commission from a source other than the State of the member or alternate.
+
+(c) Detailed Employees.—(1) In general.—No person det</akn:p></akn:content><akn:subsection eId="subsec_15306_a"><akn:num>(a)</akn:num><akn:heading>Conflicts of Interest.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15306_b"><akn:num>(b)</akn:num><akn:heading>State Member or Alternate.—</akn:heading><akn:content><akn:p>(b) A State member or alternate member may not receive any salary, or any contribution to, or supplementation of, salary, for services on a Commission from a source other than the State of the member or alternate.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15306_c"><akn:num>(c)</akn:num><akn:heading>Detailed Employees.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15306_d"><akn:num>(d)</akn:num><akn:heading>Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Employees.—</akn:heading><akn:content><akn:p>(d) The Federal Cochairman, the alternate to the Federal Cochairman, and any Federal officer or employee detailed to duty with the Commission are not subject to this section but remain subject to sections 202 through 209 of title 18.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15306_e"><akn:num>(e)</akn:num><akn:heading>Rescission.—</akn:heading><akn:content><akn:p>(e) A Commission may declare void any contract, loan, or grant of or by the Commission in relation to which the Commission determines that there has been a violation of any provision under subsection (a)(1), (b), or (c), or any of the provisions of sections 202 through 209 of title 18.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

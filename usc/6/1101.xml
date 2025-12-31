@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/1101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/1101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/1101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1101"><akn:num>1101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1101. Definitions
+For purposes of this subchapter, the following terms apply:(1) DepartmentThe term “Department” means the Department of Homeland Security.
+
+
+(2) SecretaryThe term “Secretary” means the Secretary of Homeland Security.
+
+
+(Pub. L. 110–53, title XII, § 1201, Aug. 3, 2007, 121 Stat. 381.)
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 381, which enacted this subchapter, amended section 114 of Title 49, Transportation, and enacted provisions set out as a note under section 114 of Title 49. For complete classification of title XII to the Code, see Tables.
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 110–53, title XIV, § 1401, Aug. 3, 2007, 121 Stat. 400, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘National Transit Systems Security Act of 2007’.”
+
+
+Executive Documents
+
+Ex. Ord. No. 13416. Strengthening Surface Transportation Security
+Ex. Ord. No. 13416, Dec. 5, 2006, 71 F.R. 71033, provided:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen the security of the Nation’s surface transportation systems and thereby enhance the protection of the people, property, and territory of the United States of America against terrorist attacks, it is hereby ordered as follows:
+Section 1. Policy. The security of our Nation’s surface transportation systems is a national priority, vital to our economy, and essential to the security of our Nation. Federal, State, local, and tribal governments, the private sector, and the public share responsibility for the security of surface transportation. It is the policy of the United States to protect the people, property, and territory of the United States by facilitating the implementation of a comprehensive, coordinated, and efficient security program to protect surface transp</akn:p></akn:content><akn:subsection eId="subsec_1101_1"><akn:num>(1)</akn:num><akn:heading>Department</akn:heading><akn:content><akn:p>(1) Department The term “Department” means the Department of Homeland Security.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1101_2"><akn:num>(2)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(2) Secretary The term “Secretary” means the Secretary of Homeland Security.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

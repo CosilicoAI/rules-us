@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/15e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/15e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/15e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15e"><akn:num>15e</akn:num><akn:heading>Distribution of damages</akn:heading><akn:content><akn:p>§ 15e. Distribution of damages
+Monetary relief recovered in an action under section 15c(a)(1) of this title shall—(1) be distributed in such manner as the district court in its discretion may authorize; or
+
+(2) be deemed a civil penalty by the court and deposited with the State as general revenues;
+
+
+subject in either case to the requirement that any distribution procedure adopted afford each person a reasonable opportunity to secure his appropriate portion of the net monetary relief.
+(Oct. 15, 1914, ch. 323, § 4E, as added Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1395.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateInjuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.</akn:p></akn:content><akn:subsection eId="subsec_15e_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) be distributed in such manner as the district court in its discretion may authorize; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15e_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) be deemed a civil penalty by the court and deposited with the State as general revenues;</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

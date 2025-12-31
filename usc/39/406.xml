@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/39/406" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/39/406/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/39/406/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_406"><akn:num>406</akn:num><akn:heading>Postal services at Armed Forces installations</akn:heading><akn:content><akn:p>§ 406. Postal services at Armed Forces installations(a) The Postal Service may establish branch post offices at camps, posts, bases, or stations of the Armed Forces and at defense or other strategic installations.
+
+(b) The Secretaries of Defense and Transportation shall make arrangements with the Postal Service to perform postal services through personnel designated by them at or through branch post offices established under subsection (a) of this section.
+
+(c)(1) The Secretary of Defense shall authorize the use of a post office established under subsection (a) in a location outside the United States by citizens of the United States—(A) who—(i) are employed by the North Atlantic Treaty Organization; and
+
+(ii) perform functions in support of the Armed Forces of the United States; and
+
+
+(B) if the Secretary makes a written determination that such use is—(i) in the best interests of the Department of Defense; and
+
+(ii) otherwise authorized by applicable host nation law or agreement.
+
+
+
+(2) No funds may be obligated or expended to establish, maintain, or expand a post office established under subsection (a) for the purpose of use described in paragraph (1) of this subsection.
+
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 116–92, div. A, title X, § 1056, Dec. 20, 2019, 133 Stat. 1593; Pub. L. 118–31, div. A, title XVIII, § 1806(a), Dec. 22, 2023, 137 Stat. 688.)
+
+Editorial Notes
+Amendments2023—Subsec. (c)(1). Pub. L. 118–31 substituted “shall authorize the use” for “may authorize the use” in introductory provisions.
+2019—Subsec. (c). Pub. L. 116–92 added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_406_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Postal Service may establish branch post offices at camps, posts, bases, or stations of the Armed Forces and at defense or other strategic installations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_406_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretaries of Defense and Transportation shall make arrangements with the Postal Service to perform postal services through personnel designated by them at or through branch post offices established under subsection (a) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_406_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

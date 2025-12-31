@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/40502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/40502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/40502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40502"><akn:num>40502</akn:num><akn:heading>Eligibility</akn:heading><akn:content><akn:p>§ 40502. Eligibility(a) ApplicationTo be eligible to receive a grant award under this chapter, an entity described in section 40501 of this title shall submit an application at such time and in such form as the Attorney General may reasonably require.
+
+
+(b) ContentsEach such application shall include assurances that the applicant shall, to the greatest extent possible—(1) report to the National Crime Information Center and, when possible, to law enforcement authorities throughout the applicant’s jurisdiction regarding every deceased unidentified person, regardless of age, found in the applicant’s jurisdiction;
+
+(2) enter a complete profile of such unidentified person in compliance with the guidelines established by the Department of Justice for the National Crime Information Center Missing and Unidentified Persons File, including dental records, DNA records, x-rays, and fingerprints, if available;
+
+(3) enter the National Crime Information Center number or other appropriate number assigned to the unidentified person on the death certificate of each such unidentified person;
+
+(4) retain all such records pertaining to unidentified persons until a person is identified; and
+
+(5) collect and report information to the National Missing and Unidentified Persons System (NamUs) regarding missing persons and unidentified remains.
+
+
+(c) Privacy protections for biological family reference samples(1) In generalAny suspected biological family DNA reference samples received from citizens of the United States or foreign nationals and uploaded into the Combined DNA Index System (commonly referred to as “CODIS”) by an accredited, publicly funded CODIS forensic laboratory awarded a grant under this section may be used only for identifying missing persons and unidentified remains.
+
+
+(2) Limitation on useAny biological family DNA reference samples from citizens of the United States or foreign nationals entered into CODIS for purposes of identifying missing persons and unidentified remains</akn:p></akn:content><akn:subsection eId="subsec_40502_a"><akn:num>(a)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(a) Application To be eligible to receive a grant award under this chapter, an entity described in section 40501 of this title shall submit an application at such time and in such form as the Attorney General may reasonably require.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40502_b"><akn:num>(b)</akn:num><akn:heading>Contents</akn:heading><akn:content><akn:p>(b) Contents Each such application shall include assurances that the applicant shall, to the greatest extent possible—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40502_c"><akn:num>(c)</akn:num><akn:heading>Privacy protections for biological family reference samples</akn:heading><akn:content><akn:p>(c) Privacy protections for biological family reference samples</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

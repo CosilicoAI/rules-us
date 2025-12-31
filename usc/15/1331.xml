@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/1331" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/1331/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/1331/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1331"><akn:num>1331</akn:num><akn:heading>Congressional declaration of policy and purpose</akn:heading><akn:content><akn:p>§ 1331. Congressional declaration of policy and purpose
+It is the policy of the Congress, and the purpose of this chapter, to establish a comprehensive Federal Program to deal with cigarette labeling and advertising with respect to any relationship between smoking and health, whereby—(1) the public may be adequately informed about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and in each advertisement of cigarettes; and
+
+(2) commerce and the national economy may be (A) protected to the maximum extent consistent with this declared policy and (B) not impeded by diverse, nonuniform, and confusing cigarette labeling and advertising regulations with respect to any relationship between smoking and health.
+
+(Pub. L. 89–92, § 2, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 87; Pub. L. 98–474, § 6(a), Oct. 12, 1984, 98 Stat. 2204.)
+
+Editorial Notes
+Amendments1984—Par. (1). Pub. L. 98–474 substituted “about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and in each advertisement;” for “that cigarette smoking may be hazardous to health by inclusion of a warning to that effect on each package of cigarettes;”.
+1970—Pub. L. 91–222 reenacted section without change.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1970 AmendmentPub. L. 91–222, § 3, Apr. 1, 1970, 84 Stat. 90, provided in part that: “All other provisions of the amendment made by this Act [enacting section 1340 of this title, amending this section and sections 1332 and 1335 to 1339 of this title, and enacting provisions set out as notes under this section] except where otherwise specified shall take effect on January 1, 1970.”
+
+
+Effective DatePub. L. 89–92, § 12, formerly § 11, July 27, 1965, 79 Stat. 284, as renumbered by Pub. L. 98–474, § 5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: “This Act [this chapter] shall take effect on January 1, 1966.”
+
+</akn:p></akn:content><akn:subsection eId="subsec_1331_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the public may be adequately informed about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and in each advertisement of cigarettes; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1331_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) commerce and the national economy may be (A) protected to the maximum extent consistent with this declared policy and (B) not impeded by diverse, nonuniform, and confusing cigarette labeling and advertising regulations with respect to any relationship between smoking and health.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

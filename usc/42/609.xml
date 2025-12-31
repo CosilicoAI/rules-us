@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/609" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/609/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/609/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_609"><akn:num>609</akn:num><akn:heading>Penalties</akn:heading><akn:content><akn:p>§ 609. Penalties(a) In generalSubject to this section:(1) Use of grant in violation of this part(A) General penaltyIf an audit conducted under chapter 75 of title 31 finds that an amount paid to a State under section 603 of this title for a fiscal year has been used in violation of this part, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by the amount so used.
+
+
+(B) Enhanced penalty for intentional violationsIf the State does not prove to the satisfaction of the Secretary that the State did not intend to use the amount in violation of this part, the Secretary shall further reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by an amount equal to 5 percent of the State family assistance grant.
+
+
+(C) Penalty for misuse of competitive welfare-to-work fundsIf the Secretary of Labor finds that an amount paid to an entity under section 603(a)(5)(B) of this title has been used in violation of subparagraph (B) or (C) of section 603(a)(5) of this title, the entity shall remit to the Secretary of Labor an amount equal to the amount so used.
+
+
+
+(2) Failure to submit required report(A) Quarterly reports(i) In generalIf the Secretary determines that a State has not, within 45 days after the end of a fiscal quarter, submitted the report required by section 611(a) of this title for the quarter, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 4 percent of the State family assistance grant.
+
+
+(ii) Rescission of penaltyThe Secretary shall rescind a penalty imposed on a State under clause (i) with respect to a report if the State submits the report before the end of the fiscal quarter that immediately succeeds the fiscal quarter for which the report was required.
+
+
+
+(B) Report on engagement in additio</akn:p></akn:content><akn:subsection eId="subsec_609_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Subject to this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_609_b"><akn:num>(b)</akn:num><akn:heading>Reasonable cause exception</akn:heading><akn:content><akn:p>(b) Reasonable cause exception</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_609_c"><akn:num>(c)</akn:num><akn:heading>Corrective compliance plan</akn:heading><akn:content><akn:p>(c) Corrective compliance plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_609_d"><akn:num>(d)</akn:num><akn:heading>Limitation on amount of penalties</akn:heading><akn:content><akn:p>(d) Limitation on amount of penalties</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

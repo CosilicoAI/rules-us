@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17903" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17903/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17903/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17903"><akn:num>17903</akn:num><akn:heading>Study and reports</akn:heading><akn:content><akn:p>§ 17903. Study and reports(a) Report on adoption of nationwide systemNot later than 2 years after February 17, 2009, and annually thereafter, the Secretary of Health and Human Services shall submit to the appropriate committees of jurisdiction of the House of Representatives and the Senate a report that—(1) describes the specific actions that have been taken by the Federal Government and private entities to facilitate the adoption of a nationwide system for the electronic use and exchange of health information;
+
+(2) describes barriers to the adoption of such a nationwide system; and
+
+(3) contains recommendations to achieve full implementation of such a nationwide system.
+
+
+(b) Reimbursement incentive study and report(1) StudyThe Secretary of Health and Human Services shall carry out, or contract with a private entity to carry out, a study that examines methods to create efficient reimbursement incentives for improving health care quality in Federally qualified health centers, rural health clinics, and free clinics.
+
+
+(2) ReportNot later than 2 years after February 17, 2009, the Secretary of Health and Human Services shall submit to the appropriate committees of jurisdiction of the House of Representatives and the Senate a report on the study carried out under paragraph (1).
+
+
+
+(c) Aging services technology study and report(1) In generalThe Secretary of Health and Human Services shall carry out, or contract with a private entity to carry out, a study of matters relating to the potential use of new aging services technology to assist seniors, individuals with disabilities, and their caregivers throughout the aging process.
+
+
+(2) Matters to be studiedThe study under paragraph (1) shall include—(A) an evaluation of—(i) methods for identifying current, emerging, and future health technology that can be used to meet the needs of seniors and individuals with disabilities and their caregivers across all aging services settings, as specified by the Secretary;
+
+(ii) methods f</akn:p></akn:content><akn:subsection eId="subsec_17903_a"><akn:num>(a)</akn:num><akn:heading>Report on adoption of nationwide system</akn:heading><akn:content><akn:p>(a) Report on adoption of nationwide system Not later than 2 years after February 17, 2009, and annually thereafter, the Secretary of Health and Human Services shall submit to the appropriate committees of jurisdiction of the House of Representatives and the Senate a report that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17903_b"><akn:num>(b)</akn:num><akn:heading>Reimbursement incentive study and report</akn:heading><akn:content><akn:p>(b) Reimbursement incentive study and report</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17903_c"><akn:num>(c)</akn:num><akn:heading>Aging services technology study and report</akn:heading><akn:content><akn:p>(c) Aging services technology study and report</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

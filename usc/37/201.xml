@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/37/201" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/37/201/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/37/201/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_201"><akn:num>201</akn:num><akn:heading>Pay grades: assignment to; general rules</akn:heading><akn:content><akn:p>§ 201. Pay grades: assignment to; general rules(a)(1) Subject to paragraph (2), for the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades:
+
+
+
+
+
+
+
+
+Pay gradeArmy, Air Force, and Marine CorpsNavy, Coast Guard, andNational Oceanic and Atmospheric AdministrationPublic Health Service
+
+
+O–10GeneralAdmiralAssistant Secretary for Health.
+O–9Lieutenant generalVice admiralSurgeon General.
+O–8Major generalRear admiralDeputy Surgeon General.Assistant Surgeon General having rank of major general.
+O–7Brigadier generalRear admiral (lower half)Assistant Surgeon General having rank of brigadier general.
+O–6ColonelCaptainDirector grade.
+O–5Lieutenant colonelCommanderSenior grade.
+O–4MajorLieutenant commanderFull grade.
+O–3CaptainLieutenantSenior assistant grade.
+O–21st lieu­tenantLieutenant (junior grade)Assistant grade.
+O–12d lieu­tenantEnsignJunior assistant grade.
+
+
+
+
+(2) For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table in paragraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.
+
+
+(b) For the purpose of computing their basic pay, warrant officers of the armed forces are assigned, by the warrant officer grade in which serving, to the following pay grades:
+
+
+
+
+
+
+Pay Grade:Warrant Officer Grade:
+
+
+W–5 Chief Warrant Officer, W–5.
+W–4 Chief Warrant Officer, W–4.
+W–3 Chief Warrant Officer, W–3.
+W–2 Chief Warrant Officer, W–2.
+W–1 Warrant Officer, W–1.
+
+
+
+
+(c) Unless entitled to the basic pay of a higher pay grade, an aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the lowest rate prescribed for pay grade E–4.
+
+(d) Unless he is entitled to the basic pay of a higher pay grade, an aviation pilot of the Navy Reserve</akn:p></akn:content><akn:subsection eId="subsec_201_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_201_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For the purpose of computing their basic pay, warrant officers of the armed forces are assigned, by the warrant officer grade in which serving, to the following pay grades:
+
+
+
+
+
+
+Pay Grade:Warrant Officer Grade:
+
+
+W–5 Chief Warrant Officer, W–5.
+W–4 Chief Warrant Officer, W–4.
+W–3 Chief Warrant Officer, W–3.
+W–2 Chief Warrant Officer, W–2.
+W–1 Warrant Officer, W–1.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_201_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Unless entitled to the basic pay of a higher pay grade, an aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the lowest rate prescribed for pay grade E–4.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_201_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Unless he is entitled to the basic pay of a higher pay grade, an aviation pilot of the Navy Reserve, Marine Corps Reserve, or Coast Guard Reserve is entitled to monthly basic pay at the rate prescribed for pay grade E–5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_201_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) Except as provided by subsections (c) and (d), enlisted members of the uniformed services shall, for the purpose of computing their basic pay, be distributed by the Secretary concerned in the various enlisted pay grades set forth in section 203 of this title. However, except as provided by section 307 of this title, an enlisted member may not be placed in pay grade E–8 or E–9 until he has completed at least 8 years or 10 years, respectively, of enlisted service computed under section 205 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

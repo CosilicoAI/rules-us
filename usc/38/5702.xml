@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/5702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/5702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/5702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5702"><akn:num>5702</akn:num><akn:heading>Furnishing of records</akn:heading><akn:content><akn:p>§ 5702. Furnishing of records(a) Any person desiring a copy of any record, paper, and so forth, in the custody of the Secretary that may be disclosed under section 5701 of this title must submit to the Secretary an application in writing, including an electronic request submitted through the website or online tool established under subsection (b), for such copy. The application shall state specifically—(1) the particular record, paper, and so forth, a copy of which is desired and whether certified or uncertified;
+
+(2) the purpose for which such copy is desired to be used; and
+
+(3) the format in which such copy is desired, including whether in printed form or by downloadable file.
+
+
+(b)(1) The Secretary shall establish and maintain a secure website or online tool for a claimant or a duly recognized agent or representative of that claimant to submit an electronic request for such records.
+
+(2) The Secretary, upon receipt of a valid request made through the website or online tool established under paragraph (1), shall provide to the requestor—(A) not later than 10 days after receipt, confirmation of such receipt; and
+
+(B) not later than 120 days after receipt, such records requested in the form selected by the requestor.
+
+
+
+(c) The Secretary may establish a schedule of fees for copies and certification of such records.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, § 3302; renumbered § 5702 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(2)(A)(xii), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, § 1201(e)(16), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 118–21, § 2(a),(b), Nov. 13, 2023, 137 Stat. 109.)
+
+Editorial Notes
+Amendments2023—Subsec. (a). Pub. L. 118–21, § 2(b)(1), substituted “in writing, including an electronic request submitted through the website or online tool established under subsection (b),” for “in writing” in introductory provisions.
+Subsec. (a)(3). Pub. L. 11</akn:p></akn:content><akn:subsection eId="subsec_5702_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Any person desiring a copy of any record, paper, and so forth, in the custody of the Secretary that may be disclosed under section 5701 of this title must submit to the Secretary an application in writing, including an electronic request submitted through the website or online tool established under subsection (b), for such copy. The application shall state specifically—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5702_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5702_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary may establish a schedule of fees for copies and certification of such records.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

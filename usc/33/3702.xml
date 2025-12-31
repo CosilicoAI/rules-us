@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3702"><akn:num>3702</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3702. Definitions
+In this chapter:(1) Coastal acidificationThe term “coastal acidification” means the decrease in pH and changes in the water chemistry of coastal oceans, estuaries, and Great Lakes from atmospheric pollution, freshwater inputs, and excess nutrient run-off from land.
+
+
+(2) Ocean acidificationThe term “ocean acidification” means the decrease in pH and changes in the water chemistry of the Earth’s oceans, coastal estuaries, marine waterways, and Great Lakes caused by carbon dioxide from the atmosphere and the breakdown of organic matter.
+
+
+(3) SecretaryThe term “Secretary” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+
+
+(4) SubcommitteeThe term “Subcommittee” means the National Science and Technology Council Subcommittee on Ocean Science and Technology.
+
+
+(5) StateThe term “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.
+
+
+(Pub. L. 111–11, title XII, § 12403, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 117–167, div. B, title VI, § 10643, Aug. 9, 2022, 136 Stat. 1672.)
+
+Editorial Notes
+Amendments2022—Par. (1). Pub. L. 117–167, § 10643(4), added par. (1). Former par. (1) redesignated (2).
+Pub. L. 117–167, § 10643(1), substituted “and changes in the water chemistry of the Earth’s oceans, coastal estuaries, marine waterways, and Great Lakes caused by carbon dioxide from the atmosphere and the breakdown of organic matter” for “of the Earth’s oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide”.
+Par. (2). Pub. L. 117–167, § 10643(3), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Par. (3). Pub. L. 117–167, § 10643(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Pub. L</akn:p></akn:content><akn:subsection eId="subsec_3702_1"><akn:num>(1)</akn:num><akn:heading>Coastal acidification</akn:heading><akn:content><akn:p>(1) Coastal acidification The term “coastal acidification” means the decrease in pH and changes in the water chemistry of coastal oceans, estuaries, and Great Lakes from atmospheric pollution, freshwater inputs, and excess nutrient run-off from land.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3702_2"><akn:num>(2)</akn:num><akn:heading>Ocean acidification</akn:heading><akn:content><akn:p>(2) Ocean acidification The term “ocean acidification” means the decrease in pH and changes in the water chemistry of the Earth’s oceans, coastal estuaries, marine waterways, and Great Lakes caused by carbon dioxide from the atmosphere and the breakdown of organic matter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3702_3"><akn:num>(3)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(3) Secretary The term “Secretary” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3702_4"><akn:num>(4)</akn:num><akn:heading>Subcommittee</akn:heading><akn:content><akn:p>(4) Subcommittee The term “Subcommittee” means the National Science and Technology Council Subcommittee on Ocean Science and Technology.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3702_5"><akn:num>(5)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(5) State The term “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

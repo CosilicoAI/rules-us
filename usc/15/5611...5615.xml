@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/5611...5615" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/5611...5615/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/5611...5615/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5611___5615"><akn:num>5611...5615</akn:num><akn:heading>Repealed. Pub. L. 111–314, § 6, Dec. 18, 2010, 124 Stat. 3444</akn:heading><akn:content><akn:p>§§ 5611 to 5615. Repealed. Pub. L. 111–314, § 6, Dec. 18, 2010, 124 Stat. 3444
+
+Section 5611, Pub. L. 102–555, title I, § 101, Oct. 28, 1992, 106 Stat. 4166, related to management of the Landsat Program. See section 60111 of Title 51, National and Commercial Space Programs.
+
+
+Section 5612, Pub. L. 102–555, title I, § 102, Oct. 28, 1992, 106 Stat. 4168, related to procurement of Landsat 7.
+
+
+Section 5613, Pub. L. 102–555, title I, § 103, Oct. 28, 1992, 106 Stat. 4168, related to data policy for Landsat 4 through 6.
+
+
+Section 5614, Pub. L. 102–555, title I, § 104, Oct. 28, 1992, 106 Stat. 4170, related to transfer of Landsat 6 program responsibilities. See section 60112 of Title 51.
+
+
+Section 5615, Pub. L. 102–555, title I, § 105, Oct. 28, 1992, 106 Stat. 4170, related to data policy for Landsat 7. See section 60113 of Title 51.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

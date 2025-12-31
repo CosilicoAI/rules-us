@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/11313" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/11313/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/11313/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11313"><akn:num>11313</akn:num><akn:heading>Performance and results-based management</akn:heading><akn:content><akn:p>§ 11313. Performance and results-based management
+In fulfilling the responsibilities under section 3506(h) of title 44, the head of an executive agency shall—(1) establish goals for improving the efficiency and effectiveness of agency operations and, as appropriate, the delivery of services to the public through the effective use of information technology;
+
+(2) prepare an annual report, to be included in the executive agency’s budget submission to Congress, on the progress in achieving the goals;
+
+(3) ensure that performance measurements—(A) are prescribed for information technology used by, or to be acquired for, the executive agency; and
+
+(B) measure how well the information technology supports programs of the executive agency;
+
+
+(4) where comparable processes and organizations in the public or private sectors exist, quantitatively benchmark agency process performance against those processes in terms of cost, speed, productivity, and quality of outputs and outcomes;
+
+(5) analyze the missions of the executive agency and, based on the analysis, revise the executive agency’s mission-related processes and administrative processes as appropriate before making significant investments in information technology to be used in support of the performance of those missions; and
+
+(6) ensure that the information security policies, procedures, and practices of the executive agency are adequate.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1240.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1131340:1423.Pub. L. 104–106, div. E, title LI, § 5123, Feb. 10, 1996, 110 Stat. 683.</akn:p></akn:content><akn:subsection eId="subsec_11313_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) establish goals for improving the efficiency and effectiveness of agency operations and, as appropriate, the delivery of services to the public through the effective use of information technology;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11313_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) prepare an annual report, to be included in the executive agency’s budget submission to Congress, on the progress in achieving the goals;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11313_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) ensure that performance measurements—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11313_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) where comparable processes and organizations in the public or private sectors exist, quantitatively benchmark agency process performance against those processes in terms of cost, speed, productivity, and quality of outputs and outcomes;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11313_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) analyze the missions of the executive agency and, based on the analysis, revise the executive agency’s mission-related processes and administrative processes as appropriate before making significant investments in information technology to be used in support of the performance of those missions; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11313_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) ensure that the information security policies, procedures, and practices of the executive agency are adequate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

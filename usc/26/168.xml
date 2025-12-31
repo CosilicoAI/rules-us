@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/168" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/168/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/168/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_168"><akn:num>168</akn:num><akn:heading>Accelerated cost recovery system</akn:heading><akn:content><akn:p>§ 168. Accelerated cost recovery system(a) General ruleExcept as otherwise provided in this section, the depreciation deduction provided by section 167(a) for any tangible property shall be determined by using—(1) the applicable depreciation method,
+
+(2) the applicable recovery period, and
+
+(3) the applicable convention.
+
+
+(b) Applicable depreciation methodFor purposes of this section—(1) In generalExcept as provided in paragraphs (2) and (3), the applicable depreciation method is—(A) the 200 percent declining balance method,
+
+(B) switching to the straight line method for the 1st taxable year for which using the straight line method with respect to the adjusted basis as of the beginning of such year will yield a larger allowance.
+
+
+(2) 150 percent declining balance method in certain casesParagraph (1) shall be applied by substituting “150 percent” for “200 percent” in the case of—(A) any 15-year or 20-year property not referred to in paragraph (3),
+
+(B) any property (other than property described in paragraph (3)) which is a qualified smart electric meter or qualified smart electric grid system, or
+
+(C) any property (other than property described in paragraph (3)) with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply.
+
+
+(3) Property to which straight line method appliesThe applicable depreciation method shall be the straight line method in the case of the following property:(A) Nonresidential real property.
+
+(B) Residential rental property.
+
+(C) Any railroad grading or tunnel bore.
+
+(D) Property with respect to which the taxpayer elects under paragraph (5) to have the provisions of this paragraph apply.
+
+(E) Property described in subsection (e)(3)(D)(ii).
+
+(F) Water utility property described in subsection (e)(5).
+
+(G) Qualified improvement property described in subsection (e)(6).
+
+
+(4) Salvage value treated as zeroSalvage value shall be treated as zero.
+
+
+(5) ElectionAn election under paragraph (2)(D) 11 See Re</akn:p></akn:content><akn:subsection eId="subsec_168_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Except as otherwise provided in this section, the depreciation deduction provided by section 167(a) for any tangible property shall be determined by using—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_b"><akn:num>(b)</akn:num><akn:heading>Applicable depreciation method</akn:heading><akn:content><akn:p>(b) Applicable depreciation method For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_c"><akn:num>(c)</akn:num><akn:heading>Applicable recovery period</akn:heading><akn:content><akn:p>(c) Applicable recovery period For purposes of this section, the applicable recovery period shall be determined in accordance with the following table:
+
+
+
+
+
+
+In the case of:The applicablerecovery periodis:
+
+
+3-year property3 years  
+5-year property5 years  
+7-year property7 years  
+10-year property10 years  
+15-year property15 years  
+20-year property20 years  
+Water utility property25 years  
+Residential rental property27.5 years  
+Nonresidential real property39 years.
+Any railroad grading or tunnel bore50 years.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_d"><akn:num>(d)</akn:num><akn:heading>Applicable convention</akn:heading><akn:content><akn:p>(d) Applicable convention For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_e"><akn:num>(e)</akn:num><akn:heading>Classification of property</akn:heading><akn:content><akn:p>(e) Classification of property For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_f"><akn:num>(f)</akn:num><akn:heading>Property to which section does not apply</akn:heading><akn:content><akn:p>(f) Property to which section does not apply This section shall not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_g"><akn:num>(g)</akn:num><akn:heading>Alternative depreciation system for certain property</akn:heading><akn:content><akn:p>(g) Alternative depreciation system for certain property</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_h"><akn:num>(h)</akn:num><akn:heading>Tax-exempt use property</akn:heading><akn:content><akn:p>(h) Tax-exempt use property</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_i"><akn:num>(i)</akn:num><akn:heading>Definitions and special rules</akn:heading><akn:content><akn:p>(i) Definitions and special rules For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_168_j"><akn:num>(j)</akn:num><akn:heading>Property on Indian reservations</akn:heading><akn:content><akn:p>(j) Property on Indian reservations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

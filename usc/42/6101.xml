@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6101"><akn:num>6101</akn:num><akn:heading>Statement of purpose</akn:heading><akn:content><akn:p>§ 6101. Statement of purpose
+It is the purpose of this chapter to prohibit discrimination on the basis of age in programs or activities receiving Federal financial assistance.
+(Pub. L. 94–135, title III, § 302, Nov. 28, 1975, 89 Stat. 728; Pub. L. 95–478, title IV, § 401(a), Oct. 18, 1978, 92 Stat. 1555; Pub. L. 99–272, title XIV, § 14001(b)(4), Apr. 7, 1986, 100 Stat. 329.)
+
+Editorial Notes
+Amendments1986—Pub. L. 99–272 struck out “, including programs or activities receiving funds under the State and Local Fiscal Assistance Act of 1972 (31 U.S.C. 1221 et seq.)” after “Federal financial assistance”.
+1978—Pub. L. 95–478 struck out “unreasonable” before “discrimination”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272, title XIV, Apr. 7, 1986, 100 Stat. 329.
+
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–478 effective at the close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as a note under section 3001 of this title.
+
+Short TitlePub. L. 94–135, title III, § 301, Nov. 28, 1975, 89 Stat. 728, provided that: “The provisions of this title [enacting this chapter] may be cited as the ‘Age Discrimination Act of 1975’.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

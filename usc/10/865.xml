@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/865" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/865/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/865/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_865"><akn:num>865</akn:num><akn:heading>Art. 65. Transmittal and review of records</akn:heading><akn:content><akn:p>§ 865. Art. 65. Transmittal and review of records(a) Transmittal of Records.—(1) Finding of guilty in general or special court-martial.—If the judgment of a general or special court-martial entered under section 860c of this title (article 60c) includes a finding of guilty, the record shall be transmitted to the Judge Advocate General.
+
+(2) Other cases.—In all other cases, records of trial by court-martial and related documents shall be transmitted and disposed of as the Secretary concerned may prescribe by regulation.
+
+
+(b) Cases for Direct Appeal.—(1) Automatic review.—If the judgment includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more, the Judge Advocate General shall forward—(A) the record of trial to the Court of Criminal Appeals for review under section 866(b)(3) of this title (article 66(b)(3)); and
+
+(B) a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and, upon request of the accused, to represent the accused before the Court of Criminal Appeals.
+
+
+(2) Cases eligible for direct appeal review.—(A) In general.—If the case is eligible for direct review under section 866(b)(1) of this title (article 66(b)(1)), the Judge Advocate General shall, upon written request of the accused—(i) forward a copy of the record of trial to an appellate defense counsel who shall be detailed to review the case and to represent the accused before the Court of Criminal Appeals; and
+
+(ii) forward a copy of the record of trial to civilian counsel provided by the accused.
+
+
+(B) Inapplicability.—Subparagraph (A) shall not apply if the accused waives the right to appeal under section 861 of this title (article 61).
+
+
+
+(c) Notice of Right to Appeal.—(1) In general.—The Judge Advocate General shall provide notice to the accused of the right to file an appeal under section 866(b)(1) of this title (article 66(b)(1)) by </akn:p></akn:content><akn:subsection eId="subsec_865_a"><akn:num>(a)</akn:num><akn:heading>Transmittal of Records.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_865_b"><akn:num>(b)</akn:num><akn:heading>Cases for Direct Appeal.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_865_c"><akn:num>(c)</akn:num><akn:heading>Notice of Right to Appeal.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_865_d"><akn:num>(d)</akn:num><akn:heading>Review by Judge Advocate General.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_865_e"><akn:num>(e)</akn:num><akn:heading>Remedy.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

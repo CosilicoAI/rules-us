@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8541" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8541/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8541/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8541"><akn:num>8541</akn:num><akn:heading>Function</akn:heading><akn:content><akn:p>§ 8541. Function
+There is a United States Naval Postgraduate School, the primary function of which is to provide advanced instruction and professional and technical education and research opportunities for commissioned officers of the naval service in—(1) their practical and theoretical duties;
+
+(2) the science, physics, and systems engineering of current and future naval warfare doctrine, operations, and systems; and
+
+(3) the integration of naval operations and systems into joint, combined, and multinational operations.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, § 7041; Pub. L. 109–163, div. A, title V, § 523(a), Jan. 6, 2006, 119 Stat. 3244; renumbered § 8541, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+704134 U.S.C. 1076.July 31, 1947, ch. 420, § 1, 61 Stat. 705.
+
+
+The words “There is a” are substituted for the words “That the Secretary of the Navy is hereby authorized and directed to establish the”, as the Postgraduate School is in operation. The words “technical education” are substituted for the word “training” to describe more aptly the higher level of instruction at the Postgraduate School. The words “naval service” are substituted for the words “Regular Navy and Marine Corps and the reserve components thereof”. The word “their” is substituted for the words “of commissioned officers”.
+
+Editorial Notes
+Prior ProvisionsA prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to assign regular and reserve Air Force officers to National Guard Bureau, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1661(c)(2), Oct. 5, 1994, 108 Stat. 2982, effective Dec. 1, 1994. See section 10507 of this title.
+
+Amendments2018—Pub. L. 115–232 renumbered section 7041 of this title as this section.
+2006—Pub. L. 109–163 amended text generally. Prior to amendment, text read as follows: “There is a United </akn:p></akn:content><akn:subsection eId="subsec_8541_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) their practical and theoretical duties;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8541_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the science, physics, and systems engineering of current and future naval warfare doctrine, operations, and systems; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8541_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the integration of naval operations and systems into joint, combined, and multinational operations.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

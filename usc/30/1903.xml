@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/1903" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/1903/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/1903/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1903"><akn:num>1903</akn:num><akn:heading>Grants, contracts, and cooperative agreements</akn:heading><akn:content><akn:p>§ 1903. Grants, contracts, and cooperative agreements(a) Assistance and coordination(1) In generalThe Secretary shall award grants or contracts to, or enter into cooperative agreements with, eligible entities to support research for the development or utilization of—(A) methods, equipment, systems, and components necessary for the identification, assessment, and exploration of marine mineral resources in an environmentally responsible manner;
+
+(B) methods of detecting, monitoring, and predicting the presence of adverse environmental effects in the marine environment and remediating the environmental effects of marine mineral resource exploration, development, and production; and
+
+(C) education and training material in marine mineral research and resource management.
+
+
+(2) Cost-sharing for contracts or cooperative agreements(A) Federal shareExcept as provided in subparagraph (B)(ii), the Federal share of the cost of a contract or cooperative agreement carried out under this subsection shall not be greater than 80 percent of the total cost of the project.
+
+
+(B) Non-Federal shareThe remaining non-Federal share of the cost of a project carried out under this section may be—(i) in the form of cash or in-kind contributions, or both; and
+
+(ii) comprised of funds made available under other Federal programs, except that non-Federal funds shall be used to defray at least 10 percent of the total cost of the project.
+
+
+(C) ConsultationNot later than 180 days after October 19, 1996, the Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this subsection that are consistent with the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19.
+
+
+
+
+(b) Competitive review(1) In generalAn entity shall not be eligible to receive a grant or contract, or participate in a cooperative agreement, under subsection (a) unless—(A) the entity submits a proposal t</akn:p></akn:content><akn:subsection eId="subsec_1903_a"><akn:num>(a)</akn:num><akn:heading>Assistance and coordination</akn:heading><akn:content><akn:p>(a) Assistance and coordination</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_b"><akn:num>(b)</akn:num><akn:heading>Competitive review</akn:heading><akn:content><akn:p>(b) Competitive review</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_c"><akn:num>(c)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(c) Limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_d"><akn:num>(d)</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>(d) Reports An eligible entity that receives a grant or contract or enters into a cooperative agreement under this section shall submit an annual progress report and a final technical report to the Secretary that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

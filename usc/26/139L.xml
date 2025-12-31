@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/139L" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/139L/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/139L/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_139L"><akn:num>139L</akn:num><akn:heading>Interest on loans secured by rural or agricultural real property</akn:heading><akn:content><akn:p>§ 139L. Interest on loans secured by rural or agricultural real property(a) In generalGross income shall not include 25 percent of the interest received by a qualified lender on any qualified real estate loan.
+
+
+(b) Qualified lenderFor purposes of this section, the term “qualified lender” means—(1) any bank or savings association the deposits of which are insured under the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.),
+
+(2) any State- or federally-regulated insurance company,
+
+(3) any entity wholly owned, directly or indirectly, by a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106) if—(A) such entity is organized, incorporated, or established under the laws of the United States or any State, and
+
+(B) the principal place of business of such entity is in the United States (including any territory of the United States),
+
+
+(4) any entity wholly owned, directly or indirectly, by a company that is considered an insurance holding company under the laws of any State if such entity satisfies the requirements described in subparagraphs (A) and (B) of paragraph (3), and
+
+(5) with respect to interest received on a qualified real estate loan secured by real estate described in subsection (c)(3)(A), any federally chartered instrumentality of the United States established under section 8.1(a) of the Farm Credit Act of 1971 (12 U.S.C. 2279aa–1(a)).
+
+
+(c) Qualified real estate loanFor purposes of this section—(1) In generalThe term “qualified real estate loan” means any loan—(A) secured by—(i) rural or agricultural real estate, or
+
+(ii) a leasehold mortgage (with a status as a lien) on rural or agricultural real estate,
+
+
+(B) made to a person other than a specified foreign entity (as defined in section 7701(a)(51)), and
+
+(C) made after the date of the enactment of this section.
+
+
+For purposes of the preceding sentence, the determination of whether property securing such loan is rural or agr</akn:p></akn:content><akn:subsection eId="subsec_139L_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Gross income shall not include 25 percent of the interest received by a qualified lender on any qualified real estate loan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_139L_b"><akn:num>(b)</akn:num><akn:heading>Qualified lender</akn:heading><akn:content><akn:p>(b) Qualified lender For purposes of this section, the term “qualified lender” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_139L_c"><akn:num>(c)</akn:num><akn:heading>Qualified real estate loan</akn:heading><akn:content><akn:p>(c) Qualified real estate loan For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_139L_d"><akn:num>(d)</akn:num><akn:heading>Coordination with section 265</akn:heading><akn:content><akn:p>(d) Coordination with section 265 In the case of any qualified real estate loan, section 265 shall be applied—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

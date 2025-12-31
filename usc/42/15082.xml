@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15082" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15082/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15082/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15082"><akn:num>15082</akn:num><akn:heading>Grant authority</akn:heading><akn:content><akn:p>§ 15082. Grant authority(a) In generalThe Secretary shall award grants, contracts, or cooperative agreements to public or private nonprofit entities for projects of national significance relating to individuals with developmental disabilities to carry out activities described in section 15081(2) of this title.
+
+
+(b) Federal interagency initiatives(1) In general(A) AuthorityThe Secretary may—(i) enter into agreements with Federal agencies to jointly carry out activities described in section 15081(2) of this title or to jointly carry out activities of common interest related to the objectives of such section; and
+
+(ii) transfer to such agencies for such purposes funds appropriated under this part, and receive and use funds from such agencies for such purposes.
+
+
+(B) Relation to program purposesFunds transferred or received pursuant to this paragraph shall be used only in accordance with statutes authorizing the appropriation of such funds. Such funds shall be made available through grants, contracts, or cooperative agreements only to recipients eligible to receive such funds under such statutes.
+
+
+(C) Procedures and criteriaIf the Secretary enters into an agreement under this subsection for the administration of a jointly funded project—(i) the agreement shall specify which agency’s procedures shall be used to award grants, contracts, or cooperative agreements and to administer such awards;
+
+(ii) the participating agencies may develop a single set of criteria for the jointly funded project, and may require applicants to submit a single application for joint review by such agencies; and
+
+(iii) unless the heads of the participating agencies develop joint eligibility requirements, an applicant for an award for the project shall meet the eligibility requirements of each program involved.
+
+
+
+(2) LimitationThe Secretary may not construe the provisions of this subsection to take precedence over a limitation on joint funding contained in an applicable statute.
+
+
+
+(Pub. L. 106</akn:p></akn:content><akn:subsection eId="subsec_15082_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall award grants, contracts, or cooperative agreements to public or private nonprofit entities for projects of national significance relating to individuals with developmental disabilities to carry out activities described in section 15081(2) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15082_b"><akn:num>(b)</akn:num><akn:heading>Federal interagency initiatives</akn:heading><akn:content><akn:p>(b) Federal interagency initiatives</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

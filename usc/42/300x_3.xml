@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300x–3" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300x–3/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300x–3/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300x_3"><akn:num>300x–3</akn:num><akn:heading>State mental health planning council</akn:heading><akn:content><akn:p>§ 300x–3. State mental health planning council(a) In generalA funding agreement for a grant under section 300x of this title is that the State involved will establish and maintain a State mental health planning council in accordance with the conditions described in this section.
+
+
+(b) DutiesA condition under subsection (a) for a Council is that the duties of the Council are—(1) to review plans provided to the Council pursuant to section 300x–4(a) of this title by the State involved and to submit to the State any recommendations of the Council for modifications to the plans;
+
+(2) to serve as an advocate for adults with a serious mental illness, children with a severe emotional disturbance, and other individuals with mental illnesses or emotional problems; and
+
+(3) to monitor, review, and evaluate, not less than once each year, the allocation and adequacy of mental health services within the State.
+
+
+(c) Membership(1) In generalA condition under subsection (a) for a Council is that the Council be composed of residents of the State, including representatives of—(A) the principal State agencies with respect to—(i) mental health, education, vocational rehabilitation, criminal justice, housing, and social services; and
+
+(ii) the development of the plan submitted pursuant to title XIX of the Social Security Act [42 U.S.C. 1396 et seq.];
+
+
+(B) public and private entities concerned with the need, planning, operation, funding, and use of mental health services and related support services;
+
+(C) adults with serious mental illnesses who are receiving (or have received) mental health services; and
+
+(D) the families of such adults or families of children with emotional disturbance.
+
+
+(2) Certain requirementsA condition under subsection (a) for a Council is that—(A) with respect to the membership of the Council, the ratio of parents of children with a serious emotional disturbance to other members of the Council is sufficient to provide adequate representation of such children in </akn:p></akn:content><akn:subsection eId="subsec_300x_3_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general A funding agreement for a grant under section 300x of this title is that the State involved will establish and maintain a State mental health planning council in accordance with the conditions described in this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300x_3_b"><akn:num>(b)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(b) Duties A condition under subsection (a) for a Council is that the duties of the Council are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300x_3_c"><akn:num>(c)</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>(c) Membership</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300x_3_d"><akn:num>(d)</akn:num><akn:heading>“Council” defined</akn:heading><akn:content><akn:p>(d) “Council” defined For purposes of this section, the term “Council” means a State mental health planning council.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

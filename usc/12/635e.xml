@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/635e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/635e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/635e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_635e"><akn:num>635e</akn:num><akn:heading>Aggregate loan, guarantee, and insurance authority</akn:heading><akn:content><akn:p>§ 635e. Aggregate loan, guarantee, and insurance authority(a) Limitation on outstanding amounts(1) In generalThe Export-Import Bank of the United States shall not have outstanding at any one time loans, guarantees, and insurance in an aggregate amount in excess of the applicable amount.
+
+
+(2) Applicable amount definedIn this subsection, the term “applicable amount”, for each of fiscal years 2020 through 2027, means $135,000,000,000.
+
+
+(3) Freezing of lending cap if default rate is 2 percent or moreIf the rate calculated under section 635g(g)(1) of this title is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under section 635g(g)(1) of this title is less than 2 percent.
+
+
+(4) Subject to appropriationsAll spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+
+
+
+(b) Reserve requirementThe Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.
+
+
+(c) Presidential determination(1) In generalNot later than March 31 of each fiscal year, the President of the United States shall determine whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, particularly those needs arising from—(A) increases in the level of exports unforeseen at the time of the original budget request for such fiscal year;
+
+(B) any increased foreign export credit subsidies; or
+
+(C) the lack of progress in negotiations to reduce or eliminate export credit subsidies.
+
+
+(2) Request for legislation(A) In generalIf the President of the United States finds that the amount of direct loan authority or guarantee authority available to the Bank for the fiscal</akn:p></akn:content><akn:subsection eId="subsec_635e_a"><akn:num>(a)</akn:num><akn:heading>Limitation on outstanding amounts</akn:heading><akn:content><akn:p>(a) Limitation on outstanding amounts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_635e_b"><akn:num>(b)</akn:num><akn:heading>Reserve requirement</akn:heading><akn:content><akn:p>(b) Reserve requirement The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_635e_c"><akn:num>(c)</akn:num><akn:heading>Presidential determination</akn:heading><akn:content><akn:p>(c) Presidential determination</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/42502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/42502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/42502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_42502"><akn:num>42502</akn:num><akn:heading>National Shipper Advisory Committee</akn:heading><akn:content><akn:p>§ 42502. National Shipper Advisory Committee(a) Establishment.—There is established a National Shipper Advisory Committee.
+
+(b) Function.—The Committee shall advise the Federal Maritime Commission on policies relating to the competitiveness, reliability, integrity, and fairness of the international ocean freight delivery system.
+
+(c) Membership.—(1) In general.—The Committee shall consist of 24 members appointed by the Commission in accordance with this section.
+
+(2) Expertise.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+(3) Representation.—Members of the Committee shall be appointed as follows:(A) Twelve members shall represent entities who import cargo to the United States using ocean common carriers.
+
+(B) Twelve members shall represent entities who export cargo from the United States using ocean common carriers.
+
+
+
+(Added Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], § 8604(a), Jan. 1, 2021, 134 Stat. 4762; amended Pub. L. 118–159, div. C, title XXXV, § 3535(h), Dec. 23, 2024, 138 Stat. 2315.)
+
+Editorial Notes
+Amendments2024—Subsec. (c)(3). Pub. L. 118–159 substituted “Representation.—Members of the Committee shall be appointed as follows:” for “Representation.—REPRESENTATION.—Members of the Committee shall be appointed as follows: —”.</akn:p></akn:content><akn:subsection eId="subsec_42502_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is established a National Shipper Advisory Committee.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42502_b"><akn:num>(b)</akn:num><akn:heading>Function.—</akn:heading><akn:content><akn:p>(b) The Committee shall advise the Federal Maritime Commission on policies relating to the competitiveness, reliability, integrity, and fairness of the international ocean freight delivery system.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_42502_c"><akn:num>(c)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

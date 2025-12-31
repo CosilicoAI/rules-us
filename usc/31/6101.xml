@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/6101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/6101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/6101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6101"><akn:num>6101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6101. Definitions
+In this chapter—(1) “administering office” means the lowest unit of an agency responsible for managing a domestic assistance program.
+
+(2) “agency” has the same meaning given that term in section 551(1) of title 5.
+
+(3) “assistance”—(A) means the transfer of anything of value for a public purpose of support or stimulation authorized by a law of the United States, including—(i) financial assistance;
+
+(ii) United States Government facilities, services, and property; and
+
+(iii) expert and technical information; and
+
+
+(B) does not include conventional public information services or procurement of property or services for the direct benefit or use of the Government.
+
+
+(4) “domestic assistance program”—(A) means assistance from an agency for—(i) a State;
+
+(ii) the District of Columbia;
+
+(iii) a territory or possession of the United States;
+
+(iv) a county;
+
+(v) a city;
+
+(vi) a political subdivision or instrumentality of a governmental authority listed in subclauses (i)–(v) of this clause (A);
+
+(vii) a domestic corporation;
+
+(viii) a domestic institution; and
+
+(ix) an individual of the United States; and
+
+
+(B) does not include assistance from an agency for an agency.
+
+
+(5) “Director” means the Director of the Office of Management and Budget.
+
+(6) “Administrator” means the Administrator of General Services.
+
+(7) “formula” means any prescribed method employing objective data or statistical estimates for making individual determinations among recipients of Federal funds, either in terms of eligibility or actual funding allocations, that can be written in the form of either—(A) a closed mathematical statement; or
+
+(B) an iterative procedure or algorithm which can be written as a computer program;
+
+
+and from which the results can be objectively replicated, within reasonable limits due to rounding error, through independent application of such statement, procedures, or algorithm, by different qualified individuals.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 10</akn:p></akn:content><akn:subsection eId="subsec_6101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “administering office” means the lowest unit of an agency responsible for managing a domestic assistance program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “agency” has the same meaning given that term in section 551(1) of title 5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “assistance”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “domestic assistance program”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) “Director” means the Director of the Office of Management and Budget.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) “Administrator” means the Administrator of General Services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) “formula” means any prescribed method employing objective data or statistical estimates for making individual determinations among recipients of Federal funds, either in terms of eligibility or actual funding allocations, that can be written in the form of either— and from which the results can be objectively replicated, within reasonable limits due to rounding error, through independent application of such statement, procedures, or algorithm, by different qualified individuals.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

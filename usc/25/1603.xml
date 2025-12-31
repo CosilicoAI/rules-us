@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/1603" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/1603/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/1603/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1603"><akn:num>1603</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1603. Definitions
+In this chapter:(1) Area officeThe term “Area office” means an administrative entity including a program office, within the Indian Health Service through which services and funds are provided to the service units within a defined geographic area.
+
+
+(2) Behavioral health(A) In generalThe term “behavioral health” means the blending of substance (alcohol, drugs, inhalants, and tobacco) abuse and mental health disorders prevention and treatment for the purpose of providing comprehensive services.
+
+
+(B) InclusionsThe term “behavioral health” includes the joint development of substance abuse and mental health treatment planning and coordinated case management using a multidisciplinary approach.
+
+
+
+(3) California IndianThe term “California Indian” means any Indian who is eligible for health services provided by the Service pursuant to section 1679 of this title.
+
+
+(4) Community collegeThe term “community college” means—(A) a tribal college or university; or
+
+(B) a junior or community college.
+
+
+(5) Contract health serviceThe term “contract health service” means any health service that is—(A) delivered based on a referral by, or at the expense of, an Indian health program; and
+
+(B) provided by a public or private medical provider or hospital that is not a provider or hospital of the Indian health program.
+
+
+(6) DepartmentThe term “Department”, unless otherwise designated, means the Department of Health and Human Services.
+
+
+(7) Disease prevention(A) In generalThe term “disease prevention” means any activity for—(i) the reduction, limitation, and prevention of—(I) disease; and
+
+(II) complications of disease; and
+
+
+(ii) the reduction of consequences of disease.
+
+
+(B) InclusionsThe term “disease prevention” includes an activity for—(i) controlling—(I) the development of diabetes;
+
+(II) high blood pressure;
+
+(III) infectious agents;
+
+(IV) injuries;
+
+(V) occupational hazards and disabilities;
+
+(VI) sexually transmittable diseases; or
+
+(VII) toxic agents; or
+
+</akn:p></akn:content><akn:subsection eId="subsec_1603_1"><akn:num>(1)</akn:num><akn:heading>Area office</akn:heading><akn:content><akn:p>(1) Area office The term “Area office” means an administrative entity including a program office, within the Indian Health Service through which services and funds are provided to the service units within a defined geographic area.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_2"><akn:num>(2)</akn:num><akn:heading>Behavioral health</akn:heading><akn:content><akn:p>(2) Behavioral health</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_3"><akn:num>(3)</akn:num><akn:heading>California Indian</akn:heading><akn:content><akn:p>(3) California Indian The term “California Indian” means any Indian who is eligible for health services provided by the Service pursuant to section 1679 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_4"><akn:num>(4)</akn:num><akn:heading>Community college</akn:heading><akn:content><akn:p>(4) Community college The term “community college” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_5"><akn:num>(5)</akn:num><akn:heading>Contract health service</akn:heading><akn:content><akn:p>(5) Contract health service The term “contract health service” means any health service that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_6"><akn:num>(6)</akn:num><akn:heading>Department</akn:heading><akn:content><akn:p>(6) Department The term “Department”, unless otherwise designated, means the Department of Health and Human Services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_7"><akn:num>(7)</akn:num><akn:heading>Disease prevention</akn:heading><akn:content><akn:p>(7) Disease prevention</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_8"><akn:num>(8)</akn:num><akn:heading>FAE</akn:heading><akn:content><akn:p>(8) FAE The term “FAE” means fetal alcohol effect.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_9"><akn:num>(9)</akn:num><akn:heading>FAS</akn:heading><akn:content><akn:p>(9) FAS The term “fetal alcohol syndrome” or “FAS” means a syndrome in which, with a history of maternal alcohol consumption during pregnancy, the following criteria are met:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1603_10"><akn:num>(10)</akn:num><akn:heading>Health profession</akn:heading><akn:content><akn:p>(10) Health profession The term “Health profession” means allopathic medicine, family medicine, internal medicine, pediatrics, geriatric medicine, obstetrics and gynecology, podiatric medicine, nursing, public health nursing, dentistry, psychiatry, osteopathy, optometry, pharmacy, psychology, public health, social work, marriage and family therapy, chiropractic medicine, environmental health and engineering, an allied health profession, or any other health profession.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

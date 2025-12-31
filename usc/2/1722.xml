@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/1722" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/1722/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/1722/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1722"><akn:num>1722</akn:num><akn:heading>Appointment of members</akn:heading><akn:content><akn:p>§ 1722. Appointment of members(a) Selections from lists submitted by organizations(1) In generalThe Librarian shall request each organization described in paragraph (2) to submit a list of three candidates qualified to serve as a member of the Board. The Librarian shall appoint one member from each such list, and shall designate from that list an alternate who may attend at Board expense those meetings which the individual appointed to the Board cannot attend.
+
+
+(2) Organizations describedThe organizations described in this paragraph are as follows:(A) National Academy of Recording Arts and Sciences (NARAS).
+
+(B) Recording Industry Association of America (RIAA).
+
+(C) Association for Recorded Sound Collections (ARSC).
+
+(D) American Society of Composers, Authors and Publishers (ASCAP).
+
+(E) Broadcast Music, Inc. (BMI).
+
+(F) Songwriters Association (SESAC).
+
+(G) American Federation of Musicians (AF of M).
+
+(H) Music Library Association.
+
+(I) American Musicological Society.
+
+(J) National Archives and Record Administration.
+
+(K) National Association of Recording Merchandisers (NARM).
+
+(L) Society for Ethnomusicology.
+
+(M) American Folklore Society.
+
+(N) Country Music Foundation.
+
+(O) Audio Engineering Society (AES).
+
+(P) National Academy of Popular Music.
+
+(Q) Digital Media Association (DiMA).
+
+
+
+(b) Other membersIn addition to the members appointed under subsection (a), the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.
+
+
+(c) ChairThe Librarian shall appoint one member of the Board to serve as Chair.
+
+
+(d) Term of office(1) TermsThe term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
+
+
+(2) Removal of membersThe Librarian shall have the authority to remove any member of the Board if the member fails, after receivin</akn:p></akn:content><akn:subsection eId="subsec_1722_a"><akn:num>(a)</akn:num><akn:heading>Selections from lists submitted by organizations</akn:heading><akn:content><akn:p>(a) Selections from lists submitted by organizations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1722_b"><akn:num>(b)</akn:num><akn:heading>Other members</akn:heading><akn:content><akn:p>(b) Other members In addition to the members appointed under subsection (a), the Librarian may appoint not more than five members-at-large. The Librarian shall select an alternate for each member-at-large, who may attend at Board expense those meetings that the member-at-large cannot attend.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1722_c"><akn:num>(c)</akn:num><akn:heading>Chair</akn:heading><akn:content><akn:p>(c) Chair The Librarian shall appoint one member of the Board to serve as Chair.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1722_d"><akn:num>(d)</akn:num><akn:heading>Term of office</akn:heading><akn:content><akn:p>(d) Term of office</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/204" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/204/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/204/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_204"><akn:num>204</akn:num><akn:heading>Federal lands access program</akn:heading><akn:content><akn:p>§ 204. Federal lands access program(a) Use of Funds.—(1) In general.—Funds made available under the Federal lands access program shall be used by the Secretary of Transportation and the Secretary of the appropriate Federal land management agency to pay the cost of—(A) transportation planning, research, engineering, preventive maintenance, rehabilitation, restoration, context-sensitive solutions, construction, and reconstruction of Federal lands access transportation facilities located on or adjacent to, or that provide access to, Federal land, and—(i) adjacent vehicular parking areas, including interpretive panels in or adjacent to those areas;
+
+(ii) acquisition of necessary scenic easements and scenic or historic sites;
+
+(iii) provisions for pedestrians and bicycles;
+
+(iv) environmental mitigation in or adjacent to Federal land to improve public safety and reduce vehicle-caused wildlife mortality while maintaining habitat connectivity;
+
+(v) construction and reconstruction of roadside rest areas, including sanitary and water facilities;
+
+(vi) contextual wayfinding markers;
+
+(vii) landscaping;
+
+(viii) cooperative mitigation of visual blight, including screening or removal; and
+
+(ix) other appropriate public road facilities, as determined by the Secretary;
+
+
+(B) operation and maintenance of transit facilities; and
+
+(C) any transportation project eligible for assistance under this title that is within or adjacent to, or that provides access to, Federal land.
+
+
+(2) Contract.—In connection with an activity described in paragraph (1), the Secretary and the Secretary of the appropriate Federal land management agency may enter into a contract or other appropriate agreement with respect to the activity with—(A) a State (including a political subdivision of a State); or
+
+(B) an Indian tribe.
+
+
+(3) Administration.—All appropriations for the construction and improvement of Federal lands access transportation facilities shall be administered in conformity with regulations and ag</akn:p></akn:content><akn:subsection eId="subsec_204_a"><akn:num>(a)</akn:num><akn:heading>Use of Funds.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_204_b"><akn:num>(b)</akn:num><akn:heading>Program Distributions.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_204_c"><akn:num>(c)</akn:num><akn:heading>Programming Decisions Committee.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

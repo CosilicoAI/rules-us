@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3039" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3039/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3039/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3039"><akn:num>3039</akn:num><akn:heading>Assistance to United States law enforcement agencies</akn:heading><akn:content><akn:p>§ 3039. Assistance to United States law enforcement agencies(a) Authority to provide assistanceSubject to subsection (b), elements of the intelligence community may, upon the request of a United States law enforcement agency, collect information outside the United States about individuals who are not United States persons. Such elements may collect such information notwithstanding that the law enforcement agency intends to use the information collected for purposes of a law enforcement investigation or counterintelligence investigation.
+
+
+(b) Limitation on assistance by elements of Department of Defense(1) With respect to elements within the Department of Defense, the authority in subsection (a) applies only to the following:(A) The National Security Agency.
+
+(B) The National Reconnaissance Office.
+
+(C) The National Geospatial-Intelligence Agency.
+
+(D) The Defense Intelligence Agency.
+
+
+(2) Assistance provided under this section by elements of the Department of Defense may not include the direct participation of a member of the Army, Navy, Air Force, or Marine Corps in an arrest or similar activity.
+
+(3) Assistance may not be provided under this section by an element of the Department of Defense if the provision of such assistance will adversely affect the military preparedness of the United States.
+
+(4) The Secretary of Defense shall prescribe regulations governing the exercise of authority under this section by elements of the Department of Defense, including regulations relating to the protection of sources and methods in the exercise of such authority.
+
+
+(c) DefinitionsFor purposes of subsection (a):(1) The term “United States law enforcement agency” means any department or agency of the Federal Government that the Attorney General designates as law enforcement agency for purposes of this section.
+
+(2) The term “United States person” means the following:(A) A United States citizen.
+
+(B) An alien known by the intelligence agency concerned to be a permanent reside</akn:p></akn:content><akn:subsection eId="subsec_3039_a"><akn:num>(a)</akn:num><akn:heading>Authority to provide assistance</akn:heading><akn:content><akn:p>(a) Authority to provide assistance Subject to subsection (b), elements of the intelligence community may, upon the request of a United States law enforcement agency, collect information outside the United States about individuals who are not United States persons. Such elements may collect such information notwithstanding that the law enforcement agency intends to use the information collected for purposes of a law enforcement investigation or counterintelligence investigation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3039_b"><akn:num>(b)</akn:num><akn:heading>Limitation on assistance by elements of Department of Defense</akn:heading><akn:content><akn:p>(b) Limitation on assistance by elements of Department of Defense</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3039_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions For purposes of subsection (a):</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

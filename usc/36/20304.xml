@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/20304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/20304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/20304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20304"><akn:num>20304</akn:num><akn:heading>Powers</akn:heading><akn:content><akn:p>§ 20304. Powers
+The corporation may—(1) adopt bylaws and regulations;
+
+(2) fill vacancies;
+
+(3) provide for the election of foreign, domestic, or honorary associate members, and the division of those members into classes;
+
+(4) receive bequests and donations of property, hold the property in trust, and invest the property to carry out the purpose of the corporation; and
+
+(5) do any other act necessary or usual for such a corporation.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1286.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2030436:4203 (words after 1st comma).Apr. 17, 1916, ch. 77, §§ 3 (words after 1st comma), 5, 39 Stat. 51, 52.
+ 36:4205. 
+
+
+In clause (1), the word “regulations” is substituted for “rules and regulations” to avoid redundancy.
+In clause (2), the words “created by death, resignation, or otherwise” in 36:4203 are omitted as unnecessary.
+In clause (4), the words “be, and the same is hereby, authorized and empowered to” in 36:4205 are omitted because of the word “may” restated before clause (1). The words “real and personal” and “and reinvest” are omitted as unnecessary. The words “to carry out the purpose of the corporation” are substituted for “for the purpose of furthering the interests of literature and the fine arts” for consistency.</akn:p></akn:content><akn:subsection eId="subsec_20304_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) adopt bylaws and regulations;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20304_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) fill vacancies;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20304_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) provide for the election of foreign, domestic, or honorary associate members, and the division of those members into classes;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20304_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) receive bequests and donations of property, hold the property in trust, and invest the property to carry out the purpose of the corporation; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20304_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) do any other act necessary or usual for such a corporation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

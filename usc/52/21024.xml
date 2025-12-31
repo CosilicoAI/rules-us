@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/21024" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/21024/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/21024/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_21024"><akn:num>21024</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 21024. Authorization of appropriations(a) In generalThere are authorized to be appropriated to carry out the provisions of this subpart the following amounts:(1) For fiscal year 2003, $50,000,000.
+
+(2) For fiscal year 2004, $25,000,000.
+
+(3) For fiscal year 2005, $25,000,000.
+
+
+(b) AvailabilityAny amounts appropriated pursuant to the authority of subsection (a) shall remain available without fiscal year limitation until expended.
+
+
+(Pub. L. 107–252, title II, § 264, Oct. 29, 2002, 116 Stat. 1699.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 15424 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.</akn:p></akn:content><akn:subsection eId="subsec_21024_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general There are authorized to be appropriated to carry out the provisions of this subpart the following amounts:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21024_b"><akn:num>(b)</akn:num><akn:heading>Availability</akn:heading><akn:content><akn:p>(b) Availability Any amounts appropriated pursuant to the authority of subsection (a) shall remain available without fiscal year limitation until expended.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

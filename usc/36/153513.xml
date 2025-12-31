@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/153513" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/153513/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/153513/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_153513"><akn:num>153513</akn:num><akn:heading>Distribution of assets on dissolution or final liquidation</akn:heading><akn:content><akn:p>§ 153513. Distribution of assets on dissolution or final liquidation(a) Allowable Recipients.—On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed, as decided by the board of trustees, to—(1) the United States Government, to be administered by the Secretary of the Interior under section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code; or
+
+(2) a State or local government to be used for a public purpose.
+
+
+(b) Restriction.—A distribution under subsection (a) of this section shall be consistent with the purposes of the corporation and in compliance with the charter and bylaws.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1427; Pub. L. 109–284, § 5(10), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 113–287, § 5(i), Dec. 19, 2014, 128 Stat. 3269.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+15351336:4614.Aug. 19, 1964, Pub. L. 88–449, § 14, 78 Stat. 499.
+
+
+In subsection (a), the words “the discharge of all liabilities” are substituted for “the corporation’s liabilities have been satisfied” for consistency in the revised title. In clause (1), the words “as amended and supplemented” are omitted as unnecessary.
+In subsection (b), the words “and Federal and State laws” are omitted as unnecessary.
+
+Editorial Notes
+Amendments2014—Subsec. (a)(1). Pub. L. 113–287 substituted “section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code” for “the Act of August 25, 1916 (16 U.S.C. 1 et seq.) (known as the National Park Service Organic Act)”.
+2006—Subsec. (a)(1). Pub. L. 109–284 substituted “(16 U.S.C. 1 et seq.) (known as the National Park Service Organic Act)” for “(16 U.S.C. 1 et seq.), known as the National Park Service Organic Act))”.</akn:p></akn:content><akn:subsection eId="subsec_153513_a"><akn:num>(a)</akn:num><akn:heading>Allowable Recipients.—</akn:heading><akn:content><akn:p>(a) On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed, as decided by the board of trustees, to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_153513_b"><akn:num>(b)</akn:num><akn:heading>Restriction.—</akn:heading><akn:content><akn:p>(b) A distribution under subsection (a) of this section shall be consistent with the purposes of the corporation and in compliance with the charter and bylaws.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

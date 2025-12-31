@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/240b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/240b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/240b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_240b"><akn:num>240b</akn:num><akn:heading>Financial Improvement and Audit Remediation Plan</akn:heading><akn:content><akn:p>§ 240b. Financial Improvement and Audit Remediation Plan(a) Financial Improvement and Audit Remediation Plan.—(1) In general.—The Under Secretary of Defense (Comptroller) shall, in consultation with the Performance Improvement Officer of the Department of Defense, maintain a plan to be known as the “Financial Improvement and Audit Remediation Plan”.
+
+(2) Elements.—The plan required by paragraph (1) shall—(A) describe specific actions to be taken, including interim milestones with a detailed description of the subordinate activities required, and estimate the costs associated with—(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information;
+
+(ii) ensuring the financial statements of the Department of Defense go under full financial statement audit, and that the Department leadership makes every effort to reach an unmodified opinion as soon as possible;
+
+(iii) ensuring the audit of the financial statements of the Department of Defense for each fiscal year after fiscal year 2020 occurs by not later than March 31 following such fiscal year;
+
+(iv) achieving an unqualified audit opinion for each major element of the statement of budgetary resources of the Department of Defense; and
+
+(v) addressing the existence and completeness of each major category of Department of Defense assets; and
+
+
+(B) systematically tie the actions described under subparagraph (A) to business process and control improvements and business systems modernization efforts described in section 2222 of this title.
+
+
+
+(b) Report and Briefing Requirements.—(1) Annual report.—(A) In general.—Not later than July 31 each year, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees a report on the status of the implementation by the Department of Defense of the Financial Improvement and Audit Remediation Plan under subsection (a).
+
+(B) Elements.—Eac</akn:p></akn:content><akn:subsection eId="subsec_240b_a"><akn:num>(a)</akn:num><akn:heading>Financial Improvement and Audit Remediation Plan.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_240b_b"><akn:num>(b)</akn:num><akn:heading>Report and Briefing Requirements.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_240b_c"><akn:num>(c)</akn:num><akn:heading>Selection of Audit Remediation Services.—</akn:heading><akn:content><akn:p>(c) The selection of audit remediation service providers shall be based, among other appropriate criteria, on qualifications, relevant experience, and capacity to develop and implement corrective action plans to address internal control and compliance deficiencies identified during a financial statement or program audit.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

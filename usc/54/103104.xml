@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/103104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/103104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/103104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_103104"><akn:num>103104</akn:num><akn:heading>Recovery of costs associated with special use permits</akn:heading><akn:content><akn:p>§ 103104. Recovery of costs associated with special use permits
+Notwithstanding any other provision of law, the Service may recover all costs of providing necessary services associated with special use permits. The reimbursements shall be credited to the appropriation current at that time.
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3165.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10310416 U.S.C. 3a.Pub. L. 103–138, title I (2d proviso in paragraph under heading “administrative provisions” under heading “National Park Service”), Nov. 11, 1993, 107 Stat. 1387.
+
+
+The words “on and after November 11, 1993” are omitted as obsolete.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

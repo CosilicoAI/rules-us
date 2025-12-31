@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/900" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/900/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/900/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_900"><akn:num>900</akn:num><akn:heading>Statement of budget enforcement through sequestration; definitions</akn:heading><akn:content><akn:p>§ 900. Statement of budget enforcement through sequestration; definitions(a) Omitted
+
+(b) General statement of budget enforcement through sequestrationThis subchapter provides for budget enforcement as called for in House Concurrent Resolution 84 (105th Congress, 1st session).
+
+
+(c) DefinitionsAs used in this subchapter:(1) The terms “budget authority”, “new budget authority”, “outlays”, and “deficit” have the meanings given to such terms in section 3 of the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 622] and “discretionary spending limit” shall mean the amounts specified in section 901 of this title.
+
+(2) The terms “sequester” and “sequestration” refer to or mean the cancellation of budgetary resources provided by discretionary appropriations or direct spending law.
+
+(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category’s discretionary spending limit for new budget authority or outlays for that year, as the case may be.
+
+(4)(A) The term “nonsecurity category” means all discretionary appropriations not included in the security category defined in subparagraph (B).
+
+(B) The term “security category” includes discretionary appropriations associated with agency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the National Nuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
+
+(C) The term “discretionary category” includes all discretionary appropriations.
+
+(D) The term “revised security category” means discretionary appropriations in budget function 050.
+
+(E) The term “revised nonsecurity category” means discretionary appropriations other than in budget function 050.
+
+(F) The term “category” means the subsets of discretionary a</akn:p></akn:content><akn:subsection eId="subsec_900_a"><akn:num>(a)</akn:num><akn:heading>Omitted</akn:heading><akn:content><akn:p>(a) Omitted</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_900_b"><akn:num>(b)</akn:num><akn:heading>General statement of budget enforcement through sequestration</akn:heading><akn:content><akn:p>(b) General statement of budget enforcement through sequestration This subchapter provides for budget enforcement as called for in House Concurrent Resolution 84 (105th Congress, 1st session).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_900_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions As used in this subchapter:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

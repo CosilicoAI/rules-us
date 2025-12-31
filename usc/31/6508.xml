@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/6508" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/6508/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/6508/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6508"><akn:num>6508</akn:num><akn:heading>Studies and reports</akn:heading><akn:content><akn:p>§ 6508. Studies and reports(a)(1) When requested by a committee of Congress having jurisdiction over a grant program, the Comptroller General shall study the program. The study shall include a review of—(A) the extent to which—(i) the program conflicts with or duplicates other grant programs; and
+
+(ii) more effective, efficient, economical, and uniform administration of the program may be achieved by changing the requirements and procedures applicable to it; and
+
+
+(B) budgetary, accounting, reporting, and administrative procedures of the program.
+
+
+(2) The Comptroller General shall submit to Congress a report on a study made under this subsection and any recommendations. To the extent practicable, a report on an expiring program shall be submitted in the year before the year in which a program ends.
+
+
+(b)(1) When requested by a committee of Congress having jurisdiction over a grant program, the Advisory Commission on Intergovernmental Relations shall study the intergovernmental relations aspects of the program, including—(A) the impact of the program on the structural organization of States and local governments and on Federal-State-local fiscal relations; and
+
+(B) the coordination of administration of the program by the United States Government and State and local governments.
+
+
+(2) The Commission shall submit to the committee requesting the study and to Congress a report and any recommendations.
+
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6508(a)42:4242.Oct. 16, 1968, Pub. L. 90–577, §§ 602, 603, 82 Stat. 1107.
+6508(b)42:4243.
+
+
+In the section, the words “of Congress” are added for clarity. The words “grant program” are substituted for “grant-in-aid program” for consistency in the chapter.
+In subsection (a)(1), before clause (A), the words “The study shall include a review of” are substituted for “to determine” for clarity. In clause (B), the words “amon</akn:p></akn:content><akn:subsection eId="subsec_6508_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6508_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

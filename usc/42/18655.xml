@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18655" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18655/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18655/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18655"><akn:num>18655</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 18655. Authorization of appropriations
+There are authorized to be appropriated to the Secretary to carry out the activities described in this subchapter—(1) $8,902,392,400 for fiscal year 2023;
+
+(2) $9,541,895,744 for fiscal year 2024;
+
+(3) $10,068,198,994 for fiscal year 2025;
+
+(4) $10,468,916,520 for fiscal year 2026; and
+
+(5) $10,831,342,317 for fiscal year 2027.
+
+(Pub. L. 115–246, title III, § 317, as added Pub. L. 117–167, div. B, title I, § 10112(a), Aug. 9, 2022, 136 Stat. 1464.)</akn:p></akn:content><akn:subsection eId="subsec_18655_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) $8,902,392,400 for fiscal year 2023;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18655_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) $9,541,895,744 for fiscal year 2024;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18655_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) $10,068,198,994 for fiscal year 2025;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18655_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) $10,468,916,520 for fiscal year 2026; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18655_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) $10,831,342,317 for fiscal year 2027.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

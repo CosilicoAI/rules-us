@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30524" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30524/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30524/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30524"><akn:num>30524</akn:num><akn:heading>Limit of liability for personal injury or death</akn:heading><akn:content><akn:p>§ 30524. Limit of liability for personal injury or death(a) Application.—This section applies only to seagoing vessels, but does not apply to pleasure yachts, tugs, towboats, towing vessels, tank vessels, fishing vessels, fish tender vessels, canal boats, scows, car floats, barges, lighters, or nondescript vessels.
+
+(b) Minimum Liability.—If the amount of the vessel owner’s liability determined under section 30523 of this title is insufficient to pay all losses in full, and the portion available to pay claims for personal injury or death is less than $420 times the tonnage of the vessel, that portion shall be increased to $420 times the tonnage of the vessel. That portion may be used only to pay claims for personal injury or death.
+
+(c) Calculation of Tonnage.—Under subsection (b), the tonnage of a self-propelled vessel is the gross tonnage without deduction for engine room, and the tonnage of a sailing vessel is the tonnage for documentation. However, space for the use of seamen is excluded.
+
+(d) Claims Arising on Distinct Occasions.—Separate limits of liability apply to claims for personal injury or death arising on distinct occasions.
+
+(e) Privity or Knowledge.—In a claim for personal injury or death, the privity or knowledge of the master or the owner’s superintendent or managing agent, at or before the beginning of each voyage, is imputed to the owner.
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1513, § 30506; renumbered § 30524 and amended Pub. L. 117–263, div. K, title CXV, § 11503(a)(3), (f)(3), Dec. 23, 2022, 136 Stat. 4130, 4131.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30506(a)46 App.:183(f) (related to 46 App.:183(b)–(e)).
+30506(b)46 App.:183(b) (1st sentence).R.S. § 4283(b) (1st sentence); Aug. 29, 1935, ch. 804, § 1, 49 Stat. 960; June 5, 1936, ch. 521, § 1, 49 Stat. 1479; Pub. L. 98–498, title II, § 213(a), Oct. 19, 1984, 98 Stat. 2306.
+30506(c)46 App.:183(c).R.S. § 4283(c)–(f) (re</akn:p></akn:content><akn:subsection eId="subsec_30524_a"><akn:num>(a)</akn:num><akn:heading>Application.—</akn:heading><akn:content><akn:p>(a) This section applies only to seagoing vessels, but does not apply to pleasure yachts, tugs, towboats, towing vessels, tank vessels, fishing vessels, fish tender vessels, canal boats, scows, car floats, barges, lighters, or nondescript vessels.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30524_b"><akn:num>(b)</akn:num><akn:heading>Minimum Liability.—</akn:heading><akn:content><akn:p>(b) If the amount of the vessel owner’s liability determined under section 30523 of this title is insufficient to pay all losses in full, and the portion available to pay claims for personal injury or death is less than $420 times the tonnage of the vessel, that portion shall be increased to $420 times the tonnage of the vessel. That portion may be used only to pay claims for personal injury or death.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30524_c"><akn:num>(c)</akn:num><akn:heading>Calculation of Tonnage.—</akn:heading><akn:content><akn:p>(c) Under subsection (b), the tonnage of a self-propelled vessel is the gross tonnage without deduction for engine room, and the tonnage of a sailing vessel is the tonnage for documentation. However, space for the use of seamen is excluded.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30524_d"><akn:num>(d)</akn:num><akn:heading>Claims Arising on Distinct Occasions.—</akn:heading><akn:content><akn:p>(d) Separate limits of liability apply to claims for personal injury or death arising on distinct occasions.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30524_e"><akn:num>(e)</akn:num><akn:heading>Privity or Knowledge.—</akn:heading><akn:content><akn:p>(e) In a claim for personal injury or death, the privity or knowledge of the master or the owner’s superintendent or managing agent, at or before the beginning of each voyage, is imputed to the owner.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/170103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/170103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/170103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_170103"><akn:num>170103</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>§ 170103. Membership
+An individual is eligible for membership in the corporation if the individual—(1) is a citizen of the United States;
+
+(2) was regularly enlisted, inducted, or commissioned, and was accepted for or on active duty, in the Army, Navy, Marine Corps, Air Force, or Coast Guard of the United States or an ally of the United States;
+
+(3)(A) was separated from service in the Armed Forces under conditions other than dishonorable; or
+
+(B) is on active duty or must continue to serve after the cessation of hostilities; and
+
+
+(4) has suffered a spinal cord injury or disease, whether or not service connected in origin.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1440.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+17010336:1157.Aug. 11, 1971, Pub. L. 92–93, § 7, 85 Stat. 318.
+
+
+In clause (1), the words “citizen of the United States” are substituted for “American citizen” for consistency in the revised title and with other titles of the United States Code.
+Clause (3)(A) is substituted for “Service with the Armed Forces must have been terminated by discharge or separation from service under conditions other than dishonorable” to eliminate unnecessary words.
+Clause (3)(B) is substituted for “Provided, however, That persons otherwise eligible for membership who are on active duty or who must continue to serve after the cessation of hostilities are also eligible for membership” to eliminate unnecessary words.
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note</akn:p></akn:content><akn:subsection eId="subsec_170103_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) is a citizen of the United States;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_170103_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) was regularly enlisted, inducted, or commissioned, and was accepted for or on active duty, in the Army, Navy, Marine Corps, Air Force, or Coast Guard of the United States or an ally of the United States;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_170103_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_170103_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) has suffered a spinal cord injury or disease, whether or not service connected in origin.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

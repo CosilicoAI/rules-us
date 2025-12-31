@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/3863" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/3863/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/3863/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3863"><akn:num>3863</akn:num><akn:heading>Retention of amounts collected from contractor during the pendency of contract dispute</akn:heading><akn:content><akn:p>§ 3863. Retention of amounts collected from contractor during the pendency of contract dispute(a) Retention of Funds.—Notwithstanding sections 1552(a) and 3302(b) of title 31, any amount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under chapter 71 of title 41, shall remain available in accordance with this section to pay—(1) any settlement of the claim by the parties;
+
+(2) any judgment rendered in the contractor’s favor on an appeal of the decision on that claim to the Armed Services Board of Contract Appeals under section 7104(a) of title 41; or
+
+(3) any judgment rendered in the contractor’s favor in an action on that claim in a court of the United States.
+
+
+(b) Period of Availability.—(1) The period of availability of an amount under subsection (a), in connection with a claim—(A) expires 180 days after the expiration of the period for bringing an action on that claim in the United States Court of Federal Claims under section 7104(b) of title 41 if, within that 180-day period—(i) no appeal on the claim is commenced at the Armed Services Board of Contract Appeals under section 7104(a) of such title; and
+
+(ii) no action on the claim is commenced in a court of the United States; or
+
+
+(B) if not expiring under subparagraph (A), expires—(i) in the case of a settlement of the claim, 180 days after the date of the settlement; or
+
+(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7104(a) of title 41 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
+
+
+
+(2) While available under this section, an amount may be obligated or expended only for a purpose described in subsection (a).
+
+(3) Upon the expiration of the period of availability of an amount under paragraph (1), the amount shall be covered into the Treasury as miscellaneous receipts.
+
+
+(Added Pub</akn:p></akn:content><akn:subsection eId="subsec_3863_a"><akn:num>(a)</akn:num><akn:heading>Retention of Funds.—</akn:heading><akn:content><akn:p>(a) Notwithstanding sections 1552(a) and 3302(b) of title 31, any amount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under chapter 71 of title 41, shall remain available in accordance with this section to pay—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3863_b"><akn:num>(b)</akn:num><akn:heading>Period of Availability.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/657" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/657/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/657/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_657"><akn:num>657</akn:num><akn:heading>Distribution of collected support</akn:heading><akn:content><akn:p>§ 657. Distribution of collected support(a) In generalSubject to subsections (d) and (e), the amounts collected on behalf of a family as support by a State pursuant to a plan approved under this part shall be distributed as follows:(1) Families receiving assistanceIn the case of a family receiving assistance from the State, the State shall—(A) pay to the Federal Government the Federal share of the amount collected, subject to paragraph (3)(A);
+
+(B) retain, or pay to the family, the State share of the amount collected, subject to paragraph (3)(B); and
+
+(C) pay to the family any remaining amount.
+
+
+(2) Families that formerly received assistanceIn the case of a family that formerly received assistance from the State:(A) Current supportTo the extent that the amount collected does not exceed the current support amount, the State shall pay the amount to the family.
+
+
+(B) ArrearagesExcept as otherwise provided in an election made under section 654(34) of this title, to the extent that the amount collected exceeds the current support amount, the State—(i) shall first pay to the family the excess amount, to the extent necessary to satisfy support arrearages not assigned pursuant to section 608(a)(3) of this title;
+
+(ii) if the amount collected exceeds the amount required to be paid to the family under clause (i), shall—(I) pay to the Federal Government the Federal share of the excess amount described in this clause, subject to paragraph (3)(A); and
+
+(II) retain, or pay to the family, the State share of the excess amount described in this clause, subject to paragraph (3)(B); and
+
+
+(iii) shall pay to the family any remaining amount.
+
+
+
+(3) Limitations(A) Federal reimbursementsThe total of the amounts paid by the State to the Federal Government under paragraphs (1) and (2) of this subsection with respect to a family shall not exceed the Federal share of the amount assigned with respect to the family pursuant to section 608(a)(3) of this title.
+
+
+(B) State reimbursementsThe tota</akn:p></akn:content><akn:subsection eId="subsec_657_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Subject to subsections (d) and (e), the amounts collected on behalf of a family as support by a State pursuant to a plan approved under this part shall be distributed as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_657_b"><akn:num>(b)</akn:num><akn:heading>Continuation of assignments</akn:heading><akn:content><akn:p>(b) Continuation of assignments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_657_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions As used in subsection (a):</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_657_d"><akn:num>(d)</akn:num><akn:heading>Gap payments not subject to distribution under this section</akn:heading><akn:content><akn:p>(d) Gap payments not subject to distribution under this section At State option, this section shall not apply to any amount collected on behalf of a family as support by the State (and paid to the family in addition to the amount of assistance otherwise payable to the family) pursuant to a plan approved under this part if such amount would have been paid to the family by the State under section 602(a)(28) of this title, as in effect and applied on the day before August 22, 1996.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_657_e"><akn:num>(e)</akn:num><akn:heading>Amounts collected for child for whom foster care maintenance payments are made</akn:heading><akn:content><akn:p>(e) Amounts collected for child for whom foster care maintenance payments are made Notwithstanding the preceding provisions of this section, amounts collected by a State as child support for months in any period on behalf of a child for whom a public agency is making foster care maintenance payments under part E of this subchapter— and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

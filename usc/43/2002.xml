@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/2002" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/2002/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/2002/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2002"><akn:num>2002</akn:num><akn:heading>Statement of purposes</akn:heading><akn:content><akn:p>§ 2002. Statement of purposes
+The purposes of this chapter are—(1) to provide a means for—(A) selecting delivery systems to transport Alaskan and other crude oil to northern tier States and inland States, and
+
+(B) resolving both the west coast crude oil surplus and the crude oil supply problems in the northern tier States;
+
+
+(2) to provide an expedited procedure for acting on applications for all Federal permits, licenses, and approvals required for the construction and operation or any transportation system approved under this chapter and the Long Beach-Midland project; and
+
+(3) to assure that Federal decisions with respect to crude oil transportation systems are coordinated with State decisions to the maximum extent practicable.
+
+(Pub. L. 95–617, title V, § 502, Nov. 9, 1978, 92 Stat. 3157.)
+
+Statutory Notes and Related Subsidiaries
+
+Definitions
+The definition of “State” in section 2602 of Title 16, Conservation, applies to this section.</akn:p></akn:content><akn:subsection eId="subsec_2002_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) to provide a means for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2002_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) to provide an expedited procedure for acting on applications for all Federal permits, licenses, and approvals required for the construction and operation or any transportation system approved under this chapter and the Long Beach-Midland project; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2002_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) to assure that Federal decisions with respect to crude oil transportation systems are coordinated with State decisions to the maximum extent practicable.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

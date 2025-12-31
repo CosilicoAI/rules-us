@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/10102a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/10102a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/10102a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10102a"><akn:num>10102a</akn:num><akn:heading>Deployment prioritization and readiness of Army components</akn:heading><akn:content><akn:p>§ 10102a. Deployment prioritization and readiness of Army components(a) Deployment Prioritization.—The Secretary of the Army shall maintain a system for identifying the priority of deployment for units of all components of the Army.
+
+(b) Deployability Readiness Rating.—The Secretary of the Army shall maintain a readiness rating system for units of all components of the Army that provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. The system shall ensure—(1) that the personnel readiness rating of a unit reflects—(A) both the percentage of the overall personnel requirement of the unit that is manned and deployable and the fill and deployability rate for critical occupational specialties necessary for the unit to carry out its basic mission requirements; and
+
+(B) the number of personnel in the unit who are qualified in their primary military occupational specialty; and
+
+
+(2) that the equipment readiness assessment of a unit—(A) documents all equipment required for deployment;
+
+(B) reflects only that equipment that is directly possessed by the unit;
+
+(C) specifies the effect of substitute items; and
+
+(D) assesses the effect of missing components and sets on the readiness of major equipment items.
+
+
+
+(Added Pub. L. 114–328, div. A, title III, § 321(a)(1), Dec. 23, 2016, 130 Stat. 2074.)</akn:p></akn:content><akn:subsection eId="subsec_10102a_a"><akn:num>(a)</akn:num><akn:heading>Deployment Prioritization.—</akn:heading><akn:content><akn:p>(a) The Secretary of the Army shall maintain a system for identifying the priority of deployment for units of all components of the Army.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10102a_b"><akn:num>(b)</akn:num><akn:heading>Deployability Readiness Rating.—</akn:heading><akn:content><akn:p>(b) The Secretary of the Army shall maintain a readiness rating system for units of all components of the Army that provides an accurate assessment of the deployability of a unit and those shortfalls of a unit that require the provision of additional resources. The system shall ensure—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

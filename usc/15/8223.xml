@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8223" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8223/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8223/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8223"><akn:num>8223</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8223. Definitions
+For purposes of this subchapter, the following definitions shall apply:(1) Ceding insurerThe term “ceding insurer” means an insurer that purchases reinsurance.
+
+
+(2) Domiciliary StateThe terms “State of domicile” and “domiciliary State” mean, with respect to an insurer or reinsurer, the State in which the insurer or reinsurer is incorporated or entered through, and licensed.
+
+
+(3) NAICThe term “NAIC” means the National Association of Insurance Commissioners or any successor entity.
+
+
+(4) ReinsuranceThe term “reinsurance” means the assumption by an insurer of all or part of a risk undertaken originally by another insurer.
+
+
+(5) Reinsurer(A) In generalThe term “reinsurer” means an insurer to the extent that the insurer—(i) is principally engaged in the business of reinsurance;
+
+(ii) does not conduct significant amounts of direct insurance as a percentage of its net premiums; and
+
+(iii) is not engaged in an ongoing basis in the business of soliciting direct insurance.
+
+
+(B) DeterminationA determination of whether an insurer is a reinsurer shall be made under the laws of the State of domicile in accordance with this paragraph.
+
+
+
+(6) StateThe term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
+
+
+(Pub. L. 111–203, title V, § 533, July 21, 2010, 124 Stat. 1595.)</akn:p></akn:content><akn:subsection eId="subsec_8223_1"><akn:num>(1)</akn:num><akn:heading>Ceding insurer</akn:heading><akn:content><akn:p>(1) Ceding insurer The term “ceding insurer” means an insurer that purchases reinsurance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8223_2"><akn:num>(2)</akn:num><akn:heading>Domiciliary State</akn:heading><akn:content><akn:p>(2) Domiciliary State The terms “State of domicile” and “domiciliary State” mean, with respect to an insurer or reinsurer, the State in which the insurer or reinsurer is incorporated or entered through, and licensed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8223_3"><akn:num>(3)</akn:num><akn:heading>NAIC</akn:heading><akn:content><akn:p>(3) NAIC The term “NAIC” means the National Association of Insurance Commissioners or any successor entity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8223_4"><akn:num>(4)</akn:num><akn:heading>Reinsurance</akn:heading><akn:content><akn:p>(4) Reinsurance The term “reinsurance” means the assumption by an insurer of all or part of a risk undertaken originally by another insurer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8223_5"><akn:num>(5)</akn:num><akn:heading>Reinsurer</akn:heading><akn:content><akn:p>(5) Reinsurer</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8223_6"><akn:num>(6)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(6) State The term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

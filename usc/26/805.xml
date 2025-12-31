@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/805" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/805/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/805/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_805"><akn:num>805</akn:num><akn:heading>General deductions</akn:heading><akn:content><akn:p>§ 805. General deductions(a) General ruleFor purposes of this part, there shall be allowed the following deductions:(1) Death benefits, etc.All claims and benefits accrued, and all losses incurred (whether or not ascertained), during the taxable year on insurance and annuity contracts.
+
+
+(2) Increases in certain reservesThe net increase in reserves which is required by section 807(b) to be taken into account under this paragraph.
+
+
+(3) Policyholder dividendsThe deduction for policyholder dividends (determined under section 808(c)).
+
+
+(4) Dividends received by company(A) In generalThe deductions provided by sections 243 and 245 (as modified by subparagraph (B))—(i) for 100 percent dividends received, and
+
+(ii) for the life insurance company’s share of the dividends (other than 100 percent dividends) received.
+
+
+(B) Application of section 246(b)In applying section 246(b) (relating to limitation on aggregate amount of deductions for dividends received) for purposes of subparagraph (A), the limit on the aggregate amount of the deductions allowed by sections 243(a)(1) and 245 shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3)), computed without regard to—(i) the deduction allowed under section 172,
+
+(ii) the deductions allowed by sections 243(a)(1) and 245, and
+
+(iii) any capital loss carryback to the taxable year under section 1212(a)(1),
+
+
+but such limit shall not apply for any taxable year for which there is a loss from operations.
+
+(C) 100 percent dividendFor purposes of subparagraph (A)—(i) In generalExcept as provided in clause (ii), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
+
+
+(ii) Treatment of dividends from noninsurance companiesThe term “100 percent dividend” does not include any distribution by a corporation which</akn:p></akn:content><akn:subsection eId="subsec_805_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of this part, there shall be allowed the following deductions: Except as provided in paragraph (3), no amount shall be allowed as a deduction under this part in respect of policyholder dividends.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_805_b"><akn:num>(b)</akn:num><akn:heading>Modifications</akn:heading><akn:content><akn:p>(b) Modifications The modifications referred to in subsection (a)(8) are as follows:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

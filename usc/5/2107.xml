@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/2107" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/2107/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/2107/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2107"><akn:num>2107</akn:num><akn:heading>Congressional employee</akn:heading><akn:content><akn:p>§ 2107. Congressional employee
+For the purpose of this title, “Congressional employee” means—(1) an employee of either House of Congress, of a committee of either House, or of a joint committee of the two Houses;
+
+(2) an elected officer of either House who is not a Member of Congress;
+
+(3) the Legislative Counsel of either House and an employee of his office;
+
+(4) a member or employee of the Capitol Police;
+
+(5) an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;
+
+[(6) Repealed. Pub. L. 90–83, § 1(5)(A), Sept. 11, 1967, 81 Stat. 196.]
+
+(7) the Architect of the Capitol and an employee of the Architect of the Capitol;
+
+(8) an employee of the Botanic Garden; and
+
+(9) an employee of the Office of Congressional Accessibility Services.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, § 1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, § 442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, § 215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, § 422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, § 7(a), Mar. 4, 2010, 124 Stat. 55.)
+
+Historical and Revision Notes
+1966 ActThe section is supplied to avoid the necessity of defining “Congressional employee” each time the term is used in this title.
+
+
+
+
+
+
+
+
+
+1967 Act
+
+
+Section of title 5Source (U.S. Code)Source (Statutes at Large)
+
+
+2107(6)2:126–1.July 27, 1965, Pub. L. 89–90, § 101 (proviso on p. 265), 79 Stat. 265.
+2107(8)5 App.: 2251(c).Sept. 26, 1966, Pub. L. 89–604, § 1(a), 80 Stat. 846.
+
+
+Paragraph (6), relating to Official Reporters of Debates of the Senate and their employees, is eliminated as unnecessary on authority of the act of July 27, 1965 (2 U.S.C. 126–1). Pursuant to that act, the Official Reporters and their employees became employees of the Senate; accordingly, they are now included within the definition of “Congressional employee” under pa</akn:p></akn:content><akn:subsection eId="subsec_2107_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) an employee of either House of Congress, of a committee of either House, or of a joint committee of the two Houses;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) an elected officer of either House who is not a Member of Congress;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the Legislative Counsel of either House and an employee of his office;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) a member or employee of the Capitol Police;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_6"><akn:num>(6)</akn:num><akn:content><akn:p>[(6) Repealed. Pub. L. 90–83, § 1(5)(A), Sept. 11, 1967, 81 Stat. 196.]</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) the Architect of the Capitol and an employee of the Architect of the Capitol;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) an employee of the Botanic Garden; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2107_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) an employee of the Office of Congressional Accessibility Services.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

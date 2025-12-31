@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1145" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1145/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1145/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1145"><akn:num>1145</akn:num><akn:heading>Exemption from securities laws</akn:heading><akn:content><akn:p>§ 1145. Exemption from securities laws(a) Except with respect to an entity that is an underwriter as defined in subsection (b) of this section, section 5 of the Securities Act of 1933 and any State or local law requiring registration for offer or sale of a security or registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security do not apply to—(1) the offer or sale under a plan of a security of the debtor, of an affiliate participating in a joint plan with the debtor, or of a successor to the debtor under the plan—(A) in exchange for a claim against, an interest in, or a claim for an administrative expense in the case concerning, the debtor or such affiliate; or
+
+(B) principally in such exchange and partly for cash or property;
+
+
+(2) the offer of a security through any warrant, option, right to subscribe, or conversion privilege that was sold in the manner specified in paragraph (1) of this subsection, or the sale of a security upon the exercise of such a warrant, option, right, or privilege;
+
+(3) the offer or sale, other than under a plan, of a security of an issuer other than the debtor or an affiliate, if—(A) such security was owned by the debtor on the date of the filing of the petition;
+
+(B) the issuer of such security is—(i) required to file reports under section 13 or 15(d) of the Securities Exchange Act of 1934; and
+
+(ii) in compliance with the disclosure and reporting provision of such applicable section; and
+
+
+(C) such offer or sale is of securities that do not exceed—(i) during the two-year period immediately following the date of the filing of the petition, four percent of the securities of such class outstanding on such date; and
+
+(ii) during any 180-day period following such two-year period, one percent of the securities outstanding at the beginning of such 180-day period; or
+
+
+
+(4) a transaction by a stockbroker in a security that is executed after a transaction of a kind specified in paragraph (1) or (2) of this subse</akn:p></akn:content><akn:subsection eId="subsec_1145_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except with respect to an entity that is an underwriter as defined in subsection (b) of this section, section 5 of the Securities Act of 1933 and any State or local law requiring registration for offer or sale of a security or registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security do not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1145_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1145_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) An offer or sale of securities of the kind and in the manner specified under subsection (a)(1) of this section is deemed to be a public offering.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1145_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Trust Indenture Act of 1939 does not apply to a note issued under the plan that matures not later than one year after the effective date of the plan.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

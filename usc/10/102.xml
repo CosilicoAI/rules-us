@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_102"><akn:num>102</akn:num><akn:heading>Effect of certain amendments on conforming changes to tables of sections, tables of contents, and si</akn:heading><akn:content><akn:p>§ 102. Effect of certain amendments on conforming changes to tables of sections, tables of contents, and similar tabular entries(a) Automatic Execution of Conforming Changes.—When an amendment to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment.
+
+(b) Exceptions.—Subsection (a) shall not apply to an amendment described in such subsection when—(1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment; or
+
+(2) the amendment otherwise expressly exempts itself from the operation of this section.
+
+
+(c) Covered Defense Law.—In this section, the term “covered defense law” means—(1) this title;
+
+(2) titles 32 and 37;
+
+(3) any national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Department of Defense; and
+
+(4) any other law designated in the text thereof as a covered defense law for purposes of application of this section.
+
+
+(Added Pub. L. 117–263, div. A, title X, § 1081(e)(1), Dec. 23, 2022, 136 Stat. 2798.)
+
+Statutory Notes and Related Subsidiaries
+Application of AmendmentPub. L. 117–263, div. A, title X, § 1081(e)(3), Dec. 23, 2022, 136 Stat. 2798, provided that: “Section 102 of title 10, United States Code, as added by paragraph (1), shall apply to the amendments made by this section and other amendments made by this Act [see Tables for classification].”
+
+
+Coordination With Other Amendment</akn:p></akn:content><akn:subsection eId="subsec_102_a"><akn:num>(a)</akn:num><akn:heading>Automatic Execution of Conforming Changes.—</akn:heading><akn:content><akn:p>(a) When an amendment to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_102_b"><akn:num>(b)</akn:num><akn:heading>Exceptions.—</akn:heading><akn:content><akn:p>(b) Subsection (a) shall not apply to an amendment described in such subsection when—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_102_c"><akn:num>(c)</akn:num><akn:heading>Covered Defense Law.—</akn:heading><akn:content><akn:p>(c) In this section, the term “covered defense law” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/7418" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/7418/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/7418/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7418"><akn:num>7418</akn:num><akn:heading>Petition and review of orders</akn:heading><akn:content><akn:p>§ 7418. Petition and review of orders(a) Petition(1) In generalA person subject to an order issued under this subchapter may file with the Secretary a petition—(A) stating that the order, any provision of the order, or any obligation imposed in connection with the order, is not established in accordance with law; and
+
+(B) requesting a modification of the order or an exemption from the order.
+
+
+(2) HearingThe Secretary shall give the petitioner an opportunity for a hearing on the petition, in accordance with regulations issued by the Secretary.
+
+
+(3) RulingAfter the hearing, the Secretary shall make a ruling on the petition. The ruling shall be final, subject to review as set forth in subsection (b).
+
+
+(4) Limitation on petitionAny petition filed under this subsection challenging an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed within 2 years after the effective date of the order, provision, or obligation subject to challenge in the petition.
+
+
+
+(b) Review(1) Commencement of actionThe district court of the United States for any district in which a person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review the final ruling on the petition of the person, if a complaint for that purpose is filed not later than 20 days after the date of the entry of the final ruling by the Secretary under subsection (a)(3).
+
+
+(2) ProcessService of process in a proceeding may be made on the Secretary by delivering a copy of the complaint to the Secretary.
+
+
+(3) RemandsIf the court determines that the ruling is not in accordance with law, the court shall remand the matter to the Secretary with directions—(A) to make such ruling as the court determines to be in accordance with law; or
+
+(B) to take such further action as, in the opinion of the court, the law requires.
+
+
+
+(c) Effect on enforcement proceedingsThe pendency of a petition filed under subsection (a) or an action commen</akn:p></akn:content><akn:subsection eId="subsec_7418_a"><akn:num>(a)</akn:num><akn:heading>Petition</akn:heading><akn:content><akn:p>(a) Petition</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7418_b"><akn:num>(b)</akn:num><akn:heading>Review</akn:heading><akn:content><akn:p>(b) Review</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7418_c"><akn:num>(c)</akn:num><akn:heading>Effect on enforcement proceedings</akn:heading><akn:content><akn:p>(c) Effect on enforcement proceedings The pendency of a petition filed under subsection (a) or an action commenced under subsection (b) shall not operate as a stay of any action authorized by section 7419 of this title to be taken to enforce this subchapter, including any rule, order, or penalty in effect under this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

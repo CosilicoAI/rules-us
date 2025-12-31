@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/2809" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/2809/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/2809/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2809"><akn:num>2809</akn:num><akn:heading>Reports to tribes</akn:heading><akn:content><akn:p>§ 2809. Reports to tribes(a) Coordination and data collection(1) Investigative coordinationSubject to subsection (c), if a law enforcement officer or employee of any Federal department or agency terminates an investigation of an alleged violation of Federal criminal law in Indian country without referral for prosecution, the officer or employee shall coordinate with the appropriate tribal law enforcement officials regarding the status of the investigation and the use of evidence relevant to the case in a tribal court with authority over the crime alleged.
+
+
+(2) Investigation dataThe Federal Bureau of Investigation shall compile, on an annual basis and by Field Division, information regarding decisions not to refer to an appropriate prosecuting authority cases in which investigations had been opened into an alleged crime in Indian country, including—(A) the types of crimes alleged;
+
+(B) the statuses of the accused as Indians or non-Indians;
+
+(C) the statuses of the victims as Indians or non-Indians; and
+
+(D) the reasons for deciding against referring the investigation for prosecution.
+
+
+(3) Prosecutorial coordinationSubject to subsection (c), if a United States Attorney declines to prosecute, or acts to terminate prosecution of, an alleged violation of Federal criminal law in Indian country, the United States Attorney shall coordinate with the appropriate tribal justice officials regarding the status of the investigation and the use of evidence relevant to the case in a tribal court with authority over the crime alleged.
+
+
+(4) Prosecution dataThe United States Attorney shall submit to the Native American Issues Coordinator to compile, on an annual basis and by Federal judicial district, information regarding all declinations of alleged violations of Federal criminal law that occurred in Indian country that were referred for prosecution by law enforcement agencies, including—(A) the types of crimes alleged;
+
+(B) the statuses of the accused as Indians or non-Indians;
+
+</akn:p></akn:content><akn:subsection eId="subsec_2809_a"><akn:num>(a)</akn:num><akn:heading>Coordination and data collection</akn:heading><akn:content><akn:p>(a) Coordination and data collection</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2809_b"><akn:num>(b)</akn:num><akn:heading>Annual reports</akn:heading><akn:content><akn:p>(b) Annual reports The Attorney General shall submit to Congress annual reports containing, with respect to the applicable calendar year, the information compiled under paragraphs (2) and (4) of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2809_c"><akn:num>(c)</akn:num><akn:heading>Effect of section</akn:heading><akn:content><akn:p>(c) Effect of section</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

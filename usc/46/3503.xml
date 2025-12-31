@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/3503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/3503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/3503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3503"><akn:num>3503</akn:num><akn:heading>Fire-retardant materials</akn:heading><akn:content><akn:p>§ 3503. Fire-retardant materials(a)(1) A passenger vessel of the United States having berth or stateroom accommodations for at least 50 passengers shall be granted a certificate of inspection only if—(A) the vessel is constructed of fire-retardant materials; and
+
+(B) the vessel—(i) is operating engines, boilers, main electrical distribution panels, fuel tanks, oil tanks, and generators that meet current Coast Guard regulations; and
+
+(ii) is operating boilers and main electrical generators that are contained within noncombustible enclosures equipped with fire suppression systems.
+
+
+
+(2) Before December 1, 2028, this subsection does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.
+
+
+(b)(1) The owner or managing operator of an exempted vessel described in subsection (a)(2) shall—(A) notify in writing prospective passengers, prior to purchase, and each crew member that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas;
+
+(B) display in clearly legible font prominently throughout the vessel, including in each state room the following: “THIS VESSEL FAILS TO COMPLY WITH SAFETY RULES AND REGULATIONS OF THE U.S. COAST GUARD.”;
+
+(C) acquire prior to the vessel entering service, and maintain, liability insurance in an amount to be prescribed by the Federal Maritime Commission;
+
+(D) make annual structural alteration to not less than 10 percent of the areas of the vessel that are not constructed of fire retardant materials;
+
+(E) prioritize alterations in galleys, engineering areas of the vessel, including all spaces and compartments containing, or adjacent to spaces and compartments containing, engines, boilers, main electrical distribution panels, fuel tanks, oil tanks, and generators;
+
+(F) ensure, to the satisfaction of the Secretary, that the combustible fire-load has been reduced pursuant to subparagraph (D) during each annual inspection</akn:p></akn:content><akn:subsection eId="subsec_3503_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3503_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3503_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) In addition to otherwise applicable penalties, the Secretary may immediately withdraw a certificate of inspection for an exempted vessel described in subsection (a)(2) that does not comply with any requirement under subsection (b).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

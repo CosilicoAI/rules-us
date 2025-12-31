@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/251" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/251/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/251/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_251"><akn:num>251</akn:num><akn:heading>Federal aid for State governments</akn:heading><akn:content><akn:p>§ 251. Federal aid for State governments
+Whenever there is an insurrection in any State against its government, the President may, upon the request of its legislature or of its governor if the legislature cannot be convened, call into Federal service such of the militia of the other States, in the number requested by that State, and use such of the armed forces, as he considers necessary to suppress the insurrection.
+(Aug. 10, 1956, ch. 1041, 70A Stat. 15, § 331; renumbered § 251, Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+33150:201.R.S. 5297.
+
+
+The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “governor” is substituted for the word “executive”. The word “may” is substituted for the words “it shall be lawful * * * to”. The words “into Federal service” are substituted for the word “forth” for uniformity and clarity.
+
+Editorial Notes
+Codification
+Another section 251 was renumbered section 240a of this title.
+
+Amendments2016—Pub. L. 114–328 renumbered section 331 of this title as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

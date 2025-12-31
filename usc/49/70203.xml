@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/70203" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/70203/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/70203/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70203"><akn:num>70203</akn:num><akn:heading>Transportation investment data and planning tools</akn:heading><akn:content><akn:p>§ 70203. Transportation investment data and planning tools(a) In General.—Not later than 1 year after the date of enactment of this section, the Secretary of Transportation shall—(1) begin development of new tools and improvement of existing tools to support an outcome-oriented, performance-based approach to evaluate proposed freight-related and other transportation projects, including—(A) methodologies for systematic analysis of benefits and costs on a national or regional basis;
+
+(B) tools for ensuring that the evaluation of freight-related and other transportation projects could consider safety, economic competitiveness, urban and rural access, environmental sustainability, and system condition in the project selection process;
+
+(C) improved methods for data collection and trend analysis;
+
+(D) encouragement of public-private collaboration to carry out data sharing activities while maintaining the confidentiality of all proprietary data; and
+
+(E) other tools to assist in effective transportation planning;
+
+
+(2) identify transportation-related model data elements to support a broad range of evaluation methods and techniques to assist in making transportation investment decisions; and
+
+(3) at a minimum, in consultation with other relevant Federal agencies, consider any improvements to existing freight flow data collection efforts that could reduce identified freight data gaps and deficiencies and help improve forecasts of freight transportation demand.
+
+
+(b) Consultation.—The Secretary shall consult with Federal, State, and other stakeholders to develop, improve, and implement the tools and collect the data described in subsection (a).
+
+(Added Pub. L. 114–94, div. A, title VIII, § 8001(a), Dec. 4, 2015, 129 Stat. 1611.)
+
+Editorial Notes
+
+References in TextThe date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effect</akn:p></akn:content><akn:subsection eId="subsec_70203_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Not later than 1 year after the date of enactment of this section, the Secretary of Transportation shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70203_b"><akn:num>(b)</akn:num><akn:heading>Consultation.—</akn:heading><akn:content><akn:p>(b) The Secretary shall consult with Federal, State, and other stakeholders to develop, improve, and implement the tools and collect the data described in subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/6432" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/6432/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/6432/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6432"><akn:num>6432</akn:num><akn:heading>Allocation of funds</akn:heading><akn:content><akn:p>§ 6432. Allocation of funds(a) Subgrants to State agencies(1) In generalEach State agency described in section 6431 of this title (other than an agency in the Commonwealth of Puerto Rico) is eligible to receive a subgrant under this subpart, for each fiscal year, in an amount equal to the product of—(A) the number of neglected or delinquent children and youth described in section 6431 of this title who—(i) are enrolled for at least 15 hours per week in education programs in adult correctional institutions; and
+
+(ii) are enrolled for at least 20 hours per week—(I) in education programs in institutions for neglected or delinquent children and youth; or
+
+(II) in community day programs for neglected or delinquent children and youth; and
+
+
+
+(B) 40 percent of the average per-pupil expenditure in the State, except that the amount determined under this subparagraph shall not be less than 32 percent, nor more than 48 percent, of the average per-pupil expenditure in the United States.
+
+
+(2) Special ruleThe number of neglected or delinquent children and youth determined under paragraph (1) shall—(A) be determined by the State agency by a deadline set by the Secretary, except that no State agency shall be required to determine the number of such children and youth on a specific date set by the Secretary; and
+
+(B) be adjusted, as the Secretary determines is appropriate, to reflect the relative length of such agency’s annual programs.
+
+
+
+(b) Subgrants to State agencies in Puerto Rico(1) In generalFor each fiscal year, the amount of the subgrant which a State agency in the Commonwealth of Puerto Rico shall be eligible to receive under this subpart shall be the amount determined by multiplying the number of children counted under subsection (a)(1)(A) for the Commonwealth of Puerto Rico by the product of—(A) the percentage which the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
+
+(B) 32 per</akn:p></akn:content><akn:subsection eId="subsec_6432_a"><akn:num>(a)</akn:num><akn:heading>Subgrants to State agencies</akn:heading><akn:content><akn:p>(a) Subgrants to State agencies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6432_b"><akn:num>(b)</akn:num><akn:heading>Subgrants to State agencies in Puerto Rico</akn:heading><akn:content><akn:p>(b) Subgrants to State agencies in Puerto Rico</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6432_c"><akn:num>(c)</akn:num><akn:heading>Ratable reductions in case of insufficient appropriations</akn:heading><akn:content><akn:p>(c) Ratable reductions in case of insufficient appropriations If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

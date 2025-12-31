@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/936" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/936/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/936/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_936"><akn:num>936</akn:num><akn:heading>Adjustment for current policies</akn:heading><akn:content><akn:p>§ 936. Adjustment for current policies(a) PurposeThe purpose of this section is to provide for adjustments of estimates of budgetary effects of PAYGO legislation for legislation affecting 4 areas of the budget—(1) payments made under section 1395w–4 of title 42 (referred to in this section as “Payment for Physicians’ Services”);
+
+(2) the Estate and Gift Tax under subtitle B of title 26;
+
+(3) the AMT; and
+
+(4) provisions of EGTRRA or JGTRRA that amended title 26 (or provisions in later statutes further amending the amendments made by EGTRRA or JGTRRA), other than—(A) the provisions of those 2 Acts that were made permanent by the Pension Protection Act of 2006 (Public Law 109–280);
+
+(B) amendments to the Estate and Gift Tax referred to in paragraph (2);
+
+(C) the AMT referred to in paragraph (3); and
+
+(D) the income tax rates on ordinary income that apply to individuals with adjusted gross incomes greater than $200,000 for a single filer and $250,000 for joint filers.
+
+
+
+(b) DurationThis section shall remain in effect through December 31, 2011.
+
+
+(c) Medicare payments to physicians(1) CriteriaLegislation that includes provisions amending or superseding the system for updating payments under subsections (d) and (f) of section 1395w–4 of title 42 shall trigger the current policy adjustment required by this chapter.
+
+
+(2) AdjustmentThe amount of the maximum current policy adjustment shall be the difference between—(A) estimated net outlays attributable to the payment rates and related parameters in accordance with subsections (d) and (f) of section 1395w–4 of title 42 (as scheduled on December 31, 2009, to be in effect); and
+
+(B) what those net outlays would have been if—(i) the nominal payment rates and related parameters in effect for 2009 had been in effect through December 31, 2014, without change; and
+
+(ii) thereafter, the nominal payment rates and related parameters described in subparagraph (A) had applied and the assumption described in clause (i) had never applie</akn:p></akn:content><akn:subsection eId="subsec_936_a"><akn:num>(a)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(a) Purpose The purpose of this section is to provide for adjustments of estimates of budgetary effects of PAYGO legislation for legislation affecting 4 areas of the budget—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_936_b"><akn:num>(b)</akn:num><akn:heading>Duration</akn:heading><akn:content><akn:p>(b) Duration This section shall remain in effect through December 31, 2011.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_936_c"><akn:num>(c)</akn:num><akn:heading>Medicare payments to physicians</akn:heading><akn:content><akn:p>(c) Medicare payments to physicians</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_936_d"><akn:num>(d)</akn:num><akn:heading>Estate and Gift Tax</akn:heading><akn:content><akn:p>(d) Estate and Gift Tax</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_936_e"><akn:num>(e)</akn:num><akn:heading>AMT relief</akn:heading><akn:content><akn:p>(e) AMT relief</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_936_f"><akn:num>(f)</akn:num><akn:heading>Permanent extension of middle-class tax cuts</akn:heading><akn:content><akn:p>(f) Permanent extension of middle-class tax cuts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_936_g"><akn:num>(g)</akn:num><akn:heading>Indexing for inflation</akn:heading><akn:content><akn:p>(g) Indexing for inflation Indexed amounts are assumed to increase in each year by an amount equal to the cost-of-living adjustment determined under section 1(f)(3) of title 26 for the calendar year in which the taxable year begins, determined by substituting “calendar year 2008” for “calendar year 1992” in subparagraph (B) of such section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_936_h"><akn:num>(h)</akn:num><akn:heading>Guidance on estimates and current policy adjustments</akn:heading><akn:content><akn:p>(h) Guidance on estimates and current policy adjustments</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

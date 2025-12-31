@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5136" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5136/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5136/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5136"><akn:num>5136</akn:num><akn:heading>Natural hazard risk assessment</akn:heading><akn:content><akn:p>§ 5136. Natural hazard risk assessment(a) DefinitionsIn this section:(1) Community disaster resilience zoneThe term “community disaster resilience zone” means a census tract designated by the President under subsection (d)(1).
+
+
+(2) Eligible entityThe term “eligible entity” means—(A) a State;
+
+(B) an Indian tribal government; or
+
+(C) a local government.
+
+
+
+(b) ProductsThe President shall continue to maintain a natural hazard assessment program that develops and maintains products that—(1) are available to the public; and
+
+(2) define natural hazard risk across the United States.
+
+
+(c) FeaturesThe products maintained under subsection (b) shall, for lands within States and areas under the jurisdiction of Indian tribal governments—(1) show the risk of natural hazards; and
+
+(2) include ratings and data for—(A) loss exposure, including population equivalence, buildings, and agriculture;
+
+(B) social vulnerability;
+
+(C) community resilience; and
+
+(D) any other element determined by the President.
+
+
+
+(d) Community disaster resilience zones designation(1) In generalNot later than 30 days after the date on which the President makes the update and enhancement required under subsection (e)(4), and not less frequently than every 5 years thereafter, the President shall identify and designate community disaster resilience zones, which shall be—(A) the 50 census tracts assigned the highest individual hazard risk ratings; and
+
+(B) subject to paragraph (3), in each State, not less than 1 percent of census tracts that are assigned high individual risk ratings.
+
+
+(2) Risk ratingsIn carrying out paragraph (1), the President shall use census tract risk ratings derived from a product maintained under subsection (b) that—(A) reflect—(i) high levels of individual hazard risk ratings based on an assessment of the intersection of—(I) loss to population equivalence;
+
+(II) building value; and
+
+(III) agriculture value;
+
+
+(ii) high social vulnerability ratings and low community resilience ratings;</akn:p></akn:content><akn:subsection eId="subsec_5136_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_b"><akn:num>(b)</akn:num><akn:heading>Products</akn:heading><akn:content><akn:p>(b) Products The President shall continue to maintain a natural hazard assessment program that develops and maintains products that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_c"><akn:num>(c)</akn:num><akn:heading>Features</akn:heading><akn:content><akn:p>(c) Features The products maintained under subsection (b) shall, for lands within States and areas under the jurisdiction of Indian tribal governments—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_d"><akn:num>(d)</akn:num><akn:heading>Community disaster resilience zones designation</akn:heading><akn:content><akn:p>(d) Community disaster resilience zones designation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_e"><akn:num>(e)</akn:num><akn:heading>Review and update</akn:heading><akn:content><akn:p>(e) Review and update Not later than 180 days after December 20, 2022, and not less frequently than every 5 years thereafter, the President shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_f"><akn:num>(f)</akn:num><akn:heading>Natural hazard risk assessment insights</akn:heading><akn:content><akn:p>(f) Natural hazard risk assessment insights In determining additional data to include in products that are natural hazard risk assessments under subsection (e)(2), the President shall consult with, at a minimum—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_g"><akn:num>(g)</akn:num><akn:heading>Community disaster resilience zone</akn:heading><akn:content><akn:p>(g) Community disaster resilience zone With respect to financial assistance provided under section 5133(i) of this title to perform a resilience or mitigation project within, or that primarily benefits, a community disaster resilience zone, the President may increase the amount of the Federal share described under section 5133(h) of this title to not more than 90 percent of the total cost of the resilience or mitigation project.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_h"><akn:num>(h)</akn:num><akn:heading>Resilience or mitigation project planning assistance</akn:heading><akn:content><akn:p>(h) Resilience or mitigation project planning assistance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5136_i"><akn:num>(i)</akn:num><akn:heading>Community disaster resilience zone project applications</akn:heading><akn:content><akn:p>(i) Community disaster resilience zone project applications</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

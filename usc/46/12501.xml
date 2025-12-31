@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/12501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/12501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/12501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12501"><akn:num>12501</akn:num><akn:heading>Establishment of a vessel identification system</akn:heading><akn:content><akn:p>§ 12501. Establishment of a vessel identification system(a) The Secretary of Transportation shall establish a vessel identification system to make available information under section 12503 of this title for use by the public for law enforcement and other purposes relating to—(1) the ownership of documented vessels;
+
+(2) the ownership of vessels numbered under chapter 123 of this title; and
+
+(3) the ownership of vessels titled under the law of a State.
+
+
+(b) The vessel identification system shall include information prescribed by the Secretary including—(1) identifying a vessel;
+
+(2) identifying the owner of the vessel, including—(A) the owner’s social security number or, if that number is not available, other means of identification acceptable to the Secretary; or
+
+(B) for an owner other than an individual—(i) the owner’s taxpayer identification number; or
+
+(ii) if the owner does not have a taxpayer identification number, the social security number of an individual who is a corporate officer, general partner, or individual trustee of the owner and who signed the application for documentation or numbering for the vessel;
+
+
+
+(3) identifying the State in which it is titled or numbered;
+
+(4) indicating whether the vessel is numbered or titled, or both;
+
+(5) if titled in a State, indicating where evidence of a lien or other security interest may be found against the vessel in that State; and
+
+(6) information assisting law enforcement officials.
+
+
+(c) The Secretary may maintain information under this chapter in connection with any other information system maintained by the Secretary.
+
+(Added Pub. L. 100–710, title I, § 101(a), Nov. 23, 1988, 102 Stat. 4735; amended Pub. L. 101–225, title III, § 302(1), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 101–595, title VI, § 603(10), Nov. 16, 1990, 104 Stat. 2993.)
+
+Historical and Revision NotesRevised section 12501
+Subsection (a) of section 12501 requires the Secretary of Transportation to establish a system of information concerning </akn:p></akn:content><akn:subsection eId="subsec_12501_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of Transportation shall establish a vessel identification system to make available information under section 12503 of this title for use by the public for law enforcement and other purposes relating to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12501_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The vessel identification system shall include information prescribed by the Secretary including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12501_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary may maintain information under this chapter in connection with any other information system maintained by the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

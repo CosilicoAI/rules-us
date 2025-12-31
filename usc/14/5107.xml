@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/5107" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/5107/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/5107/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5107"><akn:num>5107</akn:num><akn:heading>Major acquisition program risk assessment</akn:heading><akn:content><akn:p>§ 5107. Major acquisition program risk assessment(a) In General.—Not later than October 15 of each year, the Commandant of the Coast Guard shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing regarding a current assessment of the risks associated with all current major acquisition programs, as that term is defined in section 5103(f).
+
+(b) Elements.—Each assessment under this subsection shall include, for each current major acquisition program, discussion of the following:(1) The top five current risks to such program.
+
+(2) Any failure of such program to demonstrate a key performance parameter or threshold during operational test and evaluation conducted during the previous fiscal year.
+
+(3) Whether there has been any decision in such fiscal year to order full-rate production before all key performance parameters or thresholds are met.
+
+(4) Whether there has been any breach of major acquisition program cost (as defined by the Major Systems Acquisition Manual) in such fiscal year.
+
+(5) Whether there has been any breach of major acquisition program schedule (as so defined) during such fiscal year.
+
+
+(Added Pub. L. 115–232, div. C, title XXXV, § 3526(a), Aug. 13, 2018, 132 Stat. 2317, § 2906; renumbered § 5107 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8240(e), Jan. 1, 2021, 134 Stat. 4667.)
+
+Editorial Notes
+Amendments2021—Subsec. (a). Pub. L. 116–283, § 8240(e)(1), substituted “October 15” for “April 15 and October 15”.
+Subsec. (b)(2). Pub. L. 116–283, § 8240(e)(2)(A), substituted “the previous fiscal year” for “the 2 fiscal-year quarters preceding such assessment”.
+Subsec. (b)(3). Pub. L. 116–283, § 8240(e)(2)(B), substituted “such fiscal year” for “such 2 fiscal-year quarters”.
+Subsec. (b)(4). Pub. L. 116–283, § 8240(e)(2)(C), substitut</akn:p></akn:content><akn:subsection eId="subsec_5107_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Not later than October 15 of each year, the Commandant of the Coast Guard shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing regarding a current assessment of the risks associated with all current major acquisition programs, as that term is defined in section 5103(f).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5107_b"><akn:num>(b)</akn:num><akn:heading>Elements.—</akn:heading><akn:content><akn:p>(b) Each assessment under this subsection shall include, for each current major acquisition program, discussion of the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/300304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/300304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/300304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300304"><akn:num>300304</akn:num><akn:heading>Cultural park</akn:heading><akn:content><akn:p>§ 300304. Cultural park
+In this division, the term “cultural park” means a definable area that—(A) is distinguished by historic property, prehistoric property, and land related to that property; and
+
+(B) constitutes an interpretive, educational, and recreational resource for the public at large.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3188.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30030416 U.S.C. 470w(9).Pub. L. 89–665, title III, § 301(9), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(7), Oct. 30, 1992, 106 Stat. 4764.</akn:p></akn:content><akn:subsection eId="subsec_300304_A"><akn:num>(A)</akn:num><akn:content><akn:p>(A) is distinguished by historic property, prehistoric property, and land related to that property; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300304_B"><akn:num>(B)</akn:num><akn:content><akn:p>(B) constitutes an interpretive, educational, and recreational resource for the public at large.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

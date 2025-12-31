@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/7671a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/7671a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/7671a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7671a"><akn:num>7671a</akn:num><akn:heading>Listing of class I and class II substances</akn:heading><akn:content><akn:p>§ 7671a. Listing of class I and class II substances(a) List of class I substancesWithin 60 days after November 15, 1990, the Administrator shall publish an initial list of class I substances, which list shall contain the following substances:
+Group I
+chlorofluorocarbon-11 (CFC–11)
+chlorofluorocarbon-12 (CFC–12)
+chlorofluorocarbon-113 (CFC–113)
+chlorofluorocarbon-114 (CFC–114)
+chlorofluorocarbon-115 (CFC–115)
+Group II
+halon-1211
+halon-1301
+halon-2402
+Group III
+chlorofluorocarbon-13 (CFC–13)
+chlorofluorocarbon-111 (CFC–111)
+chlorofluorocarbon-112 (CFC–112)
+chlorofluorocarbon-211 (CFC–211)
+chlorofluorocarbon-212 (CFC–212)
+chlorofluorocarbon-213 (CFC–213)
+chlorofluorocarbon-214 (CFC–214)
+chlorofluorocarbon-215 (CFC–215)
+chlorofluorocarbon-216 (CFC–216)
+chlorofluorocarbon-217 (CFC–217)
+Group IV
+carbon tetrachloride
+Group V
+methyl chloroform
+
+The initial list under this subsection shall also include the isomers of the substances listed above, other than 1,1,2-trichloroethane (an isomer of methyl chloroform). Pursuant to subsection (c), the Administrator shall add to the list of class I substances any other substance that the Administrator finds causes or contributes significantly to harmful effects on the stratospheric ozone layer. The Administrator shall, pursuant to subsection (c), add to such list all substances that the Administrator determines have an ozone depletion potential of 0.2 or greater.
+
+
+(b) List of class II substancesSimultaneously with publication of the initial list of class I substances, the Administrator shall publish an initial list of class II substances, which shall contain the following substances:
+hydrochlorofluorocarbon-21 (HCFC–21)
+hydrochlorofluorocarbon-22 (HCFC–22)
+hydrochlorofluorocarbon-31 (HCFC–31)
+hydrochlorofluorocarbon-121 (HCFC–121)
+hydrochlorofluorocarbon-122 (HCFC–122)
+hydrochlorofluorocarbon-123 (HCFC–123)
+hydrochlorofluorocarbon-124 (HCFC–124)
+hydrochlorofluorocarbon-131 (HCFC–131)
+hydrochlorofluorocarbon-132 (HCFC–132)
+hydrochloro</akn:p></akn:content><akn:subsection eId="subsec_7671a_a"><akn:num>(a)</akn:num><akn:heading>List of class I substances</akn:heading><akn:content><akn:p>(a) List of class I substances Within 60 days after November 15, 1990, the Administrator shall publish an initial list of class I substances, which list shall contain the following substances:
+Group I
+chlorofluorocarbon-11 (CFC–11)
+chlorofluorocarbon-12 (CFC–12)
+chlorofluorocarbon-113 (CFC–113)
+chlorofluorocarbon-114 (CFC–114)
+chlorofluorocarbon-115 (CFC–115)
+Group II
+halon-1211
+halon-1301
+halon-2402
+Group III
+chlorofluorocarbon-13 (CFC–13)
+chlorofluorocarbon-111 (CFC–111)
+chlorofluorocarbon-112 (CFC–112)
+chlorofluorocarbon-211 (CFC–211)
+chlorofluorocarbon-212 (CFC–212)
+chlorofluorocarbon-213 (CFC–213)
+chlorofluorocarbon-214 (CFC–214)
+chlorofluorocarbon-215 (CFC–215)
+chlorofluorocarbon-216 (CFC–216)
+chlorofluorocarbon-217 (CFC–217)
+Group IV
+carbon tetrachloride
+Group V
+methyl chloroform
+
+The initial list under this subsection shall also include the isomers of the substances listed above, other than 1,1,2-trichloroethane (an isomer of methyl chloroform). Pursuant to subsection (c), the </akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7671a_b"><akn:num>(b)</akn:num><akn:heading>List of class II substances</akn:heading><akn:content><akn:p>(b) List of class II substances Simultaneously with publication of the initial list of class I substances, the Administrator shall publish an initial list of class II substances, which shall contain the following substances:
+hydrochlorofluorocarbon-21 (HCFC–21)
+hydrochlorofluorocarbon-22 (HCFC–22)
+hydrochlorofluorocarbon-31 (HCFC–31)
+hydrochlorofluorocarbon-121 (HCFC–121)
+hydrochlorofluorocarbon-122 (HCFC–122)
+hydrochlorofluorocarbon-123 (HCFC–123)
+hydrochlorofluorocarbon-124 (HCFC–124)
+hydrochlorofluorocarbon-131 (HCFC–131)
+hydrochlorofluorocarbon-132 (HCFC–132)
+hydrochlorofluorocarbon-133 (HCFC–133)
+hydrochlorofluorocarbon-141 (HCFC–141)
+hydrochlorofluorocarbon-142 (HCFC–142)
+hydrochlorofluorocarbon-221 (HCFC–221)
+hydrochlorofluorocarbon-222 (HCFC–222)
+hydrochlorofluorocarbon-223 (HCFC–223)
+hydrochlorofluorocarbon-224 (HCFC–224)
+hydrochlorofluorocarbon-225 (HCFC–225)
+hydrochlorofluorocarbon-226 (HCFC–226)
+hydrochlorofluorocarbon-231 (HCFC–231)
+hydrochlorofluorocarbon-232 (HCFC–232)
+h</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7671a_c"><akn:num>(c)</akn:num><akn:heading>Additions to the lists</akn:heading><akn:content><akn:p>(c) Additions to the lists</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7671a_d"><akn:num>(d)</akn:num><akn:heading>New listed substances</akn:heading><akn:content><akn:p>(d) New listed substances In the case of any substance added to the list of class I or class II substances after publication of the initial list of such substances under this section, the Administrator may extend any schedule or compliance deadline contained in section 7671c or 7671d of this title to a later date than specified in such sections if such schedule or deadline is unattainable, considering when such substance is added to the list. No extension under this subsection may extend the date for termination of production of any class I substance to a date more than 7 years after January 1 of the year after the year in which the substance is added to the list of class I substances. No extension under this subsection may extend the date for termination of production of any class II substance to a date more than 10 years after January 1 of the year after the year in which the substance is added to the list of class II substances.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7671a_e"><akn:num>(e)</akn:num><akn:heading>Ozone-depletion and global warming potential</akn:heading><akn:content><akn:p>(e) Ozone-depletion and global warming potential Simultaneously with publication of the lists under this section and simultaneously with any addition to either of such lists, the Administrator shall assign to each listed substance a numerical value representing the substance’s ozone-depletion potential. In addition, the Administrator shall publish the chlorine and bromine loading potential and the atmospheric lifetime of each listed substance. One year after November 15, 1990 (one year after the addition of a substance to either of such lists in the case of a substance added after the publication of the initial lists of such substances), and after notice and opportunity for public comment, the Administrator shall publish the global warming potential of each listed substance. The preceding sentence shall not be construed to be the basis of any additional regulation under this chapter. In the case of the substances referred to in table 1, the ozone-depletion potential shall be as specifi</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/465" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/465/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/465/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_465"><akn:num>465</akn:num><akn:heading>Deductions limited to amount at risk</akn:heading><akn:content><akn:p>§ 465. Deductions limited to amount at risk(a) Limitation to amount at risk(1) In generalIn the case of—(A) an individual, and
+
+(B) a C corporation with respect to which the stock ownership requirement of paragraph (2) of section 542(a) is met,
+
+
+engaged in an activity to which this section applies, any loss from such activity for the taxable year shall be allowed only to the extent of the aggregate amount with respect to which the taxpayer is at risk (within the meaning of subsection (b)) for such activity at the close of the taxable year.
+
+(2) Deduction in succeeding yearAny loss from an activity to which this section applies not allowed under this section for the taxable year shall be treated as a deduction allocable to such activity in the first succeeding taxable year.
+
+
+(3) Special rules for applying paragraph (1)(B)For purposes of paragraph (1)(B)—(A) section 544(a)(2) shall be applied as if such section did not contain the phrase “or by or for his partner”; and
+
+(B) sections 544(a)(4)(A) and 544(b)(1) shall be applied by substituting “the corporation meet the stock ownership requirements of section 542(a)(2)” for “the corporation a personal holding company”.
+
+
+
+(b) Amounts considered at risk(1) In generalFor purposes of this section, a taxpayer shall be considered at risk for an activity with respect to amounts including—(A) the amount of money and the adjusted basis of other property contributed by the taxpayer to the activity, and
+
+(B) amounts borrowed with respect to such activity (as determined under paragraph (2)).
+
+
+(2) Borrowed amountsFor purposes of this section, a taxpayer shall be considered at risk with respect to amounts borrowed for use in an activity to the extent that he—(A) is personally liable for the repayment of such amounts, or
+
+(B) has pledged property, other than property used in such activity, as security for such borrowed amount (to the extent of the net fair market value of the taxpayer’s interest in such property).
+
+
+No property sha</akn:p></akn:content><akn:subsection eId="subsec_465_a"><akn:num>(a)</akn:num><akn:heading>Limitation to amount at risk</akn:heading><akn:content><akn:p>(a) Limitation to amount at risk</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_465_b"><akn:num>(b)</akn:num><akn:heading>Amounts considered at risk</akn:heading><akn:content><akn:p>(b) Amounts considered at risk</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_465_c"><akn:num>(c)</akn:num><akn:heading>Activities to which section applies</akn:heading><akn:content><akn:p>(c) Activities to which section applies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_465_d"><akn:num>(d)</akn:num><akn:heading>Definition of loss</akn:heading><akn:content><akn:p>(d) Definition of loss For purposes of this section, the term “loss” means the excess of the deductions allowable under this chapter for the taxable year (determined without regard to the first sentence of subsection (a)) and allocable to an activity to which this section applies over the income received or accrued by the taxpayer during the taxable year from such activity (determined without regard to subsection (e)(1)(A)).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_465_e"><akn:num>(e)</akn:num><akn:heading>Recapture of losses where amount at risk is less than zero</akn:heading><akn:content><akn:p>(e) Recapture of losses where amount at risk is less than zero</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

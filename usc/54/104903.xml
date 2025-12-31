@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/104903" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/104903/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/104903/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_104903"><akn:num>104903</akn:num><akn:heading>Care, removal, and burial of indigents</akn:heading><akn:content><akn:p>§ 104903. Care, removal, and burial of indigents
+The Secretary may provide, out of amounts appropriated for the general expenses of System units, for the temporary care and removal from a System unit of indigents, and in case of death to provide for their burial in System units not under local jurisdiction for these purposes. This section does not authorize transportation of indigents or deceased for a distance of more than 50 miles from the System unit.
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3168.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10490316 U.S.C. 17e.May 26, 1930, ch. 324, § 6, 46 Stat. 382.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

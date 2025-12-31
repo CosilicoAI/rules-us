@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/3432" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/3432/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/3432/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3432"><akn:num>3432</akn:num><akn:heading>Effect on State laws</akn:heading><akn:content><akn:p>§ 3432. Effect on State laws(a) Authority to prescribe maximum lawful pricesNothing in this chapter shall affect the authority of any State to establish or enforce any maximum lawful price for the first sale of natural gas produced in such State.
+
+
+(b) Common carriersNo person shall be subject to regulation as a common carrier under any provision of Federal or State law by reason of any transportation—(1) pursuant to any order under section 3362(c) or section 3363(b), (c), (d), or (i) of this title; or
+
+(2) authorized by the Commission under section 3371(a) of this title.
+
+
+(Pub. L. 95–621, title VI, § 602, Nov. 9, 1978, 92 Stat. 3411; Pub. L. 101–60, § 3(b)(8), July 26, 1989, 103 Stat. 159.)
+
+Editorial Notes
+Amendments1989—Subsec. (a). Pub. L. 101–60 struck out “lower” after “prescribe” in heading and struck out before period at end “which does not exceed the applicable maximum lawful price, if any, under subchapter I of this chapter”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1989 AmendmentAmendment by Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as a note under section 3372 of this title.</akn:p></akn:content><akn:subsection eId="subsec_3432_a"><akn:num>(a)</akn:num><akn:heading>Authority to prescribe maximum lawful prices</akn:heading><akn:content><akn:p>(a) Authority to prescribe maximum lawful prices Nothing in this chapter shall affect the authority of any State to establish or enforce any maximum lawful price for the first sale of natural gas produced in such State.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3432_b"><akn:num>(b)</akn:num><akn:heading>Common carriers</akn:heading><akn:content><akn:p>(b) Common carriers No person shall be subject to regulation as a common carrier under any provision of Federal or State law by reason of any transportation—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

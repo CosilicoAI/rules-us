@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/7693" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/7693/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/7693/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7693"><akn:num>7693</akn:num><akn:heading>Eligibility; preferences; covered costs</akn:heading><akn:content><akn:p>§ 7693. Eligibility; preferences; covered costs(a) Eligibility.—An individual is eligible to participate in the Specialty Education Loan Repayment Program if the individual—(1) will be eligible for appointment under section 7401 of this title to work in an occupation described in section 7692 of this title;
+
+(2) owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1); and
+
+(3) is—(A) recently graduated from an accredited medical or osteopathic school and matched to an accredited residency program in a medical specialty described in section 7692 of this title; or
+
+(B) a physician in training in a medical specialty described in section 7692 of this title with more than 2 years remaining in such training.
+
+
+
+(b) Preferences.—In selecting individuals for participation in the Specialty Education Loan Repayment Program under this subchapter, the Secretary may give preference to the following:(1) Individuals who are, or will be, participating in residency programs in health care facilities—(A) located in rural areas;
+
+(B) operated by Indian tribes, tribal organizations, or the Indian Health Service; or
+
+(C) affiliated with underserved health care facilities of the Department.
+
+
+(2) Veterans.
+
+
+(c) Covered Costs.—For purposes of subsection (a)(2), costs relating to a course of education or training include—(1) tuition expenses;
+
+(2) all other reasonable educational expenses, including expenses for fees, books, equipment, and laboratory expenses; and
+
+(3) reasonable living expenses.
+
+
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464; amended Pub. L. 115–251, title II, § 211(a)(12), Sept. 29, 2018, 132 Stat. 3176.)
+
+Editorial Notes
+Amendments2018—Subsec. (a)(1). Pub. L. 115–251 substituted “will be eligible for appointment” for “is </akn:p></akn:content><akn:subsection eId="subsec_7693_a"><akn:num>(a)</akn:num><akn:heading>Eligibility.—</akn:heading><akn:content><akn:p>(a) An individual is eligible to participate in the Specialty Education Loan Repayment Program if the individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7693_b"><akn:num>(b)</akn:num><akn:heading>Preferences.—</akn:heading><akn:content><akn:p>(b) In selecting individuals for participation in the Specialty Education Loan Repayment Program under this subchapter, the Secretary may give preference to the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7693_c"><akn:num>(c)</akn:num><akn:heading>Covered Costs.—</akn:heading><akn:content><akn:p>(c) For purposes of subsection (a)(2), costs relating to a course of education or training include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

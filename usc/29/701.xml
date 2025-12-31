@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_701"><akn:num>701</akn:num><akn:heading>Findings; purpose; policy</akn:heading><akn:content><akn:p>§ 701. Findings; purpose; policy(a) FindingsCongress finds that—(1) millions of Americans have one or more physical or mental disabilities and the number of Americans with such disabilities is increasing;
+
+(2) individuals with disabilities constitute one of the most disadvantaged groups in society;
+
+(3) disability is a natural part of the human experience and in no way diminishes the right of individuals to—(A) live independently;
+
+(B) enjoy self-determination;
+
+(C) make choices;
+
+(D) contribute to society;
+
+(E) pursue meaningful careers; and
+
+(F) enjoy full inclusion and integration in the economic, political, social, cultural, and educational mainstream of American society;
+
+
+(4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce development systems defined in section 3102 of this title that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
+
+(5) individuals with disabilities continually encounter various forms of discrimination in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and public services;
+
+(6) the goals of the Nation properly include the goal of providing individuals with disabilities with the tools necessary to—(A) make informed choices and decisions; and
+
+(B) achieve equality of opportunity, full inclusion and integration in society, employment, independent living, and economic and social self-sufficiency, for such individuals; and
+
+
+(7)(A) a high proportion of students with disabilities is leaving secondary </akn:p></akn:content><akn:subsection eId="subsec_701_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_701_b"><akn:num>(b)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(b) Purpose The purposes of this chapter are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_701_c"><akn:num>(c)</akn:num><akn:heading>Policy</akn:heading><akn:content><akn:p>(c) Policy It is the policy of the United States that all programs, projects, and activities receiving assistance under this chapter shall be carried out in a manner consistent with the principles of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

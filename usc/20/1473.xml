@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1473" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1473/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1473/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1473"><akn:num>1473</akn:num><akn:heading>Technical assistance for parent training and information centers</akn:heading><akn:content><akn:p>§ 1473. Technical assistance for parent training and information centers(a) Program authorized(1) In generalThe Secretary may, directly or through awards to eligible entities, provide technical assistance for developing, assisting, and coordinating parent training and information programs carried out by parent training and information centers receiving assistance under section 1471 of this title and community parent resource centers receiving assistance under section 1472 of this title.
+
+
+(2) Definition of eligible entityIn this section, the term “eligible entity” has the meaning given the term in section 1461(b) of this title.
+
+
+
+(b) Authorized activitiesThe Secretary may provide technical assistance to a parent training and information center or a community parent resource center under this section in areas such as—(1) effective coordination of parent training efforts;
+
+(2) dissemination of scientifically based research and information;
+
+(3) promotion of the use of technology, including assistive technology devices and assistive technology services;
+
+(4) reaching underserved populations, including parents of low-income and limited English proficient children with disabilities;
+
+(5) including children with disabilities in general education programs;
+
+(6) facilitation of transitions from—(A) early intervention services to preschool;
+
+(B) preschool to elementary school;
+
+(C) elementary school to secondary school; and
+
+(D) secondary school to postsecondary environments; and
+
+
+(7) promotion of alternative methods of dispute resolution, including mediation.
+
+
+(c) Collaboration with the resource centersEach eligible entity receiving an award under subsection (a) shall develop collaborative agreements with the geographically appropriate regional resource center and, as appropriate, the regional educational laboratory supported under section 9564 of this title, to further parent and professional collaboration.
+
+
+(Pub. L. 91–230, title VI, § 673, as added Pub. L. 108–446, t</akn:p></akn:content><akn:subsection eId="subsec_1473_a"><akn:num>(a)</akn:num><akn:heading>Program authorized</akn:heading><akn:content><akn:p>(a) Program authorized</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1473_b"><akn:num>(b)</akn:num><akn:heading>Authorized activities</akn:heading><akn:content><akn:p>(b) Authorized activities The Secretary may provide technical assistance to a parent training and information center or a community parent resource center under this section in areas such as—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1473_c"><akn:num>(c)</akn:num><akn:heading>Collaboration with the resource centers</akn:heading><akn:content><akn:p>(c) Collaboration with the resource centers Each eligible entity receiving an award under subsection (a) shall develop collaborative agreements with the geographically appropriate regional resource center and, as appropriate, the regional educational laboratory supported under section 9564 of this title, to further parent and professional collaboration.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

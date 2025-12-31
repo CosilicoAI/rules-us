@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/8922" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/8922/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/8922/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8922"><akn:num>8922</akn:num><akn:heading>Agricultural biosecurity grant program</akn:heading><akn:content><akn:p>§ 8922. Agricultural biosecurity grant program(a) Competitive grant programThe Secretary shall establish a competitive grant program to promote the development of teaching programs in agriculture, veterinary medicine, and disciplines closely allied to the food and agriculture system to increase the number of trained individuals with an expertise in agricultural biosecurity.
+
+
+(b) EligibilityThe Secretary may award a grant under this section only to an entity that is—(1) an accredited school of veterinary medicine; or
+
+(2) a department of an institution of higher education with a primary focus on—(A) comparative medicine;
+
+(B) veterinary science; or
+
+(C) agricultural biosecurity.
+
+
+
+(c) PreferenceThe Secretary shall give preference in awarding grants based on the ability of an applicant—(1) to increase the number of veterinarians or individuals with advanced degrees in food and agriculture disciplines who are trained in agricultural biosecurity practice areas;
+
+(2) to increase research capacity in areas of agricultural biosecurity; or
+
+(3) to fill critical agricultural biosecurity shortage situations outside of the Federal Government.
+
+
+(d) Use of funds(1) In generalAmounts received under this section shall be used by a grantee to pay—(A) costs associated with the acquisition of equipment and other capital costs relating to the expansion of food, agriculture, and veterinary medicine teaching programs in agricultural biosecurity;
+
+(B) capital costs associated with the expansion of academic programs that offer postgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
+
+(C) other capacity and infrastructure program costs that the Secretary considers appropriate.
+
+
+(2) LimitationFunds received under this section may not be used for the construction, renovation, or rehabilitation of a building or facility.
+
+
+
+(e) Authorization of appropriationsThere are authorized to be appropriated to carry out this sect</akn:p></akn:content><akn:subsection eId="subsec_8922_a"><akn:num>(a)</akn:num><akn:heading>Competitive grant program</akn:heading><akn:content><akn:p>(a) Competitive grant program The Secretary shall establish a competitive grant program to promote the development of teaching programs in agriculture, veterinary medicine, and disciplines closely allied to the food and agriculture system to increase the number of trained individuals with an expertise in agricultural biosecurity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8922_b"><akn:num>(b)</akn:num><akn:heading>Eligibility</akn:heading><akn:content><akn:p>(b) Eligibility The Secretary may award a grant under this section only to an entity that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8922_c"><akn:num>(c)</akn:num><akn:heading>Preference</akn:heading><akn:content><akn:p>(c) Preference The Secretary shall give preference in awarding grants based on the ability of an applicant—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8922_d"><akn:num>(d)</akn:num><akn:heading>Use of funds</akn:heading><akn:content><akn:p>(d) Use of funds</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8922_e"><akn:num>(e)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(e) Authorization of appropriations There are authorized to be appropriated to carry out this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

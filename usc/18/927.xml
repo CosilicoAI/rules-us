@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/927" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/927/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/927/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_927"><akn:num>927</akn:num><akn:heading>Effect on State law</akn:heading><akn:content><akn:p>§ 927. Effect on State law
+No provision of this chapter shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of any State on the same subject matter, unless there is a direct and positive conflict between such provision and the law of the State so that the two cannot be reconciled or consistently stand together.
+(Added Pub. L. 90–351, title IV, § 902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, § 102, Oct. 22, 1968, 82 Stat. 1226.)
+
+Editorial Notes
+Amendments1968—Pub. L. 90–618 struck out “or possession” after “State” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1968 AmendmentAmendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
+
+Effective DateSection effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under section 921 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

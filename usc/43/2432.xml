@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/2432" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/2432/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/2432/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2432"><akn:num>2432</akn:num><akn:heading>Effect on the reclamation laws</akn:heading><akn:content><akn:p>§ 2432. Effect on the reclamation laws(a) Reclamation projectsNothing in this subchapter supersedes or amends any Federal law associated with a project, or a portion of a project, constructed under the reclamation laws.
+
+
+(b) No new or supplemental benefitsAny assistance provided under this subchapter shall not—(1) be considered to be a new or supplemental benefit for purposes of the Reclamation Reform Act of 1982 (43 U.S.C. 390aa et seq.); or
+
+(2) affect any contract in existence on December 22, 2006, that is executed under the reclamation laws.
+
+
+(Pub. L. 109–451, title II, § 213, Dec. 22, 2006, 120 Stat. 3361.)
+
+Editorial Notes
+
+References in TextThe Reclamation Reform Act of 1982, referred to in subsec. (b)(1), is title II of Pub. L. 97–293, Oct. 12, 1982, 96 Stat. 1263, which enacted subchapter I–A (§ 390aa et seq.) of chapter 12 of this title, amended sections 373a, 422e, 425b, and 485h of this title, and repealed section 383 of Title 25, Indians. For complete classification of this Act to the Code, see Tables.</akn:p></akn:content><akn:subsection eId="subsec_2432_a"><akn:num>(a)</akn:num><akn:heading>Reclamation projects</akn:heading><akn:content><akn:p>(a) Reclamation projects Nothing in this subchapter supersedes or amends any Federal law associated with a project, or a portion of a project, constructed under the reclamation laws.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2432_b"><akn:num>(b)</akn:num><akn:heading>No new or supplemental benefits</akn:heading><akn:content><akn:p>(b) No new or supplemental benefits Any assistance provided under this subchapter shall not—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

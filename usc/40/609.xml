@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/609" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/609/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/609/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_609"><akn:num>609</akn:num><akn:heading>Identification of vehicles</akn:heading><akn:content><akn:p>§ 609. Identification of vehicles(a) In General.—Under regulations prescribed by the Administrator of General Services, every motor vehicle acquired and used for official purposes within the United States, or the territories or possessions of the United States, by any federal agency or by the District of Columbia shall be conspicuously identified by showing, on the vehicle—(1)(A) the full name of the department, establishment, corporation, or agency that uses the vehicle and the service for which the vehicle is used; or
+
+(B) a title that readily identifies the department, establishment, corporation, or agency that uses the vehicle and that is descriptive of the service for which the vehicle is used; and
+
+
+(2) the legend “For official use only”.
+
+
+(b) Exceptions.—The regulations prescribed pursuant to this section may provide for exemptions when conspicuous identification would interfere with the purpose for which a vehicle is acquired and used.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1124.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+60940:491(k).June 30, 1949, ch. 288, title II, § 211(k), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1128.</akn:p></akn:content><akn:subsection eId="subsec_609_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Under regulations prescribed by the Administrator of General Services, every motor vehicle acquired and used for official purposes within the United States, or the territories or possessions of the United States, by any federal agency or by the District of Columbia shall be conspicuously identified by showing, on the vehicle—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_609_b"><akn:num>(b)</akn:num><akn:heading>Exceptions.—</akn:heading><akn:content><akn:p>(b) The regulations prescribed pursuant to this section may provide for exemptions when conspicuous identification would interfere with the purpose for which a vehicle is acquired and used.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

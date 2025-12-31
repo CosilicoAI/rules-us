@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/4503d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/4503d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/4503d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4503d"><akn:num>4503d</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 4503d. Definitions
+As used in this chapter (unless the context otherwise requires):(1) Institutes of Tropical ForestryThe term “Institutes of Tropical Forestry” means the Institute of Tropical Forestry in Puerto Rico and the Institute of Pacific Islands Forestry established under section 6706 of title 7.
+
+
+(2) SecretaryThe term “Secretary” means the Secretary of Agriculture.
+
+
+(3) StateThe term “State” means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+
+(Pub. L. 101–513, title VI, § 608, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4595.)
+
+Editorial Notes
+
+References in TextFor Oct. 1, 1994, as the date the Compact of Free Association with the Republic of Palau enters into effect, referred to in par. (3), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.</akn:p></akn:content><akn:subsection eId="subsec_4503d_1"><akn:num>(1)</akn:num><akn:heading>Institutes of Tropical Forestry</akn:heading><akn:content><akn:p>(1) Institutes of Tropical Forestry The term “Institutes of Tropical Forestry” means the Institute of Tropical Forestry in Puerto Rico and the Institute of Pacific Islands Forestry established under section 6706 of title 7.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4503d_2"><akn:num>(2)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(2) Secretary The term “Secretary” means the Secretary of Agriculture.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4503d_3"><akn:num>(3)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(3) State The term “State” means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

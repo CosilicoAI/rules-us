@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/904" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/904/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/904/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_904"><akn:num>904</akn:num><akn:heading>Reports and orders</akn:heading><akn:content><akn:p>§ 904. Reports and orders(a) TimetableThe timetable with respect to this subchapter for any budget year is as follows:
+
+
+
+
+
+
+Date:Action to be completed:
+
+
+January 21Notification regarding optional adjustment of maximum deficit amount.
+5 days before the President’s budget submissionCBO sequestration preview report.
+The President’s budget submissionOMB sequestration preview report.
+August 10Notification regarding military personnel.
+August 15CBO sequestration update report.
+August 20OMB sequestration update report.
+10 days after end of sessionCBO final sequestration report.
+15 days after end of sessionOMB final sequestration report; Presidential order.
+
+
+
+
+
+(b) Submission and availability of reportsEach report required by this section shall be submitted, in the case of CBO, to the House of Representatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
+
+
+(c) Sequestration preview reports(1) Reporting requirementOn the dates specified in subsection (a), OMB and CBO shall issue a preview report regarding discretionary, pay-as-you-go, and deficit sequestration based on laws enacted through those dates.
+
+
+(2) Discretionary sequestration reportThe preview reports shall set forth estimates for the current year and each subsequent year through 2025 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
+
+
+(3) Pay-as-you-go sequestration reportsThe preview reports shall set forth, for the current year and the budget year, estimates for each of the following:(A) The amount of net deficit increase or decrease, if any, calculated under section 902(b) of this title.
+
+(B) A list identifying each law enacted and sequestration implemented after November 5, 1990, included in the calculation of the amount of deficit incre</akn:p></akn:content><akn:subsection eId="subsec_904_a"><akn:num>(a)</akn:num><akn:heading>Timetable</akn:heading><akn:content><akn:p>(a) Timetable The timetable with respect to this subchapter for any budget year is as follows:
+
+
+
+
+
+
+Date:Action to be completed:
+
+
+January 21Notification regarding optional adjustment of maximum deficit amount.
+5 days before the President’s budget submissionCBO sequestration preview report.
+The President’s budget submissionOMB sequestration preview report.
+August 10Notification regarding military personnel.
+August 15CBO sequestration update report.
+August 20OMB sequestration update report.
+10 days after end of sessionCBO final sequestration report.
+15 days after end of sessionOMB final sequestration report; Presidential order.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_b"><akn:num>(b)</akn:num><akn:heading>Submission and availability of reports</akn:heading><akn:content><akn:p>(b) Submission and availability of reports Each report required by this section shall be submitted, in the case of CBO, to the House of Representatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_c"><akn:num>(c)</akn:num><akn:heading>Sequestration preview reports</akn:heading><akn:content><akn:p>(c) Sequestration preview reports</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_d"><akn:num>(d)</akn:num><akn:heading>Notification regarding military personnel</akn:heading><akn:content><akn:p>(d) Notification regarding military personnel On or before the date specified in subsection (a), the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under section 905(f) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_e"><akn:num>(e)</akn:num><akn:heading>Sequestration update reports</akn:heading><akn:content><akn:p>(e) Sequestration update reports On the dates specified in subsection (a), OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports. This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_f"><akn:num>(f)</akn:num><akn:heading>Final sequestration reports</akn:heading><akn:content><akn:p>(f) Final sequestration reports</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_g"><akn:num>(g)</akn:num><akn:heading>Within-session sequestration reports and order</akn:heading><akn:content><akn:p>(g) Within-session sequestration reports and order If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (f)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (f)(2) and (f)(4). On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_h"><akn:num>(h)</akn:num><akn:heading>GAO compliance report</akn:heading><akn:content><akn:p>(h) GAO compliance report Upon request of the Committee on the Budget of the House of Representatives or the Senate, the Comptroller General shall submit to the Congress and the President a report on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_i"><akn:num>(i)</akn:num><akn:heading>Low-growth report</akn:heading><akn:content><akn:p>(i) Low-growth report At any time, CBO shall notify the Congress if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_904_j"><akn:num>(j)</akn:num><akn:heading>Economic and technical assumptions</akn:heading><akn:content><akn:p>(j) Economic and technical assumptions In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

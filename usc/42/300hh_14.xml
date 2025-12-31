@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300hh–14" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300hh–14/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300hh–14/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300hh_14"><akn:num>300hh–14</akn:num><akn:heading>Protection of health and safety during disasters</akn:heading><akn:content><akn:p>§ 300hh–14. Protection of health and safety during disasters(a) DefinitionsIn this section:(1) Certified monitoring programThe term “certified monitoring program” means a medical monitoring program—(A) in which a participating responder is a participant as a condition of the employment of such participating responder; and
+
+(B) that the Secretary of Health and Human Services certifies includes an adequate baseline medical screening.
+
+
+(2) Disaster areaThe term “disaster area” means an area in which the President has declared a major disaster (as that term is defined in section 5122 of this title), during the period of such declaration.
+
+
+(3) High exposure levelThe term “high exposure level” means a level of exposure to a substance of concern that is for such a duration, or of such a magnitude, that adverse effects on human health can be reasonably expected to occur, as determined by the President, acting through the Secretary of Health and Human Services, in accordance with human monitoring or environmental or other appropriate indicators.
+
+
+(4) IndividualThe term “individual” includes—(A) a worker or volunteer who responds to a disaster, either natural or manmade, involving any mode of transportation in the United States or disrupting the transportation system of the United States, including—(i) a police officer;
+
+(ii) a firefighter;
+
+(iii) an emergency medical technician;
+
+(iv) any participating member of an urban search and rescue team; and
+
+(v) any other relief or rescue worker or volunteer that the President, acting through the Secretary of Health and Human Services, determines to be appropriate;
+
+
+(B) a worker who responds to a disaster, either natural or manmade, involving any mode of transportation in the United States or disrupting the transportation system of the United States, by assisting in the cleanup or restoration of critical infrastructure in and around a disaster area;
+
+(C) a person whose place of residence is in a disaster area, caused by either a </akn:p></akn:content><akn:subsection eId="subsec_300hh_14_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300hh_14_b"><akn:num>(b)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(b) Program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300hh_14_c"><akn:num>(c)</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>(c) Reports Not later than 1 year after the establishment of a program under subsection (b)(1), and every 5 years thereafter, the President, acting through the Secretary of Health and Human Services, or the medical institution or consortium of such institutions having entered into a cooperative agreement under subsection (b)(5), may submit a report to the Secretary of Homeland Security, the Secretary of Labor, the Administrator of the Environmental Protection Agency, and appropriate committees of Congress describing the programs and studies carried out under the program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300hh_14_d"><akn:num>(d)</akn:num><akn:heading>National Academy of Sciences report on disaster area health and environmental protection and monitoring</akn:heading><akn:content><akn:p>(d) National Academy of Sciences report on disaster area health and environmental protection and monitoring</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

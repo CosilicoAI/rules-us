@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6751" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6751/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6751/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6751"><akn:num>6751</akn:num><akn:heading>Procedural requirements</akn:heading><akn:content><akn:p>§ 6751. Procedural requirements(a) Computation of penalty included in noticeThe Secretary shall include with each notice of penalty under this title information with respect to the name of the penalty, the section of this title under which the penalty is imposed, and a computation of the penalty.
+
+
+(b) Approval of assessment(1) In generalNo penalty under this title shall be assessed unless the initial determination of such assessment is personally approved (in writing) by the immediate supervisor of the individual making such determination or such higher level official as the Secretary may designate.
+
+
+(2) ExceptionsParagraph (1) shall not apply to—(A) any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of paragraph (9) or (10) of subsection (b) thereof); or
+
+(B) any other penalty automatically calculated through electronic means.
+
+
+
+(c) PenaltiesFor purposes of this section, the term “penalty” includes any addition to tax or any additional amount.
+
+
+(Added Pub. L. 105–206, title III, § 3306(a), July 22, 1998, 112 Stat. 744; amended Pub. L. 116–260, div. EE, title II, § 212(b)(3), Dec. 27, 2020, 134 Stat. 3067; Pub. L. 117–328, div. T, title VI, § 605(a)(2)(D), Dec. 29, 2022, 136 Stat. 5395.)
+
+Editorial Notes
+Codification
+Another section 212(b) of div. EE of Pub. L. 116–260 amended section 63 of this title.
+
+Amendments2022—Subsec. (b)(2)(A). Pub. L. 117–328 substituted “paragraph (9) or (10) of subsection (b)” for “subsection (b)(9)”.
+2020—Subsec. (b)(2)(A). Pub. L. 116–260 substituted “6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof)” for “or 6655”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2022 AmendmentAmendment by Pub. L. 117–328 applicable to contributions made after Dec. 29, 2022, see section 605(c)(1) of Pub. L. 117–328, set out as a note under section 170 of this title.
+
+Effective Date of 2020 AmendmentAmendment by Pub. L. 116–26</akn:p></akn:content><akn:subsection eId="subsec_6751_a"><akn:num>(a)</akn:num><akn:heading>Computation of penalty included in notice</akn:heading><akn:content><akn:p>(a) Computation of penalty included in notice The Secretary shall include with each notice of penalty under this title information with respect to the name of the penalty, the section of this title under which the penalty is imposed, and a computation of the penalty.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6751_b"><akn:num>(b)</akn:num><akn:heading>Approval of assessment</akn:heading><akn:content><akn:p>(b) Approval of assessment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6751_c"><akn:num>(c)</akn:num><akn:heading>Penalties</akn:heading><akn:content><akn:p>(c) Penalties For purposes of this section, the term “penalty” includes any addition to tax or any additional amount.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

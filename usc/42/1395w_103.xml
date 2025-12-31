@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1395w–103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1395w–103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1395w–103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1395w_103"><akn:num>1395w–103</akn:num><akn:heading>Access to a choice of qualified prescription drug coverage</akn:heading><akn:content><akn:p>§ 1395w–103. Access to a choice of qualified prescription drug coverage(a) Assuring access to a choice of coverage(1) Choice of at least two plans in each areaThe Secretary shall ensure that each part D eligible individual has available, consistent with paragraph (2), a choice of enrollment in at least 2 qualifying plans (as defined in paragraph (3)) in the area in which the individual resides, at least one of which is a prescription drug plan. In any such case in which such plans are not available, the part D eligible individual shall be given the opportunity to enroll in a fallback prescription drug plan.
+
+
+(2) Requirement for different plan sponsorsThe requirement in paragraph (1) is not satisfied with respect to an area if only one entity offers all the qualifying plans in the area.
+
+
+(3) Qualifying plan definedFor purposes of this section, the term “qualifying plan” means—(A) a prescription drug plan; or
+
+(B) an MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title that provides—(i) basic prescription drug coverage; or
+
+(ii) qualified prescription drug coverage that provides supplemental prescription drug coverage so long as there is no MA monthly supplemental beneficiary premium applied under the plan, due to the application of a credit against such premium of a rebate under section 1395w–24(b)(1)(C) of this title.
+
+
+
+
+(b) Flexibility in risk assumed and application of fallback planIn order to ensure access pursuant to subsection (a) in an area—(1) the Secretary may approve limited risk plans under section 1395w–111(f) of this title for the area; and
+
+(2) only if such access is still not provided in the area after applying paragraph (1), the Secretary shall provide for the offering of a fallback prescription drug plan for that area under section 1395w–111(g) of this title.
+
+
+(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–3, as added Pub. L. 108–173, title I, § 101(a)(2), Dec. 8, 2003, 117 Stat. 2081.)</akn:p></akn:content><akn:subsection eId="subsec_1395w_103_a"><akn:num>(a)</akn:num><akn:heading>Assuring access to a choice of coverage</akn:heading><akn:content><akn:p>(a) Assuring access to a choice of coverage</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_103_b"><akn:num>(b)</akn:num><akn:heading>Flexibility in risk assumed and application of fallback plan</akn:heading><akn:content><akn:p>(b) Flexibility in risk assumed and application of fallback plan In order to ensure access pursuant to subsection (a) in an area—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

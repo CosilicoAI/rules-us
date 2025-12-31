@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/430uu" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/430uu/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/430uu/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_430uu"><akn:num>430uu</akn:num><akn:heading>Big Hole National Battlefield; redesignation of monument</akn:heading><akn:content><akn:p>§ 430uu. Big Hole National Battlefield; redesignation of monument
+The Big Hole Battlefield National Monument, established by Executive Order Numbered 1216 of June 23, 1910, and enlarged by Proclamation Numbered 2339 of June 29, 1939, is hereby redesignated as the Big Hole National Battlefield.
+(Pub. L. 88–24, § 1, May 17, 1963, 77 Stat. 18.)
+
+Editorial Notes
+
+References in TextExecutive Order Numbered 1216 of June 23, 1910, referred to in text, is not classified to the Code.
+Proclamation Numbered 2339 of June 29, 1939 (53 Stat. 2544), referred to in text, is not classified to the Code.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

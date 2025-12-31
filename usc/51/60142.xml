@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/60142" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/60142/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/60142/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60142"><akn:num>60142</akn:num><akn:heading>Archiving of data</akn:heading><akn:content><akn:p>§ 60142. Archiving of data(a) Public Interest.—It is in the public interest for the United States Government to—(1) maintain an archive of land remote sensing data for historical, scientific, and technical purposes, including long-term global environmental monitoring;
+
+(2) control the content and scope of the archive; and
+
+(3) ensure the quality, integrity, and continuity of the archive.
+
+
+(b) Archiving Practices.—The Secretary of the Interior, in consultation with the Landsat Program Management, shall provide for long-term storage, maintenance, and upgrading of a basic, global, land remote sensing data set (hereafter in this section referred to as the “basic data set”) and shall follow reasonable archival practices to ensure proper storage and preservation of the basic data set and timely access for parties requesting data.
+
+(c) Determination of Content of Basic Data Set.—In determining the initial content of, or in upgrading, the basic data set, the Secretary of the Interior shall—(1) use as a baseline the data archived on October 28, 1992;
+
+(2) take into account future technical and scientific developments and needs, paying particular attention to the anticipated data requirements of global environmental change research;
+
+(3) consult with and seek the advice of users and producers of remote sensing data and data products;
+
+(4) consider the need for data which may be duplicative in terms of geographical coverage but which differ in terms of season, spectral bands, resolution, or other relevant factors;
+
+(5) include, as the Secretary of the Interior considers appropriate, unenhanced data generated either by the Landsat system, pursuant to subchapter II, or by licensees under subchapter III;
+
+(6) include, as the Secretary of the Interior considers appropriate, data collected by foreign ground stations or by foreign remote sensing space systems; and
+
+(7) ensure that the content of the archive is developed in accordance with section 60146 of this title.
+
+
+(d) Public D</akn:p></akn:content><akn:subsection eId="subsec_60142_a"><akn:num>(a)</akn:num><akn:heading>Public Interest.—</akn:heading><akn:content><akn:p>(a) It is in the public interest for the United States Government to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60142_b"><akn:num>(b)</akn:num><akn:heading>Archiving Practices.—</akn:heading><akn:content><akn:p>(b) The Secretary of the Interior, in consultation with the Landsat Program Management, shall provide for long-term storage, maintenance, and upgrading of a basic, global, land remote sensing data set (hereafter in this section referred to as the “basic data set”) and shall follow reasonable archival practices to ensure proper storage and preservation of the basic data set and timely access for parties requesting data.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60142_c"><akn:num>(c)</akn:num><akn:heading>Determination of Content of Basic Data Set.—</akn:heading><akn:content><akn:p>(c) In determining the initial content of, or in upgrading, the basic data set, the Secretary of the Interior shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60142_d"><akn:num>(d)</akn:num><akn:heading>Public Domain.—</akn:heading><akn:content><akn:p>(d) After the expiration of any exclusive right to sell, or after relinquishment of such right, the data provided to the National Satellite Land Remote Sensing Data Archive shall be in the public domain and shall be made available to requesting parties by the Secretary of the Interior at the cost of fulfilling user requests.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

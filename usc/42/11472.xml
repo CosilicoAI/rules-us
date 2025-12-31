@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/11472" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/11472/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/11472/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11472"><akn:num>11472</akn:num><akn:heading>Repealed. Pub. L. 105–220, title I, § 199(b)(1), Aug. 7, 1998, 112 Stat. 1059</akn:heading><akn:content><akn:p>§§ 11471, 11472. Repealed. Pub. L. 105–220, title I, § 199(b)(1), Aug. 7, 1998, 112 Stat. 1059
+
+Section 11471, Pub. L. 100–77, title VII, § 761, July 22, 1987, 101 Stat. 533, authorized grant for study of causes of youth homelessness.
+
+
+Section 11472, Pub. L. 100–77, title VII, § 762, July 22, 1987, 101 Stat. 533, related to set-asides for Native Americans.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of RepealRepeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, as amended, set out as a note under section 11421 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

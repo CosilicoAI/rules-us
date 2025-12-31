@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2492a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2492a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2492a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2492a"><akn:num>2492a</akn:num><akn:heading>Limitation on Department of Defense entities competing with private sector in offering personal info</akn:heading><akn:content><akn:p>§ 2492a. Limitation on Department of Defense entities competing with private sector in offering personal information services(a) Limitation.—(1) Notwithstanding section 2492 of this title, the Secretary of Defense may not authorize a Department of Defense entity to offer or provide personal information services directly to users using Department resources, personnel, or equipment, or compete for contracts to provide such personal information services directly to users, if users will be charged a fee for the personal information services to recover the cost incurred to provide the services or to earn a profit.
+
+(2) The limitation in paragraph (1) shall not be construed to prohibit or preclude the use of Department resources, personnel, or equipment to administer or facilitate personal information services contracts with private contractors.
+
+
+(b) Exceptions.—The limitation in subsection (a) shall not apply if the Secretary of Defense determines that—(1) a private sector vendor is not available to provide the personal information services at specific locations;
+
+(2) the interests of the user population would be best served by allowing the Government to provide such services; or
+
+(3) circumstances (as specified by the Secretary for purposes of this section) are such that the provision of such services by a Department entity is in the best interest of the Government or military users in general.
+
+
+(c) Personal Information Services Defined.—In this section, the term “personal information services” means the provision of Internet, telephone, or television services to consumers.
+
+(Added Pub. L. 111–84, div. A, title VI, § 651(a), Oct. 28, 2009, 123 Stat. 2368.)
+
+Statutory Notes and Related Subsidiaries
+Savings ProvisionPub. L. 111–84, div. A, title VI, § 651(c), Oct. 28, 2009, 123 Stat. 2369, provided that: “Section 2492a of title 10, United States Code, as added by subsection (a), does not affect the validity or terms of any contract for the provision of personal informat</akn:p></akn:content><akn:subsection eId="subsec_2492a_a"><akn:num>(a)</akn:num><akn:heading>Limitation.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2492a_b"><akn:num>(b)</akn:num><akn:heading>Exceptions.—</akn:heading><akn:content><akn:p>(b) The limitation in subsection (a) shall not apply if the Secretary of Defense determines that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2492a_c"><akn:num>(c)</akn:num><akn:heading>Personal Information Services Defined.—</akn:heading><akn:content><akn:p>(c) In this section, the term “personal information services” means the provision of Internet, telephone, or television services to consumers.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

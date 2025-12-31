@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2756" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2756/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2756/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2756"><akn:num>2756</akn:num><akn:heading>Unfunded priorities of the Administration</akn:heading><akn:content><akn:p>§ 2756. Unfunded priorities of the Administration(a) Annual report or certificationNot later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, the Administrator shall submit to the Secretary of Energy and the congressional defense committees either—(1) a report on the unfunded priorities of the Administration; or
+
+(2) if the Administrator determines that there are no unfunded priorities to include in such a report, a certification and explanation by the Administrator, without delegation, of the determination.
+
+
+(b) Elements(1) In generalEach report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:(A) A summary description of that priority, including the objectives to be achieved or the risk to be mitigated if that priority is funded (whether in whole or in part).
+
+(B) The additional amount of funds recommended in connection with the objectives or risk mitigation under subparagraph (A).
+
+(C) Account information with respect to that priority.
+
+
+(2) Prioritization of prioritiesEach report under subsection (a)(1) shall present the unfunded priorities covered by the report in order of urgency of priority.
+
+
+
+(c) Unfunded priority definedIn this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—(1) is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to section 1105(a) of title 31;
+
+(2) is necessary to address a requirement associated with the mission of the Administration; and
+
+(3) would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—(A) if additional resources were available for the budget to fund the program, activity, or mission requirement; or
+
+(B) in the case of a program, activity, or mission requirement that emerged after the budget was for</akn:p></akn:content><akn:subsection eId="subsec_2756_a"><akn:num>(a)</akn:num><akn:heading>Annual report or certification</akn:heading><akn:content><akn:p>(a) Annual report or certification Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, the Administrator shall submit to the Secretary of Energy and the congressional defense committees either—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2756_b"><akn:num>(b)</akn:num><akn:heading>Elements</akn:heading><akn:content><akn:p>(b) Elements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2756_c"><akn:num>(c)</akn:num><akn:heading>Unfunded priority defined</akn:heading><akn:content><akn:p>(c) Unfunded priority defined In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

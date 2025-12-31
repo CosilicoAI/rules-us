@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3977" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3977/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3977/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3977"><akn:num>3977</akn:num><akn:heading>Premiums and interest guaranteed by United States</akn:heading><akn:content><akn:p>§ 3977. Premiums and interest guaranteed by United States(a) Guarantee of premiums and interest by the United States(1) GuaranteePayment of premiums, and interest on premiums at the rate specified in section 3976 of this title, which become due on a policy under the protection of this subchapter is guaranteed by the United States. If the amount guaranteed is not paid to the insurer before the period of insurance protection under this subchapter expires, the amount due shall be treated by the insurer as a policy loan on the policy.
+
+
+(2) Policy terminationIf, at the expiration of insurance protection under this subchapter, the cash surrender value of a policy is less than the amount due to pay premiums and interest on premiums on the policy, the policy shall terminate. Upon such termination, the United States shall pay the insurer the difference between the amount due and the cash surrender value.
+
+
+
+(b) Recovery from insured of amounts paid by the United States(1) Debt payable to the United StatesThe amount paid by the United States to an insurer under this subchapter shall be a debt payable to the United States by the insured on whose policy payment was made.
+
+
+(2) CollectionSuch amount may be collected by the United States, either as an offset from any amount due the insured by the United States or as otherwise authorized by law.
+
+
+(3) Debt not dischargeable in bankruptcySuch debt payable to the United States is not dischargeable in bankruptcy proceedings.
+
+
+
+(c) Crediting of amounts recoveredAny amounts received by the United States as repayment of debts incurred by an insured under this subchapter shall be credited to the appropriation for the payment of claims under this subchapter.
+
+
+(Oct. 17, 1940, ch. 888, title IV, § 407, as added Pub. L. 108–189, § 1, Dec. 19, 2003, 117 Stat. 2853.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 547 of the former Appendix to this title prior to editorial reclassification and renumbering as this se</akn:p></akn:content><akn:subsection eId="subsec_3977_a"><akn:num>(a)</akn:num><akn:heading>Guarantee of premiums and interest by the United States</akn:heading><akn:content><akn:p>(a) Guarantee of premiums and interest by the United States</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3977_b"><akn:num>(b)</akn:num><akn:heading>Recovery from insured of amounts paid by the United States</akn:heading><akn:content><akn:p>(b) Recovery from insured of amounts paid by the United States</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3977_c"><akn:num>(c)</akn:num><akn:heading>Crediting of amounts recovered</akn:heading><akn:content><akn:p>(c) Crediting of amounts recovered Any amounts received by the United States as repayment of debts incurred by an insured under this subchapter shall be credited to the appropriation for the payment of claims under this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

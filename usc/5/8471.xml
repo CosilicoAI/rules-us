@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8471" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8471/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8471/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8471"><akn:num>8471</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8471. Definitions
+For the purposes of this subchapter—(1) the term “beneficiary” means an individual (other than a participant) entitled to payment from the Thrift Savings Fund under subchapter III of this chapter;
+
+(2) the term “Council” means the Employee Thrift Advisory Council established under section 8473 of this title;
+
+(3) the term “participant” means an individual for whom an account has been established under section 8439 of this title;
+
+(4) the term “person” means an individual, partnership, joint venture, corporation, mutual company, joint-stock company, trust, estate, unincorporated organization, association, or labor organization; and
+
+(5) the term “Thrift Savings Fund” means the Thrift Savings Fund established under section 8437 of this title.
+
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 577.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSubchapter VII effective June 6, 1986, see section 702(b)(1) of Pub. L. 99–335, set out as a note under section 8401 of this title.</akn:p></akn:content><akn:subsection eId="subsec_8471_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “beneficiary” means an individual (other than a participant) entitled to payment from the Thrift Savings Fund under subchapter III of this chapter;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8471_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “Council” means the Employee Thrift Advisory Council established under section 8473 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8471_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “participant” means an individual for whom an account has been established under section 8439 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8471_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the term “person” means an individual, partnership, joint venture, corporation, mutual company, joint-stock company, trust, estate, unincorporated organization, association, or labor organization; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8471_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) the term “Thrift Savings Fund” means the Thrift Savings Fund established under section 8437 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

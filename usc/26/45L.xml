@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/45L" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/45L/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/45L/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_45L"><akn:num>45L</akn:num><akn:heading>New energy efficient home credit</akn:heading><akn:content><akn:p>§ 45L. New energy efficient home credit(a) Allowance of credit(1) In generalFor purposes of section 38, in the case of an eligible contractor, the new energy efficient home credit for the taxable year is the applicable amount for each qualified new energy efficient home which is—(A) constructed by the eligible contractor, and
+
+(B) acquired by a person from such eligible contractor for use as a residence during the taxable year.
+
+
+(2) Applicable amountFor purposes of paragraph (1), the applicable amount is an amount equal to—(A) in the case of a dwelling unit which is eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes program—(i) which meets the requirements of subsection (c)(1)(A) (and which does not meet the requirements of subsection (c)(1)(B)), $2,500, and
+
+(ii) which meets the requirements of subsection (c)(1)(B), $5,000, and
+
+
+(B) in the case of a dwelling unit which is part of a building eligible to participate in the Energy Star Multifamily New Construction Program—(i) which meets the requirements of subsection (c)(1)(A) (and which does not meet the requirements of subsection (c)(1)(B)), $500, and
+
+(ii) which meets the requirements of subsection (c)(1)(B), $1,000.
+
+
+
+
+(b) DefinitionsFor purposes of this section—(1) Eligible contractorThe term “eligible contractor” means—(A) the person who constructed the qualified new energy efficient home, or
+
+(B) in the case of a qualified new energy efficient home which is a manufactured home, the manufactured home producer of such home.
+
+
+(2) Qualified new energy efficient homeThe term “qualified new energy efficient home” means a dwelling unit—(A) located in the United States,
+
+(B) the construction of which is substantially completed after the date of the enactment of this section, and
+
+(C) which meets the energy saving requirements of subsection (c).
+
+
+(3) ConstructionThe term “construction” includes substantial reconstruction and rehabilitation.
+
+
+(</akn:p></akn:content><akn:subsection eId="subsec_45L_a"><akn:num>(a)</akn:num><akn:heading>Allowance of credit</akn:heading><akn:content><akn:p>(a) Allowance of credit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45L_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45L_c"><akn:num>(c)</akn:num><akn:heading>Energy saving requirements</akn:heading><akn:content><akn:p>(c) Energy saving requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45L_d"><akn:num>(d)</akn:num><akn:heading>Certification</akn:heading><akn:content><akn:p>(d) Certification</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45L_e"><akn:num>(e)</akn:num><akn:heading>Basis adjustment</akn:heading><akn:content><akn:p>(e) Basis adjustment For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45L_f"><akn:num>(f)</akn:num><akn:heading>Coordination with investment credit</akn:heading><akn:content><akn:p>(f) Coordination with investment credit For purposes of this section, expenditures taken into account under section 47 or 48(a) shall not be taken into account under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45L_g"><akn:num>(g)</akn:num><akn:heading>Prevailing wage requirement</akn:heading><akn:content><akn:p>(g) Prevailing wage requirement</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45L_h"><akn:num>(h)</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>(h) Termination This section shall not apply to any qualified new energy efficient home acquired after June 30, 2026.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

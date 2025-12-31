@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_902"><akn:num>902</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 902. Definitions
+In this chapter, the following definitions apply:(1) Unit of general local government.—The term “unit of general local government” means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
+
+(2) Urban area.—The term “urban area” means—(A) a geographical area within the jurisdiction of an incorporated city, town, borough, village, or other unit of general local government, except a county or parish, having a population of at least 10,000 inhabitants;
+
+(B) that portion of the geographical area within the jurisdiction of a county, town, township, or similar governmental entity which contains no incorporated unit of general local government but has a population density of at least 1,500 inhabitants per square mile; and
+
+(C) that portion of a geographical area having a population density of at least 1,500 inhabitants per square mile and situated adjacent to the boundary of an incorporated unit of general local government which has a population of at least 10,000.
+
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1128.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+90240:535(a), (b).June 30, 1949, ch. 288, title VIII, § 806(a), (b), as added Pub. L. 90–577, title V, § 501, Oct. 16, 1968, 82 Stat. 1105.</akn:p></akn:content><akn:subsection eId="subsec_902_1"><akn:num>(1)</akn:num><akn:heading>Unit of general local government.—</akn:heading><akn:content><akn:p>(1) The term “unit of general local government” means a city, county, town, parish, village, or other general-purpose political subdivision of a State.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_902_2"><akn:num>(2)</akn:num><akn:heading>Urban area.—</akn:heading><akn:content><akn:p>(2) The term “urban area” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

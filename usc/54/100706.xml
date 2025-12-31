@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/100706" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/100706/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/100706/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_100706"><akn:num>100706</akn:num><akn:heading>Integration of study results into management decisions</akn:heading><akn:content><akn:p>§ 100706. Integration of study results into management decisions
+The Secretary shall take such measures as are necessary to ensure the full and proper utilization of the results of scientific study for System unit management decisions. In each case in which an action undertaken by the Service may cause a significant adverse effect on a System unit resource, the administrative record shall reflect the manner in which System unit resource studies have been considered. The trend in the condition of resources of the System shall be a significant factor in the annual performance evaluation of each superintendent of a System unit.
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3106.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10070616 U.S.C. 5936.Pub. L. 105–391, title II, § 206, Nov. 13, 1998, 112 Stat. 3500.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

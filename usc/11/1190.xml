@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1190" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1190/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1190/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1190"><akn:num>1190</akn:num><akn:heading>Contents of plan</akn:heading><akn:content><akn:p>§ 1190. Contents of plan
+A plan filed under this subchapter—(1) shall include—(A) a brief history of the business operations of the debtor;
+
+(B) a liquidation analysis; and
+
+(C) projections with respect to the ability of the debtor to make payments under the proposed plan of reorganization;
+
+
+(2) shall provide for the submission of all or such portion of the future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan; and
+
+(3) notwithstanding section 1123(b)(5) of this title, may modify the rights of the holder of a claim secured only by a security interest in real property that is the principal residence of the debtor if the new value received in connection with the granting of the security interest was—(A) not used primarily to acquire the real property; and
+
+(B) used primarily in connection with the small business of the debtor.
+
+
+(Added Pub. L. 116–54, § 2(a), Aug. 23, 2019, 133 Stat. 1082.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1190_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1190_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) shall provide for the submission of all or such portion of the future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1190_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) notwithstanding section 1123(b)(5) of this title, may modify the rights of the holder of a claim secured only by a security interest in real property that is the principal residence of the debtor if the new value received in connection with the granting of the security interest was—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

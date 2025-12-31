@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/13110" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/13110/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/13110/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13110"><akn:num>13110</akn:num><akn:heading>Authority of Comptroller General</akn:heading><akn:content><akn:p>§ 13110. Authority of Comptroller General(a) Access to Financial Disclosure Reports.—The Comptroller General shall have access to financial disclosure reports filed under this subchapter for the purposes of carrying out the Comptroller General’s statutory responsibilities.
+
+(b) Studies.—Not later than December 31, 1992, and regularly thereafter, the Comptroller General shall conduct a study to determine whether the provisions of this subchapter are being carried out effectively.
+
+(Pub. L. 117–286, § 3(c), Dec. 27, 2022, 136 Stat. 4295.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+131105 U.S.C. App. (EGA § 108)Pub. L. 95–521, title I, § 108, Oct. 26, 1978, 92 Stat. 1835; Pub. L. 96–19, § 9(t), June 13, 1979, 93 Stat. 44; Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1741.</akn:p></akn:content><akn:subsection eId="subsec_13110_a"><akn:num>(a)</akn:num><akn:heading>Access to Financial Disclosure Reports.—</akn:heading><akn:content><akn:p>(a) The Comptroller General shall have access to financial disclosure reports filed under this subchapter for the purposes of carrying out the Comptroller General’s statutory responsibilities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13110_b"><akn:num>(b)</akn:num><akn:heading>Studies.—</akn:heading><akn:content><akn:p>(b) Not later than December 31, 1992, and regularly thereafter, the Comptroller General shall conduct a study to determine whether the provisions of this subchapter are being carried out effectively.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

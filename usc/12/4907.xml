@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/4907" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/4907/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/4907/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4907"><akn:num>4907</akn:num><akn:heading>Civil liability</akn:heading><akn:content><akn:p>§ 4907. Civil liability(a) In generalAny servicer, mortgagee, or mortgage insurer that violates a provision of this chapter shall be liable to each mortgagor to whom the violation relates for—(1) in the case of an action by an individual, or a class action in which the liable party is not subject to section 4909 of this title, any actual damages sustained by the mortgagor as a result of the violation, including interest (at a rate determined by the court) on the amount of actual damages, accruing from the date on which the violation commences;
+
+(2) in the case of—(A) an action by an individual, such statutory damages as the court may allow, not to exceed $2,000; and
+
+(B) in the case of a class action—(i) in which the liable party is subject to section 4909 of this title, such amount as the court may allow, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the net worth of the liable party, as determined by the court; and
+
+(ii) in which the liable party is not subject to section 4909 of this title, such amount as the court may allow, not to exceed $1,000 as to each member of the class, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the gross revenues of the liable party, as determined by the court;
+
+
+
+(3) costs of the action; and
+
+(4) reasonable attorney fees, as determined by the court.
+
+
+(b) Timing of actionsNo action may be brought by a mortgagor under subsection (a) later than 2 years after the date of the discovery of the violation that is the subject of the action.
+
+
+(c) Limitations on liability(1) In generalWith respect to a residential mortgage transaction, the failure of a servicer to comply with the requirements of this chapte</akn:p></akn:content><akn:subsection eId="subsec_4907_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Any servicer, mortgagee, or mortgage insurer that violates a provision of this chapter shall be liable to each mortgagor to whom the violation relates for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4907_b"><akn:num>(b)</akn:num><akn:heading>Timing of actions</akn:heading><akn:content><akn:p>(b) Timing of actions No action may be brought by a mortgagor under subsection (a) later than 2 years after the date of the discovery of the violation that is the subject of the action.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4907_c"><akn:num>(c)</akn:num><akn:heading>Limitations on liability</akn:heading><akn:content><akn:p>(c) Limitations on liability</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

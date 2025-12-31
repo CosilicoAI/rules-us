@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/70104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/70104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/70104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70104"><akn:num>70104</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>§ 70104. Membership(a) Eligibility.—Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the articles of incorporation and bylaws.
+
+(b) Nondiscrimination.—The terms of membership may not discriminate on the basis of race, color, religion, sex, disability, age, or national origin.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1348.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+70104(a)36:5605.Sept. 23, 1996, Pub. L. 104–201, title XVIII, §§ 1805, 1808(g) (related to membership), 110 Stat. 2761.
+70104(b)36:5608(g) (related to membership). 
+
+
+In subsection (a), the words “Except as provided in this chapter” are substituted for “Except as provided in section 5608(g) of this title” for consistency in the revised title.
+In subsection (b), the words “The terms of membership” are substituted for “In establishing the conditions of membership in the association” for consistency in the revised title and to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_70104_a"><akn:num>(a)</akn:num><akn:heading>Eligibility.—</akn:heading><akn:content><akn:p>(a) Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the articles of incorporation and bylaws.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70104_b"><akn:num>(b)</akn:num><akn:heading>Nondiscrimination.—</akn:heading><akn:content><akn:p>(b) The terms of membership may not discriminate on the basis of race, color, religion, sex, disability, age, or national origin.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

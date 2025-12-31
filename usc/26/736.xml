@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/736" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/736/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/736/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_736"><akn:num>736</akn:num><akn:heading>Payments to a retiring partner or a deceased partner’s successor in interest</akn:heading><akn:content><akn:p>§ 736. Payments to a retiring partner or a deceased partner’s successor in interest(a) Payments considered as distributive share or guaranteed paymentPayments made in liquidation of the interest of a retiring partner or a deceased partner shall, except as provided in subsection (b), be considered—(1) as a distributive share to the recipient of partnership income if the amount thereof is determined with regard to the income of the partnership, or
+
+(2) as a guaranteed payment described in section 707(c) if the amount thereof is determined without regard to the income of the partnership.
+
+
+(b) Payments for interest in partnership(1) General rulePayments made in liquidation of the interest of a retiring partner or a deceased partner shall, to the extent such payments (other than payments described in paragraph (2)) are determined, under regulations prescribed by the Secretary, to be made in exchange for the interest of such partner in partnership property, be considered as a distribution by the partnership and not as a distributive share or guaranteed payment under subsection (a).
+
+
+(2) Special rulesFor purposes of this subsection, payments in exchange for an interest in partnership property shall not include amounts paid for—(A) unrealized receivables of the partnership (as defined in section 751(c)), or
+
+(B) good will of the partnership, except to the extent that the partnership agreement provides for a payment with respect to good will.
+
+
+(3) Limitation on application of paragraph (2)Paragraph (2) shall apply only if—(A) capital is not a material income-producing factor for the partnership, and
+
+(B) the retiring or deceased partner was a general partner in the partnership.
+
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 248; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, § 701(u)(13)(B), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 103–66, title XIII, § 13262(a), (b)(2)(B), Aug. 10, 1993, 107 Stat. 541.)
+
+Editorial Notes
+Amendments</akn:p></akn:content><akn:subsection eId="subsec_736_a"><akn:num>(a)</akn:num><akn:heading>Payments considered as distributive share or guaranteed payment</akn:heading><akn:content><akn:p>(a) Payments considered as distributive share or guaranteed payment Payments made in liquidation of the interest of a retiring partner or a deceased partner shall, except as provided in subsection (b), be considered—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_736_b"><akn:num>(b)</akn:num><akn:heading>Payments for interest in partnership</akn:heading><akn:content><akn:p>(b) Payments for interest in partnership</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

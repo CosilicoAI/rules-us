@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53501"><akn:num>53501</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 53501. Definitions
+In this chapter:(1) Agreement vessel.—The term “agreement vessel” means—(A) an eligible vessel or a qualified vessel that is subject to an agreement under this chapter; and
+
+(B) a barge or container that is part of the complement of a vessel described in subparagraph (A) if provided for in the agreement.
+
+
+(2) Eligible vessel.—The term “eligible vessel” means—(A) a vessel—(i) constructed in the United States (and, if reconstructed, reconstructed in the United States), constructed outside the United States but documented under the laws of the United States on April 15, 1970, or constructed outside the United States for use in the United States foreign trade pursuant to a contract made before April 15, 1970;
+
+(ii) documented under the laws of the United States; and
+
+(iii) operated in the foreign or domestic trade of the United States or in the fisheries of the United States; and
+
+
+(B) a commercial fishing vessel—(i) constructed in the United States and, if reconstructed, reconstructed in the United States;
+
+(ii) of at least 2 net tons but less than 5 net tons;
+
+(iii) owned by a citizen of the United States;
+
+(iv) having its home port in the United States; and
+
+(v) operated in the commercial fisheries of the United States.
+
+
+
+(3) Joint regulations.—The term “joint regulations” means regulations prescribed jointly by the Secretary and the Secretary of the Treasury under section 53502(b) of this title.
+
+(4) Noncontiguous trade.—The term “noncontiguous trade” means—(A) trade between—(i) one of the contiguous 48 States; and
+
+(ii) Alaska, Hawaii, Puerto Rico, or an insular territory or possession of the United States; and
+
+
+(B) trade between—(i) a place in Alaska, Hawaii, Puerto Rico, or an insular territory or possession of the United States; and
+
+(ii) another place in Alaska, Hawaii, Puerto Rico, or an insular territory or possession of the United States.
+
+
+
+(5) Qualified vessel.—The term “qualified vessel” means—(A) a vessel—(i) constructed in the Un</akn:p></akn:content><akn:subsection eId="subsec_53501_1"><akn:num>(1)</akn:num><akn:heading>Agreement vessel.—</akn:heading><akn:content><akn:p>(1) The term “agreement vessel” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_2"><akn:num>(2)</akn:num><akn:heading>Eligible vessel.—</akn:heading><akn:content><akn:p>(2) The term “eligible vessel” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_3"><akn:num>(3)</akn:num><akn:heading>Joint regulations.—</akn:heading><akn:content><akn:p>(3) The term “joint regulations” means regulations prescribed jointly by the Secretary and the Secretary of the Treasury under section 53502(b) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_4"><akn:num>(4)</akn:num><akn:heading>Noncontiguous trade.—</akn:heading><akn:content><akn:p>(4) The term “noncontiguous trade” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_5"><akn:num>(5)</akn:num><akn:heading>Qualified vessel.—</akn:heading><akn:content><akn:p>(5) The term “qualified vessel” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_6"><akn:num>(6)</akn:num><akn:heading>Secretary.—</akn:heading><akn:content><akn:p>(6) The term “Secretary” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_7"><akn:num>(7)</akn:num><akn:heading>Short sea transportation trade.—</akn:heading><akn:content><akn:p>(7) The term “short sea transportation trade” means the carriage by vessel of cargo—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_8"><akn:num>(8)</akn:num><akn:heading>United states foreign trade.—</akn:heading><akn:content><akn:p>(8) The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53501_9"><akn:num>(9)</akn:num><akn:heading>Vessel.—</akn:heading><akn:content><akn:p>(9) The term “vessel” includes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/242" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/242/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/242/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_242"><akn:num>242</akn:num><akn:heading>Duty of United States attorney to enforce law</akn:heading><akn:content><akn:p>§ 242. Duty of United States attorney to enforce law
+It shall be the duty of each United States attorney, to whom satisfactory evidence of any violation of sections 237 to 242 of this title is presented, to cause appropriate proceedings to be commenced and prosecuted in the United States court having jurisdiction of such offense.
+(Aug. 23, 1916, ch. 396, § 6, 39 Stat. 531; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

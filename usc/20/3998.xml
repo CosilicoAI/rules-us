@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/3998" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/3998/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/3998/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3998"><akn:num>3998</akn:num><akn:heading>Computation of grant amounts</akn:heading><akn:content><akn:p>§ 3998. Computation of grant amounts(a) Payments to grantees(1) Payment by StateThe State shall pay to the extent of amounts received by it from the Secretary under this part, to each applicant having an application approved under section 3997 of this title, the Federal share of the cost of the program described in the application.
+
+
+(2) Amount(A) Except as provided in subparagraph (B), the Federal share for each fiscal year shall be 75 percent.
+
+(B) In the case of an applicant that receives a waiver under section 3995(c) of this title, the Federal share for each fiscal year may be as much as 100 percent.
+
+
+(3) Non-Federal shareThe non-Federal share of payments under this part may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+
+
+
+(b) Payments to StatesExcept as provided in subsection (c), each State shall receive under this part the greater of—(1) an amount equal to its share of funds appropriated under chapter 1 of the Education Consolidation and Improvement Act; or
+
+(2) $225,000.
+
+
+(c) Reduction for insufficient fundingIf sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b), the amount of such grants shall be ratably reduced.
+
+
+(Pub. L. 98–377, title III, § 328, as added Pub. L. 100–418, title VI, § 6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
+
+Editorial Notes
+
+References in TextThe Education Consolidation and Improvement Act, referred to in subsec. (b)(1), probably means the Education Consolidation and Improvement Act of 1981, which is subtitle D [§§ 551 to 596] of title V of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 463. Chapter 1 of the Act was classified generally to subchapter I (§ 3801 et seq.) of chapter 51 of this title, prior to repeal by Pub. L. 100–297, title I, § 1003(a), Apr. 28, 1988, 102 Stat. 293. For complete classification of this Act to the Code, see Tables.</akn:p></akn:content><akn:subsection eId="subsec_3998_a"><akn:num>(a)</akn:num><akn:heading>Payments to grantees</akn:heading><akn:content><akn:p>(a) Payments to grantees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3998_b"><akn:num>(b)</akn:num><akn:heading>Payments to States</akn:heading><akn:content><akn:p>(b) Payments to States Except as provided in subsection (c), each State shall receive under this part the greater of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3998_c"><akn:num>(c)</akn:num><akn:heading>Reduction for insufficient funding</akn:heading><akn:content><akn:p>(c) Reduction for insufficient funding If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b), the amount of such grants shall be ratably reduced.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

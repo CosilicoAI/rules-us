@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/467" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/467/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/467/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_467"><akn:num>467</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 467. Definitions
+In this chapter:(1) The term “function” means any duty, obligation, responsibility, privilege, activity, or program.
+
+(2)(A) The term “imagery” means, except as provided in subparagraph (B), a likeness or presentation of any natural or manmade feature or related object or activity and the positional data acquired at the same time the likeness or representation was acquired, including—(i) products produced by space-based national intelligence reconnaissance systems; and
+
+(ii) likenesses or presentations produced by satellites, airborne platforms, unmanned aerial vehicles, or other similar means.
+
+
+(B) Such term does not include handheld or clandestine photography taken by or on behalf of human intelligence collection organizations.
+
+
+(3) The term “imagery intelligence” means the technical, geographic, and intelligence information derived through the interpretation or analysis of imagery and collateral materials.
+
+(4) The term “geospatial information” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on or about the earth and includes—(A) data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
+
+(B) mapping, charting, geomatics data, and related products and services.
+
+
+(5) The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on or about the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
+
+(Added Pub. L. 104–201, div. A, title XI, § 1112(a)(2), Sept. 23, 1996, 110 Stat. 2682; amended Pub. L. 105–85, div. A, title IX, § 933(b)(2), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 108–136, div. A, title IX, § 921(b), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, § 1621(f), Jan. 1, 2021, 134 Stat. 4054.)
+
+</akn:p></akn:content><akn:subsection eId="subsec_467_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “function” means any duty, obligation, responsibility, privilege, activity, or program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “imagery intelligence” means the technical, geographic, and intelligence information derived through the interpretation or analysis of imagery and collateral materials.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The term “geospatial information” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on or about the earth and includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_467_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The term “geospatial intelligence” means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on or about the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

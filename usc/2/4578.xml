@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/4578" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/4578/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/4578/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4578"><akn:num>4578</akn:num><akn:heading>Restriction on payment of dual compensation by Secretary of Senate</akn:heading><akn:content><akn:p>§ 4578. Restriction on payment of dual compensation by Secretary of Senate
+Unless otherwise specifically authorized by law, no part of any appropriation disbursed by the Secretary of the Senate shall be available for payment of compensation to any person holding any position, for any period for which such person received compensation for holding any other position, the compensation for which is disbursed by the Secretary of the Senate.
+(June 27, 1956, ch. 453, 70 Stat. 360.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 66a of this title prior to editorial reclassification and renumbering as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

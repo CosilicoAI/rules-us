@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/8/1814" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/8/1814/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/8/1814/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1814"><akn:num>1814</akn:num><akn:heading>Fee for aliens ordered removed in absentia</akn:heading><akn:content><akn:p>§ 1814. Fee for aliens ordered removed in absentia(a) In generalAs partial reimbursement for the cost of arresting an alien described in this section, the Secretary of Homeland Security, except as provided in subsection (c), shall require the payment of a fee, equal to the amount specified in subsection (b) on any alien who—(1) is ordered removed in absentia pursuant to section 1229a(b)(5) of this title; and
+
+(2) is subsequently arrested by U.S. Immigration and Customs Enforcement.
+
+
+(b) Amount specified(1) Initial amountFor fiscal year 2025, the amount specified in this section shall be the greater of—(A) $5,000; or
+
+(B) such amount as the Secretary of Homeland Security may establish, by rule.
+
+
+(2) Annual adjustments for inflationDuring fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—(A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+
+
+(c) ExceptionThe fee described in this section shall not apply to any alien who was ordered removed in absentia if such order was rescinded pursuant to section 1229a(b)(5)(C) of this title.
+
+
+(d) Disposition of removal in absentia feesDuring each fiscal year—(1) 50 percent of the fees collected pursuant to this section—(A) shall be credited to U.S. Immigration and Customs Enforcement;
+
+(B) shall be deposited into the Detention and Removal Office Fee Account; and
+
+(C) may be retained and expended by U.S. Immigration and Customs Enforcement without further appropriation; and
+
+
+(2) any amounts collect</akn:p></akn:content><akn:subsection eId="subsec_1814_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general As partial reimbursement for the cost of arresting an alien described in this section, the Secretary of Homeland Security, except as provided in subsection (c), shall require the payment of a fee, equal to the amount specified in subsection (b) on any alien who—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1814_b"><akn:num>(b)</akn:num><akn:heading>Amount specified</akn:heading><akn:content><akn:p>(b) Amount specified</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1814_c"><akn:num>(c)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(c) Exception The fee described in this section shall not apply to any alien who was ordered removed in absentia if such order was rescinded pursuant to section 1229a(b)(5)(C) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1814_d"><akn:num>(d)</akn:num><akn:heading>Disposition of removal in absentia fees</akn:heading><akn:content><akn:p>(d) Disposition of removal in absentia fees During each fiscal year—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1814_e"><akn:num>(e)</akn:num><akn:heading>No fee waiver</akn:heading><akn:content><akn:p>(e) No fee waiver Fees required to be paid under this section shall not be waived or reduced.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

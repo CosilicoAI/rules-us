@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/273" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/273/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/273/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_273"><akn:num>273</akn:num><akn:heading>Organ procurement organizations</akn:heading><akn:content><akn:p>§ 273. Organ procurement organizations(a) Grant authority of Secretary(1) The Secretary may make grants for the planning of qualified organ procurement organizations described in subsection (b).
+
+(2) The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b).
+
+
+(b) Qualified organizations(1) A qualified organ procurement organization for which grants may be made under subsection (a) is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) 11 See References in Text note below. and—(A) is a nonprofit entity,
+
+(B) has accounting and other fiscal procedures (as specified by the Secretary) necessary to assure the fiscal stability of the organization,
+
+(C) has an agreement with the Secretary to be reimbursed under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] for the procurement of kidneys,
+
+(D) notwithstanding any other provision of law, has met the other requirements of this section and has been certified or recertified by the Secretary within the previous 4-year period as meeting the performance standards to be a qualified organ procurement organization through a process that either—(i) granted certification or recertification within such 4-year period with such certification or recertification in effect as of January 1, 2000, and remaining in effect through the earlier of—(I) January 1, 2002; or
+
+(II) the completion of recertification under the requirements of clause (ii); or
+
+
+(ii) is defined through regulations that are promulgated by the Secretary by not later than January 1, 2002, that—(I) require recertifications of qualified organ procurement organizations not more frequently than once every 4 years;
+
+(II) rely on outcome and process performance measures that are based on empirical evidence, obtained through reasonable efforts, of organ donor potential and other related facto</akn:p></akn:content><akn:subsection eId="subsec_273_a"><akn:num>(a)</akn:num><akn:heading>Grant authority of Secretary</akn:heading><akn:content><akn:p>(a) Grant authority of Secretary</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_273_b"><akn:num>(b)</akn:num><akn:heading>Qualified organizations</akn:heading><akn:content><akn:p>(b) Qualified organizations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_273_c"><akn:num>(c)</akn:num><akn:heading>Pancreata islet cell transplantation or research</akn:heading><akn:content><akn:p>(c) Pancreata islet cell transplantation or research Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

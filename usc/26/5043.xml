@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5043" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5043/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5043/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5043"><akn:num>5043</akn:num><akn:heading>Collection of taxes on wines</akn:heading><akn:content><akn:p>§ 5043. Collection of taxes on wines(a) Persons liable for paymentThe taxes on wine provided for in this subpart shall be paid—(1) Bonded wine cellarsIn the case of wines removed from any bonded wine cellar, by the proprietor of such bonded wine cellar; except that—(A) in the case of any transfer of wine in bond as authorized under the provisions of section 5362(b), the liability for payment of the tax shall become the liability of the transferee from the time of removal of the wine from the transferor’s premises, and the transferor shall thereupon be relieved of such liability; and
+
+(B) in the case of any wine withdrawn by a person other than such proprietor without payment of tax as authorized under the provisions of section 5362(c), the liability for payment of the tax shall become the liability of such person from the time of the removal of the wine from the bonded wine cellar, and such proprietor shall thereupon be relieved of such liability.
+
+
+(2) Foreign wineIn the case of foreign wines which are not transferred to a bonded wine cellar free of tax under section 5364, by the importer thereof.
+
+
+(3) Other winesImmediately, in the case of any wine produced, imported, received, removed, or possessed otherwise than as authorized by law, by any person producing, importing, receiving, removing, or possessing such wine; and all such persons shall be jointly and severally liable for such tax with each other as well as with any proprietor, transferee, or importer who may be liable for the tax under this subsection.
+
+
+
+(b) Payment of taxThe taxes on wines shall be paid in accordance with section 5061.
+
+
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1332; amended Pub. L. 94–455, title XIX, § 1905(b)(2)(C), Oct. 4, 1976, 90 Stat. 1822; Pub. L. 96–39, title VIII, § 807(a)(8), July 26, 1979, 93 Stat. 281; Pub. L. 105–206, title VI, § 6014(b)(1), July 22, 1998, 112 Stat. 820.)
+
+Editorial Notes
+Prior ProvisionsA prior section 5043, act Aug. 16, 1954, ch. 736</akn:p></akn:content><akn:subsection eId="subsec_5043_a"><akn:num>(a)</akn:num><akn:heading>Persons liable for payment</akn:heading><akn:content><akn:p>(a) Persons liable for payment The taxes on wine provided for in this subpart shall be paid—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5043_b"><akn:num>(b)</akn:num><akn:heading>Payment of tax</akn:heading><akn:content><akn:p>(b) Payment of tax The taxes on wines shall be paid in accordance with section 5061.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

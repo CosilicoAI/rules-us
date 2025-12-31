@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6656" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6656/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6656/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6656"><akn:num>6656</akn:num><akn:heading>Failure to make deposit of taxes</akn:heading><akn:content><akn:p>§ 6656. Failure to make deposit of taxes(a) Underpayment of depositsIn the case of any failure by any person to deposit (as required by this title or by regulations of the Secretary under this title) on the date prescribed therefor any amount of tax imposed by this title in such government depository as is authorized under section 6302(c) to receive such deposit, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be imposed upon such person a penalty equal to the applicable percentage of the amount of the underpayment.
+
+
+(b) DefinitionsFor purposes of subsection (a)—(1) Applicable percentage(A) In generalExcept as provided in subparagraph (B), the term “applicable percentage” means—(i) 2 percent if the failure is for not more than 5 days,
+
+(ii) 5 percent if the failure is for more than 5 days but not more than 15 days, and
+
+(iii) 10 percent if the failure is for more than 15 days.
+
+
+(B) Special ruleIn any case where the tax is not deposited on or before the earlier of—(i) the day 10 days after the date of the first delinquency notice to the taxpayer under section 6303, or
+
+(ii) the day on which notice and demand for immediate payment is given under section 6861 or 6862 or the last sentence of section 6331(a),
+
+
+the applicable percentage shall be 15 percent.
+
+
+(2) UnderpaymentThe term “underpayment” means the excess of the amount of the tax required to be deposited over the amount, if any, thereof deposited on or before the date prescribed therefor.
+
+
+
+(c) Exception for first-time depositors of employment taxesThe Secretary may waive the penalty imposed by subsection (a) on a person’s inadvertent failure to deposit any employment tax if—(1) such person meets the requirements referred to in section 7430(c)(4)(A)(ii),
+
+(2) such failure—(A) occurs during the first quarter that such person was required to deposit any employment tax; or
+
+(B) if such person is required to change the frequency of deposits of any emplo</akn:p></akn:content><akn:subsection eId="subsec_6656_a"><akn:num>(a)</akn:num><akn:heading>Underpayment of deposits</akn:heading><akn:content><akn:p>(a) Underpayment of deposits In the case of any failure by any person to deposit (as required by this title or by regulations of the Secretary under this title) on the date prescribed therefor any amount of tax imposed by this title in such government depository as is authorized under section 6302(c) to receive such deposit, unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be imposed upon such person a penalty equal to the applicable percentage of the amount of the underpayment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6656_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions For purposes of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6656_c"><akn:num>(c)</akn:num><akn:heading>Exception for first-time depositors of employment taxes</akn:heading><akn:content><akn:p>(c) Exception for first-time depositors of employment taxes The Secretary may waive the penalty imposed by subsection (a) on a person’s inadvertent failure to deposit any employment tax if— For purposes of this subsection, the term “employment taxes” means the taxes imposed by subtitle C.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6656_d"><akn:num>(d)</akn:num><akn:heading>Authority to abate penalty where deposit sent to Secretary</akn:heading><akn:content><akn:p>(d) Authority to abate penalty where deposit sent to Secretary The Secretary may abate the penalty imposed by subsection (a) with respect to the first time a depositor is required to make a deposit if the amount required to be deposited is inadvertently sent to the Secretary instead of to the appropriate government depository.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6656_e"><akn:num>(e)</akn:num><akn:heading>Designation of periods to which deposits apply</akn:heading><akn:content><akn:p>(e) Designation of periods to which deposits apply</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

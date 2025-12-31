@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/4303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/4303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/4303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4303"><akn:num>4303</akn:num><akn:heading>Office of Native American Business Development</akn:heading><akn:content><akn:p>§ 4303. Office of Native American Business Development(a) In general(1) EstablishmentThere is established within the Office of the Secretary an office known as the Office of Native American Business Development.
+
+
+(2) DirectorThe Office shall be headed by a Director, appointed by the Secretary, whose title shall be the Director of Native American Business Development. The Director shall be compensated at a rate not to exceed level V of the Executive Schedule under section 5316 of title 5.
+
+
+
+(b) Duties of the Secretary(1) In generalThe Secretary, acting through the Director, shall ensure the coordination of Federal programs that provide assistance, including financial and technical assistance, to eligible entities for increased business, the expansion of trade by eligible entities, and economic development on Indian lands.
+
+
+(2) Interagency coordinationThe Secretary, acting through the Director, shall coordinate Federal programs relating to Indian economic development, including any such program of the Department of the Interior, the Small Business Administration, the Department of Labor, or any other Federal agency charged with Indian economic development responsibilities.
+
+
+(3) ActivitiesIn carrying out the duties described in paragraph (1), the Secretary, acting through the Director, shall ensure the coordination of, or, as appropriate, carry out—(A) Federal programs designed to provide legal, accounting, or financial assistance to eligible entities;
+
+(B) market surveys;
+
+(C) the development of promotional materials;
+
+(D) the financing of business development seminars;
+
+(E) the facilitation of marketing;
+
+(F) the participation of appropriate Federal agencies or eligible entities in trade fairs;
+
+(G) any activity that is not described in subparagraphs (A) through (F) that is related to the development of appropriate markets; and
+
+(H) any other activity that the Secretary, in consultation with the Director, determines to be appropriate to carry out this section.
+
+
+</akn:p></akn:content><akn:subsection eId="subsec_4303_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4303_b"><akn:num>(b)</akn:num><akn:heading>Duties of the Secretary</akn:heading><akn:content><akn:p>(b) Duties of the Secretary</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4303_c"><akn:num>(c)</akn:num><akn:heading>Duties of Director</akn:heading><akn:content><akn:p>(c) Duties of Director</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

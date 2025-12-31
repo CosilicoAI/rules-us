@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17214" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17214/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17214/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17214"><akn:num>17214</akn:num><akn:heading>Marine energy research, development, and demonstration</akn:heading><akn:content><akn:p>§ 17214. Marine energy research, development, and demonstration(a) In generalThe Secretary, in consultation with the Secretary of Defense, Secretary of Commerce (acting through the Under Secretary of Commerce for Oceans and Atmosphere) and other relevant Federal agencies, shall conduct a program of research, development, demonstration, and commercial application of marine energy technology, including activities to—(1) assist technology development to improve the components, processes, and systems used for power generation from marine energy resources at a variety of scales;
+
+(2) establish and expand critical testing infrastructure and facilities necessary to—(A) demonstrate and prove marine energy devices at a range of scales in a manner that is cost-effective and efficient; and
+
+(B) accelerate the technological readiness and commercial application of such devices;
+
+
+(3) address marine energy resource variability issues, including through the application of energy storage technologies;
+
+(4) advance efficient and reliable integration of marine energy with the electric grid, which may include smart building systems;
+
+(5) identify and study critical short-term and long-term needs to maintaining a sustainable marine energy supply chain based in the United States;
+
+(6) increase the reliability, security, and resilience of marine energy technologies;
+
+(7) validate the performance, reliability, maintainability, and cost of marine energy device designs and system components in an operating environment;
+
+(8) consider the protection of critical infrastructure, such as adequate separation between marine energy devices and submarine telecommunications cables, including through the development of voluntary, consensus-based standards for such purposes;
+
+(9) identify opportunities for crosscutting research, development, and demonstration programs between existing energy research programs;
+
+(10) identify and improve, in conjunction with the Secretary of Commerce, acting through the</akn:p></akn:content><akn:subsection eId="subsec_17214_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary, in consultation with the Secretary of Defense, Secretary of Commerce (acting through the Under Secretary of Commerce for Oceans and Atmosphere) and other relevant Federal agencies, shall conduct a program of research, development, demonstration, and commercial application of marine energy technology, including activities to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17214_b"><akn:num>(b)</akn:num><akn:heading>Study of non-power sector applications for advanced marine energy technologies</akn:heading><akn:content><akn:p>(b) Study of non-power sector applications for advanced marine energy technologies</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

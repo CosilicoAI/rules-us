@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/321a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/321a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/321a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_321a"><akn:num>321a</akn:num><akn:heading>Evacuation plans and exercises</akn:heading><akn:content><akn:p>§ 321a. Evacuation plans and exercises(a) In generalNotwithstanding any other provision of law, and subject to subsection (d), grants made to States or local or tribal governments by the Department through the State Homeland Security Grant Program or the Urban Area Security Initiative may be used to—(1) establish programs for the development and maintenance of mass evacuation plans under subsection (b) in the event of a natural disaster, act of terrorism, or other man-made disaster;
+
+(2) prepare for the execution of such plans, including the development of evacuation routes and the purchase and stockpiling of necessary supplies and shelters; and
+
+(3) conduct exercises of such plans.
+
+
+(b) Plan developmentIn developing the mass evacuation plans authorized under subsection (a), each State, local, or tribal government shall, to the maximum extent practicable—(1) establish incident command and decision making processes;
+
+(2) ensure that State, local, and tribal government plans, including evacuation routes, are coordinated and integrated;
+
+(3) identify primary and alternative evacuation routes and methods to increase evacuation capabilities along such routes such as conversion of two-way traffic to one-way evacuation routes;
+
+(4) identify evacuation transportation modes and capabilities, including the use of mass and public transit capabilities, and coordinating and integrating evacuation plans for all populations including for those individuals located in hospitals, nursing homes, and other institutional living facilities;
+
+(5) develop procedures for informing the public of evacuation plans before and during an evacuation, including individuals—(A) with disabilities or other special needs, including the elderly;
+
+(B) with limited English proficiency; or
+
+(C) who might otherwise have difficulty in obtaining such information; and
+
+
+(6) identify shelter locations and capabilities.
+
+
+(c) Assistance(1) In generalThe Administrator may establish any guidelines, standards, or </akn:p></akn:content><akn:subsection eId="subsec_321a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Notwithstanding any other provision of law, and subject to subsection (d), grants made to States or local or tribal governments by the Department through the State Homeland Security Grant Program or the Urban Area Security Initiative may be used to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_321a_b"><akn:num>(b)</akn:num><akn:heading>Plan development</akn:heading><akn:content><akn:p>(b) Plan development In developing the mass evacuation plans authorized under subsection (a), each State, local, or tribal government shall, to the maximum extent practicable—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_321a_c"><akn:num>(c)</akn:num><akn:heading>Assistance</akn:heading><akn:content><akn:p>(c) Assistance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_321a_d"><akn:num>(d)</akn:num><akn:heading>Multipurpose funds</akn:heading><akn:content><akn:p>(d) Multipurpose funds Nothing in this section may be construed to preclude a State, local, or tribal government from using grant funds in a manner that enhances preparedness for a natural or man-made disaster unrelated to an act of terrorism, if such use assists such government in building capabilities for terrorism preparedness.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

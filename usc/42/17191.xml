@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17191" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17191/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17191/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17191"><akn:num>17191</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 17191. Definitions
+For purposes of this part:(1) EngineeredWhen referring to enhanced geothermal systems, the term “engineered” means designed to access subsurface heat, including stimulation and nonstimulation technologies to address one or more of the following issues:(A) Lack of effective permeability, porosity or open fracture connectivity within the heat reservoir.
+
+(B) Insufficient contained geofluid in the heat reservoir.
+
+(C) A low average geothermal gradient which necessitates deeper drilling, or the use of alternative heat sources or heat generation processes.
+
+
+(2) Eligible entityThe term “eligible entity” means any of the following entities:(A) An institution of higher education.
+
+(B) A National laboratory.
+
+(C) A Federal research agency.
+
+(D) A State research agency.
+
+(E) A nonprofit research organization.
+
+(F) An industrial entity.
+
+(G) A consortium of 2 or more entities described in subparagraphs (A) through (F).
+
+
+(3) Enhanced geothermal systemsThe term “enhanced geothermal systems” means geothermal reservoir systems that are engineered, as opposed to occurring naturally.
+
+
+(4) GeofluidThe term “geofluid” means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
+
+
+(5) Geopressured resourcesThe term “geopressured resources” mean geothermal deposits found in sedimentary rocks under higher than normal pressure and saturated with gas or methane.
+
+
+(6) GeothermalThe term “geothermal” refers to heat energy stored in the Earth’s crust that can be accessed for direct use or electric power generation.
+
+
+(7) HydrothermalThe term “hydrothermal” refers to naturally occurring subsurface reservoirs of hot water or steam.
+
+
+(8) Systems approachThe term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular com</akn:p></akn:content><akn:subsection eId="subsec_17191_1"><akn:num>(1)</akn:num><akn:heading>Engineered</akn:heading><akn:content><akn:p>(1) Engineered When referring to enhanced geothermal systems, the term “engineered” means designed to access subsurface heat, including stimulation and nonstimulation technologies to address one or more of the following issues:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17191_2"><akn:num>(2)</akn:num><akn:heading>Eligible entity</akn:heading><akn:content><akn:p>(2) Eligible entity The term “eligible entity” means any of the following entities:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17191_3"><akn:num>(3)</akn:num><akn:heading>Enhanced geothermal systems</akn:heading><akn:content><akn:p>(3) Enhanced geothermal systems The term “enhanced geothermal systems” means geothermal reservoir systems that are engineered, as opposed to occurring naturally.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17191_4"><akn:num>(4)</akn:num><akn:heading>Geofluid</akn:heading><akn:content><akn:p>(4) Geofluid The term “geofluid” means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17191_5"><akn:num>(5)</akn:num><akn:heading>Geopressured resources</akn:heading><akn:content><akn:p>(5) Geopressured resources The term “geopressured resources” mean geothermal deposits found in sedimentary rocks under higher than normal pressure and saturated with gas or methane.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17191_6"><akn:num>(6)</akn:num><akn:heading>Geothermal</akn:heading><akn:content><akn:p>(6) Geothermal The term “geothermal” refers to heat energy stored in the Earth’s crust that can be accessed for direct use or electric power generation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17191_7"><akn:num>(7)</akn:num><akn:heading>Hydrothermal</akn:heading><akn:content><akn:p>(7) Hydrothermal The term “hydrothermal” refers to naturally occurring subsurface reservoirs of hot water or steam.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17191_8"><akn:num>(8)</akn:num><akn:heading>Systems approach</akn:heading><akn:content><akn:p>(8) Systems approach The term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

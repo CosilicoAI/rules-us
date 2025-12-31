@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/40103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/40103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/40103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40103"><akn:num>40103</akn:num><akn:heading>Administrative exemptions</akn:heading><akn:content><akn:p>§ 40103. Administrative exemptions(a) In General.—The Federal Maritime Commission, on application or its own motion, may by order or regulation exempt for the future any class of agreements between persons subject to this part or any specified activity of those persons from any requirement of this part if the Commission finds that the exemption will not result in substantial reduction in competition or be detrimental to commerce. The Commission may attach conditions to an exemption and may, by order, revoke an exemption.
+
+(b) Opportunity for Hearing.—An order or regulation of exemption or revocation of an exemption may be issued only if the Commission has provided an opportunity for a hearing to interested persons and departments and agencies of the United States Government.
+
+(Pub. L. 109–304, § 7, Oct. 6, 2006, 120 Stat. 1527.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+4010346 App.:1715.Pub. L. 98–237, § 16, Mar. 20, 1984, 98 Stat. 84; Pub. L. 105–258, title I, § 114, Oct. 14, 1998, 112 Stat. 1912.</akn:p></akn:content><akn:subsection eId="subsec_40103_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Federal Maritime Commission, on application or its own motion, may by order or regulation exempt for the future any class of agreements between persons subject to this part or any specified activity of those persons from any requirement of this part if the Commission finds that the exemption will not result in substantial reduction in competition or be detrimental to commerce. The Commission may attach conditions to an exemption and may, by order, revoke an exemption.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40103_b"><akn:num>(b)</akn:num><akn:heading>Opportunity for Hearing.—</akn:heading><akn:content><akn:p>(b) An order or regulation of exemption or revocation of an exemption may be issued only if the Commission has provided an opportunity for a hearing to interested persons and departments and agencies of the United States Government.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

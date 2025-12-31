@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/514" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/514/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/514/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_514"><akn:num>514</akn:num><akn:heading>Bounties prohibited; substitutes prohibited</akn:heading><akn:content><akn:p>§ 514. Bounties prohibited; substitutes prohibited(a) No bounty may be paid to induce any person to enlist in an armed force. A clothing allowance or enlistment bonus authorized by law is not a bounty for the purposes of this subsection.
+
+(b) No person liable for active duty in an armed force under this subtitle may furnish a substitute for that active duty. No person may be enlisted or appointed in an armed force as a substitute for another person.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 19.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+514(a)  514(b)50 App.:458 (1st sentence, less applicability to induction).50 App.:458 (last sentence, less applicability to induction).June 24, 1948, ch. 625, § 8 (less applicability to induction), 62 Stat. 614.
+
+
+In subsection (b), the words “active duty” are substituted for the words “training and service”. The word “may” is substituted for the words “shall be permitted or allowed”. The last sentence is substituted for 50 App.:458 (words between 1st and last semicolons). 50 App.:458 (words after last semicolon) is omitted as applicable only to induction.</akn:p></akn:content><akn:subsection eId="subsec_514_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) No bounty may be paid to induce any person to enlist in an armed force. A clothing allowance or enlistment bonus authorized by law is not a bounty for the purposes of this subsection.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_514_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) No person liable for active duty in an armed force under this subtitle may furnish a substitute for that active duty. No person may be enlisted or appointed in an armed force as a substitute for another person.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

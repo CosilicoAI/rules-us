@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18033" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18033/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18033/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18033"><akn:num>18033</akn:num><akn:heading>Financial integrity</akn:heading><akn:content><akn:p>§ 18033. Financial integrity(a) Accounting for expenditures(1) In generalAn Exchange shall keep an accurate accounting of all activities, receipts, and expenditures and shall annually submit to the Secretary a report concerning such accountings.
+
+
+(2) InvestigationsThe Secretary, in coordination with the Inspector General of the Department of Health and Human Services, may investigate the affairs of an Exchange, may examine the properties and records of an Exchange, and may require periodic reports in relation to activities undertaken by an Exchange. An Exchange shall fully cooperate in any investigation conducted under this paragraph.
+
+
+(3) AuditsAn Exchange shall be subject to annual audits by the Secretary.
+
+
+(4) Pattern of abuseIf the Secretary determines that an Exchange or a State has engaged in serious misconduct with respect to compliance with the requirements of, or carrying out of activities required under, this title,11 See References in Text note below. the Secretary may rescind from payments otherwise due to such State involved under this or any other Act administered by the Secretary an amount not to exceed 1 percent of such payments per year until corrective actions are taken by the State that are determined to be adequate by the Secretary.
+
+
+(5) Protections against fraud and abuseWith respect to activities carried out under this title,1 the Secretary shall provide for the efficient and non-discriminatory administration of Exchange activities and implement any measure or procedure that—(A) the Secretary determines is appropriate to reduce fraud and abuse in the administration of this title; 1 and
+
+(B) the Secretary has authority to implement under this title 1 or any other Act.
+
+
+(6) Application of the False Claims Act(A) In generalPayments made by, through, or in connection with an Exchange are subject to the False Claims Act (31 U.S.C. 3729 et seq.) if those payments include any Federal funds. Compliance with the requirements of this Act concerning </akn:p></akn:content><akn:subsection eId="subsec_18033_a"><akn:num>(a)</akn:num><akn:heading>Accounting for expenditures</akn:heading><akn:content><akn:p>(a) Accounting for expenditures</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18033_b"><akn:num>(b)</akn:num><akn:heading>GAO oversight</akn:heading><akn:content><akn:p>(b) GAO oversight Not later than 5 years after the first date on which Exchanges are required to be operational under this title,1 the Comptroller General shall conduct an ongoing study of Exchange activities and the enrollees in qualified health plans offered through Exchanges. Such study shall review—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

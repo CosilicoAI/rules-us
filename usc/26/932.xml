@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/932" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/932/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/932/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_932"><akn:num>932</akn:num><akn:heading>Coordination of United States and Virgin Islands income taxes</akn:heading><akn:content><akn:p>§ 932. Coordination of United States and Virgin Islands income taxes(a) Treatment of United States residents(1) Application of subsectionThis subsection shall apply to an individual for the taxable year if—(A) such individual—(i) is a citizen or resident of the United States (other than a bona fide resident of the Virgin Islands during the entire taxable year), and
+
+(ii) has income derived from sources within the Virgin Islands, or effectively connected with the conduct of a trade or business within such possession, for the taxable year, or
+
+
+(B) such individual files a joint return for the taxable year with an individual described in subparagraph (A).
+
+
+(2) Filing requirementEach individual to whom this subsection applies for the taxable year shall file his income tax return for the taxable year with both the United States and the Virgin Islands.
+
+
+(3) Extent of income tax liabilityIn the case of an individual to whom this subsection applies in a taxable year for purposes of so much of this title (other than this section and section 7654) as relates to the taxes imposed by this chapter, the United States shall be treated as including the Virgin Islands.
+
+
+
+(b) Portion of United States tax liability payable to the Virgin Islands(1) In generalEach individual to whom subsection (a) applies for the taxable year shall pay the applicable percentage of the taxes imposed by this chapter for such taxable year (determined without regard to paragraph (3)) to the Virgin Islands.
+
+
+(2) Applicable percentage(A) In generalFor purposes of paragraph (1), the term “applicable percentage” means the percentage which Virgin Islands adjusted gross income bears to adjusted gross income.
+
+
+(B) Virgin Islands adjusted gross incomeFor purposes of subparagraph (A), the term “Virgin Islands adjusted gross income” means adjusted gross income determined by taking into account only income derived from sources within the Virgin Islands and deductions properly apportioned or allocable thereto.
+
+
+
+</akn:p></akn:content><akn:subsection eId="subsec_932_a"><akn:num>(a)</akn:num><akn:heading>Treatment of United States residents</akn:heading><akn:content><akn:p>(a) Treatment of United States residents</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_932_b"><akn:num>(b)</akn:num><akn:heading>Portion of United States tax liability payable to the Virgin Islands</akn:heading><akn:content><akn:p>(b) Portion of United States tax liability payable to the Virgin Islands</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_932_c"><akn:num>(c)</akn:num><akn:heading>Treatment of Virgin Islands residents</akn:heading><akn:content><akn:p>(c) Treatment of Virgin Islands residents</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_932_d"><akn:num>(d)</akn:num><akn:heading>Special rule for joint returns</akn:heading><akn:content><akn:p>(d) Special rule for joint returns In the case of a joint return, this section shall be applied on the basis of the residence of the spouse who has the greater adjusted gross income (determined without regard to community property laws) for the taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_932_e"><akn:num>(e)</akn:num><akn:heading>Special rule for applying section to tax imposed in Virgin Islands</akn:heading><akn:content><akn:p>(e) Special rule for applying section to tax imposed in Virgin Islands In applying this section for purposes of determining income tax liability incurred to the Virgin Islands, the provisions of this section shall not be affected by the provisions of Federal law referred to in section 934(a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

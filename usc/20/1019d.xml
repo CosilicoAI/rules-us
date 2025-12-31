@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1019d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1019d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1019d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1019d"><akn:num>1019d</akn:num><akn:heading>Self-certification form for private education loans</akn:heading><akn:content><akn:p>§ 1019d. Self-certification form for private education loans(a) In generalThe Secretary, in consultation with the Board of Governors of the Federal Reserve System, shall develop the self-certification form for private education loans that shall be used to satisfy the requirements of section 1638(e)(3) of title 15. Such form shall—(1) be developed in a standardized format;
+
+(2) be made available to the applicant by the relevant institution of higher education, in written or electronic form, upon request of the applicant;
+
+(3) contain only disclosures that—(A) the applicant may qualify for Federal student financial assistance through a program under subchapter IV of this chapter, or State or institutional student financial assistance, in place of, or in addition to, a private education loan;
+
+(B) the applicant is encouraged to discuss the availability of Federal, State, and institutional student financial assistance with financial aid officials at the applicant’s institution of higher education;
+
+(C) a private education loan may affect the applicant’s eligibility for free or low-cost Federal, State or institutional student financial assistance; and
+
+(D) the information that the applicant is required to provide on the form is available from officials at the financial aid office of the institution of higher education;
+
+
+(4) include a place to provide information on—(A) the applicant’s cost of attendance at the institution of higher education, as determined by the institution under part F of subchapter IV;
+
+(B) the applicant’s estimated financial assistance, including amounts of financial assistance used to replace the student aid index, as determined by the institution, in accordance with subchapter IV, for students who have completed the Free Application for Federal Student Aid; and
+
+(C) the difference between the amounts under subparagraphs (A) and (B), as applicable; and
+
+
+(5) include a place for the applicant’s signature, in written or electronic form.
+
+
+(b) Limit o</akn:p></akn:content><akn:subsection eId="subsec_1019d_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary, in consultation with the Board of Governors of the Federal Reserve System, shall develop the self-certification form for private education loans that shall be used to satisfy the requirements of section 1638(e)(3) of title 15. Such form shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1019d_b"><akn:num>(b)</akn:num><akn:heading>Limit on liability</akn:heading><akn:content><akn:p>(b) Limit on liability Nothing in this section shall be construed to create a private right of action against an institution of higher education with respect to the form developed under subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/9087" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/9087/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/9087/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9087"><akn:num>9087</akn:num><akn:heading>Space Development Agency</akn:heading><akn:content><akn:p>§ 9087. Space Development Agency(a) In General.—(1) There is a Space Development Agency of the Department of Defense (in this section referred to as the “Agency”). The Director of the Space Development Agency shall be the head of the Agency.
+
+(2) Effective on October 1, 2022—(A) the Agency shall be an element of the Space Force; and
+
+(B) the Director shall report—(i) pursuant to section 9016(b)(6)(B)(iv)(III) of this title, to the Assistant Secretary of the Air Force for Space Acquisition and Integration with respect to acquisition decisions; and
+
+(ii) directly to the Chief of Space Operations with respect to requirements decisions, personnel decisions, and any other matter not covered by clause (i).
+
+
+
+
+(b) Development and Integration Authorities.—The Director shall lead—(1) the development and demonstration of a resilient military space-based sensing, tracking, and data transport architecture that uses proliferated low-Earth orbit systems and services;
+
+(2) the integration of next-generation space capabilities, such as novel sensors (including with respect to alternate navigation, and autonomous battle management features), and sensor and tracking components (including a hypersonic and ballistic missile tracking space sensor payload pursuant to section 1645 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021), into the architecture specified in paragraph (1) to address the requirements and needs of the armed forces and combatant commands for such capabilities;
+
+(3) the procurement of commercial capabilities and services, including—(A) options for integrating payloads on commercial buses and spacecraft into existing commercial architectures; and
+
+(B) innovative commercial capabilities and services, such as on-orbit servicing or in-space transportation systems, that could extend the life of space systems, rapidly respond to threats, or contribute to resilience; and
+
+
+(4) the rapid introduction, acquisition, and iteration of cos</akn:p></akn:content><akn:subsection eId="subsec_9087_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9087_b"><akn:num>(b)</akn:num><akn:heading>Development and Integration Authorities.—</akn:heading><akn:content><akn:p>(b) The Director shall lead—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9087_c"><akn:num>(c)</akn:num><akn:heading>Budget Materials and Program Elements.—</akn:heading><akn:content><akn:p>(c) Beginning not later than with respect to fiscal year 2023 and each fiscal year thereafter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9087_d"><akn:num>(d)</akn:num><akn:heading>Delegation of Authorities.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/609" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/609/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/609/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_609"><akn:num>609</akn:num><akn:heading>Courts’ appointive power unaffected</akn:heading><akn:content><akn:p>§ 609. Courts’ appointive power unaffected
+The authority of the courts to appoint their own administrative or clerical personnel shall not be limited by any provisions of this chapter.
+(June 25, 1948, ch. 646, 62 Stat. 915.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed. § 446 (Mar. 3, 1911, ch. 231, § 304, as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223).
+This section contains the last clause of section 446(1) of title 28, U.S.C., 1940 ed.
+A similar provision with respect to the Attorney General’s authority over United States attorneys and their assistants, and United States marshals and their deputies was omitted as unnecessary since there is nothing in this chapter that could affect such authority of the Attorney General.
+For other provisions of section 446 of title 28, U.S.C., 1940 ed., see section 604 of this title.
+Minor changes were made in phraseology.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/21141" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/21141/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/21141/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_21141"><akn:num>21141</akn:num><akn:heading>“State” defined</akn:heading><akn:content><akn:p>§ 21141. “State” defined
+In this chapter, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the United States Virgin Islands.
+(Pub. L. 107–252, title IX, § 901, Oct. 29, 2002, 116 Stat. 1727.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+
+Codification
+Section was formerly classified to section 15541 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

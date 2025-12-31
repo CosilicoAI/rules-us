@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1397h" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1397h/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1397h/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1397h"><akn:num>1397h</akn:num><akn:heading>Program for early detection of certain medical conditions related to environmental health hazards</akn:heading><akn:content><akn:p>§ 1397h. Program for early detection of certain medical conditions related to environmental health hazards(a) Program establishmentThe Secretary shall establish a program in accordance with this section to make competitive grants to eligible entities specified in subsection (b) for the purpose of—(1) screening at-risk individuals (as defined in subsection (c)(1)) for environmental health conditions (as defined in subsection (c)(3)); and
+
+(2) developing and disseminating public information and education concerning—(A) the availability of screening under the program under this section;
+
+(B) the detection, prevention, and treatment of environmental health conditions; and
+
+(C) the availability of Medicare benefits for certain individuals diagnosed with environmental health conditions under section 1395rr–1 of this title.
+
+
+
+(b) Eligible entities(1) In generalFor purposes of this section, an eligible entity is an entity described in paragraph (2) which submits an application to the Secretary in such form and manner, and containing such information and assurances, as the Secretary determines appropriate.
+
+
+(2) Types of eligible entitiesThe entities described in this paragraph are the following:(A) A hospital or community health center.
+
+(B) A Federally qualified health center.
+
+(C) A facility of the Indian Health Service.
+
+(D) A National Cancer Institute-designated cancer center.
+
+(E) An agency of any State or local government.
+
+(F) A nonprofit organization.
+
+(G) Any other entity the Secretary determines appropriate.
+
+
+
+(c) DefinitionsIn this section:(1) At-risk individualThe term “at-risk individual” means an individual who—(A)(i) as demonstrated in such manner as the Secretary determines appropriate, has been present for an aggregate total of 6 months in the geographic area subject to an emergency declaration specified under paragraph (2), during a period ending—(I) not less than 10 years prior to the date of such individual’s application under subparagraph (B); and
+
+(I</akn:p></akn:content><akn:subsection eId="subsec_1397h_a"><akn:num>(a)</akn:num><akn:heading>Program establishment</akn:heading><akn:content><akn:p>(a) Program establishment The Secretary shall establish a program in accordance with this section to make competitive grants to eligible entities specified in subsection (b) for the purpose of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397h_b"><akn:num>(b)</akn:num><akn:heading>Eligible entities</akn:heading><akn:content><akn:p>(b) Eligible entities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397h_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397h_d"><akn:num>(d)</akn:num><akn:heading>Health coverage unaffected</akn:heading><akn:content><akn:p>(d) Health coverage unaffected Nothing in this section shall be construed to affect any coverage obligation of a governmental or private health plan or program relating to an at-risk individual.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397h_e"><akn:num>(e)</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>(e) Funding</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1397h_f"><akn:num>(f)</akn:num><akn:heading>Nonapplication</akn:heading><akn:content><akn:p>(f) Nonapplication</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

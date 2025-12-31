@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/7385j" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/7385j/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/7385j/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7385j"><akn:num>7385j</akn:num><akn:heading>Coordination with other Federal radiation compensation laws</akn:heading><akn:content><akn:p>§ 7385j. Coordination with other Federal radiation compensation laws
+Except in accordance with section 7384u of this title, an individual may not receive compensation or benefits under the compensation program for cancer and also receive compensation under the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) or section 1112(c) of title 38.
+(Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3651], Oct. 30, 2000, 114 Stat. 1654, 1654A–512.)
+
+Editorial Notes
+
+References in TextThe Radiation Exposure Compensation Act, referred to in text, is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, which is set out as a note under section 2210 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

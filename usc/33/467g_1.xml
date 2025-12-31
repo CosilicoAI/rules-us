@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/467g–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/467g–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/467g–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_467g_1"><akn:num>467g–1</akn:num><akn:heading>Dam safety training</akn:heading><akn:content><akn:p>§ 467g–1. Dam safety training
+At the request of any State that has or intends to develop a State dam safety program, the Administrator shall provide training for State dam safety staff and inspectors.
+(Pub. L. 92–367, § 10, as added Pub. L. 107–310, § 5(2), Dec. 2, 2002, 116 Stat. 2453; amended Pub. L. 113–121, title III, § 3001(a)(1), June 10, 2014, 128 Stat. 1282.)
+
+Editorial Notes
+Prior ProvisionsA prior section 10 of Pub. L. 92–367 was renumbered section 12, and is classified to section 467h of this title.
+Another prior section 10 of Pub. L. 92–367 was classified to section 467i of this title prior to repeal by Pub. L. 104–303.
+
+Amendments2014—Pub. L. 113–121 substituted “Administrator” for “Director”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

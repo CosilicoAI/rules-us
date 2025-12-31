@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/1928" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/1928/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/1928/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1928"><akn:num>1928</akn:num><akn:heading>Repealed. Pub. L. 111–145, § 2(a)(4)(B)(i), Mar. 4, 2010, 124 Stat. 50</akn:heading><akn:content><akn:p>§ 1928. Repealed. Pub. L. 111–145, § 2(a)(4)(B)(i), Mar. 4, 2010, 124 Stat. 50
+
+Section, R.S. § 1823; Mar. 3, 1921, ch. 124, § 1, 41 Stat. 1291, related to suspension of members of the force.
+
+Editorial Notes
+Codification
+Section was classified to section 208 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+R.S. § 1823 derived from acts Mar. 3, 1873, ch. 226, 17 Stat. 488; June 20, 1874, ch. 328, 18 Stat. 86; Mar. 3, 1875, ch. 129, 18 Stat. 345.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

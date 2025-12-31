@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/4502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/4502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/4502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4502"><akn:num>4502</akn:num><akn:heading>Declaration of policy</akn:heading><akn:content><akn:p>§ 4502. Declaration of policy(a) FindingsCongress finds that—(1) the security of the United States is dependent on the ability of the domestic industrial base to supply materials and services for the national defense and to prepare for and respond to military conflicts, natural or man-caused disasters, or acts of terrorism within the United States;
+
+(2) to ensure the vitality of the domestic industrial base, actions are needed—(A) to promote industrial resources preparedness in the event of domestic or foreign threats to the security of the United States;
+
+(B) to support continuing improvements in industrial efficiency and responsiveness;
+
+(C) to provide for the protection and restoration of domestic critical infrastructure operations under emergency conditions; and
+
+(D) to respond to actions taken outside of the United States that could result in reduced supplies of strategic and critical materials, including energy, necessary for national defense and the general economic well-being of the United States;
+
+
+(3) in order to provide for the national security, the national defense preparedness effort of the United States Government requires—(A) preparedness programs to respond to both domestic emergencies and international threats to national defense;
+
+(B) measures to improve the domestic industrial base for national defense;
+
+(C) the development of domestic productive capacity to meet—(i) essential national defense needs that can result from emergency conditions; and
+
+(ii) unique technological requirements; and
+
+
+(D) the diversion of certain materials and facilities from ordinary use to national defense purposes, when national defense needs cannot otherwise be satisfied in a timely fashion;
+
+
+(4) to meet the requirements referred to in this subsection, this chapter provides the President with an array of authorities to shape national defense preparedness programs and to take appropriate steps to maintain and enhance the domestic industrial base;
+
+(5) in order to ensur</akn:p></akn:content><akn:subsection eId="subsec_4502_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_b"><akn:num>(b)</akn:num><akn:heading>Statement of policy</akn:heading><akn:content><akn:p>(b) Statement of policy It is the policy of the United States that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

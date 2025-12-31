@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/891e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/891e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/891e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_891e"><akn:num>891e</akn:num><akn:heading>Restriction with respect to certain shipyard subsidies</akn:heading><akn:content><akn:p>§ 891e. Restriction with respect to certain shipyard subsidies(a) In generalThe Secretary of Commerce may not award a contract for the construction, repair (except emergency repairs), or alteration of any vessel of the National Oceanic and Atmospheric Administration in a shipyard, if that vessel benefits or would benefit from significant subsidies for the construction, repair, or alteration of vessels in that shipyard.
+
+
+(b) “Significant subsidy” definedIn this section, the term “significant subsidy” includes, but is not limited to, any of the following:(1) Officially supported export credits.
+
+(2) Direct official operating support to the commercial shipbuilding and repair industry, or to a related entity that favors the operation of shipbuilding and repair, including but not limited to—(A) grants;
+
+(B) loans and loan guarantees other than those available on the commercial market;
+
+(C) forgiveness of debt;
+
+(D) equity infusions on terms inconsistent with commercially reasonable investment practices; and
+
+(E) preferential provision of goods and services.
+
+
+(3) Direct official support for investment in the commercial shipbuilding and repair industry, or to a related entity that favors the operation of shipbuilding and repair, including but not limited to the kinds of support listed in paragraph (2)(A) through (E), and any restructuring support, except public support for social purposes directly and effectively linked to shipyard closures.
+
+(4) Assistance in the form of grants, preferential loans, preferential tax treatment, or otherwise, that benefits or is directly related to shipbuilding and repair for purposes of research and development that is not equally open to domestic and foreign enterprises.
+
+(5) Tax policies and practices that favor the shipbuilding and repair industry, directly or indirectly, such as tax credits, deductions, exemptions, and preferences, including accelerated depreciation, if such benefits are not generally available to persons or firms not</akn:p></akn:content><akn:subsection eId="subsec_891e_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Commerce may not award a contract for the construction, repair (except emergency repairs), or alteration of any vessel of the National Oceanic and Atmospheric Administration in a shipyard, if that vessel benefits or would benefit from significant subsidies for the construction, repair, or alteration of vessels in that shipyard.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_891e_b"><akn:num>(b)</akn:num><akn:heading>“Significant subsidy” defined</akn:heading><akn:content><akn:p>(b) “Significant subsidy” defined In this section, the term “significant subsidy” includes, but is not limited to, any of the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

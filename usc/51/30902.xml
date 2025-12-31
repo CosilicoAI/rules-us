@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/30902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/30902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/30902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30902"><akn:num>30902</akn:num><akn:heading>Charles “Pete” Conrad Astronomy Awards</akn:heading><akn:content><akn:p>§ 30902. Charles “Pete” Conrad Astronomy Awards(a) Short Title.—This section may be cited as the “Charles ‘Pete’ Conrad Astronomy Awards Act”.
+
+(b) Definitions.—In this section:(1) Amateur astronomer.—The term “amateur astronomer” means an individual whose employer does not provide any funding, payment, or compensation to the individual for the observation of asteroids and other celestial bodies, and does not include any individual employed as a professional astronomer.
+
+(2) Minor planet center.—The term “Minor Planet Center” means the Minor Planet Center of the Smithsonian Astrophysical Observatory.
+
+(3) Near-earth asteroid.—The term “near-Earth asteroid” means an asteroid with a perihelion distance of less than 1.3 Astronomical Units from the Sun.
+
+(4) Program.—The term “Program” means the Charles “Pete” Conrad Astronomy Awards Program established under subsection (c).
+
+
+(c) Charles “Pete” Conrad Astronomy Awards Program.—(1) In general.—The Administrator shall establish the Charles “Pete” Conrad Astronomy Awards Program.
+
+(2) Awards.—The Administrator shall make awards under the Program based on the recommendations of the Minor Planet Center.
+
+(3) Award categories.—The Administrator shall make one annual award, unless there are no eligible discoveries or contributions, for each of the following categories:(A) Discovery of brightest near-earth asteroid.—The amateur astronomer or group of amateur astronomers who in the preceding calendar year discovered the intrinsically brightest near-Earth asteroid among the near-Earth asteroids that were discovered during that year by amateur astronomers or groups of amateur astronomers.
+
+(B) Greatest contribution to cataloguing near-earth asteroids.—The amateur astronomer or group of amateur astronomers who made the greatest contribution to the Minor Planet Center’s mission of cataloguing near-Earth asteroids during the preceding year.
+
+
+(4) Award amount.—An award under the Program shall be in the amount of $3,000.
+
+(5) Guideli</akn:p></akn:content><akn:subsection eId="subsec_30902_a"><akn:num>(a)</akn:num><akn:heading>Short Title.—</akn:heading><akn:content><akn:p>(a) This section may be cited as the “Charles ‘Pete’ Conrad Astronomy Awards Act”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30902_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30902_c"><akn:num>(c)</akn:num><akn:heading>Charles “Pete” Conrad Astronomy Awards Program.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

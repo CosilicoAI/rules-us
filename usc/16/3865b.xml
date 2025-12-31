@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/3865b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/3865b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/3865b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3865b"><akn:num>3865b</akn:num><akn:heading>Agricultural land easements</akn:heading><akn:content><akn:p>§ 3865b. Agricultural land easements(a) Availability of assistanceThe Secretary shall facilitate and provide funding for—(1) the purchase by eligible entities of agricultural land easements in eligible land;
+
+(2) technical assistance to implement the program, including technical assistance for the development of a conservation plan under subsection (b)(4)(C)(iv); and
+
+(3) buy-protect-sell transactions.
+
+
+(b) Cost-share assistance(1) In generalThe Secretary shall protect the agricultural use, including grazing, and related conservation values of eligible land through cost-share assistance to eligible entities for purchasing agricultural land easements.
+
+
+(2) Scope of assistance available(A) Federal shareAn agreement described in paragraph (4) shall provide for a Federal share determined by the Secretary of an amount not to exceed 50 percent of the fair market value of the agricultural land easement, as determined by the Secretary using—(i) the Uniform Standards of Professional Appraisal Practice;
+
+(ii) an areawide market analysis or survey; or
+
+(iii) another industry-approved method.
+
+
+(B) Non-federal share(i) In generalUnder the agreement, the eligible entity shall provide a share that is at least equivalent to that provided by the Secretary.
+
+
+(ii) Grasslands exceptionIn the case of grassland of special environmental significance, as determined by the Secretary, the Secretary may provide an amount not to exceed 75 percent of the fair market value of the agricultural land easement.
+
+
+(iii) Permissible formsThe non-Federal share provided by an eligible entity under this subparagraph may comprise—(I) cash resources;
+
+(II) a charitable donation or qualified conservation contribution (as defined in section 170(h) of title 26) from the private landowner from which the agricultural land easement will be purchased;
+
+(III) costs associated with securing a deed to the agricultural land easement, including the cost of appraisal, survey, inspection, and title; and
+
+(IV) other </akn:p></akn:content><akn:subsection eId="subsec_3865b_a"><akn:num>(a)</akn:num><akn:heading>Availability of assistance</akn:heading><akn:content><akn:p>(a) Availability of assistance The Secretary shall facilitate and provide funding for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3865b_b"><akn:num>(b)</akn:num><akn:heading>Cost-share assistance</akn:heading><akn:content><akn:p>(b) Cost-share assistance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3865b_c"><akn:num>(c)</akn:num><akn:heading>Method of enrollment</akn:heading><akn:content><akn:p>(c) Method of enrollment The Secretary shall enroll eligible land under this section through the use of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3865b_d"><akn:num>(d)</akn:num><akn:heading>Technical assistance</akn:heading><akn:content><akn:p>(d) Technical assistance The Secretary may provide technical assistance, if requested, to assist in compliance with the terms and conditions of easements.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

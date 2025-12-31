@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/41101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/41101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/41101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41101"><akn:num>41101</akn:num><akn:heading>Requirement for a certificate</akn:heading><akn:content><akn:p>§ 41101. Requirement for a certificate(a) General.—Except as provided in this chapter or another law—(1) an air carrier may provide air transportation only if the air carrier holds a certificate issued under this chapter authorizing the air transportation;
+
+(2) a charter air carrier may provide charter air transportation only if the charter air carrier holds a certificate issued under this chapter authorizing the charter air transportation; and
+
+(3) an air carrier may provide all-cargo air transportation only if the air carrier holds a certificate issued under this chapter authorizing the all-cargo air transportation.
+
+
+(b) Through Service and Joint Transportation.—A citizen of the United States providing transportation in a State of passengers or property as a common carrier for compensation with aircraft capable of carrying at least 30 passengers, under authority granted by the appropriate State authority—(1) may provide transportation for passengers and property that includes through service by the citizen over its routes in the State and in air transportation by an air carrier or foreign air carrier; and
+
+(2) subject to sections 41309 and 42111 of this title, may make an agreement with an air carrier or foreign air carrier to provide the joint transportation.
+
+
+(c) Proprietary or Exclusive Right Not Conferred.—A certificate issued under this chapter does not confer a proprietary or exclusive right to use airspace, an airway of the United States, or an air navigation facility.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1118.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+41101(a)(1)49 App.:1371(a).Aug. 23, 1958, Pub. L. 85–726, § 401(a), (i), 72 Stat. 754, 756.
+41101(a)(2)49 App.:1301(14) (related to certificate).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 101(14) (related to certificate); added Oct. 24, 1978, Pub. L. 95–504, § 2(a)(1), 92 Stat. 1705.
+41101(a)(3)(no source).
+41101(b)49 App.:1371</akn:p></akn:content><akn:subsection eId="subsec_41101_a"><akn:num>(a)</akn:num><akn:heading>General.—</akn:heading><akn:content><akn:p>(a) Except as provided in this chapter or another law—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41101_b"><akn:num>(b)</akn:num><akn:heading>Through Service and Joint Transportation.—</akn:heading><akn:content><akn:p>(b) A citizen of the United States providing transportation in a State of passengers or property as a common carrier for compensation with aircraft capable of carrying at least 30 passengers, under authority granted by the appropriate State authority—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_41101_c"><akn:num>(c)</akn:num><akn:heading>Proprietary or Exclusive Right Not Conferred.—</akn:heading><akn:content><akn:p>(c) A certificate issued under this chapter does not confer a proprietary or exclusive right to use airspace, an airway of the United States, or an air navigation facility.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

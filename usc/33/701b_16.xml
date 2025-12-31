@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/701b–16" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/701b–16/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/701b–16/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_701b_16"><akn:num>701b–16</akn:num><akn:heading>Management of flood risk reduction projects</akn:heading><akn:content><akn:p>§ 701b–16. Management of flood risk reduction projects(a) In generalIf 2 or more flood control projects are located within the same geographic area, the Secretary shall, at the request of the non-Federal interests for the affected projects, consider those projects as a single program for budgetary or project management purposes, if the Secretary determines that doing so would not be incompatible with the authorized project purposes.
+
+
+(b) Cost share(1) In generalIf any work on a project to which subsection (a) applies is required solely because of impacts to that project from a navigation project, the cost of carrying out that work shall be shared in accordance with the cost-sharing requirements for the navigation project.
+
+
+(2) Use of amountsWork described in paragraph (1) may be carried out using amounts made available under subsection (a).
+
+
+
+(Pub. L. 113–121, title III, § 3012, June 10, 2014, 128 Stat. 1284.)
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.</akn:p></akn:content><akn:subsection eId="subsec_701b_16_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general If 2 or more flood control projects are located within the same geographic area, the Secretary shall, at the request of the non-Federal interests for the affected projects, consider those projects as a single program for budgetary or project management purposes, if the Secretary determines that doing so would not be incompatible with the authorized project purposes.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_701b_16_b"><akn:num>(b)</akn:num><akn:heading>Cost share</akn:heading><akn:content><akn:p>(b) Cost share</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

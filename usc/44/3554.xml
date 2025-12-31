@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3554" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3554/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3554/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3554"><akn:num>3554</akn:num><akn:heading>Federal agency responsibilities</akn:heading><akn:content><akn:p>§ 3554. Federal agency responsibilities(a) In General.—The head of each agency shall—(1) be responsible for—(A) providing information security protections commensurate with the risk and magnitude of the harm resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of—(i) information collected or maintained by or on behalf of the agency; and
+
+(ii) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
+
+
+(B) complying with the requirements of this subchapter, subchapter III of chapter 13 of title 41, and related policies, procedures, standards, and guidelines, including—(i) information security standards promulgated under section 11331 of title 40;
+
+(ii) operational directives developed by the Secretary under section 3553(b);
+
+(iii) policies and procedures issued by the Director;
+
+(iv) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President;
+
+(v) emergency directives issued by the Secretary under section 3553(h); and
+
+(vi) responsibilities relating to assessing and avoiding, mitigating, transferring, or accepting supply chain risks under section 1326 of title 41, and complying with exclusion and removal orders issued under section 1323 of such title; and
+
+
+(C) ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
+
+
+(2) ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through—(A) assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems;
+
+(B) determining the levels of information security appropriate to protect such information and i</akn:p></akn:content><akn:subsection eId="subsec_3554_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The head of each agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3554_b"><akn:num>(b)</akn:num><akn:heading>Agency Program.—</akn:heading><akn:content><akn:p>(b) Each agency shall develop, document, and implement an agency-wide information security program to provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source, that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3554_c"><akn:num>(c)</akn:num><akn:heading>Agency Reporting.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3554_d"><akn:num>(d)</akn:num><akn:heading>Performance Plan.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3554_e"><akn:num>(e)</akn:num><akn:heading>Public Notice and Comment.—</akn:heading><akn:content><akn:p>(e) Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

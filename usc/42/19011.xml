@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/19011" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/19011/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/19011/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_19011"><akn:num>19011</akn:num><akn:heading>Robert Noyce Teacher Scholarship program update</akn:heading><akn:content><akn:p>§ 19011. Robert Noyce Teacher Scholarship program update(a) Sense of CongressIt is the sense of Congress that over the next five years the Foundation should increase the number of scholarships awarded under the Robert Noyce Teacher Scholarship program established under section 1862n–1 of this title by 50 percent.
+
+
+(b) OutreachTo increase the diversity of participants, the Director shall support symposia, forums, conferences, and other activities to expand and enhance outreach to—(1) historically Black colleges and universities;
+
+(2) Tribal Colleges or Universities;
+
+(3) minority-serving institutions;
+
+(4) institutions of higher education that are located near or serve rural communities, including EPSCoR institutions;
+
+(5) labor organizations;
+
+(6) emerging research institutions; and
+
+(7) higher education programs that serve or support veterans.
+
+
+(Pub. L. 117–167, div. B, title III, § 10322, Aug. 9, 2022, 136 Stat. 1538.)</akn:p></akn:content><akn:subsection eId="subsec_19011_a"><akn:num>(a)</akn:num><akn:heading>Sense of Congress</akn:heading><akn:content><akn:p>(a) Sense of Congress It is the sense of Congress that over the next five years the Foundation should increase the number of scholarships awarded under the Robert Noyce Teacher Scholarship program established under section 1862n–1 of this title by 50 percent.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19011_b"><akn:num>(b)</akn:num><akn:heading>Outreach</akn:heading><akn:content><akn:p>(b) Outreach To increase the diversity of participants, the Director shall support symposia, forums, conferences, and other activities to expand and enhance outreach to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

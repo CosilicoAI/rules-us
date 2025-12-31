@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3611" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3611/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3611/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3611"><akn:num>3611</akn:num><akn:heading>Assessing and modeling named storms over coastal States</akn:heading><akn:content><akn:p>§ 3611. Assessing and modeling named storms over coastal States(a) DefinitionsIn this section:(1) COASTAL FormulaThe term “COASTAL Formula” has the meaning given the term in section 4057(a) of title 42.
+
+
+(2) Coastal StateThe term “coastal State” has the meaning given the term “coastal state” in section 1453 of title 16, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.
+
+
+(3) Coastal watersThe term “coastal waters” has the meaning given the term in such section.
+
+
+(4) Covered dataThe term “covered data” means, with respect to a named storm identified by the Administrator under subsection (b)(2)(A), empirical data that are—(A) collected before, during, or after such storm; and
+
+(B) necessary to determine magnitude and timing of wind speeds, rainfall, the barometric pressure, river flows, the extent, height, and timing of storm surge, topographic and bathymetric data, and other measures required to accurately model and assess damage from such storm.
+
+
+(5) Indeterminate lossThe term “indeterminate loss” has the meaning given the term in section 4057(a) of title 42.
+
+
+(6) Named stormThe term “named storm” means any organized weather system with a defined surface circulation and maximum sustained winds of at least 39 miles per hour which the National Hurricane Center of the United States National Weather Service names as a tropical storm or a hurricane.
+
+
+(7) Named Storm Event ModelThe term “Named Storm Event Model” means the official meteorological and oceanographic computerized model, developed by the Administrator under subsection (b)(1)(A), which utilizes covered data to replicate the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with named storms for which post-storm assessments are conducted.
+
+
+(8) ParticipantThe term “participant” means a Federal, State, or private entity that chooses to cooperate with the Administrator in carrying out</akn:p></akn:content><akn:subsection eId="subsec_3611_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3611_b"><akn:num>(b)</akn:num><akn:heading>Named Storm Event Model and post-storm assessment</akn:heading><akn:content><akn:p>(b) Named Storm Event Model and post-storm assessment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3611_c"><akn:num>(c)</akn:num><akn:heading>Establishment of a protocol for post-storm assessment</akn:heading><akn:content><akn:p>(c) Establishment of a protocol for post-storm assessment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3611_d"><akn:num>(d)</akn:num><akn:heading>Assessment of systems and efforts to collect covered data</akn:heading><akn:content><akn:p>(d) Assessment of systems and efforts to collect covered data</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3611_e"><akn:num>(e)</akn:num><akn:heading>Coordination of covered data collection and maintenance by participants</akn:heading><akn:content><akn:p>(e) Coordination of covered data collection and maintenance by participants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3611_f"><akn:num>(f)</akn:num><akn:heading>Establishment of Coastal Wind and Water Event Database</akn:heading><akn:content><akn:p>(f) Establishment of Coastal Wind and Water Event Database</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3611_g"><akn:num>(g)</akn:num><akn:heading>Comptroller General study</akn:heading><akn:content><akn:p>(g) Comptroller General study Not later than 1 year after July 6, 2012, the Comptroller General of the United States shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

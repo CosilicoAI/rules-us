@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/8002" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/8002/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/8002/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8002"><akn:num>8002</akn:num><akn:heading>Implementation funding and information management</akn:heading><akn:content><akn:p>§ 8002. Implementation funding and information management(a) Additional funds for administrative costs(1) In generalThe Secretary of Agriculture, acting through the Farm Service Agency, may use not more than $55,000,000 of funds of the Commodity Credit Corporation to cover administrative costs associated with the implementation of title I and the amendments made by that title.
+
+
+(2) AvailabilityThe funds referred to in paragraph (1) shall remain available to the Secretary until expended.
+
+
+(3) Set-asideOf the amount specified in paragraph (1), the Secretary shall use not less than $5,000,000, but not more than $8,000,000, to carry out subsection (b).
+
+
+
+(b) Information management(1) Development of systemThe Secretary of Agriculture shall develop a comprehensive information management system, using appropriate technologies, to be used in implementing the programs administered by the Federal Crop Insurance Corporation and the Farm Service Agency.
+
+
+(2) ElementsThe information management system developed under this subsection shall be designed to—(A) improve access by agricultural producers to programs described in paragraph (1);
+
+(B) improve and protect the integrity of the information collected;
+
+(C) meet the needs of the agencies that require the data in the administration of their programs;
+
+(D) improve the timeliness of the collection of the information;
+
+(E) contribute to the elimination of duplication of information collection;
+
+(F) lower the overall cost to the Department of Agriculture for information collection; and
+
+(G) achieve such other goals as the Secretary considers appropriate.
+
+
+(3) Reconciliation of current information managementThe Secretary shall ensure that all current information of the Federal Crop Insurance Corporation and the Farm Service Agency is combined, reconciled, redefined, and reformatted in such a manner so that the agencies can use the common information management system developed under this subsection.
+
+
+(4) Assistance for developm</akn:p></akn:content><akn:subsection eId="subsec_8002_a"><akn:num>(a)</akn:num><akn:heading>Additional funds for administrative costs</akn:heading><akn:content><akn:p>(a) Additional funds for administrative costs</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8002_b"><akn:num>(b)</akn:num><akn:heading>Information management</akn:heading><akn:content><akn:p>(b) Information management</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8002_c"><akn:num>(c)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(c) Authorization of appropriations In addition to amounts made available under subsection (a)(3), there are authorized to be appropriated such sums as are necessary to carry out subsection (b) for each of fiscal years 2003 through 2008.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

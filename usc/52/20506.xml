@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/20506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/20506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/20506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20506"><akn:num>20506</akn:num><akn:heading>Voter registration agencies</akn:heading><akn:content><akn:p>§ 20506. Voter registration agencies(a) Designation(1) Each State shall designate agencies for the registration of voters in elections for Federal office.
+
+(2) Each State shall designate as voter registration agencies—(A) all offices in the State that provide public assistance; and
+
+(B) all offices in the State that provide State-funded programs primarily engaged in providing services to persons with disabilities.
+
+
+(3)(A) In addition to voter registration agencies designated under paragraph (2), each State shall designate other offices within the State as voter registration agencies.
+
+(B) Voter registration agencies designated under subparagraph (A) may include—(i) State or local government offices such as public libraries, public schools, offices of city and county clerks (including marriage license bureaus), fishing and hunting license bureaus, government revenue offices, unemployment compensation offices, and offices not described in paragraph (2)(B) that provide services to persons with disabilities; and
+
+(ii) Federal and nongovernmental offices, with the agreement of such offices.
+
+
+
+(4)(A) At each voter registration agency, the following services shall be made available:(i) Distribution of mail voter registration application forms in accordance with paragraph (6).
+
+(ii) Assistance to applicants in completing voter registration application forms, unless the applicant refuses such assistance.
+
+(iii) Acceptance of completed voter registration application forms for transmittal to the appropriate State election official.
+
+
+(B) If a voter registration agency designated under paragraph (2)(B) provides services to a person with a disability at the person’s home, the agency shall provide the services described in subparagraph (A) at the person’s home.
+
+
+(5) A person who provides service described in paragraph (4) shall not—(A) seek to influence an applicant’s political preference or party registration;
+
+(B) display any such political preference or party allegiance;
+
+(</akn:p></akn:content><akn:subsection eId="subsec_20506_a"><akn:num>(a)</akn:num><akn:heading>Designation</akn:heading><akn:content><akn:p>(a) Designation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20506_b"><akn:num>(b)</akn:num><akn:heading>Federal Government and private sector cooperation</akn:heading><akn:content><akn:p>(b) Federal Government and private sector cooperation All departments, agencies, and other entities of the executive branch of the Federal Government shall, to the greatest extent practicable, cooperate with the States in carrying out subsection (a), and all nongovernmental entities are encouraged to do so.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20506_c"><akn:num>(c)</akn:num><akn:heading>Armed Forces recruitment offices</akn:heading><akn:content><akn:p>(c) Armed Forces recruitment offices</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20506_d"><akn:num>(d)</akn:num><akn:heading>Transmittal deadline</akn:heading><akn:content><akn:p>(d) Transmittal deadline</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

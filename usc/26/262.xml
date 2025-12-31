@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/262" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/262/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/262/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_262"><akn:num>262</akn:num><akn:heading>Personal, living, and family expenses</akn:heading><akn:content><akn:p>§ 262. Personal, living, and family expenses(a) General ruleExcept as otherwise expressly provided in this chapter, no deduction shall be allowed for personal, living, or family expenses.
+
+
+(b) Treatment of certain phone expensesFor purposes of subsection (a), in the case of an individual, any charge (including taxes thereon) for basic local telephone service with respect to the 1st telephone line provided to any residence of the taxpayer shall be treated as a personal expense.
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 76; Pub. L. 100–647, title V, § 5073(a), Nov. 10, 1988, 102 Stat. 3682.)
+
+Editorial Notes
+Amendments1988—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: “Except as otherwise expressly provided in this chapter, no deduction shall be allowed for personal, living, or family expenses.”
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1988 AmendmentPub. L. 100–647, title V, § 5073(b), Nov. 10, 1988, 102 Stat. 3682, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1988.”</akn:p></akn:content><akn:subsection eId="subsec_262_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Except as otherwise expressly provided in this chapter, no deduction shall be allowed for personal, living, or family expenses.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_262_b"><akn:num>(b)</akn:num><akn:heading>Treatment of certain phone expenses</akn:heading><akn:content><akn:p>(b) Treatment of certain phone expenses For purposes of subsection (a), in the case of an individual, any charge (including taxes thereon) for basic local telephone service with respect to the 1st telephone line provided to any residence of the taxpayer shall be treated as a personal expense.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

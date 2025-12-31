@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/4442" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/4442/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/4442/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4442"><akn:num>4442</akn:num><akn:heading>Administrative provisions</akn:heading><akn:content><akn:p>§ 4442. Administrative provisions(a) PaymentsThe Secretary may award grants under this subchapter in installments, in advance, or by way of reimbursement and may make necessary adjustments in payments of grants on account of overpayments or underpayments.
+
+
+(b) Recovery of overpayments(1) If the Secretary or a court of competent jurisdiction finds that—(A) any person—(i) has—(I) made, or has caused to be made by another, a false statement or representation of a material fact knowing it to be false, or
+
+(II) knowingly failed, or caused another to fail, to disclose a material fact; and
+
+
+(ii) as a result of such action, has received any funds under this subchapter which such person would not have otherwise received, or
+
+
+(B) any person misappropriates any funds paid by the Secretary under this subchapter,
+
+
+such person shall be liable to repay the amount of such funds to the United States. Any such finding by the Secretary may be made only after an opportunity for a fair hearing.
+
+(2) Any amount repaid under this subsection shall be returned to the general fund of the Treasury of the United States.
+
+
+(c) PenaltiesWhoever—(1) makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for such person or for any other person any payment of funds provided under this subchapter, or
+
+(2) misappropriates any funds provided under this subchapter,
+
+
+shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
+
+(Pub. L. 99–498, title XV, § 1522, Oct. 17, 1986, 100 Stat. 1611.)</akn:p></akn:content><akn:subsection eId="subsec_4442_a"><akn:num>(a)</akn:num><akn:heading>Payments</akn:heading><akn:content><akn:p>(a) Payments The Secretary may award grants under this subchapter in installments, in advance, or by way of reimbursement and may make necessary adjustments in payments of grants on account of overpayments or underpayments.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4442_b"><akn:num>(b)</akn:num><akn:heading>Recovery of overpayments</akn:heading><akn:content><akn:p>(b) Recovery of overpayments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4442_c"><akn:num>(c)</akn:num><akn:heading>Penalties</akn:heading><akn:content><akn:p>(c) Penalties Whoever— shall be fined not more than $1,000 or imprisoned for not more than one year, or both.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

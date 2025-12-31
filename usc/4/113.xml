@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/4/113" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/4/113/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/4/113/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_113"><akn:num>113</akn:num><akn:heading>Residence of Members of Congress for State income tax laws</akn:heading><akn:content><akn:p>§ 113. Residence of Members of Congress for State income tax laws(a) No State, or political subdivision thereof, in which a Member of Congress maintains a place of abode for purposes of attending sessions of Congress may, for purposes of any income tax (as defined in section 110(c) of this title) levied by such State or political subdivision thereof—(1) treat such Member as a resident or domiciliary of such State or political subdivision thereof; or
+
+(2) treat any compensation paid by the United States to such Member as income for services performed within, or from sources within, such State or political subdivision thereof,
+
+
+unless such Member represents such State or a district in such State.
+
+(b) For purposes of subsection (a)—(1) the term “Member of Congress” includes the delegates from the District of Columbia, Guam, and the Virgin Islands, and the Resident Commissioner from Puerto Rico; and
+
+(2) the term “State” includes the District of Columbia.
+
+
+(Added Pub. L. 95–67, § 1(a), July 19, 1977, 91 Stat. 271.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 95–67, § 1(c), July 19, 1977, 91 Stat. 271, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending analysis preceding section 101 of this title] shall be effective with respect to all taxable years, whether beginning before, on, or after the date of the enactment of this Act [July 19, 1977].”
+
+
+Residence of Members of Congress for State Personal Property Tax on Motor VehiclesPub. L. 99–190, § 101(c) [H.R. 3067, § 131], Dec. 19, 1985, 99 Stat. 1224; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433, provided that:
+“(a) No State, or political subdivision thereof, in which a Member of Congress maintains a place of abode for purposes of attending sessions of Congress may impose a personal property tax with respect to any motor vehicle owned by such Member (or by the spouse of such Member) unless such Member represents such State or a district in </akn:p></akn:content><akn:subsection eId="subsec_113_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) No State, or political subdivision thereof, in which a Member of Congress maintains a place of abode for purposes of attending sessions of Congress may, for purposes of any income tax (as defined in section 110(c) of this title) levied by such State or political subdivision thereof— unless such Member represents such State or a district in such State.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_113_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For purposes of subsection (a)—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

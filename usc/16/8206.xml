@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/8206" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/8206/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/8206/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8206"><akn:num>8206</akn:num><akn:heading>Technical and scientific assistance</akn:heading><akn:content><akn:p>§ 8206. Technical and scientific assistance(a) In generalThe Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service, the Bureau of Land Management, and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.
+
+
+(b) InclusionsScientific and technical assistance provided under subsection (a) may include—(1) providing technical and scientific assistance to States, Indian Tribes, regions, local communities, and nongovernmental organizations in the development and implementation of Partnerships;
+
+(2) providing technical and scientific assistance to Partnerships for habitat assessment, strategic planning, and prioritization;
+
+(3) supporting the development and implementation of fish habitat conservation projects that are identified as high priorities by Partnerships and the Board;
+
+(4) supporting and providing recommendations regarding the development of science-based monitoring and assessment approaches for implementation through Partnerships;
+
+(5) supporting and providing recommendations for a national fish habitat assessment;
+
+(6) ensuring the availability of experts to assist in conducting scientifically based evaluation and reporting of the results of fish habitat conservation projects; and
+
+(7) providing resources to secure State agency scientific and technical assistance to support Partnerships, participants in fish habitat conservation projects, and the Board.
+
+
+(Pub. L. 116–188, title II, § 206, Oct. 30, 2020, 134 Stat. 934; Pub. L. 118–198, title II, § 204, Dec. 23, 2024, 138 Stat. 2682.)
+
+Editorial Notes
+Amendments2024—Subsec. (a). Pub. L. 118–198 inserted “, the Bureau of Land Management,” after “the Forest Service”.</akn:p></akn:content><akn:subsection eId="subsec_8206_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Director, the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, and the Director of the United States Geological Survey, in coordination with the Forest Service, the Bureau of Land Management, and other appropriate Federal departments and agencies, may provide scientific and technical assistance to Partnerships, participants in fish habitat conservation projects, and the Board.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8206_b"><akn:num>(b)</akn:num><akn:heading>Inclusions</akn:heading><akn:content><akn:p>(b) Inclusions Scientific and technical assistance provided under subsection (a) may include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

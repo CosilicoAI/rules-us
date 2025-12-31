@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/7123" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/7123/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/7123/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7123"><akn:num>7123</akn:num><akn:heading>Appeals dispute resolution procedures</akn:heading><akn:content><akn:p>§ 7123. Appeals dispute resolution procedures(a) Early referral to appeals proceduresThe Secretary shall prescribe procedures by which any taxpayer may request early referral of 1 or more unresolved issues from the examination or collection division to the Internal Revenue Service Independent Office of Appeals.
+
+
+(b) Alternative dispute resolution procedures(1) MediationThe Secretary shall prescribe procedures under which a taxpayer or the Internal Revenue Service Independent Office of Appeals may request non-binding mediation on any issue unresolved at the conclusion of—(A) appeals procedures; or
+
+(B) unsuccessful attempts to enter into a closing agreement under section 7121 or a compromise under section 7122.
+
+
+(2) ArbitrationThe Secretary shall establish a pilot program under which a taxpayer and the Internal Revenue Service Independent Office of Appeals may jointly request binding arbitration on any issue unresolved at the conclusion of—(A) appeals procedures; or
+
+(B) unsuccessful attempts to enter into a closing agreement under section 7121 or a compromise under section 7122.
+
+
+
+(c) Administrative appeal relating to adverse determination of tax-exempt status of certain organizations(1) In generalThe Secretary shall prescribe procedures under which an organization which claims to be described in section 501(c) may request an administrative appeal (including a conference relating to such appeal if requested by the organization) to the Internal Revenue Service Independent Office of Appeals of an adverse determination described in paragraph (2).
+
+
+(2) Adverse determinationsFor purposes of paragraph (1), an adverse determination is described in this paragraph if such determination is adverse to an organization with respect to—(A) the initial qualification or continuing qualification of the organization as exempt from tax under section 501(a) or as an organization described in section 170(c)(2),
+
+(B) the initial classification or continuing classification of the orga</akn:p></akn:content><akn:subsection eId="subsec_7123_a"><akn:num>(a)</akn:num><akn:heading>Early referral to appeals procedures</akn:heading><akn:content><akn:p>(a) Early referral to appeals procedures The Secretary shall prescribe procedures by which any taxpayer may request early referral of 1 or more unresolved issues from the examination or collection division to the Internal Revenue Service Independent Office of Appeals.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7123_b"><akn:num>(b)</akn:num><akn:heading>Alternative dispute resolution procedures</akn:heading><akn:content><akn:p>(b) Alternative dispute resolution procedures</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7123_c"><akn:num>(c)</akn:num><akn:heading>Administrative appeal relating to adverse determination of tax-exempt status of certain organizations</akn:heading><akn:content><akn:p>(c) Administrative appeal relating to adverse determination of tax-exempt status of certain organizations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

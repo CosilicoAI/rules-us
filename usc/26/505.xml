@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_505"><akn:num>505</akn:num><akn:heading>Additional requirements for organizations described in paragraph (9) or (17) of section 501(c)</akn:heading><akn:content><akn:p>§ 505. Additional requirements for organizations described in paragraph (9) or (17) of section 501(c)(a) Certain requirements must be met in the case of organizations described in section 501(c)(9)(1) Voluntary employees’ beneficiary associations, etc.An organization described in section 501(c)(9) which is part of a plan shall not be exempt from tax under section 501(a) unless such plan meets the requirements of subsection (b) of this section.
+
+
+(2) Exception for collective bargaining agreementsParagraph (1) shall not apply to any organization which is part of a plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that such plan was the subject of good faith bargaining between such employee representatives and such employer or employers.
+
+
+
+(b) Nondiscrimination requirements(1) In generalExcept as otherwise provided in this subsection, a plan meets the requirements of this subsection only if—(A) each class of benefits under the plan is provided under a classification of employees which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
+
+(B) in the case of each class of benefits, such benefits do not discriminate in favor of employees who are highly compensated individuals.
+
+
+A life insurance, disability, severance pay, or supplemental unemployment compensation benefit shall not be considered to fail to meet the requirements of subparagraph (B) merely because the benefits available bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of employees covered by the plan.
+
+(2) Exclusion of certain employeesFor purposes of paragraph (1), there may be excluded from consideration—(A) employees who have not completed 3 years of service,
+
+(B) employees who have not attained age 21,
+
+(C) seasonal employee</akn:p></akn:content><akn:subsection eId="subsec_505_a"><akn:num>(a)</akn:num><akn:heading>Certain requirements must be met in the case of organizations described in section 501(c)(9)</akn:heading><akn:content><akn:p>(a) Certain requirements must be met in the case of organizations described in section 501(c)(9)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_505_b"><akn:num>(b)</akn:num><akn:heading>Nondiscrimination requirements</akn:heading><akn:content><akn:p>(b) Nondiscrimination requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_505_c"><akn:num>(c)</akn:num><akn:heading>Requirement that organization notify Secretary that it is applying for tax-exempt status</akn:heading><akn:content><akn:p>(c) Requirement that organization notify Secretary that it is applying for tax-exempt status</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30527" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30527/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30527/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30527"><akn:num>30527</akn:num><akn:heading>Provisions limiting liability for personal injury or death</akn:heading><akn:content><akn:p>§ 30527. Provisions limiting liability for personal injury or death(a) Prohibition.—(1) In general.—The owner, master, manager, or agent of a vessel transporting passengers between ports in the United States, or between a port in the United States and a port in a foreign country, may not include in a regulation or contract a provision limiting—(A) the liability of the owner, master, or agent for personal injury or death caused by the negligence or fault of the owner or the owner’s employees or agents; or
+
+(B) the right of a claimant for personal injury or death to a trial by court of competent jurisdiction.
+
+
+(2) Voidness.—A provision described in paragraph (1) is void.
+
+
+(b) Emotional Distress, Mental Suffering, and Psychological Injury.—(1) In general.—Subsection (a) does not prohibit a provision in a contract or in ticket conditions of carriage with a passenger that relieves an owner, master, manager, agent, operator, or crewmember of a vessel from liability for infliction of emotional distress, mental suffering, or psychological injury so long as the provision does not limit such liability when the emotional distress, mental suffering, or psychological injury is—(A) the result of physical injury to the claimant caused by the negligence or fault of a crewmember or the owner, master, manager, agent, or operator;
+
+(B) the result of the claimant having been at actual risk of physical injury, and the risk was caused by the negligence or fault of a crewmember or the owner, master, manager, agent, or operator; or
+
+(C) intentionally inflicted by a crewmember or the owner, master, manager, agent, or operator.
+
+
+(2) Sexual offenses.—This subsection does not limit the liability of a crewmember or the owner, master, manager, agent, or operator of a vessel in a case involving sexual harassment, sexual assault, or rape.
+
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1514, § 30509; renumbered § 30527, Pub. L. 117–263, div. K, title CXV, § 11503(a)(3), Dec. 23, 2022, 136 S</akn:p></akn:content><akn:subsection eId="subsec_30527_a"><akn:num>(a)</akn:num><akn:heading>Prohibition.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30527_b"><akn:num>(b)</akn:num><akn:heading>Emotional Distress, Mental Suffering, and Psychological Injury.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

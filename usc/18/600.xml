@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/600" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/600/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/600/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_600"><akn:num>600</akn:num><akn:heading>Promise of employment or other benefit for political activity</akn:heading><akn:content><akn:p>§ 600. Promise of employment or other benefit for political activity
+Whoever, directly or indirectly, promises any employment, position, compensation, contract, appointment, or other benefit, provided for or made possible in whole or in part by any Act of Congress, or any special consideration in obtaining any such benefit, to any person as consideration, favor, or reward for any political activity or for the support of or opposition to any candidate or any political party in connection with any general or special election to any political office, or in connection with any primary election or political convention or caucus held to select candidates for any political office, shall be fined under this title or imprisoned not more than one year, or both.
+(June 25, 1948, ch. 645, 62 Stat. 721; Pub. L. 92–225, title II, § 202, Feb. 7, 1972, 86 Stat. 9; Pub. L. 94–453, § 3, Oct. 2, 1976, 90 Stat. 1517; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+
+Historical and Revision NotesBased on title 18, U.S.C., 1940 ed., §§ 61b, 61g (Aug. 2, 1939, 11:50 a.m., E.S.T., ch. 410, §§ 3, 8, 53 Stat. 1147, 1148).
+This section consolidates sections 61b and 61g of title 18, U.S.C., 1940 ed.
+Minor changes were made in phraseology.
+
+Editorial Notes
+Amendments1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+1976—Pub. L. 94–453 substituted $10,000 for $1,000 maximum allowable fine.
+1972—Pub. L. 92–225 struck out “work,” after “position,”, inserted “contract, appointment,” after “compensation,” and “or any special consideration in obtaining any such benefit,” after “Act of Congress,”, and substituted “in connection with any general or special election to any political office, or in connection with any primary election or political convention or caucus held to select candidates for any political office” for “in any election”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1972 AmendmentAmendment by Pub. L</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

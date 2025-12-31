@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/13367" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/13367/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/13367/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13367"><akn:num>13367</akn:num><akn:heading>Coal exports</akn:heading><akn:content><akn:p>§ 13367. Coal exports(a) PlanWithin 180 days after October 24, 1992, the Secretary of Commerce, in cooperation with the Secretary and other appropriate Federal agencies, shall submit to the appropriate committees of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a plan for expanding exports of coal mined in the United States.
+
+
+(b) Plan contentsThe plan submitted under subsection (a) shall include—(1) a description of the location, size, and projected growth in potential export markets for coal mined in the United States;
+
+(2) the identification by country of the foreign trade barriers to the export of coal mined in the United States, including foreign coal production and utilization subsidies, tax treatment, labor practices, tariffs, quotas, and other nontariff barriers;
+
+(3) recommendations and a plan for addressing any such trade barriers;
+
+(4) an evaluation of existing infrastructure in the United States and any new infrastructure requirements in the United States to support an expansion of exports of coal mined in the United States, including ports, vessels, rail lines, and any other supporting infrastructure; and
+
+(5) an assessment of environmental implications of coal exports and the identification of export opportunities for blending coal mined in the United States with coal indigenous to other countries to enhance energy efficiency and environmental performance.
+
+
+(Pub. L. 102–486, title XIII, § 1338, Oct. 24, 1992, 106 Stat. 2986.)</akn:p></akn:content><akn:subsection eId="subsec_13367_a"><akn:num>(a)</akn:num><akn:heading>Plan</akn:heading><akn:content><akn:p>(a) Plan Within 180 days after October 24, 1992, the Secretary of Commerce, in cooperation with the Secretary and other appropriate Federal agencies, shall submit to the appropriate committees of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a plan for expanding exports of coal mined in the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13367_b"><akn:num>(b)</akn:num><akn:heading>Plan contents</akn:heading><akn:content><akn:p>(b) Plan contents The plan submitted under subsection (a) shall include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

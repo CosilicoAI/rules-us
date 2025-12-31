@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_501"><akn:num>501</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 501. Definitions
+In this chapter, the following definitions apply:(1) Federal laboratory.—The term “Federal laboratory” includes a Government-owned, Government-operated laboratory and a Government-owned, contractor-operated laboratory.
+
+(2) Incident.—The term “incident” means a crash, natural disaster, workzone activity, special event, or other emergency road user occurrence that adversely affects or impedes the normal flow of traffic.
+
+(3) Innovation lifecycle.—The term “innovation lifecycle” means the process of innovating through—(A) the identification of a need;
+
+(B) the establishment of the scope of research to address that need;
+
+(C) setting an agenda;
+
+(D) carrying out research, development, deployment, and testing of the resulting technology or innovation; and
+
+(E) carrying out an evaluation of the costs and benefits of the resulting technology or innovation.
+
+
+(4) Intelligent transportation infrastructure.—The term “intelligent transportation infrastructure” means fully integrated public sector intelligent transportation system components, as defined by the Secretary.
+
+(5) Intelligent transportation system.—The terms “intelligent transportation system” and “ITS” mean electronics, photonics, communications, or information processing used singly or in combination to improve the efficiency or safety of a surface transportation system.
+
+(6) National architecture.—For purposes of this chapter, the term “national architecture” means the common framework for interoperability that defines—(A) the functions associated with intelligent transportation system user services;
+
+(B) the physical entities or subsystems within which the functions reside;
+
+(C) the data interfaces and information flows between physical subsystems; and
+
+(D) the communications requirements associated with the information flows.
+
+
+(7) Project.—The term “project” means an undertaking to research, develop, or operationally test intelligent transportation systems or any other undertaking eligible </akn:p></akn:content><akn:subsection eId="subsec_501_1"><akn:num>(1)</akn:num><akn:heading>Federal laboratory.—</akn:heading><akn:content><akn:p>(1) The term “Federal laboratory” includes a Government-owned, Government-operated laboratory and a Government-owned, contractor-operated laboratory.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_2"><akn:num>(2)</akn:num><akn:heading>Incident.—</akn:heading><akn:content><akn:p>(2) The term “incident” means a crash, natural disaster, workzone activity, special event, or other emergency road user occurrence that adversely affects or impedes the normal flow of traffic.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_3"><akn:num>(3)</akn:num><akn:heading>Innovation lifecycle.—</akn:heading><akn:content><akn:p>(3) The term “innovation lifecycle” means the process of innovating through—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_4"><akn:num>(4)</akn:num><akn:heading>Intelligent transportation infrastructure.—</akn:heading><akn:content><akn:p>(4) The term “intelligent transportation infrastructure” means fully integrated public sector intelligent transportation system components, as defined by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_5"><akn:num>(5)</akn:num><akn:heading>Intelligent transportation system.—</akn:heading><akn:content><akn:p>(5) The terms “intelligent transportation system” and “ITS” mean electronics, photonics, communications, or information processing used singly or in combination to improve the efficiency or safety of a surface transportation system.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_6"><akn:num>(6)</akn:num><akn:heading>National architecture.—</akn:heading><akn:content><akn:p>(6) For purposes of this chapter, the term “national architecture” means the common framework for interoperability that defines—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_7"><akn:num>(7)</akn:num><akn:heading>Project.—</akn:heading><akn:content><akn:p>(7) The term “project” means an undertaking to research, develop, or operationally test intelligent transportation systems or any other undertaking eligible for assistance under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_8"><akn:num>(8)</akn:num><akn:heading>Safety.—</akn:heading><akn:content><akn:p>(8) The term “safety” includes highway and traffic safety systems, research, and development relating to vehicle, highway, driver, passenger, bicyclist, and pedestrian characteristics, accident investigations, communications, emergency medical care, and transportation of the injured.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_501_9"><akn:num>(9)</akn:num><akn:heading>Standard.—</akn:heading><akn:content><akn:p>(9) The term “standard” means a document that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

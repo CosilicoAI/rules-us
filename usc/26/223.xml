@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/223" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/223/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/223/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_223"><akn:num>223</akn:num><akn:heading>Health savings accounts</akn:heading><akn:content><akn:p>§ 223. Health savings accounts(a) Deduction allowedIn the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxable year by or on behalf of such individual to a health savings account of such individual.
+
+
+(b) Limitations(1) In generalThe amount allowable as a deduction under subsection (a) to an individual for the taxable year shall not exceed the sum of the monthly limitations for months during such taxable year that the individual is an eligible individual.
+
+
+(2) Monthly limitationThe monthly limitation for any month is 1⁄12 of—(A) in the case of an eligible individual who has self-only coverage under a high deductible health plan as of the first day of such month, $2,250.
+
+(B) in the case of an eligible individual who has family coverage under a high deductible health plan as of the first day of such month, $4,500.
+
+
+(3) Additional contributions for individuals 55 or older(A) In generalIn the case of an individual who has attained age 55 before the close of the taxable year, the applicable limitation under subparagraphs (A) and (B) of paragraph (2) shall be increased by the additional contribution amount.
+
+
+(B) Additional contribution amountFor purposes of this section, the additional contribution amount is the amount determined in accordance with the following table:
+
+
+
+
+
+
+ For taxable years beginning in:The additional contribution amount is:
+
+
+2004$500  
+2005$600  
+2006$700  
+2007$800  
+2008$900  
+2009 and thereafter$1,000.
+
+
+
+
+
+
+(4) Coordination with other contributionsThe limitation which would (but for this paragraph) apply under this subsection to an individual for any taxable year shall be reduced (but not below zero) by the sum of—(A) the aggregate amount paid for such taxable year to Archer MSAs of such individual,
+
+(B) the aggregate amount contributed to health savings accounts of such indi</akn:p></akn:content><akn:subsection eId="subsec_223_a"><akn:num>(a)</akn:num><akn:heading>Deduction allowed</akn:heading><akn:content><akn:p>(a) Deduction allowed In the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxable year by or on behalf of such individual to a health savings account of such individual.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_b"><akn:num>(b)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(b) Limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_c"><akn:num>(c)</akn:num><akn:heading>Definitions and special rules</akn:heading><akn:content><akn:p>(c) Definitions and special rules For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_d"><akn:num>(d)</akn:num><akn:heading>Health savings account</akn:heading><akn:content><akn:p>(d) Health savings account For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_e"><akn:num>(e)</akn:num><akn:heading>Tax treatment of accounts</akn:heading><akn:content><akn:p>(e) Tax treatment of accounts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_f"><akn:num>(f)</akn:num><akn:heading>Tax treatment of distributions</akn:heading><akn:content><akn:p>(f) Tax treatment of distributions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_g"><akn:num>(g)</akn:num><akn:heading>Cost-of-living adjustment</akn:heading><akn:content><akn:p>(g) Cost-of-living adjustment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_223_h"><akn:num>(h)</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>(h) Reports The Secretary may require— The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

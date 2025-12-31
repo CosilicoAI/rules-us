@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1320d–8" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1320d–8/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1320d–8/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1320d_8"><akn:num>1320d–8</akn:num><akn:heading>Processing payment transactions by financial institutions</akn:heading><akn:content><akn:p>§ 1320d–8. Processing payment transactions by financial institutions
+To the extent that an entity is engaged in activities of a financial institution (as defined in section 3401 of title 12), or is engaged in authorizing, processing, clearing, settling, billing, transferring, reconciling, or collecting payments, for a financial institution, this part, and any standard adopted under this part, shall not apply to the entity with respect to such activities, including the following:(1) The use or disclosure of information by the entity for authorizing, processing, clearing, settling, billing, transferring, reconciling or collecting, a payment for, or related to, health plan premiums or health care, where such payment is made by any means, including a credit, debit, or other payment card, an account, check, or electronic funds transfer.
+
+(2) The request for, or the use or disclosure of, information by the entity with respect to a payment described in paragraph (1)—(A) for transferring receivables;
+
+(B) for auditing;
+
+(C) in connection with—(i) a customer dispute; or
+
+(ii) an inquiry from, or to, a customer;
+
+
+(D) in a communication to a customer of the entity regarding the customer’s transactions, payment card, account, check, or electronic funds transfer;
+
+(E) for reporting to consumer reporting agencies; or
+
+(F) for complying with—(i) a civil or criminal subpoena; or
+
+(ii) a Federal or State law regulating the entity.
+
+
+
+(Aug. 14, 1935, ch. 531, title XI, § 1179, as added Pub. L. 104–191, title II, § 262(a), Aug. 21, 1996, 110 Stat. 2030.)</akn:p></akn:content><akn:subsection eId="subsec_1320d_8_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The use or disclosure of information by the entity for authorizing, processing, clearing, settling, billing, transferring, reconciling or collecting, a payment for, or related to, health plan premiums or health care, where such payment is made by any means, including a credit, debit, or other payment card, an account, check, or electronic funds transfer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_8_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The request for, or the use or disclosure of, information by the entity with respect to a payment described in paragraph (1)—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/19107" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/19107/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/19107/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_19107"><akn:num>19107</akn:num><akn:heading>Challenges and focus areas</akn:heading><akn:content><akn:p>§ 19107. Challenges and focus areas(a) In generalIn consultation with the Assistant Director, the Board, and the interagency working group established under part D of subchapter VI, the Director shall identify, and annually review and update as appropriate, a list of—(1) not more than 5 United States societal, national, and geostrategic challenges that may be addressed by technology to guide activities under this part; and
+
+(2) not more than 10 key technology focus areas to guide activities under this part.
+
+
+(b) Initial list of societal, national, and geostrategic challengesThe initial list of societal, national, and geostrategic challenges are the following:(1) United States national security.
+
+(2) United States manufacturing and industrial productivity.
+
+(3) United States workforce development and skills gaps.
+
+(4) Climate change and environmental sustainability.
+
+(5) Inequitable access to education, opportunity, or other services.
+
+
+(c) Initial list of key technology focus areasThe initial list of key technology focus areas are the following:(1) Artificial intelligence, machine learning, autonomy, and related advances.
+
+(2) High performance computing, semiconductors, and advanced computer hardware and software.
+
+(3) Quantum information science and technology.
+
+(4) Robotics, automation, and advanced manufacturing.
+
+(5) Natural and anthropogenic disaster prevention or mitigation.
+
+(6) Advanced communications technology and immersive technology.
+
+(7) Biotechnology, medical technology, genomics, and synthetic biology.
+
+(8) Data storage, data management, distributed ledger technologies, and cybersecurity, including biometrics.
+
+(9) Advanced energy and industrial efficiency technologies, such as batteries and advanced nuclear technologies, including but not limited to for the purposes of electric generation (consistent with section 1874 of this title.
+
+(10) Advanced materials science, including composites 2D materials, other next-generation materials, and related manu</akn:p></akn:content><akn:subsection eId="subsec_19107_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In consultation with the Assistant Director, the Board, and the interagency working group established under part D of subchapter VI, the Director shall identify, and annually review and update as appropriate, a list of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19107_b"><akn:num>(b)</akn:num><akn:heading>Initial list of societal, national, and geostrategic challenges</akn:heading><akn:content><akn:p>(b) Initial list of societal, national, and geostrategic challenges The initial list of societal, national, and geostrategic challenges are the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19107_c"><akn:num>(c)</akn:num><akn:heading>Initial list of key technology focus areas</akn:heading><akn:content><akn:p>(c) Initial list of key technology focus areas The initial list of key technology focus areas are the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19107_d"><akn:num>(d)</akn:num><akn:heading>Relationship between United States societal, national, and geostrategic challenges and key technology focus areas</akn:heading><akn:content><akn:p>(d) Relationship between United States societal, national, and geostrategic challenges and key technology focus areas</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19107_e"><akn:num>(e)</akn:num><akn:heading>Review and updates</akn:heading><akn:content><akn:p>(e) Review and updates The Director, in coordination with the interagency working group established under part D of subchapter VI and in consultation with the Director of National Intelligence and the Director of the Federal Bureau of Investigation, shall annually review and update as appropriate, the list of key technology focus areas for purposes of this division. As part of the annual review, the Director—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19107_f"><akn:num>(f)</akn:num><akn:heading>Reporting</akn:heading><akn:content><akn:p>(f) Reporting At the conclusion of the annual review and update process required by subsection (e), the Director, in consultation with other Federal research agencies, as appropriate, shall deliver a report to Congress detailing—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19107_g"><akn:num>(g)</akn:num><akn:heading>Detailed description</akn:heading><akn:content><akn:p>(g) Detailed description The National Science Foundation shall, in coordination with the Office of Management and Budget, submit as part of their annual budget requests to Congress, a detailed description of the activities to be funded under this part, including an explanation of how the requested funding is complementary and not redundant of programs, efforts, and infrastructure undertaken or supported by other relevant Federal agencies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_19107_h"><akn:num>(h)</akn:num><akn:heading>National Academies</akn:heading><akn:content><akn:p>(h) National Academies Not later than 5 years after August 9, 2022, the Director shall contract with the National Academies to conduct a review of the key technology focus areas and the societal, national, and geostrategic challenges, including—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/6510" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/6510/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/6510/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6510"><akn:num>6510</akn:num><akn:heading>Handling</akn:heading><akn:content><akn:p>§ 6510. Handling(a) In generalFor a handling operation to be certified under this chapter, each person on such handling operation shall not, with respect to any agricultural product covered by this chapter—(1) add any synthetic ingredient not appearing on the National List during the processing or any postharvest handling of the product;
+
+(2) add any ingredient known to contain levels of nitrates, heavy metals, or toxic residues in excess of those permitted by the applicable organic certification program;
+
+(3) add any sulfites, except in the production of wine, nitrates, or nitrites;
+
+(4) add any ingredients that are not organically produced in accordance with this chapter and the applicable organic certification program, unless such ingredients are included on the National List and represent not more than 5 percent of the weight of the total finished product (excluding salt and water);
+
+(5) use any packaging materials, storage containers or bins that contain synthetic fungicides, preservatives, or fumigants;
+
+(6) use any bag or container that had previously been in contact with any substance in such a manner as to compromise the organic quality of such product; or
+
+(7) use, in such product water that does not meet all Safe Drinking Water Act [42 U.S.C. 300f et seq.] requirements.
+
+
+(b) MeatFor a farm or handling operation to be organically certified under this chapter, producers on such farm or persons on such handling operation shall ensure that organically produced meat does not come in contact with nonorganically produced meat.
+
+
+(Pub. L. 101–624, title XXI, § 2111, Nov. 28, 1990, 104 Stat. 3941; Pub. L. 102–237, title X, § 1001(3), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 106–387, § 1(a) [title VII, § 748], Oct. 28, 2000, 114 Stat. 1549, 1549A–41; Pub. L. 109–97, title VII, § 797(a), Nov. 10, 2005, 119 Stat. 2165.)
+
+Editorial Notes
+
+References in TextThe Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 19</akn:p></akn:content><akn:subsection eId="subsec_6510_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For a handling operation to be certified under this chapter, each person on such handling operation shall not, with respect to any agricultural product covered by this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6510_b"><akn:num>(b)</akn:num><akn:heading>Meat</akn:heading><akn:content><akn:p>(b) Meat For a farm or handling operation to be organically certified under this chapter, producers on such farm or persons on such handling operation shall ensure that organically produced meat does not come in contact with nonorganically produced meat.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/5101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/5101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/5101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5101"><akn:num>5101</akn:num><akn:heading>Findings and purposes</akn:heading><akn:content><akn:p>§ 5101. Findings and purposes(a) FindingsThe Congress finds that—(1) maintaining viable domestic steel, aluminum, copper, and other metals industries is vital to the national security and economic well being of the United States; and
+
+(2) the promotion of technology competitiveness and energy conservation in the American steel and aluminum industries by the Federal Government through a program of joint research and development will help maintain viable domestic steel and aluminum industries.
+
+
+(b) PurposesThe purposes of this chapter are to—(1) increase the energy efficiency and enhance the competitiveness of American steel, aluminum, and copper industries by providing Federal incentives for the establishment of public-private sector research and development partnerships to undertake scientific research and development to develop advanced technologies utilizing the expertise of the steel, aluminum, copper, and other metals industries, Government-owned laboratories of the Department of Energy and the National Institute of Standards and Technology, universities, State development agencies, and others; and
+
+(2) continue steel research and development initiative efforts begun under title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 (Public Law 99–190).
+
+
+(Pub. L. 100–680, § 2, Nov. 17, 1988, 102 Stat. 4073.)
+
+Editorial Notes
+
+References in TextTitle II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 (Public Law 99–190), referred to in subsec. (b)(2), is Pub. L. 99–190, § 101(d) [title II], Dec. 19, 1985, 99 Stat. 1224, 1244. The provisions relating to steel research and development are not classified to the Code.
+
+Statutory Notes and Re</akn:p></akn:content><akn:subsection eId="subsec_5101_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5101_b"><akn:num>(b)</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>(b) Purposes The purposes of this chapter are to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

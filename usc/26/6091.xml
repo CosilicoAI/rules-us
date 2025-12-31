@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6091" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6091/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6091/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6091"><akn:num>6091</akn:num><akn:heading>Place for filing returns or other documents</akn:heading><akn:content><akn:p>§ 6091. Place for filing returns or other documents(a) General ruleWhen not otherwise provided for by this title, the Secretary shall by regulations prescribe the place for the filing of any return, declaration, statement, or other document, or copies thereof, required by this title or by regulations.
+
+
+(b) Tax returnsIn the case of returns of tax required under authority of part II of this subchapter—(1) Persons other than corporations(A) General ruleExcept as provided in subparagraph (B), a return (other than a corporation return) shall be made to the Secretary—(i) in the internal revenue district in which is located the legal residence or principal place of business of the person making the return, or
+
+(ii) at a service center serving the internal revenue district referred to in clause (i),
+
+
+as the Secretary may by regulations designate.
+
+(B) ExceptionReturns of—(i) persons who have no legal residence or principal place of business in any internal revenue district,
+
+(ii) citizens of the United States whose principal place of abode for the period with respect to which the return is filed is outside the United States,
+
+(iii) persons who claim the benefits of section 911 (relating to citizens or residents of the United States living abroad), section 931 (relating to income from sources within Guam, American Samoa, or the Northern Mariana Islands), or section 933 (relating to income from sources within Puerto Rico),
+
+(iv) nonresident alien persons, and
+
+(v) persons with respect to whom an assessment was made under section 6851(a) or 6852(a) (relating to termination assessments) with respect to the taxable year,
+
+
+shall be made at such place as the Secretary may by regulations designate.
+
+
+(2) Corporations(A) General ruleExcept as provided in subparagraph (B), a return of a corporation shall be made to the Secretary—(i) in the internal revenue district in which is located the principal place of business or principal office or agency of the corporation, or
+
+(ii) at a </akn:p></akn:content><akn:subsection eId="subsec_6091_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule When not otherwise provided for by this title, the Secretary shall by regulations prescribe the place for the filing of any return, declaration, statement, or other document, or copies thereof, required by this title or by regulations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6091_b"><akn:num>(b)</akn:num><akn:heading>Tax returns</akn:heading><akn:content><akn:p>(b) Tax returns In the case of returns of tax required under authority of part II of this subchapter—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

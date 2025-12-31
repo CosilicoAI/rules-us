@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/1304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/1304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/1304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1304"><akn:num>1304</akn:num><akn:heading>Contract clauses and certifications</akn:heading><akn:content><akn:p>§ 1304. Contract clauses and certifications(a) Repetitive Nonstandard Contract Clauses Discouraged.—The Council shall prescribe regulations to discourage the use of a nonstandard contract clause on a repetitive basis. The regulations shall include provisions that—(1) clearly define what types of contract clauses are to be treated as nonstandard clauses; and
+
+(2) require prior approval for the use of a nonstandard clause on a repetitive basis by an official at a level of responsibility above the contracting officer.
+
+
+(b) When Certification Required.—(1) By law.—A provision of law may not be construed as requiring a certification by a contractor or offeror in a procurement made or to be made by the Federal Government unless that provision of law specifically provides that such a certification shall be required.
+
+(2) In federal acquisition regulation.—A requirement for a certification by a contractor or offeror may not be included in the Federal Acquisition Regulation unless—(A) the certification requirement is specifically imposed by statute; or
+
+(B) written justification for the certification requirement is provided to the Administrator by the Council and the Administrator approves in writing the inclusion of the certification requirement.
+
+
+(3) Executive agency procurement regulation.—(A) Definition.—In subparagraph (B), the term “head of the executive agency” with respect to a military department means the Secretary of Defense.
+
+(B) When certification requirement may be included in regulation.—A requirement for a certification by a contractor or offeror may not be included in a procurement regulation of an executive agency unless—(i) the certification requirement is specifically imposed by statute; or
+
+(ii) written justification for the certification requirement is provided to the head of the executive agency by the senior procurement executive of the agency and the head of the executive agency approves in writing the inclusion of the certification requirement.
+
+
+</akn:p></akn:content><akn:subsection eId="subsec_1304_a"><akn:num>(a)</akn:num><akn:heading>Repetitive Nonstandard Contract Clauses Discouraged.—</akn:heading><akn:content><akn:p>(a) The Council shall prescribe regulations to discourage the use of a nonstandard contract clause on a repetitive basis. The regulations shall include provisions that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1304_b"><akn:num>(b)</akn:num><akn:heading>When Certification Required.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

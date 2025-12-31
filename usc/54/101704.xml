@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101704" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101704/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101704/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101704"><akn:num>101704</akn:num><akn:heading>Reimbursable agreements</akn:heading><akn:content><akn:p>§ 101704. Reimbursable agreements(a) In General.—In carrying out work under reimbursable agreements with any State, local, or tribal government, the Secretary, without regard to any provision of law or a regulation—(1) may record obligations against accounts receivable from those governments; and
+
+(2) shall credit amounts received from those governments to the appropriate account.
+
+
+(b) When Amounts Shall Be Credited.—Amounts shall be credited within 90 days of the date of the original request by the Service for payment.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3137.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10170416 U.S.C. 1i.Pub. L. 108–7, div. F, title I (proviso in last undesignated par. under heading “administrative provisions” under heading “National Park Service”), Feb. 20, 2003, 117 Stat. 227.
+
+
+The words “Heretofore and hereafter” and “section 1341 of title 31 or” are omitted as unnecessary</akn:p></akn:content><akn:subsection eId="subsec_101704_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In carrying out work under reimbursable agreements with any State, local, or tribal government, the Secretary, without regard to any provision of law or a regulation—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101704_b"><akn:num>(b)</akn:num><akn:heading>When Amounts Shall Be Credited.—</akn:heading><akn:content><akn:p>(b) Amounts shall be credited within 90 days of the date of the original request by the Service for payment.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/13524" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/13524/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/13524/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13524"><akn:num>13524</akn:num><akn:heading>Costs related to decommissioning and storage and disposal of nuclear waste</akn:heading><akn:content><akn:p>§ 13524. Costs related to decommissioning and storage and disposal of nuclear waste(a) Award of contracts(1) Prime contractorsIn awarding contracts to perform nuclear hot cell services, the Secretary, in evaluating bids for such contracts, shall exclude from consideration costs related to the decommissioning of nuclear facilities or the storage and disposal of nuclear waste, if—(A) one or more of the parties bidding to perform such services is a United States company that is subject to such costs; and
+
+(B) one or more of the parties bidding to perform such services is a foreign company that is not subject to comparable costs.
+
+
+(2) SubcontractorsAny person awarded a contract subject to the restrictions described in paragraph (1) who subcontracts with a person to perform the services described in such paragraph shall be subject to the same restrictions in evaluating bids among potential subcontractors, as the Secretary was subject to in evaluating bids among prime contractors.
+
+
+
+(b) Issuance of regulationsThe Secretary shall issue regulations not later than 90 days after October 24, 1992, to carry out the requirements of subsection (a).
+
+
+(c) DefinitionsAs used in this section—(1) the term “costs related to decommissioning of nuclear facilities” means any cost associated with the compliance with regulatory requirements governing the decommissioning of nuclear facilities licensed by the Nuclear Regulatory Commission;
+
+(2) the term “costs related to storage and disposal of nuclear waste” means any costs, whether required by regulation or incurred as a matter of prudent business practice, associated with the storage or disposal of nuclear waste;
+
+(3) the term “nuclear hot cell services” means services related to the examination of, or performance of various operations on, nuclear fuel rods, control assemblies, or other components that are emitting large quantities of ionizing radiation; and
+
+(4) the term “nuclear waste” means any radioactive waste material subject to r</akn:p></akn:content><akn:subsection eId="subsec_13524_a"><akn:num>(a)</akn:num><akn:heading>Award of contracts</akn:heading><akn:content><akn:p>(a) Award of contracts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13524_b"><akn:num>(b)</akn:num><akn:heading>Issuance of regulations</akn:heading><akn:content><akn:p>(b) Issuance of regulations The Secretary shall issue regulations not later than 90 days after October 24, 1992, to carry out the requirements of subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13524_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions As used in this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

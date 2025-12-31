@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18751" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18751/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18751/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18751"><akn:num>18751</akn:num><akn:heading>Infrastructure planning for micro and small modular nuclear reactors</akn:heading><akn:content><akn:p>§ 18751. Infrastructure planning for micro and small modular nuclear reactors(a) DefinitionsIn this section:(1) Advanced nuclear reactor The term “advanced nuclear reactor” has the meaning given the term in section 16271(b) of this title.
+
+
+(2) Isolated communityThe term “isolated community” has the meaning given the term in section 17392(a) of this title.
+
+
+(3) Micro-reactorThe term “micro-reactor” means an advanced nuclear reactor that has an electric power production capacity that is not greater than 50 megawatts.
+
+
+(4) National LaboratoryThe term “National Laboratory” has the meaning given the term in section 15801 of this title.
+
+
+(5) Small modular reactorThe term “small modular reactor” means an advanced nuclear reactor—(A) with a rated capacity of less than 300 electrical megawatts; and
+
+(B) that can be constructed and operated in combination with similar reactors at a single site.
+
+
+
+(b) ReportNot later than 180 days after November 15, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Energy and Commerce and Science, Space, and Technology of the House of Representatives a report that describes how the Department could enhance energy resilience and reduce carbon emissions with the use of micro-reactors and small modular reactors.
+
+
+(c) ElementsThe report required by subsection (b) shall address the following:(1) An evaluation by the Department of current resilience and carbon reduction requirements for energy for facilities of the Department to determine whether changes are needed to address—(A) the need to provide uninterrupted power to facilities of the Department for at least 3 days during power grid failures;
+
+(B) the need for protection against cyber threats and electromagnetic pulses; and
+
+(C) resilience to extreme natural events, including earthquakes, volcanic activity, tornados, hurricanes, floods, tsunamis, lahars, landslides, seiches, a large quantity of snowfall, and very low or h</akn:p></akn:content><akn:subsection eId="subsec_18751_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18751_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report Not later than 180 days after November 15, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Energy and Commerce and Science, Space, and Technology of the House of Representatives a report that describes how the Department could enhance energy resilience and reduce carbon emissions with the use of micro-reactors and small modular reactors.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18751_c"><akn:num>(c)</akn:num><akn:heading>Elements</akn:heading><akn:content><akn:p>(c) Elements The report required by subsection (b) shall address the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18751_d"><akn:num>(d)</akn:num><akn:heading>Financial and technical assistance for siting micro-reactors, small modular reactors, and advanced nuclear reactors</akn:heading><akn:content><akn:p>(d) Financial and technical assistance for siting micro-reactors, small modular reactors, and advanced nuclear reactors</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

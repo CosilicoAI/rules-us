@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/50" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/50/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/50/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50"><akn:num>50</akn:num><akn:heading>Grants to States or corporations not to include mineral lands</akn:heading><akn:content><akn:p>§ 50. Grants to States or corporations not to include mineral lands
+No act passed at the first session of the Thirty-eighth Congress, granting lands to States or corporations to aid in the construction of roads or for other purposes, or to extend the time of grants made prior to the 30th day of January 1865 shall be so construed as to embrace mineral lands, which in all cases are reserved exclusively to the United States, unless otherwise specially provided in the act or acts making the grant.
+(R.S. § 2346.)
+
+Editorial Notes
+
+References in TextThe first session of the Thirty-eighth Congress, referred to in text, was begun Dec. 7, 1863, and ended July 4, 1864, 13 Stat. 1 to 417, contain legislation passed at such session.
+
+Codification
+R.S. § 2346 derived from Res. Jan. 30, 1865, No. 10, 13 Stat. 567.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

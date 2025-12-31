@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/3308" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/3308/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/3308/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3308"><akn:num>3308</akn:num><akn:heading>Architectural or engineering services</akn:heading><akn:content><akn:p>§ 3308. Architectural or engineering services(a) Employment by Administrator.—When the Administrator of General Services decides it to be necessary, the Administrator may employ, by contract or otherwise, without regard to chapters 33 and 51 and subchapter III of chapter 53 of title 5, civil service rules and regulations, or section 6101(b) to (d) of title 41, the services of established architectural or engineering corporations, firms, or individuals, to the extent the Administrator may require those services for any public building authorized to be constructed or altered under this chapter.
+
+(b) Employment on Permanent Basis Not Permitted.—A corporation, firm, or individual shall not be employed under authority of subsection (a) on a permanent basis.
+
+(c) Responsibility of Administrator.—Notwithstanding any other provision of this section, the Administrator is responsible for all construction authorized by this chapter, including the interpretation of construction contracts, approval of material and workmanship supplied under a construction contract, approval of changes in the construction contract, certification of vouchers for payments due the contractor, and final settlement of the contract.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1163; Pub. L. 111–350, § 5(l)(17), Jan. 4, 2011, 124 Stat. 3852.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3308(a)40:609(a).Pub. L. 86–249, § 10, Sept. 9, 1959, 73 Stat. 481.
+3308(b)40:609(b).
+3308(c)40:609(c).
+
+
+In subsection (a), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5” are substituted for “the Classification Act of 1949, as amended” and the reference to civil service laws in section 10(a) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 31, United States Code.
+
+Editorial Notes
+Amend</akn:p></akn:content><akn:subsection eId="subsec_3308_a"><akn:num>(a)</akn:num><akn:heading>Employment by Administrator.—</akn:heading><akn:content><akn:p>(a) When the Administrator of General Services decides it to be necessary, the Administrator may employ, by contract or otherwise, without regard to chapters 33 and 51 and subchapter III of chapter 53 of title 5, civil service rules and regulations, or section 6101(b) to (d) of title 41, the services of established architectural or engineering corporations, firms, or individuals, to the extent the Administrator may require those services for any public building authorized to be constructed or altered under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3308_b"><akn:num>(b)</akn:num><akn:heading>Employment on Permanent Basis Not Permitted.—</akn:heading><akn:content><akn:p>(b) A corporation, firm, or individual shall not be employed under authority of subsection (a) on a permanent basis.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3308_c"><akn:num>(c)</akn:num><akn:heading>Responsibility of Administrator.—</akn:heading><akn:content><akn:p>(c) Notwithstanding any other provision of this section, the Administrator is responsible for all construction authorized by this chapter, including the interpretation of construction contracts, approval of material and workmanship supplied under a construction contract, approval of changes in the construction contract, certification of vouchers for payments due the contractor, and final settlement of the contract.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

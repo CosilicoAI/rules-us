@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/31106" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/31106/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/31106/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31106"><akn:num>31106</akn:num><akn:heading>Information systems</akn:heading><akn:content><akn:p>§ 31106. Information systems(a) Information Systems and Data Analysis.—(1) In general.—Subject to the provisions of this section, the Secretary shall establish and operate motor carrier, commercial motor vehicle, and driver information systems and data analysis programs to support safety regulatory and enforcement activities required under this title.
+
+(2) Network coordination.—In cooperation with the States, the information systems under this section shall be coordinated into a network providing accurate identification of motor carriers and drivers, commercial motor vehicle registration and license tracking, and motor carrier, commercial motor vehicle, and driver safety performance data.
+
+(3) Data analysis capacity and programs.—The Secretary shall develop and maintain under this section data analysis capacity and programs that provide the means to—(A) identify and collect necessary motor carrier, commercial motor vehicle, and driver data;
+
+(B) evaluate the safety fitness of motor carriers and drivers;
+
+(C) develop strategies to mitigate safety problems and to use data analysis to address and measure the effectiveness of such strategies and related programs;
+
+(D) determine the cost-effectiveness of Federal and State safety compliance and enforcement programs and other countermeasures;
+
+(E) adapt, improve, and incorporate other information and information systems as the Secretary determines appropriate;
+
+(F) ensure, to the maximum extent practical, all the data is complete, timely, and accurate across all information systems and initiatives;
+
+(G) establish and implement a national motor carrier safety data correction system; and
+
+(H) determine whether a person or employer is or was related, through common ownership, common management, common control, or common familial relationship, to any other person, employer, or any other applicant for registration under section 13902 or 31134.
+
+
+(4) Standards.—To implement this section, the Secretary shall prescribe technical a</akn:p></akn:content><akn:subsection eId="subsec_31106_a"><akn:num>(a)</akn:num><akn:heading>Information Systems and Data Analysis.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31106_b"><akn:num>(b)</akn:num><akn:heading>Performance and Registration Information Systems Management.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31106_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31106_d"><akn:num>(d)</akn:num><akn:heading>Cooperative Agreements, Grants, and Contracts.—</akn:heading><akn:content><akn:p>(d) The Secretary may carry out this section either independently or in cooperation with other Federal departments, agencies, and instrumentalities, or by making grants to, and entering into contracts and cooperative agreements with, States, local governments, associations, institutions, corporations, and other persons.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31106_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

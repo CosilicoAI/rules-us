@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/146" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/146/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/146/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_146"><akn:num>146</akn:num><akn:heading>National Atomic Veterans Day</akn:heading><akn:content><akn:p>§ 146. National Atomic Veterans Day
+The President shall issue each year a proclamation calling on the people of the United States to—(1) observe Atomic Veterans Day with appropriate ceremonies and activities; and
+
+(2) remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.
+
+(Added Pub. L. 117–81, div. A, title X, § 1084(a), Dec. 27, 2021, 135 Stat. 1924.)
+
+Editorial Notes
+Prior ProvisionsAnother section 146 of this title was renumbered section 147 of this title.</akn:p></akn:content><akn:subsection eId="subsec_146_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) observe Atomic Veterans Day with appropriate ceremonies and activities; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_146_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

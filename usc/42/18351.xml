@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18351" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18351/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18351/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18351"><akn:num>18351</akn:num><akn:heading>Continuation of the International Space Station</akn:heading><akn:content><akn:p>§ 18351. Continuation of the International Space Station(a) Policy of the United StatesIt shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least September 30, 2030.
+
+
+(b) NASA actionIn furtherance of the policy set forth in subsection (a), NASA shall—(1) pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS;
+
+(2) utilize, to the extent practicable, the ISS for the development of capabilities and technologies needed for the future of human space exploration beyond low-Earth orbit; and
+
+(3) utilize, if practical and cost effective, the ISS for Science Mission Directorate missions in low-Earth orbit.
+
+
+(Pub. L. 111–267, title V, § 501, Oct. 11, 2010, 124 Stat. 2822; Pub. L. 114–90, title I, § 114(b)(1), Nov. 25, 2015, 129 Stat. 715; Pub. L. 115–10, title III, § 301(c), Mar. 21, 2017, 131 Stat. 23; Pub. L. 117–167, div. B, title VII, § 10815(a), Aug. 9, 2022, 136 Stat. 1737.)
+
+Editorial Notes
+Amendments2022—Subsec. (a). Pub. L. 117–167 substituted “September 30, 2030” for “2024”.
+2017—Pub. L. 115–10 amended section generally. Prior to amendment, section read as follows:
+“(a) Policy of the United States.—It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least 2024.
+“(b) NASA Actions.—In furtherance of the policy set forth in subsection (a), NASA shall pursue international, commercial, and intragovernmental means to maximize ISS logistics supply, maintenance, and operational capabilities, reduce risks to ISS systems sustainability, and offset and minimize United States operations costs relating to the ISS.”
+2015—Pub. L. 114–90</akn:p></akn:content><akn:subsection eId="subsec_18351_a"><akn:num>(a)</akn:num><akn:heading>Policy of the United States</akn:heading><akn:content><akn:p>(a) Policy of the United States It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least September 30, 2030.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18351_b"><akn:num>(b)</akn:num><akn:heading>NASA action</akn:heading><akn:content><akn:p>(b) NASA action In furtherance of the policy set forth in subsection (a), NASA shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

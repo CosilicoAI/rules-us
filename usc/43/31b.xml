@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/31b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/31b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/31b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31b"><akn:num>31b</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 31b. Definitions
+In sections 31a to 31h of this title:(1) Advisory committeeThe term “advisory committee” means the advisory committee established under section 31d of this title.
+
+
+(2) AssociationThe term “Association” means the Association of American State Geologists.
+
+
+(3) DirectorThe term “Director” means the Director of the United States Geological Survey.
+
+
+(4) Education componentThe term “education component” means the education component of the geologic mapping program described in section 31c(d)(3) of this title.
+
+
+(5) Federal componentThe term “Federal component” means the Federal component of the geologic mapping program described in section 31c(d)(1) of this title.
+
+
+(6) Geologic mapping programThe term “geologic mapping program” means the National Cooperative Geologic Mapping Program established by section 31c(a) of this title.
+
+
+(7) SecretaryThe term “Secretary” means the Secretary of the Interior.
+
+
+(8) StateThe term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.
+
+
+(9) State componentThe term “State component” means the State component of the geologic mapping program described in section 31c(d)(2) of this title.
+
+
+(10) SurveyThe term “Survey” means the United States Geological Survey.
+
+
+(Pub. L. 102–285, § 3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, § 3(a), Aug. 5, 1997, 111 Stat. 1107; Pub. L. 106–148, § 3, Dec. 9, 1999, 113 Stat. 1719; Pub. L. 116–9, title V, § 5002(c), Mar. 12, 2019, 133 Stat. 768.)
+
+Editorial Notes
+
+References in TextSections 31a to 31h of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.
+
+Amendments2019—Par. (4). Pub.</akn:p></akn:content><akn:subsection eId="subsec_31b_1"><akn:num>(1)</akn:num><akn:heading>Advisory committee</akn:heading><akn:content><akn:p>(1) Advisory committee The term “advisory committee” means the advisory committee established under section 31d of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_2"><akn:num>(2)</akn:num><akn:heading>Association</akn:heading><akn:content><akn:p>(2) Association The term “Association” means the Association of American State Geologists.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_3"><akn:num>(3)</akn:num><akn:heading>Director</akn:heading><akn:content><akn:p>(3) Director The term “Director” means the Director of the United States Geological Survey.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_4"><akn:num>(4)</akn:num><akn:heading>Education component</akn:heading><akn:content><akn:p>(4) Education component The term “education component” means the education component of the geologic mapping program described in section 31c(d)(3) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_5"><akn:num>(5)</akn:num><akn:heading>Federal component</akn:heading><akn:content><akn:p>(5) Federal component The term “Federal component” means the Federal component of the geologic mapping program described in section 31c(d)(1) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_6"><akn:num>(6)</akn:num><akn:heading>Geologic mapping program</akn:heading><akn:content><akn:p>(6) Geologic mapping program The term “geologic mapping program” means the National Cooperative Geologic Mapping Program established by section 31c(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_7"><akn:num>(7)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(7) Secretary The term “Secretary” means the Secretary of the Interior.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_8"><akn:num>(8)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(8) State The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the Virgin Islands.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_9"><akn:num>(9)</akn:num><akn:heading>State component</akn:heading><akn:content><akn:p>(9) State component The term “State component” means the State component of the geologic mapping program described in section 31c(d)(2) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31b_10"><akn:num>(10)</akn:num><akn:heading>Survey</akn:heading><akn:content><akn:p>(10) Survey The term “Survey” means the United States Geological Survey.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

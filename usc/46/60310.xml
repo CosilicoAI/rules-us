@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/60310" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/60310/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/60310/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60310"><akn:num>60310</akn:num><akn:heading>Vessels making daily trips on interior waters</akn:heading><akn:content><akn:p>§ 60310. Vessels making daily trips on interior waters
+A vessel making regular daily trips between a port of the United States and a port of Canada only on interior waters not navigable to the ocean is exempt from tonnage taxes and light money, except on its first clearing each year.
+(Pub. L. 109–304, § 9(b), Oct. 6, 2006, 120 Stat. 1679.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6031046 App.:125.R.S. § 4221.
+
+
+The words “is exempt from tonnage taxes” are substituted for “no tonnage fees shall be charged” for consistency in the revised chapter. The words “and light money” are added for clarity and consistency. See 19 C.F.R. § 4.21 (2003). The words “by the officers of the United States” are omitted as unnecessary.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

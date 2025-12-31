@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/3922" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/3922/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/3922/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3922"><akn:num>3922</akn:num><akn:heading>Federal acquisition</akn:heading><akn:content><akn:p>§ 3922. Federal acquisition
+The Secretary is authorized to purchase wetlands or interests in wetlands, which are not acquired under the authority of the Migratory Bird Conservation Act of 1929 (16 U.S.C. 715–715s), consistent with the wetlands priority conservation plan established under section 3921 of this title.
+(Pub. L. 99–645, title III, § 304, Nov. 10, 1986, 100 Stat. 3588.)
+
+Editorial Notes
+
+References in TextThe Migratory Bird Conservation Act of 1929, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

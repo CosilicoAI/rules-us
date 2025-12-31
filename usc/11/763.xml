@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/763" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/763/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/763/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_763"><akn:num>763</akn:num><akn:heading>Treatment of accounts</akn:heading><akn:content><akn:p>§ 763. Treatment of accounts(a) Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.
+
+(b) A member of a clearing organization shall be deemed to hold such member’s proprietary account in a separate capacity from such member’s customers’ account.
+
+(c) The net equity in a customer’s account may not be offset against the net equity in the account of any other customer.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2618; Pub. L. 98–353, title III, § 486, July 10, 1984, 98 Stat. 383.)
+
+Historical and Revision Notes
+senate report no. 95–989Section 763 provides for separate treatment of accounts held in separate capacities. A deficit in one account held for a customer may not be offset against the net equity in another account held by the same customer in a separate capacity or held by another customer.
+
+Editorial Notes
+Amendments1984—Subsec. (a). Pub. L. 98–353 substituted “by the debtor for” for “by” and “treated as” for “deemed to be”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_763_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_763_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A member of a clearing organization shall be deemed to hold such member’s proprietary account in a separate capacity from such member’s customers’ account.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_763_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The net equity in a customer’s account may not be offset against the net equity in the account of any other customer.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

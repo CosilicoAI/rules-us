@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/7385g" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/7385g/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/7385g/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7385g"><akn:num>7385g</akn:num><akn:heading>Attorney fees</akn:heading><akn:content><akn:p>§ 7385g. Attorney fees(a) General ruleNotwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of a payment made under part B on such claim.
+
+
+(b) Applicable percentage limitationsThe percentage referred to in subsection (a) is—(1) 2 percent for the filing of an initial claim for payment of lump-sum compensation; and
+
+(2) 10 percent with respect to objections to a recommended decision denying payment of lump-sum compensation.
+
+
+(c) Inapplicability to other servicesThis section shall not apply with respect to services rendered that are not in connection with such a claim for payment of lump-sum compensation.
+
+
+(d) PenaltyAny such representative who violates this section shall be fined not more than $5,000.
+
+
+(Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3648], Oct. 30, 2000, 114 Stat. 1654, 1654A–511; Pub. L. 107–107, div. C, title XXXI, § 3151(a)(6), Dec. 28, 2001, 115 Stat. 1375.)
+
+Editorial Notes
+Amendments2001—Subsec. (a). Pub. L. 107–107, § 3151(a)(6)(A), inserted “for payment of lump-sum compensation” after “the claim of an individual”.
+Subsec. (b)(1). Pub. L. 107–107, § 3151(a)(6)(B), inserted “for payment of lump-sum compensation” after “initial claim”.
+Subsec. (b)(2). Pub. L. 107–107, § 3151(a)(6)(C), substituted “with respect to objections to a recommended decision denying payment of lump-sum compensation” for “with respect to any claim with respect to which a representative has made a contract for services before October 30, 2000”.
+Subsecs. (c), (d). Pub. L. 107–107, § 3151(a)(6)(D), (E), added subsec. (c) and redesignated former subsec. (c) as (d).</akn:p></akn:content><akn:subsection eId="subsec_7385g_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the claim of an individual for payment of lump-sum compensation under part B, more than that percentage specified in subsection (b) of a payment made under part B on such claim.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7385g_b"><akn:num>(b)</akn:num><akn:heading>Applicable percentage limitations</akn:heading><akn:content><akn:p>(b) Applicable percentage limitations The percentage referred to in subsection (a) is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7385g_c"><akn:num>(c)</akn:num><akn:heading>Inapplicability to other services</akn:heading><akn:content><akn:p>(c) Inapplicability to other services This section shall not apply with respect to services rendered that are not in connection with such a claim for payment of lump-sum compensation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7385g_d"><akn:num>(d)</akn:num><akn:heading>Penalty</akn:heading><akn:content><akn:p>(d) Penalty Any such representative who violates this section shall be fined not more than $5,000.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

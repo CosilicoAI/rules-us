@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/57506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/57506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/57506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_57506"><akn:num>57506</akn:num><akn:heading>Minimum selling price of vessels</akn:heading><akn:content><akn:p>§ 57506. Minimum selling price of vessels(a) In General.—A vessel constructed under this subtitle or the Merchant Marine Act, 1936, may not be sold by the Secretary of Transportation for less than the price specified in this section.
+
+(b) Operation in Foreign Trade.—If the vessel is to be operated in foreign trade, the minimum price is the estimated foreign construction cost (exclusive of national defense features) determined as of the date the construction contract is executed, less depreciation under subsection (d).
+
+(c) Operation in Domestic Trade.—If the vessel is to be operated in domestic trade, the minimum price is the cost of construction in the United States (exclusive of national defense features), less depreciation under subsection (d).
+
+(d) Depreciation.—Depreciation under subsections (b) and (c) shall be based on—(1) a 25-year life for dry-cargo and passenger vessels; and
+
+(2) a 20-year life for tankers and other bulk liquid carrier vessels.
+
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1665.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5750646 App.:1195 (last sentence).June 29, 1936, ch. 858, title VII, § 705 (last sentence), as added Aug. 4, 1939, ch. 417, § 11(a), 53 Stat. 1185; Pub. L. 86–518, § 1, June 12, 1960, 74 Stat. 216; Pub. L. 97–31, § 12(107), Aug. 6, 1981, 95 Stat. 163.
+ 46 App.:1125 note.Pub. L. 86–518, § 9, June 12, 1960, 74 Stat. 217.
+
+
+Subsection (d) is substituted for “less depreciation based on a twenty-five year life” because of section 9 of Public Law 86–518 (June 12, 1960, 74 Stat. 217), which provided that “Nothing in any amendment made by this Act [including section 1 substituting ‘twenty-five’ for ‘twenty’ in 46 App. U.S.C. 1195] shall operate or be interpreted to change from twenty to twenty-five years the provisions of the Merchant Marine Act, 1936, as amended, relating to the commercial expectancy or period of depreciation of any tanker or other liquid bulk ca</akn:p></akn:content><akn:subsection eId="subsec_57506_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A vessel constructed under this subtitle or the Merchant Marine Act, 1936, may not be sold by the Secretary of Transportation for less than the price specified in this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_57506_b"><akn:num>(b)</akn:num><akn:heading>Operation in Foreign Trade.—</akn:heading><akn:content><akn:p>(b) If the vessel is to be operated in foreign trade, the minimum price is the estimated foreign construction cost (exclusive of national defense features) determined as of the date the construction contract is executed, less depreciation under subsection (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_57506_c"><akn:num>(c)</akn:num><akn:heading>Operation in Domestic Trade.—</akn:heading><akn:content><akn:p>(c) If the vessel is to be operated in domestic trade, the minimum price is the cost of construction in the United States (exclusive of national defense features), less depreciation under subsection (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_57506_d"><akn:num>(d)</akn:num><akn:heading>Depreciation.—</akn:heading><akn:content><akn:p>(d) Depreciation under subsections (b) and (c) shall be based on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

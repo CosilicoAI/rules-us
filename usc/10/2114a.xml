@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2114a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2114a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2114a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2114a"><akn:num>2114a</akn:num><akn:heading>Eligibility of members of foreign militaries to enroll in the University</akn:heading><akn:content><akn:p>§ 2114a. Eligibility of members of foreign militaries to enroll in the University(a) Authority.—(1) The Secretary of Defense may permit an individual who is a member of the military of a foreign country—(A) to enroll (including as a full-time student) and receive instruction—(i) as a medical student of the University; or
+
+(ii) in a postdoctoral, postgraduate, or certificate program of the University; and
+
+
+(B) to participate in training exercises of the University.
+
+
+(2) Enrollment of an individual under this section—(A) shall be subject to—(i) the academic capacity of the University described in section 2112(b) of this title; and
+
+(ii) an international agreement or qualifying non-binding instrument (as such terms are defined in section 112b of title 1); and
+
+
+(B) may not decrease the number of members of the uniformed services enrolled in the University; and
+
+(C) may not be given priority over the enrollment of a member of the uniformed services.
+
+
+(3) The number of individuals simultaneously enrolled under this section may not exceed—(A) 10, in the case of medical students of the University; and
+
+(B) 40, with regards to all postdoctoral, postgraduate, and certificate programs of the University.
+
+
+
+(b) Qualifications; Selection.—In carrying out subsection (a), the Secretary may select an individual to enroll under this section—(1) who was nominated for such enrollment by the medical command of the military of a foreign country; and
+
+(2) pursuant to regulations prescribed by the Secretary regarding—(A) qualifications for such enrollment that are comparable to the qualifications required of a United States citizen; and
+
+(B) procedures for such selection.
+
+
+
+(c) Reimbursement.—(1) The Secretary shall require the foreign country of an individual enrolled under this section to reimburse the United States for the cost of providing instruction to such individual.
+
+(2) The Secretary shall prescribe rates for such reimbursement that equal or exceed the cost to the United St</akn:p></akn:content><akn:subsection eId="subsec_2114a_a"><akn:num>(a)</akn:num><akn:heading>Authority.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2114a_b"><akn:num>(b)</akn:num><akn:heading>Qualifications; Selection.—</akn:heading><akn:content><akn:p>(b) In carrying out subsection (a), the Secretary may select an individual to enroll under this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2114a_c"><akn:num>(c)</akn:num><akn:heading>Reimbursement.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2114a_d"><akn:num>(d)</akn:num><akn:heading>Applicability of Regulations and Policies.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/2901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/2901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/2901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2901"><akn:num>2901</akn:num><akn:heading>Work-life policies and programs</akn:heading><akn:content><akn:p>§ 2901. Work-life policies and programs
+The Commandant is authorized—(1) to establish an office for the purpose of developing, promulgating, and coordinating policies, programs, and activities related to the families of Coast Guard members;
+
+(2) to implement and oversee policies, programs, and activities described in paragraph (1) as the Commandant considers necessary; and
+
+(3) to perform such other duties as the Commandant considers necessary.
+
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3029, § 531; renumbered § 2901, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+
+Editorial Notes
+Prior ProvisionsA prior section 2901 was renumbered section 5101 of this title.
+
+Amendments2018—Pub. L. 115–282 renumbered section 531 of this title as this section.</akn:p></akn:content><akn:subsection eId="subsec_2901_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) to establish an office for the purpose of developing, promulgating, and coordinating policies, programs, and activities related to the families of Coast Guard members;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2901_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) to implement and oversee policies, programs, and activities described in paragraph (1) as the Commandant considers necessary; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2901_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) to perform such other duties as the Commandant considers necessary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

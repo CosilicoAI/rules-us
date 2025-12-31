@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/1215" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/1215/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/1215/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1215"><akn:num>1215</akn:num><akn:heading>Disciplinary action</akn:heading><akn:content><akn:p>§ 1215. Disciplinary action(a)(1) Except as provided in subsection (b), if the Special Counsel determines that disciplinary action should be taken against any employee for having—(A) committed a prohibited personnel practice,
+
+(B) violated the provisions of any law, rule, or regulation, or engaged in any other conduct within the jurisdiction of the Special Counsel as described in section 1216, or
+
+(C) knowingly and willfully refused or failed to comply with an order of the Merit Systems Protection Board,
+
+
+the Special Counsel shall prepare a written complaint against the employee containing the Special Counsel’s determination, together with a statement of supporting facts, and present the complaint and statement to the employee and the Board, in accordance with this subsection.
+
+(2) Any employee against whom a complaint has been presented to the Merit Systems Protection Board under paragraph (1) is entitled to—(A) a reasonable time to answer orally and in writing, and to furnish affidavits and other documentary evidence in support of the answer;
+
+(B) be represented by an attorney or other representative;
+
+(C) a hearing before the Board or an administrative law judge appointed under section 3105 and designated by the Board;
+
+(D) have a transcript kept of any hearing under subparagraph (C); and
+
+(E) a written decision and reasons therefor at the earliest practicable date, including a copy of any final order imposing disciplinary action.
+
+
+(3)(A) A final order of the Board may impose—(i) disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, or reprimand;
+
+(ii) an assessment of a civil penalty not to exceed $1,000; or
+
+(iii) any combination of disciplinary actions described under clause (i) and an assessment described under clause (ii).
+
+
+(B) In any case brought under paragraph (1) in which the Board finds that an employee has committed a prohibited personnel practice under sectio</akn:p></akn:content><akn:subsection eId="subsec_1215_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1215_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In the case of an employee in a confidential, policy-making, policy-determining, or policy-advocating position appointed by the President, by and with the advice and consent of the Senate (other than an individual in the Foreign Service of the United States), the complaint and statement referred to in subsection (a)(1), together with any response of the employee, shall be presented to the President for appropriate action in lieu of being presented under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1215_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

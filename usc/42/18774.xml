@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18774" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18774/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18774/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18774"><akn:num>18774</akn:num><akn:heading>Data collection on electric vehicle integration with the electricity grids</akn:heading><akn:content><akn:p>§ 18774. Data collection on electric vehicle integration with the electricity grids(a) In generalNot later than 1 year after November 15, 2021, the Administrator shall develop and implement measures to expand data collection with respect to electric vehicle integration with the electricity grids.
+
+
+(b) Sources of dataThe sources of the data collected pursuant to subsection (a) may include—(1) host-owned or charging-network-owned electric vehicle charging stations;
+
+(2) aggregators of charging-network electricity demand;
+
+(3) electric utilities offering managed-charging programs;
+
+(4) individual, corporate, or public owners of electric vehicles; and
+
+(5) balancing authority analyses of—(A) transformer loading congestion; and
+
+(B) distribution-system congestion.
+
+
+
+(c) Consultation and coordinationIn carrying out subsection (a), the Administrator may consult and enter into agreements with other institutions having relevant data and data collection capabilities, such as—(1) the Secretary of Transportation;
+
+(2) the Secretary;
+
+(3) the Administrator of the Environmental Protection Agency;
+
+(4) States or State agencies; and
+
+(5) private entities.
+
+
+(Pub. L. 117–58, div. D, title IV, § 40414, Nov. 15, 2021, 135 Stat. 1043.)
+
+Statutory Notes and Related Subsidiaries
+Wage Rate RequirementsFor provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.</akn:p></akn:content><akn:subsection eId="subsec_18774_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than 1 year after November 15, 2021, the Administrator shall develop and implement measures to expand data collection with respect to electric vehicle integration with the electricity grids.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18774_b"><akn:num>(b)</akn:num><akn:heading>Sources of data</akn:heading><akn:content><akn:p>(b) Sources of data The sources of the data collected pursuant to subsection (a) may include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18774_c"><akn:num>(c)</akn:num><akn:heading>Consultation and coordination</akn:heading><akn:content><akn:p>(c) Consultation and coordination In carrying out subsection (a), the Administrator may consult and enter into agreements with other institutions having relevant data and data collection capabilities, such as—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

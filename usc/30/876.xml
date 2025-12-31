@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/876" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/876/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/876/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_876"><akn:num>876</akn:num><akn:heading>Communication facilities; locations and emergency response plans</akn:heading><akn:content><akn:p>§ 876. Communication facilities; locations and emergency response plans(a) In generalTelephone service or equivalent two-way communication facilities, approved by the Secretary or his authorized representative, shall be provided between the surface and each landing of main shafts and slopes and between the surface and each working section of any coal mine that is more than one hundred feet from a portal.
+
+
+(b) Accident preparedness and response(1) In generalEach underground coal mine operator shall carry out on a continuing basis a program to improve accident preparedness and response at each mine.
+
+
+(2) Response and preparedness plan(A) In generalNot later than 60 days after June 15, 2006, each underground coal mine operator shall develop and adopt a written accident response plan that complies with this subsection with respect to each mine of the operator, and periodically update such plans to reflect changes in operations in the mine, advances in technology, or other relevant considerations. Each such operator shall make the accident response plan available to the miners and the miners’ representatives.
+
+
+(B) Plan requirementsAn accident response plan under subparagraph (A) shall—(i) provide for the evacuation of all individuals endangered by an emergency; and
+
+(ii) provide for the maintenance of individuals trapped underground in the event that miners are not able to evacuate the mine.
+
+
+(C) Plan approvalThe accident response plan under subparagraph (A) shall be subject to review and approval by the Secretary. In determining whether to approve a particular plan the Secretary shall take into consideration all comments submitted by miners or their representatives. Approved plans shall—(i) afford miners a level of safety protection at least consistent with the existing standards, including standards mandated by law and regulation;
+
+(ii) reflect the most recent credible scientific research;
+
+(iii) be technologically feasible, make use of current commercially availab</akn:p></akn:content><akn:subsection eId="subsec_876_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Telephone service or equivalent two-way communication facilities, approved by the Secretary or his authorized representative, shall be provided between the surface and each landing of main shafts and slopes and between the surface and each working section of any coal mine that is more than one hundred feet from a portal.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_876_b"><akn:num>(b)</akn:num><akn:heading>Accident preparedness and response</akn:heading><akn:content><akn:p>(b) Accident preparedness and response</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

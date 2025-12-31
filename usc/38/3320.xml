@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/3320" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/3320/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/3320/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3320"><akn:num>3320</akn:num><akn:heading>Edith Nourse Rogers STEM Scholarship</akn:heading><akn:content><akn:p>§ 3320. Edith Nourse Rogers STEM Scholarship(a) In General.—Subject to the limitation under subsection (f), the Secretary shall provide additional benefits to eligible individuals selected by the Secretary under this section. Such benefits shall be known as the “Edith Nourse Rogers STEM Scholarship”.
+
+(b) Eligibility.—For purposes of this section, an eligible individual is an individual—(1) who is or was entitled to educational assistance under section 3311 of this title;
+
+(2) who has used all of the educational assistance to which the individual is entitled under this chapter or will, based on the individual’s rate of usage, use all of such assistance within 180 days of applying for benefits under this section;
+
+(3) who applies for assistance under this section; and
+
+(4) who—(A) is an individual who—(i) is enrolled in a program of education leading to a post-secondary degree that, in accordance with the guidelines of the applicable regional or national accrediting agency, requires at least the standard 120 semester (or 180 quarter) credit hours for completion in a standard, undergraduate college degree, or a dual degree program that includes such an undergraduate college degree, in—(I) biological or biomedical science;
+
+(II) physical science;
+
+(III) science technologies or technicians;
+
+(IV) computer and information science and support services;
+
+(V) mathematics or statistics;
+
+(VI) engineering;
+
+(VII) engineering technologies or an engineering-related field;
+
+(VIII) a health profession or related program;
+
+(IX) an agriculture science program or a natural resources science program; or
+
+(X) other subjects and fields identified by the Secretary as meeting national needs;
+
+
+(ii) has completed at least 60 standard semester (or 90 quarter) credit hours in a field referred to in clause (i); or
+
+
+(B) is an individual who has earned a post-secondary degree in a field referred to in subparagraph (A)(i) and is enrolled in a covered clinical training program for health care p</akn:p></akn:content><akn:subsection eId="subsec_3320_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Subject to the limitation under subsection (f), the Secretary shall provide additional benefits to eligible individuals selected by the Secretary under this section. Such benefits shall be known as the “Edith Nourse Rogers STEM Scholarship”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3320_b"><akn:num>(b)</akn:num><akn:heading>Eligibility.—</akn:heading><akn:content><akn:p>(b) For purposes of this section, an eligible individual is an individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3320_c"><akn:num>(c)</akn:num><akn:heading>Priority.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3320_d"><akn:num>(d)</akn:num><akn:heading>Amount of Assistance.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3320_e"><akn:num>(e)</akn:num><akn:heading>Prohibition on Transfer.—</akn:heading><akn:content><akn:p>(e) An individual who receives additional benefits under this section may not transfer any amount of such additional benefits under section 3319 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3320_f"><akn:num>(f)</akn:num><akn:heading>Maximum Amount of Total Assistance.—</akn:heading><akn:content><akn:p>(f) The total amount of benefits paid to all eligible individuals under this section may not exceed—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3320_g"><akn:num>(g)</akn:num><akn:heading>Congressional Notice.—</akn:heading><akn:content><akn:p>(g) If the Secretary identifies a new subject or field pursuant to subsection (b)(4)(A)(i)(XI) as meeting a national need, the Secretary shall submit to Congress notice of such identification at least 90 days before conferring eligibility on any individual for purposes of this section on the basis of such identification, including any analysis of labor market supply and demand used in identifying the new subject or field, as applicable.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3320_h"><akn:num>(h)</akn:num><akn:heading>Covered Clinical Training Program Defined.—</akn:heading><akn:content><akn:p>(h) In this section, the term “covered clinical training program” means any clinical training required by a health care professional to be licensed to practice in a State or locality.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

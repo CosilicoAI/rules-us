@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/51702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/51702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/51702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_51702"><akn:num>51702</akn:num><akn:heading>Civilian nautical schools</akn:heading><akn:content><akn:p>§ 51702. Civilian nautical schools(a) Definition.—In this section, the term “civilian nautical school” means a school operated in the United States (except the United States Merchant Marine Academy, a State maritime academy, or another school operated by the United States Government) that offers instruction to individuals quartered on a vessel primarily to train them for service in the merchant marine.
+
+(b) Inspection.—Each civilian nautical school is subject to inspection by the Secretary of Transportation.
+
+(c) Rating and Certification.—The Secretary may, under regulations the Secretary may prescribe, provide for the rating and certification of civilian nautical schools as to the adequacy of their course of instruction, the competence of their instructors, and the suitability of the equipment used in their course of instruction.
+
+(Pub. L. 109–304, § 8(b), Oct. 6, 2006, 120 Stat. 1582.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5170246 App.:1295f.June 29, 1936, ch. 858, title XIII, § 1307, as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 2007; Pub. L. 98–89, § 4(b), Aug. 26, 1983, 97 Stat. 603.
+
+
+The text of 46 App. U.S.C. 1295f(d) is omitted because it apparently was intended to apply to former 46 App. U.S.C. 1295f(c), which was repealed in 1983.</akn:p></akn:content><akn:subsection eId="subsec_51702_a"><akn:num>(a)</akn:num><akn:heading>Definition.—</akn:heading><akn:content><akn:p>(a) In this section, the term “civilian nautical school” means a school operated in the United States (except the United States Merchant Marine Academy, a State maritime academy, or another school operated by the United States Government) that offers instruction to individuals quartered on a vessel primarily to train them for service in the merchant marine.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51702_b"><akn:num>(b)</akn:num><akn:heading>Inspection.—</akn:heading><akn:content><akn:p>(b) Each civilian nautical school is subject to inspection by the Secretary of Transportation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51702_c"><akn:num>(c)</akn:num><akn:heading>Rating and Certification.—</akn:heading><akn:content><akn:p>(c) The Secretary may, under regulations the Secretary may prescribe, provide for the rating and certification of civilian nautical schools as to the adequacy of their course of instruction, the competence of their instructors, and the suitability of the equipment used in their course of instruction.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

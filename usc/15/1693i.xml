@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/1693i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/1693i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/1693i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1693i"><akn:num>1693i</akn:num><akn:heading>Issuance of cards or other means of access</akn:heading><akn:content><akn:p>§ 1693i. Issuance of cards or other means of access(a) Prohibition; proper issuanceNo person may issue to a consumer any card, code, or other means of access to such consumer’s account for the purpose of initiating an electronic fund transfer other than—(1) in response to a request or application therefor; or
+
+(2) as a renewal of, or in substitution for, an accepted card, code, or other means of access, whether issued by the initial issuer or a successor.
+
+
+(b) ExceptionsNotwithstanding the provisions of subsection (a), a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—(1) such card, code, or other means of access is not validated;
+
+(2) such distribution is accompanied by a complete disclosure, in accordance with section 1693c of this title, of the consumer’s rights and liabilities which will apply if such card, code, or other means of access is validated;
+
+(3) such distribution is accompanied by a clear explanation, in accordance with regulations of the Bureau, that such card, code, or other means of access is not validated and how the consumer may dispose of such code, card, or other means of access if validation is not desired; and
+
+(4) such card, code, or other means of access is validated only in response to a request or application from the consumer, upon verification of the consumer’s identity.
+
+
+(c) ValidationFor the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
+
+
+(Pub. L. 90–321, title IX, § 911, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3736; amended Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+
+Editorial Notes
+Amendments2010—Subsec. (b)(3). Pub. L. 111–203 substituted “Bureau” for “Board”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2010 AmendmentAmendment by Pub. L. </akn:p></akn:content><akn:subsection eId="subsec_1693i_a"><akn:num>(a)</akn:num><akn:heading>Prohibition; proper issuance</akn:heading><akn:content><akn:p>(a) Prohibition; proper issuance No person may issue to a consumer any card, code, or other means of access to such consumer’s account for the purpose of initiating an electronic fund transfer other than—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1693i_b"><akn:num>(b)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(b) Exceptions Notwithstanding the provisions of subsection (a), a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1693i_c"><akn:num>(c)</akn:num><akn:heading>Validation</akn:heading><akn:content><akn:p>(c) Validation For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

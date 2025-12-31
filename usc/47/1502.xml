@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/1502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/1502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/1502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1502"><akn:num>1502</akn:num><akn:heading>Identifying 255 megahertz</akn:heading><akn:content><akn:p>§ 1502. Identifying 255 megahertz(a) Requirements(1) In generalNot later than December 31, 2022, the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
+
+
+(2) Unlicensed and licensed useOf the spectrum identified under paragraph (1), not less than—(A) 100 megahertz below the frequency of 8000 megahertz shall be identified for use on an unlicensed basis;
+
+(B) 100 megahertz below the frequency of 6000 megahertz shall be identified for use on an exclusive, licensed basis for commercial mobile use, pursuant to the Commission’s authority to implement such licensing in a flexible manner, and subject to potential continued use of such spectrum by incumbent Federal entities in designated geographic areas indefinitely or for such length of time stipulated in transition plans approved by the Technical Panel under section 923(h) of this title for those incumbent entities to be relocated to alternate spectrum; and
+
+(C) 55 megahertz below the frequency of 8000 megahertz shall be identified for use on either a licensed or unlicensed basis, or a combination of licensed and unlicensed.
+
+
+(3) Non-eligible spectrumFor purposes of satisfying the requirement under paragraph (1), the following spectrum shall not be counted:(A) The frequencies between 1695 and 1710 megahertz.
+
+(B) The frequencies between 1755 and 1780 megahertz.
+
+(C) The frequencies between 2155 and 2180 megahertz.
+
+(D) The frequencies between 3550 and 3700 megahertz.
+
+(E) Spectrum that the Commission determines had more than de minimis mobile or fixed wireless broadband operations within the band on the day before March 23, 2018.
+
+
+(4) Treatment of certain other spectrumSpectrum identified pursuant to this section may include eligible spectrum, if any, identified after March 23, 2018, pursuant to title X of the Bipartisan Budget Act of 2015 (Public Law 114–74).
+
+
+(5) Spectrum made availab</akn:p></akn:content><akn:subsection eId="subsec_1502_a"><akn:num>(a)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(a) Requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1502_b"><akn:num>(b)</akn:num><akn:heading>Rules of construction</akn:heading><akn:content><akn:p>(b) Rules of construction Nothing in this section shall be construed—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

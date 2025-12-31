@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_701"><akn:num>701</akn:num><akn:heading>Application; definitions</akn:heading><akn:content><akn:p>§ 701. Application; definitions(a) This chapter applies, according to the provisions thereof, except to the extent that—(1) statutes preclude judicial review; or
+
+(2) agency action is committed to agency discretion by law.
+
+
+(b) For the purpose of this chapter—(1) “agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—(A) the Congress;
+
+(B) the courts of the United States;
+
+(C) the governments of the territories or possessions of the United States;
+
+(D) the government of the District of Columbia;
+
+(E) agencies composed of representatives of the parties or of representatives of organizations of the parties to the disputes determined by them;
+
+(F) courts martial and military commissions;
+
+(G) military authority exercised in the field in time of war or in occupied territory; or
+
+(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 11 See References in Text note below. and
+
+
+(2) “person”, “rule”, “order”, “license”, “sanction”, “relief”, and “agency action” have the meanings given them by section 551 of this title.
+
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L. 103–272, § 5(a), July 5, 1994, 108 Stat. 1373; Pub. L. 111–350, § 5(a)(3), Jan. 4, 2011, 124 Stat. 3841.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+(a)5 U.S.C. 1009 (introductory clause).June 11, 1946, ch. 324, § 10 (introductory clause), 60 Stat. 243.
+
+
+In subsection (a), the words “This chapter applies, according to the provisions thereof,” are added to avoid the necessity of repeating the introductory clause of former section 1009 in sections 702–706.
+Subsection (b) is added on authority of section 2 of the Act of June 11, 1946, ch. 324, 60 Stat. 237, as amended, which is carried into section 55</akn:p></akn:content><akn:subsection eId="subsec_701_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) This chapter applies, according to the provisions thereof, except to the extent that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_701_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For the purpose of this chapter—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

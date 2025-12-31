@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/9011" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/9011/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/9011/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9011"><akn:num>9011</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 9011. Definitions
+In this subchapter and subchapter II:(1) Actual crop revenueThe term “actual crop revenue”, with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(b) of this title.
+
+
+(2) Agriculture risk coverageThe term “agriculture risk coverage” means coverage provided under section 9017 of this title.
+
+
+(3) Agriculture risk coverage guaranteeThe term “agriculture risk coverage guarantee”, with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(c) of this title.
+
+
+(4) Base acres(A) In generalThe term “base acres”, with respect to a covered commodity on a farm, means the number of acres in effect under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8718, and 8752 of this title, as in effect on September 30, 2013, subject to any reallocation, adjustment, or reduction under section 9012 of this title.
+
+
+(B) Inclusion of generic base acresThe term “base acres” includes any generic base acres planted to a covered commodity as determined in section 9014(b) of this title.
+
+
+
+(5) County coverageThe term “county coverage” means agriculture risk coverage selected under section 9015(b)(1) of this title to be obtained at the county level.
+
+
+(6) Covered commodity(A) In generalThe term “covered commodity” means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+
+
+(B) InclusionEffective beginning with the 2018 crop year, the term “covered commodity” includes seed cotton.
+
+
+
+(7) Effective priceThe term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 9016(b) of this title to determine whether price loss coverage payments are required to be provided for that crop year.
+
+
+(8) Effective reference priceTh</akn:p></akn:content><akn:subsection eId="subsec_9011_1"><akn:num>(1)</akn:num><akn:heading>Actual crop revenue</akn:heading><akn:content><akn:p>(1) Actual crop revenue The term “actual crop revenue”, with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(b) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_2"><akn:num>(2)</akn:num><akn:heading>Agriculture risk coverage</akn:heading><akn:content><akn:p>(2) Agriculture risk coverage The term “agriculture risk coverage” means coverage provided under section 9017 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_3"><akn:num>(3)</akn:num><akn:heading>Agriculture risk coverage guarantee</akn:heading><akn:content><akn:p>(3) Agriculture risk coverage guarantee The term “agriculture risk coverage guarantee”, with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(c) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_4"><akn:num>(4)</akn:num><akn:heading>Base acres</akn:heading><akn:content><akn:p>(4) Base acres</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_5"><akn:num>(5)</akn:num><akn:heading>County coverage</akn:heading><akn:content><akn:p>(5) County coverage The term “county coverage” means agriculture risk coverage selected under section 9015(b)(1) of this title to be obtained at the county level.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_6"><akn:num>(6)</akn:num><akn:heading>Covered commodity</akn:heading><akn:content><akn:p>(6) Covered commodity</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_7"><akn:num>(7)</akn:num><akn:heading>Effective price</akn:heading><akn:content><akn:p>(7) Effective price The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 9016(b) of this title to determine whether price loss coverage payments are required to be provided for that crop year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_8"><akn:num>(8)</akn:num><akn:heading>Effective reference price</akn:heading><akn:content><akn:p>(8) Effective reference price The term “effective reference price”, with respect to a covered commodity for a crop year, means the lesser of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_9"><akn:num>(9)</akn:num><akn:heading>Extra long staple cotton</akn:heading><akn:content><akn:p>(9) Extra long staple cotton The term “extra long staple cotton” means cotton that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9011_10"><akn:num>(10)</akn:num><akn:heading>Generic base acres</akn:heading><akn:content><akn:p>(10) Generic base acres The term “generic base acres” means the number of base acres for cotton in effect under section 8702 of this title, as adjusted pursuant to section 8711 of this title, as in effect on September 30, 2013, subject to any adjustment or reduction under section 9012 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

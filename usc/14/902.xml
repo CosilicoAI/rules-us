@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_902"><akn:num>902</akn:num><akn:heading>Employment of draftsmen and engineers</akn:heading><akn:content><akn:p>§ 902. Employment of draftsmen and engineers
+The Coast Guard may employ temporarily, at the seat of government, draftsmen and engineers for the preparation of plans and specifications for vessels, lighthouses, aids to navigation, and other projects for the Coast Guard that may be authorized or appropriated for by Congress, to be paid from the appropriations applicable to such projects.
+(Aug. 4, 1949, ch. 393, 63 Stat. 550, § 653; renumbered § 902, Pub. L. 115–282, title I, § 107(b), Dec. 4, 2018, 132 Stat. 4205.)
+
+Historical and Revision NotesBased on title 33, U.S.C., 1946 ed., § 716 (June 17, 1910, ch. 301, § 9, 36 Stat. 538; July 27, 1939, ch. 388, § 1, 53 Stat. 1130).
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+Editorial Notes
+Amendments2018—Pub. L. 115–282 renumbered section 653 of this title as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

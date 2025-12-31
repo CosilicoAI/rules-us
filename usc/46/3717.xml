@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/3717" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/3717/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/3717/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3717"><akn:num>3717</akn:num><akn:heading>Marine safety information system</akn:heading><akn:content><akn:p>§ 3717. Marine safety information system(a) The Secretary shall establish a marine safety information system that shall contain information about each vessel to which this chapter applies that operates on the navigable waters of the United States, or that transfers oil or hazardous material in a port or place under the jurisdiction of the United States. In acquiring this information, the Secretary shall make full use of publicly available information. The Secretary may by regulation require the vessel to provide information that the Secretary considers necessary to carry out this subsection, including—(1) the name of each person with an ownership interest in the vessel;
+
+(2) details of compliance with the financial responsibility requirements of applicable laws or regulations;
+
+(3) registration information, including all changes in the name of the vessel;
+
+(4) the history of marine casualties and serious repair problems of the vessel; and
+
+(5) a record of all inspections and examinations of a vessel conducted under section 3714 of this title.
+
+
+(b) On written request from the Secretary, the head of each department, agency, or instrumentality of the United States Government shall provide available information that the Secretary considers necessary to confirm the information received under subsection (a) of this section.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 527.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+371746:391a(16)
+
+
+Section 3717 requires the Secretary to establish a marine safety information system which is to contain selected information on any tank vessel, foreign or domestic, that comes within the jurisdiction of the United States. This information must be recorded and maintained up-to-date and is available from a number of sources. In some instances, this information is required as a condition of entry. This information shall include certain ownership interests, financial responsibility information, all registe</akn:p></akn:content><akn:subsection eId="subsec_3717_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall establish a marine safety information system that shall contain information about each vessel to which this chapter applies that operates on the navigable waters of the United States, or that transfers oil or hazardous material in a port or place under the jurisdiction of the United States. In acquiring this information, the Secretary shall make full use of publicly available information. The Secretary may by regulation require the vessel to provide information that the Secretary considers necessary to carry out this subsection, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3717_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) On written request from the Secretary, the head of each department, agency, or instrumentality of the United States Government shall provide available information that the Secretary considers necessary to confirm the information received under subsection (a) of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1532" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1532/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1532/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1532"><akn:num>1532</akn:num><akn:heading>Rule of payment in concurrent proceedings</akn:heading><akn:content><akn:p>§ 1532. Rule of payment in concurrent proceedings
+Without prejudice to secured claims or rights in rem, a creditor who has received payment with respect to its claim in a foreign proceeding pursuant to a law relating to insolvency may not receive a payment for the same claim in a case under any other chapter of this title regarding the debtor, so long as the payment to other creditors of the same class is proportionately less than the payment the creditor has already received.
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 145.)
+
+Editorial Notes
+Prior ProvisionsSections 15101 to 151326 of prior chapter 15 were repealed by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
+Section 15101, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to definitions.
+Section 15102, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to a rule of construction.
+Section 15103, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652; Pub. L. 98–353, title III, §§ 311(b)(3), 318(b), July 10, 1984, 98 Stat. 355, 357, related to applicability of subchapters and sections.
+Section 15303, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to involuntary cases.
+Section 15321, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to eligibility to serve as trustee.
+Section 15322, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to qualification of trustee.
+Section 15324, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to removal of trustee or examiner.
+Section 15326, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to limitation on compensation of trustee.
+Section 15330, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to compensation of officers.
+Section 15343, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to examination of debtor.
+Section 15345, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654; Pub. L. 97–258, § 3(c), Sept. 13, 1982, 96 Stat. 1064, related to money of estates.
+Section 15701, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654, related t</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

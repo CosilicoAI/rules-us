@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/3703a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/3703a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/3703a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3703a"><akn:num>3703a</akn:num><akn:heading>Tank vessel construction standards</akn:heading><akn:content><akn:p>§ 3703a. Tank vessel construction standards(a) Except as otherwise provided in this section, a vessel to which this chapter applies shall be equipped with a double hull—(1) if it is constructed or adapted to carry, or carries, oil in bulk as cargo or cargo residue; and
+
+(2) when operating on the waters subject to the jurisdiction of the United States, including the Exclusive Economic Zone.
+
+
+(b) This section does not apply to—(1) a vessel used only to respond to a discharge of oil or a hazardous substance;
+
+(2) a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title equipped with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil;
+
+(3) a vessel documented under chapter 121 of this title that was equipped with a double hull before August 12, 1992;
+
+(4) a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
+
+(5) a vessel in the National Defense Reserve Fleet pursuant to section 57100.
+
+
+(c)(1) In this subsection, the age of a vessel is determined from the later of the date on which the vessel—(A) is delivered after original construction;
+
+(B) is delivered after completion of a major conversion; or
+
+(C) had its appraised salvage value determined by the Coast Guard and is qualified for documentation as a wrecked vessel under section 12112 of this title.
+
+
+(2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under</akn:p></akn:content><akn:subsection eId="subsec_3703a_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as otherwise provided in this section, a vessel to which this chapter applies shall be equipped with a double hull—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3703a_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) This section does not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3703a_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3703a_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3703a_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/4370j" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/4370j/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/4370j/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4370j"><akn:num>4370j</akn:num><akn:heading>Municipal Ombudsman</akn:heading><akn:content><akn:p>§ 4370j. Municipal Ombudsman(a) EstablishmentThere is established within the Office of the Administrator an Office of the Municipal Ombudsman, to be headed by a Municipal Ombudsman.
+
+
+(b) General dutiesThe duties of the Municipal Ombudsman shall include the provision of—(1) technical assistance to municipalities seeking to comply with the Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.]; and
+
+(2) information to the Administrator to help the Administrator ensure that agency policies are implemented by all offices of the Environmental Protection Agency, including regional offices.
+
+
+(c) Actions requiredThe Municipal Ombudsman shall work with appropriate offices at the headquarters and regional offices of the Environmental Protection Agency to ensure that a municipality seeking assistance is provided information regarding—(1) available Federal financial assistance for which the municipality is eligible;
+
+(2) flexibility available under the Federal Water Pollution Control Act; and
+
+(3) the opportunity to develop an integrated plan under section 402(s) of the Federal Water Pollution Control Act [33 U.S.C. 1342(s)].
+
+
+(d) Information sharingThe Municipal Ombudsman shall publish on the website of the Environmental Protection Agency—(1) general information relating to—(A) the technical assistance referred to in subsection (b)(1);
+
+(B) the financial assistance referred to in subsection (c)(1);
+
+(C) the flexibility referred to in subsection (c)(2); and
+
+(D) any resources developed by the Administrator related to integrated plans under section 402(s) of the Federal Water Pollution Control Act [33 U.S.C. 1342(s)]; and
+
+
+(2) a copy of each permit, order, or judicial consent decree that implements or incorporates such an integrated plan.
+
+
+(Pub. L. 115–436, § 4, Jan. 14, 2019, 132 Stat. 5560.)
+
+Editorial Notes
+
+References in TextThe Federal Water Pollution Control Act, referred to in subsec. (b)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500</akn:p></akn:content><akn:subsection eId="subsec_4370j_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment There is established within the Office of the Administrator an Office of the Municipal Ombudsman, to be headed by a Municipal Ombudsman.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4370j_b"><akn:num>(b)</akn:num><akn:heading>General duties</akn:heading><akn:content><akn:p>(b) General duties The duties of the Municipal Ombudsman shall include the provision of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4370j_c"><akn:num>(c)</akn:num><akn:heading>Actions required</akn:heading><akn:content><akn:p>(c) Actions required The Municipal Ombudsman shall work with appropriate offices at the headquarters and regional offices of the Environmental Protection Agency to ensure that a municipality seeking assistance is provided information regarding—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4370j_d"><akn:num>(d)</akn:num><akn:heading>Information sharing</akn:heading><akn:content><akn:p>(d) Information sharing The Municipal Ombudsman shall publish on the website of the Environmental Protection Agency—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

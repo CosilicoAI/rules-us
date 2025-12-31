@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8120" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8120/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8120/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8120"><akn:num>8120</akn:num><akn:heading>Report of injury</akn:heading><akn:content><akn:p>§ 8120. Report of injury
+Immediately after an injury to an employee which results in his death or probable disability, his immediate superior shall report to the Secretary of Labor. The Secretary may—(1) prescribe the information that the report shall contain;
+
+(2) require the immediate superior to make supplemental reports; and
+
+(3) obtain such additional reports and information from employees as are agreed on by the Secretary and the head of the employing agency.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 774(a).Sept. 7, 1916, ch. 458, § 24, 39 Stat. 747.
+ 5 U.S.C. 779.Sept. 7, 1916, ch. 458, § 28a, 39 Stat. 748.
+  Oct. 14, 1949, ch. 691, § 205(b), 63 Stat. 864.
+
+
+Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.</akn:p></akn:content><akn:subsection eId="subsec_8120_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) prescribe the information that the report shall contain;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8120_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) require the immediate superior to make supplemental reports; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8120_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) obtain such additional reports and information from employees as are agreed on by the Secretary and the head of the employing agency.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

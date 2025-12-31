@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/30D" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/30D/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/30D/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30D"><akn:num>30D</akn:num><akn:heading>Clean vehicle credit</akn:heading><akn:content><akn:p>§ 30D. Clean vehicle credit(a) Allowance of creditThere shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year.
+
+
+(b) Per vehicle dollar limitation(1) In generalThe amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.
+
+
+(2) Critical mineralsIn the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.
+
+
+(3) Battery componentsIn the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.
+
+
+
+(c) Application with other credits(1) Business credit treated as part of general business creditSo much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
+
+
+(2) Personal creditFor purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+
+
+
+(d) New clean vehicleFor purposes of this section—(1) In generalThe term “new clean vehicle” means a motor vehicle—(A) the original use of which commences with the taxpayer,
+
+(B) which is acquired for use or lease by the taxpayer and not for resale,
+
+(C) which is made by a qualified manufacturer,
+
+(D) which is treated as a motor vehicle for purposes of title II of the Clean Air Act,
+
+(E) whic</akn:p></akn:content><akn:subsection eId="subsec_30D_a"><akn:num>(a)</akn:num><akn:heading>Allowance of credit</akn:heading><akn:content><akn:p>(a) Allowance of credit There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30D_b"><akn:num>(b)</akn:num><akn:heading>Per vehicle dollar limitation</akn:heading><akn:content><akn:p>(b) Per vehicle dollar limitation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30D_c"><akn:num>(c)</akn:num><akn:heading>Application with other credits</akn:heading><akn:content><akn:p>(c) Application with other credits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30D_d"><akn:num>(d)</akn:num><akn:heading>New clean vehicle</akn:heading><akn:content><akn:p>(d) New clean vehicle For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30D_e"><akn:num>(e)</akn:num><akn:heading>Critical mineral and battery component requirements</akn:heading><akn:content><akn:p>(e) Critical mineral and battery component requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30D_f"><akn:num>(f)</akn:num><akn:heading>Special rules</akn:heading><akn:content><akn:p>(f) Special rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30D_g"><akn:num>(g)</akn:num><akn:heading>Transfer of credit</akn:heading><akn:content><akn:p>(g) Transfer of credit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30D_h"><akn:num>(h)</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>(h) Termination No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/60101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/60101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/60101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60101"><akn:num>60101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 60101. Definitions(a) General.—In this chapter—(1) “existing liquefied natural gas facility”—(A) means a liquefied natural gas facility for which an application to approve the site, construction, or operation of the facility was filed before March 1, 1978, with—(i) the Federal Energy Regulatory Commission (or any predecessor); or
+
+(ii) the appropriate State or local authority, if the facility is not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); but
+
+
+(B) does not include a facility on which construction is begun after November 29, 1979, without the approval;
+
+
+(2) “gas” means natural gas, flammable gas, or toxic or corrosive gas;
+
+(3) “gas pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used in transporting gas or treating gas during its transportation;
+
+(4) “hazardous liquid” means—(A) petroleum or a petroleum product;
+
+(B) nonpetroleum fuel, including biofuel, that is flammable, toxic, or corrosive or would be harmful to the environment if released in significant quantities; and
+
+(C) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
+
+
+(5) “hazardous liquid pipeline facility” includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
+
+(6) “interstate gas pipeline facility” means a gas pipeline facility—(A) used to transport gas; and
+
+(B) subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.);
+
+
+(7) “interstate hazardous liquid pipeline facility” means a hazardous liquid pipeline facility used to transport hazardous liquid in interstate or foreign commerce;
+
+(8) “interstate or foreign commerce”—(A) related to gas, means commerce—(i) between a place in a State and a place outside that State; or
+</akn:p></akn:content><akn:subsection eId="subsec_60101_a"><akn:num>(a)</akn:num><akn:heading>General.—</akn:heading><akn:content><akn:p>(a) In this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60101_b"><akn:num>(b)</akn:num><akn:heading>Gathering Lines.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

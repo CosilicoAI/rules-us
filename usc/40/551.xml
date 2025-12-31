@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/551" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/551/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/551/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_551"><akn:num>551</akn:num><akn:heading>Donations to American Red Cross</akn:heading><akn:content><akn:p>§ 551. Donations to American Red Cross
+The Administrator of General Services, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may donate to the American National Red Cross for charitable purposes property that the American National Red Cross processed, produced, or donated and that has been determined to be surplus property.
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+55140:484(l).June 30, 1949, ch. 288, title II, § 203(l), as added Aug. 1, 1955, ch. 442, 69 Stat. 430.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

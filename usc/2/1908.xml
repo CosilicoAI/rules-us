@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/1908" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/1908/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/1908/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1908"><akn:num>1908</akn:num><akn:heading>Legal representation authority</akn:heading><akn:content><akn:p>§ 1908. Legal representation authority(a) In general(1) Authorization of representationAny counsel described under paragraph (2) may for the purposes of providing legal assistance and representation to the United States Capitol Police Board or the United States Capitol Police enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof, without compliance with any requirement for admission to practice before such court.
+
+
+(2) CounselParagraph (1) refers to—(A) the General Counsel to the Chief of Police and the United States Capitol Police;
+
+(B) the Employment Counsel to the Chief of Police and the United States Capitol Police;
+
+(C) any attorney employed in the Office of the General Counsel for the United States Capitol Police or the Office of Employment Counsel for the United States Capitol Police;
+
+(D) the counsel for, or any attorney employed by, any successor office of either office described under subparagraph (C); and
+
+(E) any attorney retained by contract with either office described under subparagraph (C).
+
+
+
+(b) Limitations(1) Direction for appearanceEntrance of appearance authorized under subsection (a) shall be subject to the direction of the Capitol Police Board.
+
+
+(2) United States Supreme CourtThe authority under subsection (a) shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
+
+
+
+(c) Effective dateThis section shall apply to fiscal year 2004, and each fiscal year thereafter.
+
+
+(Pub. L. 108–83, title I, § 1002, Sept. 30, 2003, 117 Stat. 1020; Pub. L. 111–145, §§ 3(b)(1), 4(a)(1), Mar. 4, 2010, 124 Stat. 52.)
+
+Editorial Notes
+Codification
+Section is from the Legislative Branch Appropriations Act, 2004.
+
+Amendments2010—Subsec. (a)(2)(A). Pub. L. 111–145, § 3(b)(1), substituted “the General Counsel to the Chief of Police and the United States Capitol Police” for “the General Counsel for the United States Capitol Police Board and the </akn:p></akn:content><akn:subsection eId="subsec_1908_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1908_b"><akn:num>(b)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(b) Limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1908_c"><akn:num>(c)</akn:num><akn:heading>Effective date</akn:heading><akn:content><akn:p>(c) Effective date This section shall apply to fiscal year 2004, and each fiscal year thereafter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

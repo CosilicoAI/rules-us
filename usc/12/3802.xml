@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/3802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/3802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/3802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3802"><akn:num>3802</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3802. Definitions
+As used in this chapter—(1) the term “alternative mortgage transaction” means a loan or credit sale secured by an interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and
+
+(2) the term “housing creditor” means—(A) a depository institution, as defined in section 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980;
+
+(B) a lender approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act [12 U.S.C. 1701 et seq.];
+
+(C) any person who regularly makes loans, credit sales, or advances secured by interests in properties referred to in paragraph (1); or
+
+(D) any transferee of any of them.
+
+
+A person is not a “housing creditor” with respect to a specific alternative mortgage transaction if, except for this chapter, in order to enter into that transaction, the person would be required to comply with licensing requirements imposed under State law, unless such person is licensed under applicable State law and such person remains, or becomes, subject to the applicable regulatory requirements and enforcement mechanisms provided by State law.
+
+(Pub. L. 97–320, title VIII, § 803, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 111–203, title X, § 1083(a)(1), July 21, 2010, 124 Stat. 2080.)
+
+Editorial Notes
+
+References in TextSection 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980, referred to in par. (2)(A), is section 501(a)(2) of Pub. L. 96–221, title V, Mar. 31, 1980, 94 Stat. 161, which is set out as a note under section 1735f–7 of this title.
+The National Housing Act, referred to in par. (2)(B), is act June 27, 19</akn:p></akn:content><akn:subsection eId="subsec_3802_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “alternative mortgage transaction” means a loan or credit sale secured by an interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3802_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “housing creditor” means— A person is not a “housing creditor” with respect to a specific alternative mortgage transaction if, except for this chapter, in order to enter into that transaction, the person would be required to comply with licensing requirements imposed under State law, unless such person is licensed under applicable State law and such person remains, or becomes, subject to the applicable regulatory requirements and enforcement mechanisms provided by State law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

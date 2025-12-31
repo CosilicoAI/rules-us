@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/926" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/926/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/926/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_926"><akn:num>926</akn:num><akn:heading>Center of Excellence for Maritime Domain Awareness</akn:heading><akn:content><akn:p>§ 926. Center of Excellence for Maritime Domain Awareness(a) EstablishmentThe Secretary shall establish a university-based Center for Excellence for Maritime Domain Awareness following the merit-review processes and procedures that have been established by the Secretary for selecting university program centers of excellence.
+
+
+(b) DutiesThe Center established under subsection (a) shall—(1) prioritize its activities based on the “National Plan To Improve Maritime Domain Awareness” published by the Department in October 2005;
+
+(2) recognize the extensive previous and ongoing work and existing competence in the field of maritime domain awareness at numerous academic and research institutions, such as the Naval Postgraduate School;
+
+(3) leverage existing knowledge and continue development of a broad base of expertise within academia and industry in maritime domain awareness; and
+
+(4) provide educational, technical, and analytical assistance to Federal agencies with responsibilities for maritime domain awareness, including the Coast Guard, to focus on the need for interoperability, information sharing, and common information technology standards and architecture.
+
+
+(Pub. L. 109–347, title I, § 128, Oct. 13, 2006, 120 Stat. 1900.)</akn:p></akn:content><akn:subsection eId="subsec_926_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary shall establish a university-based Center for Excellence for Maritime Domain Awareness following the merit-review processes and procedures that have been established by the Secretary for selecting university program centers of excellence.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_926_b"><akn:num>(b)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(b) Duties The Center established under subsection (a) shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

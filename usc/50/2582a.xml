@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2582a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2582a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2582a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2582a"><akn:num>2582a</akn:num><akn:heading>Future-years defense environmental cleanup plan</akn:heading><akn:content><akn:p>§ 2582a. Future-years defense environmental cleanup plan(a) In generalThe Secretary of Energy shall submit to Congress each year, at or about the same time that the President’s budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, a future-years defense environmental cleanup plan that—(1) reflects the estimated expenditures and proposed appropriations included in that budget for the Department of Energy for defense environmental cleanup; and
+
+(2) covers a period that includes the fiscal year for which that budget is submitted and not less than the four succeeding fiscal years.
+
+
+(b) ElementsEach future-years defense environmental cleanup plan required by subsection (a) shall contain the following:(1) A detailed description of the projects and activities relating to defense environmental cleanup to be carried out during the period covered by the plan at the sites specified in subsection (c) and with respect to the activities specified in subsection (d).
+
+(2) A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support such projects and activities.
+
+(3) With respect to each site specified in subsection (c), the following:(A) A statement of each milestone included in an enforceable agreement governing cleanup and waste remediation for that site for each fiscal year covered by the plan.
+
+(B) For each such milestone, a statement with respect to whether each such milestone will be met in each such fiscal year.
+
+(C) For any milestone that will not be met, an explanation of why the milestone will not be met and the date by which the milestone is expected to be met.
+
+(D) For any milestone that has been missed, renegotiated, or postponed, a statement of the current milestone, the original milestone, and any interim milestones.
+
+
+
+(c) Sites specifiedThe sites specified in this subsection are the following:(1) The Idaho National Laboratory, Idaho.
+
+(2) The Waste Isolation Pilot Plant, Carlsbad,</akn:p></akn:content><akn:subsection eId="subsec_2582a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Energy shall submit to Congress each year, at or about the same time that the President’s budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, a future-years defense environmental cleanup plan that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2582a_b"><akn:num>(b)</akn:num><akn:heading>Elements</akn:heading><akn:content><akn:p>(b) Elements Each future-years defense environmental cleanup plan required by subsection (a) shall contain the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2582a_c"><akn:num>(c)</akn:num><akn:heading>Sites specified</akn:heading><akn:content><akn:p>(c) Sites specified The sites specified in this subsection are the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2582a_d"><akn:num>(d)</akn:num><akn:heading>Activities specified</akn:heading><akn:content><akn:p>(d) Activities specified The activities specified in this subsection are the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

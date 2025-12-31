@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/11105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/11105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/11105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11105"><akn:num>11105</akn:num><akn:heading>Wages on discharge when vessel sold</akn:heading><akn:content><akn:p>§ 11105. Wages on discharge when vessel sold(a) When a vessel of the United States is sold in a foreign country, the master shall deliver to the consular officer a certified crew list and the agreement required by this part. The master shall pay each seaman the wages due the seaman and provide the seaman with employment on board another vessel of the United States bound for the port of original engagement of the seaman or to another port agreed on. If employment cannot be provided, the master shall—(1) provide the seaman with the means to return to the port of original engagement;
+
+(2) provide the seaman passage to the port of original engagement; or
+
+(3) deposit with the consular officer an amount of money considered sufficient by the officer to provide the seaman with maintenance and passage home.
+
+
+(b) The consular officer shall endorse on the agreement the particulars of the payment, provision, or deposit made under this section.
+
+(c) An owner of a vessel is liable to the United States Government for a civil penalty of $500 if the master does not comply with this section.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 579.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1110546:684
+
+
+Section 11105 provides that when a United States vessel is sold in a foreign port, the seamen must be provided employment on another vessel, or passage to the port of original shipment.</akn:p></akn:content><akn:subsection eId="subsec_11105_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) When a vessel of the United States is sold in a foreign country, the master shall deliver to the consular officer a certified crew list and the agreement required by this part. The master shall pay each seaman the wages due the seaman and provide the seaman with employment on board another vessel of the United States bound for the port of original engagement of the seaman or to another port agreed on. If employment cannot be provided, the master shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11105_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The consular officer shall endorse on the agreement the particulars of the payment, provision, or deposit made under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11105_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) An owner of a vessel is liable to the United States Government for a civil penalty of $500 if the master does not comply with this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

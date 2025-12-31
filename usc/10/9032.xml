@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/9032" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/9032/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/9032/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9032"><akn:num>9032</akn:num><akn:heading>The Air Staff: general duties</akn:heading><akn:content><akn:p>§ 9032. The Air Staff: general duties(a) The Air Staff shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force, and the Chief of Staff of the Air Force.
+
+(b) Under the authority, direction, and control of the Secretary of the Air Force, the Air Staff shall—(1) subject to subsections (c) and (d) of section 9014 of this title, prepare for such employment of the Air Force, and for such recruiting, organizing, supplying, equipping (including those aspects of research and development assigned by the Secretary of the Air Force), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Air Force, as will assist in the execution of any power, duty, or function of the Secretary or the Chief of Staff;
+
+(2) investigate and report upon the efficiency of the Air Force and its preparation to support military operations by combatant commands;
+
+(3) prepare detailed instructions for the execution of approved plans and supervise the execution of those plans and instructions;
+
+(4) as directed by the Secretary or the Chief of Staff, coordinate the action of organizations of the Air Force; and
+
+(5) perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
+
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 490, § 8032; Pub. L. 85–599, § 4(h), Aug. 6, 1958, 72 Stat. 517; Pub. L. 99–433, title V, § 522(b), Oct. 1, 1986, 100 Stat. 1060; renumbered § 9032 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+8032(a)8032(b)10:1815(a).10:1815(b).Sept. 19, 1951, ch. 407, § 205, 65 Stat. 329.
+
+
+In subsection (a), the word “furnish” is substituted for the word “render”.
+In subsection (b)(1), the words “power, duty, or function of” are substituted for the words “power vested in, duty imposed upon, or function assigned to”.
+</akn:p></akn:content><akn:subsection eId="subsec_9032_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Air Staff shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force, and the Chief of Staff of the Air Force.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9032_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Under the authority, direction, and control of the Secretary of the Air Force, the Air Staff shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

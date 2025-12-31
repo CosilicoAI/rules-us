@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/731" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/731/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/731/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_731"><akn:num>731</akn:num><akn:heading>Extent of recognition of gain or loss on distribution</akn:heading><akn:content><akn:p>§ 731. Extent of recognition of gain or loss on distribution(a) PartnersIn the case of a distribution by a partnership to a partner—(1) gain shall not be recognized to such partner, except to the extent that any money distributed exceeds the adjusted basis of such partner’s interest in the partnership immediately before the distribution, and
+
+(2) loss shall not be recognized to such partner, except that upon a distribution in liquidation of a partner’s interest in a partnership where no property other than that described in subparagraph (A) or (B) is distributed to such partner, loss shall be recognized to the extent of the excess of the adjusted basis of such partner’s interest in the partnership over the sum of—(A) any money distributed, and
+
+(B) the basis to the distributee, as determined under section 732, of any unrealized receivables (as defined in section 751(c)) and inventory (as defined in section 751(d)).
+
+
+
+Any gain or loss recognized under this subsection shall be considered as gain or loss from the sale or exchange of the partnership interest of the distributee partner.
+
+(b) PartnershipsNo gain or loss shall be recognized to a partnership on a distribution to a partner of property, including money.
+
+
+(c) Treatment of marketable securities(1) In generalFor purposes of subsection (a)(1) and section 737—(A) the term “money” includes marketable securities, and
+
+(B) such securities shall be taken into account at their fair market value as of the date of the distribution.
+
+
+(2) Marketable securitiesFor purposes of this subsection:(A) In generalThe term “marketable securities” means financial instruments and foreign currencies which are, as of the date of the distribution, actively traded (within the meaning of section 1092(d)(1)).
+
+
+(B) Other propertySuch term includes—(i) any interest in—(I) a common trust fund, or
+
+(II) a regulated investment company which is offering for sale or has outstanding any redeemable security (as defined in section 2(a)(32) of the</akn:p></akn:content><akn:subsection eId="subsec_731_a"><akn:num>(a)</akn:num><akn:heading>Partners</akn:heading><akn:content><akn:p>(a) Partners In the case of a distribution by a partnership to a partner— Any gain or loss recognized under this subsection shall be considered as gain or loss from the sale or exchange of the partnership interest of the distributee partner.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_731_b"><akn:num>(b)</akn:num><akn:heading>Partnerships</akn:heading><akn:content><akn:p>(b) Partnerships No gain or loss shall be recognized to a partnership on a distribution to a partner of property, including money.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_731_c"><akn:num>(c)</akn:num><akn:heading>Treatment of marketable securities</akn:heading><akn:content><akn:p>(c) Treatment of marketable securities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_731_d"><akn:num>(d)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(d) Exceptions This section shall not apply to the extent otherwise provided by section 736 (relating to payments to a retiring partner or a deceased partner’s successor in interest), section 751 (relating to unrealized receivables and inventory items), and section 737 (relating to recognition of precontribution gain in case of certain distributions).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

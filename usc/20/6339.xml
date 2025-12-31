@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/6339" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/6339/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/6339/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6339"><akn:num>6339</akn:num><akn:heading>Carryover and waiver</akn:heading><akn:content><akn:p>§ 6339. Carryover and waiver(a) Limitation on carryoverNotwithstanding section 1225(b) of this title or any other provision of law, not more than 15 percent of the funds allocated to a local educational agency for any fiscal year under this subpart (but not including funds received through any reallocation under this subpart) may remain available for obligation by such agency for one additional fiscal year.
+
+
+(b) WaiverA State educational agency may, once every 3 years, waive the percentage limitation in subsection (a) if—(1) the agency determines that the request of a local educational agency is reasonable and necessary; or
+
+(2) supplemental appropriations for this subpart become available.
+
+
+(c) ExclusionThe percentage limitation under subsection (a) shall not apply to any local educational agency that receives less than $50,000 under this subpart for any fiscal year.
+
+
+(Pub. L. 89–10, title I, § 1127, as added Pub. L. 107–110, title I, § 101, Jan. 8, 2002, 115 Stat. 1534.)
+
+Editorial Notes
+Prior ProvisionsA prior section 1127 of Pub. L. 89–10 was classified to section 6338 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.</akn:p></akn:content><akn:subsection eId="subsec_6339_a"><akn:num>(a)</akn:num><akn:heading>Limitation on carryover</akn:heading><akn:content><akn:p>(a) Limitation on carryover Notwithstanding section 1225(b) of this title or any other provision of law, not more than 15 percent of the funds allocated to a local educational agency for any fiscal year under this subpart (but not including funds received through any reallocation under this subpart) may remain available for obligation by such agency for one additional fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6339_b"><akn:num>(b)</akn:num><akn:heading>Waiver</akn:heading><akn:content><akn:p>(b) Waiver A State educational agency may, once every 3 years, waive the percentage limitation in subsection (a) if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6339_c"><akn:num>(c)</akn:num><akn:heading>Exclusion</akn:heading><akn:content><akn:p>(c) Exclusion The percentage limitation under subsection (a) shall not apply to any local educational agency that receives less than $50,000 under this subpart for any fiscal year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

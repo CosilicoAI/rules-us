@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101"><akn:num>101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 101. Definitions(a) In General.—The following definitions apply in this title:(1) The term “United States”, in a geographic sense, means the States and the District of Columbia.
+
+[(2) Repealed. Pub. L. 109–163, div. A, title X, § 1057(a)(1), Jan. 6, 2006, 119 Stat. 3440.]
+
+(3) The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Commonwealth.
+
+(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard.
+
+(5) The term “uniformed services” means—(A) the armed forces;
+
+(B) the commissioned corps of the National Oceanic and Atmospheric Administration; and
+
+(C) the commissioned corps of the Public Health Service.
+
+
+(6) The term “department”, when used with respect to a military department, means the executive part of the department and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of the department. When used with respect to the Department of Defense, such term means the executive part of the department, including the executive parts of the military departments, and all field headquarters, forces, reserve components, installations, activities, and functions under the control or supervision of the Secretary of Defense, including those of the military departments.
+
+(7) The term “executive part of the department” means the executive part of the Department of Defense, Department of the Army, Department of the Navy, or Department of the Air Force, as the case may be, at the seat of government.
+
+(8) The term “military departments” means the Department of the Army, the Department of the Navy, and the Department of the Air Force.
+
+(9) The term “Secretary concerned” means—(A) the Secretary of the Army, with respect to matters concerning the Army;
+
+(B) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Cor</akn:p></akn:content><akn:subsection eId="subsec_101_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The following definitions apply in this title:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_b"><akn:num>(b)</akn:num><akn:heading>Personnel Generally.—</akn:heading><akn:content><akn:p>(b) The following definitions relating to military personnel apply in this title:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_c"><akn:num>(c)</akn:num><akn:heading>Reserve Components.—</akn:heading><akn:content><akn:p>(c) The following definitions relating to the reserve components apply in this title:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_d"><akn:num>(d)</akn:num><akn:heading>Duty Status.—</akn:heading><akn:content><akn:p>(d) The following definitions relating to duty status apply in this title:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_e"><akn:num>(e)</akn:num><akn:heading>Space Force.—</akn:heading><akn:content><akn:p>(e) The following definitions relating to members of the Space Force apply in this title:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_f"><akn:num>(f)</akn:num><akn:heading>Facilities and Operations.—</akn:heading><akn:content><akn:p>(f) The following definitions relating to facilities and operations apply in this title:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_g"><akn:num>(g)</akn:num><akn:heading>Rules of Construction.—</akn:heading><akn:content><akn:p>(g) In this title—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_h"><akn:num>(h)</akn:num><akn:heading>Reference to Title 1 Definitions.—</akn:heading><akn:content><akn:p>(h) For other definitions applicable to this title, see sections 1 through 5 of title 1.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

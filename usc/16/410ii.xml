@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/410ii" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/410ii/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/410ii/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_410ii"><akn:num>410ii</akn:num><akn:heading>Findings and purpose</akn:heading><akn:content><akn:p>§ 410ii. Findings and purpose(a) The Congress finds that—(1) archeological research in the San Juan Basin conducted over the past several years has greatly increased public knowledge of the scope of the prehistoric culture referred to as Chacoan Anasazi;
+
+(2) the discoveries and the increased general interest in the Chaco phenomenon have come at a time when the San Juan Basin is experiencing extensive exploration and development for a wide variety of energy-related resources, including coal, uranium, oil, and natural gas;
+
+(3) development of the San Juan Basin’s important natural resources and the valid existing rights of private property owners will not be adversely affected by the preservation of the archeological integrity of the area; and
+
+(4) in light of the national significance of the Chacoan sites and the urgent need to protect them, continued cooperation between Federal agencies and private corporations is necessary to provide for development in the San Juan Basin in a manner compatible with preservation and archeological research.
+
+
+(b) It is the purpose of this subchapter to recognize the unique archeological resources associated with the prehistoric Chacoan culture in the San Juan Basin and surrounding areas; to provide for the preservation and interpretation of these resources; and to facilitate research activities associated with these resources.
+
+(Pub. L. 96–550, title V, § 501, Dec. 19, 1980, 94 Stat. 3227; Pub. L. 104–11, § 2, May 18, 1995, 109 Stat. 158.)
+
+Editorial Notes
+Amendments1995—Subsec. (b). Pub. L. 104–11 substituted “San Juan Basin and surrounding areas” for “San Juan Basin”.
+
+Statutory Notes and Related Subsidiaries
+Short Title of 2004 AmendmentPub. L. 108–413, § 1, Oct. 30, 2004, 118 Stat. 2325, provided that: “This Act [enacting provisions set out as a note under section 410ii–6 of this title] may be cited as the ‘Hibben Center Act’.”
+
+
+Short Title of 1995 AmendmentPub. L. 104–11, § 1, May 18, 1995, 109 Stat. 158, provided that: “This </akn:p></akn:content><akn:subsection eId="subsec_410ii_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_410ii_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) It is the purpose of this subchapter to recognize the unique archeological resources associated with the prehistoric Chacoan culture in the San Juan Basin and surrounding areas; to provide for the preservation and interpretation of these resources; and to facilitate research activities associated with these resources.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

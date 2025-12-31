@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/398" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/398/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/398/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_398"><akn:num>398</akn:num><akn:heading>Military information support operations in information environment</akn:heading><akn:content><akn:p>§ 398. Military information support operations in information environment(a) Congressional Notification Requirement.—(1) Not later than 48 hours after the execution of any new military information support operation plan (in this section referred to as a “MISO plan”) approved by the commander of a combatant command, or any change in scope of any existing MISO plan, including any underlying MISO supporting plan, the Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of such approval or execution of change in scope.
+
+(2) A notification under paragraph (1) with respect to a MISO plan shall include each of the following:(A) A description of the military information support operation program (in this section referred to as a “MISO program”) supported by the MISO plan.
+
+(B) A description of the objectives of the MISO plan.
+
+(C) A description of the intended target audience for military information support operation activities under the MISO plan.
+
+(D) A description of the tactics, techniques, and procedures to be used in executing the MISO plan.
+
+(E) A description of the personnel engaged in supporting or facilitating the operation.
+
+(F) The amount of funding anticipated to be obligated and expended to execute the MISO plan during the current and subsequent fiscal years.
+
+(G) The expected duration and desired outcome of the MISO plan.
+
+(H) Any other elements the Secretary determines appropriate.
+
+
+(3) To the maximum extent practicable, the Secretary shall ensure that the congressional defense committees are notified promptly of any unauthorized disclosure of a clandestine military support operation covered by this section. A notification under this subsection may be verbal or written, but in the event of a verbal notification, the Secretary shall provide a written notification by not later than 48 hours after the provision of the verbal notification.
+
+
+(b) Annual Report.—Not later than 90 days after the last day of any fisc</akn:p></akn:content><akn:subsection eId="subsec_398_a"><akn:num>(a)</akn:num><akn:heading>Congressional Notification Requirement.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_398_b"><akn:num>(b)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(b) Not later than 90 days after the last day of any fiscal year during which the Secretary conducts a MISO plan, the Secretary shall submit to the congressional defense committees a report on all such MISO plans conducted during such fiscal year. Such report shall include each of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_398_c"><akn:num>(c)</akn:num><akn:heading>Prohibition on Clandestine Operations Designed to Influence Opinions and Politics in United States.—</akn:heading><akn:content><akn:p>(c) None of the funds authorized to be appropriated or otherwise made available for the Department of Defense for any fiscal year may be used to conduct a clandestine military information support operation that is designed to influence—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

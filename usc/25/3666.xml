@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/3666" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/3666/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/3666/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3666"><akn:num>3666</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 3666. Authorization of appropriations
+For purposes of carrying out the activities under this subchapter, there are authorized to be appropriated such sums as are necessary for fiscal years 2011 through 2015.
+(Pub. L. 106–559, title I, § 107, formerly § 106, Dec. 21, 2000, 114 Stat. 2781; renumbered § 107 and amended Pub. L. 111–211, title II, §§ 214(a)(2)(A), 242(b)(3)(A), July 29, 2010, 124 Stat. 2270, 2292.)
+
+Editorial Notes
+Amendments2010—Pub. L. 111–211, § 242(b)(3)(A), substituted “2011 through 2015” for “2000 through 2004”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

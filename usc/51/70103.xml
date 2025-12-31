@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/70103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/70103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/70103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70103"><akn:num>70103</akn:num><akn:heading>Commercial payloads on space launch system</akn:heading><akn:content><akn:p>§ 70103. Commercial payloads on space launch system(a) Definitions.—In this section:(1) Launch vehicle.—The term “launch vehicle” means any vehicle constructed for the purpose of operating in, or placing a payload in, outer space.
+
+(2) Payload.—The term “payload” means an object which a person undertakes to place in outer space by means of a launch vehicle, and includes subcomponents of the launch vehicle specifically designed or adapted for that object.
+
+
+(b) In General.—Commercial payloads may not be accepted for launch as primary payloads on the space launch system unless the Administrator determines that—(1) the payload requires the unique capabilities of the space launch system; or
+
+(2) launching of the payload on the space launch system is important for either national security or foreign policy purposes.
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3428; Pub. L. 114–90, title I, § 117(a)(4), Nov. 25, 2015, 129 Stat. 718.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+70103(a)42 U.S.C. 2465c.Pub. L. 101–611, title II, § 203, Nov. 16, 1990, 104 Stat. 3206; Pub. L. 105–303, title II, § 203(2), Oct. 28, 1998, 112 Stat. 2855.
+70103(b)42 U.S.C. 2465f.Pub. L. 101–611, title II, § 206, Nov. 16, 1990, 104 Stat. 3207; Pub. L. 105–303, title II, § 203(4), Oct. 28, 1998, 112 Stat. 2855.
+
+
+In subsection (a), the words “this section” are substituted for “this title”, meaning title II of Public Law 101–611, because title II of Public Law 101–611 was previously repealed except for section 201 (a short title provision, classified to 42 U.S.C. 2451 note, in which neither defined term appears) and sections 203 (42 U.S.C. 2465c) and 206 (42 U.S.C. 2465f) of Public Law 101–611, which are restated in this section.
+
+Editorial Notes
+Amendments2015—Pub. L. 114–90 substituted “space launch system” for “space shuttle” in section catchline and wherever appearing in text.</akn:p></akn:content><akn:subsection eId="subsec_70103_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70103_b"><akn:num>(b)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(b) Commercial payloads may not be accepted for launch as primary payloads on the space launch system unless the Administrator determines that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

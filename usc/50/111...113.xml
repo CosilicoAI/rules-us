@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/111...113" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/111...113/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/111...113/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_111___113"><akn:num>111...113</akn:num><akn:heading>Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862</akn:heading><akn:content><akn:p>§§ 111 to 113. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862
+
+Section 111, act Apr. 19, 1918, ch. 58, § 1, 40 Stat. 533, related to prohibited acts affecting homing pigeons owned by United States. See section 45 of Title 18, Crimes and Criminal Procedure.
+
+
+Section 112, act Apr. 19, 1918, ch. 58, § 2, 40 Stat. 533, related to possession of pigeons as evidence of violation of law. See section 45 of Title 18.
+
+
+Section 113, act Apr. 19, 1918, ch. 58, § 3, 40 Stat. 533, related to punishment. See section 45 of Title 18.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of RepealRepeal of sections 111 to 113 effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as an Effective Date note preceding section 1 of Title 28, Judiciary and Judicial Procedure.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

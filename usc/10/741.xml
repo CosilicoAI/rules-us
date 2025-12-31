@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/741" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/741/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/741/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_741"><akn:num>741</akn:num><akn:heading>Rank: commissioned officers of the armed forces</akn:heading><akn:content><akn:p>§ 741. Rank: commissioned officers of the armed forces(a) Among the grades listed below, the grades of general and admiral are equivalent and are senior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows:
+
+
+
+
+
+
+Army, Air Force, Marine Corps, and Space ForceNavy and Coast Guard
+
+
+GeneralAdmiral.
+Lieutenant generalVice admiral.
+Major generalRear admiral.
+Brigadier generalRear admiral (lower half).
+ColonelCaptain.
+Lieutenant colonelCommander.
+MajorLieutenant commander.
+CaptainLieutenant.
+First lieutenantLieutenant (junior grade).
+Second lieutenantEnsign.
+
+
+
+
+(b) Rank among officers of the same grade or of equivalent grades is determined by comparing dates of rank. An officer whose date of rank is earlier than the date of rank of another officer of the same or equivalent grade is senior to that officer.
+
+(c) Rank among officers of the Army, Navy, Air Force, Marine Corps, and Space Force of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force.
+
+(d)(1) The date of rank of an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who holds a grade as the result of an original appointment shall be determined by the Secretary of the military department concerned at the time of such appointment. The date of rank of an officer of the Army, Navy, Air Force, Marine Corps, or Space Force who holds a grade as the result of an original appointment and who at the time of such appointment was awarded service credit for prior commissioned service or constructive credit for advanced education or training, or special experience shall be determined so as to reflect such prior commissioned service or constructive service. Determinations by the Secretary concerned under this paragraph shall b</akn:p></akn:content><akn:subsection eId="subsec_741_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Among the grades listed below, the grades of general and admiral are equivalent and are senior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows:
+
+
+
+
+
+
+Army, Air Force, Marine Corps, and Space ForceNavy and Coast Guard
+
+
+GeneralAdmiral.
+Lieutenant generalVice admiral.
+Major generalRear admiral.
+Brigadier generalRear admiral (lower half).
+ColonelCaptain.
+Lieutenant colonelCommander.
+MajorLieutenant commander.
+CaptainLieutenant.
+First lieutenantLieutenant (junior grade).
+Second lieutenantEnsign.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Rank among officers of the same grade or of equivalent grades is determined by comparing dates of rank. An officer whose date of rank is earlier than the date of rank of another officer of the same or equivalent grade is senior to that officer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Rank among officers of the Army, Navy, Air Force, Marine Corps, and Space Force of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_741_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

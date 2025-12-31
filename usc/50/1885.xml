@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/1885" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/1885/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/1885/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1885"><akn:num>1885</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1885. Definitions
+In this subchapter:(1) AssistanceThe term “assistance” means the provision of, or the provision of access to, information (including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.
+
+
+(2) Civil actionThe term “civil action” includes a covered civil action.
+
+
+(3) Congressional intelligence committeesThe term “congressional intelligence committees” means—(A) the Select Committee on Intelligence of the Senate; and
+
+(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+
+(4) ContentsThe term “contents” has the meaning given that term in section 1801(n) of this title.
+
+
+(5) Covered civil actionThe term “covered civil action” means a civil action filed in a Federal or State court that—(A) alleges that an electronic communication service provider furnished assistance to an element of the intelligence community; and
+
+(B) seeks monetary or other relief from the electronic communication service provider related to the provision of such assistance.
+
+
+(6) Electronic communication service providerThe term “electronic communication service provider” means—(A) a telecommunications carrier, as that term is defined in section 153 of title 47;
+
+(B) a provider of electronic communication service, as that term is defined in section 2510 of title 18;
+
+(C) a provider of a remote computing service, as that term is defined in section 2711 of title 18;
+
+(D) any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored;
+
+(E) any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—(i) a public accommodation facility, as that term is defined in section 1861(4) of this title;
+
+(ii) a dwelling, a</akn:p></akn:content><akn:subsection eId="subsec_1885_1"><akn:num>(1)</akn:num><akn:heading>Assistance</akn:heading><akn:content><akn:p>(1) Assistance The term “assistance” means the provision of, or the provision of access to, information (including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_2"><akn:num>(2)</akn:num><akn:heading>Civil action</akn:heading><akn:content><akn:p>(2) Civil action The term “civil action” includes a covered civil action.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_3"><akn:num>(3)</akn:num><akn:heading>Congressional intelligence committees</akn:heading><akn:content><akn:p>(3) Congressional intelligence committees The term “congressional intelligence committees” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_4"><akn:num>(4)</akn:num><akn:heading>Contents</akn:heading><akn:content><akn:p>(4) Contents The term “contents” has the meaning given that term in section 1801(n) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_5"><akn:num>(5)</akn:num><akn:heading>Covered civil action</akn:heading><akn:content><akn:p>(5) Covered civil action The term “covered civil action” means a civil action filed in a Federal or State court that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_6"><akn:num>(6)</akn:num><akn:heading>Electronic communication service provider</akn:heading><akn:content><akn:p>(6) Electronic communication service provider The term “electronic communication service provider” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_7"><akn:num>(7)</akn:num><akn:heading>Intelligence community</akn:heading><akn:content><akn:p>(7) Intelligence community The term “intelligence community” has the meaning given the term in section 3003(4) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_8"><akn:num>(8)</akn:num><akn:heading>Person</akn:heading><akn:content><akn:p>(8) Person The term “person” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1885_9"><akn:num>(9)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(9) State The term “State” means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

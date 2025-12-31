@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/201" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/201/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/201/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_201"><akn:num>201</akn:num><akn:heading>Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of p</akn:heading><akn:content><akn:p>§ 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance(a) Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.
+
+(b) Concurrence in Appointment.—(1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 (50 U.S.C. 3041(b)).
+
+(2) Paragraph (1) applies to the following positions:(A) The Director of the National Security Agency.
+
+(B) The Director of the National Reconnaissance Office.
+
+(C) The Director of the National Geospatial-Intelligence Agency.
+
+
+
+(c) Performance Evaluations.—(1) The Director of National Intelligence shall provide annually to the Secretary of Defense, for the Secretary’s consideration, an evaluation of the performance of the individuals holding the positions referred to in paragraph (2) in fulfilling their respective responsibilities with regard to the National Intelligence Program.
+
+(2) The positions referred to in paragraph (1) are the following:(A) The Director of the National Security Agency.
+
+(B) The Director of the National Reconnaissance Office.
+
+(C) The Director of the National Geospatial-Intelligence Agency.
+
+
+
+(Added Pub. L. 102–190, div. A, title IX, § 922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, § 1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, § 921(d)(4), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, § 931(a)(4), (5), (c)(2), Jan.</akn:p></akn:content><akn:subsection eId="subsec_201_a"><akn:num>(a)</akn:num><akn:heading>Consultation Regarding Appointment.—</akn:heading><akn:content><akn:p>(a) Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_201_b"><akn:num>(b)</akn:num><akn:heading>Concurrence in Appointment.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_201_c"><akn:num>(c)</akn:num><akn:heading>Performance Evaluations.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/717" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/717/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/717/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_717"><akn:num>717</akn:num><akn:heading>Agreements</akn:heading><akn:content><akn:p>§ 717. Agreements(a) In General.—In carrying out section 504(a)(4), the Commandant may—(1) enter into cooperative agreements, contracts, and other agreements with—(A) Federal entities;
+
+(B) other public or private entities in the United States, including academic entities; and
+
+(C) foreign governments with the concurrence of the Secretary of State; and
+
+
+(2) impose on and collect from an entity subject to an agreement or contract under paragraph (1) a fee to assist with expenses incurred in carrying out such section.
+
+
+(b) Deposit and Use of Fees.—Fees collected under this section shall be deposited in the general fund of the Treasury as offsetting receipts. The fees may be used, to the extent provided in advance in an appropriation law, only to carry out activities under section 504(a)(4).
+
+(Added Pub. L. 113–281, title II, § 206(b), Dec. 18, 2014, 128 Stat. 3025, § 102; renumbered § 717 and amended Pub. L. 115–282, title I, §§ 106(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4203, 4240.)
+
+Editorial Notes
+Amendments2018—Pub. L. 115–282, § 106(b), renumbered section 102 of this title as this section.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)” for “section 93(a)(4)” in introductory provisions.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)” for “section 93(a)(4)”.</akn:p></akn:content><akn:subsection eId="subsec_717_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In carrying out section 504(a)(4), the Commandant may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_717_b"><akn:num>(b)</akn:num><akn:heading>Deposit and Use of Fees.—</akn:heading><akn:content><akn:p>(b) Fees collected under this section shall be deposited in the general fund of the Treasury as offsetting receipts. The fees may be used, to the extent provided in advance in an appropriation law, only to carry out activities under section 504(a)(4).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

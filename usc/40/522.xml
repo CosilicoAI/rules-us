@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/522" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/522/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/522/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_522"><akn:num>522</akn:num><akn:heading>Reimbursement for transfer of excess property</akn:heading><akn:content><akn:p>§ 522. Reimbursement for transfer of excess property(a) In General.—Subject to subsections (b) and (c), the Administrator of General Services, with the approval of the Director of the Office of Management and Budget, shall prescribe the amount of reimbursement required for a transfer of excess property.
+
+(b) Reimbursement at Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of the property, as determined by the Administrator, if—(1) net proceeds are requested under section 574(a) of this title; or
+
+(2) either the transferor or the transferee agency (or the organizational unit affected) is—(A) subject to chapter 91 of title 31; or
+
+(B) an organization specified in section 321(c)(2) of this title.
+
+
+
+(c) Distribution Through General Services Administration Supply Centers.—Excess property determined by the Administrator to be suitable for distribution through the supply centers of the General Services Administration shall be retransferred at prices set by the Administrator with due regard to prices established under section 321(d) of this title.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1083; Pub. L. 109–284, § 6(1), (2), Sept. 27, 2006, 120 Stat. 1212.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+52240:483(a)(1) (last sentence).June 30, 1949, ch. 288, title II, § 202(a)(1) (last sentence), 63 Stat. 384; July 12, 1952, ch. 703, § 1(f), 66 Stat. 593.
+
+
+In subsection (a), the words “Director of the Office of Management and Budget” are substituted for “Director of the Bureau of the Budget” in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repe</akn:p></akn:content><akn:subsection eId="subsec_522_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Subject to subsections (b) and (c), the Administrator of General Services, with the approval of the Director of the Office of Management and Budget, shall prescribe the amount of reimbursement required for a transfer of excess property.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_522_b"><akn:num>(b)</akn:num><akn:heading>Reimbursement at Fair Value.—</akn:heading><akn:content><akn:p>(b) The amount of reimbursement required for a transfer of excess property is the fair value of the property, as determined by the Administrator, if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_522_c"><akn:num>(c)</akn:num><akn:heading>Distribution Through General Services Administration Supply Centers.—</akn:heading><akn:content><akn:p>(c) Excess property determined by the Administrator to be suitable for distribution through the supply centers of the General Services Administration shall be retransferred at prices set by the Administrator with due regard to prices established under section 321(d) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

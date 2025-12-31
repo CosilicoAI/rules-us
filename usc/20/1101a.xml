@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1101a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1101a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1101a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1101a"><akn:num>1101a</akn:num><akn:heading>Definitions; eligibility</akn:heading><akn:content><akn:p>§ 1101a. Definitions; eligibility(a) DefinitionsFor the purpose of this subchapter:(1) Educational and general expendituresThe term “educational and general expenditures” means the total amount expended by an institution for instruction, research, public service, academic support (including library expenditures), student services, institutional support, scholarships and fellowships, operation and maintenance expenditures for the physical plant, and any mandatory transfers that the institution is required to pay by law.
+
+
+(2) Eligible institutionThe term “eligible institution” means—(A) an institution of higher education—(i) that has an enrollment of needy students as required by subsection (b);
+
+(ii) except as provided in section 1103a(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, in comparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
+
+(iii) that is—(I) legally authorized to provide, and provides within the State, an educational program for which the institution awards a bachelor’s degree; or
+
+(II) a junior or community college;
+
+
+(iv) that is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be reliable authority as to the quality of training offered or that is, according to such an agency or association, making reasonable progress toward accreditation;
+
+(v) that meets such other requirements as the Secretary may prescribe; and
+
+(vi) that is located in a State; and
+
+
+(B) any branch of any institution of higher education described under subparagraph (A) that by itself satisfies the requirements contained in clauses (i) and (ii) of such subparagraph.
+
+
+For purposes of the determination of whether an institution is an eligible institution under this paragraph, the factor described under subparagraph (A)(i) shall be given twi</akn:p></akn:content><akn:subsection eId="subsec_1101a_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions For the purpose of this subchapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1101a_b"><akn:num>(b)</akn:num><akn:heading>Enrollment of needy students</akn:heading><akn:content><akn:p>(b) Enrollment of needy students For the purpose of this subchapter, the term “enrollment of needy students” means an enrollment at an institution with respect to which—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

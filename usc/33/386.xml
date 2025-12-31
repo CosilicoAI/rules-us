@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/386" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/386/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/386/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_386"><akn:num>386</akn:num><akn:heading>Commissioning private vessels for seizure of piratical vessels</akn:heading><akn:content><akn:p>§ 386. Commissioning private vessels for seizure of piratical vessels
+The President is authorized to instruct the commanders of the public-armed vessels of the United States, and to authorize the commanders of any other armed vessels sailing under the authority of any letters of marque and reprisal granted by Congress, or the commanders of any other suitable vessels, to subdue, seize, take, and, if on the high seas, to send into any port of the United States, any vessel or boat built, purchased, fitted out, or held as mentioned in section 385 of this title.
+(R.S. § 4298.)
+
+Editorial Notes
+Codification
+R.S. § 4298 derived from act Aug. 5, 1861, ch. 48, § 2, 12 Stat. 315.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/4004a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/4004a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/4004a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4004a"><akn:num>4004a</akn:num><akn:heading>South Florida harmful algal blooms and hypoxia</akn:heading><akn:content><akn:p>§ 4004a. South Florida harmful algal blooms and hypoxia(a) South FloridaIn this section, the term “South Florida” means—(1) all lands and waters within the administrative boundaries of the South Florida Water Management District;
+
+(2) regional coastal waters, including Biscayne Bay, the Caloosahatchee Estuary, Florida Bay, Indian River Lagoon, and St. Lucie River Estuary; and
+
+(3) the Florida Reef Tract.
+
+
+(b) Integrated assessment(1) Interim integrated assessmentNot later than 540 days after June 16, 2022, the Task Force, in accordance with the authority under section 4001 of this title, shall complete and submit to Congress and the President an interim integrated assessment.
+
+
+(2) Finalized integrated assessmentNot later than 3 years after June 16, 2022, the Task Force shall finalize, and submit to Congress and the President, the interim integrated assessment required by paragraph (1).
+
+
+(3) Contents of integrated assessmentThe integrated assessment required by paragraphs (1) and (2) shall examine the causes, consequences, and potential approaches to reduce harmful algal blooms and hypoxia in South Florida, and the status of, and gaps within, current harmful algal bloom and hypoxia research, monitoring, management, prevention, response, and control activities that directly affect the region by—(A) Federal agencies;
+
+(B) State agencies;
+
+(C) regional research consortia;
+
+(D) academia;
+
+(E) private industry;
+
+(F) nongovernmental organizations; and
+
+(G) Indian tribes (as defined in section 5304 of title 25).
+
+
+
+(c) Action plan(1) In generalNot later than 3 years and 180 days after June 16, 2022, the Task Force shall develop and submit to Congress a plan, based on the integrated assessment under subsection (b), for reducing, mitigating, and controlling harmful algal blooms and hypoxia in South Florida.
+
+
+(2) ContentsThe plan submitted under paragraph (1) shall—(A) address the monitoring needs identified in the integrated assessment under subsection (b);
+
+(B) develop a</akn:p></akn:content><akn:subsection eId="subsec_4004a_a"><akn:num>(a)</akn:num><akn:heading>South Florida</akn:heading><akn:content><akn:p>(a) South Florida In this section, the term “South Florida” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4004a_b"><akn:num>(b)</akn:num><akn:heading>Integrated assessment</akn:heading><akn:content><akn:p>(b) Integrated assessment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4004a_c"><akn:num>(c)</akn:num><akn:heading>Action plan</akn:heading><akn:content><akn:p>(c) Action plan</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

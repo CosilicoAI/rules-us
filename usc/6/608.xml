@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/608" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/608/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/608/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_608"><akn:num>608</akn:num><akn:heading>Prioritization</akn:heading><akn:content><akn:p>§ 608. Prioritization(a) In generalIn allocating funds among States and high-risk urban areas applying for grants under section 604 or 605 of this title, the Administrator shall consider, for each State or high-risk urban area—(1) its relative threat, vulnerability, and consequences from acts of terrorism, including consideration of—(A) its population, including appropriate consideration of military, tourist, and commuter populations;
+
+(B) its population density;
+
+(C) its history of threats, including whether it has been the target of a prior act of terrorism;
+
+(D) its degree of threat, vulnerability, and consequences related to critical infrastructure (for all critical infrastructure sectors) or key resources identified by the Administrator or the State homeland security plan, including threats, vulnerabilities, and consequences related to critical infrastructure or key resources in nearby jurisdictions;
+
+(E) the most current threat assessments available to the Department;
+
+(F) whether the State has, or the high-risk urban area is located at or near, an international border;
+
+(G) whether it has a coastline bordering an ocean (including the Gulf of Mexico) or international waters;
+
+(H) its likely need to respond to acts of terrorism occurring in nearby jurisdictions;
+
+(I) the extent to which it has unmet target capabilities;
+
+(J) in the case of a high-risk urban area, the extent to which that high-risk urban area includes—(i) those incorporated municipalities, counties, parishes, and Indian tribes within the relevant eligible metropolitan area, the inclusion of which will enhance regional efforts to prevent, prepare for, protect against, and respond to acts of terrorism; and
+
+(ii) other local and tribal governments in the surrounding area that are likely to be called upon to respond to acts of terrorism within the high-risk urban area; and
+
+
+(K) such other factors as are specified in writing by the Administrator; and
+
+
+(2) the anticipated effectiveness of the propos</akn:p></akn:content><akn:subsection eId="subsec_608_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In allocating funds among States and high-risk urban areas applying for grants under section 604 or 605 of this title, the Administrator shall consider, for each State or high-risk urban area—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_608_b"><akn:num>(b)</akn:num><akn:heading>Types of threat</akn:heading><akn:content><akn:p>(b) Types of threat In assessing threat under this section, the Administrator shall consider the following types of threat to critical infrastructure sectors and to populations in all areas of the United States, urban and rural:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/2172" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/2172/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/2172/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2172"><akn:num>2172</akn:num><akn:heading>Office of Congressional Accessibility Services</akn:heading><akn:content><akn:p>§ 2172. Office of Congressional Accessibility Services(a) Establishment of Office of Congressional Accessibility Services(1) EstablishmentThere is established in the legislative branch the Office of Congressional Accessibility Services, to be headed by the Director of Accessibility Services.
+
+
+(2) Congressional Accessibility Services Board(A) EstablishmentThere is established the Congressional Accessibility Services Board, which shall be composed of—(i) the Sergeant at Arms and Doorkeeper of the Senate;
+
+(ii) the Secretary of the Senate;
+
+(iii) the Sergeant at Arms of the House of Representatives;
+
+(iv) the Clerk of the House of Representatives; and
+
+(v) the Architect of the Capitol.
+
+
+(B) Direction of BoardThe Office of Congressional Accessibility Services shall be subject to the direction of the Congressional Accessibility Services Board.
+
+
+
+(3) Mission and functions(A) In generalThe Office of Congressional Accessibility Services shall—(i) provide and coordinate accessibility services for individuals with disabilities, including Members of Congress, officers and employees of the House of Representatives and the Senate, and visitors, in the United States Capitol Complex; and
+
+(ii) provide information regarding accessibility for individuals with disabilities, as well as related training and staff development, to Members of Congress and employees of the Senate and the House of Representatives.
+
+
+(B) United States Capitol Complex definedIn this paragraph, the term “United States Capitol Complex” means the Capitol buildings (as defined in section 5101 of title 40) and the United States Capitol Grounds (as described in section 5102 of such title).
+
+
+
+
+(b) Director of Accessibility Services(1) Appointment, pay, and removal(A) Appointment and payThe Director of Accessibility Services shall be appointed by the Congressional Accessibility Services Board and shall be paid at a rate of pay determined by the Congressional Accessibility Services Board.
+
+
+(B) RemovalUpon removal</akn:p></akn:content><akn:subsection eId="subsec_2172_a"><akn:num>(a)</akn:num><akn:heading>Establishment of Office of Congressional Accessibility Services</akn:heading><akn:content><akn:p>(a) Establishment of Office of Congressional Accessibility Services</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2172_b"><akn:num>(b)</akn:num><akn:heading>Director of Accessibility Services</akn:heading><akn:content><akn:p>(b) Director of Accessibility Services</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

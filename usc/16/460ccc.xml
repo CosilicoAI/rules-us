@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/460ccc" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/460ccc/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/460ccc/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_460ccc"><akn:num>460ccc</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 460ccc. Definitions
+For the purposes of this subchapter, the term—(a) “conservation area” means the Red Rock Canyon National Conservation Area established pursuant to section 460ccc–1 of this title;
+
+(b) “public lands” has the meaning stated in section 1702(e) of title 43; and
+
+(c) “Secretary” means the Secretary of the Interior.
+
+(Pub. L. 101–621, § 2, Nov. 16, 1990, 104 Stat. 3342.)
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 101–621, § 1, Nov. 16, 1990, 104 Stat. 3342, provided that: “This Act [enacting this subchapter] may be cited as the ‘Red Rock Canyon National Conservation Area Establishment Act of 1990’.”</akn:p></akn:content><akn:subsection eId="subsec_460ccc_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) “conservation area” means the Red Rock Canyon National Conservation Area established pursuant to section 460ccc–1 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_460ccc_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) “public lands” has the meaning stated in section 1702(e) of title 43; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_460ccc_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) “Secretary” means the Secretary of the Interior.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

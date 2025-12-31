@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/20147" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/20147/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/20147/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20147"><akn:num>20147</akn:num><akn:heading>Recovery and disposition authority</akn:heading><akn:content><akn:p>§ 20147. Recovery and disposition authority(a) Definitions.—In this section:(1) Administration human space flight vehicle.—The term “Administration human space flight vehicle” means a space vehicle, as defined in section 20138(a) of this title, that—(A) is intended to transport one or more persons;
+
+(B) is designed to operate in outer space; and
+
+(C) is either—(i) owned by the Administration; or
+
+(ii) owned by an Administration contractor or cooperating party and operated as part of an Administration mission or a joint mission with the Administration.
+
+
+
+(2) Crewmember.—The term “crewmember” means an astronaut or other person assigned to an Administration human space flight vehicle.
+
+
+(b) Control of Remains.—(1) In general.—Subject to paragraphs (2) and (3), when there is an accident or mishap resulting in the death of a crewmember of an Administration human space flight vehicle, the Administrator may take control over the remains of the crewmember and order autopsies and other scientific or medical tests.
+
+(2) Treatment.—Each crewmember shall provide the Administrator with the crewmember’s preferences regarding the treatment accorded to the crewmember’s remains and the Administrator shall, to the extent possible, respect those stated preferences.
+
+(3) Construction.—This section shall not be construed to permit the Administrator to interfere with any Federal investigation of a mishap or accident.
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3353.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2014742 U.S.C. 2459l.Pub. L. 85–568, title III, § 317, as added Pub. L. 109–155, title VII, § 705, Dec. 30, 2005, 119 Stat. 2936.</akn:p></akn:content><akn:subsection eId="subsec_20147_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20147_b"><akn:num>(b)</akn:num><akn:heading>Control of Remains.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

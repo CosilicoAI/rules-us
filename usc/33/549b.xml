@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/549b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/549b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/549b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_549b"><akn:num>549b</akn:num><akn:heading>Inclusion of project or facility in Corps of Engineers workplan</akn:heading><akn:content><akn:p>§ 549b. Inclusion of project or facility in Corps of Engineers workplan(a) In generalThe Secretary shall, to the maximum extent practicable, include in the future workplan of the Corps any authorized project or facility of the Corps of Engineers—(1) that the Secretary has studied for disposition under an existing authority, including by carrying out a disposition study under section 549a of this title; and
+
+(2) for which a final report by the Director of Civil Works has been completed.
+
+
+(b) Notification to committeesUpon completion of a final report referred to in subsection (a), the Secretary shall transmit a copy of the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+
+
+(Pub. L. 115–270, title I, § 1117, Oct. 23, 2018, 132 Stat. 3776.)
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.</akn:p></akn:content><akn:subsection eId="subsec_549b_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall, to the maximum extent practicable, include in the future workplan of the Corps any authorized project or facility of the Corps of Engineers—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_549b_b"><akn:num>(b)</akn:num><akn:heading>Notification to committees</akn:heading><akn:content><akn:p>(b) Notification to committees Upon completion of a final report referred to in subsection (a), the Secretary shall transmit a copy of the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

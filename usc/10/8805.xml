@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8805" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8805/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8805/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8805"><akn:num>8805</akn:num><akn:heading>Acceptance of Government checks outside the United States</akn:heading><akn:content><akn:p>§ 8805. Acceptance of Government checks outside the United States
+Notwithstanding section 3302(a) of title 31, the Secretary of the Navy may authorize the officer in charge of any commissary store or ship’s store ashore located outside the United States to—(1) accept any Government check tendered by a retired member of the Navy or the Marine Corps, a member of the Navy Reserve or the Marine Corps Reserve, or a member of the Fleet Reserve or the Fleet Marine Corps Reserve, if the member is the payee of the check and the check is tendered in payment of amounts due from the member to the store; and
+
+(2) refund in cash any difference between the amount due and the amount of the tendered check.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 471, § 7605; Pub. L. 96–513, title V, § 513(42), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–258, § 3(b)(10), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 109–163, div. A, title V, § 515(b)(1)(V), Jan. 6, 2006, 119 Stat. 3233; renumbered § 8805, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+760534 U.S.C. 552.July 15, 1939, ch. 285, 53 Stat. 1043.
+
+
+Since the authority of this section to refund any cash balance extends only to the payee of a check, the section is written to authorize only the payee to cash it. The Fleet Reserve and the Fleet Marine Corps Reserve were parts of the Naval Reserve and the Marine Corps Reserve, respectively, when the source statute was enacted but were removed therefrom by the Armed Forces Reserve Act of 1952. The words “or a member of the Fleet Reserve or the Fleet Marine Corps Reserve” are inserted in clause (1) to give this section the same applicability as the source.
+
+Editorial Notes
+Amendments2018—Pub. L. 115–232 renumbered section 7605 of this title as this section.
+2006—Par. (1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+1982—Pub. L. 97–258 substituted “sect</akn:p></akn:content><akn:subsection eId="subsec_8805_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) accept any Government check tendered by a retired member of the Navy or the Marine Corps, a member of the Navy Reserve or the Marine Corps Reserve, or a member of the Fleet Reserve or the Fleet Marine Corps Reserve, if the member is the payee of the check and the check is tendered in payment of amounts due from the member to the store; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8805_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) refund in cash any difference between the amount due and the amount of the tendered check.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

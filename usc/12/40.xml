@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/40" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/40/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/40/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40"><akn:num>40</akn:num><akn:heading>Virgin Islands; extension of National Bank Act</akn:heading><akn:content><akn:p>§ 40. Virgin Islands; extension of National Bank Act
+The National Bank Act, as amended [12 U.S.C. 21 et seq.], and all other Acts of Congress relating to national banks, shall, insofar as not locally inapplicable after July 19, 1932, apply to the Virgin Islands of the United States.
+(July 19, 1932, ch. 508, 47 Stat. 703.)
+
+Editorial Notes
+
+References in TextThe National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

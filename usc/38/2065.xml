@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/2065" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/2065/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/2065/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2065"><akn:num>2065</akn:num><akn:heading>Annual report on assistance to homeless veterans</akn:heading><akn:content><akn:p>§ 2065. Annual report on assistance to homeless veterans(a) Annual Report.—Not later than June 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
+
+(b) General Contents of Report.—Each report under subsection (a) shall include the following:(1) The number of homeless veterans provided assistance under the programs referred to in subsection (a).
+
+(2) The cost to the Department of providing such assistance under those programs.
+
+(3) The Secretary’s evaluation of the effectiveness of the programs of the Department in providing assistance to homeless veterans, including—(A) residential work-therapy programs;
+
+(B) programs combining outreach, community-based residential treatment, and case-management; and
+
+(C) contract care programs for alcohol and drug-dependence or use disabilities.
+
+
+(4) The Secretary’s evaluation of the effectiveness of programs established by recipients of grants under section 2011 of this title and a description of the experience of those recipients in applying for and receiving grants from the Secretary of Housing and Urban Development to serve primarily homeless persons who are veterans.
+
+(5) Information on the efforts of the Secretary to coordinate the delivery of housing and services to homeless veterans with other Federal departments and agencies, including—(A) the Department of Defense;
+
+(B) the Department of Health and Human Services;
+
+(C) the Department of Housing and Urban Development;
+
+(D) the Department of Justice;
+
+(E) the Department of Labor;
+
+(F) the Interagency Council on Homelessness;
+
+(G) the Social Security Administration; and
+
+(H) any other Federal department or agency with which the Secretary coordinates the delivery of housin</akn:p></akn:content><akn:subsection eId="subsec_2065_a"><akn:num>(a)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(a) Not later than June 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2065_b"><akn:num>(b)</akn:num><akn:heading>General Contents of Report.—</akn:heading><akn:content><akn:p>(b) Each report under subsection (a) shall include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2065_c"><akn:num>(c)</akn:num><akn:heading>Health Care Contents of Report.—</akn:heading><akn:content><akn:p>(c) Each report under subsection (a) shall include, with respect to programs of the Department addressing health care needs of homeless veterans, the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2065_d"><akn:num>(d)</akn:num><akn:heading>Benefits Content of Report.—</akn:heading><akn:content><akn:p>(d) Each report under subsection (a) shall include, with respect to programs and activities of the Veterans Benefits Administration in processing of claims for benefits of homeless veterans during the preceding year, the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/167o" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/167o/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/167o/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_167o"><akn:num>167o</akn:num><akn:heading>Low-Btu gas separation and helium conservation</akn:heading><akn:content><akn:p>§ 167o. Low-Btu gas separation and helium conservation(a) AuthorizationThe Secretary of Energy shall support programs of research, development, commercial application, and conservation (including the programs described in subsection (b))—(1) to expand the domestic production of low-Btu gas and helium resources;
+
+(2) to separate and capture helium from natural gas streams; and
+
+(3) to reduce the venting of helium and helium-bearing low-Btu gas during natural gas exploration and production.
+
+
+(b) Programs(1) Membrane technology researchThe Secretary of Energy, in consultation with other appropriate agencies, shall support a civilian research program to develop advanced membrane technology that is used in the separation of low-Btu gases, including technologies that remove helium and other constituent gases that lower the Btu content of natural gas.
+
+
+(2) Helium separation technologyThe Secretary of Energy shall support a research program to develop technologies for separating, gathering, and processing helium in low concentrations that occur naturally in geological reservoirs or formations, including—(A) low-Btu gas production streams; and
+
+(B) technologies that minimize the atmospheric venting of helium gas during natural gas production.
+
+
+(3) Industrial helium programThe Secretary of Energy, working through the Advanced Manufacturing Office of the Department of Energy, shall carry out a research program—(A) to develop low-cost technologies and technology systems for recycling, reprocessing, and reusing helium for all medical, scientific, industrial, commercial, aerospace, and other uses of helium in the United States, including Federal uses; and
+
+(B) to develop industrial gathering technologies to capture helium from other chemical processing, including ammonia processing.
+
+
+
+(c) Authorization of appropriationsThere is authorized to be appropriated to carry out this section $3,000,000.
+
+
+(Mar. 3, 1925, ch. 426, § 17, as added Pub. L. 113–40, § 6(3), Oct. 2, 2013, 127</akn:p></akn:content><akn:subsection eId="subsec_167o_a"><akn:num>(a)</akn:num><akn:heading>Authorization</akn:heading><akn:content><akn:p>(a) Authorization The Secretary of Energy shall support programs of research, development, commercial application, and conservation (including the programs described in subsection (b))—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_167o_b"><akn:num>(b)</akn:num><akn:heading>Programs</akn:heading><akn:content><akn:p>(b) Programs</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_167o_c"><akn:num>(c)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(c) Authorization of appropriations There is authorized to be appropriated to carry out this section $3,000,000.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

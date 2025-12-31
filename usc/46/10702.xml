@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/10702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/10702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/10702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10702"><akn:num>10702</akn:num><akn:heading>Duties of masters</akn:heading><akn:content><akn:p>§ 10702. Duties of masters(a) When a seaman dies during a voyage, the master shall take charge of the seaman’s money and property. An entry shall be made in the official logbook, signed by the master, the chief mate, and an unlicensed crewmember containing an inventory of the money and property and a statement of the wages due the seaman, with the total of the deductions to be made.
+
+(b) On compliance with this chapter, the master shall obtain a written certificate of compliance from the consular officer or court clerk. Clearance may be granted to a foreign-bound vessel only when the certificate is received at the office of customs.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 572; Pub. L. 103–206, title IV, § 422(a), Dec. 20, 1993, 107 Stat. 2438.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1070246:621
+
+
+Section 10702 requires a master to take charge of the property of a deceased seaman, make note in the official logbook that the property was taken and obtain a certificate of compliance from a shipping commissioner which must be exhibited for port clearance of foreign bound vessels.
+
+Editorial Notes
+Amendments1993—Subsec. (b). Pub. L. 103–206 substituted “the consular officer or court clerk” for “a shipping commissioner”.</akn:p></akn:content><akn:subsection eId="subsec_10702_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) When a seaman dies during a voyage, the master shall take charge of the seaman’s money and property. An entry shall be made in the official logbook, signed by the master, the chief mate, and an unlicensed crewmember containing an inventory of the money and property and a statement of the wages due the seaman, with the total of the deductions to be made.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10702_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) On compliance with this chapter, the master shall obtain a written certificate of compliance from the consular officer or court clerk. Clearance may be granted to a foreign-bound vessel only when the certificate is received at the office of customs.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

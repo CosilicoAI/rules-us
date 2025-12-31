@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/2345" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/2345/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/2345/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2345"><akn:num>2345</akn:num><akn:heading>Electronic submission and tracking of permit applications</akn:heading><akn:content><akn:p>§ 2345. Electronic submission and tracking of permit applications(a) Development of electronic system(1) In generalThe Secretary shall research, develop, and implement an electronic system to allow the electronic preparation and submission of applications for permits and requests for jurisdictional determinations under the jurisdiction of the Secretary.
+
+
+(2) InclusionThe electronic system required under paragraph (1) shall address—(A) applications for standard individual permits;
+
+(B) applications for letters of permission;
+
+(C) joint applications with States for State and Federal permits;
+
+(D) applications for emergency permits;
+
+(E) applications or requests for jurisdictional determinations; and
+
+(F) preconstruction notification submissions, when required for a nationwide or other general permit.
+
+
+(3) Improving existing data systemsThe Secretary shall seek to incorporate the electronic system required under paragraph (1) into existing systems and databases of the Corps of Engineers to the maximum extent practicable.
+
+
+(4) Protection of informationThe electronic system required under paragraph (1) shall provide for the protection of personal, private, privileged, confidential, and proprietary information, and information the disclosure of which is otherwise prohibited by law.
+
+
+
+(b) System requirementsThe electronic system required under subsection (a) shall—(1) enable an applicant or requester to prepare electronically an application for a permit or request;
+
+(2) enable an applicant or requester to submit to the Secretary, by email or other means through the Internet, the completed application form or request;
+
+(3) enable an applicant or requester to submit to the Secretary, by email or other means through the Internet, data and other information in support of the permit application or request;
+
+(4) provide an online interactive guide to provide assistance to an applicant or requester at any time while filling out the permit application or request; and
+
+(5) enab</akn:p></akn:content><akn:subsection eId="subsec_2345_a"><akn:num>(a)</akn:num><akn:heading>Development of electronic system</akn:heading><akn:content><akn:p>(a) Development of electronic system</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2345_b"><akn:num>(b)</akn:num><akn:heading>System requirements</akn:heading><akn:content><akn:p>(b) System requirements The electronic system required under subsection (a) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2345_c"><akn:num>(c)</akn:num><akn:heading>Documentation</akn:heading><akn:content><akn:p>(c) Documentation All permit decisions and jurisdictional determinations made by the Secretary shall be in writing and include documentation supporting the basis for the decision or determination. The Secretary shall prescribe means for documenting all decisions or determinations to be made by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2345_d"><akn:num>(d)</akn:num><akn:heading>Record of determinations</akn:heading><akn:content><akn:p>(d) Record of determinations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2345_e"><akn:num>(e)</akn:num><akn:heading>Availability of determinations</akn:heading><akn:content><akn:p>(e) Availability of determinations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2345_f"><akn:num>(f)</akn:num><akn:heading>Deadline for electronic system implementation</akn:heading><akn:content><akn:p>(f) Deadline for electronic system implementation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2345_g"><akn:num>(g)</akn:num><akn:heading>Applicability</akn:heading><akn:content><akn:p>(g) Applicability The requirements described in subsections (c), (d), and (e) shall apply to permit applications and requests for jurisdictional determinations submitted to the Secretary after December 16, 2016.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2345_h"><akn:num>(h)</akn:num><akn:heading>Limitation</akn:heading><akn:content><akn:p>(h) Limitation This section shall not preclude the submission to the Secretary, acting through the Chief of Engineers, of a physical copy of a permit application or a request for a jurisdictional determination.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

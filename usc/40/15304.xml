@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/15304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/15304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/15304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15304"><akn:num>15304</akn:num><akn:heading>Administrative powers and expenses</akn:heading><akn:content><akn:p>§ 15304. Administrative powers and expenses(a) Powers.—In carrying out its duties under this subtitle, a Commission may—(1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute a description of the proceedings and reports on actions by the Commission as the Commission considers appropriate;
+
+(2) authorize, through the Federal or State Cochairperson or any other member of the Commission designated by the Commission, the administration of oaths if the Commission determines that testimony should be taken or evidence received under oath;
+
+(3) request from any Federal, State, or local agency such information as may be available to or procurable by the agency that may be of use to the Commission in carrying out the duties of the Commission;
+
+(4) adopt, amend, and repeal bylaws and rules governing the conduct of business and the performance of duties by the Commission;
+
+(5) request the head of any Federal agency, State agency, or local government to detail to the Commission such personnel as the Commission requires to carry out its duties, each such detail to be without loss of seniority, pay, or other employee status, which may be done without a requirement for the Commission to reimburse the agency or local government;
+
+(6) provide for coverage of Commission employees in a suitable retirement and employee benefit system by making arrangements or entering into contracts with any participating State government or otherwise providing retirement and other employee coverage;
+
+(7) accept, use, and dispose of gifts or donations or services or real, personal, tangible, or intangible property;
+
+(8) collect fees for services provided and retain and expend such fees;
+
+(9) enter into and perform such contracts, cooperative agreements, or other transactions as are necessary to carry out Commission duties, including any contracts or cooperative agreements with a department, agency, or inst</akn:p></akn:content><akn:subsection eId="subsec_15304_a"><akn:num>(a)</akn:num><akn:heading>Powers.—</akn:heading><akn:content><akn:p>(a) In carrying out its duties under this subtitle, a Commission may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15304_b"><akn:num>(b)</akn:num><akn:heading>Federal Agency Cooperation.—</akn:heading><akn:content><akn:p>(b) A Federal agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15304_c"><akn:num>(c)</akn:num><akn:heading>Administrative Expenses.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

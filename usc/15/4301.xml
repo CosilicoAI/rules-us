@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/4301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/4301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/4301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4301"><akn:num>4301</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 4301. Definitions(a) For purposes of this chapter:(1) The term “antitrust laws” has the meaning given it in subsection (a) of section 12 of this title, except that such term includes section 45 of this title to the extent that such section 45 of this title applies to unfair methods of competition.
+
+(2) The term “Attorney General” means the Attorney General of the United States.
+
+(3) The term “Commission” means the Federal Trade Commission.
+
+(4) The term “person” has the meaning given it in subsection (a) of section 12 of this title.
+
+(5) The term “State” has the meaning given it in section 15g(2) of this title.
+
+(6) The term “joint venture” means any group of activities, including attempting to make, making, or performing a contract, by two or more persons for the purpose of—(A) theoretical analysis, experimentation, or systematic study of phenomena or observable facts,
+
+(B) the development or testing of basic engineering techniques,
+
+(C) the extension of investigative findings or theory of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, prototypes, equipment, materials, and processes,
+
+(D) the production of a product, process, or service,
+
+(E) the testing in connection with the production of a product, process, or service by such venture,
+
+(F) the collection, exchange, and analysis of research or production information, or
+
+(G) any combination of the purposes specified in subparagraphs (A), (B), (C), (D), (E), and (F),
+
+
+and may include the establishment and operation of facilities for the conducting of such venture, the conducting of such venture on a protected and proprietary basis, and the prosecuting of applications for patents and the granting of licenses for the results of such venture, but does not include any activity specified in subsection (b).
+
+(7) The term “standards development activity” means any action taken by a standards developme</akn:p></akn:content><akn:subsection eId="subsec_4301_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For purposes of this chapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4301_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The term “joint venture” excludes the following activities involving two or more persons:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4301_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The term “standards development activity” excludes the following activities:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

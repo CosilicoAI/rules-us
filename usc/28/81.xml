@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/81" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/81/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/81/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_81"><akn:num>81</akn:num><akn:heading>Alabama</akn:heading><akn:content><akn:p>§ 81. Alabama
+Alabama is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Alabama.
+Northern District
+(a) The Northern District comprises five divisions.
+(1) The Northwestern Division comprises the counties of Colbert, Franklin, Lauderdale, and Lawrence.
+Court for the Northwestern Division shall be held at Florence.
+(2) The Northeastern Division comprises the counties of Cullman, Jackson, Limestone, Madison, Marshall, and Morgan.
+Court for the Northeastern Division shall be held at Huntsville.
+(3) The Southern Division comprises the counties of Blount, Jefferson, and Shelby.
+Court for the Southern Division shall be held at Birmingham.
+(4) The Eastern Division comprises the counties of Calhoun, Cherokee, Clay, Cleburne, DeKalb, Etowah, Saint Clair, and Talladega.
+Court for the Eastern Division shall be held at Anniston.
+(5) The Western Division comprises the counties of Bibb, Fayette, Greene, Lamar, Marion, Pickens, Sumter, Tuscaloosa, Walker, and Winston.
+Court for the Western Division shall be held at Tuscaloosa.
+Middle District
+(b) The Middle District comprises three divisions.
+(1) The Northern Division comprises the counties of Autauga, Barbour, Bullock, Butler, Chilton, Coosa, Covington, Crenshaw, Elmore, Lowndes, Montgomery, and Pike.
+Court for the Northern Division shall be held at Montgomery.
+(2) The Southern Division comprises the counties of Coffee, Dale, Geneva, Henry, and Houston.
+Court for the Southern Division shall be held at Dothan.
+(3) The Eastern Division comprises the counties of Chambers, Lee, Macon, Randolph, Russell, and Tallapoosa.
+Court for the Eastern Division shall be held at Opelika.
+Southern District
+(c) The Southern District comprises two divisions.
+(1) The Northern Division comprises the counties of Dallas, Hale, Marengo, Perry, and Wilcox.
+Court for the Northern Division shall be held at Selma.
+(2) The Southern Division comprises the counties of Baldwin, Choctaw, Clarke, Conecuh, Escamb</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

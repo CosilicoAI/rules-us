@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/3751" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/3751/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/3751/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3751"><akn:num>3751</akn:num><akn:heading>Findings and purpose</akn:heading><akn:content><akn:p>§ 3751. Findings and purpose(a) FindingsThe Congress finds that—(1) the disparate State laws under which mortgages are foreclosed on behalf of the Secretary covering 1- to 4-family residential properties—(A) burden certain programs administered by the Secretary;
+
+(B) increase the costs of collecting obligations; and
+
+(C) generally are a detriment to the community in which the properties are located;
+
+
+(2) the long periods required to complete the foreclosure of such mortgages under certain State laws—(A) lead to deterioration in the condition of the properties involved;
+
+(B) necessitate substantial Federal holding expenditures;
+
+(C) increase the risk of vandalism, fire loss, depreciation, damage, and waste with respect to the properties; and
+
+(D) adversely affect the neighborhoods in which the properties are located;
+
+
+(3) these conditions seriously impair the ability of the Secretary to protect the Federal financial interest in the affected properties and frustrate attainment of the objectives of the underlying Federal program authority;
+
+(4) the availability of uniform and more expeditious procedures, with no right of redemption in the mortgagor or others, for the foreclosure of these mortgages by the Secretary will tend to ameliorate these conditions; and
+
+(5) providing the Secretary with a nonjudicial foreclosure procedure will reduce unnecessary litigation by removing many foreclosures from the courts if they contribute to overcrowded calendars.
+
+
+(b) PurposeThe purpose of this chapter is to create a uniform Federal foreclosure remedy for single family mortgages that—(1) are held by the Secretary pursuant to title I or title II of the National Housing Act [12 U.S.C. 1702 et seq., 1707 et seq.]; or
+
+(2) secure loans obligated by the Secretary under section 1452b 11 See References in Text note below. of title 42.
+
+
+(Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
+
+Editorial Notes
+
+References in TextThe National Housing Act, referred to in subsec. (b)(</akn:p></akn:content><akn:subsection eId="subsec_3751_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3751_b"><akn:num>(b)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(b) Purpose The purpose of this chapter is to create a uniform Federal foreclosure remedy for single family mortgages that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

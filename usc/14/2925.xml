@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/2925" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/2925/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/2925/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2925"><akn:num>2925</akn:num><akn:heading>Parent partnerships with child development centers</akn:heading><akn:content><akn:p>§ 2925. Parent partnerships with child development centers(a) Parent Boards.—(1) Formation.—The Commandant shall require that there be formed at each Coast Guard child development center a board of parents, to be composed of parents of children attending the center.
+
+(2) Functions.—Each board of parents formed under paragraph (1) shall—(A) meet periodically with the staff of the center at which the board is formed and the commander of the unit served by the center, for the purpose of discussing problems and concerns; and
+
+(B) be responsible, together with the staff of the center, for coordinating any parent participation initiative established under subsection (b).
+
+
+(3) Chapter 10 of title 5.—Chapter 10 of title 5 does not apply to a board of parents formed under paragraph (1).
+
+
+(b) Parent Participation Initiative.—The Commandant is authorized to establish a parent participation initiative at each Coast Guard child development center to encourage and facilitate parent participation in educational and related activities at the center.
+
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3032, § 555; renumbered § 2925, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 117–286, § 4(a)(60), Dec. 27, 2022, 136 Stat. 4312.)
+
+Editorial Notes
+Amendments2022—Subsec. (a)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+2018—Pub. L. 115–282 renumbered section 555 of this title as this section.</akn:p></akn:content><akn:subsection eId="subsec_2925_a"><akn:num>(a)</akn:num><akn:heading>Parent Boards.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2925_b"><akn:num>(b)</akn:num><akn:heading>Parent Participation Initiative.—</akn:heading><akn:content><akn:p>(b) The Commandant is authorized to establish a parent participation initiative at each Coast Guard child development center to encourage and facilitate parent participation in educational and related activities at the center.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

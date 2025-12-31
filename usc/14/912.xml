@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/912" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/912/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/912/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_912"><akn:num>912</akn:num><akn:heading>Air facility closures</akn:heading><akn:content><akn:p>§ 912. Air facility closures(a) Closures.—(1) In general.—Beginning on January 1, 2018, the Secretary may not close a Coast Guard air facility, except as specified by this section.
+
+(2) Determinations.—The Secretary may not propose closing or terminating operations at a Coast Guard air facility unless the Secretary determines that—(A) remaining search and rescue capabilities maintain the safety of the maritime public in the area of the air facility;
+
+(B) regional or local prevailing weather and marine conditions, including water temperatures or unusual tide and current conditions, do not require continued operation of the air facility; and
+
+(C) Coast Guard search and rescue standards related to search and response times are met.
+
+
+(3) Public notice and comment.—(A) In general.—Prior to closing an air facility, the Secretary shall provide opportunities for public comment, including the convening of public meetings in communities in the area of responsibility of the air facility with regard to the proposed closure or cessation of operations at the air facility.
+
+(B) Public meetings.—Prior to convening a public meeting under subparagraph (A), the Secretary shall notify each congressional office representing any portion of the area of responsibility of the air station that is the subject to such public meeting of the schedule and location of such public meeting.
+
+
+(4) Notice to congress.—Prior to closure, cessation of operations, or any significant reduction in personnel and use of a Coast Guard air facility that is in operation on or after December 31, 2017, the Secretary shall—(A) submit to the Congress a proposal for such closure, cessation, or reduction in operations along with the budget of the President submitted to Congress under section 1105(a) of title 31 that includes—(i) a discussion of the determination made by the Secretary pursuant to paragraph (2); and
+
+(ii) a report summarizing the public comments received by the Secretary under paragraph (3) 11 So in or</akn:p></akn:content><akn:subsection eId="subsec_912_a"><akn:num>(a)</akn:num><akn:heading>Closures.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_912_b"><akn:num>(b)</akn:num><akn:heading>Operational Flexibility.—</akn:heading><akn:content><akn:p>(b) The Secretary may implement any reasonable management efficiencies within the air station and air facility network, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

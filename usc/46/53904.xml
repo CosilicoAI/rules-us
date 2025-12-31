@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53904" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53904/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53904/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53904"><akn:num>53904</akn:num><akn:heading>Liability insurance for persons involved in war or defense efforts</akn:heading><akn:content><akn:p>§ 53904. Liability insurance for persons involved in war or defense efforts(a) In General.—The Secretary of Transportation may provide insurance under this chapter against legal liability that a person may incur in providing services or facilities for a vessel if, in the opinion of the Secretary, the insurance—(1) is required in prosecuting a war or for national defense; and
+
+(2) cannot be obtained at reasonable rates or on reasonable terms and conditions from approved companies authorized to do insurance business in a State of the United States.
+
+
+(b) Limitations.—Employer liability insurance and worker compensation insurance against legal liability to employees may not be provided under this section.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1628.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5390446 App.:1286.June 29, 1936, ch. 858, title XII, § 1206, as added Sept. 7, 1950, ch. 906, 64 Stat. 774; Aug. 3, 1956, ch. 929, § 5, 70 Stat. 986.
+
+
+In subsection (a), the words “a vessel” are substituted for “any American- or foreign-flag vessel, public or private” to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_53904_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation may provide insurance under this chapter against legal liability that a person may incur in providing services or facilities for a vessel if, in the opinion of the Secretary, the insurance—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53904_b"><akn:num>(b)</akn:num><akn:heading>Limitations.—</akn:heading><akn:content><akn:p>(b) Employer liability insurance and worker compensation insurance against legal liability to employees may not be provided under this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

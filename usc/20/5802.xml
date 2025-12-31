@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/5802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/5802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/5802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5802"><akn:num>5802</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5802. Definitions(a) Subchapters I, II, III, and XAs used in subchapters I, II, III, and X of this chapter—(1) the terms “all students” and “all children” mean students or children from a broad range of backgrounds and circumstances, including disadvantaged students and children, students or children with diverse racial, ethnic, and cultural backgrounds, American Indians, Alaska Natives, Native Hawaiians, students or children with disabilities, students or children with limited-English proficiency, school-aged students or children who have dropped out of school, migratory students or children, and academically talented students and children;
+
+(2) the term “Bureau”, unless otherwise provided, means the Bureau of Indian Affairs;
+
+(3) the terms “community”, “public”, and “advocacy group” include representatives of organizations advocating for the education of American Indian, Alaska Native, and Native Hawaiian children and Indian tribes;
+
+(4) the term “content standards” means broad descriptions of the knowledge and skills students should acquire in a particular subject area;
+
+(5) the term “Governor” means the chief executive of the State;
+
+(6) the terms “local educational agency” and “State educational agency” have the meaning given such terms in section 8801 of this title; 11 See References in Text note below.
+
+(7) the term “outlying areas” means Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia;
+
+(8) the term “performance standards” means concrete examples and explicit definitions of what students have to know and be able to do to demonstrate that such students are proficient in the skills and knowledge framed by content standards;
+
+(9) the term “related services” has the same meaning given such term under section 1401 of this title;
+
+(10) the term “S</akn:p></akn:content><akn:subsection eId="subsec_5802_a"><akn:num>(a)</akn:num><akn:heading>Subchapters I, II, III, and X</akn:heading><akn:content><akn:p>(a) Subchapters I, II, III, and X As used in subchapters I, II, III, and X of this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_b"><akn:num>(b)</akn:num><akn:heading>Subchapters IV, V, VI, VII, VIII, and IX</akn:heading><akn:content><akn:p>(b) Subchapters IV, V, VI, VII, VIII, and IX For the purpose of subchapters IV, V, VI, VII, VIII, and IX—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

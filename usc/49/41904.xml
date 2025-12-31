@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/41904" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/41904/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/41904/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41904"><akn:num>41904</akn:num><akn:heading>Noncitizens transporting mail</akn:heading><akn:content><akn:p>§ 41904. Noncitizens transporting mail
+When the United States Postal Service decides that it may be necessary to have a person not a citizen of the United States transport mail by aircraft between two points outside the United States, the Postal Service may make an arrangement with the person, without advertising, to provide the transportation. Nothing in this section shall affect the authority of the Postal Service to make arrangements with noncitizens for the carriage of mail in foreign air transportation under subsections 5402(b) and (c) of title 39.
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1155; Pub. L. 110–405, § 2(b)(5), Oct. 13, 2008, 122 Stat. 4289.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+4190449 App.:1375(e)(2).Aug. 23, 1958, Pub. L. 85–726, § 405(e)(2), 72 Stat. 761.
+
+
+The words “who may not be obligated to transport the mail for a foreign country” are omitted for simplicity and clarity because the omitted words impose no requirement or qualification that is meaningful.
+
+Editorial Notes
+Amendments2008—Pub. L. 110–405 struck out “to or in foreign countries” after “mail” in section catchline, substituted “between two points outside the United States” for “to or in a foreign country”, and inserted “Nothing in this section shall affect the authority of the Postal Service to make arrangements with noncitizens for the carriage of mail in foreign air transportation under subsections 5402(b) and (c) of title 39.” after “transportation.”
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2008 AmendmentAmendment by Pub. L. 110–405 effective Oct. 1, 2008, see section 2(c) of Pub. L. 110–405, set out as a note under section 101 of Title 39, Postal Service.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

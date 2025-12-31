@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/1738B" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/1738B/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/1738B/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1738B"><akn:num>1738B</akn:num><akn:heading>Full faith and credit for child support orders</akn:heading><akn:content><akn:p>§ 1738B. Full faith and credit for child support orders(a) General Rule.—The appropriate authorities of each State—(1) shall enforce according to its terms a child support order made consistently with this section by a court of another State; and
+
+(2) shall not seek or make a modification of such an order except in accordance with subsections (e), (f), and (i).
+
+
+(b) Definitions.—In this section:(1) The term “child” means—(A) a person under 18 years of age; and
+
+(B) a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
+
+
+(2) The term “child’s State” means the State in which a child resides.
+
+(3) The term “child’s home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
+
+(4) The term “child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
+
+(5) The term “child support order”—(A) means a judgment, decree, or order of a court requiring the payment of child support in periodic amounts or in a lump sum; and
+
+(B) includes—(i) a permanent or temporary order; and
+
+(ii) an initial order or a modification of an order.
+
+
+
+(6) The term “contestant” means—(A) a person (including a parent) who—(i) claims a right to receive child support;
+
+(ii) is a party to a proceeding that may result in the issuance of a child support order; or
+
+(iii) is under a child support order; and
+
+
+(B) a State or political subdivision of a State to which the right to obtain child support has been assigned.
+
+
+(7) The term “court” means</akn:p></akn:content><akn:subsection eId="subsec_1738B_a"><akn:num>(a)</akn:num><akn:heading>General Rule.—</akn:heading><akn:content><akn:p>(a) The appropriate authorities of each State—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_c"><akn:num>(c)</akn:num><akn:heading>Requirements of Child Support Orders.—</akn:heading><akn:content><akn:p>(c) A child support order made by a court of a State is made consistently with this section if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_d"><akn:num>(d)</akn:num><akn:heading>Continuing Jurisdiction.—</akn:heading><akn:content><akn:p>(d) A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order, unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_e"><akn:num>(e)</akn:num><akn:heading>Authority To Modify Orders.—</akn:heading><akn:content><akn:p>(e) A court of a State may modify a child support order issued by a court of another State if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_f"><akn:num>(f)</akn:num><akn:heading>Recognition of Child Support Orders.—</akn:heading><akn:content><akn:p>(f) If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_g"><akn:num>(g)</akn:num><akn:heading>Enforcement of Modified Orders.—</akn:heading><akn:content><akn:p>(g) A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsections (e) and (f).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_h"><akn:num>(h)</akn:num><akn:heading>Choice of Law.—</akn:heading><akn:content><akn:p>(h)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1738B_i"><akn:num>(i)</akn:num><akn:heading>Registration for Modification.—</akn:heading><akn:content><akn:p>(i) If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/1228" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/1228/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/1228/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1228"><akn:num>1228</akn:num><akn:heading>Interagency cooperation</akn:heading><akn:content><akn:p>§ 1228. Interagency cooperation
+The President shall, by such means as he deems appropriate, clarify agency responsibility for Federal mining and mineral resources research and provide for interagency coordination of such research, including the research authorized by this subchapter. Such coordination shall include—(1) continuing review of the adequacy of the Government-wide program in mining and mineral resources research;
+
+(2) identification and elimination of duplication and overlap between agency programs;
+
+(3) identification of technical needs in various mining and mineral resources research categories;
+
+(4) recommendations with respect to allocation of technical effort among Federal agencies;
+
+(5) review of technical manpower needs, and findings concerning management policies to improve the quality of the Government-wide research effort; and
+
+(6) actions to facilitate interagency communication at management levels.
+
+(Pub. L. 98–409, § 8, Aug. 29, 1984, 98 Stat. 1540.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+
+Prior ProvisionsA prior section 1228, Pub. L. 95–87, title III, § 308, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.</akn:p></akn:content><akn:subsection eId="subsec_1228_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) continuing review of the adequacy of the Government-wide program in mining and mineral resources research;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1228_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) identification and elimination of duplication and overlap between agency programs;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1228_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) identification of technical needs in various mining and mineral resources research categories;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1228_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) recommendations with respect to allocation of technical effort among Federal agencies;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1228_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) review of technical manpower needs, and findings concerning management policies to improve the quality of the Government-wide research effort; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1228_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) actions to facilitate interagency communication at management levels.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

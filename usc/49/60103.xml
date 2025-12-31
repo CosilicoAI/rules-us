@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/60103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/60103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/60103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60103"><akn:num>60103</akn:num><akn:heading>Standards for liquefied natural gas pipeline facilities</akn:heading><akn:content><akn:p>§ 60103. Standards for liquefied natural gas pipeline facilities(a) Location Standards.—The Secretary of Transportation shall prescribe minimum safety standards for deciding on the location of a new liquefied natural gas pipeline facility. In prescribing a standard, the Secretary shall consider the—(1) kind and use of the facility;
+
+(2) existing and projected population and demographic characteristics of the location;
+
+(3) existing and proposed land use near the location;
+
+(4) natural physical aspects of the location;
+
+(5) medical, law enforcement, and fire prevention capabilities near the location that can cope with a risk caused by the facility;
+
+(6) need to encourage remote siting; and
+
+(7) national security.
+
+
+(b) Design, Installation, Construction, Inspection, and Testing Standards.—The Secretary of Transportation shall prescribe minimum safety standards for designing, installing, constructing, initially inspecting, and initially testing a new liquefied natural gas pipeline facility. When prescribing a standard, the Secretary shall consider—(1) the characteristics of material to be used in constructing the facility and of alternative material;
+
+(2) design factors;
+
+(3) the characteristics of the liquefied natural gas to be stored or converted at, or transported by, the facility; and
+
+(4) the public safety factors of the design and of alternative designs, particularly the ability to prevent and contain a liquefied natural gas spill.
+
+
+(c) Nonapplication.—(1) Except as provided in paragraph (2) of this subsection, a design, location, installation, construction, initial inspection, or initial testing standard prescribed under this chapter after March 1, 1978, does not apply to an existing liquefied natural gas pipeline facility if the standard is to be applied because of authority given—(A) under this chapter; or
+
+(B) under another law, and the standard is not prescribed at the time the authority is applied.
+
+
+(2)(A) Any design, installation, construction, initial</akn:p></akn:content><akn:subsection eId="subsec_60103_a"><akn:num>(a)</akn:num><akn:heading>Location Standards.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation shall prescribe minimum safety standards for deciding on the location of a new liquefied natural gas pipeline facility. In prescribing a standard, the Secretary shall consider the—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_b"><akn:num>(b)</akn:num><akn:heading>Design, Installation, Construction, Inspection, and Testing Standards.—</akn:heading><akn:content><akn:p>(b) The Secretary of Transportation shall prescribe minimum safety standards for designing, installing, constructing, initially inspecting, and initially testing a new liquefied natural gas pipeline facility. When prescribing a standard, the Secretary shall consider—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_c"><akn:num>(c)</akn:num><akn:heading>Nonapplication.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_d"><akn:num>(d)</akn:num><akn:heading>Operation and Maintenance Standards.—</akn:heading><akn:content><akn:p>(d) The Secretary of Transportation shall prescribe minimum operating and maintenance standards for a liquefied natural gas pipeline facility. In prescribing a standard, the Secretary shall consider—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_e"><akn:num>(e)</akn:num><akn:heading>Effective Dates.—</akn:heading><akn:content><akn:p>(e) A standard prescribed under this section is effective on the 30th day after the Secretary of Transportation prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_f"><akn:num>(f)</akn:num><akn:heading>Contingency Plans.—</akn:heading><akn:content><akn:p>(f) A new liquefied natural gas pipeline facility may be operated only after the operator submits an adequate contingency plan that states the action to be taken if a liquefied natural gas accident occurs. The Secretary of Energy or appropriate State or local authority shall decide if the plan is adequate.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60103_g"><akn:num>(g)</akn:num><akn:heading>Effect on Other Standards.—</akn:heading><akn:content><akn:p>(g) This section does not preclude applying a standard prescribed under section 60102 of this title to a gas pipeline facility (except a liquefied natural gas pipeline facility) associated with a liquefied natural gas pipeline facility.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

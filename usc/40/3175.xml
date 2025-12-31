@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/3175" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/3175/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/3175/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3175"><akn:num>3175</akn:num><akn:heading>Acceptance of gifts of property</akn:heading><akn:content><akn:p>§ 3175. Acceptance of gifts of property
+The Administrator of General Services, and the United States Postal Service where that office is concerned, may accept on behalf of the Federal Government unconditional gifts of property in aid of any project or function within their respective jurisdictions.
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1155.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+317540:298a.June 16, 1949, ch. 218, title IV, § 404, 63 Stat. 199.
+
+
+The words “Administrator of General Services” are substituted for “Federal Works Administrator” because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title. The words “United States Postal Service” are substituted for “Postmaster General” because of section 6(o) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 783). The words “real, personal, or other” are omitted as unnecessary.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

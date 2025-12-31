@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/5612" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/5612/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/5612/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5612"><akn:num>5612</akn:num><akn:heading>Establishment of demonstration project; selection of participating Indian tribes</akn:heading><akn:content><akn:p>§ 5612. Establishment of demonstration project; selection of participating Indian tribes(a) In generalThe Secretary shall establish and carry out an Indian trust asset management demonstration project, in accordance with this subchapter.
+
+
+(b) Selection of participating Indian tribes(1) In generalAn Indian tribe shall be eligible to participate in the project if—(A) the Indian tribe submits to the Secretary an application under subsection (c); and
+
+(B) the Secretary approves the application of the Indian tribe.
+
+
+(2) Notice(A) In generalThe Secretary shall provide a written notice to each Indian tribe approved to participate in the project.
+
+
+(B) ContentsA notice under subparagraph (A) shall include—(i) a statement that the application of the Indian tribe has been approved by the Secretary; and
+
+(ii) a requirement that the Indian tribe shall submit to the Secretary a proposed Indian trust asset management plan in accordance with section 5613 of this title.
+
+
+
+
+(c) Application(1) In generalTo be eligible to participate in the project, an Indian tribe shall submit to the Secretary a written application in accordance with paragraph (2).
+
+
+(2) RequirementsThe Secretary shall consider an application under this subsection only if the application—(A) includes a copy of a resolution or other appropriate action by the governing body of the Indian tribe, as determined by the Secretary, in support of or authorizing the application;
+
+(B) is received by the Secretary after June 22, 2016; and
+
+(C) states that the Indian tribe is requesting to participate in the project.
+
+
+
+(d) DurationThe project—(1) shall remain in effect for a period of 10 years after June 22, 2016; but
+
+(2) may be extended at the discretion of the Secretary.
+
+
+(Pub. L. 114–178, title II, § 203, June 22, 2016, 130 Stat. 433.)</akn:p></akn:content><akn:subsection eId="subsec_5612_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall establish and carry out an Indian trust asset management demonstration project, in accordance with this subchapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5612_b"><akn:num>(b)</akn:num><akn:heading>Selection of participating Indian tribes</akn:heading><akn:content><akn:p>(b) Selection of participating Indian tribes</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5612_c"><akn:num>(c)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(c) Application</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5612_d"><akn:num>(d)</akn:num><akn:heading>Duration</akn:heading><akn:content><akn:p>(d) Duration The project—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

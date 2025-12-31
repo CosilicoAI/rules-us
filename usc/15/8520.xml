@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8520" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8520/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8520/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8520"><akn:num>8520</akn:num><akn:heading>United States Weather Research Program</akn:heading><akn:content><akn:p>§ 8520. United States Weather Research Program(a) EstablishmentThe Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—(1) increase benefits to the Nation from the substantial investment in modernizing the public weather warning and forecast system in the United States;
+
+(2) improve local and regional weather forecasts and warnings;
+
+(3) address critical weather-related scientific issues;
+
+(4) coordinate governmental, university, and private-sector efforts;
+
+(5) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives, not less frequently than once each year, a report, including—(A) a list of ongoing research projects;
+
+(B) project goals and a point of contact for each project;
+
+(C) the five projects related to weather observations, short-term weather, or subseasonal forecasts within Office of Oceanic and Atmospheric Research that are closest to operationalization;
+
+(D) for each project referred to in subparagraph (C)—(i) the potential benefit;
+
+(ii) any barrier to operationalization; and
+
+(iii) the plan for operationalization, including which line office will financially support the project and how much the line office intends to spend;
+
+
+
+(6) establish teams with staff from the Office of Oceanic and Atmospheric Research and the National Weather Service to oversee the operationalization of research products developed by the Office of Oceanic and Atmospheric Research;
+
+(7) develop mechanisms for research priorities of the Office of Oceanic and Atmospheric Research to be informed by the relevant line offices within the National Oceanic and Atmospheric Administration, the relevant user community, and the weather enterprise;
+
+(8) develop an internal mechanism to track the progress of </akn:p></akn:content><akn:subsection eId="subsec_8520_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8520_b"><akn:num>(b)</akn:num><akn:heading>Implementation plan</akn:heading><akn:content><akn:p>(b) Implementation plan The Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8520_c"><akn:num>(c)</akn:num><akn:heading>Subseasonal defined</akn:heading><akn:content><akn:p>(c) Subseasonal defined In this section, the term “subseasonal” means the time range between 2 weeks and 3 months.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

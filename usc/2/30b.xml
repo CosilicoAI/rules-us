@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/30b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/30b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/30b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30b"><akn:num>30b</akn:num><akn:heading>Notice of objecting to proceeding</akn:heading><akn:content><akn:p>§ 30b. Notice of objecting to proceeding(a) In generalThe Majority and Minority Leaders of the Senate or their designees shall recognize a notice of intent of a Senator who is a member of their caucus to object to proceeding to a measure or matter only if the Senator—(1) following the objection to a unanimous consent to proceeding to, and, or passage of, a measure or matter on their behalf, submits the notice of intent in writing to the appropriate leader or their designee; and
+
+(2) not later than 6 session days after the submission under paragraph (1), submits for inclusion in the Congressional Record and in the applicable calendar section described in subsection (b) the following notice:“I, Senator ____, intend to object to proceedings to ____, dated ____ for the following reasons ____.”.
+
+
+
+(b) Calendar(1) In generalThe Secretary of the Senate shall establish for both the Senate Calendar of Business and the Senate Executive Calendar a separate section entitled “Notice of Intent to Object to Proceeding”.
+
+
+(2) ContentThe section required by paragraph (1) shall include—(A) the name of each Senator filing a notice under subsection (a)(2);
+
+(B) the measure or matter covered by the calendar that the Senator objects to; and
+
+(C) the date the objection was filed.
+
+
+(3) NoticeA Senator who has notified their respective leader and who has withdrawn their objection within the 6 session day period is not required to submit a notification under subsection (a)(2).
+
+
+
+(c) RemovalA Senator may have an item with respect to the Senator removed from a calendar to which it was added under subsection (b) by submitting for inclusion in the Congressional Record the following notice:
+“I, Senator ____, do not object to proceed to ____, dated ____.”.
+
+
+(Pub. L. 110–81, title V, § 512, Sept. 14, 2007, 121 Stat. 759.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 110–81, title V, § 556, Sept. 14, 2007, 121 Stat. 774, provided that: “Except as otherwise provided in this ti</akn:p></akn:content><akn:subsection eId="subsec_30b_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Majority and Minority Leaders of the Senate or their designees shall recognize a notice of intent of a Senator who is a member of their caucus to object to proceeding to a measure or matter only if the Senator—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30b_b"><akn:num>(b)</akn:num><akn:heading>Calendar</akn:heading><akn:content><akn:p>(b) Calendar</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30b_c"><akn:num>(c)</akn:num><akn:heading>Removal</akn:heading><akn:content><akn:p>(c) Removal A Senator may have an item with respect to the Senator removed from a calendar to which it was added under subsection (b) by submitting for inclusion in the Congressional Record the following notice:
+“I, Senator ____, do not object to proceed to ____, dated ____.”.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

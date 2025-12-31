@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/22" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/22/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/22/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_22"><akn:num>22</akn:num><akn:heading>Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, 642</akn:heading><akn:content><akn:p>§§ 21, 22. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, 642
+
+Section 21, R.S. § 2039, related to the Board of Indian Commissioners.
+
+
+Section 22, act Aug. 24, 1912, ch. 388, § 1, 37 Stat. 521, authorized the Board of Indian Commissioners to employ and pay a secretary.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

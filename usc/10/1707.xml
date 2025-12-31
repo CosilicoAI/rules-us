@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1707" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1707/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1707/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1707"><akn:num>1707</akn:num><akn:heading>Cadre of intellectual property experts</akn:heading><akn:content><akn:p>§ 1707. Cadre of intellectual property experts(a) Cadre.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a cadre of personnel who are experts in intellectual property matters. The purpose of the cadre is to ensure a consistent, strategic, and highly knowledgeable approach to acquiring or licensing intellectual property by providing expert advice, assistance, and resources to the acquisition workforce on intellectual property matters, including acquiring or licensing intellectual property.
+
+(b) Leadership Structure.—The Under Secretary—(1) shall establish an appropriate leadership structure and office within which the cadre shall be managed; and
+
+(2) shall determine the appropriate official to whom members of the cadre shall report.
+
+
+(c) Duties.—The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or program executive officer on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—(1) interpret and provide counsel on laws, regulations, and policies relating to intellectual property;
+
+(2) advise and assist in the development of an acquisition strategy, product support strategy, and intellectual property strategy for a system;
+
+(3) conduct or assist with financial analysis and valuation of intellectual property;
+
+(4) assist in the drafting of a solicitation, contract, or other transaction;
+
+(5) interact with or assist in interactions with contractors, including communications and negotiations with contractors on solicitations and awards; and
+
+(6) conduct or assist with mediation if technical data delivered pursuant to a contract is incomplete or does not comply with the terms of agreements.
+
+
+(d) Administration.—(1) In order to achieve the purpose set forth in subsection (a), the Under Secretary shall ensu</akn:p></akn:content><akn:subsection eId="subsec_1707_a"><akn:num>(a)</akn:num><akn:heading>Cadre.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a cadre of personnel who are experts in intellectual property matters. The purpose of the cadre is to ensure a consistent, strategic, and highly knowledgeable approach to acquiring or licensing intellectual property by providing expert advice, assistance, and resources to the acquisition workforce on intellectual property matters, including acquiring or licensing intellectual property.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1707_b"><akn:num>(b)</akn:num><akn:heading>Leadership Structure.—</akn:heading><akn:content><akn:p>(b) The Under Secretary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1707_c"><akn:num>(c)</akn:num><akn:heading>Duties.—</akn:heading><akn:content><akn:p>(c) The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or program executive officer on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1707_d"><akn:num>(d)</akn:num><akn:heading>Administration.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30703"><akn:num>30703</akn:num><akn:heading>Bills of lading</akn:heading><akn:content><akn:p>§ 30703. Bills of lading(a) Issuance.—On demand of a shipper, the carrier shall issue a bill of lading or shipping document.
+
+(b) Contents.—The bill of lading or shipping document shall include a statement of—(1) the marks necessary to identify the goods;
+
+(2) the number of packages, or the quantity or weight, and whether it is carrier’s or shipper’s weight; and
+
+(3) the apparent condition of the goods.
+
+
+(c) Prima Facie Evidence of Receipt.—A bill of lading or shipping document issued under this section is prima facie evidence of receipt of the goods described.
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1516.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3070346 App.:193.Feb. 13, 1893, ch. 105, § 4, 27 Stat. 445.
+
+
+In subsection (a), the words “On demand of a shipper” are added because of the reference to a demand in 46 App. U.S.C. 194. The words “transporting merchandise or property from or between ports of the United States and foreign ports” are omitted because of section 30702(a) of the revised title. The word “lawful” (which modifies “merchandise”) is omitted as unnecessary.
+In subsection (b)(2), the words “or weight” are added for consistency with the requirement to state whether it is the carrier’s or shipper’s weight.
+In subsection (b)(3), the word “order” is omitted as redundant to “condition”. The words “delivered to and received by . . . for transportation” are omitted as unnecessary.</akn:p></akn:content><akn:subsection eId="subsec_30703_a"><akn:num>(a)</akn:num><akn:heading>Issuance.—</akn:heading><akn:content><akn:p>(a) On demand of a shipper, the carrier shall issue a bill of lading or shipping document.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30703_b"><akn:num>(b)</akn:num><akn:heading>Contents.—</akn:heading><akn:content><akn:p>(b) The bill of lading or shipping document shall include a statement of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30703_c"><akn:num>(c)</akn:num><akn:heading>Prima Facie Evidence of Receipt.—</akn:heading><akn:content><akn:p>(c) A bill of lading or shipping document issued under this section is prima facie evidence of receipt of the goods described.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

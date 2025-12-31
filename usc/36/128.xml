@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/128" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/128/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/128/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_128"><akn:num>128</akn:num><akn:heading>National Maritime Day</akn:heading><akn:content><akn:p>§ 128. National Maritime Day(a) Designation.—May 22 is National Maritime Day.
+
+(b) Proclamation.—The President is requested to issue each year a proclamation calling on—(1) the people of the United States to observe National Maritime Day by displaying the flag of the United States at their homes or other suitable places; and
+
+(2) United States Government officials to display the flag on all Government buildings on National Maritime Day.
+
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1260.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+128(a)36:145 (words before comma).May 20, 1933, ch. 36, 48 Stat. 73.
+128(b)36:145 (words after comma).</akn:p></akn:content><akn:subsection eId="subsec_128_a"><akn:num>(a)</akn:num><akn:heading>Designation.—</akn:heading><akn:content><akn:p>(a) May 22 is National Maritime Day.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_128_b"><akn:num>(b)</akn:num><akn:heading>Proclamation.—</akn:heading><akn:content><akn:p>(b) The President is requested to issue each year a proclamation calling on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

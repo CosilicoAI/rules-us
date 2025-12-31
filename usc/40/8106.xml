@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/8106" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/8106/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/8106/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8106"><akn:num>8106</akn:num><akn:heading>Buildings on reservations, parks, or public grounds</akn:heading><akn:content><akn:p>§ 8106. Buildings on reservations, parks, or public grounds
+A building or structure shall not be erected on any reservation, park, or public grounds of the Federal Government in the District of Columbia without express authority of Congress.
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1206.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+810640:68.Aug. 24, 1912, ch. 355, § 1 (10th par. on p. 444), 37 Stat. 444.
+
+
+The words “On and after August 24, 1912” are omitted as obsolete.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

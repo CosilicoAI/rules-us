@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/836a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/836a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/836a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_836a"><akn:num>836a</akn:num><akn:heading>Rules governing issuance of license</akn:heading><akn:content><akn:p>§ 836a. Rules governing issuance of license
+The license issued under the terms of this chapter shall be granted in conformance with Rules of Practice and Procedure of the Federal Energy Regulatory Commission, but in the event of any conflict, the provisions of this chapter shall govern in respect of the project herein authorized.
+(Pub. L. 85–159, § 2, Aug. 21, 1957, 71 Stat. 402; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a) and (b) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

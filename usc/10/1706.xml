@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1706" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1706/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1706/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1706"><akn:num>1706</akn:num><akn:heading>Government performance of certain acquisition functions</akn:heading><akn:content><akn:p>§ 1706. Government performance of certain acquisition functions(a) Goal.—It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 4201 of this title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 4201(a)(2) of this title, and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:(1) Program executive officer.
+
+(2) Deputy program executive officer.
+
+(3) Program manager.
+
+(4) Deputy program manager.
+
+(5) Senior contracting official.
+
+(6) Chief developmental tester.
+
+(7) Program lead product support manager.
+
+(8) Program lead systems engineer.
+
+(9) Program lead cost estimator.
+
+(10) Program lead contracting officer.
+
+(11) Program lead business financial manager.
+
+(12) Program lead production, quality, and manufacturing.
+
+(13) Program lead information technology.
+
+(14) Program lead software.
+
+
+(b) Plan of Action.—The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
+
+(Added Pub. L. 112–239, div. A, title VIII, § 824(a)(1), Jan. 2, 2013, 126 Stat. 1832; amended Pub. L. 116–283, div. A, title VIII, § 812, title XVIII, § 1846(i)(3), Jan. 1, 2021, 134 Stat. 3749, 4252; Pub. L. 116–283, div. A, title XVIII, § 1846(j), as added Pub. L. 117–81, div. A, title XVII, § 1701(b)(15)(C), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 117–81, div. A, title XVII, § 1701(b)(15)(B), Dec. 27, 2021, 135 Stat. 2134.)
+
+Editorial Notes
+Prior ProvisionsA prior section 1706, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639, wh</akn:p></akn:content><akn:subsection eId="subsec_1706_a"><akn:num>(a)</akn:num><akn:heading>Goal.—</akn:heading><akn:content><akn:p>(a) It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 4201 of this title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 4201(a)(2) of this title, and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1706_b"><akn:num>(b)</akn:num><akn:heading>Plan of Action.—</akn:heading><akn:content><akn:p>(b) The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

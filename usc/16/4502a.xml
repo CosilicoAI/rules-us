@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/4502a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/4502a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/4502a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4502a"><akn:num>4502a</akn:num><akn:heading>Tropical forestry research and assistance</akn:heading><akn:content><akn:p>§ 4502a. Tropical forestry research and assistance(a) AssistanceTo promote sound management and conservation of tropical forests of the United States and to promote the development and transfer of technical, managerial, educational, and administrative skills to managers of tropical forests within or outside the United States, the Secretary of Agriculture is authorized to provide assistance through the Forest Service to eligible entities in States with tropical forests to—(1) develop, promote, and demonstrate sustainable harvesting of native woods and other forest products on a sustainable yield basis in balance with natural resource conservation;
+
+(2) promote habitat preservation and species protection or recovery;
+
+(3) protect indigenous plant and animal species and essential watersheds from non-native animals, plants, and pathogens;
+
+(4) establish biological control agents for non-native species that threaten natural ecosystems;
+
+(5) establish a monitoring system in tropical forests to identify baseline conditions and determine detrimental changes or improvements over time;
+
+(6) detect and appraise stresses affecting tropical forests caused by insect infestations, diseases, pollution, fire, and non-native animal and plant species, and by the influence of people;
+
+(7) determine the causes of changes that are detected through experimentation, intensive monitoring, and data collection at affected tropical forest sites; and
+
+(8) engage in research, demonstration, education, training, and outreach that furthers the objectives of this subsection.
+
+
+(b) Form of assistanceAssistance provided to eligible entities under this section may be in the form of grants, contracts, or cooperative agreements.
+
+
+(c) DefinitionsAs used in this section:(1) Eligible entityThe term “eligible entity” means a State forester or equivalent State official, State, political subdivision of a State, Federal agency, private organization, corporation, or other private person.
+
+
+(2) StateThe term “S</akn:p></akn:content><akn:subsection eId="subsec_4502a_a"><akn:num>(a)</akn:num><akn:heading>Assistance</akn:heading><akn:content><akn:p>(a) Assistance To promote sound management and conservation of tropical forests of the United States and to promote the development and transfer of technical, managerial, educational, and administrative skills to managers of tropical forests within or outside the United States, the Secretary of Agriculture is authorized to provide assistance through the Forest Service to eligible entities in States with tropical forests to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502a_b"><akn:num>(b)</akn:num><akn:heading>Form of assistance</akn:heading><akn:content><akn:p>(b) Form of assistance Assistance provided to eligible entities under this section may be in the form of grants, contracts, or cooperative agreements.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502a_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions As used in this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

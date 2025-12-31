@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/194" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/194/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/194/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_194"><akn:num>194</akn:num><akn:heading>Trial of right of property; burden of proof</akn:heading><akn:content><akn:p>§ 194. Trial of right of property; burden of proof
+In all trials about the right of property in which an Indian may be a party on one side, and a white person on the other, the burden of proof shall rest upon the white person, whenever the Indian shall make out a presumption of title in himself from the fact of previous possession or ownership.
+(R.S. § 2126.)
+
+Editorial Notes
+Codification
+R.S. § 2126 derived from act June 30, 1834, ch. 161, § 22, 4 Stat. 733.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

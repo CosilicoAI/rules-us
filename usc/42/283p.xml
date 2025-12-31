@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/283p" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/283p/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/283p/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_283p"><akn:num>283p</akn:num><akn:heading>Population focused research</akn:heading><akn:content><akn:p>§ 283p. Population focused research
+The Director of the National Institutes of Health shall, as appropriate, encourage efforts to improve research related to the health of sexual and gender minority populations, including by—(1) facilitating increased participation of sexual and gender minority populations in clinical research supported by the National Institutes of Health, and reporting on such participation, as applicable;
+
+(2) facilitating the development of valid and reliable methods for research relevant to sexual and gender minority populations; and
+
+(3) addressing methodological challenges.
+
+(July 1, 1944, ch. 373, title IV, § 404N, as added Pub. L. 114–255, div. A, title II, § 2038(d), Dec. 13, 2016, 130 Stat. 1065.)
+
+Statutory Notes and Related Subsidiaries
+ReportingPub. L. 114–255, div. A, title II, § 2038(e), Dec. 13, 2016, 130 Stat. 1065, provided that:
+“(1) In general.—The Secretary, in collaboration with the Director of the National Institutes of Health, shall as appropriate—“(A) continue to support research for the development of appropriate measures related to reporting health information about sexual and gender minority populations; and
+
+“(B) not later than 2 years after the date of enactment of this Act [Dec. 13, 2016], disseminate and make public such measures.
+
+
+“(2) National academy of medicine recommendations.—In developing the measures described in paragraph (1)(A), the Secretary shall take into account recommendations made by the National Academy of Medicine.”</akn:p></akn:content><akn:subsection eId="subsec_283p_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) facilitating increased participation of sexual and gender minority populations in clinical research supported by the National Institutes of Health, and reporting on such participation, as applicable;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_283p_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) facilitating the development of valid and reliable methods for research relevant to sexual and gender minority populations; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_283p_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) addressing methodological challenges.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

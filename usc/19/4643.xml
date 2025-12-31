@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/4643" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/4643/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/4643/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4643"><akn:num>4643</akn:num><akn:heading>Enforcement priorities</akn:heading><akn:content><akn:p>§ 4643. Enforcement priorities
+The Interagency Labor Committee shall—(1) review the list of priority sectors under Annex 31–A of the USMCA and suggest to USTR additional sectors for review by the USMCA countries as appropriate;
+
+(2) establish and annually update a list of priority subsectors within such priority sectors to be the focus of the enforcement efforts of the Committee, the first of which shall consist of—(A) auto assembly;
+
+(B) auto parts;
+
+(C) aerospace;
+
+(D) industrial bakeries;
+
+(E) electronics;
+
+(F) call centers;
+
+(G) mining; and
+
+(H) steel and aluminum; and
+
+
+(3) review priority facilities within such priority subsectors for monitoring and enforcement.
+
+(Pub. L. 116–113, title VII, § 713, Jan. 29, 2020, 134 Stat. 82.)</akn:p></akn:content><akn:subsection eId="subsec_4643_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) review the list of priority sectors under Annex 31–A of the USMCA and suggest to USTR additional sectors for review by the USMCA countries as appropriate;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4643_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) establish and annually update a list of priority subsectors within such priority sectors to be the focus of the enforcement efforts of the Committee, the first of which shall consist of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4643_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) review priority facilities within such priority subsectors for monitoring and enforcement.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

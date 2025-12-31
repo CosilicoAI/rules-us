@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17115a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17115a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17115a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17115a"><akn:num>17115a</akn:num><akn:heading>Development of national smart manufacturing plan</akn:heading><akn:content><akn:p>§ 17115a. Development of national smart manufacturing plan(a) In generalNot later than 3 years after December 27, 2020, the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the National Academies, shall develop and complete a national plan for smart manufacturing technology development and deployment to improve the productivity and energy efficiency of the manufacturing sector of the United States.
+
+
+(b) Content(1) In generalThe plan developed under subsection (a) shall identify areas in which agency actions by the Secretary and other heads of relevant Federal agencies would—(A) facilitate quicker development, deployment, and adoption of smart manufacturing technologies and processes;
+
+(B) result in greater energy efficiency and lower environmental impacts for all American manufacturers; and
+
+(C) enhance competitiveness and strengthen the manufacturing sectors of the United States.
+
+
+(2) InclusionsAgency actions identified under paragraph (1) shall include—(A) an assessment of previous and current actions of the Department relating to smart manufacturing;
+
+(B) the establishment of voluntary interconnection protocols and performance standards;
+
+(C) the use of smart manufacturing to improve energy efficiency and reduce emissions in supply chains across multiple companies;
+
+(D) actions to increase cybersecurity in smart manufacturing infrastructure;
+
+(E) deployment of existing research results;
+
+(F) the leveraging of existing high-performance computing infrastructure; and
+
+(G) consideration of the impact of smart manufacturing on existing manufacturing jobs and future manufacturing jobs.
+
+
+
+(c) Biennial revisionsNot later than 2 years after the date on which the Secretary completes the plan under subsection (a), and not less frequently than once every 2 years thereafter, the Secretary shall revise the plan to account for advancements in information and communication technology and manufacturing needs.
+
+
+(d) ReportAnnually until</akn:p></akn:content><akn:subsection eId="subsec_17115a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than 3 years after December 27, 2020, the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the National Academies, shall develop and complete a national plan for smart manufacturing technology development and deployment to improve the productivity and energy efficiency of the manufacturing sector of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17115a_b"><akn:num>(b)</akn:num><akn:heading>Content</akn:heading><akn:content><akn:p>(b) Content</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17115a_c"><akn:num>(c)</akn:num><akn:heading>Biennial revisions</akn:heading><akn:content><akn:p>(c) Biennial revisions Not later than 2 years after the date on which the Secretary completes the plan under subsection (a), and not less frequently than once every 2 years thereafter, the Secretary shall revise the plan to account for advancements in information and communication technology and manufacturing needs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17115a_d"><akn:num>(d)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(d) Report Annually until the completion of the plan under subsection (a), the Secretary shall submit to Congress a report on the progress made in developing the plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17115a_e"><akn:num>(e)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(e) Definition In this section, the term “smart manufacturing” means advanced technologies in information, automation, monitoring, computation, sensing, modeling, artificial intelligence, analytics, and networking that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

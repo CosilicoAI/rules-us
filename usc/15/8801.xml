@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8801" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8801/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8801/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8801"><akn:num>8801</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8801. Definitions
+In this chapter:(1) Advisory CommitteeThe term “Advisory Committee” means the National Quantum Initiative Advisory Committee established under section 8814(a) of this title.
+
+
+(2) Appropriate committees of CongressThe term “appropriate committees of Congress” means—(A) the Committee on Commerce, Science, and Transportation of the Senate;
+
+(B) the Committee on Energy and Natural Resources of the Senate; and
+
+(C) the Committee on Science, Space, and Technology of the House of Representatives.
+
+
+(3) Coordination OfficeThe term “Coordination Office” means the National Quantum Coordination Office established under section 8812(a) of this title.
+
+
+(4) Institution of higher educationThe term “institution of higher education” has the meaning given the term in section 1001(a) of title 20.
+
+
+(5) ProgramThe term “Program” means the National Quantum Initiative Program implemented under section 8811(a) of this title.
+
+
+(6) Quantum information scienceThe term “quantum information science” means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.
+
+
+(7) Quantum network infrastructureThe term “quantum network infrastructure” means any facility, expertise, or capability that is necessary to enable the development and deployment of scalable and diverse quantum network technologies.
+
+
+(8) 11 So in original. Two pars. (8) have been enacted. Subcommittee on Economic and Security ImplicationsThe term “Subcommittee on Economic and Security Implications” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under section 8814a(a) of this title.
+
+
+(8) 1 Subcommittee on Quantum Information ScienceThe term “Subcommittee on Quantum Information Science” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title.
+
+
+(Pub. L. 115–368, § 2, Dec. 21, 2018, 132 Stat. </akn:p></akn:content><akn:subsection eId="subsec_8801_1"><akn:num>(1)</akn:num><akn:heading>Advisory Committee</akn:heading><akn:content><akn:p>(1) Advisory Committee The term “Advisory Committee” means the National Quantum Initiative Advisory Committee established under section 8814(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_2"><akn:num>(2)</akn:num><akn:heading>Appropriate committees of Congress</akn:heading><akn:content><akn:p>(2) Appropriate committees of Congress The term “appropriate committees of Congress” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_3"><akn:num>(3)</akn:num><akn:heading>Coordination Office</akn:heading><akn:content><akn:p>(3) Coordination Office The term “Coordination Office” means the National Quantum Coordination Office established under section 8812(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_4"><akn:num>(4)</akn:num><akn:heading>Institution of higher education</akn:heading><akn:content><akn:p>(4) Institution of higher education The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_5"><akn:num>(5)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(5) Program The term “Program” means the National Quantum Initiative Program implemented under section 8811(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_6"><akn:num>(6)</akn:num><akn:heading>Quantum information science</akn:heading><akn:content><akn:p>(6) Quantum information science The term “quantum information science” means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_7"><akn:num>(7)</akn:num><akn:heading>Quantum network infrastructure</akn:heading><akn:content><akn:p>(7) Quantum network infrastructure The term “quantum network infrastructure” means any facility, expertise, or capability that is necessary to enable the development and deployment of scalable and diverse quantum network technologies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_8"><akn:num>(8)</akn:num><akn:heading>11 So in original. Two pars. (8) have been enacted. Subcommittee on Economic and Security Implications</akn:heading><akn:content><akn:p>(8) The term “Subcommittee on Economic and Security Implications” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under section 8814a(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8801_8"><akn:num>(8)</akn:num><akn:heading>1 Subcommittee on Quantum Information Science</akn:heading><akn:content><akn:p>(8) The term “Subcommittee on Quantum Information Science” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

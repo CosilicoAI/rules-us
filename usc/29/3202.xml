@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/3202" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/3202/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/3202/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3202"><akn:num>3202</akn:num><akn:heading>Standards of conduct</akn:heading><akn:content><akn:p>§ 3202. Standards of conduct(a) Provision and enforcementThe Secretary shall provide, and directors of Job Corps centers shall stringently enforce, standards of conduct within the centers. Such standards of conduct shall include provisions forbidding the actions described in subsection (b)(2)(A).
+
+
+(b) Disciplinary measures(1) In generalTo promote the proper behavioral standards in the Job Corps, the directors of Job Corps centers shall have the authority to take appropriate disciplinary measures against enrollees if such a director determines that an enrollee has committed a violation of the standards of conduct. The director shall dismiss the enrollee from the Job Corps if the director determines that the retention of the enrollee in the Job Corps will jeopardize the enforcement of such standards, threaten the safety of staff, students, or the local community, or diminish the opportunities of other enrollees.
+
+
+(2) Zero tolerance policy and drug testing(A) GuidelinesThe Secretary shall adopt guidelines establishing a zero tolerance policy for an act of violence, for use, sale, or possession of a controlled substance, for abuse of alcohol, or for other illegal or disruptive activity.
+
+
+(B) Drug testingThe Secretary shall require drug testing of all enrollees for controlled substances in accordance with procedures prescribed by the Secretary under section 3195(a) of this title.
+
+
+(C) DefinitionsIn this paragraph:(i) Controlled substanceThe term “controlled substance” has the meaning given the term in section 802 of title 21.
+
+
+(ii) Zero tolerance policyThe term “zero tolerance policy” means a policy under which an enrollee shall be automatically dismissed from the Job Corps after a determination by the director that the enrollee has carried out an action described in subparagraph (A).
+
+
+
+
+
+(c) AppealA disciplinary measure taken by a director under this section shall be subject to expeditious appeal in accordance with procedures established by the Secretary.
+
+
+(Pub. </akn:p></akn:content><akn:subsection eId="subsec_3202_a"><akn:num>(a)</akn:num><akn:heading>Provision and enforcement</akn:heading><akn:content><akn:p>(a) Provision and enforcement The Secretary shall provide, and directors of Job Corps centers shall stringently enforce, standards of conduct within the centers. Such standards of conduct shall include provisions forbidding the actions described in subsection (b)(2)(A).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3202_b"><akn:num>(b)</akn:num><akn:heading>Disciplinary measures</akn:heading><akn:content><akn:p>(b) Disciplinary measures</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3202_c"><akn:num>(c)</akn:num><akn:heading>Appeal</akn:heading><akn:content><akn:p>(c) Appeal A disciplinary measure taken by a director under this section shall be subject to expeditious appeal in accordance with procedures established by the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

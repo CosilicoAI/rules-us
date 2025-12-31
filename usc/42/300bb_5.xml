@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300bb–5" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300bb–5/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300bb–5/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300bb_5"><akn:num>300bb–5</akn:num><akn:heading>Election</akn:heading><akn:content><akn:p>§ 300bb–5. Election(a) In generalFor purposes of this subchapter—(1) Election periodThe term “election period” means the period which—(A) begins not later than the date on which coverage terminates under the plan by reason of a qualifying event,
+
+(B) is of at least 60 days’ duration, and
+
+(C) ends not earlier than 60 days after the later of—(i) the date described in subparagraph (A), or
+
+(ii) in the case of any qualified beneficiary who receives notice under section 300bb–6(4) of this title, the date of such notice.
+
+
+
+(2) Effect of election on other beneficiariesExcept as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of section 300bb–8(3) of this title shall be deemed to include an election of continuation coverage on behalf of any other qualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
+
+
+
+(b) Temporary extension of COBRA election period for certain individuals(1) In generalIn the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a), such individual may elect continuation coverage under this subchapter during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
+
+
+(2) Commencement of coverage; no reach-backAny continuation coverage elected by a TAA-eligible individual under paragraph (1) shall commence at the beginning of the 60-day election period described in such paragraph and shall not include any period prior to such 60-day election period.
+
+
+(3) Preexisting conditionsWith respect to an individual who elects continuation coverage pursuant to paragraph (1), the period</akn:p></akn:content><akn:subsection eId="subsec_300bb_5_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For purposes of this subchapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300bb_5_b"><akn:num>(b)</akn:num><akn:heading>Temporary extension of COBRA election period for certain individuals</akn:heading><akn:content><akn:p>(b) Temporary extension of COBRA election period for certain individuals</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

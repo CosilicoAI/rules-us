@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/1103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/1103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/1103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1103"><akn:num>1103</akn:num><akn:heading>Budget ceiling</akn:heading><akn:content><akn:p>§ 1103. Budget ceiling
+Congress reaffirms its commitment that budget outlays of the United States Government for a fiscal year may be not more than the receipts of the Government for that year.
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+110331:27.Oct. 10, 1978, Pub. L. 95–435, § 7, 92 Stat. 1053; restated Oct. 7, 1980, Pub. L. 96–389, § 3, 94 Stat. 1553.
+
+
+The word “total” is omitted as surplus. The words “for a fiscal year” are substituted for “beginning with Fiscal Year 1981” because of the restatement and to eliminate executed words. The words “for that year” are added because of the restatement.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

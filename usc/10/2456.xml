@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2456" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2456/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2456/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2456"><akn:num>2456</akn:num><akn:heading>Coordination with General Services Administration</akn:heading><akn:content><akn:p>§ 2456. Coordination with General Services Administration
+To avoid unnecessary duplication, the Administrator of General Services and the Secretary of Defense shall coordinate the cataloging and standardization activities of the General Services Administration and the Department of Defense.
+(Aug. 10, 1956, ch. 1041, 70A Stat. 140.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+24565:173i.July 1, 1952, ch. 539, § 11, 66 Stat. 320.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/385" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/385/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/385/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_385"><akn:num>385</akn:num><akn:heading>Treatment of certain interests in corporations as stock or indebtedness</akn:heading><akn:content><akn:p>§ 385. Treatment of certain interests in corporations as stock or indebtedness(a) Authority to prescribe regulationsThe Secretary is authorized to prescribe such regulations as may be necessary or appropriate to determine whether an interest in a corporation is to be treated for purposes of this title as stock or indebtedness (or as in part stock and in part indebtedness).
+
+
+(b) FactorsThe regulations prescribed under this section shall set forth factors which are to be taken into account in determining with respect to a particular factual situation whether a debtor-creditor relationship exists or a corporation-shareholder relationship exists. The factors so set forth in the regulations may include among other factors:(1) whether there is a written unconditional promise to pay on demand or on a specified date a sum certain in money in return for an adequate consideration in money or money’s worth, and to pay a fixed rate of interest,
+
+(2) whether there is subordination to or preference over any indebtedness of the corporation,
+
+(3) the ratio of debt to equity of the corporation,
+
+(4) whether there is convertibility into the stock of the corporation, and
+
+(5) the relationship between holdings of stock in the corporation and holdings of the interest in question.
+
+
+(c) Effect of classification by issuer(1) In generalThe characterization (as of the time of issuance) by the issuer as to whether an interest in a corporation is stock or indebtedness shall be binding on such issuer and on all holders of such interest (but shall not be binding on the Secretary).
+
+
+(2) Notification of inconsistent treatmentExcept as provided in regulations, paragraph (1) shall not apply to any holder of an interest if such holder on his return discloses that he is treating such interest in a manner inconsistent with the characterization referred to in paragraph (1).
+
+
+(3) RegulationsThe Secretary is authorized to require such information as the Secretary determines to be necessary to carry ou</akn:p></akn:content><akn:subsection eId="subsec_385_a"><akn:num>(a)</akn:num><akn:heading>Authority to prescribe regulations</akn:heading><akn:content><akn:p>(a) Authority to prescribe regulations The Secretary is authorized to prescribe such regulations as may be necessary or appropriate to determine whether an interest in a corporation is to be treated for purposes of this title as stock or indebtedness (or as in part stock and in part indebtedness).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_385_b"><akn:num>(b)</akn:num><akn:heading>Factors</akn:heading><akn:content><akn:p>(b) Factors The regulations prescribed under this section shall set forth factors which are to be taken into account in determining with respect to a particular factual situation whether a debtor-creditor relationship exists or a corporation-shareholder relationship exists. The factors so set forth in the regulations may include among other factors:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_385_c"><akn:num>(c)</akn:num><akn:heading>Effect of classification by issuer</akn:heading><akn:content><akn:p>(c) Effect of classification by issuer</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

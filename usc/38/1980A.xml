@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1980A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1980A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1980A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1980A"><akn:num>1980A</akn:num><akn:heading>Traumatic injury protection</akn:heading><akn:content><akn:p>§ 1980A. Traumatic injury protection(a)(1) A member of the uniformed services who is insured under Servicemembers’ Group Life Insurance shall automatically be insured for traumatic injury in accordance with this section. Insurance benefits under this section shall be payable if the member, while so insured, sustains a traumatic injury on or after December 1, 2005, that results in a qualifying loss specified pursuant to subsection (b)(1).
+
+(2) If a member suffers more than one such qualifying loss as a result of traumatic injury from the same traumatic event, payment shall be made under this section in accordance with the schedule prescribed pursuant to subsection (d) for the single loss providing the highest payment.
+
+
+(b)(1) A member who is insured against traumatic injury under this section is insured against such losses due to traumatic injury (in this section referred to as “qualifying losses”) as are prescribed by the Secretary by regulation. Qualifying losses so prescribed shall include the following:(A) Total and permanent loss of sight.
+
+(B) Loss of a hand or foot by severance at or above the wrist or ankle.
+
+(C) Total and permanent loss of speech.
+
+(D) Total and permanent loss of hearing in both ears.
+
+(E) Loss of thumb and index finger of the same hand by severance at or above the metacarpophalangeal joints.
+
+(F) Quadriplegia, paraplegia, or hemiplegia.
+
+(G) Burns greater than second degree, covering 30 percent of the body or 30 percent of the face.
+
+(H) Coma or the inability to carry out the activities of daily living resulting from traumatic injury to the brain.
+
+
+(2) For purposes of this subsection:(A) The term “quadriplegia” means the complete and irreversible paralysis of all four limbs.
+
+(B) The term “paraplegia” means the complete and irreversible paralysis of both lower limbs.
+
+(C) The term “hemiplegia” means the complete and irreversible paralysis of the upper and lower limbs on one side of the body.
+
+(D) The term “inability to carry out the activ</akn:p></akn:content><akn:subsection eId="subsec_1980A_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) When a claim for benefits is submitted under this section, the Secretary of Defense or, in the case of a member not under the jurisdiction of the Secretary of Defense, the Secretary concerned, shall certify to the Secretary whether the member with respect to whom the claim is submitted—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_h"><akn:num>(h)</akn:num><akn:content><akn:p>(h) Coverage for loss resulting from traumatic injury provided under this section shall cease at midnight on the date of the termination of the member’s duty status in the uniformed services that established eligibility for Servicemembers’ Group Life Insurance. The termination of coverage under this section is effective in accordance with the preceding sentence, notwithstanding any continuation after the date specified in that sentence of Servicemembers’ Group Life Insurance coverage pursuant to section 1968(a) of this title for a period specified in that section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_i"><akn:num>(i)</akn:num><akn:content><akn:p>(i) Insurance coverage provided under this section is not convertible to Veterans’ Group Life Insurance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1980A_j"><akn:num>(j)</akn:num><akn:content><akn:p>(j) Regulations under this section shall be prescribed in consultation with the Secretary of Defense.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

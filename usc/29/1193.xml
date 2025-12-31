@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1193" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1193/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1193/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1193"><akn:num>1193</akn:num><akn:heading>Pension-linked emergency savings accounts</akn:heading><akn:content><akn:p>§ 1193. Pension-linked emergency savings accounts(a) In generalA plan sponsor of an individual account plan may—(1) include in such individual account plan a pension-linked emergency savings account meeting the requirements of subsection (c); and
+
+(2)(A) offer to enroll an eligible participant in such pension-linked emergency savings account; or
+
+(B) automatically enroll an eligible participant in such account pursuant to an automatic contribution arrangement described in paragraph (2) of subsection (c).
+
+
+
+(b) Eligible participant(1) In generalFor purposes of this part, the term “eligible participant”, with regard to an individual account plan, means an individual who—(A) meets any age, service, and other eligibility requirements of the plan; and
+
+(B) is not a highly compensated employee.
+
+
+(2) Eligible participant who becomes a highly compensated employeeNotwithstanding paragraph (1)(B), an individual who is enrolled in a pension-linked emergency savings account and thereafter becomes a highly compensated employee may not make further contributions to such account, but retains the right to withdraw any account balance of such account in accordance with subsection (c)(1)(A)(ii).
+
+
+(3) DefinitionFor purposes of this subsection, the term “highly compensated employee” has the meaning given the term in section 414(q) of title 26.
+
+
+
+(c) Account requirements(1) In generalA pension-linked emergency savings account—(A) shall—(i) not have a minimum contribution or account balance requirement;
+
+(ii) allow for withdrawal by the participant of the account balance, in whole or in part at the discretion of the participant, at least once per calendar month and for distribution of such withdrawal to the participant as soon as practicable from the date on which the participant elects to make such withdrawal; and
+
+(iii) be, as selected by the plan sponsor, held as cash, in an interest-bearing deposit account, or in an investment product—(I) designed to—(aa) maintain over the term o</akn:p></akn:content><akn:subsection eId="subsec_1193_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general A plan sponsor of an individual account plan may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1193_b"><akn:num>(b)</akn:num><akn:heading>Eligible participant</akn:heading><akn:content><akn:p>(b) Eligible participant</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1193_c"><akn:num>(c)</akn:num><akn:heading>Account requirements</akn:heading><akn:content><akn:p>(c) Account requirements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1193_d"><akn:num>(d)</akn:num><akn:heading>Account contributions</akn:heading><akn:content><akn:p>(d) Account contributions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1193_e"><akn:num>(e)</akn:num><akn:heading>Account balance after termination</akn:heading><akn:content><akn:p>(e) Account balance after termination Upon termination of employment of the participant, or termination by the plan sponsor of the pension-linked emergency savings account, the pension-linked emergency savings account of such participant in an individual account plan shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1193_f"><akn:num>(f)</akn:num><akn:heading>Anti-abuse rules</akn:heading><akn:content><akn:p>(f) Anti-abuse rules</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

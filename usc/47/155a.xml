@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/155a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/155a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/155a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_155a"><akn:num>155a</akn:num><akn:heading>Authority of Chief Information Officer</akn:heading><akn:content><akn:p>§ 155a. Authority of Chief Information Officer(a) In generalThe Commission shall ensure that the Chief Information Officer of the Commission has a significant role in—(1) the decision-making process for annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to information technology;
+
+(2) the management, governance, and oversight processes related to information technology; and
+
+(3) the hiring of personnel with information technology responsibilities.
+
+
+(b) CIO approvalThe Chief Information Officer of the Commission, in consultation with the Chief Financial Officer of the Commission and budget officials, shall specify and approve the allocation of amounts appropriated to the Commission for information technology, consistent with the provisions of appropriations Acts, budget guidelines, and recommendations from the Director of the Office of Management and Budget.
+
+
+(Pub. L. 115–141, div. P, title V, § 502, Mar. 23, 2018, 132 Stat. 1091.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018, also known as the RAY BAUM’S Act of 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Definition
+Pub. L. 115–141, div. P, § 2, Mar. 23, 2018, 132 Stat. 1081, provided that: “In this division [see Short Title of 2018 Amendment note set out under section 609 of this title], the term ‘Commission’ means the Federal Communications Commission.”</akn:p></akn:content><akn:subsection eId="subsec_155a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Commission shall ensure that the Chief Information Officer of the Commission has a significant role in—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_155a_b"><akn:num>(b)</akn:num><akn:heading>CIO approval</akn:heading><akn:content><akn:p>(b) CIO approval The Chief Information Officer of the Commission, in consultation with the Chief Financial Officer of the Commission and budget officials, shall specify and approve the allocation of amounts appropriated to the Commission for information technology, consistent with the provisions of appropriations Acts, budget guidelines, and recommendations from the Director of the Office of Management and Budget.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

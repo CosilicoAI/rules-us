@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/1411" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/1411/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/1411/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1411"><akn:num>1411</akn:num><akn:heading>National Customs Automation Program</akn:heading><akn:content><akn:p>§ 1411. National Customs Automation Program(a) EstablishmentThe Secretary shall establish the National Customs Automation Program (hereinafter in this subpart referred to as the “Program”) which shall be an automated and electronic system for processing commercial importations and shall include the following existing and planned components:(1) Existing components:(A) The electronic entry of merchandise.
+
+(B) The electronic entry summary of required information.
+
+(C) The electronic transmission of invoice information.
+
+(D) The electronic transmission of manifest information.
+
+(E) Electronic payments of duties, fees, and taxes.
+
+(F) The electronic status of liquidation and reliquidation.
+
+(G) The electronic selection of high risk entries for examination (cargo selectivity and entry summary selectivity).
+
+
+(2) Planned components:(A) The electronic filing and status of protests.
+
+(B) The electronic filing (including remote filing under section 1414 of this title) of entry information with the Customs Service at any location.
+
+(C) The electronic filing of import activity summary statements and reconciliation.
+
+(D) The electronic filing of bonds.
+
+(E) The electronic penalty process.
+
+(F) The electronic filing of drawback claims, records, or entries.
+
+(G) Any other component initiated by the Customs Service to carry out the goals of this subpart.
+
+
+
+(b) Participation in ProgramThe Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
+
+
+(c) Foreign-trade zonesNot later than January 1, 2000, the Secretary shall provide for the inclusion of commercial importation data from foreign-trade zones under the Program.
+
+
+(d) International Trade Data System(1) Establishment(A) In generalThe Secretary of the Treasury (in thi</akn:p></akn:content><akn:subsection eId="subsec_1411_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary shall establish the National Customs Automation Program (hereinafter in this subpart referred to as the “Program”) which shall be an automated and electronic system for processing commercial importations and shall include the following existing and planned components:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1411_b"><akn:num>(b)</akn:num><akn:heading>Participation in Program</akn:heading><akn:content><akn:p>(b) Participation in Program The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) or any other information required to be submitted to the Customs Service separately pursuant to this subpart.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1411_c"><akn:num>(c)</akn:num><akn:heading>Foreign-trade zones</akn:heading><akn:content><akn:p>(c) Foreign-trade zones Not later than January 1, 2000, the Secretary shall provide for the inclusion of commercial importation data from foreign-trade zones under the Program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1411_d"><akn:num>(d)</akn:num><akn:heading>International Trade Data System</akn:heading><akn:content><akn:p>(d) International Trade Data System</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

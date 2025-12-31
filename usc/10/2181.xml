@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2181" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2181/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2181/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2181"><akn:num>2181</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 2181. Definitions
+In this chapter:(1) The terms “captive status” and “former captive” have the meanings given those terms in section 559 of title 37.
+
+(2) The term “dependent” has the meaning given that term in section 551 of that title.
+
+(Added Pub. L. 99–399, title VIII, § 806(d)(1), Aug. 27, 1986, 100 Stat. 887, and Pub. L. 100–26, § 7(k)(6), Apr. 21, 1987, 101 Stat. 284.)
+
+Editorial Notes
+Amendments1987—Pub. L. 100–26, substituted “The terms ‘captive’ ” for “ ‘Captive’ ” in par. (1) and “The term ‘dependent’ ” for “ ‘Dependent’ ” in par. (2).
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 99–399, title VIII, § 806(d)(3), Aug. 27, 1986, 100 Stat. 888, provided that: “Chapter 110 of title 10, United States Code, as added by paragraph (1), shall apply with respect to persons whose captive status begins after January 21, 1981.”</akn:p></akn:content><akn:subsection eId="subsec_2181_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The terms “captive status” and “former captive” have the meanings given those terms in section 559 of title 37.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2181_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “dependent” has the meaning given that term in section 551 of that title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

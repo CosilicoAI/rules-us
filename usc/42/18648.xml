@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18648" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18648/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18648/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18648"><akn:num>18648</akn:num><akn:heading>Accelerator research and development</akn:heading><akn:content><akn:p>§ 18648. Accelerator research and development(a) ProgramAs part of the activities authorized under section 7139 of this title, the Director shall carry out a research program—(1) to advance accelerator science and technology relevant to the Department, other Federal agencies, and United States industry;
+
+(2) to foster partnerships to develop, demonstrate, and enable the commercial application of accelerator technologies;
+
+(3) to support the development of a skilled, diverse, and inclusive accelerator workforce; and
+
+(4) to provide access to accelerator design and engineering resources.
+
+
+(b) Accelerator researchIn carrying out the program authorized under subsection (a), the Director shall support—(1) research activities in cross-cutting accelerator technologies including superconducting magnets and accelerators, beam physics, data analytics-based accelerator controls, simulation software, new particle sources, advanced laser technology, and transformative research; and
+
+(2) optimal operation of the Accelerator Test Facility.
+
+
+(c) Accelerator developmentIn carrying out the program authorized under subsection (a), the Director shall support partnerships to foster the development, demonstration, and commercial application of accelerator technologies, including advanced superconducting wire and cable, superconducting RF cavities, and high efficiency radiofrequency power sources for accelerators.
+
+
+(d) Research collaborationsIn developing accelerator technologies under the program authorized under subsection (a), the Director shall—(1) consider the requirements necessary to support translational research and development for medical, industrial, security, and defense applications; and
+
+(2) leverage investments in accelerator technologies and fundamental research in particle physics by partnering with institutions of higher education, industry, and other Federal agencies to enable the commercial application of advanced accelerator technologies.
+
+
+(e) Authorization of app</akn:p></akn:content><akn:subsection eId="subsec_18648_a"><akn:num>(a)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(a) Program As part of the activities authorized under section 7139 of this title, the Director shall carry out a research program—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18648_b"><akn:num>(b)</akn:num><akn:heading>Accelerator research</akn:heading><akn:content><akn:p>(b) Accelerator research In carrying out the program authorized under subsection (a), the Director shall support—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18648_c"><akn:num>(c)</akn:num><akn:heading>Accelerator development</akn:heading><akn:content><akn:p>(c) Accelerator development In carrying out the program authorized under subsection (a), the Director shall support partnerships to foster the development, demonstration, and commercial application of accelerator technologies, including advanced superconducting wire and cable, superconducting RF cavities, and high efficiency radiofrequency power sources for accelerators.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18648_d"><akn:num>(d)</akn:num><akn:heading>Research collaborations</akn:heading><akn:content><akn:p>(d) Research collaborations In developing accelerator technologies under the program authorized under subsection (a), the Director shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18648_e"><akn:num>(e)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(e) Authorization of appropriations Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

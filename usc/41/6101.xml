@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/6101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/6101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/6101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6101"><akn:num>6101</akn:num><akn:heading>Advertising requirement for Federal Government purchases and sales</akn:heading><akn:content><akn:p>§ 6101. Advertising requirement for Federal Government purchases and sales(a) Definitions.—In this section—(1) Appropriation.—The term “appropriation” includes amounts made available by legislation under section 9104 of title 31.
+
+(2) Federal government.—The term “Federal Government” includes the government of the District of Columbia.
+
+
+(b) Purchases.—(1) In general.—Unless otherwise provided in the appropriation concerned or other law, purchases and contracts for supplies or services for the Federal Government may be made or entered into only after advertising for proposals for a sufficient time.
+
+(2) Limitations on applicability.—Paragraph (1) does not apply when—(A) the amount involved in any one case does not exceed $25,000;
+
+(B) public exigencies require the immediate delivery of articles or performance of services;
+
+(C) only one source of supply is available and the Federal Government purchasing or contracting officer so certifies; or
+
+(D) services are required to be performed by a contractor in person and are—(i) of a technical and professional nature; or
+
+(ii) under Federal Government supervision and paid for on a time basis.
+
+
+
+
+(c) Sales.—Except when otherwise authorized by law or when the reasonable value involved in any one case does not exceed $500, sales and contracts of sale by the Federal Government are governed by the requirements of this section for advertising.
+
+(d) Application to Wholly Owned Government Corporations.—For wholly owned Government corporations, this section applies only to administrative transactions.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3801.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6101(a)41:5a.Aug. 2, 1946, ch. 744, § 18, 60 Stat. 811.
+6101(b)–(d)41:5.R.S. § 3709; Aug. 2, 1946, ch. 744, § 9(a), (c), 60 Stat. 809; June 30, 1949, ch. 288, title VI, § 602(f), formerly title V, § 502(e), 63 Stat. 403, renumbered title VI, § 602(f), Sept. 5, 1950, ch. 849, §§ </akn:p></akn:content><akn:subsection eId="subsec_6101_a"><akn:num>(a)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(a) In this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_b"><akn:num>(b)</akn:num><akn:heading>Purchases.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_c"><akn:num>(c)</akn:num><akn:heading>Sales.—</akn:heading><akn:content><akn:p>(c) Except when otherwise authorized by law or when the reasonable value involved in any one case does not exceed $500, sales and contracts of sale by the Federal Government are governed by the requirements of this section for advertising.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_d"><akn:num>(d)</akn:num><akn:heading>Application to Wholly Owned Government Corporations.—</akn:heading><akn:content><akn:p>(d) For wholly owned Government corporations, this section applies only to administrative transactions.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/3559" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/3559/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/3559/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3559"><akn:num>3559</akn:num><akn:heading>Sentencing classification of offenses</akn:heading><akn:content><akn:p>§ 3559. Sentencing classification of offenses(a) Classification.—An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—(1) life imprisonment, or if the maximum penalty is death, as a Class A felony;
+
+(2) twenty-five years or more, as a Class B felony;
+
+(3) less than twenty-five years but ten or more years, as a Class C felony;
+
+(4) less than ten years but five or more years, as a Class D felony;
+
+(5) less than five years but more than one year, as a Class E felony;
+
+(6) one year or less but more than six months, as a Class A misdemeanor;
+
+(7) six months or less but more than thirty days, as a Class B misdemeanor;
+
+(8) thirty days or less but more than five days, as a Class C misdemeanor; or
+
+(9) five days or less, or if no imprisonment is authorized, as an infraction.
+
+
+(b) Effect of Classification.—Except as provided in subsection (c), an offense classified under subsection (a) carries all the incidents assigned to the applicable letter designation, except that the maximum term of imprisonment is the term authorized by the law describing the offense.
+
+(c) Imprisonment of Certain Violent Felons.—(1) Mandatory life imprisonment.—Notwithstanding any other provision of law, a person who is convicted in a court of the United States of a serious violent felony shall be sentenced to life imprisonment if—(A) the person has been convicted (and those convictions have become final) on separate prior occasions in a court of the United States or of a State of—(i) 2 or more serious violent felonies; or
+
+(ii) one or more serious violent felonies and one or more serious drug offenses; and
+
+
+(B) each serious violent felony or serious drug offense used as a basis for sentencing under this subsection, other than the first, was committed after the defendant’s conviction of the preceding serious violent felony or serious drug offense.
+
+
+(2) Definitions.—For purposes of this subsection</akn:p></akn:content><akn:subsection eId="subsec_3559_a"><akn:num>(a)</akn:num><akn:heading>Classification.—</akn:heading><akn:content><akn:p>(a) An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3559_b"><akn:num>(b)</akn:num><akn:heading>Effect of Classification.—</akn:heading><akn:content><akn:p>(b) Except as provided in subsection (c), an offense classified under subsection (a) carries all the incidents assigned to the applicable letter designation, except that the maximum term of imprisonment is the term authorized by the law describing the offense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3559_c"><akn:num>(c)</akn:num><akn:heading>Imprisonment of Certain Violent Felons.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3559_d"><akn:num>(d)</akn:num><akn:heading>Death or Imprisonment for Crimes Against Children.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3559_e"><akn:num>(e)</akn:num><akn:heading>Mandatory Life Imprisonment for Repeated Sex Offenses Against Children.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3559_f"><akn:num>(f)</akn:num><akn:heading>Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—</akn:heading><akn:content><akn:p>(f) A person who is convicted of a Federal offense that is a crime of violence against the person of an individual who has not attained the age of 18 years shall, unless a greater mandatory minimum sentence of imprisonment is otherwise provided by law and regardless of any maximum term of imprisonment otherwise provided for the offense—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3559_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

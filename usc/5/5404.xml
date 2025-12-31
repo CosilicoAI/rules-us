@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5404" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5404/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5404/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5404"><akn:num>5404</akn:num><akn:heading>Human capital performance payments</akn:heading><akn:content><akn:p>§ 5404. Human capital performance payments(a)(1) Notwithstanding any other provision of law, the Office may authorize an agency to provide human capital performance payments to individual employees based on exceptional performance contributing to the achievement of the agency mission.
+
+(2) The number of employees in an agency receiving payments from the Fund, in any year, shall not be more than the number equal to 15 percent of the agency’s average total civilian full- and part-time permanent employment for the previous fiscal year.
+
+
+(b)(1) A human capital performance payment provided to an individual employee from the Fund, in any year, shall not exceed 10 percent of the employee’s rate of basic pay.
+
+(2) The aggregate of an employee’s rate of basic pay, adjusted by any locality-based comparability payments, and human capital performance pay, as defined by regulation, may not exceed the rate of basic pay for Executive Level IV in any year.
+
+(3) Any human capital performance payment provided to an employee from the Fund is in addition to any annual pay adjustment (under section 5303 or any similar provision of law) and any locality-based comparability payment that may apply.
+
+
+(c) No monies from the Human Capital Performance Fund may be used to pay for a new position, for other performance-related payments, or for recruitment or retention incentives paid under sections 5753 and 5754.
+
+(d)(1) An agency may finance initial human capital performance payments using monies from the Human Capital Performance Fund, as available.
+
+(2) In subsequent years, continuation of previously awarded human capital performance payments shall be financed from other agency funds available for salaries and expenses.
+
+
+(Added Pub. L. 108–136, div. A, title XI, § 1129(a), Nov. 24, 2003, 117 Stat. 1643.)
+
+Editorial Notes
+
+References in TextExecutive Level IV, referred to in subsec. (b)(2), is set out in section 5315 of this title.
+
+Prior ProvisionsA prior section 5404, added Pub. L. 95–454,</akn:p></akn:content><akn:subsection eId="subsec_5404_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5404_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5404_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) No monies from the Human Capital Performance Fund may be used to pay for a new position, for other performance-related payments, or for recruitment or retention incentives paid under sections 5753 and 5754.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5404_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30104"><akn:num>30104</akn:num><akn:heading>Personal injury to or death of seamen</akn:heading><akn:content><akn:p>§ 30104. Personal injury to or death of seamen(a) In General.—A seaman injured in the course of employment or, if the seaman dies from the injury, the personal representative of the seaman may elect to bring a civil action at law, with the right of trial by jury, against the employer. Laws of the United States regulating recovery for personal injury to, or death of, a railway employee apply to an action under this section.
+
+(b) Limitation on Recovery by Aquaculture Workers.—(1) In general.—For purposes of subsection (a), the term “seaman” does not include an individual who—(A) is an aquaculture worker if State workers’ compensation is available to such individual; and
+
+(B) was, at the time of injury, engaged in aquaculture in a place where such individual had lawful access.
+
+
+(2) Aquaculture worker defined.—In this subsection, the term “aquaculture worker” means an individual who—(A) is employed by a commercial enterprise that is involved in the controlled cultivation and harvest of aquatic plants and animals, including—(i) the cleaning, processing, or canning of fish and fish products;
+
+(ii) the cultivation and harvesting of shellfish; and
+
+(iii) the controlled growing and harvesting of other aquatic species;
+
+
+(B) does not hold a license issued under section 7101(c); and
+
+(C) is not required to hold a merchant mariner credential under part F of subtitle II.
+
+
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1510; Pub. L. 110–181, div. C, title XXXV, § 3521(a), Jan. 28, 2008, 122 Stat. 596; Pub. L. 117–263, div. K, title CXV, § 11520(a), Dec. 23, 2022, 136 Stat. 4142.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30104(a)46 App.:688(a) (1st sentence).Mar. 4, 1915, ch. 153, § 20(a), 38 Stat. 1185; June 5, 1920, ch. 250, § 33, 41 Stat. 1007; Pub. L. 97–389, title V, § 503(a)(1), Dec. 29, 1982, 96 Stat. 1955.
+30104(b)46 App.:688(a) (last sentence).
+
+
+In subsection (a), the words “A seaman injured in the cour</akn:p></akn:content><akn:subsection eId="subsec_30104_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A seaman injured in the course of employment or, if the seaman dies from the injury, the personal representative of the seaman may elect to bring a civil action at law, with the right of trial by jury, against the employer. Laws of the United States regulating recovery for personal injury to, or death of, a railway employee apply to an action under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30104_b"><akn:num>(b)</akn:num><akn:heading>Limitation on Recovery by Aquaculture Workers.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/4506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/4506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/4506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4506"><akn:num>4506</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>§ 4506. Termination(a) In general(1) Except as provided in subsection (b), the provisions of this chapter (other than section 4504 of this title) shall terminate 90 days after the Secretary—(A) determines that all of the restitutionary amounts to which section 4501(a) of this title applies have been collected and disbursed as provided in this chapter; and
+
+(B) submits to Congress the final report required by section 4505 of this title.
+
+
+(2) Such final report shall include the determination (and the justification thereof) described in paragraph (1)(A). Such report shall also be published in the Federal Register.
+
+
+(b) ExceptionThe requirements of section 4502(d) 11 See References in Text note below. of this title shall continue to be applicable to the use of restitutionary amounts received under this chapter as long as such funds remain available.
+
+
+(Pub. L. 99–509, title III, § 3007, Oct. 21, 1986, 100 Stat. 1887.)
+
+Editorial Notes
+
+References in TextSection 4502(d) of this title, referred to in subsec. (b), was repealed by section 4502(e) of this title.</akn:p></akn:content><akn:subsection eId="subsec_4506_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4506_b"><akn:num>(b)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(b) Exception The requirements of section 4502(d) 11 See References in Text note below. of this title shall continue to be applicable to the use of restitutionary amounts received under this chapter as long as such funds remain available.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15821" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15821/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15821/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15821"><akn:num>15821</akn:num><akn:heading>Energy efficient appliance rebate programs</akn:heading><akn:content><akn:p>§ 15821. Energy efficient appliance rebate programs(a) DefinitionsIn this section:(1) Eligible StateThe term “eligible State” means a State that meets the requirements of subsection (b).
+
+
+(2) Energy Star programThe term “Energy Star program” means the program established by section 6294a of this title.
+
+
+(3) Residential Energy Star productThe term “residential Energy Star product” means a product for a residence that is rated for energy efficiency under the Energy Star program.
+
+
+(4) State energy officeThe term “State energy office” means the State agency responsible for developing State energy conservation plans under section 6322 of this title.
+
+
+(5) State programThe term “State program” means a State energy efficient appliance rebate program described in subsection (b)(1).
+
+
+
+(b) Eligible StatesA State shall be eligible to receive an allocation under subsection (c) if the State—(1) establishes (or has established) a State energy efficient appliance rebate program to provide rebates to residential consumers for the purchase of residential Energy Star products, or products with improved energy efficiency in cold climates, to replace used appliances of the same type;
+
+(2) submits an application for the allocation at such time, in such form, and containing such information as the Secretary may require; and
+
+(3) provides assurances satisfactory to the Secretary that the State will use the allocation to supplement, but not supplant, funds made available to carry out the State program.
+
+
+(c) Amount of allocations(1) In generalSubject to paragraph (2), for each fiscal year, the Secretary shall allocate to the State energy office of each eligible State to carry out subsection (d) an amount equal to the product obtained by multiplying the amount made available under subsection (f) for the fiscal year by the ratio that the population of the State in the most recent calendar year for which data are available bears to the total population of all eligible States in that calen</akn:p></akn:content><akn:subsection eId="subsec_15821_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15821_b"><akn:num>(b)</akn:num><akn:heading>Eligible States</akn:heading><akn:content><akn:p>(b) Eligible States A State shall be eligible to receive an allocation under subsection (c) if the State—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15821_c"><akn:num>(c)</akn:num><akn:heading>Amount of allocations</akn:heading><akn:content><akn:p>(c) Amount of allocations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15821_d"><akn:num>(d)</akn:num><akn:heading>Use of allocated funds</akn:heading><akn:content><akn:p>(d) Use of allocated funds The allocation to a State energy office under subsection (c) may be used to pay up to 50 percent of the cost of establishing and carrying out a State program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15821_e"><akn:num>(e)</akn:num><akn:heading>Issuance of rebates</akn:heading><akn:content><akn:p>(e) Issuance of rebates Rebates may be provided to residential consumers that meet the requirements of the State program. The amount of a rebate shall be determined by the State energy office, taking into consideration—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15821_f"><akn:num>(f)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(f) Authorization of appropriations There are authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of the fiscal years 2006 through 2010.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

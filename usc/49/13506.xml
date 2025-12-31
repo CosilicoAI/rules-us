@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/13506" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/13506/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/13506/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13506"><akn:num>13506</akn:num><akn:heading>Miscellaneous motor carrier transportation exemptions</akn:heading><akn:content><akn:p>§ 13506. Miscellaneous motor carrier transportation exemptions(a) In General.—Neither the Secretary nor the Board has jurisdiction under this part over—(1) a motor vehicle transporting only school children and teachers to or from school;
+
+(2) a motor vehicle providing taxicab service;
+
+(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patrons between the hotel and the local station of a carrier;
+
+(4) a motor vehicle controlled and operated by a farmer and transporting—(A) the farmer’s agricultural or horticultural commodities and products; or
+
+(B) supplies to the farm of the farmer;
+
+
+(5) a motor vehicle controlled and operated by a cooperative association (as defined by section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a))) or by a federation of cooperative associations if the federation has no greater power or purposes than a cooperative association, except that if the cooperative association or federation provides transportation for compensation between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State—(A) for a nonmember that is not a farmer, cooperative association, federation, or the United States Government, the transportation (except for transportation otherwise exempt under this subchapter)—(i) shall be limited to transportation incidental to the primary transportation operation of the cooperative association or federation and necessary for its effective performance; and
+
+(ii) may not exceed in each fiscal year 25 percent of the total transportation of the cooperative association or federation between those places, measured by tonnage; and
+
+
+(B) the transportation for all nonmembers may not exceed in each fiscal year, measured by tonnage, the total transportation between those places for the cooperative association or federation and its members during that fiscal year;
+
+
+(6) transportation by motor vehicle of—(A) ordinary l</akn:p></akn:content><akn:subsection eId="subsec_13506_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Neither the Secretary nor the Board has jurisdiction under this part over—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13506_b"><akn:num>(b)</akn:num><akn:heading>Exempt Unless Otherwise Necessary.—</akn:heading><akn:content><akn:p>(b) Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/5103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/5103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/5103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5103"><akn:num>5103</akn:num><akn:heading>Notice to claimants of required information and evidence</akn:heading><akn:content><akn:p>§ 5103. Notice to claimants of required information and evidence(a) Required Information and Evidence.—(1) Except as provided in paragraph (3), the Secretary shall provide to the claimant and the claimant’s representative, if any, by the most effective means available, including electronic communication or notification in writing, notice of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that information and evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with section 5103A of this title and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
+
+(2)(A) The Secretary shall prescribe in regulations requirements relating to the contents of notice to be provided under this subsection.
+
+(B) The regulations required by this paragraph—(i) shall specify different contents for notice based on whether the claim concerned is an original claim or a supplemental claim;
+
+(ii) shall provide that the contents for such notice be appropriate to the type of benefits or services sought under the claim;
+
+(iii) shall specify for each type of claim for benefits the general information and evidence required to substantiate the basic elements of such type of claim; and
+
+(iv) shall specify the time period limitations required pursuant to subsection (b).
+
+
+
+(3) The requirement to provide notice under paragraph (1) shall not apply with respect to a supplemental claim that is filed within the timeframe set forth in subparagraphs (B) and (D) of section 5110(a)(2) of this title.
+
+
+(b) Time Limitation.—(1) In the case of information or evidence that the claimant is notified under subsection (a) is to be provided by the claimant, such information or evidence must be received by the Secretary within one year from the date such notice is sent.
+
+(2) Th</akn:p></akn:content><akn:subsection eId="subsec_5103_a"><akn:num>(a)</akn:num><akn:heading>Required Information and Evidence.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5103_b"><akn:num>(b)</akn:num><akn:heading>Time Limitation.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

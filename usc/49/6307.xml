@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/6307" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/6307/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/6307/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6307"><akn:num>6307</akn:num><akn:heading>Furnishing of information, data, or reports by Federal agencies</akn:heading><akn:content><akn:p>§ 6307. Furnishing of information, data, or reports by Federal agencies(a) In General.—Except as provided in subsection (b), a Federal agency requested to furnish information, data, or reports by the Director under section 6302(b)(3)(B) shall provide the information to the Director.
+
+(b) Prohibition on Certain Disclosures.—(1) In general.—An officer, employee, or contractor of the Bureau may not—(A) make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) or section 6314(b) can be identified;
+
+(B) use the information provided under section 6302(b)(3)(B) or section 6314(b) for a nonstatistical purpose; or
+
+(C) permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B) or section 6314(b).
+
+
+(2) Copies of reports.—(A) In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) or section 6314(b) with the Bureau or retained by an individual respondent.
+
+(B) Limitation on judicial proceedings.—A copy of a report described in subparagraph (A) that has been retained by an individual respondent or filed with the Bureau or any of the employees, contractors, or agents of the Bureau—(i) shall be immune from legal process; and
+
+(ii) shall not, without the consent of the individual concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceedings.
+
+
+(C) Applicability.—This paragraph shall apply only to reports that permit information concerning an individual or organization to be reasonably determined by direct or indirect means.
+
+
+(3) Informing respondent of use of data.—If the Bureau is authorized by statute to collect data or information for a nonstatistical purpose, the Director shall clearly distinguish the collectio</akn:p></akn:content><akn:subsection eId="subsec_6307_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Except as provided in subsection (b), a Federal agency requested to furnish information, data, or reports by the Director under section 6302(b)(3)(B) shall provide the information to the Director.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6307_b"><akn:num>(b)</akn:num><akn:heading>Prohibition on Certain Disclosures.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6307_c"><akn:num>(c)</akn:num><akn:heading>Transportation and Transportation-related Data Access.—</akn:heading><akn:content><akn:p>(c) The Director shall be provided access to any transportation and transportation-related information in the possession of any Federal agency, except—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

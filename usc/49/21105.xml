@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/21105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/21105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/21105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_21105"><akn:num>21105</akn:num><akn:heading>Limitations on duty hours of dispatching service employees</akn:heading><akn:content><akn:p>§ 21105. Limitations on duty hours of dispatching service employees(a) Application.—This section applies, rather than section 21103 or 21104 of this title, to a train employee or signal employee during any period of time the employee is performing duties of a dispatching service employee.
+
+(b) General.—Except as provided in subsection (d) of this section, a dispatching service employee may not be required or allowed to remain or go on duty for more than—(1) a total of 9 hours during a 24-hour period in a tower, office, station, or place at which at least 2 shifts are employed; or
+
+(2) a total of 12 hours during a 24-hour period in a tower, office, station, or place at which only one shift is employed.
+
+
+(c) Determining Time on Duty.—Under subsection (b) of this section, time spent performing any other service for the railroad carrier during a 24-hour period in which the employee is on duty in a tower, office, station, or other place is time on duty in that tower, office, station, or place.
+
+(d) Emergencies.—When an emergency exists, a dispatching service employee may be allowed to remain or go on duty for not more than 4 additional hours during a period of 24 consecutive hours for not more than 3 days during a period of 7 consecutive days.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 890.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+21105(a)45:62(d).Mar. 4, 1907, ch. 2939, § 2(d), 34 Stat. 1416; restated Dec. 26, 1969, Pub. L. 91–169, § 1, 83 Stat. 464.
+ 45:63a(e).Mar. 4, 1907, ch. 2939, 34 Stat. 1415, § 3A(e); added July 8, 1976, Pub. L. 94–348, § 4(d), 90 Stat. 819.
+21105(b)45:63(a).Mar. 4, 1907, ch. 2939, § 3, 34 Stat. 1416; May 4, 1916, ch. 109, § 1, 39 Stat. 61; Aug. 14, 1957, Pub. L. 85–135, § 2, 71 Stat. 352; restated Dec. 26, 1969, Pub. L. 91–169, § 1, 83 Stat. 464; June 22, 1988, Pub. L. 100–342, § 16(3), 102 Stat. 635.
+21105(c)45:63(b).
+21105(d)45:63(c).
+
+
+In this section, the words “dispatc</akn:p></akn:content><akn:subsection eId="subsec_21105_a"><akn:num>(a)</akn:num><akn:heading>Application.—</akn:heading><akn:content><akn:p>(a) This section applies, rather than section 21103 or 21104 of this title, to a train employee or signal employee during any period of time the employee is performing duties of a dispatching service employee.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21105_b"><akn:num>(b)</akn:num><akn:heading>General.—</akn:heading><akn:content><akn:p>(b) Except as provided in subsection (d) of this section, a dispatching service employee may not be required or allowed to remain or go on duty for more than—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21105_c"><akn:num>(c)</akn:num><akn:heading>Determining Time on Duty.—</akn:heading><akn:content><akn:p>(c) Under subsection (b) of this section, time spent performing any other service for the railroad carrier during a 24-hour period in which the employee is on duty in a tower, office, station, or other place is time on duty in that tower, office, station, or place.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21105_d"><akn:num>(d)</akn:num><akn:heading>Emergencies.—</akn:heading><akn:content><akn:p>(d) When an emergency exists, a dispatching service employee may be allowed to remain or go on duty for not more than 4 additional hours during a period of 24 consecutive hours for not more than 3 days during a period of 7 consecutive days.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

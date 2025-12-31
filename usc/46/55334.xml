@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/55334" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/55334/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/55334/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_55334"><akn:num>55334</akn:num><akn:heading>Restrictions on operations</akn:heading><akn:content><akn:p>§ 55334. Restrictions on operations(a) Prohibitions.—Except as provided in subsection (b), an American Great Lakes vessel may not be used to—(1) engage in trade—(A) from a port in the United States that is not located on the Great Lakes; or
+
+(B) between ports in the United States;
+
+
+(2) transport bulk cargo (as defined in section 40102 of this title) that is subject to section 55305 or 55314 of this title or section 2631 of title 10; or
+
+(3) provide a service (except ocean freight service) as—(A) a contract carrier; or
+
+(B) a common carrier on a fixed advertised schedule offering frequent sailings at regular intervals in the foreign trade of the United States.
+
+
+
+(b) Off-Season Exception.—An American Great Lakes vessel may be used for not more than 90 days during any 12-month period to engage in trade prohibited by subsection (a)(1)(A), except during the Great Lakes shipping season.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1649.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5533446 App.:1241s.Pub. L. 101–624, title XV, § 1523, Nov. 28, 1990, 104 Stat. 3666.</akn:p></akn:content><akn:subsection eId="subsec_55334_a"><akn:num>(a)</akn:num><akn:heading>Prohibitions.—</akn:heading><akn:content><akn:p>(a) Except as provided in subsection (b), an American Great Lakes vessel may not be used to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_55334_b"><akn:num>(b)</akn:num><akn:heading>Off-Season Exception.—</akn:heading><akn:content><akn:p>(b) An American Great Lakes vessel may be used for not more than 90 days during any 12-month period to engage in trade prohibited by subsection (a)(1)(A), except during the Great Lakes shipping season.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

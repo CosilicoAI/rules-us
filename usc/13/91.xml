@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/13/91" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/13/91/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/13/91/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_91"><akn:num>91</akn:num><akn:heading>Collection and publication</akn:heading><akn:content><akn:p>§ 91. Collection and publication(a) The Secretary shall collect and publish quarterly financial statistics of business operations, organization, practices, management, and relation to other businesses, including data on sales, expenses, profits, assets, liabilities, stockholders’ equity, and related accounts generally used by businesses in income statements, balance sheets, and other measures of financial condition.
+
+(b) Except to the extent determined otherwise by the Secretary on the basis of changed circumstances, the nature of statistics collected and published under this section, and the manner of the collection and publication of such statistics, shall conform to the quarterly financial reporting program carried out by the Federal Trade Commission before the effective date of this section under section 6(b) of the Federal Trade Commission Act.
+
+(c) For purposes of section 6103(j)(1) of the Internal Revenue Code of 1986, the conducting of the quarterly financial report program under this section shall be considered as the conducting of a related statistical activity authorized by law.
+
+(d)(1) The Secretary shall not select an organization or entity for participation in a survey, if—(A) the organization or entity—(i) has assets of less than $50,000,000;
+
+(ii) completed participation in a prior survey in the preceding 10-year period, as determined by the Secretary; and
+
+(iii) was selected for that prior survey participation after September 30, 1990; or
+
+
+(B) the organization or entity—(i) has assets of more than $50,000,000 and less than $100,000,000;
+
+(ii) completed participation in a prior survey in the preceding 2-year period, as determined by the Secretary; and
+
+(iii) was selected for that prior survey participation after September 30, 1995.
+
+
+
+(2)(A) The Secretary shall furnish advice and similar assistance to ease the burden of a small business concern which is attempting to compile and furnish the business information required of organizations and entities</akn:p></akn:content><akn:subsection eId="subsec_91_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall collect and publish quarterly financial statistics of business operations, organization, practices, management, and relation to other businesses, including data on sales, expenses, profits, assets, liabilities, stockholders’ equity, and related accounts generally used by businesses in income statements, balance sheets, and other measures of financial condition.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_91_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except to the extent determined otherwise by the Secretary on the basis of changed circumstances, the nature of statistics collected and published under this section, and the manner of the collection and publication of such statistics, shall conform to the quarterly financial reporting program carried out by the Federal Trade Commission before the effective date of this section under section 6(b) of the Federal Trade Commission Act.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_91_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) For purposes of section 6103(j)(1) of the Internal Revenue Code of 1986, the conducting of the quarterly financial report program under this section shall be considered as the conducting of a related statistical activity authorized by law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_91_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

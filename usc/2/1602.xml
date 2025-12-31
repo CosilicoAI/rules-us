@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/1602" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/1602/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/1602/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1602"><akn:num>1602</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1602. Definitions
+As used in this chapter:(1) AgencyThe term “agency” has the meaning given that term in section 551(1) of title 5.
+
+
+(2) ClientThe term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+
+
+(3) Covered executive branch officialThe term “covered executive branch official” means—(A) the President;
+
+(B) the Vice President;
+
+(C) any officer or employee, or any other individual functioning in the capacity of such an officer or employee, in the Executive Office of the President;
+
+(D) any officer or employee serving in a position in level I, II, III, IV, or V of the Executive Schedule, as designated by statute or Executive order;
+
+(E) any member of the uniformed services whose pay grade is at or above O–7 under section 201 of title 37; and
+
+(F) any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2)(B) of title 5.
+
+
+(4) Covered legislative branch officialThe term “covered legislative branch official” means—(A) a Member of Congress;
+
+(B) an elected officer of either House of Congress;
+
+(C) any employee of, or any other individual functioning in the capacity of an employee of—(i) a Member of Congress;
+
+(ii) a committee of either House of Congress;
+
+(iii) the leadership staff of the House of Representatives or the leadership staff of the Senate;
+
+(iv) a joint committee of Congress; and
+
+(v) a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and
+
+
+(D) any other legis</akn:p></akn:content><akn:subsection eId="subsec_1602_1"><akn:num>(1)</akn:num><akn:heading>Agency</akn:heading><akn:content><akn:p>(1) Agency The term “agency” has the meaning given that term in section 551(1) of title 5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_2"><akn:num>(2)</akn:num><akn:heading>Client</akn:heading><akn:content><akn:p>(2) Client The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_3"><akn:num>(3)</akn:num><akn:heading>Covered executive branch official</akn:heading><akn:content><akn:p>(3) Covered executive branch official The term “covered executive branch official” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_4"><akn:num>(4)</akn:num><akn:heading>Covered legislative branch official</akn:heading><akn:content><akn:p>(4) Covered legislative branch official The term “covered legislative branch official” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_5"><akn:num>(5)</akn:num><akn:heading>Employee</akn:heading><akn:content><akn:p>(5) Employee The term “employee” means any individual who is an officer, employee, partner, director, or proprietor of a person or entity, but does not include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_6"><akn:num>(6)</akn:num><akn:heading>Foreign entity</akn:heading><akn:content><akn:p>(6) Foreign entity The term “foreign entity” means a foreign principal (as defined in section 1(b) of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611(b)).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_7"><akn:num>(7)</akn:num><akn:heading>Lobbying activities</akn:heading><akn:content><akn:p>(7) Lobbying activities The term “lobbying activities” means lobbying contacts and efforts in support of such contacts, including preparation and planning activities, research and other background work that is intended, at the time it is performed, for use in contacts, and coordination with the lobbying activities of others.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_8"><akn:num>(8)</akn:num><akn:heading>Lobbying contact</akn:heading><akn:content><akn:p>(8) Lobbying contact</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_9"><akn:num>(9)</akn:num><akn:heading>Lobbying firm</akn:heading><akn:content><akn:p>(9) Lobbying firm The term “lobbying firm” means a person or entity that has 1 or more employees who are lobbyists on behalf of a client other than that person or entity. The term also includes a self-employed individual who is a lobbyist.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1602_10"><akn:num>(10)</akn:num><akn:heading>Lobbyist</akn:heading><akn:content><akn:p>(10) Lobbyist The term “lobbyist” means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a 3-month period.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

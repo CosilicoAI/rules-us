@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/357" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/357/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/357/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_357"><akn:num>357</akn:num><akn:heading>Assumption of liability</akn:heading><akn:content><akn:p>§ 357. Assumption of liability(a) General ruleExcept as provided in subsections (b) and (c), if—(1) the taxpayer receives property which would be permitted to be received under section 351 or 361 without the recognition of gain if it were the sole consideration, and
+
+(2) as part of the consideration, another party to the exchange assumes a liability of the taxpayer,
+
+
+then such assumption shall not be treated as money or other property, and shall not prevent the exchange from being within the provisions of section 351 or 361, as the case may be.
+
+(b) Tax avoidance purpose(1) In generalIf, taking into consideration the nature of the liability and the circumstances in the light of which the arrangement for the assumption was made, it appears that the principal purpose of the taxpayer with respect to the assumption described in subsection (a)—(A) was a purpose to avoid Federal income tax on the exchange, or
+
+(B) if not such purpose, was not a bona fide business purpose,
+
+
+then such assumption (in the total amount of the liability assumed pursuant to such exchange) shall, for purposes of section 351 or 361 (as the case may be), be considered as money received by the taxpayer on the exchange.
+
+(2) Burden of proofIn any suit or proceeding where the burden is on the taxpayer to prove such assumption is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
+
+
+
+(c) Liabilities in excess of basis(1) In generalIn the case of an exchange—(A) to which section 351 applies, or
+
+(B) to which section 361 applies by reason of a plan of reorganization within the meaning of section 368(a)(1)(D) with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355,
+
+
+if the sum of the amount of the liabilities assumed exceeds the total of the adjusted basis of the </akn:p></akn:content><akn:subsection eId="subsec_357_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Except as provided in subsections (b) and (c), if— then such assumption shall not be treated as money or other property, and shall not prevent the exchange from being within the provisions of section 351 or 361, as the case may be.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_357_b"><akn:num>(b)</akn:num><akn:heading>Tax avoidance purpose</akn:heading><akn:content><akn:p>(b) Tax avoidance purpose</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_357_c"><akn:num>(c)</akn:num><akn:heading>Liabilities in excess of basis</akn:heading><akn:content><akn:p>(c) Liabilities in excess of basis</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_357_d"><akn:num>(d)</akn:num><akn:heading>Determination of amount of liability assumed</akn:heading><akn:content><akn:p>(d) Determination of amount of liability assumed</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

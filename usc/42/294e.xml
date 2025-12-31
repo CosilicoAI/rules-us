@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/294e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/294e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/294e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_294e"><akn:num>294e</akn:num><akn:heading>Allied health and other disciplines</akn:heading><akn:content><akn:p>§ 294e. Allied health and other disciplines(a) In generalThe Secretary may make grants or contracts under this section to help entities fund activities of the type described in subsection (b).
+
+
+(b) ActivitiesActivities of the type described in this subsection include the following:(1) Assisting entities in meeting the costs associated with expanding or establishing programs that will increase the number of individuals trained in allied health professions. Programs and activities funded under this paragraph may include—(A) those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by geriatric populations or for maternal and child health;
+
+(B) those that provide rapid transition training programs in allied health fields to individuals who have baccalaureate degrees in health-related sciences;
+
+(C) those that establish community-based allied health training programs that link academic centers to rural clinical settings;
+
+(D) those that provide career advancement training for practicing allied health professionals;
+
+(E) those that expand or establish clinical training sites for allied health professionals in medically underserved or rural communities in order to increase the number of individuals trained;
+
+(F) those that develop curriculum that will emphasize knowledge and practice in the areas of prevention and health promotion, geriatrics, long-term care, home health and hospice care, and ethics;
+
+(G) those that expand or establish interdisciplinary training programs that promote the effectiveness of allied health practitioners in geriatric assessment and the rehabilitation of the elderly;
+
+(H) those that expand or establish demonstration centers to emphasize innovative models to link allied health clinical practice, education, and research;
+
+(I) those that provide financial assistance (in the form of traineeships) to students who are participants in any such program; and(i) who plan to pursue a career in</akn:p></akn:content><akn:subsection eId="subsec_294e_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may make grants or contracts under this section to help entities fund activities of the type described in subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_294e_b"><akn:num>(b)</akn:num><akn:heading>Activities</akn:heading><akn:content><akn:p>(b) Activities Activities of the type described in this subsection include the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

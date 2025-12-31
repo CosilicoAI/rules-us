@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/453A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/453A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/453A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_453A"><akn:num>453A</akn:num><akn:heading>Special rules for nondealers</akn:heading><akn:content><akn:p>§ 453A. Special rules for nondealers(a) General ruleIn the case of an installment obligation to which this section applies—(1) interest shall be paid on the deferred tax liability with respect to such obligation in the manner provided under subsection (c), and
+
+(2) the pledging rules under subsection (d) shall apply.
+
+
+(b) Installment obligations to which section applies(1) In generalThis section shall apply to any obligation which arises from the disposition of any property under the installment method, but only if the sales price of such property exceeds $150,000.
+
+
+(2) Special rule for interest paymentsFor purposes of subsection (a)(1), this section shall apply to an obligation described in paragraph (1) arising during a taxable year only if—(A) such obligation is outstanding as of the close of such taxable year, and
+
+(B) the face amount of all such obligations held by the taxpayer which arose during, and are outstanding as of the close of, such taxable year exceeds $5,000,000.
+
+
+Except as provided in regulations, all persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as one person for purposes of this paragraph and subsection (c)(4).
+
+(3) Exception for personal use and farm propertyAn installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition—(A) by an individual of personal use property (within the meaning of section 1275(b)(3)), or
+
+(B) of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5)).
+
+
+(4) Special rule for timeshares and residential lotsAn installment obligation shall not be treated as described in paragraph (1) if it arises from a disposition described in section 453(l)(2)(B), but the provisions of section 453(l)(3) (relating to interest payments on timeshares and residential lots) shall apply to such obligation.
+
+
+(5) Sales priceFor purposes of paragraph (1), all sales or exchanges which are pa</akn:p></akn:content><akn:subsection eId="subsec_453A_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule In the case of an installment obligation to which this section applies—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_453A_b"><akn:num>(b)</akn:num><akn:heading>Installment obligations to which section applies</akn:heading><akn:content><akn:p>(b) Installment obligations to which section applies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_453A_c"><akn:num>(c)</akn:num><akn:heading>Interest on deferred tax liability</akn:heading><akn:content><akn:p>(c) Interest on deferred tax liability</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_453A_d"><akn:num>(d)</akn:num><akn:heading>Pledges, etc., of installment obligations</akn:heading><akn:content><akn:p>(d) Pledges, etc., of installment obligations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_453A_e"><akn:num>(e)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(e) Regulations The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

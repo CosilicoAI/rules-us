@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/39/3631" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/39/3631/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/39/3631/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3631"><akn:num>3631</akn:num><akn:heading>Applicability; definitions and updates</akn:heading><akn:content><akn:p>§ 3631. Applicability; definitions and updates(a) Applicability.—This subchapter shall apply with respect to—(1) priority mail;
+
+(2) expedited mail;
+
+(3) bulk parcel post;
+
+(4) bulk international mail; and
+
+(5) mailgrams;
+
+
+subject to subsection (d) and any changes the Postal Regulatory Commission may make under section 3642.
+
+(b) Definition.—For purposes of this subchapter, the term “costs attributable”, as used with respect to a product, means the direct and indirect postal costs attributable to such product through reliably identified causal relationships.
+
+(c) Rule of Construction.—Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
+
+(Added Pub. L. 109–435, title II, § 202, Dec. 20, 2006, 120 Stat. 3205.)</akn:p></akn:content><akn:subsection eId="subsec_3631_a"><akn:num>(a)</akn:num><akn:heading>Applicability.—</akn:heading><akn:content><akn:p>(a) This subchapter shall apply with respect to— subject to subsection (d) and any changes the Postal Regulatory Commission may make under section 3642.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3631_b"><akn:num>(b)</akn:num><akn:heading>Definition.—</akn:heading><akn:content><akn:p>(b) For purposes of this subchapter, the term “costs attributable”, as used with respect to a product, means the direct and indirect postal costs attributable to such product through reliably identified causal relationships.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3631_c"><akn:num>(c)</akn:num><akn:heading>Rule of Construction.—</akn:heading><akn:content><akn:p>(c) Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

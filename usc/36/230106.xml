@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/230106" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/230106/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/230106/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_230106"><akn:num>230106</akn:num><akn:heading>Service of process</akn:heading><akn:content><akn:p>§ 230106. Service of process
+As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of each State, the name and address of an agent in that State on whom legal process or demands against the corporation may be served.
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1482.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+23010636:119.May 28, 1936, ch. 471, § 9, 49 Stat. 1391.
+
+
+The words “precedent”, “herein”, and “or conferred” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the Secretary of State” for consistency in the revised title. The words “post-office” and “authorized” are omitted as unnecessary.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

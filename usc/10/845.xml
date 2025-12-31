@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/845" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/845/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/845/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_845"><akn:num>845</akn:num><akn:heading>Art. 45. Pleas of the accused</akn:heading><akn:content><akn:p>§ 845. Art. 45. Pleas of the accused(a) Irregular and Similar Pleas.—If an accused after arraignment makes an irregular pleading, or after a plea of guilty sets up matter inconsistent with the plea, or if it appears that he has entered the plea of guilty improvidently or through lack of understanding of its meaning and effect, or if he fails or refuses to plead, a plea of not guilty shall be entered in the record, and the court shall proceed as though he had pleaded not guilty.
+
+(b) Pleas of Guilty.—A plea of guilty by the accused may not be received to any charge or specification alleging an offense for which the death penalty is mandatory. With respect to any other charge or specification to which a plea of guilty has been made by the accused and accepted by the military judge, a finding of guilty of the charge or specification may be entered immediately without vote. This finding shall constitute the finding of the court unless the plea of guilty is withdrawn prior to announcement of the sentence, in which event the proceedings shall continue as though the accused had pleaded not guilty.
+
+(c) Harmless Error.—A variance from the requirements of this article is harmless error if the variance does not materially prejudice the substantial rights of the accused.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 52; Pub. L. 90–632, § 2(19), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 114–328, div. E, title LVII, § 5227, Dec. 23, 2016, 130 Stat. 2911.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+845(a)845(b)50:620(a).50:620(b).May 5, 1950, ch. 169, § 1 (Art. 45), 64 Stat. 122.
+
+
+In subsection (b), the word “may” is substituted for the word “shall”.
+
+Editorial Notes
+Amendments2016—Subsec. (a). Pub. L. 114–328, § 5227(c)(1), inserted heading.
+Subsec. (b). Pub. L. 114–328, § 5227(c)(2), inserted heading.
+Pub. L. 114–328, § 5227(a), substituted “is mandatory” for “may be adjudged” and struck out “or by a court-martial without a mili</akn:p></akn:content><akn:subsection eId="subsec_845_a"><akn:num>(a)</akn:num><akn:heading>Irregular and Similar Pleas.—</akn:heading><akn:content><akn:p>(a) If an accused after arraignment makes an irregular pleading, or after a plea of guilty sets up matter inconsistent with the plea, or if it appears that he has entered the plea of guilty improvidently or through lack of understanding of its meaning and effect, or if he fails or refuses to plead, a plea of not guilty shall be entered in the record, and the court shall proceed as though he had pleaded not guilty.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_845_b"><akn:num>(b)</akn:num><akn:heading>Pleas of Guilty.—</akn:heading><akn:content><akn:p>(b) A plea of guilty by the accused may not be received to any charge or specification alleging an offense for which the death penalty is mandatory. With respect to any other charge or specification to which a plea of guilty has been made by the accused and accepted by the military judge, a finding of guilty of the charge or specification may be entered immediately without vote. This finding shall constitute the finding of the court unless the plea of guilty is withdrawn prior to announcement of the sentence, in which event the proceedings shall continue as though the accused had pleaded not guilty.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_845_c"><akn:num>(c)</akn:num><akn:heading>Harmless Error.—</akn:heading><akn:content><akn:p>(c) A variance from the requirements of this article is harmless error if the variance does not materially prejudice the substantial rights of the accused.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

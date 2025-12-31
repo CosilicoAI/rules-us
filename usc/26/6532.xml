@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6532" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6532/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6532/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6532"><akn:num>6532</akn:num><akn:heading>Periods of limitation on suits</akn:heading><akn:content><akn:p>§ 6532. Periods of limitation on suits(a) Suits by taxpayers for refund(1) General ruleNo suit or proceeding under section 7422(a) for the recovery of any internal revenue tax, penalty, or other sum, shall be begun before the expiration of 6 months from the date of filing the claim required under such section unless the Secretary renders a decision thereon within that time, nor after the expiration of 2 years from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of the part of the claim to which the suit or proceeding relates.
+
+
+(2) Extension of timeThe 2-year period prescribed in paragraph (1) shall be extended for such period as may be agreed upon in writing between the taxpayer and the Secretary.
+
+
+(3) Waiver of notice of disallowanceIf any person files a written waiver of the requirement that he be mailed a notice of disallowance, the 2-year period prescribed in paragraph (1) shall begin on the date such waiver is filed.
+
+
+(4) Reconsideration after mailing of noticeAny consideration, reconsideration, or action by the Secretary with respect to such claim following the mailing of a notice by certified mail or registered mail of disallowance shall not operate to extend the period within which suit may be begun.
+
+
+(5) Cross referenceFor substitution of 120-day period for the 6-month period contained in paragraph (1) in a title 11 case, see section 505(a)(2) of title 11 of the United States Code.
+
+
+
+(b) Suits by United States for recovery of erroneous refundsRecovery of an erroneous refund by suit under section 7405 shall be allowed only if such suit is begun within 2 years after the making of such refund, except that such suit may be brought at any time within 5 years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
+
+
+(c) Suits by persons other than taxpayers(1) General ruleExcept as provided by paragraph (2), </akn:p></akn:content><akn:subsection eId="subsec_6532_a"><akn:num>(a)</akn:num><akn:heading>Suits by taxpayers for refund</akn:heading><akn:content><akn:p>(a) Suits by taxpayers for refund</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6532_b"><akn:num>(b)</akn:num><akn:heading>Suits by United States for recovery of erroneous refunds</akn:heading><akn:content><akn:p>(b) Suits by United States for recovery of erroneous refunds Recovery of an erroneous refund by suit under section 7405 shall be allowed only if such suit is begun within 2 years after the making of such refund, except that such suit may be brought at any time within 5 years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6532_c"><akn:num>(c)</akn:num><akn:heading>Suits by persons other than taxpayers</akn:heading><akn:content><akn:p>(c) Suits by persons other than taxpayers</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

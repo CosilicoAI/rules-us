@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8125" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8125/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8125/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8125"><akn:num>8125</akn:num><akn:heading>Misbehavior at proceedings</akn:heading><akn:content><akn:p>§ 8125. Misbehavior at proceedings
+If an individual—(1) disobeys or resists a lawful order or process in proceedings under this subchapter before the Secretary of Labor or his representative; or
+
+(2) misbehaves during a hearing or so near the place of hearing as to obstruct it;
+
+
+the Secretary or his representative shall certify the facts to the district court having jurisdiction in the place where he is sitting. The court, in a summary manner, shall hear the evidence as to the acts complained of and if the evidence warrants, punish the individual in the same manner and to the same extent as for a contempt committed before the court, or commit the individual on the same conditions as if the forbidden act had occurred with reference to the process of or in the presence of the court.
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 545.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 773(c).Oct. 14, 1949, ch. 691, § 208 “Sec. 23(c)”, 63 Stat. 865.
+
+
+The words “the district court of the United States for the District of Columbia” are omitted as included in “district court”. The words “under this subchapter” are added for clarity since this section which was formerly a subsection referred to the subsection preceding it which identified the proceedings.
+Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.</akn:p></akn:content><akn:subsection eId="subsec_8125_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) disobeys or resists a lawful order or process in proceedings under this subchapter before the Secretary of Labor or his representative; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8125_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) misbehaves during a hearing or so near the place of hearing as to obstruct it;</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

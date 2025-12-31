@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1173" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1173/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1173/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1173"><akn:num>1173</akn:num><akn:heading>Formal evaluation of recommendations</akn:heading><akn:content><akn:p>§ 1173. Formal evaluation of recommendations(a) Formal Evaluations.—The Secretary shall establish a process to conduct a formal evaluation with respect to each recommendation made by the Working Group under section 1172 of this title.
+
+(b) Evidence, Data, and Factors.—The Secretary shall ensure that each formal evaluation under subsection (a) covers the following:(1) Scientific evidence, based on the review of available scientific literature, including human, toxicological, animal, and methodological studies, and other factors.
+
+(2) Claims data, based on the review of claim rate, grant rate, and service connection prevalence, and other factors.
+
+(3) Other factors the Secretary determines appropriate, such as—(A) the level of disability and mortality caused by the health effects related to the case of toxic exposure being evaluated;
+
+(B) the quantity and quality of the information available and reviewed;
+
+(C) the feasibility of and period for generating relevant information and evidence;
+
+(D) whether such health effects are combat- or deployment-related;
+
+(E) the ubiquity or rarity of the health effects; and
+
+(F) any time frame during which a health effect must become manifest.
+
+
+
+(c) Conduct of Evaluations.—(1) The Secretary shall ensure that each formal evaluation under subsection (a)—(A) reviews scientific evidence in a manner that—(i) conforms to principles of scientific and data integrity;
+
+(ii) is free from suppression or distortion of scientific or technological findings, data, information, conclusions, or technical results; and
+
+
+(B)(i) evaluates the likelihood that a positive association exists between an illness and a toxic exposure while serving in the active military, naval, air, or space service; and
+
+(ii) assesses the toxic exposures and illnesses and determines whether the evidence supports a finding of a positive association between the toxic exposure and the illness.
+
+
+
+(2) In carrying out paragraph (1)(B)(ii), a formal evaluation under subsection (a</akn:p></akn:content><akn:subsection eId="subsec_1173_a"><akn:num>(a)</akn:num><akn:heading>Formal Evaluations.—</akn:heading><akn:content><akn:p>(a) The Secretary shall establish a process to conduct a formal evaluation with respect to each recommendation made by the Working Group under section 1172 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1173_b"><akn:num>(b)</akn:num><akn:heading>Evidence, Data, and Factors.—</akn:heading><akn:content><akn:p>(b) The Secretary shall ensure that each formal evaluation under subsection (a) covers the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1173_c"><akn:num>(c)</akn:num><akn:heading>Conduct of Evaluations.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1173_d"><akn:num>(d)</akn:num><akn:heading>Recommendation for Establishing a Presumption of Service Connection.—</akn:heading><akn:content><akn:p>(d) Not later than 120 days after the date on which a formal evaluation is commenced, the element of the Department that conducts the evaluation shall submit to the Secretary a recommendation with respect to establishing a presumption of service connection for the toxic exposure and illness, or modifying an existing presumption of service connection, covered by the evaluation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

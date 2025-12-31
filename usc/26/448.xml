@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/448" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/448/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/448/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_448"><akn:num>448</akn:num><akn:heading>Limitation on use of cash method of accounting</akn:heading><akn:content><akn:p>§ 448. Limitation on use of cash method of accounting(a) General ruleExcept as otherwise provided in this section, in the case of a—(1) C corporation,
+
+(2) partnership which has a C corporation as a partner, or
+
+(3) tax shelter,
+
+
+taxable income shall not be computed under the cash receipts and disbursements method of accounting.
+
+(b) Exceptions(1) Farming businessParagraphs (1) and (2) of subsection (a) shall not apply to any farming business.
+
+
+(2) Qualified personal service corporationsParagraphs (1) and (2) of subsection (a) shall not apply to a qualified personal service corporation, and such a corporation shall be treated as an individual for purposes of determining whether paragraph (2) of subsection (a) applies to any partnership.
+
+
+(3) Entities which meet gross receipts testParagraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if such entity (or any predecessor) meets the gross receipts test of subsection (c) for such taxable year.
+
+
+
+(c) Gross receipts testFor purposes of this section—(1) In generalA corporation or partnership meets the gross receipts test of this subsection for any taxable year if the average annual gross receipts of such entity for the 3-taxable-year period ending with the taxable year which precedes such taxable year does not exceed $25,000,000.
+
+
+(2) Aggregation rulesAll persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as one person for purposes of paragraph (1).
+
+
+(3) Special rulesFor purposes of this subsection—(A) Not in existence for entire 3-year periodIf the entity was not in existence for the entire 3-year period referred to in paragraph (1), such paragraph shall be applied on the basis of the period during which such entity (or trade or business) was in existence.
+
+
+(B) Short taxable yearsGross receipts for any taxable year of less than 12 months shall be annualized by multiplying the </akn:p></akn:content><akn:subsection eId="subsec_448_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Except as otherwise provided in this section, in the case of a— taxable income shall not be computed under the cash receipts and disbursements method of accounting.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_448_b"><akn:num>(b)</akn:num><akn:heading>Exceptions</akn:heading><akn:content><akn:p>(b) Exceptions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_448_c"><akn:num>(c)</akn:num><akn:heading>Gross receipts test</akn:heading><akn:content><akn:p>(c) Gross receipts test For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_448_d"><akn:num>(d)</akn:num><akn:heading>Definitions and special rules</akn:heading><akn:content><akn:p>(d) Definitions and special rules For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

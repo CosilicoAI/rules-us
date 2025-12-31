@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/11312" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/11312/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/11312/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11312"><akn:num>11312</akn:num><akn:heading>Capital planning and investment control</akn:heading><akn:content><akn:p>§ 11312. Capital planning and investment control(a) Design of Process.—In fulfilling the responsibilities assigned under section 3506(h) of title 44, the head of each executive agency shall design and implement in the executive agency a process for maximizing the value, and assessing and managing the risks, of the information technology acquisitions of the executive agency.
+
+(b) Content of Process.—The process of an executive agency shall—(1) provide for the selection of investments in information technology (including information security needs) to be made by the executive agency, the management of those investments, and the evaluation of the results of those investments;
+
+(2) be integrated with the processes for making budget, financial, and program management decisions in the executive agency;
+
+(3) include minimum criteria to be applied in considering whether to undertake a particular investment in information systems, including criteria related to the quantitatively expressed projected net, risk-adjusted return on investment and specific quantitative and qualitative criteria for comparing and prioritizing alternative information systems investment projects;
+
+(4) identify information systems investments that would result in shared benefits or costs for other federal agencies or state or local governments;
+
+(5) identify quantifiable measurements for determining the net benefits and risks of a proposed investment; and
+
+(6) provide the means for senior management personnel of the executive agency to obtain timely information regarding the progress of an investment in an information system, including a system of milestones for measuring progress, on an independently verifiable basis, in terms of cost, capability of the system to meet specified requirements, timeliness, and quality.
+
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1239; Pub. L. 108–458, title VIII, § 8401(3), Dec. 17, 2004, 118 Stat. 3869.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (</akn:p></akn:content><akn:subsection eId="subsec_11312_a"><akn:num>(a)</akn:num><akn:heading>Design of Process.—</akn:heading><akn:content><akn:p>(a) In fulfilling the responsibilities assigned under section 3506(h) of title 44, the head of each executive agency shall design and implement in the executive agency a process for maximizing the value, and assessing and managing the risks, of the information technology acquisitions of the executive agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11312_b"><akn:num>(b)</akn:num><akn:heading>Content of Process.—</akn:heading><akn:content><akn:p>(b) The process of an executive agency shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

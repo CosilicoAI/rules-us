@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/8/1723" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/8/1723/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/8/1723/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1723"><akn:num>1723</akn:num><akn:heading>Commission on Interoperable Data Sharing</akn:heading><akn:content><akn:p>§ 1723. Commission on Interoperable Data Sharing(a) EstablishmentNot later than one year after October 26, 2001, the President shall establish a Commission on Interoperable Data Sharing (in this section referred to as the “Commission”). The purposes of the Commission shall be to—(1) monitor the protections described in section 1721(c)(3) of this title;
+
+(2) provide oversight of the interoperable electronic data system described in section 1722 of this title; and
+
+(3) report to Congress annually on the Commission’s findings and recommendations.
+
+
+(b) CompositionThe Commission shall consist of nine members, who shall be appointed by the President, as follows:(1) One member, who shall serve as Chair of the Commission.
+
+(2) Eight members, who shall be appointed from a list of nominees jointly provided by the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Majority Leader of the Senate, and the Minority Leader of the Senate.
+
+
+(c) ConsiderationsThe Commission shall consider recommendations regarding the following issues:(1) Adequate protection of privacy concerns inherent in the design, implementation, or operation of the interoperable electronic data system.
+
+(2) Timely adoption of security innovations, consistent with generally accepted security standards, to protect the integrity and confidentiality of information to prevent the risks of accidental or unauthorized loss, access, destruction, use modification, or disclosure of information.
+
+(3) The adequacy of mechanisms to permit the timely correction of errors in data maintained by the interoperable data system.
+
+(4) Other protections against unauthorized use of data to guard against the misuse of the interoperable data system or the data maintained by the system, including recommendations for modifications to existing laws and regulations to sanction misuse of the system.
+
+
+(d) Authorization of appropriationsThere are authorized to be appropriated to the Commission su</akn:p></akn:content><akn:subsection eId="subsec_1723_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment Not later than one year after October 26, 2001, the President shall establish a Commission on Interoperable Data Sharing (in this section referred to as the “Commission”). The purposes of the Commission shall be to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1723_b"><akn:num>(b)</akn:num><akn:heading>Composition</akn:heading><akn:content><akn:p>(b) Composition The Commission shall consist of nine members, who shall be appointed by the President, as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1723_c"><akn:num>(c)</akn:num><akn:heading>Considerations</akn:heading><akn:content><akn:p>(c) Considerations The Commission shall consider recommendations regarding the following issues:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1723_d"><akn:num>(d)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(d) Authorization of appropriations There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

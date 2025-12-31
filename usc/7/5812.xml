@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/5812" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/5812/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/5812/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5812"><akn:num>5812</akn:num><akn:heading>Program administration</akn:heading><akn:content><akn:p>§ 5812. Program administration(a) Duties of SecretaryThe Secretary shall—(1) administer the programs and projects conducted under sections 5811 and 5813 of this title through the National Institute of Food and Agriculture, Agricultural Research Service, and other appropriate agencies;
+
+(2) establish a minimum of four Regional Administrative Councils in accordance with subsection (b); and
+
+(3) in conjunction with such Regional Administrative Councils, identify regional host institutions required to carry out such programs or projects.
+
+
+(b) Regional Administrative Councils(1) MembershipThe membership of the Regional Administrative Councils shall include representatives of—(A) the Agricultural Research Service;
+
+(B) the National Institute of Food and Agriculture;
+
+(C) State cooperative extension services;
+
+(D) State agricultural experiment stations;
+
+(E) the Soil Conservation Service;
+
+(F) State departments engaged in sustainable agriculture programs;
+
+(G) nonprofit organizations with demonstrable expertise;
+
+(H) farmers utilizing systems and practices of sustainable agriculture;
+
+(I) agribusiness;
+
+(J) the State or United States Geological Survey; and
+
+(K) other persons knowledgeable about sustainable agriculture and its impact on the environment and rural communities.
+
+
+(2) ResponsibilitiesThe Regional Administrative Councils shall—(A) promote the programs established under this subchapter at the regional level;
+
+(B) establish goals and criteria for the selection of projects authorized under this subchapter within the applicable region;
+
+(C) appoint a technical committee to evaluate the proposals for projects to be considered under this subchapter by such council;
+
+(D) review and act on the recommendations of the technical committee, and coordinate its activities with the regional host institution; and
+
+(E) prepare and make available an annual report concerning projects funded under sections 5811 and 5813 of this title, together with an evaluation of the project act</akn:p></akn:content><akn:subsection eId="subsec_5812_a"><akn:num>(a)</akn:num><akn:heading>Duties of Secretary</akn:heading><akn:content><akn:p>(a) Duties of Secretary The Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5812_b"><akn:num>(b)</akn:num><akn:heading>Regional Administrative Councils</akn:heading><akn:content><akn:p>(b) Regional Administrative Councils</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

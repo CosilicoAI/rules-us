@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/254b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/254b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/254b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_254b"><akn:num>254b</akn:num><akn:heading>Health centers</akn:heading><akn:content><akn:p>§ 254b. Health centers(a) “Health center” defined(1) In generalFor purposes of this section, the term “health center” means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agricultural workers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—(A) required primary health services (as defined in subsection (b)(1)); and
+
+(B) as may be appropriate for particular centers, additional health services (as defined in subsection (b)(2)) necessary for the adequate support of the primary health services required under subparagraph (A);
+
+
+for all residents of the area served by the center (hereafter referred to in this section as the “catchment area”).
+
+(2) LimitationThe requirement in paragraph (1) to provide services for all residents within a catchment area shall not apply in the case of a health center receiving a grant only under subsection (g), (h), or (i).
+
+
+
+(b) DefinitionsFor purposes of this section:(1) Required primary health services(A) In generalThe term “required primary health services” means—(i) basic health services which, for purposes of this section, shall consist of—(I) health services related to family medicine, internal medicine, pediatrics, obstetrics, or gynecology that are furnished by physicians and where appropriate, physician assistants, nurse practitioners, and nurse midwives;
+
+(II) diagnostic laboratory and radiologic services;
+
+(III) preventive health services, including—(aa) prenatal and perinatal services;
+
+(bb) appropriate cancer screening;
+
+(cc) well-child services;
+
+(dd) immunizations against vaccine-preventable diseases;
+
+(ee) screenings for elevated blood lead levels, communicable diseases, and cholesterol;
+
+(ff) pediatric eye, ear, and dental screenings to determine the need for vision and hearing correction and dental </akn:p></akn:content><akn:subsection eId="subsec_254b_a"><akn:num>(a)</akn:num><akn:heading>“Health center” defined</akn:heading><akn:content><akn:p>(a) “Health center” defined</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions For purposes of this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_c"><akn:num>(c)</akn:num><akn:heading>Planning grants</akn:heading><akn:content><akn:p>(c) Planning grants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_d"><akn:num>(d)</akn:num><akn:heading>Improving quality of care</akn:heading><akn:content><akn:p>(d) Improving quality of care</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_e"><akn:num>(e)</akn:num><akn:heading>Operating grants</akn:heading><akn:content><akn:p>(e) Operating grants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_f"><akn:num>(f)</akn:num><akn:heading>Infant mortality grants</akn:heading><akn:content><akn:p>(f) Infant mortality grants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_g"><akn:num>(g)</akn:num><akn:heading>Migratory and seasonal agricultural workers</akn:heading><akn:content><akn:p>(g) Migratory and seasonal agricultural workers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_h"><akn:num>(h)</akn:num><akn:heading>Homeless population</akn:heading><akn:content><akn:p>(h) Homeless population</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_i"><akn:num>(i)</akn:num><akn:heading>Residents of public housing</akn:heading><akn:content><akn:p>(i) Residents of public housing</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_254b_j"><akn:num>(j)</akn:num><akn:heading>Access grants</akn:heading><akn:content><akn:p>(j) Access grants</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

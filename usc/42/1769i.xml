@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1769i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1769i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1769i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1769i"><akn:num>1769i</akn:num><akn:heading>Program evaluation</akn:heading><akn:content><akn:p>§ 1769i. Program evaluation(a) Performance assessments(1) In generalSubject to the availability of funds made available under paragraph (3), the Secretary, acting through the Administrator of the Food and Nutrition Service, may conduct annual national performance assessments of the meal programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+
+
+(2) ComponentsIn conducting an assessment, the Secretary may assess—(A) the cost of producing meals and meal supplements under the programs described in paragraph (1); and
+
+(B) the nutrient profile of meals, and status of menu planning practices, under the programs.
+
+
+(3) Authorization of appropriationsThere is authorized to be appropriated to carry out this subsection $5,000,000 for fiscal year 2004 and each subsequent fiscal year.
+
+
+
+(b) Certification improvements(1) In generalSubject to the availability of funds made available under paragraph (5), the Secretary, acting through the Administrator of the Food and Nutrition Service, shall conduct a study of the feasibility of improving the certification process used for the school lunch program established under this chapter.
+
+
+(2) Pilot projectsIn carrying out this subsection, the Secretary may conduct pilot projects to improve the certification process used for the school lunch program.
+
+
+(3) ComponentsIn carrying out this subsection, the Secretary shall examine the use of—(A) other income reporting systems;
+
+(B) an integrated benefit eligibility determination process managed by a single agency;
+
+(C) income or program participation data gathered by State or local agencies; and
+
+(D) other options determined by the Secretary.
+
+
+(4) Waivers(A) In generalSubject to subparagraph (B), the Secretary may waive such provisions of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) as are necessary to carry out this subsection.
+
+
+(B) ProvisionsThe protections of section 1758(b)(6) of this title shall apply to any study or pilot pr</akn:p></akn:content><akn:subsection eId="subsec_1769i_a"><akn:num>(a)</akn:num><akn:heading>Performance assessments</akn:heading><akn:content><akn:p>(a) Performance assessments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1769i_b"><akn:num>(b)</akn:num><akn:heading>Certification improvements</akn:heading><akn:content><akn:p>(b) Certification improvements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1769i_c"><akn:num>(c)</akn:num><akn:heading>Cooperation with program research and evaluation</akn:heading><akn:content><akn:p>(c) Cooperation with program research and evaluation States, State educational agencies, local educational agencies, schools, institutions, facilities, and contractors participating in programs authorized under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall cooperate with officials and contractors acting on behalf of the Secretary, in the conduct of evaluations and studies under those Acts.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

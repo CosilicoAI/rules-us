@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1401" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1401/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1401/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1401"><akn:num>1401</akn:num><akn:heading>Rate of tax</akn:heading><akn:content><akn:p>§ 1401. Rate of tax(a) Old-age, survivors, and disability insuranceIn addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 12.4 percent of the amount of the self-employment income for such taxable year.
+
+
+(b) Hospital insurance(1) In generalIn addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 2.9 percent of the amount of the self-employment income for such taxable year.
+
+
+(2) Additional tax(A) In generalIn addition to the tax imposed by paragraph (1) and the preceding subsection, there is hereby imposed on every taxpayer (other than a corporation, estate, or trust) for each taxable year beginning after December 31, 2012, a tax equal to 0.9 percent of the self-employment income for such taxable year which is in excess of—(i) in the case of a joint return, $250,000,
+
+(ii) in the case of a married taxpayer (as defined in section 7703) filing a separate return, ½ of the dollar amount determined under clause (i), and
+
+(iii) in any other case, $200,000.
+
+
+(B) Coordination with FICAThe amounts under clause (i), (ii), or (iii) (whichever is applicable) of subparagraph (A) shall be reduced (but not below zero) by the amount of wages taken into account in determining the tax imposed under section 3121(b)(2) with respect to the taxpayer.
+
+
+
+
+(c) Relief from taxes in cases covered by certain international agreementsDuring any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954</akn:p></akn:content><akn:subsection eId="subsec_1401_a"><akn:num>(a)</akn:num><akn:heading>Old-age, survivors, and disability insurance</akn:heading><akn:content><akn:p>(a) Old-age, survivors, and disability insurance In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 12.4 percent of the amount of the self-employment income for such taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1401_b"><akn:num>(b)</akn:num><akn:heading>Hospital insurance</akn:heading><akn:content><akn:p>(b) Hospital insurance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1401_c"><akn:num>(c)</akn:num><akn:heading>Relief from taxes in cases covered by certain international agreements</akn:heading><akn:content><akn:p>(c) Relief from taxes in cases covered by certain international agreements During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

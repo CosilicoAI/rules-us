@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/144" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/144/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/144/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_144"><akn:num>144</akn:num><akn:heading>Qualified small issue bond; qualified student loan bond; qualified redevelopment bond</akn:heading><akn:content><akn:p>§ 144. Qualified small issue bond; qualified student loan bond; qualified redevelopment bond(a) Qualified small issue bond(1) In generalFor purposes of this part, the term “qualified small issue bond” means any bond issued as part of an issue the aggregate authorized face amount of which is $1,000,000 or less and 95 percent or more of the net proceeds of which are to be used—(A) for the acquisition, construction, reconstruction, or improvement of land or property of a character subject to the allowance for depreciation, or
+
+(B) to redeem part or all of a prior issue which was issued for purposes described in subparagraph (A) or this subparagraph.
+
+
+(2) Certain prior issues taken into accountIf—(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of each such issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
+
+(B) the principal user of such facilities is or will be the same person or 2 or more related persons, and
+
+(C) but for this paragraph, paragraph (1) (or the corresponding provision of prior law) would apply to each such issue,
+
+
+then, for purposes of paragraph (1), in determining the aggregate face amount of any later issue there shall be taken into account the aggregate face amount of tax-exempt bonds issued under all prior such issues and outstanding at the time of such later issue (not including as outstanding any bond which is to be redeemed (other than in an advance refunding) from the net proceeds of the later issue).
+
+(3) Related personsFor purposes of this subsection, a person is a related person to another person if—(A) the relationship between such persons would result in a disallowance of losses under section 267 or 707(b), or
+
+(B) such persons are members of the same controlled group of corporations (as defined in section 1563(a), except that “more than 50 percent” shall be substituted f</akn:p></akn:content><akn:subsection eId="subsec_144_a"><akn:num>(a)</akn:num><akn:heading>Qualified small issue bond</akn:heading><akn:content><akn:p>(a) Qualified small issue bond</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_144_b"><akn:num>(b)</akn:num><akn:heading>Qualified student loan bond</akn:heading><akn:content><akn:p>(b) Qualified student loan bond For purposes of this part—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_144_c"><akn:num>(c)</akn:num><akn:heading>Qualified redevelopment bond</akn:heading><akn:content><akn:p>(c) Qualified redevelopment bond For purposes of this part—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

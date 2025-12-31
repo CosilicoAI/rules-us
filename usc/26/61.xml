@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/61" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/61/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/61/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_61"><akn:num>61</akn:num><akn:heading>Gross income defined</akn:heading><akn:content><akn:p>§ 61. Gross income defined(a) General definitionExcept as otherwise provided in this subtitle, gross income means all income from whatever source derived, including (but not limited to) the following items:(1) Compensation for services, including fees, commissions, fringe benefits, and similar items;
+
+(2) Gross income derived from business;
+
+(3) Gains derived from dealings in property;
+
+(4) Interest;
+
+(5) Rents;
+
+(6) Royalties;
+
+(7) Dividends;
+
+(8) Annuities;
+
+(9) Income from life insurance and endowment contracts;
+
+(10) Pensions;
+
+(11) Income from discharge of indebtedness;
+
+(12) Distributive share of partnership gross income;
+
+(13) Income in respect of a decedent; and
+
+(14) Income from an interest in an estate or trust.
+
+
+(b) Cross referencesFor items specifically included in gross income, see part II (sec. 71 and following). For items specifically excluded from gross income, see part III (sec. 101 and following).
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 98–369, div. A, title V, § 531(c), July 18, 1984, 98 Stat. 884; Pub. L. 115–97, title I, § 11051(b)(1)(A), Dec. 22, 2017, 131 Stat. 2089.)
+
+Editorial Notes
+Amendments2017—Subsec. (a)(8) to (15). Pub. L. 115–97 redesignated pars. (9) to (15) as (8) to (14), respectively, and struck out former par. (8) which read as follows: “Alimony and separate maintenance payments;”.
+1984—Subsec. (a)(1). Pub. L. 98–369 inserted reference to fringe benefits.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2017 AmendmentPub. L. 115–97, title I, § 11051(c), Dec. 22, 2017, 131 Stat. 2090, provided that: 
+“The amendments made by this section [amending this section and sections 62, 121, 152, 219, 220, 223, 382, 408, 3402, 6724, and 7701 of this title and repealing sections 71, 215, and 682 of this title] shall apply to—
+“(1) any divorce or separation instrument (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 as in effect before the date of the enactment of this Act [Dec. 22, 2017]) executed afte</akn:p></akn:content><akn:subsection eId="subsec_61_a"><akn:num>(a)</akn:num><akn:heading>General definition</akn:heading><akn:content><akn:p>(a) General definition Except as otherwise provided in this subtitle, gross income means all income from whatever source derived, including (but not limited to) the following items:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_61_b"><akn:num>(b)</akn:num><akn:heading>Cross references</akn:heading><akn:content><akn:p>(b) Cross references For items specifically included in gross income, see part II (sec. 71 and following). For items specifically excluded from gross income, see part III (sec. 101 and following).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

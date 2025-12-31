@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/450ss–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/450ss–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/450ss–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_450ss_1"><akn:num>450ss–1</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 450ss–1. Definitions
+In sections 450ss to 450ss–7 of this title:(1) FoundationThe term “Foundation” means the Oklahoma City National Memorial Foundation, a not-for-profit corporation that is—(A) described in section 501(c)(3) of title 26;
+
+(B) exempt from taxation under section 501(a) of such title; and
+
+(C) dedicated to the support of the Memorial.
+
+
+(2) MemorialThe term “Memorial” means the Oklahoma City National Memorial designated under section 450ss–2(a) of this title.
+
+
+(3) SecretaryThe term “Secretary” means the Secretary of the Interior.
+
+
+(4) TrustThe term “Trust” means the Oklahoma City National Memorial Trust.
+
+
+(Pub. L. 105–58, § 3, Oct. 9, 1997, 111 Stat. 1262; Pub. L. 108–199, div. F, title V, § 544(b), Jan. 23, 2004, 118 Stat. 347.)
+
+Editorial Notes
+Amendments2004—Pub. L. 108–199 added par. (1), redesignated former pars. (1) to (3) as pars. (2) to (4), respectively, and struck out “designated under section 450ss–3(a) of this title” before the period in par. (4).</akn:p></akn:content><akn:subsection eId="subsec_450ss_1_1"><akn:num>(1)</akn:num><akn:heading>Foundation</akn:heading><akn:content><akn:p>(1) Foundation The term “Foundation” means the Oklahoma City National Memorial Foundation, a not-for-profit corporation that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_450ss_1_2"><akn:num>(2)</akn:num><akn:heading>Memorial</akn:heading><akn:content><akn:p>(2) Memorial The term “Memorial” means the Oklahoma City National Memorial designated under section 450ss–2(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_450ss_1_3"><akn:num>(3)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(3) Secretary The term “Secretary” means the Secretary of the Interior.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_450ss_1_4"><akn:num>(4)</akn:num><akn:heading>Trust</akn:heading><akn:content><akn:p>(4) Trust The term “Trust” means the Oklahoma City National Memorial Trust.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

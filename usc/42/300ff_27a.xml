@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300ff–27a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300ff–27a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300ff–27a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300ff_27a"><akn:num>300ff–27a</akn:num><akn:heading>Spousal notification</akn:heading><akn:content><akn:p>§ 300ff–27a. Spousal notification(a) In generalThe Secretary of Health and Human Services shall not make a grant under part B of title XXVI of the Public Health Service Act (42 U.S.C. 300ff–21 et seq.) to any State unless such State takes administrative or legislative action to require that a good faith effort be made to notify a spouse of a known HIV-infected patient that such spouse may have been exposed to the human immunodeficiency virus and should seek testing.
+
+
+(b) DefinitionsFor purposes of this section:(1) SpouseThe term “spouse” means any individual who is the marriage partner of an HIV-infected patient, or who has been the marriage partner of that patient at any time within the 10-year period prior to the diagnosis of HIV infection.
+
+
+(2) HIV-infected patientThe term “HIV-infected patient” means any individual who has been diagnosed to be infected with the human immunodeficiency virus.
+
+
+(3) StateThe term “State” means any of the 50 States, the District of Columbia, or any territory of the United States.
+
+
+
+(Pub. L. 104–146, § 8, May 20, 1996, 110 Stat. 1372.)
+
+Editorial Notes
+
+References in TextThe Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+Codification
+Section was enacted as part of the Ryan White CARE Act Amendments of 1996, and not as part of the Public Health Service Act which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as an Effective Date of 1996 Amendment note under section 300ff–11 of this title.</akn:p></akn:content><akn:subsection eId="subsec_300ff_27a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Health and Human Services shall not make a grant under part B of title XXVI of the Public Health Service Act (42 U.S.C. 300ff–21 et seq.) to any State unless such State takes administrative or legislative action to require that a good faith effort be made to notify a spouse of a known HIV-infected patient that such spouse may have been exposed to the human immunodeficiency virus and should seek testing.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_27a_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions For purposes of this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

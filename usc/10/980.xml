@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/980" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/980/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/980/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_980"><akn:num>980</akn:num><akn:heading>Limitation on use of humans as experimental subjects</akn:heading><akn:content><akn:p>§ 980. Limitation on use of humans as experimental subjects(a) Funds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless—(1) the informed consent of the subject is obtained in advance; or
+
+(2) in the case of research intended to be beneficial to the subject, the informed consent of the subject or a legal representative of the subject is obtained in advance.
+
+
+(b)(1) The Secretary of Defense may waive the prohibition in this section with respect to a specific research project to advance the development of a medical product necessary to the armed forces if the research project may directly benefit the subject and is carried out in accordance with all other applicable laws.
+
+(2) The Secretary may delegate the authority provided by paragraph (1) to the Under Secretary of Defense for Research and Engineering.
+
+
+(Added Pub. L. 98–525, title XIV, § 1401(c)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 107–107, div. A, title VII, § 733, Dec. 28, 2001, 115 Stat. 1170; Pub. L. 118–31, div. A, title II, § 212, Dec. 22, 2023, 137 Stat. 183.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in the following appropriation acts:
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8029], Oct. 12, 1984, 98 Stat. 1904, 1929.
+Pub. L. 98–212, title VII, § 734, Dec. 8, 1983, 97 Stat. 1444.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 737], Dec. 21, 1982, 96 Stat. 1833, 1857.
+Pub. L. 97–114, title VII, § 738, Dec. 29, 1981, 95 Stat. 1585.
+Pub. L. 96–527, title VII, § 739, Dec. 15, 1980, 94 Stat. 3088.
+Pub. L. 96–154, title VII, § 741, Dec. 21, 1979, 93 Stat. 1159.
+Pub. L. 95–457, title VIII, § 841, Oct. 13, 1978, 92 Stat. 1251.
+Pub. L. 95–111, title VIII, § 840, Sept. 21, 1977, 91 Stat. 906.
+Pub. L. 94–419, title VII, § 739, Sept. 22, 1976, 90 Stat. 1297.
+Pub. L. 94–212, title VII, § 740, Feb. 9, 1976, 90 Stat. 175.
+Pub. L. 93–437, title VIII, § 841, Oct. 8, 1974, 8</akn:p></akn:content><akn:subsection eId="subsec_980_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Funds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_980_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

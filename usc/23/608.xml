@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/608" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/608/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/608/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_608"><akn:num>608</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>§ 608. Funding(a) Funding.—(1) Spending and borrowing authority.—Spending and borrowing authority for a fiscal year to enter into Federal credit instruments shall be promptly apportioned to the Secretary on a fiscal-year basis.
+
+(2) Reestimates.—If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) of the Congressional Budget Act of 1974 (2 U.S.C. 661c(f)).
+
+(3) Rural set-aside.—(A) In general.—Of the total amount of funds made available to carry out the TIFIA program for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects or rural projects funds.
+
+(B) Reobligation.—Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects or rural projects funds.
+
+
+(4) Limitation for certain projects.—(A) Transit-oriented development projects.—For each fiscal year, the Secretary may use to carry out projects described in section 601(a)(12)(E) not more than 15 percent of the amounts made available to carry out the TIFIA program for that fiscal year.
+
+(B) Airport-related projects.—The Secretary may use to carry out projects described in section 601(a)(12)(G)—(i) for each fiscal year, not more than 15 percent of the amounts made available to carry out the TIFIA program under the Surface Transportation Reauthorization Act of 2021 for that fiscal year; and
+
+(ii) for the period of fiscal years 2022 through 2026, not more than 15 percent of the unobligated carryover balances (as of October 1, 2021).
+
+
+
+(5) Availability.—Amounts made available to carry out the TIFIA program shall remain available until expended.
+
+(6) Administrative costs.—Of the amounts made available to carry out the TIFIA program, the Secretary m</akn:p></akn:content><akn:subsection eId="subsec_608_a"><akn:num>(a)</akn:num><akn:heading>Funding.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_608_b"><akn:num>(b)</akn:num><akn:heading>Contract Authority.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

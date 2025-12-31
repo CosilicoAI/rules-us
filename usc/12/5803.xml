@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5803" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5803/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5803/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5803"><akn:num>5803</akn:num><akn:heading>LIBOR contracts</akn:heading><akn:content><akn:p>§ 5803. LIBOR contracts(a) In generalOn the LIBOR replacement date, the Board-selected benchmark replacement shall be the benchmark replacement for any LIBOR contract that, after giving any effect to subsection (b)—(1) contains no fallback provisions; or
+
+(2) contains fallback provisions that identify neither—(A) a specific benchmark replacement; nor
+
+(B) a determining person.
+
+
+
+(b) Fallback provisionsOn the LIBOR replacement date, any reference in the fallback provisions of a LIBOR contract to—(1) a benchmark replacement that is based in any way on any LIBOR value, except to account for the difference between LIBOR and the benchmark replacement; or
+
+(2) a requirement that a person (other than a benchmark administrator) conduct a poll, survey, or inquiries for quotes or information concerning interbank lending or deposit rates;
+
+
+shall be disregarded as if not included in the fallback provisions of such LIBOR contract and shall be deemed null and void and without any force or effect.
+
+(c) Authority of determining person(1) In generalSubject to subsection (f)(2), a determining person may select the Board-selected benchmark replacement as the benchmark replacement.
+
+
+(2) SelectionAny selection by a determining person of the Board-selected benchmark replacement pursuant to paragraph (1) shall be—(A) irrevocable;
+
+(B) made by the earlier of the LIBOR replacement date and the latest date for selecting a benchmark replacement according to the terms of the LIBOR contract; and
+
+(C) used in any determinations of the benchmark under or with respect to the LIBOR contract occurring on and after the LIBOR replacement date.
+
+
+(3) No selectionIf a determining person does not select a benchmark replacement by the date specified in paragraph (2)(B), the Board-selected benchmark replacement, on and after the LIBOR replacement date, shall be the benchmark replacement for the LIBOR contract.
+
+
+
+(d) Conforming changes(1) In generalIf the Board-selected benchmark replacement becomes the</akn:p></akn:content><akn:subsection eId="subsec_5803_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general On the LIBOR replacement date, the Board-selected benchmark replacement shall be the benchmark replacement for any LIBOR contract that, after giving any effect to subsection (b)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5803_b"><akn:num>(b)</akn:num><akn:heading>Fallback provisions</akn:heading><akn:content><akn:p>(b) Fallback provisions On the LIBOR replacement date, any reference in the fallback provisions of a LIBOR contract to— shall be disregarded as if not included in the fallback provisions of such LIBOR contract and shall be deemed null and void and without any force or effect.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5803_c"><akn:num>(c)</akn:num><akn:heading>Authority of determining person</akn:heading><akn:content><akn:p>(c) Authority of determining person</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5803_d"><akn:num>(d)</akn:num><akn:heading>Conforming changes</akn:heading><akn:content><akn:p>(d) Conforming changes</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5803_e"><akn:num>(e)</akn:num><akn:heading>Adjustment by Board</akn:heading><akn:content><akn:p>(e) Adjustment by Board</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5803_f"><akn:num>(f)</akn:num><akn:heading>Rule of construction</akn:heading><akn:content><akn:p>(f) Rule of construction Nothing in this chapter may be construed to alter or impair—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

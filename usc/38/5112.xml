@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/5112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/5112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/5112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5112"><akn:num>5112</akn:num><akn:heading>Effective dates of reductions and discontinuances</akn:heading><akn:content><akn:p>§ 5112. Effective dates of reductions and discontinuances(a) Except as otherwise specified in this section, the effective date of reduction or discontinuance of compensation, dependency and indemnity compensation, or pension shall be fixed in accordance with the facts found.
+
+(b) The effective date of a reduction or discontinuance of compensation, dependency and indemnity compensation, or pension—(1) by reason of marriage or remarriage, or death of a payee shall be the last day of the month before such marriage, remarriage, or death occurs;
+
+(2) by reason of marriage, annulment, divorce, or death of a dependent of a payee shall be the last day of the month in which such marriage, annulment, divorce, or death occurs;
+
+(3) by reason of receipt of active service pay or retirement pay shall be the day before the date such pay began;
+
+(4) by reason of—(A) change in income shall (except as provided in section 5312 of this title) be the last day of the month in which the change occurred; and
+
+(B) change in corpus of estate shall be the last day of the calendar year in which the change occurred;
+
+
+(5) by reason of a change in disability or employability of a veteran in receipt of pension shall be the last day of the month in which discontinuance of the award is approved;
+
+(6) by reason of change in law or administrative issue, change in interpretation of a law or administrative issue, or, for compensation purposes, a change in service-connected or employability status or change in physical condition shall be the last day of the month following sixty days from the date of notice to the payee of the reduction or discontinuance;
+
+(7) by reason of the discontinuance of school attendance of a payee or a dependent of a payee shall be the last day of the month in which such discontinuance occurred;
+
+(8) by reason of termination of a temporary increase in compensation for hospitalization or treatment shall be the last day of the month in which the hospital discharge or termination </akn:p></akn:content><akn:subsection eId="subsec_5112_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as otherwise specified in this section, the effective date of reduction or discontinuance of compensation, dependency and indemnity compensation, or pension shall be fixed in accordance with the facts found.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5112_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The effective date of a reduction or discontinuance of compensation, dependency and indemnity compensation, or pension—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

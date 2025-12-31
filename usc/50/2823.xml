@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2823" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2823/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2823/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2823"><akn:num>2823</akn:num><akn:heading>University-based defense nuclear policy collaboration program</akn:heading><akn:content><akn:p>§ 2823. University-based defense nuclear policy collaboration program(a) ProgramThe Administrator shall carry out a program under which the Administrator establishes a policy research consortium of institutions of higher education and nonprofit entities in support of implementing and innovating the defense nuclear policy programs of the Administration. The Administrator shall establish and carry out such program in a manner similar to the program established under section 2795 of this title.
+
+
+(b) PurposesThe purposes of the consortium under subsection (a) are as follows:(1) To shape the formulation and application of policy through the conduct of research and analysis regarding defense nuclear policy programs.
+
+(2) To maintain open-source databases on issues relevant to understanding defense nuclear nonproliferation, arms control, nuclear deterrence, foreign nuclear programs, and nuclear security.
+
+(3) To facilitate the collaboration of research centers of excellence relating to defense nuclear policy to better distribute expertise to specific issues and scenarios regarding such threats.
+
+
+(c) Duties(1) SupportThe Administrator shall ensure that the consortium established under subsection (a) provides support to individuals described in paragraph (2) through the use of nongovernmental fellowships, scholarships, research internships, workshops, short courses, summer schools, and research grants.
+
+
+(2) Individuals describedThe individuals described in this paragraph are graduate students, academics, and policy specialists, who are focused on policy innovation related to—(A) defense nuclear nonproliferation;
+
+(B) arms control;
+
+(C) nuclear deterrence;
+
+(D) the study of foreign nuclear programs;
+
+(E) nuclear security; or
+
+(F) educating and training the next generation of defense nuclear policy experts.
+
+
+
+(Pub. L. 107–314, div. D, title XLVIII, § 4853, as added Pub. L. 117–81, div. C, title XXXI, § 3113, Dec. 27, 2021, 135 Stat. 2221.)</akn:p></akn:content><akn:subsection eId="subsec_2823_a"><akn:num>(a)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(a) Program The Administrator shall carry out a program under which the Administrator establishes a policy research consortium of institutions of higher education and nonprofit entities in support of implementing and innovating the defense nuclear policy programs of the Administration. The Administrator shall establish and carry out such program in a manner similar to the program established under section 2795 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2823_b"><akn:num>(b)</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>(b) Purposes The purposes of the consortium under subsection (a) are as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2823_c"><akn:num>(c)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(c) Duties</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

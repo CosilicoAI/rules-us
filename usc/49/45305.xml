@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/45305" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/45305/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/45305/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_45305"><akn:num>45305</akn:num><akn:heading>Registration, certification, and related fees</akn:heading><akn:content><akn:p>§ 45305. Registration, certification, and related fees(a) General Authority and Fees.—Subject to subsection (c), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:(1) Registering an aircraft.
+
+(2) Reregistering, replacing, or renewing an aircraft registration certificate.
+
+(3) Issuing an original dealer’s aircraft registration certificate.
+
+(4) Issuing an additional dealer’s aircraft registration certificate (other than the original).
+
+(5) Issuing a special registration number.
+
+(6) Issuing a renewal of a special registration number reservation.
+
+(7) Recording a security interest in an aircraft or aircraft part.
+
+(8) Issuing an airman certificate.
+
+(9) Issuing a replacement airman certificate.
+
+(10) Issuing an airman medical certificate.
+
+(11) Providing a legal opinion pertaining to aircraft registration or recordation.
+
+
+(b) Certification Services.—Subject to subsection (c), and notwithstanding section 45301(a), the Administrator may establish and collect a fee from a foreign government or entity for services related to certification, regardless of where the services are provided, if the fee—(1) is established and collected in a manner consistent with aviation safety agreements; and
+
+(2) does not exceed the estimated costs of the services.
+
+
+(c) Limitation on Collection.—No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+
+(d) Fees Credited as Offsetting Collections.—(1) In general.—Notwithstanding section 3302 of title 31, any fee authorized to be collected under this section shall—(A) be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed;
+
+(B) be available for expendit</akn:p></akn:content><akn:subsection eId="subsec_45305_a"><akn:num>(a)</akn:num><akn:heading>General Authority and Fees.—</akn:heading><akn:content><akn:p>(a) Subject to subsection (c), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45305_b"><akn:num>(b)</akn:num><akn:heading>Certification Services.—</akn:heading><akn:content><akn:p>(b) Subject to subsection (c), and notwithstanding section 45301(a), the Administrator may establish and collect a fee from a foreign government or entity for services related to certification, regardless of where the services are provided, if the fee—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45305_c"><akn:num>(c)</akn:num><akn:heading>Limitation on Collection.—</akn:heading><akn:content><akn:p>(c) No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45305_d"><akn:num>(d)</akn:num><akn:heading>Fees Credited as Offsetting Collections.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

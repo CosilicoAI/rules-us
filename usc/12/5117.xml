@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5117" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5117/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5117/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5117"><akn:num>5117</akn:num><akn:heading>Employment transition of loan originators</akn:heading><akn:content><akn:p>§ 5117. Employment transition of loan originators(a) DefinitionsIn this section:(1) Application StateThe term “application State” means a State in which a registered loan originator or a State-licensed loan originator seeks to be licensed.
+
+
+(2) State-licensed mortgage companyThe term “State-licensed mortgage company” means an entity that is licensed or registered under the law of any State to engage in residential mortgage loan origination and processing activities.
+
+
+
+(b) Temporary authority to originate loans for loan originators moving from a depository institution to a non-depository institution(1) In generalUpon becoming employed by a State-licensed mortgage company, an individual who is a registered loan originator shall be deemed to have temporary authority to act as a loan originator in an application State for the period described in paragraph (2) if the individual—(A) has not had—(i) an application for a loan originator license denied; or
+
+(ii) a loan originator license revoked or suspended in any governmental jurisdiction;
+
+
+(B) has not been subject to, or served with, a cease and desist order—(i) in any governmental jurisdiction; or
+
+(ii) under section 5113(c) of this title;
+
+
+(C) has not been convicted of a misdemeanor or felony that would preclude licensure under the law of the application State;
+
+(D) has submitted an application to be a State-licensed loan originator in the application State; and
+
+(E) was registered in the Nationwide Mortgage Licensing System and Registry as a loan originator during the 1-year period preceding the date on which the information required under section 5104(a) of this title is submitted.
+
+
+(2) PeriodThe period described in this paragraph shall begin on the date on which an individual described in paragraph (1) submits the information required under section 5104(a) of this title and shall end on the earliest of the date—(A) on which the individual withdraws the application to be a State-licensed loan originator in the ap</akn:p></akn:content><akn:subsection eId="subsec_5117_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5117_b"><akn:num>(b)</akn:num><akn:heading>Temporary authority to originate loans for loan originators moving from a depository institution to a non-depository institution</akn:heading><akn:content><akn:p>(b) Temporary authority to originate loans for loan originators moving from a depository institution to a non-depository institution</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5117_c"><akn:num>(c)</akn:num><akn:heading>Temporary authority to originate loans for State-licensed loan originators moving interstate</akn:heading><akn:content><akn:p>(c) Temporary authority to originate loans for State-licensed loan originators moving interstate</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5117_d"><akn:num>(d)</akn:num><akn:heading>Applicability</akn:heading><akn:content><akn:p>(d) Applicability</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

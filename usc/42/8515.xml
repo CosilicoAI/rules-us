@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/8515" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/8515/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/8515/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8515"><akn:num>8515</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>§ 8515. Reports(a) MonitoringThe Secretary shall monitor the implementation of State emergency conservation plans and of the standby Federal conservation plan and make such recommendations to the Governor of each affected State as he deems appropriate for modification to such plans.
+
+
+(b) Omitted
+
+(Pub. L. 96–102, title II, § 215, Nov. 5, 1979, 93 Stat. 765.)
+
+Editorial Notes
+Codification
+Subsec. (b) of this section, which required the President to report annually to Congress on any activities undertaken pursuant to this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 20th item on page 19 of House Document No. 103–7.</akn:p></akn:content><akn:subsection eId="subsec_8515_a"><akn:num>(a)</akn:num><akn:heading>Monitoring</akn:heading><akn:content><akn:p>(a) Monitoring The Secretary shall monitor the implementation of State emergency conservation plans and of the standby Federal conservation plan and make such recommendations to the Governor of each affected State as he deems appropriate for modification to such plans.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8515_b"><akn:num>(b)</akn:num><akn:heading>Omitted</akn:heading><akn:content><akn:p>(b) Omitted</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

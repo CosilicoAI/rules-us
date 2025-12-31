@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/4101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/4101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/4101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4101"><akn:num>4101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 4101. Definitions
+In this chapter:(1) Delivery order contract.—The term “delivery order contract” means a contract for property that—(A) does not procure or specify a firm quantity of property (other than a minimum or maximum quantity); and
+
+(B) provides for the issuance of orders for the delivery of property during the period of the contract.
+
+
+(2) Task order contract.—The term “task order contract” means a contract for services that—(A) does not procure or specify a firm quantity of services (other than a minimum or maximum quantity); and
+
+(B) provides for the issuance of orders for the performance of tasks during the period of the contract.
+
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3778.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+410141:253k.June 30, 1949, ch. 288, title III, § 303K, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3265.</akn:p></akn:content><akn:subsection eId="subsec_4101_1"><akn:num>(1)</akn:num><akn:heading>Delivery order contract.—</akn:heading><akn:content><akn:p>(1) The term “delivery order contract” means a contract for property that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4101_2"><akn:num>(2)</akn:num><akn:heading>Task order contract.—</akn:heading><akn:content><akn:p>(2) The term “task order contract” means a contract for services that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/190303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/190303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/190303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_190303"><akn:num>190303</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>§ 190303. Purposes
+The purposes of the corporation are as provided in its articles of incorporation and bylaws and include—(1) upholding and defending the Constitution of the United States;
+
+(2) promoting health, prosperity, and scholarship among its members and their dependents and survivors through benevolent programs;
+
+(3) assisting veterans and their dependents and survivors through a service program established for that purpose;
+
+(4) improving conditions for retired enlisted service members, veterans, and their dependents and survivors; and
+
+(5) fostering fraternal and social activities among its members in recognition that cooperative action is required for the furtherance of their common interests.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1449.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+19030336:5103.Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1823, 106 Stat. 2584.
+
+
+The word “objects” is omitted as included in “purposes”.</akn:p></akn:content><akn:subsection eId="subsec_190303_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) upholding and defending the Constitution of the United States;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_190303_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) promoting health, prosperity, and scholarship among its members and their dependents and survivors through benevolent programs;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_190303_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) assisting veterans and their dependents and survivors through a service program established for that purpose;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_190303_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) improving conditions for retired enlisted service members, veterans, and their dependents and survivors; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_190303_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) fostering fraternal and social activities among its members in recognition that cooperative action is required for the furtherance of their common interests.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

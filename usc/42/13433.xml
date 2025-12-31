@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/13433" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/13433/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/13433/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13433"><akn:num>13433</akn:num><akn:heading>Alternative fuel vehicle program</akn:heading><akn:content><akn:p>§ 13433. Alternative fuel vehicle program(a) Program directionThe Secretary shall carry out a program, in accordance with sections 13541 and 13542 of this title, on techniques related to improving natural gas and other alternative fuel vehicle technology, including—(1) fuel injection;
+
+(2) carburetion;
+
+(3) manifolding;
+
+(4) combustion;
+
+(5) power optimization;
+
+(6) efficiency;
+
+(7) lubricants and detergents;
+
+(8) engine durability;
+
+(9) ignition, including fuel additives to assist ignition;
+
+(10) multifuel engines;
+
+(11) emissions control, including catalysts;
+
+(12) novel gas compression concepts;
+
+(13) advanced storage systems;
+
+(14) advanced gaseous fueling technologies; and
+
+(15) the incorporation of advanced materials in these areas.
+
+
+(b) Cooperative agreements and assistanceThe Secretary may enter into cooperative agreements with, and provide financial assistance to, public or private entities willing to provide 50 percent of the costs of a program to perform activities under subsection (a).
+
+
+(c) DefinitionsFor purposes of this section—(1) the term “alternative fuel vehicle” means a motor vehicle that operates on alternative fuels; and
+
+(2) the term “motor vehicle” includes any automobile, truck, bus, van, or other on-road or off-road motor vehicle, including a boat.
+
+
+(Pub. L. 102–486, title XX, § 2023, Oct. 24, 1992, 106 Stat. 3062.)</akn:p></akn:content><akn:subsection eId="subsec_13433_a"><akn:num>(a)</akn:num><akn:heading>Program direction</akn:heading><akn:content><akn:p>(a) Program direction The Secretary shall carry out a program, in accordance with sections 13541 and 13542 of this title, on techniques related to improving natural gas and other alternative fuel vehicle technology, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13433_b"><akn:num>(b)</akn:num><akn:heading>Cooperative agreements and assistance</akn:heading><akn:content><akn:p>(b) Cooperative agreements and assistance The Secretary may enter into cooperative agreements with, and provide financial assistance to, public or private entities willing to provide 50 percent of the costs of a program to perform activities under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13433_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

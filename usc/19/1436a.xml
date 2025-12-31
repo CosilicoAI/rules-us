@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/1436a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/1436a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/1436a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1436a"><akn:num>1436a</akn:num><akn:heading>Report on violations of arrival, reporting, entry, and clearance requirements and falsity or lack of</akn:heading><akn:content><akn:p>§ 1436a. Report on violations of arrival, reporting, entry, and clearance requirements and falsity or lack of manifest(a) In generalThe Commissioner of U.S. Customs and Border Protection shall submit to the appropriate congressional committees an annual report that contains the information described in subsection (b) with respect to each violation of section 1436 of this title, as amended by section 8007, and section 1584 of this title that occurred during the previous year.
+
+
+(b) Information describedThe information described in this subsection is the following:(1) The name and address of the violator.
+
+(2) The specific violation that was committed.
+
+(3) The location or port of entry through which the items were transported.
+
+(4) An inventory of the items seized, including a description of the items and the quantity seized.
+
+(5) The location from which the items originated.
+
+(6) The entity responsible for the apprehension or seizure, organized by location or port of entry.
+
+(7) The amount of penalties assessed by U.S. Customs and Border Protection, organized by name of the violator and location or port of entry.
+
+(8) The amount of penalties that U.S. Customs and Border Protection could have levied, organized by name of the violator and location or port of entry.
+
+(9) The rationale for negotiating lower penalties, organized by name of the violator and location or port of entry.
+
+
+(c) Appropriate congressional committees definedIn this section, the term “appropriate congressional committees” means—(1) the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(2) the Committee on Ways and Means, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives.
+
+
+(Pub. L. 115–271, title VIII, § 8008, Oct. 24, 2018, 132 Stat. 4081.)
+
+Editorial Notes
+
+References in TextSection 1436 of this title, as amended by section 8007, referred to in subsec. (a), is section 143</akn:p></akn:content><akn:subsection eId="subsec_1436a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Commissioner of U.S. Customs and Border Protection shall submit to the appropriate congressional committees an annual report that contains the information described in subsection (b) with respect to each violation of section 1436 of this title, as amended by section 8007, and section 1584 of this title that occurred during the previous year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1436a_b"><akn:num>(b)</akn:num><akn:heading>Information described</akn:heading><akn:content><akn:p>(b) Information described The information described in this subsection is the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1436a_c"><akn:num>(c)</akn:num><akn:heading>Appropriate congressional committees defined</akn:heading><akn:content><akn:p>(c) Appropriate congressional committees defined In this section, the term “appropriate congressional committees” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

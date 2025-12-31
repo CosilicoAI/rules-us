@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/8302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/8302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/8302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8302"><akn:num>8302</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8302. Definitions(a) GenerallyUnless otherwise expressly provided, for the purposes of this chapter—(1) The term “Secretary” means the Secretary of Energy.
+
+(2) The term “person” means any (A) individual, corporation, company, partnership, association, firm, institution, society, trust, joint venture, or joint stock company, (B) any State, the District of Columbia, Puerto Rico, and any territory or possession of the United States, or (C) any agency or instrumentality (including any municipality) thereof.
+
+(3)(A) Except as provided in subparagraph (B), the term “natural gas” means any fuel consisting in whole or in part of—(i) natural gas;
+
+(ii) liquid petroleum gas;
+
+(iii) synthetic gas derived from petroleum or natural gas liquids; or
+
+(iv) any mixture of natural gas and synthetic gas.
+
+
+(B) The term “natural gas” does not include—(i) natural gas which is commercially unmarketable (either by reason of quality or quantity), as determined under rules prescribed by the Secretary;
+
+(ii) natural gas produced by the user from a well the maximum efficient production rate of which is less than 250 million Btu’s per day;
+
+(iii) natural gas to the extent the exclusion of such gas is provided for in subsection (b); or
+
+(iv) synthetic gas, derived from coal or other alternate fuel, the heat content of which is less than 600 Btu’s per cubic foot at 14.73 pounds per square inch (absolute) and 60 degrees Fahrenheit.
+
+
+
+(4) The term “petroleum” means crude oil and products derived from crude oil, other than—(A) synthetic gas derived from crude oil;
+
+(B) liquid petroleum gas;
+
+(C) liquid, solid, or gaseous waste byproducts of refinery operations which are commercially unmarketable, either by reason of quality or quantity, as determined under rules prescribed by the Secretary; or
+
+(D) petroleum coke or waste gases from industrial operations.
+
+
+(5) The term “coal” means anthracite and bituminous coal, lignite, and any fuel derivative thereof.
+
+(6) The term “alternate fuel” means el</akn:p></akn:content><akn:subsection eId="subsec_8302_a"><akn:num>(a)</akn:num><akn:heading>Generally</akn:heading><akn:content><akn:p>(a) Generally Unless otherwise expressly provided, for the purposes of this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8302_b"><akn:num>(b)</akn:num><akn:heading>Special rules relating to definitions of natural gas and alternate fuel</akn:heading><akn:content><akn:p>(b) Special rules relating to definitions of natural gas and alternate fuel</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

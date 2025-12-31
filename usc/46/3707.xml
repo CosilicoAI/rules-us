@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/3707" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/3707/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/3707/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3707"><akn:num>3707</akn:num><akn:heading>Tanker minimum standards</akn:heading><akn:content><akn:p>§ 3707. Tanker minimum standards(a) A new tanker of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—(1) 2 remote steering gear control systems operable separately from the navigating bridge;
+
+(2) the main steering gear control in the steering gear compartment;
+
+(3) means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment;
+
+(4) at least 2 identical and adequate power units for the main steering gear;
+
+(5) an alternative and adequate power supply, either from an emergency source of electrical power or from another independent source of power located in the steering gear compartment; and
+
+(6) means of automatic starting and stopping of power units with attendant alarms at all steering stations.
+
+
+(b) An existing tanker of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—(1) 2 remote steering gear control systems operable separately from the navigating bridge;
+
+(2) the main steering gear control in the steering gear compartment; and
+
+(3) means of communications and rudder angle indicators on the navigating bridge, a remote steering gear control station, and the steering gear compartment.
+
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524; Pub. L. 104–324, title VII, § 716, Oct. 19, 1996, 110 Stat. 3937.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+3707(a)46:391a(7)(K)
+3707(b)46:391a(7)(L)
+
+
+Section 3707 requires compliance with certain minimum standards by a tanker, which is a self-propelled tank vessel.
+Section 3707(a) requires new tankers of 10,000 gross tons or above, to have two rem</akn:p></akn:content><akn:subsection eId="subsec_3707_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A new tanker of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3707_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) An existing tanker of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title shall be equipped with—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/1301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/1301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/1301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1301"><akn:num>1301</akn:num><akn:heading>Rules</akn:heading><akn:content><akn:p>§ 1301. Rules
+The Office of Personnel Management shall aid the President, as he may request, in preparing the rules he prescribes under this title for the administration of the competitive service.
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 401; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 633(1) (function of Civil Service Commission).Jan. 16, 1883, ch. 27, § 2(1) (function of Civil Service Commission), 22 Stat. 403.
+
+
+The authority of the President to prescribe rules is carried into sections 2951, 3302, 3304(a), 3306(a), 3321, 7152, 7153, 7321, and 7322 of this title.
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+Editorial Notes
+Amendments1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

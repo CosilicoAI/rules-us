@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/21302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/21302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/21302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_21302"><akn:num>21302</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>§ 21302. Purposes
+The purposes of the corporation are—(1) to promote historical studies;
+
+(2) to collect and preserve historical manuscripts; and
+
+(3) other kindred purposes in the interest of American history and of history in America.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1294.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2130236:20 (1st sentence words beginning with “for the promotion”).Jan. 4, 1889, ch. 20, (1st sentence words beginning with “for the promotion”), 25 Stat. 640.</akn:p></akn:content><akn:subsection eId="subsec_21302_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) to promote historical studies;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21302_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) to collect and preserve historical manuscripts; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_21302_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) other kindred purposes in the interest of American history and of history in America.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9711" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9711/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9711/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9711"><akn:num>9711</akn:num><akn:heading>Gap analysis on availability of snow-related data to assess and predict flood and flood impacts</akn:heading><akn:content><akn:p>§ 9711. Gap analysis on availability of snow-related data to assess and predict flood and flood impacts(a) In generalThe Administrator, in consultation with the Department of Agriculture, the Department of the Interior, and the Army Corps of Engineers, shall conduct an analysis of gaps in the availability of snow-related data to assess and predict floods and flood impacts, including data on the following:(1) Snow water equivalent.
+
+(2) Snow depth.
+
+(3) Snowpack temperature.
+
+(4) Snow and mixed-phase precipitation.
+
+(5) Snow melt.
+
+(6) Rain-snow line.
+
+
+(b) ReportNot later than 180 days after December 27, 2022, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on—(1) the findings of the gap analysis required by subsection (a); and
+
+(2) opportunities for additional collaboration among Federal agencies to collect snow-related data to better assess and predict floods and flood impacts.
+
+
+(Pub. L. 117–316, § 16, Dec. 27, 2022, 136 Stat. 4417.)</akn:p></akn:content><akn:subsection eId="subsec_9711_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Administrator, in consultation with the Department of Agriculture, the Department of the Interior, and the Army Corps of Engineers, shall conduct an analysis of gaps in the availability of snow-related data to assess and predict floods and flood impacts, including data on the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9711_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report Not later than 180 days after December 27, 2022, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

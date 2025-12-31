@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/550" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/550/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/550/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_550"><akn:num>550</akn:num><akn:heading>Liability of transferee of avoided transfer</akn:heading><akn:content><akn:p>§ 550. Liability of transferee of avoided transfer(a) Except as otherwise provided in this section, to the extent that a transfer is avoided under section 544, 545, 547, 548, 549, 553(b), or 724(a) of this title, the trustee may recover, for the benefit of the estate, the property transferred, or, if the court so orders, the value of such property, from—(1) the initial transferee of such transfer or the entity for whose benefit such transfer was made; or
+
+(2) any immediate or mediate transferee of such initial transferee.
+
+
+(b) The trustee may not recover under section 11 So in original. Probably should be “subsection”. (a)(2) of this section from—(1) a transferee that takes for value, including satisfaction or securing of a present or antecedent debt, in good faith, and without knowledge of the voidability of the transfer avoided; or
+
+(2) any immediate or mediate good faith transferee of such transferee.
+
+
+(c) If a transfer made between 90 days and one year before the filing of the petition—(1) is avoided under section 547(b) of this title; and
+
+(2) was made for the benefit of a creditor that at the time of such transfer was an insider;
+
+
+the trustee may not recover under subsection (a) from a transferee that is not an insider.
+
+(d) The trustee is entitled to only a single satisfaction under subsection (a) of this section.
+
+(e)(1) A good faith transferee from whom the trustee may recover under subsection (a) of this section has a lien on the property recovered to secure the lesser of—(A) the cost, to such transferee, of any improvement made after the transfer, less the amount of any profit realized by or accruing to such transferee from such property; and
+
+(B) any increase in the value of such property as a result of such improvement, of the property transferred.
+
+
+(2) In this subsection, “improvement” includes—(A) physical additions or changes to the property transferred;
+
+(B) repairs to such property;
+
+(C) payment of any tax on such property;
+
+(D) payment of any </akn:p></akn:content><akn:subsection eId="subsec_550_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as otherwise provided in this section, to the extent that a transfer is avoided under section 544, 545, 547, 548, 549, 553(b), or 724(a) of this title, the trustee may recover, for the benefit of the estate, the property transferred, or, if the court so orders, the value of such property, from—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_550_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The trustee may not recover under section 11 So in original. Probably should be “subsection”. (a)(2) of this section from—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_550_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) If a transfer made between 90 days and one year before the filing of the petition— the trustee may not recover under subsection (a) from a transferee that is not an insider.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_550_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The trustee is entitled to only a single satisfaction under subsection (a) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_550_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_550_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) An action or proceeding under this section may not be commenced after the earlier of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/7702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/7702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/7702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7702"><akn:num>7702</akn:num><akn:heading>United States participation in the North Pacific Fisheries Convention</akn:heading><akn:content><akn:p>§ 7702. United States participation in the North Pacific Fisheries Convention(a) United States Commissioners(1) Number of CommissionersThe United States shall be represented on the Commission by five United States Commissioners.
+
+
+(2) Selection of commissionersThe Commissioners shall be as follows:(A) Appointment by the President(i) In generalTwo of the Commissioners shall be appointed by the President and shall be an officer or employee of—(I) the Department of Commerce;
+
+(II) the Department of State; or
+
+(III) the Coast Guard.
+
+
+(ii) Selection criteriaIn making each appointment under clause (i), the President shall select a Commissioner from among individuals who are knowledgeable or experienced concerning fisheries resources in the North Pacific Ocean.
+
+
+
+(B) North Pacific Fishery Management CouncilOne Commissioner shall be the chairman of the North Pacific Fishery Management Council or a designee of such chairman.
+
+
+(C) Pacific Fishery Management CouncilOne Commissioner shall be the chairman of the Pacific Fishery Management Council or a designee of such chairperson.
+
+
+(D) Western Pacific Fishery Management CouncilOne Commissioner shall be the chairman of the Western Pacific Fishery Management Council or a designee of such chairperson.
+
+
+
+
+(b) Alternate CommissionersIn the event of a vacancy in a position as a Commissioner appointed under subsection (a), the Secretary of State, in consultation with the Secretary, may designate from time to time and for periods of time considered appropriate an alternate Commissioner to the Commission. An alternate Commissioner may exercise all powers and duties of a Commissioner in the absence of a Commissioner appointed under subsection (a), and shall serve the remainder of the term of the absent Commissioner for which designated.
+
+
+(c) Administrative matters(1) Employment statusAn individual serving as a Commissioner, or an alternative Commissioner, other than an officer or employee of the United States Government, shall not b</akn:p></akn:content><akn:subsection eId="subsec_7702_a"><akn:num>(a)</akn:num><akn:heading>United States Commissioners</akn:heading><akn:content><akn:p>(a) United States Commissioners</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702_b"><akn:num>(b)</akn:num><akn:heading>Alternate Commissioners</akn:heading><akn:content><akn:p>(b) Alternate Commissioners In the event of a vacancy in a position as a Commissioner appointed under subsection (a), the Secretary of State, in consultation with the Secretary, may designate from time to time and for periods of time considered appropriate an alternate Commissioner to the Commission. An alternate Commissioner may exercise all powers and duties of a Commissioner in the absence of a Commissioner appointed under subsection (a), and shall serve the remainder of the term of the absent Commissioner for which designated.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702_c"><akn:num>(c)</akn:num><akn:heading>Administrative matters</akn:heading><akn:content><akn:p>(c) Administrative matters</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702_d"><akn:num>(d)</akn:num><akn:heading>Advisory Committee</akn:heading><akn:content><akn:p>(d) Advisory Committee</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/280e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/280e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/280e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_280e"><akn:num>280e</akn:num><akn:heading>National program of cancer registries</akn:heading><akn:content><akn:p>§ 280e. National program of cancer registries(a) In general(1) Statewide cancer registriesThe Secretary, acting through the Director of the Centers for Disease Control, may make grants to States, or may make grants or enter into contracts with academic or nonprofit organizations designated by the State to operate the State’s cancer registry in lieu of making a grant directly to the State, to support the operation of population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data concerning—(A) demographic information about each case of cancer;
+
+(B) information on the industrial or occupational history of the individuals with the cancers, to the extent such information is available from the same record;
+
+(C) administrative information, including date of diagnosis and source of information;
+
+(D) pathological data characterizing the cancer, including the cancer site, stage of disease (pursuant to Staging Guide), incidence, and type of treatment; and
+
+(E) other elements determined appropriate by the Secretary.
+
+
+(2) Cancer; benign brain-related tumors(A) In generalFor purposes of paragraph (1), the conditions referred to in this paragraph are the following:(i) Each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), including malignant brain-related tumors.
+
+(ii) Benign brain-related tumors.
+
+
+(B) Brain-related tumorFor purposes of subparagraph (A):(i) The term “brain-related tumor” means a listed primary tumor (whether malignant or benign) occurring in any of the following sites:(I) The brain, meninges, spinal cord, cauda equina, a cranial nerve or nerves, or any other part of the central nervous system.
+
+(II) The pituitary gland, pineal gland, or craniopharyngeal duct.
+
+
+(ii) The term “listed”, with respect to a primary tumor, means a primary tumor that is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
+
+(iii) T</akn:p></akn:content><akn:subsection eId="subsec_280e_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_280e_b"><akn:num>(b)</akn:num><akn:heading>Matching funds</akn:heading><akn:content><akn:p>(b) Matching funds</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_280e_c"><akn:num>(c)</akn:num><akn:heading>Eligibility for grants</akn:heading><akn:content><akn:p>(c) Eligibility for grants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_280e_d"><akn:num>(d)</akn:num><akn:heading>Relationship to certain programs</akn:heading><akn:content><akn:p>(d) Relationship to certain programs</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_280e_e"><akn:num>(e)</akn:num><akn:heading>Requirement regarding certain study on breast cancer</akn:heading><akn:content><akn:p>(e) Requirement regarding certain study on breast cancer In the case of a grant under subsection (a) to any State specified in subsection (b) of section 280e–3 of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

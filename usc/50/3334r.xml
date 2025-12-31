@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3334r" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3334r/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3334r/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3334r"><akn:num>3334r</akn:num><akn:heading>Designation of a chief technology officer within certain elements of the intelligence community</akn:heading><akn:content><akn:p>§ 3334r. Designation of a chief technology officer within certain elements of the intelligence community(a) Designation authorityThe head of each covered element of the intelligence community shall designate a senior official to serve as the chief technology officer of such element.
+
+
+(b) Covered elementsFor purposes of this section, the covered elements of the intelligence community are the following:(1) The Central Intelligence Agency.
+
+(2) The Defense Intelligence Agency.
+
+(3) The Federal Bureau of Investigation.
+
+(4) The National Geospatial-Intelligence Agency.
+
+(5) The National Security Agency.
+
+(6) The National Reconnaissance Office.
+
+
+(c) ResponsibilityThe chief technology officer of each covered element of the intelligence community shall be responsible for assisting the head of such element in the identification and adoption of technology to advance mission needs.
+
+
+(d) Prohibition of dual appointmentAny chief technology officer designated pursuant to subsection (a) may not concurrently serve as the chief information officer, the chief data officer, or the principal science officer of any element of the intelligence community.
+
+
+(Pub. L. 118–31, div. G, title V, § 7504, Dec. 22, 2023, 137 Stat. 1083.)
+
+Statutory Notes and Related Subsidiaries
+
+Definitions
+For definition of “intelligence community” as used in this section, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.</akn:p></akn:content><akn:subsection eId="subsec_3334r_a"><akn:num>(a)</akn:num><akn:heading>Designation authority</akn:heading><akn:content><akn:p>(a) Designation authority The head of each covered element of the intelligence community shall designate a senior official to serve as the chief technology officer of such element.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3334r_b"><akn:num>(b)</akn:num><akn:heading>Covered elements</akn:heading><akn:content><akn:p>(b) Covered elements For purposes of this section, the covered elements of the intelligence community are the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3334r_c"><akn:num>(c)</akn:num><akn:heading>Responsibility</akn:heading><akn:content><akn:p>(c) Responsibility The chief technology officer of each covered element of the intelligence community shall be responsible for assisting the head of such element in the identification and adoption of technology to advance mission needs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3334r_d"><akn:num>(d)</akn:num><akn:heading>Prohibition of dual appointment</akn:heading><akn:content><akn:p>(d) Prohibition of dual appointment Any chief technology officer designated pursuant to subsection (a) may not concurrently serve as the chief information officer, the chief data officer, or the principal science officer of any element of the intelligence community.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

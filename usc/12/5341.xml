@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5341" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5341/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5341/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5341"><akn:num>5341</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5341. Definitions
+For purposes of this part—(1) the terms “Office” and “Director” mean the Office of Financial Research established under this part and the Director thereof, respectively;
+
+(2) the term “financial company” has the same meaning as in subchapter II, and includes an insured depository institution and an insurance company;
+
+(3) the term “Data Center” means the data center established under section 5344 of this title;
+
+(4) the term “Research and Analysis Center” means the research and analysis center established under section 5344 of this title;
+
+(5) the term “financial transaction data” means the structure and legal description of a financial contract, with sufficient detail to describe the rights and obligations between counterparties and make possible an independent valuation;
+
+(6) the term “position data”—(A) means data on financial assets or liabilities held on the balance sheet of a financial company, where positions are created or changed by the execution of a financial transaction; and
+
+(B) includes information that identifies counterparties, the valuation by the financial company of the position, and information that makes possible an independent valuation of the position;
+
+
+(7) the term “financial contract” means a legally binding agreement between 2 or more counterparties, describing rights and obligations relating to the future delivery of items of intrinsic or extrinsic value among the counterparties; and
+
+(8) the term “financial instrument” means a financial contract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).
+
+(Pub. L. 111–203, title I, § 151, July 21, 2010, 124 Stat. 1412.)
+
+Editorial Notes
+
+References in TextSubchapter II, referred to in par. (2), was in the original “title II”, mean</akn:p></akn:content><akn:subsection eId="subsec_5341_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the terms “Office” and “Director” mean the Office of Financial Research established under this part and the Director thereof, respectively;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5341_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “financial company” has the same meaning as in subchapter II, and includes an insured depository institution and an insurance company;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5341_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “Data Center” means the data center established under section 5344 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5341_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the term “Research and Analysis Center” means the research and analysis center established under section 5344 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5341_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) the term “financial transaction data” means the structure and legal description of a financial contract, with sufficient detail to describe the rights and obligations between counterparties and make possible an independent valuation;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5341_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) the term “position data”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5341_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) the term “financial contract” means a legally binding agreement between 2 or more counterparties, describing rights and obligations relating to the future delivery of items of intrinsic or extrinsic value among the counterparties; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5341_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) the term “financial instrument” means a financial contract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

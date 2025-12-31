@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/7362" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/7362/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/7362/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7362"><akn:num>7362</akn:num><akn:heading>Recomputation of retired pay to reflect advancement on retired list</akn:heading><akn:content><akn:p>§ 7362. Recomputation of retired pay to reflect advancement on retired list(a) Entitlement to Recomputation.—An enlisted member or warrant officer of the Army who is advanced on the retired list under section 7344 of this title is entitled to recompute his retired pay in accordance with this section.
+
+(b) Formula.—The monthly retired pay of a member entitled to recompute that pay under this section is computed by multiplying—(1) the member’s retired pay base (as computed under section 1406(c) or 1407 of this title), by
+
+(2) the retired pay multiplier prescribed in section 1409 of this title for the number of years credited to the member under section 1405 of this title.
+
+
+(c) Rounding to Next Lower Dollar.—The amount computed under subsection (b), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 233, § 3992; Pub. L. 96–342, title VIII, § 813(c), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title V, § 512(10), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 97–295, § 1(40), Oct. 12, 1982, 96 Stat. 1297; Pub. L. 98–94, title IX, §§ 922(a)(8), 923(a)(1), (2)(G), Sept. 24, 1983, 97 Stat. 641–643; Pub. L. 99–348, title II, § 202(b), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, § 635(a)(3), Oct. 5, 1994, 108 Stat. 2788; renumbered § 7362 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(b)(14), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+1956 Act
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+399210:594 (last 39 words of 1st proviso).10:1004 (30 words before proviso).Aug. 21, 1941, ch. 384, § 5 (last 39 words of 1st proviso); restated June 29, 1948, ch. 708, § 203(c) (last 39 words of 1st proviso), 62 Stat. 1085; May 29, 1954, ch. 249, § 19(f), 68 Stat. 167.
+  June 29, 1948, ch. 708, § 203(e) (30 words before proviso), 62 Stat. 1086.
+
+
+The words “basic pay * * * as the case may be” are inserted to conform to the terminology of the </akn:p></akn:content><akn:subsection eId="subsec_7362_a"><akn:num>(a)</akn:num><akn:heading>Entitlement to Recomputation.—</akn:heading><akn:content><akn:p>(a) An enlisted member or warrant officer of the Army who is advanced on the retired list under section 7344 of this title is entitled to recompute his retired pay in accordance with this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7362_b"><akn:num>(b)</akn:num><akn:heading>Formula.—</akn:heading><akn:content><akn:p>(b) The monthly retired pay of a member entitled to recompute that pay under this section is computed by multiplying—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7362_c"><akn:num>(c)</akn:num><akn:heading>Rounding to Next Lower Dollar.—</akn:heading><akn:content><akn:p>(c) The amount computed under subsection (b), if not a multiple of $1, shall be rounded to the next lower multiple of $1.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

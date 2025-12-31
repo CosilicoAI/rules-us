@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/6101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/6101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/6101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6101"><akn:num>6101</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>§ 6101. Findings
+Congress finds that—(1) of the nearly 800 bird species known to occur in the United States, approximately 500 migrate among countries, and the large majority of those species, the neotropical migrants, winter in Latin America and the Caribbean but breed in Canada and the United States;
+
+(2) neotropical migratory bird species provide invaluable environmental, economic, recreational, and aesthetic benefits to the United States, as well as to the Western Hemisphere;
+
+(3)(A) many neotropical migratory bird populations, once considered common, are in decline, and some have declined to the point that their long-term survival in the wild is in jeopardy; and
+
+(B) the primary reason for the decline in the populations of those species is habitat loss and degradation (including pollution and contamination) across the species’ range; and
+
+
+(4)(A) because neotropical migratory birds range across numerous international borders each year, their conservation requires the commitment and effort of all countries along their migration routes; and
+
+(B) although numerous initiatives exist to conserve migratory birds and their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination.
+
+
+(Pub. L. 106–247, § 2, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, § 302(a), Oct. 17, 2006, 120 Stat. 2075.)
+
+Editorial Notes
+Amendments2006—Par. (1). Pub. L. 109–363 inserted “but breed in Canada and the United States” after “the Caribbean”.
+
+Statutory Notes and Related Subsidiaries
+Short Title of 2024 AmendmentPub. L. 118–51, § 1, Apr. 24, 2024, 138 Stat. 1005, provided that: “This Act [amending sections 6103, 6104, 6106, and 6109 of this title] may be cited as the ‘Migratory Birds of the Americas Conservation Enhancements Act of 2023’.”
+
+
+Short Title of 2006 AmendmentPub. L. 109–363, title III, § 301, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title [amending this section and sections 6102 to 6104 and 6106 to 6109 of this </akn:p></akn:content><akn:subsection eId="subsec_6101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) of the nearly 800 bird species known to occur in the United States, approximately 500 migrate among countries, and the large majority of those species, the neotropical migrants, winter in Latin America and the Caribbean but breed in Canada and the United States;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) neotropical migratory bird species provide invaluable environmental, economic, recreational, and aesthetic benefits to the United States, as well as to the Western Hemisphere;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

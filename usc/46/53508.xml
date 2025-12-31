@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53508" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53508/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53508/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53508"><akn:num>53508</akn:num><akn:heading>Separate accounts within a fund</akn:heading><akn:content><akn:p>§ 53508. Separate accounts within a fund(a) In General.—A capital construction fund shall have three accounts:(1) The capital account.
+
+(2) The capital gain account.
+
+(3) The ordinary income account.
+
+
+(b) Capital Account.—The capital account shall consist of—(1) amounts referred to in section 53505(a)(2) of this title;
+
+(2) amounts referred to in section 53505(a)(3) of this title, except that portion representing a gain not taken into account because of section 53507(a)(2) of this title;
+
+(3) the percentage applicable under section 243(a)(1) of the Internal Revenue Code of 1986 (26 U.S.C. 243(a)(1)) of any dividend received by the fund for which the person maintaining the fund would be allowed (were it not for section 53507(a)(3) of this title) a deduction under section 243 of such Code (26 U.S.C. 243); and
+
+(4) interest income exempt from taxation under section 103 of such Code (26 U.S.C. 103).
+
+
+(c) Capital Gain Account.—The capital gain account shall consist of—(1) amounts representing capital gains on assets held for more than 6 months and referred to in section 53505(a)(3) or (4) of this title; minus
+
+(2) amounts representing capital losses on assets held in the fund for more than 6 months.
+
+
+(d) Ordinary Income Account.—The ordinary income account shall consist of—(1) amounts referred to in section 53505(a)(1) of this title;
+
+(2)(A) amounts representing capital gains on assets held for not more than 6 months and referred to in section 53505(a)(3) or (4) of this title; minus
+
+(B) amounts representing capital losses on assets held in the fund for not more than 6 months;
+
+
+(3) interest (except tax-exempt interest referred to in subsection (b)(4)) and other ordinary income (except any dividend referred to in paragraph (5)) received on assets held in the fund;
+
+(4) ordinary income from a transaction described in section 53505(a)(3) of this title; and
+
+(5) that portion of any dividend referred to in subsection (b)(3) not taken into account under subsection (b)(3).
+</akn:p></akn:content><akn:subsection eId="subsec_53508_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A capital construction fund shall have three accounts:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53508_b"><akn:num>(b)</akn:num><akn:heading>Capital Account.—</akn:heading><akn:content><akn:p>(b) The capital account shall consist of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53508_c"><akn:num>(c)</akn:num><akn:heading>Capital Gain Account.—</akn:heading><akn:content><akn:p>(c) The capital gain account shall consist of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53508_d"><akn:num>(d)</akn:num><akn:heading>Ordinary Income Account.—</akn:heading><akn:content><akn:p>(d) The ordinary income account shall consist of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53508_e"><akn:num>(e)</akn:num><akn:heading>When Losses Allowed.—</akn:heading><akn:content><akn:p>(e) Except on termination of a fund, capital losses referred to in subsection (c) or (d)(2) shall be allowed only as an offset to gains referred to in subsection (c) or (d)(2), respectively.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

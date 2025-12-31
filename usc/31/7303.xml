@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/7303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/7303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/7303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7303"><akn:num>7303</akn:num><akn:heading>Reports and public hearings on proposed uses of amounts</akn:heading><akn:content><akn:p>§ 7303. Reports and public hearings on proposed uses of amounts(a)(1) The chief executive officer of each State shall prepare for each fiscal year a report on the proposed use during the fiscal year of block grant amounts received by the State. The report shall include—(A) a statement of goals and objectives;
+
+(B) information on the types of activities to be supported, geographic areas to be served, and categories or characteristics of individuals to be served; and
+
+(C) the criteria for, and way of, distributing the amounts, including details on the way amounts will be distributed on the basis of need to carry out the purposes of the block grant amounts.
+
+
+(2) Beginning with the fiscal year ending September 30, 1983, each report shall describe how the State met the goals, objectives, and needs in using the amounts described in the report for the prior fiscal year.
+
+
+(b) A State may not receive block grant amounts for a fiscal year until the State conducts a public hearing, after adequate public notice, on the proposed use and distribution of the amounts set out in the report prepared under subsection (a) of this section for the fiscal year.
+
+(c) Each report prepared under subsection (a) of this section and changes to the report shall be made public in the State on a timely basis and in a way that encourages comments from interested local government and persons.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1040.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+730331:1243(note).Aug. 13, 1981, Pub. L. 97–35, § 1742, 95 Stat. 763.
+
+
+In subsection (a)(1), before clause (A), the words “for each fiscal year” and “during the fiscal year” are substituted for “for the previous fiscal year” for clarity.
+In subsection (b), the words “by the State” are omitted as surplus.
+In subsection (c), the words “by a State” are omitted as surplus.</akn:p></akn:content><akn:subsection eId="subsec_7303_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7303_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A State may not receive block grant amounts for a fiscal year until the State conducts a public hearing, after adequate public notice, on the proposed use and distribution of the amounts set out in the report prepared under subsection (a) of this section for the fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7303_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Each report prepared under subsection (a) of this section and changes to the report shall be made public in the State on a timely basis and in a way that encourages comments from interested local government and persons.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

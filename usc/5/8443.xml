@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8443" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8443/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8443/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8443"><akn:num>8443</akn:num><akn:heading>Rights of a child</akn:heading><akn:content><akn:p>§ 8443. Rights of a child(a)(1) If an employee or Member dies after completing at least 18 months of civilian service which is creditable under section 8411, or an annuitant dies, each surviving child is, for any month, entitled to an annuity equal to—(A) the amount by which the applicable amount under paragraph (2) for such month exceeds the applicable amount under paragraph (3) for such month, divided by
+
+(B) the number of children entitled to a payment under this section for such month.
+
+
+(2) The applicable amount under this paragraph for any month is the total amount to which the surviving child or children (as the case may be) of the annuitant, employee, or Member would be entitled for such month under subchapter III of chapter 83 (including any adjustment based on section 8340) based on the service of such annuitant, employee, or Member, if the service of such annuitant, employee, or Member were creditable under such subchapter.
+
+(3) The applicable amount under this paragraph for any month is the total amount of child’s insurance benefits which are payable (or would, on proper application, be payable) under title II of the Social Security Act for such month based on the wages and self-employment income of such annuitant, employee, or Member.
+
+
+(b) The annuity of a child under this subchapter—(1) commences on the day after the annuitant, employee, or Member dies;
+
+(2) commences or resumes on the first day of the month in which the child later becomes or again becomes a student as described by section 8441(4), if any lump sum paid is returned to the Fund; or
+
+(3) commences or resumes on the first day of the month in which the child later becomes or again becomes incapable of self-support because of a mental or physical disability incurred before age 18 (or a later recurrence of such disability), if any lump sum paid is returned to the Fund.
+
+
+This annuity and the right thereto terminate on the last day of the month before the child—
+(A) becomes 18 years of age u</akn:p></akn:content><akn:subsection eId="subsec_8443_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8443_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The annuity of a child under this subchapter— This annuity and the right thereto terminate on the last day of the month before the child— whichever occurs first. On the death of the surviving wife or husband, or former wife or husband, or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the wife or husband, former wife or husband, or child had not survived the annuitant, employee, or Member. If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/1126" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/1126/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/1126/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1126"><akn:num>1126</akn:num><akn:heading>Policy regarding consideration of contractor past performance</akn:heading><akn:content><akn:p>§ 1126. Policy regarding consideration of contractor past performance(a) Guidance.—The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—(1) standards for evaluating past performance with respect to cost (when appropriate), schedule, compliance with technical or functional specifications, and other relevant performance factors that facilitate consistent and fair evaluation by all executive agencies;
+
+(2) policies for the collection and maintenance of information on past contract performance that, to the maximum extent practicable, facilitate automated collection, maintenance, and dissemination of information and provide for ease of collection, maintenance, and dissemination of information by other methods, as necessary;
+
+(3) policies for ensuring that—(A) offerors are afforded an opportunity to submit relevant information on past contract performance, including performance under contracts entered into by the executive agency concerned, other departments and agencies of the Federal Government, agencies of State and local governments, and commercial customers; and
+
+(B) the information submitted by offerors is considered; and
+
+
+(4) the period for which information on past performance of offerors may be maintained and considered.
+
+
+(b) Information Not Available.—If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3689.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1126(a)41:405(j)(1).Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2), Oct. 13, 1994, 108 Stat. 3272.
+1126(b)41:405(j)(2).
+
+
+
+Statutory Notes and Related Subsidiaries
+Incl</akn:p></akn:content><akn:subsection eId="subsec_1126_a"><akn:num>(a)</akn:num><akn:heading>Guidance.—</akn:heading><akn:content><akn:p>(a) The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1126_b"><akn:num>(b)</akn:num><akn:heading>Information Not Available.—</akn:heading><akn:content><akn:p>(b) If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

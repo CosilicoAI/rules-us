@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1282" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1282/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1282/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1282"><akn:num>1282</akn:num><akn:heading>Deferral of interest deduction allocable to accrued discount</akn:heading><akn:content><akn:p>§ 1282. Deferral of interest deduction allocable to accrued discount(a) General ruleExcept as otherwise provided in this section, the net direct interest expense with respect to any short-term obligation shall be allowed as a deduction for the taxable year only to the extent such expense exceeds the sum of—(1) the daily portions of the acquisition discount for each day during the taxable year on which the taxpayer held such obligation, and
+
+(2) the amount of any interest payable on the obligation (other than interest taken into account in determining the amount of the acquisition discount) which accrues during the taxable year while the taxpayer held such obligation (and is not included in the gross income of the taxpayer for such taxable year by reason of the taxpayer’s method of accounting).
+
+
+(b) Section not to apply to obligations to which section 1281 applies(1) In generalThis section shall not apply to any short-term obligation to which section 1281 applies.
+
+
+(2) Election to have section 1281 apply to all obligations(A) In generalA taxpayer may make an election under this paragraph to have section 1281 apply to all short-term obligations acquired by the taxpayer on or after the 1st day of the 1st taxable year to which such election applies.
+
+
+(B) Period to which election appliesAn election under this paragraph shall apply to the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
+
+
+
+
+(c) Certain rules made applicableRules similar to the rules of subsections (b) and (c) of section 1277 shall apply for purposes of this section.
+
+
+(d) Cross referenceFor special rules limiting the application of this section to original issue discount in the case of nongovernmental obligations, see section 1283(c).
+
+
+(Added Pub. L. 98–369, div. A, title I, § 41(a), July 18, 1984, 98 Stat. 549; amended Pub. L. 99–514, title XVIII, § 1803(a)(8)(B), Oct. 22, 1986, 100 Sta</akn:p></akn:content><akn:subsection eId="subsec_1282_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule Except as otherwise provided in this section, the net direct interest expense with respect to any short-term obligation shall be allowed as a deduction for the taxable year only to the extent such expense exceeds the sum of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1282_b"><akn:num>(b)</akn:num><akn:heading>Section not to apply to obligations to which section 1281 applies</akn:heading><akn:content><akn:p>(b) Section not to apply to obligations to which section 1281 applies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1282_c"><akn:num>(c)</akn:num><akn:heading>Certain rules made applicable</akn:heading><akn:content><akn:p>(c) Certain rules made applicable Rules similar to the rules of subsections (b) and (c) of section 1277 shall apply for purposes of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1282_d"><akn:num>(d)</akn:num><akn:heading>Cross reference</akn:heading><akn:content><akn:p>(d) Cross reference For special rules limiting the application of this section to original issue discount in the case of nongovernmental obligations, see section 1283(c).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

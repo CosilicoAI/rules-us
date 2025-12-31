@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/1542" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/1542/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/1542/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1542"><akn:num>1542</akn:num><akn:heading>Agency cooperation; private contracts for management services and technical assistance</akn:heading><akn:content><akn:p>§ 1542. Agency cooperation; private contracts for management services and technical assistance
+For the purpose of providing the assistance required under section 1541 of this title, the Secretary is authorized to cooperate with the Small Business Administration and the Corporation for National and Community Service and other Federal agencies in the use of existing programs of this character in those agencies. In addition, the Secretary is authorized to enter into contracts with private organizations for providing such services and assistance.
+(Pub. L. 93–262, title V, § 502, Apr. 12, 1974, 88 Stat. 83; Pub. L. 93–113, title VI, § 601(d), Oct. 1, 1973, 87 Stat. 416; Pub. L. 103–82, title IV, § 405(f), Sept. 21, 1993, 107 Stat. 921.)
+
+Editorial Notes
+Amendments1993—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION Agency”.
+1973—Pub. L. 93–113 substituted “ACTION Agency” for “ACTION”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1993 AmendmentAmendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

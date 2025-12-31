@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16252" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16252/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16252/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16252"><akn:num>16252</akn:num><akn:heading>Education</akn:heading><akn:content><akn:p>§ 16252. Education(1) In generalThe Architect of the Capitol shall establish in the Capitol Complex a program of public education regarding use by the Architect of the Capitol of biobased products.
+
+
+(2) PurposesThe purposes of the program shall be—(A) to establish the Capitol Complex as a showcase for the existence and benefits of biobased products; and
+
+(B) to provide access to further information on biobased products to occupants and visitors.
+
+
+(Pub. L. 109–58, title IX, § 943(c), Aug. 8, 2005, 119 Stat. 881.)</akn:p></akn:content><akn:subsection eId="subsec_16252_1"><akn:num>(1)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(1) In general The Architect of the Capitol shall establish in the Capitol Complex a program of public education regarding use by the Architect of the Capitol of biobased products.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16252_2"><akn:num>(2)</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>(2) Purposes The purposes of the program shall be—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

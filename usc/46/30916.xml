@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30916" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30916/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30916/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30916"><akn:num>30916</akn:num><akn:heading>Recovery by the United States for salvage services</akn:heading><akn:content><akn:p>§ 30916. Recovery by the United States for salvage services(a) Civil Action.—The United States, and the crew of a merchant vessel owned or operated by the United States, or a federally-owned corporation, may bring a civil action to recover for salvage services provided by the vessel and crew.
+
+(b) Deposit of Amounts Recovered.—Any amount recovered under this section by the United States for its own benefit, and not for the benefit of the crew, shall be deposited in the Treasury to the credit of the department of the United States Government, or the corporation, having control of the possession or operation of the vessel.
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1520.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3091646 App.:750.Mar. 9, 1920, ch. 95, § 10, 41 Stat. 528; Pub. L. 97–31, § 12(25)(D), Aug. 6, 1981, 95 Stat. 155.
+
+
+In subsection (a), the words “may bring a civil action to recover” are substituted for “shall have the right to collect and sue” for consistency in this chapter and to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_30916_a"><akn:num>(a)</akn:num><akn:heading>Civil Action.—</akn:heading><akn:content><akn:p>(a) The United States, and the crew of a merchant vessel owned or operated by the United States, or a federally-owned corporation, may bring a civil action to recover for salvage services provided by the vessel and crew.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30916_b"><akn:num>(b)</akn:num><akn:heading>Deposit of Amounts Recovered.—</akn:heading><akn:content><akn:p>(b) Any amount recovered under this section by the United States for its own benefit, and not for the benefit of the crew, shall be deposited in the Treasury to the credit of the department of the United States Government, or the corporation, having control of the possession or operation of the vessel.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

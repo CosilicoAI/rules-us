@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/892" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/892/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/892/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_892"><akn:num>892</akn:num><akn:heading>Income of foreign governments and of international organizations</akn:heading><akn:content><akn:p>§ 892. Income of foreign governments and of international organizations(a) Foreign governments(1) In generalThe income of foreign governments received from—(A) investments in the United States in—(i) stocks, bonds, or other domestic securities owned by such foreign governments, or
+
+(ii) financial instruments held in the execution of governmental financial or monetary policy, or
+
+
+(B) interest on deposits in banks in the United States of moneys belonging to such foreign governments,
+
+
+shall not be included in gross income and shall be exempt from taxation under this subtitle.
+
+(2) Income received directly or indirectly from commercial activities(A) In generalParagraph (1) shall not apply to any income—(i) derived from the conduct of any commercial activity (whether within or outside the United States),
+
+(ii) received by a controlled commercial entity or received (directly or indirectly) from a controlled commercial entity, or
+
+(iii) derived from the disposition of any interest in a controlled commercial entity.
+
+
+(B) Controlled commercial entityFor purposes of subparagraph (A), the term “controlled commercial entity” means any entity engaged in commercial activities (whether within or outside the United States) if the government—(i) holds (directly or indirectly) any interest in such entity which (by value or voting interest) is 50 percent or more of the total of such interests in such entity, or
+
+(ii) holds (directly or indirectly) any other interest in such entity which provides the foreign government with effective control of such entity.
+
+
+For purposes of the preceding sentence, a central bank of issue shall be treated as a controlled commercial entity only if engaged in commercial activities within the United States.
+
+
+(3) Treatment as residentFor purposes of this title, a foreign government shall be treated as a corporate resident of its country. A foreign government shall be so treated for purposes of any income tax treaty obligation of the United States if su</akn:p></akn:content><akn:subsection eId="subsec_892_a"><akn:num>(a)</akn:num><akn:heading>Foreign governments</akn:heading><akn:content><akn:p>(a) Foreign governments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_892_b"><akn:num>(b)</akn:num><akn:heading>International organizations</akn:heading><akn:content><akn:p>(b) International organizations The income of international organizations received from investments in the United States in stocks, bonds, or other domestic securities owned by such international organizations, or from interest on deposits in banks in the United States of moneys belonging to such international organizations, or from any other source within the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_892_c"><akn:num>(c)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(c) Regulations The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/3774" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/3774/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/3774/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3774"><akn:num>3774</akn:num><akn:heading>Major weapon systems and subsystems: long-term technical data needs</akn:heading><akn:content><akn:p>§ 3774. Major weapon systems and subsystems: long-term technical data needs(a) Assessments and Acquisitions Strategies.—(1) The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to—(A) assess the long-term technical data needs of such systems and subsystems; and
+
+(B) establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle.
+
+
+(2) Such strategies may include—(A) the development of maintenance capabilities within the Department of Defense; or
+
+(B) competition for contracts for sustainment of such systems or subsystems.
+
+
+
+(b) Requirements Relating to Assessments and Acquisition Strategies.—Assessments and corresponding acquisition strategies developed under subsection (a) with respect to a weapon system or subsystem shall—(1) be developed before issuance of a contract solicitation for the weapon system or subsystem;
+
+(2) address the merits of including a priced contract option for the future delivery of technical data that were not acquired upon initial contract award;
+
+(3) address the potential for changes in the sustainment plan over the life cycle of the weapon system or subsystem; and
+
+(4) apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapons systems and subsystems that are to be supported by other sustainment approaches.
+
+
+(c) Preference for Specially Negotiated Licenses.—(1) The Secretary of Defense shall, to the maximum extent practicable, negotiate and enter into a contract with a contractor for a specially negotiated license for technical data to support the product support strategy of a major weapon system or subsystem of a major weapon system.
+
+(2) In performing the assessment and developing the corresponding strategy required under subsection (a) for such a system or subsystem, a program manager shall consider the use of </akn:p></akn:content><akn:subsection eId="subsec_3774_a"><akn:num>(a)</akn:num><akn:heading>Assessments and Acquisitions Strategies.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3774_b"><akn:num>(b)</akn:num><akn:heading>Requirements Relating to Assessments and Acquisition Strategies.—</akn:heading><akn:content><akn:p>(b) Assessments and corresponding acquisition strategies developed under subsection (a) with respect to a weapon system or subsystem shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3774_c"><akn:num>(c)</akn:num><akn:heading>Preference for Specially Negotiated Licenses.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

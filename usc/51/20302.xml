@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/20302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/20302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/20302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20302"><akn:num>20302</akn:num><akn:heading>Vision for space exploration</akn:heading><akn:content><akn:p>§ 20302. Vision for space exploration(a) In General.—The Administrator shall establish a program to develop a sustained human presence in cis-lunar space or on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
+
+(b) Future Exploration of Mars.—The Administrator shall manage human space flight programs, including the Space Launch System and Orion, to enable humans to explore Mars and other destinations by defining a series of sustainable steps and conducting mission planning, research, and technology development on a timetable that is technically and fiscally possible, consistent with section 70504.
+
+(c) Definitions.—In this section:(1) Orion.—The term “Orion” means the multipurpose crew vehicle described under section 303 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18323).
+
+(2) Space launch system.—The term “Space Launch System” means has the meaning 11 So in original. given the term in section 3 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18302).
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3356; Pub. L. 115–10, title IV, § 413, Mar. 21, 2017, 131 Stat. 33.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2030242 U.S.C. 16611(b).Pub. L. 109–155, title I, § 101(b), Dec. 30, 2005, 119 Stat. 2898.
+
+
+
+Editorial Notes
+Amendments2017—Subsec. (a). Pub. L. 115–10, § 413(1), inserted “in cis-lunar space or” after “sustained human presence”.
+Subsec. (b). Pub. L. 115–10, § 413(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Administrator shall manage human space flight programs to strive to achieve the follow</akn:p></akn:content><akn:subsection eId="subsec_20302_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Administrator shall establish a program to develop a sustained human presence in cis-lunar space or on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20302_b"><akn:num>(b)</akn:num><akn:heading>Future Exploration of Mars.—</akn:heading><akn:content><akn:p>(b) The Administrator shall manage human space flight programs, including the Space Launch System and Orion, to enable humans to explore Mars and other destinations by defining a series of sustainable steps and conducting mission planning, research, and technology development on a timetable that is technically and fiscally possible, consistent with section 70504.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20302_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

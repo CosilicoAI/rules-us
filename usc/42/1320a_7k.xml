@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1320a–7k" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1320a–7k/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1320a–7k/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1320a_7k"><akn:num>1320a–7k</akn:num><akn:heading>Medicare and Medicaid program integrity provisions</akn:heading><akn:content><akn:p>§ 1320a–7k. Medicare and Medicaid program integrity provisions(a) Data matching(1) Integrated data repository(A) Inclusion of certain data(i) In generalThe Integrated Data Repository of the Centers for Medicare &amp; Medicaid Services shall include, at a minimum, claims and payment data from the following:(I) The programs under subchapters XVIII and XIX (including parts A, B, C, and D of subchapter XVIII).
+
+(II) The program under subchapter XXI.
+
+(III) Health-related programs administered by the Secretary of Veterans Affairs.
+
+(IV) Health-related programs administered by the Secretary of Defense.
+
+(V) The program of old-age, survivors, and disability insurance benefits established under subchapter II.
+
+(VI) The Indian Health Service and the Contract Health Service program.
+
+
+(ii) Priority for inclusion of certain dataInclusion of the data described in subclause (I) of such clause 11 So in original. Probably should be “clause (i)”. in the Integrated Data Repository shall be a priority. Data described in subclauses (II) through (VI) of such clause 1 shall be included in the Integrated Data Repository as appropriate.
+
+
+
+(B) Data sharing and matching(i) In generalThe Secretary shall enter into agreements with the individuals described in clause (ii) under which such individuals share and match data in the system of records of the respective agencies of such individuals with data in the system of records of the Department of Health and Human Services for the purpose of identifying potential fraud, waste, and abuse under the programs under subchapters XVIII and XIX.
+
+
+(ii) Individuals describedThe following individuals are described in this clause:(I) The Commissioner of Social Security.
+
+(II) The Secretary of Veterans Affairs.
+
+(III) The Secretary of Defense.
+
+(IV) The Director of the Indian Health Service.
+
+
+(iii) Definition of system of recordsFor purposes of this paragraph, the term “system of records” has the meaning given such term in section 552a(a)(5) of title 5.
+
+
+
+
+</akn:p></akn:content><akn:subsection eId="subsec_1320a_7k_a"><akn:num>(a)</akn:num><akn:heading>Data matching</akn:heading><akn:content><akn:p>(a) Data matching</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320a_7k_b"><akn:num>(b)</akn:num><akn:heading>OIG authority to obtain information</akn:heading><akn:content><akn:p>(b) OIG authority to obtain information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320a_7k_c"><akn:num>(c)</akn:num><akn:heading>Administrative remedy for knowing participation by beneficiary in health care fraud scheme</akn:heading><akn:content><akn:p>(c) Administrative remedy for knowing participation by beneficiary in health care fraud scheme</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320a_7k_d"><akn:num>(d)</akn:num><akn:heading>Reporting and returning of overpayments</akn:heading><akn:content><akn:p>(d) Reporting and returning of overpayments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320a_7k_e"><akn:num>(e)</akn:num><akn:heading>Inclusion of national provider identifier on all applications and claims</akn:heading><akn:content><akn:p>(e) Inclusion of national provider identifier on all applications and claims The Secretary shall promulgate a regulation that requires, not later than January 1, 2011, all providers of medical or other items or services and suppliers under the programs under subchapters XVIII and XIX that qualify for a national provider identifier to include their national provider identifier on all applications to enroll in such programs and on all claims for payment submitted under such programs.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/13101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/13101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/13101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13101"><akn:num>13101</akn:num><akn:heading>Transportation policy</akn:heading><akn:content><akn:p>§ 13101. Transportation policy(a) In General.—To ensure the development, coordination, and preservation of a transportation system that meets the transportation needs of the United States, including the United States Postal Service and national defense, it is the policy of the United States Government to oversee the modes of transportation and—(1) in overseeing those modes—(A) to recognize and preserve the inherent advantage of each mode of transportation;
+
+(B) to promote safe, adequate, economical, and efficient transportation;
+
+(C) to encourage sound economic conditions in transportation, including sound economic conditions among carriers;
+
+(D) to encourage the establishment and maintenance of reasonable rates for transportation, without unreasonable discrimination or unfair or destructive competitive practices;
+
+(E) to cooperate with each State and the officials of each State on transportation matters; and
+
+(F) to encourage fair wages and working conditions in the transportation industry;
+
+
+(2) in overseeing transportation by motor carrier, to promote competitive and efficient transportation services in order to—(A) encourage fair competition, and reasonable rates for transportation by motor carriers of property;
+
+(B) promote efficiency in the motor carrier transportation system and to require fair and expeditious decisions when required;
+
+(C) meet the needs of shippers, receivers, passengers, and consumers;
+
+(D) allow a variety of quality and price options to meet changing market demands and the diverse requirements of the shipping and traveling public;
+
+(E) allow the most productive use of equipment and energy resources;
+
+(F) enable efficient and well-managed carriers to earn adequate profits, attract capital, and maintain fair wages and working conditions;
+
+(G) provide and maintain service to small communities and small shippers and intrastate bus services;
+
+(H) provide and maintain commuter bus operations;
+
+(I) improve and maintain a sound, safe, and competit</akn:p></akn:content><akn:subsection eId="subsec_13101_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) To ensure the development, coordination, and preservation of a transportation system that meets the transportation needs of the United States, including the United States Postal Service and national defense, it is the policy of the United States Government to oversee the modes of transportation and—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13101_b"><akn:num>(b)</akn:num><akn:heading>Administration To Carry Out Policy.—</akn:heading><akn:content><akn:p>(b) This part shall be administered and enforced to carry out the policy of this section and to promote the public interest.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

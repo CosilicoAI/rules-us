@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18302"><akn:num>18302</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 18302. Definitions
+In this chapter:(1) AdministratorThe term “Administrator” means the Administrator of the National Aeronautics and Space Administration.
+
+
+(2) Appropriate committees of CongressThe term “appropriate committees of Congress” means—(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+(B) the Committee on Science 11 So in original. Probably should be followed by “and Technology”. of the House of Representatives.
+
+
+(3) Cis-lunar spaceThe term “cis-lunar space” means the region of space from the Earth out to and including the region around the surface of the Moon.
+
+
+(4) Deep spaceThe term “deep space” means the region of space beyond cis-lunar space.
+
+
+(5) ISSThe term “ISS” means the International Space Station.
+
+
+(6) NASAThe term “NASA” means the National Aeronautics and Space Administration.
+
+
+(7) Near-Earth spaceThe term “near-Earth space” means the region of space that includes low-Earth orbit and extends out to and includes geo-synchronous orbit.
+
+
+(8) NOAAThe term “NOAA” means the National Oceanic and Atmospheric Administration.
+
+
+(9) OSTPThe term “OSTP” means the Office of Science and Technology Policy.
+
+
+(10) Space Launch SystemThe term “Space Launch System” means the follow-on government-owned civil launch system developed, managed, and operated by NASA to serve as a key component to expand human presence beyond low-Earth orbit.
+
+
+(Pub. L. 111–267, § 3, Oct. 11, 2010, 124 Stat. 2808.)</akn:p></akn:content><akn:subsection eId="subsec_18302_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the National Aeronautics and Space Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_2"><akn:num>(2)</akn:num><akn:heading>Appropriate committees of Congress</akn:heading><akn:content><akn:p>(2) Appropriate committees of Congress The term “appropriate committees of Congress” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_3"><akn:num>(3)</akn:num><akn:heading>Cis-lunar space</akn:heading><akn:content><akn:p>(3) Cis-lunar space The term “cis-lunar space” means the region of space from the Earth out to and including the region around the surface of the Moon.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_4"><akn:num>(4)</akn:num><akn:heading>Deep space</akn:heading><akn:content><akn:p>(4) Deep space The term “deep space” means the region of space beyond cis-lunar space.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_5"><akn:num>(5)</akn:num><akn:heading>ISS</akn:heading><akn:content><akn:p>(5) ISS The term “ISS” means the International Space Station.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_6"><akn:num>(6)</akn:num><akn:heading>NASA</akn:heading><akn:content><akn:p>(6) NASA The term “NASA” means the National Aeronautics and Space Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_7"><akn:num>(7)</akn:num><akn:heading>Near-Earth space</akn:heading><akn:content><akn:p>(7) Near-Earth space The term “near-Earth space” means the region of space that includes low-Earth orbit and extends out to and includes geo-synchronous orbit.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_8"><akn:num>(8)</akn:num><akn:heading>NOAA</akn:heading><akn:content><akn:p>(8) NOAA The term “NOAA” means the National Oceanic and Atmospheric Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_9"><akn:num>(9)</akn:num><akn:heading>OSTP</akn:heading><akn:content><akn:p>(9) OSTP The term “OSTP” means the Office of Science and Technology Policy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18302_10"><akn:num>(10)</akn:num><akn:heading>Space Launch System</akn:heading><akn:content><akn:p>(10) Space Launch System The term “Space Launch System” means the follow-on government-owned civil launch system developed, managed, and operated by NASA to serve as a key component to expand human presence beyond low-Earth orbit.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1905" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1905/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1905/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1905"><akn:num>1905</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1905. Definitions
+For purposes of this chapter—(1) the terms “Helen Keller National Center for Youths and Adults who are Deaf-Blind” and “Center” mean the Helen Keller National Center for Youths and Adults who are Deaf-Blind, and its affiliated network, operated pursuant to this chapter;
+
+(2) the term “individual who is deaf-blind” means any individual—(A)(i) who has a central visual acuity of 20/200 or less in the better eye with corrective lenses, or a field defect such that the peripheral diameter of visual field subtends an angular distance no greater than 20 degrees, or a progressive visual loss having a prognosis leading to one or both these conditions;
+
+(ii) who has a chronic hearing impairment so severe that most speech cannot be understood with optimum amplification, or a progressive hearing loss having a prognosis leading to this condition; and
+
+(iii) for whom the combination of impairments described in clauses (i) and (ii) cause extreme difficulty in attaining independence in daily life activities, achieving psychosocial adjustment, or obtaining a vocation;
+
+
+(B) who despite the inability to be measured accurately for hearing and vision loss due to cognitive or behavioral constraints, or both, can be determined through functional and performance assessment to have severe hearing and visual disabilities that cause extreme difficulty in attaining independence in daily life activities, achieving psychosocial adjustment, or obtaining vocational objectives; or
+
+(C) meets such other requirements as the Secretary may prescribe by regulation; and
+
+
+(3) the term “Secretary” means the Secretary of Education.
+
+(Pub. L. 98–221, title II, § 206, Feb. 22, 1984, 98 Stat. 34; Pub. L. 102–569, title IX, §§ 905, 908(c)(1), Oct. 29, 1992, 106 Stat. 4482, 4486.)
+
+Editorial Notes
+Amendments1992—Par. (1). Pub. L. 102–569, §§ 905(1), 908(c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” in two places and struck out “section 313 of th</akn:p></akn:content><akn:subsection eId="subsec_1905_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the terms “Helen Keller National Center for Youths and Adults who are Deaf-Blind” and “Center” mean the Helen Keller National Center for Youths and Adults who are Deaf-Blind, and its affiliated network, operated pursuant to this chapter;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1905_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “individual who is deaf-blind” means any individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1905_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “Secretary” means the Secretary of Education.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

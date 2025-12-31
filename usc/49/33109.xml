@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/33109" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/33109/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/33109/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_33109"><akn:num>33109</akn:num><akn:heading>National Stolen Passenger Motor Vehicle Information System</akn:heading><akn:content><akn:p>§ 33109. National Stolen Passenger Motor Vehicle Information System(a) General Requirements.—(1) Not later than July 25, 1993, the Attorney General shall establish, and thereafter maintain, a National Stolen Passenger Motor Vehicle Information System containing the vehicle identification numbers of stolen passenger motor vehicles and stolen passenger motor vehicle parts. The System shall be located in the National Crime Information Center and shall include at least the following information on each passenger motor vehicle reported to a law enforcement authority as stolen and not recovered:(A) the vehicle identification number.
+
+(B) the make and model year.
+
+(C) the date on which the vehicle was reported as stolen.
+
+(D) the location of the law enforcement authority that received the report of the theft of the vehicle.
+
+(E) the identification numbers of the vehicle parts (or derivatives of those numbers), at the time of the theft, if those numbers are different from the vehicle identification number of the vehicle.
+
+
+(2) In establishing the System, the Attorney General shall consult with—(A) State and local law enforcement authorities; and
+
+(B) the National Crime Information Center Policy Advisory Board to ensure the security of the information in the System and that the System will not compromise the security of stolen passenger motor vehicle and passenger motor vehicle parts information in the System.
+
+
+(3) If the Attorney General decides that the Center is not able to perform the functions of the System, the Attorney General shall make an agreement for the operation of the System separate from the Center.
+
+(4) The Attorney General shall prescribe by regulation the effective date of the System.
+
+
+(b) Requests for Information.—(1) The Attorney General shall prescribe by regulation procedures under which an individual or entity intending to transfer a passenger motor vehicle or passenger motor vehicle part may obtain information on whether the vehicle or part is liste</akn:p></akn:content><akn:subsection eId="subsec_33109_a"><akn:num>(a)</akn:num><akn:heading>General Requirements.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_33109_b"><akn:num>(b)</akn:num><akn:heading>Requests for Information.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_33109_c"><akn:num>(c)</akn:num><akn:heading>Advisory Committee.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_33109_d"><akn:num>(d)</akn:num><akn:heading>Immunity.—</akn:heading><akn:content><akn:p>(d) Any person performing any activity under this section or section 33110 or 33111 in good faith and with the reasonable belief that such activity was in accordance with such section shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

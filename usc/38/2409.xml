@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/2409" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/2409/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/2409/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2409"><akn:num>2409</akn:num><akn:heading>Memorial areas in Arlington National Cemetery</akn:heading><akn:content><akn:p>§ 2409. Memorial areas in Arlington National Cemetery(a) The Secretary of the Army may set aside, when available, a suitable area or areas in Arlington National Cemetery, Virginia, to honor the memory of members of the Armed Forces and veterans—(1) who are missing in action;
+
+(2) whose remains have not been recovered or identified;
+
+(3) whose remains were buried at sea, whether by the member’s or veteran’s own choice or otherwise;
+
+(4) whose remains were donated to science; or
+
+(5) whose remains were cremated and whose ashes were scattered without interment of any portion of the ashes.
+
+
+(b)(1) Under regulations prescribed by the Secretary of the Army and subject to paragraph (2), appropriate memorials or markers may be erected in Arlington National Cemetery to honor the memory of those individuals, or group of individuals, referred to in subsection (a) of this section.
+
+(2)(A) Except for a monument containing or marking interred remains, no monument (or similar structure, as determined by the Secretary of the Army in regulations) may be placed in Arlington National Cemetery except pursuant to the provisions of this subsection.
+
+(B) A monument may be placed in Arlington National Cemetery if the monument commemorates—(i) the service in the Armed Forces of the individual, or group of individuals, whose memory is to be honored by the monument; or
+
+(ii) a particular military event.
+
+
+(C) No monument may be placed in Arlington National Cemetery until the end of the 25-year period beginning—(i) in the case of the commemoration of service under subparagraph (B)(i), on the last day of the period of service so commemorated; and
+
+(ii) in the case of the commemoration of a particular military event under subparagraph (B)(ii), on the last day of the period of the event.
+
+
+(D) A monument may be placed only in those sections of Arlington National Cemetery designated by the Secretary of the Army for such placement and only on land the Secretary determines is not suitable for buria</akn:p></akn:content><akn:subsection eId="subsec_2409_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary of the Army may set aside, when available, a suitable area or areas in Arlington National Cemetery, Virginia, to honor the memory of members of the Armed Forces and veterans—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2409_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

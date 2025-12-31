@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/7702B" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/7702B/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/7702B/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7702B"><akn:num>7702B</akn:num><akn:heading>Treatment of qualified long-term care insurance</akn:heading><akn:content><akn:p>§ 7702B. Treatment of qualified long-term care insurance(a) In generalFor purposes of this title—(1) a qualified long-term care insurance contract shall be treated as an accident and health insurance contract,
+
+(2) amounts (other than policyholder dividends, as defined in section 808, or premium refunds) received under a qualified long-term care insurance contract shall be treated as amounts received for personal injuries and sickness and shall be treated as reimbursement for expenses actually incurred for medical care (as defined in section 213(d)),
+
+(3) any plan of an employer providing coverage under a qualified long-term care insurance contract shall be treated as an accident and health plan with respect to such coverage,
+
+(4) except as provided in subsection (e)(3), amounts paid for a qualified long-term care insurance contract providing the benefits described in subsection (b)(2)(A) shall be treated as payments made for insurance for purposes of section 213(d)(1)(D), and
+
+(5) a qualified long-term care insurance contract shall be treated as a guaranteed renewable contract subject to the rules of section 816(e).
+
+
+(b) Qualified long-term care insurance contractFor purposes of this title—(1) In generalThe term “qualified long-term care insurance contract” means any insurance contract if—(A) the only insurance protection provided under such contract is coverage of qualified long-term care services,
+
+(B) such contract does not pay or reimburse expenses incurred for services or items to the extent that such expenses are reimbursable under title XVIII of the Social Security Act or would be so reimbursable but for the application of a deductible or coinsurance amount,
+
+(C) such contract is guaranteed renewable,
+
+(D) such contract does not provide for a cash surrender value or other money that can be—(i) paid, assigned, or pledged as collateral for a loan, or
+
+(ii) borrowed,
+
+
+other than as provided in subparagraph (E) or paragraph (2)(C),
+
+(E) all refunds of premiums</akn:p></akn:content><akn:subsection eId="subsec_7702B_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For purposes of this title—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702B_b"><akn:num>(b)</akn:num><akn:heading>Qualified long-term care insurance contract</akn:heading><akn:content><akn:p>(b) Qualified long-term care insurance contract For purposes of this title—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702B_c"><akn:num>(c)</akn:num><akn:heading>Qualified long-term care services</akn:heading><akn:content><akn:p>(c) Qualified long-term care services For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702B_d"><akn:num>(d)</akn:num><akn:heading>Aggregate payments in excess of limits</akn:heading><akn:content><akn:p>(d) Aggregate payments in excess of limits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702B_e"><akn:num>(e)</akn:num><akn:heading>Treatment of coverage provided as part of a life insurance or annuity contract</akn:heading><akn:content><akn:p>(e) Treatment of coverage provided as part of a life insurance or annuity contract Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as part of a life insurance contract or an annuity contract—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702B_f"><akn:num>(f)</akn:num><akn:heading>Treatment of certain State-maintained plans</akn:heading><akn:content><akn:p>(f) Treatment of certain State-maintained plans</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7702B_g"><akn:num>(g)</akn:num><akn:heading>Consumer protection provisions</akn:heading><akn:content><akn:p>(g) Consumer protection provisions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

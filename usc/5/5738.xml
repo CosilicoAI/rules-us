@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5738" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5738/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5738/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5738"><akn:num>5738</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>§ 5738. Regulations(a)(1) Except as specifically provided in this subchapter, the Administrator of General Services shall prescribe regulations necessary for the administration of this subchapter.
+
+(2) The Administrator of General Services shall include in the regulations authority for the head of an agency or his designee to waive any limitation of this subchapter or in any implementing regulation for any employee relocating to or from a remote or isolated location who would suffer hardship if the limitation were not waived. A waiver of a limitation under authority provided in the regulations pursuant to this paragraph shall be effective notwithstanding any other provision of this subchapter.
+
+
+(b) In prescribing regulations for the implementation of section 5724b of this title, the Administrator of General Services shall consult with the Secretary of the Treasury.
+
+(c) The Secretary of Defense shall prescribe regulations necessary for the implementation of section 5735 of this title.
+
+(Added Pub. L. 104–201, div. A, title XVII, § 1722, Sept. 23, 1996, 110 Stat. 2758.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 5722 of this title.</akn:p></akn:content><akn:subsection eId="subsec_5738_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5738_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In prescribing regulations for the implementation of section 5724b of this title, the Administrator of General Services shall consult with the Secretary of the Treasury.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5738_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Secretary of Defense shall prescribe regulations necessary for the implementation of section 5735 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

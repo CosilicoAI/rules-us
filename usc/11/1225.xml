@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1225" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1225/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1225/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1225"><akn:num>1225</akn:num><akn:heading>Confirmation of plan</akn:heading><akn:content><akn:p>§ 1225. Confirmation of plan(a) Except as provided in subsection (b), the court shall confirm a plan if—(1) the plan complies with the provisions of this chapter and with the other applicable provisions of this title;
+
+(2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation, has been paid;
+
+(3) the plan has been proposed in good faith and not by any means forbidden by law;
+
+(4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+
+(5) with respect to each allowed secured claim provided for by the plan—(A) the holder of such claim has accepted the plan;
+
+(B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+
+(ii) the value, as of the effective date of the plan, of property to be distributed by the trustee or the debtor under the plan on account of such claim is not less than the allowed amount of such claim; or
+
+
+(C) the debtor surrenders the property securing such claim to such holder;
+
+
+(6) the debtor will be able to make all payments under the plan and to comply with the plan; and
+
+(7) the debtor has paid all amounts that are required to be paid under a domestic support obligation and that first become payable after the date of the filing of the petition if the debtor is required by a judicial or administrative order, or by statute, to pay such domestic support obligation.
+
+
+(b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—(A) the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim;
+
+(B) the plan provides that all of the deb</akn:p></akn:content><akn:subsection eId="subsec_1225_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as provided in subsection (b), the court shall confirm a plan if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1225_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1225_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

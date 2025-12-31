@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/430b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/430b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/430b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_430b"><akn:num>430b</akn:num><akn:heading>Control; regulations for care and management</akn:heading><akn:content><akn:p>§ 430b. Control; regulations for care and management
+Such park shall be under the control and direction of the Secretary of the Interior. The Secretary is authorized to prescribe from time to time such regulations for the care and management of such park as he may deem necessary.
+(Mar. 3, 1931, ch. 437, § 3, 46 Stat. 1508; Ex. Ord. No. 6166, § 2, June 10, 1933; Ex. Ord. No. 6228, § 1, July 28, 1933.)
+
+Executive Documents
+
+Transfer of Functions
+Transfer of administrative functions of park, see note set out under section 430a of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

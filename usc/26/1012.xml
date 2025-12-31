@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1012" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1012/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1012/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1012"><akn:num>1012</akn:num><akn:heading>Basis of property—cost</akn:heading><akn:content><akn:p>§ 1012. Basis of property—cost(a) In generalThe basis of property shall be the cost of such property, except as otherwise provided in this subchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).
+
+
+(b) Special rule for apportioned real estate taxesThe cost of real property shall not include any amount in respect of real property taxes which are treated under section 164(d) as imposed on the taxpayer.
+
+
+(c) Determinations by account(1) In generalIn the case of the sale, exchange, or other disposition of a specified security on or after the applicable date, the conventions prescribed by regulations under this section shall be applied on an account by account basis.
+
+
+(2) Application to certain regulated investment companies(A) In generalExcept as provided in subparagraph (B), any stock for which an average basis method is permissible under this section which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
+
+
+(B) Election for treatment as single accountIf a regulated investment company described in subparagraph (A) elects to have this subparagraph apply with respect to one or more of its stockholders—(i) subparagraph (A) shall not apply with respect to any stock in such regulated investment company held by such stockholders, and
+
+(ii) all stock in such regulated investment company which is held by such stockholders shall be treated as covered securities described in section 6045(g)(3) without regard to the date of the acquisition of such stock.
+
+
+A rule similar to the rule of the preceding sentence shall apply with respect to a broker holding such stock as a nominee.
+
+
+(3) DefinitionsFor purposes of this section, the terms “specified security” and “applicable date” shall have the meaning given such terms in section 6045(g).
+
+
+
+(d) Average basis for stock acquired pursuant to a d</akn:p></akn:content><akn:subsection eId="subsec_1012_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The basis of property shall be the cost of such property, except as otherwise provided in this subchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1012_b"><akn:num>(b)</akn:num><akn:heading>Special rule for apportioned real estate taxes</akn:heading><akn:content><akn:p>(b) Special rule for apportioned real estate taxes The cost of real property shall not include any amount in respect of real property taxes which are treated under section 164(d) as imposed on the taxpayer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1012_c"><akn:num>(c)</akn:num><akn:heading>Determinations by account</akn:heading><akn:content><akn:p>(c) Determinations by account</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1012_d"><akn:num>(d)</akn:num><akn:heading>Average basis for stock acquired pursuant to a dividend reinvestment plan</akn:heading><akn:content><akn:p>(d) Average basis for stock acquired pursuant to a dividend reinvestment plan</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/4071e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/4071e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/4071e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4071e"><akn:num>4071e</akn:num><akn:heading>Deductions and withholdings from pay</akn:heading><akn:content><akn:p>§ 4071e. Deductions and withholdings from pay(a) Basic pay(1) The employing agency shall deduct and withhold from the basic pay of each participant the applicable percentage of basic pay specified in paragraph (2) of this subsection minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors, and disability insurance).
+
+(2)(A) The applicable percentage for a participant other than a revised annuity participant or a further revised annuity participant shall be as follows:
+
+
+
+
+
+
+
+
+
+
+
+ 7.5Before January 1, 1999.
+ 7.75January 1, 1999, to December 31, 1999.
+ 7.9January 1, 2000, to December 31, 2000.
+ 7.55After January 11, 2003.
+
+
+
+
+(B) The applicable percentage for a revised annuity participant shall be as follows:
+
+
+
+
+
+
+
+
+
+
+
+ 9.85After December 31, 2012
+
+
+
+
+(C) The applicable percentage for a further revised annuity participant shall be as follows:
+
+
+
+
+
+
+
+
+
+
+
+ 11.15After December 31, 2013.
+
+
+
+
+
+
+(b) Consent to deductions; discharge of claimsEach participant is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
+
+
+(c) Deposit of amountsAmounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Comptroller General of the United States may prescribe.
+
+
+(d) Entry on individual retirement recordsUnder such regulations as the Secretary of State may issue, amounts deducted under subsection (a) shall be entered on individual retirement records.
+
+
+(Pub. L. 96–465, title I, § 856, as added Pub. L. 99–335, title IV, § 415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, § 2, </akn:p></akn:content><akn:subsection eId="subsec_4071e_a"><akn:num>(a)</akn:num><akn:heading>Basic pay</akn:heading><akn:content><akn:p>(a) Basic pay</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4071e_b"><akn:num>(b)</akn:num><akn:heading>Consent to deductions; discharge of claims</akn:heading><akn:content><akn:p>(b) Consent to deductions; discharge of claims Each participant is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4071e_c"><akn:num>(c)</akn:num><akn:heading>Deposit of amounts</akn:heading><akn:content><akn:p>(c) Deposit of amounts Amounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Comptroller General of the United States may prescribe.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4071e_d"><akn:num>(d)</akn:num><akn:heading>Entry on individual retirement records</akn:heading><akn:content><akn:p>(d) Entry on individual retirement records Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) shall be entered on individual retirement records.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

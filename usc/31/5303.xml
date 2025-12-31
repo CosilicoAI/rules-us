@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/5303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/5303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/5303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5303"><akn:num>5303</akn:num><akn:heading>Reserved coins and currencies of foreign countries</akn:heading><akn:content><akn:p>§ 5303. Reserved coins and currencies of foreign countries
+An agency may use coins and currencies of a foreign country the United States Government holds that are or may be reserved for a specific program or activity of an agency. The agency shall reimburse the Treasury from appropriations and shall replace the coins and currencies when they are needed for the program or activity for which they were reserved originally.
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 994.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+530331:938.Oct. 15, 1966, Pub. L. 89–677, 80 Stat. 955.
+
+
+The word “Federal” is omitted as unnecessary because of the definition of “agency” in section 101 of the revised title. The words “coins and” and “Government” are added for consistency. The words “or set aside” and “of the Government” are omitted as surplus. The words “The agency shall reimburse . . . shall replace” are substituted for “except (1) that reimbursement shall be made . . . (2) . . . shall be replaced” for clarity. The words “applicable . . . of the agency concerned” are omitted as surplus. The words “program or activity” are substituted for “purpose” for clarity and consistency.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/2663" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/2663/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/2663/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2663"><akn:num>2663</akn:num><akn:heading>EPA citizen’s guide</akn:heading><akn:content><akn:p>§ 2663. EPA citizen’s guide(a) PublicationIn order to make continuous progress toward the long-term goal established in section 2661 of this title, the Administrator of the Environmental Protection Agency shall, not later than June 1, 1989, publish and make available to the public an updated version of its document titled “A Citizen’s Guide to Radon”. The Administrator shall revise and republish the guide as necessary thereafter.
+
+
+(b) Information included(1) Action levelsThe updated citizen’s guide published as provided in subsection (a) shall include a description of a series of action levels indicating the health risk associated with different levels of radon exposure.
+
+
+(2) Other informationThe updated citizen’s guide shall also include information with respect to each of the following:(A) The increased health risk associated with the exposure of potentially sensitive populations to different levels of radon.
+
+(B) The increased health risk associated with the exposure to radon of persons engaged in potentially risk-increasing behavior.
+
+(C) The cost and technological feasibility of reducing radon concentrations within existing and new buildings.
+
+(D) The relationship between short-term and long-term testing techniques and the relationship between (i) measurements based on both such techniques, and (ii) the actions 11 So in original. Probably should be “action”. levels set forth as provided in paragraph (1).
+
+(E) Outdoor radon levels around the country.
+
+
+
+(Pub. L. 94–469, title III, § 303, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2755.)</akn:p></akn:content><akn:subsection eId="subsec_2663_a"><akn:num>(a)</akn:num><akn:heading>Publication</akn:heading><akn:content><akn:p>(a) Publication In order to make continuous progress toward the long-term goal established in section 2661 of this title, the Administrator of the Environmental Protection Agency shall, not later than June 1, 1989, publish and make available to the public an updated version of its document titled “A Citizen’s Guide to Radon”. The Administrator shall revise and republish the guide as necessary thereafter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2663_b"><akn:num>(b)</akn:num><akn:heading>Information included</akn:heading><akn:content><akn:p>(b) Information included</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

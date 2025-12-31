@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1121" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1121/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1121/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1121"><akn:num>1121</akn:num><akn:heading>Who may file a plan</akn:heading><akn:content><akn:p>§ 1121. Who may file a plan(a) The debtor may file a plan with a petition commencing a voluntary case, or at any time in a voluntary case or an involuntary case.
+
+(b) Except as otherwise provided in this section, only the debtor may file a plan until after 120 days after the date of the order for relief under this chapter.
+
+(c) Any party in interest, including the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, or any indenture trustee, may file a plan if and only if—(1) a trustee has been appointed under this chapter;
+
+(2) the debtor has not filed a plan before 120 days after the date of the order for relief under this chapter; or
+
+(3) the debtor has not filed a plan that has been accepted, before 180 days after the date of the order for relief under this chapter, by each class of claims or interests that is impaired under the plan.
+
+
+(d)(1) Subject to paragraph (2), on request of a party in interest made within the respective periods specified in subsections (b) and (c) of this section and after notice and a hearing, the court may for cause reduce or increase the 120-day period or the 180-day period referred to in this section.
+
+(2)(A) The 120-day period specified in paragraph (1) may not be extended beyond a date that is 18 months after the date of the order for relief under this chapter.
+
+(B) The 180-day period specified in paragraph (1) may not be extended beyond a date that is 20 months after the date of the order for relief under this chapter.
+
+
+
+(e) In a small business case—(1) only the debtor may file a plan until after 180 days after the date of the order for relief, unless that period is—(A) extended as provided by this subsection, after notice and a hearing; or
+
+(B) the court, for cause, orders otherwise;
+
+
+(2) the plan and a disclosure statement (if any) shall be filed not later than 300 days after the date of the order for relief; and
+
+(3) the time periods specified in paragraph</akn:p></akn:content><akn:subsection eId="subsec_1121_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The debtor may file a plan with a petition commencing a voluntary case, or at any time in a voluntary case or an involuntary case.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1121_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as otherwise provided in this section, only the debtor may file a plan until after 120 days after the date of the order for relief under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1121_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Any party in interest, including the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, or any indenture trustee, may file a plan if and only if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1121_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1121_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) In a small business case—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1166" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1166/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1166/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1166"><akn:num>1166</akn:num><akn:heading>Claims involving military sexual trauma</akn:heading><akn:content><akn:p>§ 1166. Claims involving military sexual trauma(a) Processing.—(1) The Secretary shall establish specialized teams to process claims for compensation for a covered mental health condition based on military sexual trauma experienced by a veteran during active military, naval, air, or space service.
+
+(2) A peer support specialist of the Department—(A) shall not be responsible for providing any assistance to a veteran regarding a claim described in paragraph (1), other than counseling services, guidance, and support, pursuant to duties determined by the Under Secretary for Health; and
+
+(B) shall not participate in the adjudication of such a claim.
+
+
+
+(b) Referrals to MST Coordinators.—The Secretary shall include, in forms for claims described in subsection (a), an option for a veteran to elect to be referred to a military sexual trauma coordinator of the Veterans Health Administration at the facility of the Department nearest to the residence of such veteran.
+
+(c) Training.—(1) The Secretary shall ensure that members of teams established under subsection (a) are trained to identify markers indicating military sexual trauma.
+
+(2) The Secretary shall ensure that peer support specialists of the Department receive annual training on how to provide peer support regarding military sexual trauma.
+
+(3) The Secretary shall provide annual training, regarding the processing of claims described in subsection (a), to the following individuals:(A) Military sexual trauma coordinators of the Veterans Health Administration.
+
+(B) Peer support specialists of the Department.
+
+
+
+(d) Definitions.—In this section:(1) The term “covered mental health condition” means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma.
+
+(2) The term “military sexual </akn:p></akn:content><akn:subsection eId="subsec_1166_a"><akn:num>(a)</akn:num><akn:heading>Processing.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1166_b"><akn:num>(b)</akn:num><akn:heading>Referrals to MST Coordinators.—</akn:heading><akn:content><akn:p>(b) The Secretary shall include, in forms for claims described in subsection (a), an option for a veteran to elect to be referred to a military sexual trauma coordinator of the Veterans Health Administration at the facility of the Department nearest to the residence of such veteran.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1166_c"><akn:num>(c)</akn:num><akn:heading>Training.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1166_d"><akn:num>(d)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(d) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

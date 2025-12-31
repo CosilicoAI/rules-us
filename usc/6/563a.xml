@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/563a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/563a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/563a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_563a"><akn:num>563a</akn:num><akn:heading>Acquisition justification and reports</akn:heading><akn:content><akn:p>§ 563a. Acquisition justification and reports(a) Acquisition justificationBefore the Administration implements any security-related technology acquisition, the Administrator, in accordance with the Department’s policies and directives, shall determine whether the acquisition is justified by conducting an analysis that includes—(1) an identification of the scenarios and level of risk to transportation security from those scenarios that would be addressed by the security-related technology acquisition;
+
+(2) an assessment of how the proposed acquisition aligns to the Plan;
+
+(3) a comparison of the total expected lifecycle cost against the total expected quantitative and qualitative benefits to transportation security;
+
+(4) an analysis of alternative security solutions, including policy or procedure solutions, to determine if the proposed security-related technology acquisition is the most effective and cost-efficient solution based on cost-benefit considerations;
+
+(5) an assessment of the potential privacy and civil liberties implications of the proposed acquisition that includes, to the extent practicable, consultation with organizations that advocate for the protection of privacy and civil liberties;
+
+(6) a determination that the proposed acquisition is consistent with fair information practice principles issued by the Privacy Officer of the Department;
+
+(7) confirmation that there are no significant risks to human health or safety posed by the proposed acquisition; and
+
+(8) an estimate of the benefits to commercial aviation passengers.
+
+
+(b) Reports and certification to Congress(1) In generalNot later than the end of the 30-day period preceding the award by the Administration of a contract for any security-related technology acquisition exceeding $30,000,000, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives—(A) the results of the comprehensive</akn:p></akn:content><akn:subsection eId="subsec_563a_a"><akn:num>(a)</akn:num><akn:heading>Acquisition justification</akn:heading><akn:content><akn:p>(a) Acquisition justification Before the Administration implements any security-related technology acquisition, the Administrator, in accordance with the Department’s policies and directives, shall determine whether the acquisition is justified by conducting an analysis that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_563a_b"><akn:num>(b)</akn:num><akn:heading>Reports and certification to Congress</akn:heading><akn:content><akn:p>(b) Reports and certification to Congress</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

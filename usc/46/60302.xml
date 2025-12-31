@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/60302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/60302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/60302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60302"><akn:num>60302</akn:num><akn:heading>Special tonnage taxes</akn:heading><akn:content><akn:p>§ 60302. Special tonnage taxes(a) Entry From Foreign Port or Place.—Regardless of whether a tax is imposed under section 60301 of this title, a tax is imposed on a vessel at each entry in a port of the United States from a foreign port or place at the following rates:(1) 30 cents per ton on a vessel built in the United States but owned in any part by a subject of a foreign country.
+
+(2) 50 cents per ton on other vessels not of the United States.
+
+(3) 50 cents per ton on a vessel of the United States having an officer who is not a citizen of the United States.
+
+(4) $2 per ton on a foreign vessel entering from a foreign port or place at which vessels of the United States are not ordinarily allowed to enter and trade.
+
+
+(b) Vessels Not of the United States Transporting Property Between Districts.—Regardless of whether a tax is imposed under section 60301 of this title, a tax of 50 cents per ton is imposed on a vessel not of the United States at each entry in one customs district from another district when transporting goods loaded in one district to be delivered in another district.
+
+(c) Exception for Vessels Becoming Documented.—The tax of 50 cents per ton under this section does not apply to a vessel that—(1) is owned only by citizens of the United States; and
+
+(2) after entering a port of the United States, becomes documented as a vessel of the United States before leaving that port.
+
+
+(Pub. L. 109–304, § 9(b), Oct. 6, 2006, 120 Stat. 1677.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+60302(a)46 App.:121 (1st sentence, 5th sentence words before semicolon, last sentence words after semicolon).R.S. § 4219 (1st, 2d sentences, 4th sentence words before semicolon, last sentence words before 1st semicolon and after last semicolon); Feb. 27, 1877, ch. 69, § 1, 19 Stat. 250.
+60302(b)46 App.:121 (4th sentence words before proviso).
+60302(c)46 App.:121 (4th sentence proviso).Mar. 4, 1915, ch. 171, § 1, 38 Stat. 1193.</akn:p></akn:content><akn:subsection eId="subsec_60302_a"><akn:num>(a)</akn:num><akn:heading>Entry From Foreign Port or Place.—</akn:heading><akn:content><akn:p>(a) Regardless of whether a tax is imposed under section 60301 of this title, a tax is imposed on a vessel at each entry in a port of the United States from a foreign port or place at the following rates:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60302_b"><akn:num>(b)</akn:num><akn:heading>Vessels Not of the United States Transporting Property Between Districts.—</akn:heading><akn:content><akn:p>(b) Regardless of whether a tax is imposed under section 60301 of this title, a tax of 50 cents per ton is imposed on a vessel not of the United States at each entry in one customs district from another district when transporting goods loaded in one district to be delivered in another district.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60302_c"><akn:num>(c)</akn:num><akn:heading>Exception for Vessels Becoming Documented.—</akn:heading><akn:content><akn:p>(c) The tax of 50 cents per ton under this section does not apply to a vessel that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

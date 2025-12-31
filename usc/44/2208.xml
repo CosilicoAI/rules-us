@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/2208" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/2208/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/2208/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2208"><akn:num>2208</akn:num><akn:heading>Claims of constitutionally based privilege against disclosure</akn:heading><akn:content><akn:p>§ 2208. Claims of constitutionally based privilege against disclosure(a)(1) When the Archivist determines under this chapter to make available to the public any Presidential record that has not previously been made available to the public, the Archivist shall—(A) promptly provide notice of such determination to—(i) the former President during whose term of office the record was created; and
+
+(ii) the incumbent President; and
+
+
+(B) make the notice available to the public.
+
+
+(2) The notice under paragraph (1)—(A) shall be in writing; and
+
+(B) shall include such information as may be prescribed in regulations issued by the Archivist.
+
+
+(3)(A) Upon the expiration of the 60-day period (excepting Saturdays, Sundays, and legal public holidays) beginning on the date the Archivist provides notice under paragraph (1)(A), the Archivist shall make available to the public the Presidential record covered by the notice, except any record (or reasonably segregable part of a record) with respect to which the Archivist receives from a former President or the incumbent President notification of a claim of constitutionally based privilege against disclosure under subsection (b).
+
+(B) A former President or the incumbent President may extend the period under subparagraph (A) once for not more than 30 additional days (excepting Saturdays, Sundays, and legal public holidays) by filing with the Archivist a statement that such an extension is necessary to allow an adequate review of the record.
+
+(C) Notwithstanding subparagraphs (A) and (B), if the 60-day period under subparagraph (A), or any extension of that period under subparagraph (B), would otherwise expire during the 6-month period after the incumbent President first takes office, then that 60-day period or extension, respectively, shall expire at the end of that 6-month period.
+
+
+
+(b)(1) For purposes of this section, the decision to assert any claim of constitutionally based privilege against disclosure of a Presidential record (or r</akn:p></akn:content><akn:subsection eId="subsec_2208_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2208_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2208_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2208_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Archivist shall not make publicly available a Presidential record (or reasonably segregable part of a record) that is subject to a privilege claim asserted by the incumbent President unless—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2208_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) The Archivist shall adjust any otherwise applicable time period under this section as necessary to comply with the return date of any congressional subpoena, judicial subpoena, or judicial process.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

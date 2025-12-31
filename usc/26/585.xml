@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/585" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/585/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/585/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_585"><akn:num>585</akn:num><akn:heading>Reserves for losses on loans of banks</akn:heading><akn:content><akn:p>§ 585. Reserves for losses on loans of banks(a) Reserve for bad debts(1) In generalExcept as provided in subsection (c), a bank shall be allowed a deduction for a reasonable addition to a reserve for bad debts. Such deduction shall be in lieu of any deduction under section 166(a).
+
+
+(2) BankFor purposes of this section—(A) In generalThe term “bank” means any bank (as defined in section 581).
+
+
+(B) Banking business of United States branch of foreign corporationThe term “bank” also includes any corporation to which subparagraph (A) would apply except for the fact that it is a foreign corporation. In the case of any such foreign corporation, this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.
+
+
+
+
+(b) Addition to reserves for bad debts(1) General ruleFor purposes of subsection (a), the reasonable addition to the reserve for bad debts of any financial institution to which this section applies shall be an amount determined by the taxpayer which shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).
+
+
+(2) Experience methodThe amount determined under this paragraph for a taxable year shall be the amount necessary to increase the balance of the reserve for losses on loans (at the close of the taxable year) to the greater of—(A) the amount which bears the same ratio to loans outstanding at the close of the taxable year as (i) the total bad debts sustained during the taxable year and the 5 preceding taxable years (or, with the approval of the Secretary, a shorter period), adjusted for recoveries of bad debts during such period, bears to (ii) the sum of the loans outstanding at the close of such 6 or fewer taxable years, or
+
+(B) the lower of—(i) the balance of the reserve at the close of the base year, or
+
+(ii) if the amount of loans outstanding at the close of the taxable year </akn:p></akn:content><akn:subsection eId="subsec_585_a"><akn:num>(a)</akn:num><akn:heading>Reserve for bad debts</akn:heading><akn:content><akn:p>(a) Reserve for bad debts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_585_b"><akn:num>(b)</akn:num><akn:heading>Addition to reserves for bad debts</akn:heading><akn:content><akn:p>(b) Addition to reserves for bad debts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_585_c"><akn:num>(c)</akn:num><akn:heading>Section not to apply to large banks</akn:heading><akn:content><akn:p>(c) Section not to apply to large banks</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

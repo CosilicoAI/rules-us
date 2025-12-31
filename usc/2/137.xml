@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/137" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/137/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/137/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_137"><akn:num>137</akn:num><akn:heading>Use and regulation of law library</akn:heading><akn:content><akn:p>§ 137. Use and regulation of law library
+The justices of the Supreme Court shall have free access to the law library; and they are authorized to make regulations, not inconsistent with law, for the use of the same during the sittings of the court. But such regulations shall not restrict any person authorized to take books from the Library from having access to the law library, or using the books therein in the same manner as he may be entitled to use the books of the general Library.
+(R.S. § 95.)
+
+Editorial Notes
+Codification
+R.S. § 95 derived from act July 14, 1832, ch. 221, § 2, 4 Stat. 579.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1523" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1523/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1523/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1523"><akn:num>1523</akn:num><akn:heading>Combination of ratings</akn:heading><akn:content><akn:p>§ 1523. Combination of ratings(a) The Secretary shall provide that, for the purpose of determining whether or not a veteran is permanently and totally disabled, ratings for service-connected disabilities may be combined with ratings for non-service-connected disabilities.
+
+(b) Where a veteran, by virtue of subsection (a), is found to be entitled to a pension under section 1521 of this title, and is entitled to compensation for a service-connected disability, the Secretary shall pay such veteran the greater benefit.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, § 523; Pub. L. 94–169, title I, § 106(19), Dec. 23, 1975, 89 Stat. 1018; renumbered § 1523 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+
+Editorial Notes
+Amendments1991—Pub. L. 102–83, § 5(a), renumbered section 523 of this title as this section.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+1975—Subsec. (b). Pub. L. 94–169 substituted “such veteran” for “him”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1975 AmendmentPub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.</akn:p></akn:content><akn:subsection eId="subsec_1523_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary shall provide that, for the purpose of determining whether or not a veteran is permanently and totally disabled, ratings for service-connected disabilities may be combined with ratings for non-service-connected disabilities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1523_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Where a veteran, by virtue of subsection (a), is found to be entitled to a pension under section 1521 of this title, and is entitled to compensation for a service-connected disability, the Secretary shall pay such veteran the greater benefit.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

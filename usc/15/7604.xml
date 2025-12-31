@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7604" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7604/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7604/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7604"><akn:num>7604</akn:num><akn:heading>Expiration of contact lens prescriptions</akn:heading><akn:content><akn:p>§ 7604. Expiration of contact lens prescriptions(a) In generalA contact lens prescription shall expire—(1) on the date specified by the law of the State in which the prescription was written, if that date is one year or more after the issue date of the prescription;
+
+(2) not less than one year after the issue date of the prescription if such State law specifies no date or a date that is less than one year after the issue date of the prescription; or
+
+(3) notwithstanding paragraphs (1) and (2), on the date specified by the prescriber, if that date is based on the medical judgment of the prescriber with respect to the ocular health of the patient.
+
+
+(b) Special rules for prescriptions of less than 1 yearIf a prescription expires in less than 1 year, the reasons for the judgment referred to in subsection (a)(3) shall be documented in the patient’s medical record. In no circumstance shall the prescription expiration date be less than the period of time recommended by the prescriber for a reexamination of the patient that is medically necessary.
+
+
+(c) DefinitionAs used in this section, the term “issue date” means the date on which the patient receives a copy of the prescription.
+
+
+(Pub. L. 108–164, § 5, Dec. 6, 2003, 117 Stat. 2025.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under section 7601 of this title.</akn:p></akn:content><akn:subsection eId="subsec_7604_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general A contact lens prescription shall expire—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7604_b"><akn:num>(b)</akn:num><akn:heading>Special rules for prescriptions of less than 1 year</akn:heading><akn:content><akn:p>(b) Special rules for prescriptions of less than 1 year If a prescription expires in less than 1 year, the reasons for the judgment referred to in subsection (a)(3) shall be documented in the patient’s medical record. In no circumstance shall the prescription expiration date be less than the period of time recommended by the prescriber for a reexamination of the patient that is medically necessary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7604_c"><akn:num>(c)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(c) Definition As used in this section, the term “issue date” means the date on which the patient receives a copy of the prescription.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

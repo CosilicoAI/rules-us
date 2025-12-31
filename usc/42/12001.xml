@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/12001" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/12001/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/12001/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12001"><akn:num>12001</akn:num><akn:heading>Finding, purpose, and general authority</akn:heading><akn:content><akn:p>§ 12001. Finding, purpose, and general authority(a) FindingThe Congress finds that it is in the national security and economic interest of the United States to foster greater efficiency in the use of available energy supplies and greater use of renewable energy technologies.
+
+
+(b) PurposeIt is the purpose of this chapter to authorize the Secretary of Energy, acting in accordance with section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—(1) achieving as soon as practicable cost competitive use of those technologies without need of Federal financial incentives;
+
+(2) establishing long-term Federal research goals and multiyear funding levels;
+
+(3) directing the Secretary to undertake initiatives to improve the ability of the private sector to commercialize in the near term renewable energy and energy efficiency technologies; and
+
+(4) fostering collaborative efforts involving the private sector through government support of a program of demonstration and commercial application projects.
+
+
+(c) General authorityThe Secretary, acting in accordance with section 13541 of this title, is authorized and directed to—(1) pursue a program of research, development, demonstration, and commercial application with the private sector, to achieve the purpose of this chapter, including the goals established under section 12003 of this title; and
+
+(2) undertake demonstration and commercial application projects as provided in section 12005 of this title.
+
+
+(Pub. L. 101–218, § 2, Dec. 11, 1989, 103 Stat. 1859; Pub. L. 102–486, title XII, § 1202(d)(1)–(3), Oct. 24, 1992, 106 Stat. 2959, 2960.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, which is classified princ</akn:p></akn:content><akn:subsection eId="subsec_12001_a"><akn:num>(a)</akn:num><akn:heading>Finding</akn:heading><akn:content><akn:p>(a) Finding The Congress finds that it is in the national security and economic interest of the United States to foster greater efficiency in the use of available energy supplies and greater use of renewable energy technologies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12001_b"><akn:num>(b)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(b) Purpose It is the purpose of this chapter to authorize the Secretary of Energy, acting in accordance with section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12001_c"><akn:num>(c)</akn:num><akn:heading>General authority</akn:heading><akn:content><akn:p>(c) General authority The Secretary, acting in accordance with section 13541 of this title, is authorized and directed to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

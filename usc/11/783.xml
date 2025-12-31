@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/783" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/783/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/783/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_783"><akn:num>783</akn:num><akn:heading>Additional powers of trustee</akn:heading><akn:content><akn:p>§ 783. Additional powers of trustee(a) Distribution of Property Not of the Estate.—The trustee under this subchapter has power to distribute property not of the estate, including distributions to customers that are mandated by subchapters III and IV of this chapter.
+
+(b) Disposition of Institution.—The trustee under this subchapter may, after notice and a hearing—(1) sell the clearing bank to a depository institution or consortium of depository institutions (which consortium may agree on the allocation of the clearing bank among the consortium);
+
+(2) merge the clearing bank with a depository institution;
+
+(3) transfer contracts to the same extent as could a receiver for a depository institution under paragraphs (9) and (10) of section 11(e) of the Federal Deposit Insurance Act;
+
+(4) transfer assets or liabilities to a depository institution; and
+
+(5) transfer assets and liabilities to a bridge depository institution as provided in paragraphs (1), (3)(A), (5), and (6) of section 11(n) of the Federal Deposit Insurance Act, paragraphs (9) through (13) of such section, and subparagraphs (A) through (H) and subparagraph (K) of paragraph (4) of such section 11(n), except that—(A) the bridge depository institution to which such assets or liabilities are transferred shall be treated as a clearing bank for the purpose of this subsection; and
+
+(B) any references in any such provision of law to the Federal Deposit Insurance Corporation shall be construed to be references to the appointing agency and that references to deposit insurance shall be omitted.
+
+
+
+(c) Certain Transfers Included.—Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.
+
+(Added Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; amended Pub. L. 110–289, div. A, title VI, § 1604(b)(3), July 30, 2008, 122 Stat. 2829.)
+
+Editorial Notes
+
+References in TextSection 11 of the Federal Deposit Insuran</akn:p></akn:content><akn:subsection eId="subsec_783_a"><akn:num>(a)</akn:num><akn:heading>Distribution of Property Not of the Estate.—</akn:heading><akn:content><akn:p>(a) The trustee under this subchapter has power to distribute property not of the estate, including distributions to customers that are mandated by subchapters III and IV of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_783_b"><akn:num>(b)</akn:num><akn:heading>Disposition of Institution.—</akn:heading><akn:content><akn:p>(b) The trustee under this subchapter may, after notice and a hearing—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_783_c"><akn:num>(c)</akn:num><akn:heading>Certain Transfers Included.—</akn:heading><akn:content><akn:p>(c) Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

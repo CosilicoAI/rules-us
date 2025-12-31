@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4376" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4376/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4376/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4376"><akn:num>4376</akn:num><akn:heading>Self-insured health plans</akn:heading><akn:content><akn:p>§ 4376. Self-insured health plans(a) Imposition of feeIn the case of any applicable self-insured health plan for each plan year ending after September 30, 2012, there is hereby imposed a fee equal to $2 ($1 in the case of plan years ending during fiscal year 2013) multiplied by the average number of lives covered under the plan.
+
+
+(b) Liability for fee(1) In generalThe fee imposed by subsection (a) shall be paid by the plan sponsor.
+
+
+(2) Plan sponsorFor purposes of paragraph (1) the term “plan sponsor” means—(A) the employer in the case of a plan established or maintained by a single employer,
+
+(B) the employee organization in the case of a plan established or maintained by an employee organization,
+
+(C) in the case of—(i) a plan established or maintained by 2 or more employers or jointly by 1 or more employers and 1 or more employee organizations,
+
+(ii) a multiple employer welfare arrangement, or
+
+(iii) a voluntary employees’ beneficiary association described in section 501(c)(9), the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan, or
+
+
+(D) the cooperative or association described in subsection (c)(2)(F) in the case of a plan established or maintained by such a cooperative or association.
+
+
+
+(c) Applicable self-insured health planFor purposes of this section, the term “applicable self-insured health plan” means any plan for providing accident or health coverage if—(1) any portion of such coverage is provided other than through an insurance policy, and
+
+(2) such plan is established or maintained—(A) by 1 or more employers for the benefit of their employees or former employees,
+
+(B) by 1 or more employee organizations for the benefit of their members or former members,
+
+(C) jointly by 1 or more employers and 1 or more employee organizations for the benefit of employees or former employees,
+
+(D) by a voluntary employees’ beneficiary association described in section 501(c)(9)</akn:p></akn:content><akn:subsection eId="subsec_4376_a"><akn:num>(a)</akn:num><akn:heading>Imposition of fee</akn:heading><akn:content><akn:p>(a) Imposition of fee In the case of any applicable self-insured health plan for each plan year ending after September 30, 2012, there is hereby imposed a fee equal to $2 ($1 in the case of plan years ending during fiscal year 2013) multiplied by the average number of lives covered under the plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4376_b"><akn:num>(b)</akn:num><akn:heading>Liability for fee</akn:heading><akn:content><akn:p>(b) Liability for fee</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4376_c"><akn:num>(c)</akn:num><akn:heading>Applicable self-insured health plan</akn:heading><akn:content><akn:p>(c) Applicable self-insured health plan For purposes of this section, the term “applicable self-insured health plan” means any plan for providing accident or health coverage if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4376_d"><akn:num>(d)</akn:num><akn:heading>Adjustments for increases in health care spending</akn:heading><akn:content><akn:p>(d) Adjustments for increases in health care spending In the case of any plan year ending in any fiscal year beginning after September 30, 2014, the dollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4376_e"><akn:num>(e)</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>(e) Termination This section shall not apply to plan years ending after September 30, 2029.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

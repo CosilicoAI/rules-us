@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/8802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/8802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/8802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8802"><akn:num>8802</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8802. Definitions
+As used in this chapter—(1) The term “alcohol” means alcohol (including methanol and ethanol) which is produced from biomass and which is suitable for use by itself or in combination with other substances as a fuel or as a substitute for petroleum or petrochemical feedstocks.
+
+(2)(A) The term “biomass” means any organic matter which is available on a renewable basis, including agricultural crops and agricultural wastes and residues, wood and wood wastes and residues, animal wastes, municipal wastes, and aquatic plants.
+
+(B) For purposes of subchapter I, such term does not include municipal wastes; and for purposes of subchapter III, such term does not include aquatic plants and municipal wastes.
+
+
+(3) The term “biomass fuel” means any gaseous, liquid, or solid fuel produced by conversion of biomass.
+
+(4) The term “biomass energy” means—(A) biomass fuel; or
+
+(B) energy or steam derived from the direct combustion of biomass for the generation of electricity, mechanical power, or industrial process heat.
+
+
+(5) The term “biomass energy project” means any facility (or portion of a facility) located in the United States which is primarily for—(A) the production of biomass fuel (and byproducts); or
+
+(B) the combustion of biomass for the purpose of generating industrial process heat, mechanical power, or electricity (including cogeneration).
+
+
+(6) The term “Btu” means British thermal unit.
+
+(7) The term “cogeneration” means the combined generation by any facility of—(A) electrical or mechanical power, and
+
+(B) steam or forms of useful energy (such as heat) which are used for industrial, commercial, heating, or cooling purposes.
+
+
+(8) The term “cooperative” means any agricultural association, as that term is defined in section 1141j(a) of title 12.
+
+(9)(A) The term “construction” means—(i) the construction or acquisition of any biomass energy project;
+
+(ii) the conversion of any facility to a biomass energy project; or
+
+(iii) the expansion or improvement </akn:p></akn:content><akn:subsection eId="subsec_8802_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “alcohol” means alcohol (including methanol and ethanol) which is produced from biomass and which is suitable for use by itself or in combination with other substances as a fuel or as a substitute for petroleum or petrochemical feedstocks.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “biomass fuel” means any gaseous, liquid, or solid fuel produced by conversion of biomass.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The term “biomass energy” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The term “biomass energy project” means any facility (or portion of a facility) located in the United States which is primarily for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The term “Btu” means British thermal unit.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The term “cogeneration” means the combined generation by any facility of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) The term “cooperative” means any agricultural association, as that term is defined in section 1141j(a) of title 12.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) The term “Federal agency” means any Executive agency, as defined in section 105 of title 5.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

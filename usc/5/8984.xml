@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8984" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8984/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8984/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8984"><akn:num>8984</akn:num><akn:heading>Benefits</akn:heading><akn:content><akn:p>§ 8984. Benefits(a) The Office may prescribe reasonable minimum standards for enhanced vision benefits plans offered under this chapter and for qualified companies offering the plans.
+
+(b) Each contract may include more than 1 level of benefits that shall be made available to all eligible individuals.
+
+(c) The benefits to be provided under enhanced vision benefits plans under this chapter may be of the following types:(1) Diagnostic (to include refractive services).
+
+(2) Preventive.
+
+(3) Eyewear.
+
+
+(d) A contract approved under this chapter shall require the qualified company to cover the geographic service delivery area specified by the Office. The Office shall require qualified companies to include visually underserved areas in their service delivery areas.
+
+(e) If an individual has vision coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
+
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4008.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.</akn:p></akn:content><akn:subsection eId="subsec_8984_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Office may prescribe reasonable minimum standards for enhanced vision benefits plans offered under this chapter and for qualified companies offering the plans.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8984_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Each contract may include more than 1 level of benefits that shall be made available to all eligible individuals.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8984_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The benefits to be provided under enhanced vision benefits plans under this chapter may be of the following types:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8984_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) A contract approved under this chapter shall require the qualified company to cover the geographic service delivery area specified by the Office. The Office shall require qualified companies to include visually underserved areas in their service delivery areas.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8984_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) If an individual has vision coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

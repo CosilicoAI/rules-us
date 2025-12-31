@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/81a...81c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/81a...81c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/81a...81c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_81a___81c"><akn:num>81a...81c</akn:num><akn:heading>Repealed. Pub. L. 104–186, title II, § 204(27)–(29), Aug. 20, 1996, 110 Stat. 1734</akn:heading><akn:content><akn:p>§§ 81a to 81c. Repealed. Pub. L. 104–186, title II, § 204(27)–(29), Aug. 20, 1996, 110 Stat. 1734
+
+Section 81a, act July 26, 1949, ch. 366, 63 Stat. 482, related to audits and reports of fiscal records of Sergeant at Arms of House.
+
+
+Section 81b, based on H. Res. No. 465, Eighty-fourth Congress, Apr. 11, 1956, enacted into permanent law by act June 27, 1956, ch. 453, title I, § 103, 70 Stat. 370, related to payment from House contingent fund for restoration or adjustment of trust fund account of Sergeant at Arms.
+
+
+Section 81c, based on H. Res. No. 144, Eighty-fifth Congress, Feb. 7, 1957, enacted into permanent law by Pub. L. 85–75, title I, § 103, July 1, 1957, 71 Stat. 256, related to purchase of and payment for insurance of office funds of Sergeant at Arms of House.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

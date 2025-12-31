@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4105"><akn:num>4105</akn:num><akn:heading>Two-party exchanges</akn:heading><akn:content><akn:p>§ 4105. Two-party exchanges(a) In generalIn a two-party exchange, the delivering person shall not be liable for the tax imposed under section 4081(a)(1)(A)(ii).
+
+
+(b) Two-party exchangeThe term “two-party exchange” means a transaction, other than a sale, in which taxable fuel is transferred from a delivering person registered under section 4101 as a taxable fuel registrant to a receiving person who is so registered where all of the following occur:(1) The transaction includes a transfer from the delivering person, who holds the inventory position for taxable fuel in the terminal as reflected in the records of the terminal operator.
+
+(2) The exchange transaction occurs before or contemporaneous with completion of removal across the rack from the terminal by the receiving person.
+
+(3) The terminal operator in its books and records treats the receiving person as the person that removes the product across the terminal rack for purposes of reporting the transaction to the Secretary.
+
+(4) The transaction is the subject of a written contract.
+
+
+(Added Pub. L. 108–357, title VIII, § 866(a), Oct. 22, 2004, 118 Stat. 1621.)
+
+Editorial Notes
+Prior ProvisionsPrior sections 4111 to 4113, 4121, and 4131 of this title constituted a former subchapter B of this chapter, see Prior Provisions note set out preceding section 4121 of this title.
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 108–357, title VIII, § 866(c), Oct. 22, 2004, 118 Stat. 1622, provided that: “The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].”</akn:p></akn:content><akn:subsection eId="subsec_4105_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In a two-party exchange, the delivering person shall not be liable for the tax imposed under section 4081(a)(1)(A)(ii).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4105_b"><akn:num>(b)</akn:num><akn:heading>Two-party exchange</akn:heading><akn:content><akn:p>(b) Two-party exchange The term “two-party exchange” means a transaction, other than a sale, in which taxable fuel is transferred from a delivering person registered under section 4101 as a taxable fuel registrant to a receiving person who is so registered where all of the following occur:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/6403" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/6403/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/6403/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6403"><akn:num>6403</akn:num><akn:heading>Guidance applying data standards for grant reporting</akn:heading><akn:content><akn:p>§ 6403. Guidance applying data standards for grant reporting(a) In General.—Not later than 3 years after the date of enactment of this chapter—(1) the Secretary and the Director shall jointly issue guidance to all agencies directing the agencies to apply the data standards established under section 6402(a) to all applicable reporting by recipients of Federal awards; and
+
+(2) the Director shall prescribe guidance applying the data standards established under section 6402(a) to audit-related information reported under chapter 75 of this title.
+
+
+(b) Guidance.—The guidance issued under subsection (a) shall—(1) to the extent reasonable and practicable—(A) minimize the disruption of existing reporting practices of, and not increase the reporting burden on, agencies or recipients of Federal awards; and
+
+(B) explore opportunities to implement modern technologies in reporting relating to Federal awards;
+
+
+(2) allow the Director to permit exceptions for classes of Federal awards, including exceptions for Federal awards granted to Indian Tribes and Tribal organizations consistent with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.), if the Director publishes a list of those exceptions and submits the list to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives; and
+
+(3) take into consideration the consultation required under section 6402(d).
+
+
+(c) Updating Guidance.—(1) In general.—Not less frequently than once every 10 years, the Director shall update the guidance issued under subsection (a).
+
+(2) Procedures.—In updating guidance under paragraph (1), the Director shall, to the maximum extent practicable, follow the procedures for the development of the data standards and guidance prescribed under this section and section 6402.
+
+
+(Added Pub. L. 116–103, § 4(a), Dec. 30, 2019, 133 Stat. 3269.)
+
+Editorial Notes
+
+References in TextThe date of enactme</akn:p></akn:content><akn:subsection eId="subsec_6403_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Not later than 3 years after the date of enactment of this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6403_b"><akn:num>(b)</akn:num><akn:heading>Guidance.—</akn:heading><akn:content><akn:p>(b) The guidance issued under subsection (a) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6403_c"><akn:num>(c)</akn:num><akn:heading>Updating Guidance.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

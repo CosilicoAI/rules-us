@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1386" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1386/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1386/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1386"><akn:num>1386</akn:num><akn:heading>Adjustment for partial withdrawal; determination of amount; reduction for partial withdrawal liabili</akn:heading><akn:content><akn:p>§ 1386. Adjustment for partial withdrawal; determination of amount; reduction for partial withdrawal liability; procedures applicable(a) The amount of an employer’s liability for a partial withdrawal, before the application of sections 1399(c)(1) and 1405 of this title, is equal to the product of—(1) the amount determined under section 1391 of this title, and adjusted under section 1389 of this title if appropriate, determined as if the employer had withdrawn from the plan in a complete withdrawal—(A) on the date of the partial withdrawal, or
+
+(B) in the case of a partial withdrawal described in section 1385(a)(1) of this title (relating to 70-percent contribution decline), on the last day of the first plan year in the 3-year testing period,
+
+
+multiplied by
+
+(2) a fraction which is 1 minus a fraction—(A) the numerator of which is the employer’s contribution base units for the plan year following the plan year in which the partial withdrawal occurs, and
+
+(B) the denominator of which is the average of the employer’s contribution base units for—(i) except as provided in clause (ii), the 5 plan years immediately preceding the plan year in which the partial withdrawal occurs, or
+
+(ii) in the case of a partial withdrawal described in section 1385(a)(1) of this title (relating to 70-percent contribution decline), the 5 plan years immediately preceding the beginning of the 3-year testing period.
+
+
+
+
+(b)(1) In the case of an employer that has withdrawal liability for a partial withdrawal from a plan, any withdrawal liability of that employer for a partial or complete withdrawal from that plan in a subsequent plan year shall be reduced by the amount of any partial withdrawal liability (reduced by any abatement or reduction of such liability) of the employer with respect to the plan for a previous plan year.
+
+(2) The corporation shall prescribe such regulations as may be necessary to provide for proper adjustments in the reduction provided by paragraph (1) for—(A) changes in u</akn:p></akn:content><akn:subsection eId="subsec_1386_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The amount of an employer’s liability for a partial withdrawal, before the application of sections 1399(c)(1) and 1405 of this title, is equal to the product of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1386_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15081" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15081/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15081/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15081"><akn:num>15081</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>§ 15081. Purpose
+The purpose of this part is to provide grants, contracts, or cooperative agreements for projects of national significance that—(1) create opportunities for individuals with developmental disabilities to directly and fully contribute to, and participate in, all facets of community life; and
+
+(2) support the development of national and State policies that reinforce and promote, with the support of families, guardians, advocates, and communities, of individuals with developmental disabilities, the self-determination, independence, productivity, and integration and inclusion in all facets of community life of such individuals through—(A) family support activities;
+
+(B) data collection and analysis;
+
+(C) technical assistance to entities funded under parts B and D, subject to the limitations described in sections 15029(b), 15066(a)(3), and 15083(c) of this title; and
+
+(D) other projects of sufficient size and scope that hold promise to expand or improve opportunities for such individuals, including—(i) projects that provide technical assistance for the development of information and referral systems;
+
+(ii) projects that provide technical assistance to self-advocacy organizations of individuals with developmental disabilities;
+
+(iii) projects that provide education for policymakers;
+
+(iv) Federal interagency initiatives;
+
+(v) projects that enhance the participation of racial and ethnic minorities in public and private sector initiatives in developmental disabilities;
+
+(vi) projects that provide aid to transition youth with developmental disabilities from school to adult life, especially in finding employment and postsecondary education opportunities and in upgrading and changing any assistive technology devices that may be needed as a youth matures;
+
+(vii) initiatives that address the development of community quality assurance systems and the training related to the development, implementation, and evaluation of such systems, including training of individu</akn:p></akn:content><akn:subsection eId="subsec_15081_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) create opportunities for individuals with developmental disabilities to directly and fully contribute to, and participate in, all facets of community life; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15081_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) support the development of national and State policies that reinforce and promote, with the support of families, guardians, advocates, and communities, of individuals with developmental disabilities, the self-determination, independence, productivity, and integration and inclusion in all facets of community life of such individuals through—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

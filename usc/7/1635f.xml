@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1635f" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1635f/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1635f/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1635f"><akn:num>1635f</akn:num><akn:heading>Mandatory packer reporting of boxed beef sales</akn:heading><akn:content><akn:p>§ 1635f. Mandatory packer reporting of boxed beef sales(a) Daily reportingThe corporate officers or officially designated representatives of each packer processing plant shall report to the Secretary at least twice each reporting day (not less than once before, and once after, 12:00 noon Central Time) information on total boxed beef sales, including—(1) the price for each lot of each negotiated boxed beef sale (determined by seller-buyer interaction and agreement), quoted in dollars per hundredweight (on a F.O.B. plant basis);
+
+(2) the quantity for each lot of each sale, quoted by number of boxes sold; and
+
+(3) information regarding the characteristics of each lot of each sale, including—(A) the grade of beef (USDA Choice or better, USDA Select, or ungraded no-roll product);
+
+(B) the cut of beef; and
+
+(C) the trim specification.
+
+
+
+(b) PublicationThe Secretary shall make available to the public the information required to be reported under subsection (a) not less frequently than twice each reporting day.
+
+
+(Aug. 14, 1946, ch. 966, title II, § 223, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1193.)</akn:p></akn:content><akn:subsection eId="subsec_1635f_a"><akn:num>(a)</akn:num><akn:heading>Daily reporting</akn:heading><akn:content><akn:p>(a) Daily reporting The corporate officers or officially designated representatives of each packer processing plant shall report to the Secretary at least twice each reporting day (not less than once before, and once after, 12:00 noon Central Time) information on total boxed beef sales, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1635f_b"><akn:num>(b)</akn:num><akn:heading>Publication</akn:heading><akn:content><akn:p>(b) Publication The Secretary shall make available to the public the information required to be reported under subsection (a) not less frequently than twice each reporting day.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

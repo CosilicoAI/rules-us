@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/50401" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/50401/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/50401/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50401"><akn:num>50401</akn:num><akn:heading>United States Committee on the Marine Transportation System</akn:heading><akn:content><akn:p>§ 50401. United States Committee on the Marine Transportation System(a) Establishment.—There is established a United States Committee on the Marine Transportation System (in this section referred to as the “Committee”).
+
+(b) Purpose.—The Committee shall serve as a Federal interagency coordinating committee for the purpose of—(1) assessing the adequacy of the marine transportation system (including ports, waterways, channels, and their intermodal connections);
+
+(2) promoting the integration of the marine transportation system with other modes of transportation and other uses of the marine environment; and
+
+(3) coordinating, improving the coordination of, and making recommendations with regard to Federal policies that impact the marine transportation system.
+
+
+(c) Membership.—(1) In general.—The Committee shall consist of—(A) the Secretary of Transportation;
+
+(B) the Secretary of Defense;
+
+(C) the Secretary of Homeland Security;
+
+(D) the Secretary of Commerce;
+
+(E) the Secretary of the Treasury;
+
+(F) the Secretary of State;
+
+(G) the Secretary of the Interior;
+
+(H) the Secretary of Agriculture;
+
+(I) the Attorney General;
+
+(J) the Secretary of Labor;
+
+(K) the Secretary of Energy;
+
+(L) the Administrator of the Environmental Protection Agency;
+
+(M) the Chairman of the Federal Maritime Commission;
+
+(N) the Chairman of the Joint Chiefs of Staff; and
+
+(O) the head of any other Federal agency who a majority of the voting members of the Committee determines can further the purpose and activities of the Committee.
+
+
+(2) Nonvoting members.—The Committee may include as many nonvoting members as a majority of the voting members of the Committee determines is appropriate to further the purpose and activities of the Committee.
+
+
+(d) Support.—(1) Coordinating board.—(A) In general.—There is hereby established, within the Committee, a Coordinating Board. Each member of the Committee may select a senior level representative to serve on such Board. The Board shall assist the Committee i</akn:p></akn:content><akn:subsection eId="subsec_50401_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is established a United States Committee on the Marine Transportation System (in this section referred to as the “Committee”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50401_b"><akn:num>(b)</akn:num><akn:heading>Purpose.—</akn:heading><akn:content><akn:p>(b) The Committee shall serve as a Federal interagency coordinating committee for the purpose of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50401_c"><akn:num>(c)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50401_d"><akn:num>(d)</akn:num><akn:heading>Support.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50401_e"><akn:num>(e)</akn:num><akn:heading>Marine Transportation System Assessment and Strategy.—</akn:heading><akn:content><akn:p>(e) Not later than one year after the date of enactment of this Act and every 5 years thereafter, the Committee shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50401_f"><akn:num>(f)</akn:num><akn:heading>Consultation.—</akn:heading><akn:content><akn:p>(f) In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

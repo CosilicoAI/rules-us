@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/100731" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/100731/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/100731/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_100731"><akn:num>100731</akn:num><akn:heading>Findings and declaration</akn:heading><akn:content><akn:p>§ 100731. Findings and declaration
+Congress finds and declares that—(1) the level of technology of mineral exploration and development has changed radically, and continued application of the mining laws of the United States to System units to which the mining laws apply conflicts with the purposes for which the System units were established; and
+
+(2) all mining operations in System units should be conducted so as to prevent or minimize damage to the environment and other resource values.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3109.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10073116 U.S.C. 1901.Pub. L. 94–429, § 1, Sept. 28, 1976, 90 Stat. 1342.
+
+
+In paragraph (1), the words “in recent years” are omitted as obsolete.
+In paragraph (2), the words “in certain areas of the National Park System, surface disturbances from mineral development should be temporarily halted while Congress determines whether or not to acquire any valid mineral rights which may exist in such areas” are omitted as obsolete.</akn:p></akn:content><akn:subsection eId="subsec_100731_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the level of technology of mineral exploration and development has changed radically, and continued application of the mining laws of the United States to System units to which the mining laws apply conflicts with the purposes for which the System units were established; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_100731_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) all mining operations in System units should be conducted so as to prevent or minimize damage to the environment and other resource values.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

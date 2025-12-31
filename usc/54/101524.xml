@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101524" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101524/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101524/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101524"><akn:num>101524</akn:num><akn:heading>Special rule for service contract to provide transportation services</akn:heading><akn:content><akn:p>§ 101524. Special rule for service contract to provide transportation services
+Notwithstanding any other provision of law, a service contract entered into by the Secretary for the provision solely of transportation services in a System unit shall be not more than 10 years in length, including a base period of 5 years and annual extensions for up to an additional 5 years based on satisfactory performance and approval by the Secretary.
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3134.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10152416 U.S.C. 5961(a).Pub. L. 105–391, title IV, § 412(a), Nov. 13, 1998, 112 Stat. 3514; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 143(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

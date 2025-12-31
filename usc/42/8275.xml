@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/8275" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/8275/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/8275/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8275"><akn:num>8275</akn:num><akn:heading>Administration</akn:heading><akn:content><akn:p>§ 8275. Administration
+The Secretary shall administer the program established under section 8272 of this title and shall—(1) consult with the Secretary of Defense to insure that the installation and purchase of photovoltaic solar electric systems pursuant to this part shall not interfere with defense-related activities;
+
+(2) prescribe such requirements as may be appropriate to monitor and assess the performance and operation of photovoltaic electric systems installed pursuant to this part; and
+
+(3) report annually to the Congress on the status of the program.
+
+
+Notwithstanding any other provision of law, the Secretary shall not be subject to the requirements of section 553 of title 5, in the performance of his functions under this part.
+(Pub. L. 95–619, title V, § 566, Nov. 9, 1978, 92 Stat. 3281; Pub. L. 96–294, title IV, § 407(3), (4), June 30, 1980, 94 Stat. 717, 718.)
+
+Editorial Notes
+Amendments1980—Pub. L. 96–294 inserted provisions relating to inapplicability of section 553 of title 5 and substituted “requirements” for “rules and regulations” in par. (2).
+
+Statutory Notes and Related Subsidiaries
+Termination of Reporting RequirementsFor termination, effective May 15, 2000, of the reporting provision in par. (3) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 3rd item on page 87 of House Document No. 103–7.</akn:p></akn:content><akn:subsection eId="subsec_8275_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) consult with the Secretary of Defense to insure that the installation and purchase of photovoltaic solar electric systems pursuant to this part shall not interfere with defense-related activities;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8275_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) prescribe such requirements as may be appropriate to monitor and assess the performance and operation of photovoltaic electric systems installed pursuant to this part; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8275_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) report annually to the Congress on the status of the program.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

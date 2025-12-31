@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1591d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1591d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1591d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1591d"><akn:num>1591d</akn:num><akn:heading>Powers as cumulative and additional</akn:heading><akn:content><akn:p>§ 1591d. Powers as cumulative and additional
+Except as may be otherwise expressly provided in this Act, all powers and authorities conferred by this Act shall be cumulative and additional to and not in derogation of any powers and authorities otherwise existing.
+(Sept. 1, 1951, ch. 378, title VI, § 618, 65 Stat. 317.)
+
+Editorial Notes
+
+References in TextThis Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under section 1501 of this title and Tables.
+
+Codification
+Section constitutes the first sentence of section 618 of act Sept. 1, 1951. Remainder of section 618 is set out in Separability note under section 1591 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

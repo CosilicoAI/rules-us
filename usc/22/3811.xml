@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/3811" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/3811/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/3811/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3811"><akn:num>3811</akn:num><akn:heading>Operating regulations</akn:heading><akn:content><akn:p>§ 3811. Operating regulations
+The Commission may prescribe, and from time to time amend, regulations governing—(1) the operation of the Panama Canal;
+
+(2) the navigation of the harbors and other waters of the Panama Canal and areas adjacent thereto, including the ports of Balboa and Cristobal;
+
+(3) the passage and control of vessels through the Panama Canal or any part thereof, including the locks and approaches thereto;
+
+(4) pilotage in the Panama Canal or the approaches thereto through the adjacent waters; and
+
+(5) the licensing of officers or other operators of vessels navigating the waters of the Panama Canal and areas adjacent thereto, including the ports of Balboa and Cristobal.
+
+(Pub. L. 96–70, title I, § 1801, Sept. 27, 1979, 93 Stat. 492; Pub. L. 104–201, div. C, title XXXV, § 3545, Sept. 23, 1996, 110 Stat. 2867.)
+
+Editorial Notes
+Amendments1996—Pub. L. 104–201 substituted “Commission” for “President” in introductory provisions.</akn:p></akn:content><akn:subsection eId="subsec_3811_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the operation of the Panama Canal;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3811_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the navigation of the harbors and other waters of the Panama Canal and areas adjacent thereto, including the ports of Balboa and Cristobal;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3811_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the passage and control of vessels through the Panama Canal or any part thereof, including the locks and approaches thereto;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3811_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) pilotage in the Panama Canal or the approaches thereto through the adjacent waters; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3811_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) the licensing of officers or other operators of vessels navigating the waters of the Panama Canal and areas adjacent thereto, including the ports of Balboa and Cristobal.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

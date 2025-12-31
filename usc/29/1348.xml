@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1348" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1348/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1348/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1348"><akn:num>1348</akn:num><akn:heading>Termination date</akn:heading><akn:content><akn:p>§ 1348. Termination date(a) For purposes of this subchapter the termination date of a single-employer plan is—(1) in the case of a plan terminated in a standard termination in accordance with the provisions of section 1341(b) of this title, the termination date proposed in the notice provided under section 1341(a)(2) of this title,
+
+(2) in the case of a plan terminated in a distress termination in accordance with the provisions of section 1341(c) of this title, the date established by the plan administrator and agreed to by the corporation,
+
+(3) in the case of a plan terminated in accordance with the provisions of section 1342 of this title, the date established by the corporation and agreed to by the plan administrator, or
+
+(4) in the case of a plan terminated under section 1341(c) or 1342 of this title in any case in which no agreement is reached between the plan administrator and the corporation (or the trustee), the date established by the court.
+
+
+(b) For purposes of this subchapter, the date of termination of a multiemployer plan is—(1) in the case of a plan terminated in accordance with the provisions of section 1341a of this title, the date determined under subsection (b) of that section; or
+
+(2) in the case of a plan terminated in accordance with the provisions of section 1342 of this title, the date agreed to between the plan administrator and the corporation (or the trustee appointed under section 1342(b)(2) of this title, if any), or, if no agreement is reached, the date established by the court.
+
+
+(Pub. L. 93–406, title IV, § 4048, Sept. 2, 1974, 88 Stat. 1028; Pub. L. 96–364, title IV, § 402(a)(8), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, § 11016(a)(4), Apr. 7, 1986, 100 Stat. 268.)
+
+Editorial Notes
+Amendments1986—Subsec. (a). Pub. L. 99–272 in provisions preceding par. (1) substituted “termination date” for “date of termination”, redesignated pars. (1) to (3) as (2) to (4), respectively, added par. (1), in par. (2), as so redesignated,</akn:p></akn:content><akn:subsection eId="subsec_1348_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For purposes of this subchapter the termination date of a single-employer plan is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1348_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For purposes of this subchapter, the date of termination of a multiemployer plan is—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

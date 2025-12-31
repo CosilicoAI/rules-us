@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/290dd" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/290dd/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/290dd/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_290dd"><akn:num>290dd</akn:num><akn:heading>Substance abuse among government and other employees</akn:heading><akn:content><akn:p>§ 290dd. Substance abuse among government and other employees(a) Programs and services(1) DevelopmentThe Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall be responsible for fostering substance abuse prevention and treatment programs and services in State and local governments and in private industry.
+
+
+(2) Model programs(A) In generalConsistent with the responsibilities described in paragraph (1), the Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall develop a variety of model programs suitable for replication on a cost-effective basis in different types of business concerns and State and local governmental entities.
+
+
+(B) Dissemination of informationThe Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall disseminate information and materials relative to such model programs to the State agencies responsible for the administration of substance abuse prevention, treatment, and rehabilitation activities and shall, to the extent feasible provide technical assistance to such agencies as requested.
+
+
+
+
+(b) Deprivation of employment(1) ProhibitionNo person may be denied or deprived of Federal civilian employment or a Federal professional or other license or right solely on the grounds of prior substance abuse.
+
+
+(2) ApplicationThis subsection shall not apply to employment in—(A) the Central Intelligence Agency;
+
+(B) the Federal Bureau of Investigation;
+
+(C) the National Security Agency;
+
+(D) any other department or agency of the Federal Government designated for purposes of national security by the President; or
+
+(E) in any position in any department or agency of the Federal Government, not referred to in subparagraphs (A) through (D), which position is determined pursuant to regulations prescribed by the head of such agency or department to be a sensitive position.
+
+
+(3) Rehabilitation ActThe inapplicability of the prohibition described in paragr</akn:p></akn:content><akn:subsection eId="subsec_290dd_a"><akn:num>(a)</akn:num><akn:heading>Programs and services</akn:heading><akn:content><akn:p>(a) Programs and services</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_290dd_b"><akn:num>(b)</akn:num><akn:heading>Deprivation of employment</akn:heading><akn:content><akn:p>(b) Deprivation of employment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_290dd_c"><akn:num>(c)</akn:num><akn:heading>Construction</akn:heading><akn:content><akn:p>(c) Construction This section shall not be construed to prohibit the dismissal from employment of a Federal civilian employee who cannot properly function in his employment.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/4502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/4502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/4502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4502"><akn:num>4502</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 4502. Definitions
+As used in this subchapter—(a) the term “Board” means the National Dairy Promotion and Research Board established under section 4504 of this title;
+
+(b) the term “Department” means the Department of Agriculture;
+
+(c) the term “Secretary” means the Secretary of Agriculture;
+
+(d) the term “milk” means any class of cow’s milk;
+
+(e) the term “dairy products” means products manufactured for human consumption which are derived from the processing of milk, and includes fluid milk products;
+
+(f) the term “fluid milk products” means those milk products normally consumed in liquid form as a beverage;
+
+(g) the term “person” means any individual, group of individuals, partnership, corporation, association, cooperative, or any other entity;
+
+(h) the term “producer” means any person engaged in the production of milk for commercial use;
+
+(i) the term “promotion” means actions such as paid advertising, sales promotion, and publicity to advance the image and sales of and demand for dairy products;
+
+(j) the term “research” means studies testing the effectiveness of market development and promotion efforts, studies relating to the nutritional value of milk and dairy products, and other related efforts to expand demand for milk and dairy products;
+
+(k) the term “nutrition education” means those activities intended to broaden the understanding of sound nutritional principles including the role of milk and dairy products in a balanced diet;
+
+(l) the term “United States”, when used in a geographical sense, means all of the States, the District of Columbia, and the Commonwealth of Puerto Rico;
+
+(m) the term “imported dairy product” means any dairy product that is imported into the United States, including dairy products imported into the United States in the form of—(1) milk, cream, and fresh and dried dairy products;
+
+(2) butter and butterfat mixtures;
+
+(3) cheese; and
+
+(4) casein and mixtures;
+
+
+(n) the term “importer” means a person that imports an imported dairy pro</akn:p></akn:content><akn:subsection eId="subsec_4502_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) the term “Board” means the National Dairy Promotion and Research Board established under section 4504 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) the term “Department” means the Department of Agriculture;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) the term “Secretary” means the Secretary of Agriculture;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) the term “milk” means any class of cow’s milk;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) the term “dairy products” means products manufactured for human consumption which are derived from the processing of milk, and includes fluid milk products;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) the term “fluid milk products” means those milk products normally consumed in liquid form as a beverage;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g) the term “person” means any individual, group of individuals, partnership, corporation, association, cooperative, or any other entity;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_h"><akn:num>(h)</akn:num><akn:content><akn:p>(h) the term “producer” means any person engaged in the production of milk for commercial use;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_i"><akn:num>(i)</akn:num><akn:content><akn:p>(i) the term “promotion” means actions such as paid advertising, sales promotion, and publicity to advance the image and sales of and demand for dairy products;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4502_j"><akn:num>(j)</akn:num><akn:content><akn:p>(j) the term “research” means studies testing the effectiveness of market development and promotion efforts, studies relating to the nutritional value of milk and dairy products, and other related efforts to expand demand for milk and dairy products;</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

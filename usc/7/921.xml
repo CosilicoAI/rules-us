@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/921" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/921/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/921/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_921"><akn:num>921</akn:num><akn:heading>Congressional declaration of policy</akn:heading><akn:content><akn:p>§ 921. Congressional declaration of policy
+It is declared to be the policy of the Congress that adequate telephone service be made generally available in rural areas through the improvement and expansion of existing telephone facilities and the construction and operation of such additional facilities as are required to assure the availability of adequate telephone service to the widest practicable number of rural users of such service.
+(Oct. 28, 1949, ch. 776, § 1, 63 Stat. 948.)
+
+Editorial Notes
+Codification
+Section is composed of the first sentence of section 1 of act Oct. 28, 1949. The second sentence of section 1 of that act, which provided that: “In order to effectuate this policy, the Rural Electrification Act of 1936 [this chapter] is amended as hereinafter provided”
+, is omitted from the Code.
+Section was not enacted as part of title II of the Rural Electrification Act of 1936 which comprises subchapter II of this chapter.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5010" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5010/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5010/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5010"><akn:num>5010</akn:num><akn:heading>Statute of limitations and notice of claim</akn:heading><akn:content><akn:p>§ 5010. Statute of limitations and notice of claim(a) Actions under this chapter(1) In generalAn action to enforce a claim under this chapter may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 1-year period beginning on the date the cause of action accrues.
+
+
+(2) AccrualA cause of action accrues as of the date the injured party first learns, or by which such person reasonably should have learned, of the facts and circumstances giving rise to the cause of action.
+
+
+
+(b) Discharge of claimsExcept as provided in subsection (c), unless a person gives notice of a claim to the indemnifying or warranting bank within 30 days after the person has reason to know of the claim and the identity of the indemnifying or warranting bank, the indemnifying or warranting bank is discharged from liability in an action to enforce a claim under this chapter to the extent of any loss caused by the delay in giving notice of the claim.
+
+
+(c) Notice of claim by consumerA timely claim by a consumer under section 5006 of this title for expedited recredit constitutes timely notice of a claim by the consumer for purposes of subsection (b).
+
+
+(Pub. L. 108–100, § 11, Oct. 28, 2003, 117 Stat. 1188.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a)(1), (b), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.</akn:p></akn:content><akn:subsection eId="subsec_5010_a"><akn:num>(a)</akn:num><akn:heading>Actions under this chapter</akn:heading><akn:content><akn:p>(a) Actions under this chapter</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5010_b"><akn:num>(b)</akn:num><akn:heading>Discharge of claims</akn:heading><akn:content><akn:p>(b) Discharge of claims Except as provided in subsection (c), unless a person gives notice of a claim to the indemnifying or warranting bank within 30 days after the person has reason to know of the claim and the identity of the indemnifying or warranting bank, the indemnifying or warranting bank is discharged from liability in an action to enforce a claim under this chapter to the extent of any loss caused by the delay in giving notice of the claim.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5010_c"><akn:num>(c)</akn:num><akn:heading>Notice of claim by consumer</akn:heading><akn:content><akn:p>(c) Notice of claim by consumer A timely claim by a consumer under section 5006 of this title for expedited recredit constitutes timely notice of a claim by the consumer for purposes of subsection (b).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

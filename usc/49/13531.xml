@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/13531" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/13531/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/13531/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13531"><akn:num>13531</akn:num><akn:heading>General jurisdiction</akn:heading><akn:content><akn:p>§ 13531. General jurisdiction(a) In General.—The Secretary and the Board have jurisdiction, as specified in this part, over service that a freight forwarder undertakes to provide, or is authorized or required under this part to provide, to the extent transportation is provided in the United States and is between—(1) a place in a State and a place in another State, even if part of the transportation is outside the United States;
+
+(2) a place in a State and another place in the same State through a place outside the State; or
+
+(3) a place in the United States and a place outside the United States.
+
+
+(b) Exemption of Certain Air Carrier Service.—Neither the Secretary nor the Board has jurisdiction under subsection (a) of this section over service undertaken by a freight forwarder using transportation of an air carrier subject to part A of subtitle VII of this title.
+
+(Added Pub. L. 104–88, title I, § 103, Dec. 29, 1995, 109 Stat. 865.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 10561 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.</akn:p></akn:content><akn:subsection eId="subsec_13531_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary and the Board have jurisdiction, as specified in this part, over service that a freight forwarder undertakes to provide, or is authorized or required under this part to provide, to the extent transportation is provided in the United States and is between—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13531_b"><akn:num>(b)</akn:num><akn:heading>Exemption of Certain Air Carrier Service.—</akn:heading><akn:content><akn:p>(b) Neither the Secretary nor the Board has jurisdiction under subsection (a) of this section over service undertaken by a freight forwarder using transportation of an air carrier subject to part A of subtitle VII of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

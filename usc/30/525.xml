@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/525" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/525/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/525/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_525"><akn:num>525</akn:num><akn:heading>Future location of claims on mineral lands</akn:heading><akn:content><akn:p>§ 525. Future location of claims on mineral lands
+Subject to the conditions and provisions of this chapter, mining claims and millsites may hereafter be located under the mining laws of the United States on lands of the United States which at the time of location are—(a) included in a permit or lease issued under the mineral leasing laws; or
+
+(b) covered by an application or offer for a permit or lease filed under the mineral leasing laws; or
+
+(c) known to be valuable for minerals subject to disposition under the mineral leasing laws;
+
+
+to the same extent in all respects as if such lands were not so included or covered or known.
+(Aug. 13, 1954, ch. 730, § 5, 68 Stat. 710.)</akn:p></akn:content><akn:subsection eId="subsec_525_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) included in a permit or lease issued under the mineral leasing laws; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) covered by an application or offer for a permit or lease filed under the mineral leasing laws; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_525_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) known to be valuable for minerals subject to disposition under the mineral leasing laws;</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3583" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3583/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3583/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3583"><akn:num>3583</akn:num><akn:heading>Application to access data assets for developing evidence</akn:heading><akn:content><akn:p>§ 3583. Application to access data assets for developing evidence(a) Standard Application Process.—The Director shall establish a process through which agencies, the Congressional Budget Office, State, local, and Tribal governments, researchers, and other individuals, as appropriate, may apply to access the data assets accessed or acquired under this subchapter by a statistical agency or unit for purposes of developing evidence. The process shall include the following:(1) Sufficient detail to ensure that each statistical agency or unit establishes an identical process.
+
+(2) A common application form.
+
+(3) Criteria for statistical agencies and units to determine whether to grant an applicant access to a data asset.
+
+(4) Timeframes for prompt determinations by each statistical agency or unit.
+
+(5) An appeals process for adverse decisions and noncompliance with the process established under this subsection.
+
+(6) Standards for transparency, including requirements to make the following information publicly available:(A) Each application received.
+
+(B) The status of each application.
+
+(C) The determination made for each application.
+
+(D) Any other information, as appropriate, to ensure full transparency of the process established under this subsection.
+
+
+
+(b) Consultation.—In establishing the process required under subsection (a), the Director shall consult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.
+
+(c) Implementation.—The head of each statistical agency or unit shall implement the process established under subsection (a).
+
+(Added Pub. L. 115–435, title III, § 303(a), Jan. 14, 2019, 132 Stat. 5555.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of Title 5, Government Organization and Employees.</akn:p></akn:content><akn:subsection eId="subsec_3583_a"><akn:num>(a)</akn:num><akn:heading>Standard Application Process.—</akn:heading><akn:content><akn:p>(a) The Director shall establish a process through which agencies, the Congressional Budget Office, State, local, and Tribal governments, researchers, and other individuals, as appropriate, may apply to access the data assets accessed or acquired under this subchapter by a statistical agency or unit for purposes of developing evidence. The process shall include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3583_b"><akn:num>(b)</akn:num><akn:heading>Consultation.—</akn:heading><akn:content><akn:p>(b) In establishing the process required under subsection (a), the Director shall consult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3583_c"><akn:num>(c)</akn:num><akn:heading>Implementation.—</akn:heading><akn:content><akn:p>(c) The head of each statistical agency or unit shall implement the process established under subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

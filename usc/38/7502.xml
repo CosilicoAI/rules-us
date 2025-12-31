@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/7502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/7502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/7502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7502"><akn:num>7502</akn:num><akn:heading>Application and acceptance</akn:heading><akn:content><akn:p>§ 7502. Application and acceptance(a) Application.—(1) To apply and participate in the scholarship program under this chapter, an individual shall submit to the Secretary an application for such participation together with an agreement described in section 7504 of this title under which the participant agrees to serve a period of obligated service in the Department as provided in the agreement in return for payment of educational assistance as provided in the agreement.
+
+(2) In distributing application forms and agreement forms to individuals desiring to participate in the scholarship program, the Secretary shall include with such forms the following:(A) A fair summary of the rights and liabilities of an individual whose application is approved (and whose agreement is accepted) by the Secretary.
+
+(B) A full description of the terms and conditions that apply to participation in the scholarship program and service in the Department.
+
+
+
+(b) Approval.—(1) Upon the Secretary’s approval of an individual’s participation in the scholarship program, the Secretary shall, in writing, promptly notify the individual of that acceptance.
+
+(2) An individual becomes a participant in the scholarship program upon such approval by the Secretary.
+
+
+(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1147.)</akn:p></akn:content><akn:subsection eId="subsec_7502_a"><akn:num>(a)</akn:num><akn:heading>Application.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7502_b"><akn:num>(b)</akn:num><akn:heading>Approval.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

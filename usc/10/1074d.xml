@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1074d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1074d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1074d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1074d"><akn:num>1074d</akn:num><akn:heading>Certain primary and preventive health care services</akn:heading><akn:content><akn:p>§ 1074d. Certain primary and preventive health care services(a) Services Available.—(1) Female members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to primary and preventive health care services for women as part of such medical care. The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.
+
+(2) Male members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to preventive health care screening for colon or prostate cancer at such intervals and using such screening methods as the administering Secretaries consider appropriate.
+
+
+(b) Definition.—In this section, the term “primary and preventive health care services for women” means health care services, including related counseling services, provided to women with respect to the following:(1) Cervical cancer screening.
+
+(2) Breast cancer screening, including through the use of digital breast tomosynthesis.
+
+(3) Comprehensive obstetrical and gynecological care, including care related to pregnancy and the prevention of pregnancy.
+
+(4) Infertility and sexually transmitted diseases, including prevention.
+
+(5) Menopause, including hormone replacement therapy and counseling regarding the benefits and risks of hormone replacement therapy.
+
+(6) Physical or psychological conditions arising out of acts of sexual violence.
+
+(7) Gynecological cancers.
+
+(8) Colon cancer screening, at the intervals and using the screening methods prescribed under subsection (a)(2).
+
+
+(Added Pub. L. 103–160, div. A, title VII, § 701(a)(1), Nov. 30, 1993, 107 Stat. 1685; amended Pub. L. 104–201, div. A, title VII, § 701(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 109–364, div. A, title VII, § 703(a), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 116–283, div. A</akn:p></akn:content><akn:subsection eId="subsec_1074d_a"><akn:num>(a)</akn:num><akn:heading>Services Available.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1074d_b"><akn:num>(b)</akn:num><akn:heading>Definition.—</akn:heading><akn:content><akn:p>(b) In this section, the term “primary and preventive health care services for women” means health care services, including related counseling services, provided to women with respect to the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

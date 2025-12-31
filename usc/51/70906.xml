@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/70906" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/70906/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/70906/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70906"><akn:num>70906</akn:num><akn:heading>International Space Station National Laboratory Advisory Committee</akn:heading><akn:content><akn:p>§ 70906. International Space Station National Laboratory Advisory Committee(a) Establishment.—Not later than one year after October 15, 2008, the Administrator shall establish under chapter 10 of title 5 a committee to be known as the “International Space Station National Laboratory Advisory Committee” (hereafter in this section referred to as the “Committee”).
+
+(b) Membership.—(1) Composition.—The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United States portion of the International Space Station, including allocations within partner elements.
+
+(2) Chair.—The Administrator shall appoint a chair from among the members of the Committee, who shall serve for a 2-year term.
+
+
+(c) Duties of the Committee.—(1) In general.—The Committee shall monitor, assess, and make recommendations regarding effective utilization of the International Space Station as a national laboratory and platform for research.
+
+(2) Annual report.—The Committee shall submit to the Administrator, on an annual basis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
+
+
+(d) Duration.—The Committee shall exist for the life of the International Space Station.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3438; Pub. L. 117–286, § 4(a)(327), Dec. 27, 2022, 136 Stat. 4342.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+7090642 U.S.C. 17752.Pub. L. 110–422, title VI, § 602, Oct. 15, 2008, 122 Stat. 4795.
+
+
+In subsection (a), the date “October 15, 2008” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
+
+Editorial Notes
+Amendments2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of</akn:p></akn:content><akn:subsection eId="subsec_70906_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) Not later than one year after October 15, 2008, the Administrator shall establish under chapter 10 of title 5 a committee to be known as the “International Space Station National Laboratory Advisory Committee” (hereafter in this section referred to as the “Committee”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70906_b"><akn:num>(b)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70906_c"><akn:num>(c)</akn:num><akn:heading>Duties of the Committee.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70906_d"><akn:num>(d)</akn:num><akn:heading>Duration.—</akn:heading><akn:content><akn:p>(d) The Committee shall exist for the life of the International Space Station.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

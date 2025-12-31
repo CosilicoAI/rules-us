@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2308" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2308/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2308/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2308"><akn:num>2308</akn:num><akn:heading>Conclusive evidence of compliance with chapter</akn:heading><akn:content><akn:p>§ 2308. Conclusive evidence of compliance with chapter
+A deed, lease, contract, or other instrument executed by or on behalf of the Commission purporting to transfer title or any other interest in property disposed of pursuant to this chapter shall be conclusive evidence of compliance with the provisions of this chapter and rules and regulations promulgated thereunder, insofar as concerns title or other interest of any bona fide grantee or transferee for value without notice of lack of such compliance, and his successors in title.
+(Aug. 4, 1955, ch. 543, ch. 11, § 114, 69 Stat. 483.)
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

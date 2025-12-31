@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/3910" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/3910/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/3910/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3910"><akn:num>3910</akn:num><akn:heading>Kimberley Process Implementation Coordinating Committee</akn:heading><akn:content><akn:p>§ 3910. Kimberley Process Implementation Coordinating Committee
+The President shall establish a Kimberley Process Implementation Coordinating Committee to coordinate the implementation of this chapter. The Committee shall be composed of the following individuals or their designees:(1) The Secretary of the Treasury and the Secretary of State, who shall be co-chairpersons.
+
+(2) The Secretary of Commerce.
+
+(3) The United States Trade Representative.
+
+(4) The Secretary of Homeland Security.
+
+(5) A representative of any other agency the President deems appropriate.
+
+(Pub. L. 108–19, § 11, Apr. 25, 2003, 117 Stat. 635.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateFor effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
+
+Executive Documents
+
+Delegation of Functions
+For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.</akn:p></akn:content><akn:subsection eId="subsec_3910_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The Secretary of the Treasury and the Secretary of State, who shall be co-chairpersons.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3910_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The Secretary of Commerce.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3910_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The United States Trade Representative.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3910_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The Secretary of Homeland Security.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3910_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) A representative of any other agency the President deems appropriate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17351" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17351/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17351/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17351"><akn:num>17351</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 17351. Definitions
+In this part:(1) BoardThe term “Board” means the Board of Directors of the Foundation established pursuant to section 17352(c) of this title.
+
+
+(2) Chief Executive OfficerThe term “Chief Executive Officer” means the chief executive officer of the Foundation appointed pursuant to section 17352(b) of this title.
+
+
+(3) FoundationThe term “Foundation” means the International Clean Energy Foundation established by section 17352(a) of this title.
+
+
+(Pub. L. 110–140, title IX, § 921, Dec. 19, 2007, 121 Stat. 1732.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.</akn:p></akn:content><akn:subsection eId="subsec_17351_1"><akn:num>(1)</akn:num><akn:heading>Board</akn:heading><akn:content><akn:p>(1) Board The term “Board” means the Board of Directors of the Foundation established pursuant to section 17352(c) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17351_2"><akn:num>(2)</akn:num><akn:heading>Chief Executive Officer</akn:heading><akn:content><akn:p>(2) Chief Executive Officer The term “Chief Executive Officer” means the chief executive officer of the Foundation appointed pursuant to section 17352(b) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17351_3"><akn:num>(3)</akn:num><akn:heading>Foundation</akn:heading><akn:content><akn:p>(3) Foundation The term “Foundation” means the International Clean Energy Foundation established by section 17352(a) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

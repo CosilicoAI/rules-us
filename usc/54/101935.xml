@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101935" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101935/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101935/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101935"><akn:num>101935</akn:num><akn:heading>Financial management</akn:heading><akn:content><akn:p>§ 101935. Financial management(a) Revolving Fund.—There is established a revolving fund that shall be available to the Secretary without fiscal year limitation for—(1) expenses necessary for the management, improvement, enhancement, operation, construction, and maintenance of commercial visitor services and facilities; and
+
+(2) payment of possessory interest and leasehold surrender interest.
+
+
+(b) Collection of Funds.—(1) Funds collected by the Secretary pursuant to the contracts awarded under this subchapter shall be credited to the revolving fund.
+
+(2) The Secretary is authorized to transfer to the revolving fund, without reimbursement, any additional funds or revenue in connection with the functions to be carried out under this subchapter.
+
+
+(c) Use of Funds.—Amounts in the revolving fund shall be used by the Secretary in furtherance of the purposes of this title. No funds from this account may be used to decrease the availability of services and programs to the public.
+
+(Added Pub. L. 114–289, title VII, § 701, Dec. 16, 2016, 130 Stat. 1493.)</akn:p></akn:content><akn:subsection eId="subsec_101935_a"><akn:num>(a)</akn:num><akn:heading>Revolving Fund.—</akn:heading><akn:content><akn:p>(a) There is established a revolving fund that shall be available to the Secretary without fiscal year limitation for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101935_b"><akn:num>(b)</akn:num><akn:heading>Collection of Funds.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101935_c"><akn:num>(c)</akn:num><akn:heading>Use of Funds.—</akn:heading><akn:content><akn:p>(c) Amounts in the revolving fund shall be used by the Secretary in furtherance of the purposes of this title. No funds from this account may be used to decrease the availability of services and programs to the public.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

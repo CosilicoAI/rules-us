@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/9831" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/9831/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/9831/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9831"><akn:num>9831</akn:num><akn:heading>General exceptions</akn:heading><akn:content><akn:p>§ 9831. General exceptions(a) Exception for certain plansThe requirements of this chapter shall not apply to—(1) any governmental plan, and
+
+(2) any group health plan for any plan year if, on the first day of such plan year, such plan has less than 2 participants who are current employees.
+
+
+(b) Exception for certain benefitsThe requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(1).
+
+
+(c) Exception for certain benefits if certain conditions met(1) Limited, excepted benefitsThe requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(2) if the benefits—(A) are provided under a separate policy, certificate, or contract of insurance; or
+
+(B) are otherwise not an integral part of the plan.
+
+
+(2) Noncoordinated, excepted benefitsThe requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(3) if all of the following conditions are met:(A) The benefits are provided under a separate policy, certificate, or contract of insurance.
+
+(B) There is no coordination between the provision of such benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor.
+
+(C) Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor.
+
+
+(3) Supplemental excepted benefitsThe requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(4) if the benefits are provided under a separate policy, certificate, or contract of insurance.
+
+
+
+(d) Exception for qualified small employer health reimbursement arrangements(1) In generalFor purposes of this title (and notwithstandi</akn:p></akn:content><akn:subsection eId="subsec_9831_a"><akn:num>(a)</akn:num><akn:heading>Exception for certain plans</akn:heading><akn:content><akn:p>(a) Exception for certain plans The requirements of this chapter shall not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9831_b"><akn:num>(b)</akn:num><akn:heading>Exception for certain benefits</akn:heading><akn:content><akn:p>(b) Exception for certain benefits The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(1).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9831_c"><akn:num>(c)</akn:num><akn:heading>Exception for certain benefits if certain conditions met</akn:heading><akn:content><akn:p>(c) Exception for certain benefits if certain conditions met</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9831_d"><akn:num>(d)</akn:num><akn:heading>Exception for qualified small employer health reimbursement arrangements</akn:heading><akn:content><akn:p>(d) Exception for qualified small employer health reimbursement arrangements</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

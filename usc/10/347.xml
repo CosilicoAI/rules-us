@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/347" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/347/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/347/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_347"><akn:num>347</akn:num><akn:heading>International engagement authorities for service academies</akn:heading><akn:content><akn:p>§ 347. International engagement authorities for service academies(a) Selection of Persons From Foreign Countries To Receive Instruction at Service Academies.—(1) Attendance authorized.—(A) In general.—The Secretary of each military department may permit persons from foreign countries to receive instruction at the Service Academy under the jurisdiction of the Secretary. Such persons shall be in addition to—(i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under section 7442 of this title;
+
+(ii) in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under section 8454 of this title; and
+
+(iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under section 9442 of this title.
+
+
+(B) Limitation on number.—The number of persons permitted to receive instruction at each Service Academy under this subsection may not be more than 80 at any one time.
+
+
+(2) Determination of foreign countries from which persons may be selected.—The Secretary of a military department, upon approval by the Secretary of Defense, shall determine—(A) the countries from which persons may be selected for appointment under this subsection to the Service Academy under the jurisdiction of that Secretary; and
+
+(B) the number of persons that may be selected from each country.
+
+
+(3) Qualifications and selection.—The Secretary of each military department—(A) may establish entrance qualifications and methods of competition for selection among individual applicants under this subsection; and
+
+(B) shall select those persons who will be permitted to receive instruction at the Service Academy under the jurisdiction of the Secretary under this subsection.
+
+
+(4) Selection priority to persons with national service obligation upon graduation.—In selecting persons to receive instruction under this subsection from among applicants </akn:p></akn:content><akn:subsection eId="subsec_347_a"><akn:num>(a)</akn:num><akn:heading>Selection of Persons From Foreign Countries To Receive Instruction at Service Academies.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_347_b"><akn:num>(b)</akn:num><akn:heading>Exchange Programs With Foreign Military Academies.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_347_c"><akn:num>(c)</akn:num><akn:heading>Foreign and Cultural Exchange Activities.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_347_d"><akn:num>(d)</akn:num><akn:heading>Service Academy Defined.—</akn:heading><akn:content><akn:p>(d) In this section, the term “Service Academy” means the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

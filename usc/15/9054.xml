@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9054" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9054/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9054/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9054"><akn:num>9054</akn:num><akn:heading>Conflicts of interest</akn:heading><akn:content><akn:p>§ 9054. Conflicts of interest(a) DefinitionsIn this section:(1) Controlling interestThe term “controlling interest” means owning, controlling, or holding not less than 20 percent, by vote or value, of the outstanding amount of any class of equity interest in an entity.
+
+
+(2) Covered entityThe term “covered entity” means an entity in which a covered individual directly or indirectly holds a controlling interest. For the purpose of determining whether an entity is a covered entity, the securities owned, controlled, or held by 2 or more individuals who are related as described in paragraph (3)(B) shall be aggregated.
+
+
+(3) Covered individualThe term “covered individual” means—(A) the President, the Vice President, the head of an Executive department, or a Member of Congress; and
+
+(B) the spouse, child, son-in-law, or daughter-in-law, as determined under applicable common law, of an individual described in subparagraph (A).
+
+
+(4) Executive departmentThe term “Executive department” has the meaning given the term in section 101 of title 5.
+
+
+(5) Member of CongressThe term “member of Congress” means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+
+
+(6) Equity interestThe term “equity interest” means—(A) a share in an entity, without regard to whether the share is—(i) transferable; or
+
+(ii) classified as stock or anything similar;
+
+
+(B) a capital or profit interest in a limited liability company or partnership; or
+
+(C) a warrant or right, other than a right to convert, to purchase, sell, or subscribe to a share or interest described in subparagraph (A) or (B), respectively.
+
+
+
+(b) ProhibitionNotwithstanding any other provision of this part, no covered entity may be eligible for any transaction described in section 9042 of this title.
+
+
+(c) RequirementThe principal executive officer and the principal financial officer, or individuals performing similar functions, of an entity seek</akn:p></akn:content><akn:subsection eId="subsec_9054_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9054_b"><akn:num>(b)</akn:num><akn:heading>Prohibition</akn:heading><akn:content><akn:p>(b) Prohibition Notwithstanding any other provision of this part, no covered entity may be eligible for any transaction described in section 9042 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9054_c"><akn:num>(c)</akn:num><akn:heading>Requirement</akn:heading><akn:content><akn:p>(c) Requirement The principal executive officer and the principal financial officer, or individuals performing similar functions, of an entity seeking to enter a transaction under section 9042 of this title shall, before that transaction is approved, certify to the Secretary and the Board of Governors of the Federal Reserve System that the entity is eligible to engage in that transaction, including that the entity is not a covered entity.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

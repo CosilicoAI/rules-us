@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/6761" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/6761/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/6761/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6761"><akn:num>6761</akn:num><akn:heading>Penalties</akn:heading><akn:content><akn:p>§ 6761. Penalties(a) Civil(1) Penalty amounts(A) Prohibited acts relating to inspectionsAny person that is determined, in accordance with paragraph (2), to have violated section 6726 of this title shall be required by order to pay a civil penalty in an amount not to exceed $25,000 for each such violation. For purposes of this paragraph, each day such a violation of section 6726 of this title continues shall constitute a separate violation of that section.
+
+
+(B) Recordkeeping violationsAny person that is determined, in accordance with paragraph (2), to have violated section 6745 of this title shall be required by order to pay a civil penalty in an amount not to exceed $5,000 for each such violation.
+
+
+
+(2) Hearing(A) In generalBefore imposing an order described in paragraph (1) against a person under this subsection for a violation of section 6726 or 6745 of this title, the Secretary of State shall provide the person or entity with notice and, upon request made within 15 days of the date of the notice, a hearing respecting the violation.
+
+
+(B) Conduct of hearingAny hearing so requested shall be conducted before an administrative law judge. The hearing shall be conducted in accordance with the requirements of section 554 of title 5. If no hearing is so requested, the Secretary of State’s imposition of the order shall constitute a final and unappealable order.
+
+
+(C) Issuance of ordersIf the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated section 6726 or 6745 of this title, the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (1).
+
+
+(D) Factors for determination of penalty amountsIn determining the amount of any civil penalty, the administrative law judge shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to </akn:p></akn:content><akn:subsection eId="subsec_6761_a"><akn:num>(a)</akn:num><akn:heading>Civil</akn:heading><akn:content><akn:p>(a) Civil</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6761_b"><akn:num>(b)</akn:num><akn:heading>Criminal</akn:heading><akn:content><akn:p>(b) Criminal Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than one year, or both.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

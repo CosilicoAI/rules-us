@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/32101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/32101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/32101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_32101"><akn:num>32101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 32101. Definitions
+In this part (except chapter 329 and except as provided in section 33101)—(1) “bumper standard” means a minimum performance standard that substantially reduces—(A) the damage to the front or rear end of a passenger motor vehicle from a low-speed collision (including a collision with a fixed barrier) or from towing the vehicle; or
+
+(B) the cost of repairing the damage.
+
+
+(2) “insurer” means a person in the business of issuing, or reinsuring any part of, a passenger motor vehicle insurance policy.
+
+(3) “interstate commerce” means commerce between a place in a State and—(A) a place in another State; or
+
+(B) another place in the same State through another State.
+
+
+(4) “make”, when describing a passenger motor vehicle, means the trade name of the manufacturer of the vehicle.
+
+(5) “manufacturer” means a person—(A) manufacturing or assembling passenger motor vehicles or passenger motor vehicle equipment; or
+
+(B) importing motor vehicles or motor vehicle equipment for resale.
+
+
+(6) “model”, when describing a passenger motor vehicle, means a category of passenger motor vehicles based on the size, style, and type of a make of vehicle.
+
+(7) “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.
+
+(8) “motor vehicle accident” means an accident resulting from the maintenance or operation of a passenger motor vehicle or passenger motor vehicle equipment.
+
+(9) “multipurpose passenger vehicle” means a passenger motor vehicle constructed on a truck chassis or with special features for occasional off-road operation.
+
+(10) “passenger motor vehicle” means a motor vehicle with motive power designed to carry not more than 12 individuals, but does not include—(A) a motorcycle; or
+
+(B) a truck not designed primarily to carry its operator or passengers.
+
+
+(11) “passenger motor vehicle equipment” means—(A) a system, part, or </akn:p></akn:content><akn:subsection eId="subsec_32101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “bumper standard” means a minimum performance standard that substantially reduces—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “insurer” means a person in the business of issuing, or reinsuring any part of, a passenger motor vehicle insurance policy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “interstate commerce” means commerce between a place in a State and—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “make”, when describing a passenger motor vehicle, means the trade name of the manufacturer of the vehicle.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) “manufacturer” means a person—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) “model”, when describing a passenger motor vehicle, means a category of passenger motor vehicles based on the size, style, and type of a make of vehicle.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) “motor vehicle accident” means an accident resulting from the maintenance or operation of a passenger motor vehicle or passenger motor vehicle equipment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) “multipurpose passenger vehicle” means a passenger motor vehicle constructed on a truck chassis or with special features for occasional off-road operation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32101_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) “passenger motor vehicle” means a motor vehicle with motive power designed to carry not more than 12 individuals, but does not include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

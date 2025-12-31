@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/50902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/50902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/50902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50902"><akn:num>50902</akn:num><akn:heading>Best practices and support</akn:heading><akn:content><akn:p>§ 50902. Best practices and support(a) DefinitionsIn this section:(1) First responderThe term “first responder” has the meaning given the term “public safety officer” in section 10284 of this title.
+
+
+(2) First responder agencyThe term “first responder agency” means a Federal, State, local, or Tribal agency that employs or otherwise engages the services of a first responder.
+
+
+(3) Peer support counseling programThe term “peer support counseling program” means a program provided by a first responder agency that provides counseling services from a peer support specialist to a first responder of the first responder agency.
+
+
+(4) Peer support participantThe term “peer support participant” means a first responder who receives counseling services from a peer support specialist.
+
+
+(5) Peer support specialistThe term “peer support specialist” means a first responder who—(A) has received training in—(i) peer support counseling; and
+
+(ii) providing emotional and moral support to first responders who have been involved in or exposed to an emotionally traumatic experience in the course of the duties of those first responders; and
+
+
+(B) is designated by a first responder agency to provide the services described in subparagraph (A).
+
+
+
+(b) Report on best practicesNot later than 2 years after November 18, 2021, the Attorney General, in coordination with the Secretary of Health and Human Services, shall develop a report on best practices and professional standards for peer support counseling programs for first responder agencies that includes—(1) advice on—(A) establishing and operating peer support counseling programs; and
+
+(B) training and certifying peer support specialists;
+
+
+(2) a code of ethics for peer support specialists;
+
+(3) recommendations for continuing education for peer support specialists;
+
+(4) advice on disclosing to first responders any confidentiality rights of peer support participants; and
+
+(5) information on—(A) the different types of peer support counseling pr</akn:p></akn:content><akn:subsection eId="subsec_50902_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50902_b"><akn:num>(b)</akn:num><akn:heading>Report on best practices</akn:heading><akn:content><akn:p>(b) Report on best practices Not later than 2 years after November 18, 2021, the Attorney General, in coordination with the Secretary of Health and Human Services, shall develop a report on best practices and professional standards for peer support counseling programs for first responder agencies that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50902_c"><akn:num>(c)</akn:num><akn:heading>Implementation</akn:heading><akn:content><akn:p>(c) Implementation The Attorney General shall support and encourage the implementation of peer support counseling programs in first responder agencies by—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

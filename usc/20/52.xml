@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/52" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/52/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/52/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_52"><akn:num>52</akn:num><akn:heading>Evidence of title to site and buildings</akn:heading><akn:content><akn:p>§ 52. Evidence of title to site and buildings
+The site and lands selected for buildings for the Smithsonian Institution shall be deemed appropriated to the institution, and the record of the description of such site and lands, or a copy thereof, certified by the chancellor and Secretary of the Board of Regents, shall be received as evidence in all courts of the extent and boundaries of the lands appropriated to the institution.
+(R.S. § 5588.)
+
+Editorial Notes
+Codification
+R.S. § 5588 derived from act Aug. 10, 1846, ch. 178, § 4, 9 Stat. 104.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

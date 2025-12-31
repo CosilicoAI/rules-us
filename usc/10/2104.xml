@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2104"><akn:num>2104</akn:num><akn:heading>Advanced training; eligibility for</akn:heading><akn:content><akn:p>§ 2104. Advanced training; eligibility for(a) Advanced training shall be provided to eligible members of the program and, if the institution concerned so requests, to eligible applicants for membership in the program.
+
+(b) To be eligible for continuation, or initial enrollment, in the program for advanced training, a person must—(1) be a citizen of the United States;
+
+(2) be selected for advanced training under procedures prescribed by the Secretary of the military department concerned;
+
+(3) enlist in an armed force under the jurisdiction of the Secretary of the military department concerned for the period prescribed by the Secretary;
+
+(4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program;
+
+(5) agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, and that he will serve in the armed forces for the period prescribed by the Secretary;
+
+(6) either—(A) complete successfully—(i) the first two years of a four-year Senior Reserve Officers’ Training Corps course; or
+
+(ii) field training or a practice cruise of a duration which is prescribed by the Secretary concerned as a preliminary requirement for admission to the advanced course; or
+
+
+(B) at the discretion of the Secretary concerned, agree in writing to complete field training or a practice cruise, as prescribed by the Secretary concerned, within two years after admission to the advanced course; and
+
+
+(7) execute a certificate of loyalty in such form as the Secretary of Defense prescribes or take a loyalty oath as prescribed by the Secretary.
+
+
+(c) A member of the program who is ineligible under subsection (b) for advanced training shall be released from the program.
+
+(d) This section does not apply to cadets and midshipmen appointed under section 2</akn:p></akn:content><akn:subsection eId="subsec_2104_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Advanced training shall be provided to eligible members of the program and, if the institution concerned so requests, to eligible applicants for membership in the program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2104_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) To be eligible for continuation, or initial enrollment, in the program for advanced training, a person must—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2104_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) A member of the program who is ineligible under subsection (b) for advanced training shall be released from the program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2104_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) This section does not apply to cadets and midshipmen appointed under section 2107, or foreign students enrolled under section 2103(b), of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

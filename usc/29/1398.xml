@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1398" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1398/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1398/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1398"><akn:num>1398</akn:num><akn:heading>Withdrawal not to occur because of change in business form or suspension of contributions during lab</akn:heading><akn:content><akn:p>§ 1398. Withdrawal not to occur because of change in business form or suspension of contributions during labor dispute
+Notwithstanding any other provision of this part, an employer shall not be considered to have withdrawn from a plan solely because—(1) an employer ceases to exist by reason of—(A) a change in corporate structure described in section 1369(b) of this title, or
+
+(B) a change to an unincorporated form of business enterprise,
+
+
+if the change causes no interruption in employer contributions or obligations to contribute under the plan, or
+
+(2) an employer suspends contributions under the plan during a labor dispute involving its employees.
+
+
+For purposes of this part, a successor or parent corporation or other entity resulting from any such change shall be considered the original employer.
+(Pub. L. 93–406, title IV, § 4218, as added Pub. L. 96–364, title I, § 104(2), Sept. 26, 1980, 94 Stat. 1236; amended Pub. L. 99–514, title XVIII, § 1879(u)(4), as added Pub. L. 101–239, title VII, § 7862(b)(1)(C), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 101–239, title VII, § 7893(f), Dec. 19, 1989, 103 Stat. 2447.)
+
+Editorial Notes
+Amendments1989—Par. (1)(A). Pub. L. 101–239, § 7893(f), made identical amendment to that of Pub. L. 99–514, § 1879(u)(4), as added by Pub. L. 101–239, § 7862(b)(1)(C), see below.
+Pub. L. 101–239, § 7862(b)(1)(C), added Pub. L. 99–514, § 1879(u)(4), see 1986 Amendment note below.
+1986—Par. (1)(A). Pub. L. 99–514, § 1879(u)(4), as added by Pub. L. 101–239, § 7862(b)(1)(C), substituted “section 1369(b) of this title” for “section 1362(d) of this title”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1989 AmendmentAmendment by section 7862(b)(1)(C) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under section 106 of Title 26, Internal Revenue Code.
+Amendment by section 7893(f) of Pub. L. 1</akn:p></akn:content><akn:subsection eId="subsec_1398_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) an employer ceases to exist by reason of— if the change causes no interruption in employer contributions or obligations to contribute under the plan, or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1398_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) an employer suspends contributions under the plan during a labor dispute involving its employees.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

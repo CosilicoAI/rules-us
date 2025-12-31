@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/382" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/382/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/382/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_382"><akn:num>382</akn:num><akn:heading>Vessels excepted from radiotelephone requirement</akn:heading><akn:content><akn:p>§ 382. Vessels excepted from radiotelephone requirement
+The provisions of this part shall not apply to—(1) vessels which are equipped with a radio installation in accordance with the provisions of part II of this subchapter, or in accordance with the radio requirements of the Safety Convention; and
+
+(2) vessels of the United States belonging to and operated by the Government, and
+
+(3) vessels navigating on the Great Lakes.
+
+(June 19, 1934, ch. 652, title III, § 382, as added Aug. 6, 1956, ch. 973, § 1, 70 Stat. 1048; amended Pub. L. 103–414, title III, § 303(a)(20)(B), Oct. 25, 1994, 108 Stat. 4295; Pub. L. 104–104, title IV, § 403(h)(2), Feb. 8, 1996, 110 Stat. 131.)
+
+Editorial Notes
+
+References in TextPart II of this subchapter, referred to in par. (1), is classified to section 351 et seq. of this title.
+
+Amendments1996—Par. (2). Pub. L. 104–104 struck out “except a vessel of the United States Maritime Administration, the Inland and Coastwise Waterways Service, or the Panama Canal Company,” after “the Government,”.
+1994—Pub. L. 103–414 inserted section catchline.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Mar. 1, 1957, see section 4 of act Aug. 6, 1956, set out as a note under section 381 of this title.</akn:p></akn:content><akn:subsection eId="subsec_382_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) vessels which are equipped with a radio installation in accordance with the provisions of part II of this subchapter, or in accordance with the radio requirements of the Safety Convention; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_382_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) vessels of the United States belonging to and operated by the Government, and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_382_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) vessels navigating on the Great Lakes.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

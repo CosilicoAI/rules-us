@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/7705" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/7705/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/7705/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7705"><akn:num>7705</akn:num><akn:heading>Application for payments under sections 7702 and 7703 of this title</akn:heading><akn:content><akn:p>§ 7705. Application for payments under sections 7702 and 7703 of this title(a) In generalA local educational agency desiring to receive a payment under section 7702 or 7703 of this title shall—(1) submit an application for such payment to the Secretary; and
+
+(2) provide a copy of such application to the State educational agency.
+
+
+(b) ContentsEach such application shall be submitted in such form and manner as the Secretary may require, including—(1) information to determine the eligibility of the local educational agency for a payment and the amount of such payment; and
+
+(2) where applicable, an assurance that such agency is in compliance with section 7704 of this title (relating to children residing on Indian lands).
+
+
+(c) Deadline for submissionThe Secretary shall establish deadlines for the submission of applications under this section.
+
+
+(d) Approval(1) In generalThe Secretary shall approve an application submitted under this section that—(A) except as provided in paragraph (2), is filed by the deadline established under subsection (c); and
+
+(B) otherwise meets the requirements of this subchapter.
+
+
+(2) Reduction in paymentThe Secretary shall approve an application filed not more than 60 days after a deadline established under subsection (c), or not more than 60 days after the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be, that otherwise meets the requirements of this subchapter, except that, notwithstanding section 7703(e) of this title, the Secretary shall reduce the payment based on such late application by 10 percent of the amount that would otherwise be paid.
+
+
+(3) Late applications(A) NoticeThe Secretary shall, as soon as practicable after the deadline established under subsection (c), provide to each local educational agency that applied for a payment under section 7702 or 7703 of this title for the prior fiscal year, and with respect to which the Secretary has not receive</akn:p></akn:content><akn:subsection eId="subsec_7705_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general A local educational agency desiring to receive a payment under section 7702 or 7703 of this title shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7705_b"><akn:num>(b)</akn:num><akn:heading>Contents</akn:heading><akn:content><akn:p>(b) Contents Each such application shall be submitted in such form and manner as the Secretary may require, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7705_c"><akn:num>(c)</akn:num><akn:heading>Deadline for submission</akn:heading><akn:content><akn:p>(c) Deadline for submission The Secretary shall establish deadlines for the submission of applications under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7705_d"><akn:num>(d)</akn:num><akn:heading>Approval</akn:heading><akn:content><akn:p>(d) Approval</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

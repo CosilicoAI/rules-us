@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/30702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/30702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/30702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30702"><akn:num>30702</akn:num><akn:heading>Foreign contract limitation</akn:heading><akn:content><akn:p>§ 30702. Foreign contract limitation
+The Administration shall not enter into any agreement or contract with a foreign government that grants the foreign government the right to recover profit in the event that the agreement or contract is terminated.
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3371.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3070242 U.S.C. 2475b.Pub. L. 106–391, title III, § 305, Oct. 30, 2000, 114 Stat. 1592.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/345" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/345/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/345/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_345"><akn:num>345</akn:num><akn:heading>Protection of survivors of domestic violence, human trafficking, and related crimes</akn:heading><akn:content><akn:p>§ 345. Protection of survivors of domestic violence, human trafficking, and related crimes(a) DefinitionsIn this section:(1) AbuserThe term “abuser” means an individual who has committed or allegedly committed a covered act against—(A) an individual who seeks relief under subsection (b); or
+
+(B) an individual in the care of an individual who seeks relief under subsection (b).
+
+
+(2) Covered act(A) In generalThe term “covered act” means conduct that constitutes—(i) a crime described in section 12291(a)of title 34, including domestic violence, dating violence, sexual assault, stalking, and sex trafficking;
+
+(ii) an act or practice described in paragraph (11) or (12) of section 7102 of title 22 (relating to severe forms of trafficking in persons and sex trafficking, respectively); or
+
+(iii) an act under State law, Tribal law, or the Uniform Code of Military Justice that is similar to an offense described in clause (i) or (ii).
+
+
+(B) Conviction not requiredNothing in subparagraph (A) shall be construed to require a criminal conviction or any other determination of a court in order for conduct to constitute a covered act.
+
+
+
+(3) Covered providerThe term “covered provider” means a provider of a private mobile service or commercial mobile service, as those terms are defined in section 332(d) of this title.
+
+
+(4) Primary account holderThe term “primary account holder” means an individual who is a party to a mobile service contract with a covered provider.
+
+
+(5) Shared mobile service contractThe term “shared mobile service contract”—(A) means a mobile service contract for an account that includes not less than 2 consumers; and
+
+(B) does not include enterprise services offered by a covered provider.
+
+
+(6) SurvivorThe term “survivor” means an individual who is not less than 18 years old and—(A) against whom a covered act has been committed or allegedly committed; or
+
+(B) who cares for another individual against whom a covered act has been committed or allegedly committed (provi</akn:p></akn:content><akn:subsection eId="subsec_345_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_345_b"><akn:num>(b)</akn:num><akn:heading>Separation of lines from shared mobile service contract</akn:heading><akn:content><akn:p>(b) Separation of lines from shared mobile service contract</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_345_c"><akn:num>(c)</akn:num><akn:heading>Line separation request</akn:heading><akn:content><akn:p>(c) Line separation request</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_345_d"><akn:num>(d)</akn:num><akn:heading>Confidential and secure treatment of personal information</akn:heading><akn:content><akn:p>(d) Confidential and secure treatment of personal information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_345_e"><akn:num>(e)</akn:num><akn:heading>Availability of information to consumers</akn:heading><akn:content><akn:p>(e) Availability of information to consumers A covered provider shall make information about the options and process described in subsections (b) and (c) readily available to consumers—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_345_f"><akn:num>(f)</akn:num><akn:heading>Technical infeasibility</akn:heading><akn:content><akn:p>(f) Technical infeasibility</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_345_g"><akn:num>(g)</akn:num><akn:heading>Liability protection</akn:heading><akn:content><akn:p>(g) Liability protection</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

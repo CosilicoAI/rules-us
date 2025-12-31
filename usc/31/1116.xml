@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/1116" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/1116/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/1116/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1116"><akn:num>1116</akn:num><akn:heading>Agency performance reporting</akn:heading><akn:content><akn:p>§ 1116. Agency performance reporting(a) The head of each agency shall make available on a public website of the agency and to the Office of Management and Budget an update on agency performance.
+
+(b)(1) Each update shall compare actual performance achieved with the performance goals established in the agency performance plan under section 1115(b) and shall occur not later than 150 days after the end of each fiscal year, with more frequent updates of actual performance on indicators that provide data of significant value to the Government, Congress, or program partners at a reasonable level of administrative burden.
+
+(2) If performance goals are specified in an alternative form under section 1115(c), the results shall be described in relation to such specifications, including whether the performance failed to meet the criteria of a minimally effective or successful program.
+
+
+(c) Each update shall—(1) review the success of achieving the performance goals and include actual results for the 5 preceding fiscal years;
+
+(2) evaluate the performance plan for the current fiscal year relative to the performance achieved toward the performance goals during the period covered by the update;
+
+(3) explain and describe where a performance goal has not been met (including when a program activity’s performance is determined not to have met the criteria of a successful program activity under section 1115(c)(1)(A)(ii) or a corresponding level of achievement if another alternative form is used)—(A) why the goal was not met;
+
+(B) those plans and schedules for achieving the established performance goal; and
+
+(C) if the performance goal is impractical or infeasible, why that is the case and what action is recommended;
+
+
+(4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 of this title;
+
+(5) include a review of the performance goals and evaluation of the performance plan relative to the agency’s strategic human capital manageme</akn:p></akn:content><akn:subsection eId="subsec_1116_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The head of each agency shall make available on a public website of the agency and to the Office of Management and Budget an update on agency performance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Each update shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) If an agency performance update includes any program activity or information that is specifically authorized under criteria established by an Executive Order to be kept secret in the interest of national defense or foreign policy and is properly classified pursuant to such Executive Order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1116_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) The functions and activities of this section shall be considered to be inherently governmental functions. The drafting of agency performance updates under this section shall be performed only by Federal employees.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

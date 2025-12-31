@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/4305" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/4305/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/4305/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4305"><akn:num>4305</akn:num><akn:heading>Exemptions and equivalents</akn:heading><akn:content><akn:p>§ 4305. Exemptions and equivalents(a) Exemptions.—If the Secretary considers that recreational vessel safety will not be adversely affected, the Secretary may issue an exemption from this chapter or a regulation prescribed under this chapter.
+
+(b) Equivalents.—The Secretary may accept a substitution for associated equipment performance or other safety standards for a recreational vessel if the substitution provides an equivalent level of safety.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 531; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8318(a), Jan. 1, 2021, 134 Stat. 4700.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+430546:1458
+
+
+Section 4305 permits the Secretary to grant appropriate exemptions from the requirements of this chapter when recreational vessel safety will not be adversely affected.
+
+Editorial Notes
+Amendments2021—Pub. L. 116–283 substituted “Exemptions and equivalents” for “Exemptions” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).</akn:p></akn:content><akn:subsection eId="subsec_4305_a"><akn:num>(a)</akn:num><akn:heading>Exemptions.—</akn:heading><akn:content><akn:p>(a) If the Secretary considers that recreational vessel safety will not be adversely affected, the Secretary may issue an exemption from this chapter or a regulation prescribed under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4305_b"><akn:num>(b)</akn:num><akn:heading>Equivalents.—</akn:heading><akn:content><akn:p>(b) The Secretary may accept a substitution for associated equipment performance or other safety standards for a recreational vessel if the substitution provides an equivalent level of safety.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/14112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/14112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/14112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_14112"><akn:num>14112</akn:num><akn:heading>Dissemination of names of officers selected</akn:heading><akn:content><akn:p>§ 14112. Dissemination of names of officers selected(a) Time for Dissemination.—The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:(1) In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
+
+(2) In the case of officers recommended for promotion to a grade above colonel or, in the case of the Navy, captain, such names may be disseminated upon, or at any time after, the approval of the report by the President.
+
+(3) In the case of officers whose names have not been sooner disseminated, such names shall be promptly disseminated—(A) upon confirmation of the promotion of the officers by the Senate (in the case of promotions required to be submitted to the Senate for confirmation); or
+
+(B) upon the approval of the report by the President (in the case of promotions not required to be submitted to the Senate for confirmation).
+
+
+
+(b) Names Not Disseminated.—A list of names of officers disseminated under subsection (a) may not include—(1) any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of paragraph (2) or (3)(B) of that subsection; or
+
+(2) the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of paragraph (3)(A) of that subsection.
+
+
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2930; amended Pub. L. 106–398, § 1 [[div. A], title V, § 503(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–101.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 5898(d) of this title, prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+
+Amendments2000—Pub. L. 106–398 amended text generally. Prior to amendment, text read as f</akn:p></akn:content><akn:subsection eId="subsec_14112_a"><akn:num>(a)</akn:num><akn:heading>Time for Dissemination.—</akn:heading><akn:content><akn:p>(a) The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14112_b"><akn:num>(b)</akn:num><akn:heading>Names Not Disseminated.—</akn:heading><akn:content><akn:p>(b) A list of names of officers disseminated under subsection (a) may not include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/44504" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/44504/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/44504/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_44504"><akn:num>44504</akn:num><akn:heading>Improved aircraft, aircraft engines, propellers, and appliances</akn:heading><akn:content><akn:p>§ 44504. Improved aircraft, aircraft engines, propellers, and appliances(a) Developmental Work and Service Testing.—The Administrator of the Federal Aviation Administration may conduct or supervise developmental work and service testing to improve aircraft, aircraft engines, propellers, and appliances.
+
+(b) Research.—The Administrator shall conduct or supervise research—(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigue on the life of aircraft, including nonstructural aircraft systems, and air safety;
+
+(2) to develop methods of analyzing and improving aircraft maintenance technology and practices, including nondestructive evaluation of aircraft structures;
+
+(3) to assess the fire and smoke resistance of aircraft material;
+
+(4) to develop improved fire and smoke resistant material for aircraft interiors;
+
+(5) to develop and improve fire and smoke containment systems for inflight aircraft fires;
+
+(6) to develop advanced aircraft fuels with low flammability and technologies that will contain aircraft fuels to minimize post-crash fire hazards;
+
+(7) to develop technologies and methods to assess the risk of and prevent defects, failures, and malfunctions of products, parts, processes, and articles manufactured for use in aircraft, aircraft engines, propellers, and appliances that could result in a catastrophic failure of an aircraft; and
+
+(8) in conjunction with other Federal agencies, as appropriate, to develop technologies and methods to assess the risk of and prevent defects, failures, and malfunctions of products, parts, and processes for use in all classes of unmanned aircraft systems that could result in a catastrophic failure of the unmanned aircraft that would endanger other aircraft in the national airspace system.
+
+
+(c) Authority To Buy Items Offering Special Advantages.—In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental</akn:p></akn:content><akn:subsection eId="subsec_44504_a"><akn:num>(a)</akn:num><akn:heading>Developmental Work and Service Testing.—</akn:heading><akn:content><akn:p>(a) The Administrator of the Federal Aviation Administration may conduct or supervise developmental work and service testing to improve aircraft, aircraft engines, propellers, and appliances.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44504_b"><akn:num>(b)</akn:num><akn:heading>Research.—</akn:heading><akn:content><akn:p>(b) The Administrator shall conduct or supervise research—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44504_c"><akn:num>(c)</akn:num><akn:heading>Authority To Buy Items Offering Special Advantages.—</akn:heading><akn:content><akn:p>(c) In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

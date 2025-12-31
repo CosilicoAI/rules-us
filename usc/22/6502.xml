@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/6502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/6502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/6502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6502"><akn:num>6502</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6502. Definitions
+In this chapter:(1) ACDAThe term “ACDA” means the United States Arms Control and Disarmament Agency.
+
+
+(2) AIDThe term “AID” means the United States Agency for International Development.
+
+
+(3) Agency; Federal agencyThe term “agency” or “Federal agency” means an Executive agency as defined in section 105 of title 5.
+
+
+(4) Appropriate congressional committeesThe term “appropriate congressional committees” means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+
+
+(5) Covered agencyThe term “covered agency” means any of the following agencies: ACDA, USIA, IDCA, and AID.
+
+
+(6) DepartmentThe term “Department” means the Department of State.
+
+
+(7) FunctionThe term “function” means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.
+
+
+(8) IDCAThe term “IDCA” means the United States International Development Cooperation Agency.
+
+
+(9) OfficeThe term “office” includes any office, administration, agency, institute, unit, organizational entity, or component thereof.
+
+
+(10) SecretaryThe term “Secretary” means the Secretary of State.
+
+
+(11) USIAThe term “USIA” means the United States Information Agency.
+
+
+(Pub. L. 105–277, div. G, subdiv. A, title XI, § 1103, Oct. 21, 1998, 112 Stat. 2681–766.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by H</akn:p></akn:content><akn:subsection eId="subsec_6502_1"><akn:num>(1)</akn:num><akn:heading>ACDA</akn:heading><akn:content><akn:p>(1) ACDA The term “ACDA” means the United States Arms Control and Disarmament Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_2"><akn:num>(2)</akn:num><akn:heading>AID</akn:heading><akn:content><akn:p>(2) AID The term “AID” means the United States Agency for International Development.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_3"><akn:num>(3)</akn:num><akn:heading>Agency; Federal agency</akn:heading><akn:content><akn:p>(3) Agency; Federal agency The term “agency” or “Federal agency” means an Executive agency as defined in section 105 of title 5.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_4"><akn:num>(4)</akn:num><akn:heading>Appropriate congressional committees</akn:heading><akn:content><akn:p>(4) Appropriate congressional committees The term “appropriate congressional committees” means the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_5"><akn:num>(5)</akn:num><akn:heading>Covered agency</akn:heading><akn:content><akn:p>(5) Covered agency The term “covered agency” means any of the following agencies: ACDA, USIA, IDCA, and AID.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_6"><akn:num>(6)</akn:num><akn:heading>Department</akn:heading><akn:content><akn:p>(6) Department The term “Department” means the Department of State.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_7"><akn:num>(7)</akn:num><akn:heading>Function</akn:heading><akn:content><akn:p>(7) Function The term “function” means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_8"><akn:num>(8)</akn:num><akn:heading>IDCA</akn:heading><akn:content><akn:p>(8) IDCA The term “IDCA” means the United States International Development Cooperation Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_9"><akn:num>(9)</akn:num><akn:heading>Office</akn:heading><akn:content><akn:p>(9) Office The term “office” includes any office, administration, agency, institute, unit, organizational entity, or component thereof.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6502_10"><akn:num>(10)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(10) Secretary The term “Secretary” means the Secretary of State.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8432a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8432a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8432a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8432a"><akn:num>8432a</akn:num><akn:heading>Payment of lost earnings</akn:heading><akn:content><akn:p>§ 8432a. Payment of lost earnings(a)(1) The Executive Director shall prescribe regulations under which an employing agency shall be required to pay to the Thrift Savings Fund amounts representing lost earnings resulting from errors (including errors of omission) made by such agency in carrying out this subchapter, subject to paragraph (2).
+
+(2) If the error involves an employing agency’s failure to deduct from basic pay contributions (in whole or in part) on behalf of an individual in accordance with section 8432(a), the regulations shall not provide for the payment of any lost earnings which would be attributable to—(A) the contributions that the agency failed to deduct from basic pay in accordance with section 8432(a); or
+
+(B) any related contributions under section 8432(c)(2) that the employing agency is not required (by statute or otherwise) to make up.
+
+
+
+(b) The regulations—(1) shall include—(A) procedures for computing lost earnings; and
+
+(B) procedures under which amounts paid to the Thrift Savings Fund under this section shall be credited to appropriate accounts;
+
+
+(2) may provide for exceptions from the requirements of this section to the extent that correction of an error is not administratively feasible;
+
+(3) may require an employing agency to reimburse the Thrift Savings Fund for costs incurred by the Thrift Savings Fund in implementing corrections of employing agency errors under this section; and
+
+(4) may include such other provisions as the Executive Director determines appropriate to carry out this section.
+
+
+(c) Any amounts required to be paid by an employing agency under this section shall be paid from the appropriation or fund available to the employing agency for payment of salaries of the participant’s office or establishment. If a participant in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives</akn:p></akn:content><akn:subsection eId="subsec_8432a_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8432a_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The regulations—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8432a_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Any amounts required to be paid by an employing agency under this section shall be paid from the appropriation or fund available to the employing agency for payment of salaries of the participant’s office or establishment. If a participant in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the amount required to be paid to correct errors relating to the Thrift Savings Fund that otherwise would be paid from the appropriation or fund used to pay the participant.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

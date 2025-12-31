@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/2505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/2505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/2505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2505"><akn:num>2505</akn:num><akn:heading>Research and development</akn:heading><akn:content><akn:p>§ 2505. Research and development
+The Secretary of Energy, acting through appropriate agencies and contractors, shall initiate and provide for the conduct of research and development in areas related to electric and hybrid vehicles, including—(1) energy storage technology, including batteries and their potential for convenient recharging;
+
+(2) vehicle control systems and overall design for energy conservation, including the use of regenerative braking;
+
+(3) urban design and traffic management to promote maximum transportation-related energy conservation and minimum transportation-related degradation of the environment; and
+
+(4) vehicle design which emphasizes durability, length of practical lifetime, ease of repair, and interchangeability and replace­ability of parts.
+
+(Pub. L. 94–413, § 6, Sept. 17, 1976, 90 Stat. 1263; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions
+“Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.</akn:p></akn:content><akn:subsection eId="subsec_2505_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) energy storage technology, including batteries and their potential for convenient recharging;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2505_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) vehicle control systems and overall design for energy conservation, including the use of regenerative braking;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2505_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) urban design and traffic management to promote maximum transportation-related energy conservation and minimum transportation-related degradation of the environment; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2505_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) vehicle design which emphasizes durability, length of practical lifetime, ease of repair, and interchangeability and replace­ability of parts.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

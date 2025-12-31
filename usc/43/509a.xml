@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/509a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/509a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/509a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_509a"><akn:num>509a</akn:num><akn:heading>Project beneficiaries</akn:heading><akn:content><akn:p>§ 509a. Project beneficiaries(a) Notice of modificationOn identifying a Bureau of Reclamation facility for modification, the Secretary shall provide to the project beneficiaries written notice—(1) describing the need for the modification and the process for identifying and implementing the modification; and
+
+(2) summarizing the administrative and legal requirements relating to the modification.
+
+
+(b) ConsultationThe Secretary shall—(1) provide project beneficiaries an opportunity to consult with the Bureau of Reclamation on the planning, design, and construction of the proposed modification; and
+
+(2) in consultation with project beneficiaries, develop and provide timeframes for the consultation described in paragraph (1).
+
+
+(c) Alternatives(1) Prior to submitting the reports required under section 509 of this title, the Secretary shall consider any alternative submitted in writing, in accordance with the timeframes established under subsection (b), by a project beneficiary that has elected to consult with the Bureau of Reclamation on a modification.
+
+(2) The Secretary shall provide to the project beneficiary a timely written response describing proposed actions, if any, to address the recommendation.
+
+(3) The response of the Secretary shall be included in the reports required by section 509 of this title.
+
+
+(d) WaiverThe Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c), if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
+
+
+(Pub. L. 95–578, § 5A, as added Pub. L. 108–439, § 2(b), Dec. 3, 2004, 118 Stat. 2627.)</akn:p></akn:content><akn:subsection eId="subsec_509a_a"><akn:num>(a)</akn:num><akn:heading>Notice of modification</akn:heading><akn:content><akn:p>(a) Notice of modification On identifying a Bureau of Reclamation facility for modification, the Secretary shall provide to the project beneficiaries written notice—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_509a_b"><akn:num>(b)</akn:num><akn:heading>Consultation</akn:heading><akn:content><akn:p>(b) Consultation The Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_509a_c"><akn:num>(c)</akn:num><akn:heading>Alternatives</akn:heading><akn:content><akn:p>(c) Alternatives</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_509a_d"><akn:num>(d)</akn:num><akn:heading>Waiver</akn:heading><akn:content><akn:p>(d) Waiver The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c), if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

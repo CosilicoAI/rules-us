@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/161" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/161/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/161/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_161"><akn:num>161</akn:num><akn:heading>Regulatory reform</akn:heading><akn:content><akn:p>§ 161. Regulatory reform(a) Biennial review of regulationsIn every even-numbered year (beginning with 1998), the Commission—(1) shall review all regulations issued under this chapter in effect at the time of the review that apply to the operations or activities of any provider of telecommunications service; and
+
+(2) shall determine whether any such regulation is no longer necessary in the public interest as the result of meaningful economic competition between providers of such service.
+
+
+(b) Effect of determinationThe Commission shall repeal or modify any regulation it determines to be no longer necessary in the public interest.
+
+
+(June 19, 1934, ch. 652, title I, § 11, as added Pub. L. 104–104, title IV, § 402(a), Feb. 8, 1996, 110 Stat. 129.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.</akn:p></akn:content><akn:subsection eId="subsec_161_a"><akn:num>(a)</akn:num><akn:heading>Biennial review of regulations</akn:heading><akn:content><akn:p>(a) Biennial review of regulations In every even-numbered year (beginning with 1998), the Commission—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_161_b"><akn:num>(b)</akn:num><akn:heading>Effect of determination</akn:heading><akn:content><akn:p>(b) Effect of determination The Commission shall repeal or modify any regulation it determines to be no longer necessary in the public interest.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/34" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/34/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/34/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_34"><akn:num>34</akn:num><akn:heading>Definitions applicable to sections 34 to 36</akn:heading><akn:content><akn:p>§ 34. Definitions applicable to sections 34 to 36
+For purposes of sections 34 to 36 of this title—(1) the term “local government” means—(A) a city, county, parish, town, township, village, or any other general function governmental unit established by State law, or
+
+(B) a school district, sanitary district, or any other special function governmental unit established by State law in one or more States,
+
+
+(2) the term “person” has the meaning given it in subsection (a) of the first section of the Clayton Act [15 U.S.C. 12(a)], but does not include any local government as defined in paragraph (1) of this section, and
+
+(3) the term “State” has the meaning given it in section 4G(2) of the Clayton Act (15 U.S.C. 15g(2)).
+
+(Pub. L. 98–544, § 2, Oct. 24, 1984, 98 Stat. 2750.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 98–544, § 6, Oct. 24, 1984, 98 Stat. 2751, provided that: “This Act [enacting this section, sections 35 and 36 of this title, and provisions set out as a note under section 1 of this title] shall take effect thirty days before the date of the enactment of this Act [Oct. 24, 1984].”</akn:p></akn:content><akn:subsection eId="subsec_34_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “local government” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_34_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “person” has the meaning given it in subsection (a) of the first section of the Clayton Act [15 U.S.C. 12(a)], but does not include any local government as defined in paragraph (1) of this section, and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_34_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “State” has the meaning given it in section 4G(2) of the Clayton Act (15 U.S.C. 15g(2)).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

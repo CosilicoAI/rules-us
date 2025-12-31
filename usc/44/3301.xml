@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3301"><akn:num>3301</akn:num><akn:heading>Definition of records</akn:heading><akn:content><akn:p>§ 3301. Definition of records(a) Records Defined.—(1) In general.—As used in this chapter, the term “records”—(A) includes all recorded information, regardless of form or characteristics, made or received by a Federal agency under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the United States Government or because of the informational value of data in them; and
+
+(B) does not include—(i) library and museum material made or acquired and preserved solely for reference or exhibition purposes; or
+
+(ii) duplicate copies of records preserved only for convenience.
+
+
+
+(2) Recorded information defined.—For purposes of paragraph (1), the term “recorded information” includes all traditional forms of records, regardless of physical form or characteristics, including information created, manipulated, communicated, or stored in digital or electronic form.
+
+
+(b) Determination of Definition.—The Archivist’s determination whether recorded information, regardless of whether it exists in physical, digital, or electronic form, is a record as defined in subsection (a) shall be binding on all Federal agencies.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1299; Pub. L. 94–575, § 4(c)(2), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 113–187, § 5(a), Nov. 26, 2014, 128 Stat. 2009.)
+
+Historical and Revision NotesBased on 44 U.S. Code, 1964 ed., § 366 (July 7, 1943, ch. 192, § 1, 57 Stat. 380).
+
+Editorial Notes
+Amendments2014—Pub. L. 113–187 amended section generally. Prior to amendment, text read as follows: “As used in this chapter, ‘records’ includes all books, papers, maps, photographs, machine readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in c</akn:p></akn:content><akn:subsection eId="subsec_3301_a"><akn:num>(a)</akn:num><akn:heading>Records Defined.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3301_b"><akn:num>(b)</akn:num><akn:heading>Determination of Definition.—</akn:heading><akn:content><akn:p>(b) The Archivist’s determination whether recorded information, regardless of whether it exists in physical, digital, or electronic form, is a record as defined in subsection (a) shall be binding on all Federal agencies.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

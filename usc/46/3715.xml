@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/3715" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/3715/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/3715/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3715"><akn:num>3715</akn:num><akn:heading>Lightering</akn:heading><akn:content><akn:p>§ 3715. Lightering(a) A vessel may transfer oil or hazardous material in a port or place subject to the jurisdiction of the United States, when the cargo has been transferred from another vessel on the navigable waters of the United States or in the marine environment, only if—(1) the transfer was conducted consistent with regulations prescribed by the Secretary;
+
+(2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States;
+
+(3) the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
+
+(4) the delivering and the receiving vessel had on board at the time of transfer, evidence that each vessel is operating in compliance with section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)); and
+
+(5) the delivering and the receiving vessel are operating in compliance with section 3703a of this title.
+
+
+(b) The Secretary shall prescribe regulations to carry out subsection (a) of this section. The regulations shall include provisions on—(1) minimum safe operating conditions, including sea state, wave height, weather, proximity to channels or shipping lanes, and other similar factors;
+
+(2) the prevention of spills;
+
+(3) equipment for responding to a spill;
+
+(4) the prevention of any unreasonable interference with navigation or other reasonable uses of the high seas, as those uses are defined by treaty, convention, or customary international law;
+
+(5) the establishment of lightering zones; and
+
+(6) requirements for communication and prearrival messages.
+
+
+(Pub. L. 98–89, Aug. 26, 1983</akn:p></akn:content><akn:subsection eId="subsec_3715_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A vessel may transfer oil or hazardous material in a port or place subject to the jurisdiction of the United States, when the cargo has been transferred from another vessel on the navigable waters of the United States or in the marine environment, only if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3715_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary shall prescribe regulations to carry out subsection (a) of this section. The regulations shall include provisions on—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

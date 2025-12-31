@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/70" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/70/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/70/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70"><akn:num>70</akn:num><akn:heading>Obstruction of revenue officers by masters of vessels</akn:heading><akn:content><akn:p>§ 70. Obstruction of revenue officers by masters of vessels
+If the master of any vessel shall obstruct or hinder, or shall intentionally cause any obstruction or hindrance to any officer in lawfully going on board such vessel, for the purpose of carrying into effect any of the revenue or navigation laws of the United States, he shall for every such offense be liable to a penalty of not more than $2,000 nor less than $500.
+(R.S. § 3068; Aug. 5, 1935, ch. 438, title III, § 307, 49 Stat. 528.)
+
+Editorial Notes
+Codification
+R.S. § 3068 derived from act Mar. 2, 1799, ch. 22, § 71, 1 Stat. 678.
+
+Amendments1935—Act Aug. 5, 1935, inserted reference to navigation laws, and increased penalty from $500 and $50 to $2,000 and $500, respectively.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

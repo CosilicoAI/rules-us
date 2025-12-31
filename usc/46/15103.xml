@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/15103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/15103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/15103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15103"><akn:num>15103</akn:num><akn:heading>National Merchant Marine Personnel Advisory Committee</akn:heading><akn:content><akn:p>§ 15103. National Merchant Marine Personnel Advisory Committee(a) Establishment.—There is established a National Merchant Marine Personnel Advisory Committee (in this section referred to as the “Committee”).
+
+(b) Function.—The Committee shall advise the Secretary on matters relating to personnel in the United States merchant marine, including the training, qualifications, certification, documentation, and fitness of mariners.
+
+(c) Membership.—(1) In general.—The Committee shall consist of 19 members appointed by the Secretary in accordance with this section and section 15109 of this chapter.
+
+(2) Expertise.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+(3) Representation.—Members of the Committee shall be appointed as follows:(A) 9 members shall represent mariners and, of the 9—(i) each shall—(I) be a citizen of the United States; and
+
+(II) hold an active license or certificate issued under chapter 71 of this title or a merchant mariner document issued under chapter 73 of this title;
+
+
+(ii) 3 shall be deck officers who represent merchant marine deck officers and, of the 3—(I) 2 shall be licensed for oceans any gross tons;
+
+(II) 1 shall be licensed for inland river route with a limited or unlimited tonnage;
+
+(III) 2 shall have a master’s license or a master of towing vessels license;
+
+(IV) 1 shall have significant tanker experience; and
+
+(V) to the extent practicable—(aa) 1 shall represent labor; and
+
+(bb) 1 shall represent management;
+
+
+
+(iii) 3 shall be engineering officers who represent merchant marine engineering officers and, of the 3—(I) 2 shall be licensed as chief engineer any horsepower;
+
+(II) 1 shall be licensed as either a limited chief engineer or a designated duty engineer; and
+
+(III) to the extent practicable—(aa) 1 shall represent labor; and
+
+(bb) 1 shall represent management;
+
+
+
+(iv) 2 shall be unlicensed seamen who represent merchant marine unlicensed sea</akn:p></akn:content><akn:subsection eId="subsec_15103_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is established a National Merchant Marine Personnel Advisory Committee (in this section referred to as the “Committee”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15103_b"><akn:num>(b)</akn:num><akn:heading>Function.—</akn:heading><akn:content><akn:p>(b) The Committee shall advise the Secretary on matters relating to personnel in the United States merchant marine, including the training, qualifications, certification, documentation, and fitness of mariners.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15103_c"><akn:num>(c)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

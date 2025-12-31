@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/37/101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/37/101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/37/101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101"><akn:num>101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 101. Definitions
+In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:(1)(A) The term “United States”, in a geographic sense, means the States and the District of Columbia.
+
+(B) The term “continental United States” means the 48 contiguous States and the District of Columbia.
+
+
+(2) The term “possessions” includes Guam, American Samoa, and the guano islands.
+
+(3) The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.
+
+(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force,and Coast Guard.
+
+(5) The term “Secretary concerned” means—(A) the Secretary of the Army, with respect to matters concerning the Army;
+
+(B) the Secretary of the Navy, with respect to matters concerning the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy;
+
+(C) the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force;
+
+(D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy;
+
+(E) the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration; and
+
+(F) the Secretary of Health and Human Services, with respect to matters concerning the Public Health Service.
+
+
+(6) The term “National Guard” means the Army National Guard and the Air National Guard.
+
+(7) The term “Army National Guard” means that part of the organized militia of the several States, Puerto Rico, Guam, the Canal Zone, the Virgin Islands, and the District of Columbia, active and inactive, that—(A) is a land force;
+
+(B) is trained, and has its officers appointed, under the sixteenth clause of section 8, article I, of the Constitution;
+
+(C) is organized, armed, and equipped wholly or partly at Federal expense; and
+
+(D) is f</akn:p></akn:content><akn:subsection eId="subsec_101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “possessions” includes Guam, American Samoa, and the guano islands.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force,and Coast Guard.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The term “Secretary concerned” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The term “National Guard” means the Army National Guard and the Air National Guard.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The term “Army National Guard” means that part of the organized militia of the several States, Puerto Rico, Guam, the Canal Zone, the Virgin Islands, and the District of Columbia, active and inactive, that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) The term “Army National Guard of the United States” means the reserve component of the Army all of whose members are members of the Army National Guard.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_9"><akn:num>(9)</akn:num><akn:content><akn:p>(9) The term “Air National Guard” means that part of the organized militia of the several States, Puerto Rico, Guam, the Canal Zone, the Virgin Islands, and the District of Columbia, active and inactive, that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101_10"><akn:num>(10)</akn:num><akn:content><akn:p>(10) The term “Air National Guard of the United States” means the reserve component of the Air Force all of whose members are members of the Air National Guard.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

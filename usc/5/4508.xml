@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/4508" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/4508/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/4508/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4508"><akn:num>4508</akn:num><akn:heading>Limitation of awards during a Presidential election year</akn:heading><akn:content><akn:p>§ 4508. Limitation of awards during a Presidential election year(a) For purposes of this section, the term—(1) “Presidential election period” means any period beginning on June 1 in a calendar year in which the popular election of the President occurs, and ending on January 20 following the date of such election; and
+
+(2) “senior politically appointed officer” means any officer who during a Presidential election period serves—(A) in a Senior Executive Service position and is not a career appointee as defined under section 3132(a)(4); or
+
+(B) in a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
+
+
+
+(b) No senior politically appointed officer may receive an award under the provisions of this subchapter during a Presidential election period.
+
+(Added Pub. L. 103–425, § 2(a), Oct. 31, 1994, 108 Stat. 4369.)</akn:p></akn:content><akn:subsection eId="subsec_4508_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For purposes of this section, the term—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4508_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) No senior politically appointed officer may receive an award under the provisions of this subchapter during a Presidential election period.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

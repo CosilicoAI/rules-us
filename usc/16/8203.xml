@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/8203" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/8203/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/8203/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8203"><akn:num>8203</akn:num><akn:heading>National Fish Habitat Board</akn:heading><akn:content><akn:p>§ 8203. National Fish Habitat Board(a) Establishment(1) Fish Habitat BoardThere is established a board, to be known as the “National Fish Habitat Board”, whose duties are—(A) to promote, oversee, and coordinate the implementation of this chapter;
+
+(B) to establish national goals and priorities for fish habitat conservation;
+
+(C) to recommend to Congress entities for designation as Partnerships; and
+
+(D) to review and make recommendations regarding fish habitat conservation projects.
+
+
+(2) MembershipThe Board shall be composed of 28 members, of whom—(A) 2 shall be representatives of the Department of the Interior, including the United States Fish and Wildlife Service and the Bureau of Land Management;
+
+(B) 1 shall be a representative of the United States Geological Survey;
+
+(C) 1 shall be a representative of the Department of Commerce;
+
+(D) 1 shall be a representative of the Department of Agriculture;
+
+(E) 1 shall be a representative of the Association of Fish and Wildlife Agencies;
+
+(F) 4 shall be representatives of State agencies, 1 of whom shall be nominated by a regional association of fish and wildlife agencies from each of the Northeast, Southeast, Midwest, and Western regions of the United States;
+
+(G) 2 shall be representatives of Indian Tribes, of whom—(i) 1 shall be a representative of Indian Tribes in the State of Alaska; and
+
+(ii) 1 shall be a representative of Indian Tribes in States other than the State of Alaska;
+
+
+(H) 2 shall be representatives of—(i) the Regional Fishery Management Councils established by section 1852(a)(1) of this title; or
+
+(ii) the Marine Fisheries Commissions;
+
+
+(I) 1 shall be a representative of the Sport Fishing and Boating Partnership Council;
+
+(J) 7 shall be representatives selected from at least one from each of the following:(i) the recreational sportfishing industry;
+
+(ii) the commercial fishing industry;
+
+(iii) marine recreational anglers;
+
+(iv) freshwater recreational anglers;
+
+(v) habitat conservation organizations; and</akn:p></akn:content><akn:subsection eId="subsec_8203_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8203_b"><akn:num>(b)</akn:num><akn:heading>Appointment and terms</akn:heading><akn:content><akn:p>(b) Appointment and terms</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8203_c"><akn:num>(c)</akn:num><akn:heading>Chairperson</akn:heading><akn:content><akn:p>(c) Chairperson</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8203_d"><akn:num>(d)</akn:num><akn:heading>Meetings</akn:heading><akn:content><akn:p>(d) Meetings</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8203_e"><akn:num>(e)</akn:num><akn:heading>Procedures</akn:heading><akn:content><akn:p>(e) Procedures</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

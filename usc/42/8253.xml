@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/8253" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/8253/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/8253/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8253"><akn:num>8253</akn:num><akn:heading>Energy and water management requirements</akn:heading><akn:content><akn:p>§ 8253. Energy and water management requirements(a) Energy performance requirement for Federal buildings(1) Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:
+
+
+
+
+
+
+Fiscal YearPercentage Reduction
+
+
+ 20062  
+ 20074  
+ 20089  
+ 200912  
+ 201015  
+ 201118  
+ 201221  
+ 201324  
+ 201427  
+ 201530.
+
+
+
+
+(2) An agency may exclude from the requirements of paragraph (1) any building, and the associated energy consumption and gross square footage, in which energy intensive activities are carried out. Each agency shall identify and list in each report made under section 8258(a) of this title the buildings designated by it for such exclusion.
+
+(3) Not later than December 31, 2014, the Secretary shall review the results of the implementation of the energy performance requirement established under paragraph (1) and submit to Congress recommendations concerning energy performance requirements for fiscal years 2016 through 2025.
+
+
+(b) Energy and water management requirement for Federal agencies(1) In general.—Each agency shall—(A) not later than October 1, 2022, to the maximum extent practicable, begin installing in Federal buildings owned by the United States all energy and water conservation measures determined by the Secretary to be life cycle cost-effective (as defined in subsection (f)(1)); and
+
+(B) complete the installation described in subparagraph (A) as soon as practicable after the date referred to in that subparagraph.
+
+
+(2) Explanation of noncompliance.—(A) In general.—If an agency fails to com</akn:p></akn:content><akn:subsection eId="subsec_8253_a"><akn:num>(a)</akn:num><akn:heading>Energy performance requirement for Federal buildings</akn:heading><akn:content><akn:p>(a) Energy performance requirement for Federal buildings</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_b"><akn:num>(b)</akn:num><akn:heading>Energy and water management requirement for Federal agencies</akn:heading><akn:content><akn:p>(b) Energy and water management requirement for Federal agencies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_c"><akn:num>(c)</akn:num><akn:heading>Exclusions</akn:heading><akn:content><akn:p>(c) Exclusions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_d"><akn:num>(d)</akn:num><akn:heading>Implementation steps</akn:heading><akn:content><akn:p>(d) Implementation steps The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section, each agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_e"><akn:num>(e)</akn:num><akn:heading>Metering of energy and water use</akn:heading><akn:content><akn:p>(e) Metering of energy and water use</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_f"><akn:num>(f)</akn:num><akn:heading>Use of energy and water efficiency measures in Federal buildings</akn:heading><akn:content><akn:p>(f) Use of energy and water efficiency measures in Federal buildings</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_g"><akn:num>(g)</akn:num><akn:heading>Large capital energy investments</akn:heading><akn:content><akn:p>(g) Large capital energy investments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_h"><akn:num>(h)</akn:num><akn:heading>Federal implementation strategy for energy-efficient and energy-saving information technologies</akn:heading><akn:content><akn:p>(h) Federal implementation strategy for energy-efficient and energy-saving information technologies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8253_i"><akn:num>(i)</akn:num><akn:heading>Federal Energy Management Program</akn:heading><akn:content><akn:p>(i) Federal Energy Management Program</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

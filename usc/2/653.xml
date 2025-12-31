@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/653" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/653/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/653/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_653"><akn:num>653</akn:num><akn:heading>Analysis by Congressional Budget Office</akn:heading><akn:content><akn:p>§ 653. Analysis by Congressional Budget Office
+The Director of the Congressional Budget Office shall, to the extent practicable, prepare for each bill or resolution of a public character reported by any committee of the House of Representatives or the Senate (except the Committee on Appropriations of each House), and submit to such committee—(1) an estimate of the costs which would be incurred in carrying out such bill or resolution in the fiscal year in which it is to become effective and in each of the 4 fiscal years following such fiscal year, together with the basis for each such estimate;
+
+(2) a comparison of the estimates of costs described in paragraph (1) with any available estimates of costs made by such committee or by any Federal agency; and
+
+(3) a description of each method for establishing a Federal financial commitment contained in such bill or resolution.
+
+
+The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
+(Pub. L. 93–344, title IV, § 402, formerly § 403, July 12, 1974, 88 Stat. 320; Pub. L. 97–108, § 2(a), Dec. 23, 1981, 95 Stat. 1510; Pub. L. 99–177, title II, § 213, Dec. 12, 1985, 99 Stat. 1059; Pub. L. 104–4, title I, § 104, Mar. 22, 1995, 109 Stat. 62; renumbered § 402, Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 1353 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+
+Prior ProvisionsA prior section 402 of Pub. L. 93–344 was classified to section 652 of this title prior to repeal by Pub. L. 105–33.
+
+Amendments1995—Subsec. (a). Pub. L. 104–4, § 104(2), struck out subsection designation.
+Subsec. (a)(2). Pub. L. 104–4, § 104(1)(A), (C), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: “an</akn:p></akn:content><akn:subsection eId="subsec_653_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) an estimate of the costs which would be incurred in carrying out such bill or resolution in the fiscal year in which it is to become effective and in each of the 4 fiscal years following such fiscal year, together with the basis for each such estimate;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_653_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) a comparison of the estimates of costs described in paragraph (1) with any available estimates of costs made by such committee or by any Federal agency; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_653_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) a description of each method for establishing a Federal financial commitment contained in such bill or resolution.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8466" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8466/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8466/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8466"><akn:num>8466</akn:num><akn:heading>Course of study</akn:heading><akn:content><akn:p>§ 8466. Course of study(a) The course at the Naval Academy is four years.
+
+(b) The Secretary of the Navy shall arrange the course so that classes will not be held on Sunday.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6966; renumbered § 8466, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6966(a)34 U.S.C. 1054.Mar. 7, 1912, ch. 53 (1st 11 words), 37 Stat. 73.
+6966(b)34 U.S.C. 1056.R.S. 1526.
+
+
+In subsection (b) the words “of studies and the order of recitations” are omitted as surplusage. The words “classes will not be held on Sunday” are substituted for the words “students in said institution shall not be required to pursue their studies on Sunday”.
+
+Editorial Notes
+Amendments2018—Pub. L. 115–232 renumbered section 6966 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.</akn:p></akn:content><akn:subsection eId="subsec_8466_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The course at the Naval Academy is four years.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8466_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary of the Navy shall arrange the course so that classes will not be held on Sunday.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

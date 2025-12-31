@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/11821" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/11821/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/11821/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11821"><akn:num>11821</akn:num><akn:heading>Establishment of program</akn:heading><akn:content><akn:p>§ 11821. Establishment of program(a) Program aimsThe Secretary shall make grants to public and private nonprofit agencies, organizations, and institutions to carry out research, demonstration, and services projects designed—(1) to provide individual, family, and group counseling to runaway youth and their families and to homeless youth for the purpose of preventing or reducing the illicit use of drugs by such youth,
+
+(2) to develop and support peer counseling programs for runaway and homeless youth related to the illicit use of drugs,
+
+(3) to develop and support community education activities related to illicit use of drugs by runaway and homeless youth, including outreach to youth individually,
+
+(4) to provide to runaway and homeless youth in rural areas assistance (including the development of community support groups) related to the illicit use of drugs,
+
+(5) to provide to individuals involved in providing services to runaway and homeless youth, information and training regarding issues related to the illicit use of drugs by runaway and homeless youth,
+
+(6) to support research on the illicit drug use by runaway and homeless youth, and the effects on such youth of drug abuse by family members, and any correlation between such use and attempts at suicide, and
+
+(7) to improve the availability and coordination of local services related to drug abuse, for runaway and homeless youth.
+
+
+(b) PriorityIn selecting among applicants for grants under subsection (a), the Secretary shall give priority to agencies and organizations that have experience in providing services to runaway and homeless youth.
+
+
+(c) LimitationGrants under this section may be made for a period not to exceed 3 years.
+
+
+(Pub. L. 100–690, title III, § 3511, Nov. 18, 1988, 102 Stat. 4255.)</akn:p></akn:content><akn:subsection eId="subsec_11821_a"><akn:num>(a)</akn:num><akn:heading>Program aims</akn:heading><akn:content><akn:p>(a) Program aims The Secretary shall make grants to public and private nonprofit agencies, organizations, and institutions to carry out research, demonstration, and services projects designed—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11821_b"><akn:num>(b)</akn:num><akn:heading>Priority</akn:heading><akn:content><akn:p>(b) Priority In selecting among applicants for grants under subsection (a), the Secretary shall give priority to agencies and organizations that have experience in providing services to runaway and homeless youth.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11821_c"><akn:num>(c)</akn:num><akn:heading>Limitation</akn:heading><akn:content><akn:p>(c) Limitation Grants under this section may be made for a period not to exceed 3 years.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

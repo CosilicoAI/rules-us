@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9052" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9052/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9052/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9052"><akn:num>9052</akn:num><akn:heading>Optional temporary relief from current expected credit losses</akn:heading><akn:content><akn:p>§ 9052. Optional temporary relief from current expected credit losses(a) DefinitionsIn this section:(1) Appropriate Federal banking agencyThe term “appropriate Federal banking agency”—(A) has the meaning given the term in section 1813 of title 12; and
+
+(B) includes the National Credit Union Administration.
+
+
+(2) Insured depository institutionThe term “insured depository institution”—(A) has the meaning given the term in section 1813 of title 12; and
+
+(B) includes a credit union.
+
+
+
+(b) Temporary relief from CECL standardsNotwithstanding any other provision of law, no insured depository institution, bank holding company, or any affiliate thereof shall be required to comply with the Financial Accounting Standards Board Accounting Standards Update No. 2016–13 (“Measurement of Credit Losses on Financial Instruments”), including the current expected credit losses methodology for estimating allowances for credit losses, during the period beginning on March 27, 2020, and ending on the earlier of—(1) the first day of the fiscal year of the insured depository institution, bank holding company, or any affiliate thereof that begins after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates; or
+
+(2) January 1, 2022.
+
+
+(Pub. L. 116–136, div. A, title IV, § 4014, Mar. 27, 2020, 134 Stat. 480; Pub. L. 116–260, div. N, title V, § 540(a)(1), Dec. 27, 2020, 134 Stat. 2090.)
+
+Editorial Notes
+
+References in TextThe National Emergencies Act, referred to in subsec. (b)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+
+Amendments2020—Subsec. (b)(1). Pub. L. 116–260, § 540(a)(1)(A), inserted “the firs</akn:p></akn:content><akn:subsection eId="subsec_9052_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9052_b"><akn:num>(b)</akn:num><akn:heading>Temporary relief from CECL standards</akn:heading><akn:content><akn:p>(b) Temporary relief from CECL standards Notwithstanding any other provision of law, no insured depository institution, bank holding company, or any affiliate thereof shall be required to comply with the Financial Accounting Standards Board Accounting Standards Update No. 2016–13 (“Measurement of Credit Losses on Financial Instruments”), including the current expected credit losses methodology for estimating allowances for credit losses, during the period beginning on March 27, 2020, and ending on the earlier of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

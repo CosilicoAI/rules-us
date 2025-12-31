@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6414" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6414/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6414/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6414"><akn:num>6414</akn:num><akn:heading>Income tax withheld</akn:heading><akn:content><akn:p>§ 6414. Income tax withheld
+In the case of an overpayment of tax imposed by chapter 24, or by chapter 3 or 4, refund or credit shall be made to the employer or to the withholding agent, as the case may be, only to the extent that the amount of such overpayment was not deducted and withheld by the employer or withholding agent.
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Pub. L. 111–147, title V, § 501(c)(1), Mar. 18, 2010, 124 Stat. 106.)
+
+Editorial Notes
+Amendments2010—Pub. L. 111–147 inserted “or 4” after “chapter 3”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–147 applicable to payments made after Dec. 31, 2012, with certain exceptions, see section 501(d)(1), (2) of Pub. L. 111–147, set out as a note under section 1471 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

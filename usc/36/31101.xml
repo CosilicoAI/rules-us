@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/31101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/31101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/31101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31101"><akn:num>31101</akn:num><akn:heading>Organization</akn:heading><akn:content><akn:p>§ 31101. Organization(a) Federal Charter.—Boys &amp; Girls Clubs of America (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b) Place of Incorporation and Domicile.—The corporation is declared to be incorporated and domiciled in the District of Columbia.
+
+(c) Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1326.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3110136:691.Aug. 6, 1956, ch. 976, § 1, 70 Stat. 1052; Dec. 10, 1991, Pub. L. 102–199, § 1(2), 105 Stat. 1628.
+ 36:692.Aug. 6, 1956, ch. 976, §§ 2, 4(1), 70 Stat. 1052.
+ 36:694(1). 
+
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_31101_a"><akn:num>(a)</akn:num><akn:heading>Federal Charter.—</akn:heading><akn:content><akn:p>(a) Boys &amp; Girls Clubs of America (in this chapter, the “corporation”) is a federally chartered corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31101_b"><akn:num>(b)</akn:num><akn:heading>Place of Incorporation and Domicile.—</akn:heading><akn:content><akn:p>(b) The corporation is declared to be incorporated and domiciled in the District of Columbia.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31101_c"><akn:num>(c)</akn:num><akn:heading>Perpetual Existence.—</akn:heading><akn:content><akn:p>(c) Except as otherwise provided, the corporation has perpetual existence.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/1414" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/1414/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/1414/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1414"><akn:num>1414</akn:num><akn:heading>Remote location filing</akn:heading><akn:content><akn:p>§ 1414. Remote location filing(a) Core entry information(1) In generalA Program participant may file electronically an entry of merchandise with the Customs Service from a location other than the district designated in the entry for examination (hereafter in this section referred to as a “remote location”) if—(A) the Customs Service is satisfied that the participant has the capabilities referred to in paragraph (2)(A) regarding such method of filing; and
+
+(B) the participant elects to file from the remote location.
+
+
+(2) Requirements(A) In generalIn order to qualify for filing from a remote location, a Program participant must have the capability to provide, on an entry-by-entry basis, for the following:(i) The electronic entry of merchandise.
+
+(ii) The electronic entry summary of required information.
+
+(iii) The electronic transmission of invoice information (when required by the Customs Service).
+
+(iv) The electronic payment of duties, fees, and taxes.
+
+(v) Such other electronic capabilities within the existing or planned components of the Program as the Secretary shall by regulation require.
+
+
+(B) Restriction on exemption from requirementsThe Customs Service may not permit any exemption or waiver from the requirements established by this section for participation in remote entry filing.
+
+
+
+(3) Conditions on filing under this sectionThe Secretary may prohibit a Program participant from participating in remote location filing, and may remove a Program participant from participation in remote location filing, if the participant—(i) fails to meet all the compliance requirements and operational standards of remote location filing; or
+
+(ii) fails to adhere to all applicable laws and regulations.
+
+
+(4) Alternative filingAny Program participant that is eligible to file entry information electronically from a remote location but chooses not to do so in the case of any entry must file any paper documentation for the entry at the designated location referred to in subsectio</akn:p></akn:content><akn:subsection eId="subsec_1414_a"><akn:num>(a)</akn:num><akn:heading>Core entry information</akn:heading><akn:content><akn:p>(a) Core entry information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1414_b"><akn:num>(b)</akn:num><akn:heading>Additional entry information</akn:heading><akn:content><akn:p>(b) Additional entry information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1414_c"><akn:num>(c)</akn:num><akn:heading>Post-entry summary information</akn:heading><akn:content><akn:p>(c) Post-entry summary information A Program participant that is eligible to file electronically entry information under subsection (a) and additional information under subsection (b) from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1414_d"><akn:num>(d)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(d) Definitions As used in this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

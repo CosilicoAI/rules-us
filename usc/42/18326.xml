@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18326" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18326/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18326/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18326"><akn:num>18326</akn:num><akn:heading>Development of technologies and in-space capabilities for beyond near-Earth space missions</akn:heading><akn:content><akn:p>§ 18326. Development of technologies and in-space capabilities for beyond near-Earth space missions(a) Development authorizedThe Administrator may initiate activities to develop the following:(1) Technologies identified as necessary elements of missions beyond low-Earth orbit.
+
+(2) In-space capabilities such as refueling and storage technology, orbital transfer stages, innovative in-space propulsion technology, communications, and data management that facilitate a broad range of users (including military and commercial) and applications defining the architecture and design of such missions.
+
+(3) Spacesuit development and associated life support technology.
+
+(4) Flagship missions.
+
+
+(b) InvestmentsIn developing technologies and capabilities under subsection (a), the Administrator may make investments—(1) in space technologies such as advanced propulsion, propellant depots, in situ resource utilization, and robotic payloads or capabilities that enable human missions beyond low-Earth orbit ultimately leading to Mars;
+
+(2) in a space-based transfer vehicle including these technologies with an ability to conduct space-based operations that provide capabilities—(A) to integrate with the Space Launch System and other space-based systems;
+
+(B) to provide opportunities for in-space servicing of and delivery to multiple space-based platforms; and
+
+(C) to facilitate international efforts to expand human presence to deep space destinations;
+
+
+(3) in advanced life support technologies and capabilities;
+
+(4) in technologies and capabilities relating to in-space power, propulsion, and energy systems;
+
+(5) in technologies and capabilities relating to in-space propellant transfer and storage;
+
+(6) in technologies and capabilities relating to in situ resource utilization; and
+
+(7) in expanded research to understand the greatest biological impediments to human deep space missions, especially the radiation challenge.
+
+
+(c) Utilization of ISS as testbedThe Administrator may utilize the </akn:p></akn:content><akn:subsection eId="subsec_18326_a"><akn:num>(a)</akn:num><akn:heading>Development authorized</akn:heading><akn:content><akn:p>(a) Development authorized The Administrator may initiate activities to develop the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18326_b"><akn:num>(b)</akn:num><akn:heading>Investments</akn:heading><akn:content><akn:p>(b) Investments In developing technologies and capabilities under subsection (a), the Administrator may make investments—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18326_c"><akn:num>(c)</akn:num><akn:heading>Utilization of ISS as testbed</akn:heading><akn:content><akn:p>(c) Utilization of ISS as testbed The Administrator may utilize the ISS as a testbed for any technology or capability developed under subsection (a) in a manner consistent with the provisions of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18326_d"><akn:num>(d)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(d) Coordination The Administrator shall coordinate development of technologies and capabilities under this section through an overall agency technology approach, as authorized by section 905 of this Act.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

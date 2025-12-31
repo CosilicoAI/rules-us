@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/55111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/55111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/55111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_55111"><akn:num>55111</akn:num><akn:heading>Towing</akn:heading><akn:content><akn:p>§ 55111. Towing(a) In General.—Except when towing a vessel in distress, a vessel may not do any part of any towing described in subsection (b) unless the towing vessel—(1) is wholly owned by citizens of the United States for purposes of engaging in the coastwise trade; and
+
+(2) has been issued a certificate of documentation with a coastwise endorsement under chapter 121 of this title or is exempt from documentation but would otherwise be eligible for such a certificate and endorsement.
+
+
+(b) Applicable Towing.—Subsection (a) applies to the towing of—(1) a vessel between ports or places in the United States to which the coastwise laws apply, either directly or via a foreign port or place;
+
+(2) a vessel from point to point within the harbors of ports or places to which the coastwise laws apply; or
+
+(3) a vessel transporting valueless material or dredged material, regardless of whether it has commercial value, from a point in the United States or on the high seas within the exclusive economic zone, to another point in the United States or on the high seas within the exclusive economic zone.
+
+
+(c) Penalties.—(1) Owner and master.—The owner and master of a vessel towing another vessel in violation of this section are each liable for a penalty of at least $350 but not more than $1,100. A penalty under this paragraph constitutes a lien on the vessel. The lien is enforceable in a district court of the United States for any district in which the vessel is found. Clearance may not be granted to the vessel until the penalties have been paid.
+
+(2) Vessel.—In addition to the penalties under paragraph (1), the towing vessel is liable for a penalty of $60 per ton based on the tonnage of each towed vessel.
+
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1637.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5511146 App.:316(a), (b).R.S. § 4370; June 11, 1940, ch. 324, 54 Stat. 304; Pub. L. 99–307, § 10, May 19, 1986, 100 S</akn:p></akn:content><akn:subsection eId="subsec_55111_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Except when towing a vessel in distress, a vessel may not do any part of any towing described in subsection (b) unless the towing vessel—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_55111_b"><akn:num>(b)</akn:num><akn:heading>Applicable Towing.—</akn:heading><akn:content><akn:p>(b) Subsection (a) applies to the towing of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_55111_c"><akn:num>(c)</akn:num><akn:heading>Penalties.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

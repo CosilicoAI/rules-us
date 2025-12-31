@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/727" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/727/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/727/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_727"><akn:num>727</akn:num><akn:heading>Monitoring and review</akn:heading><akn:content><akn:p>§ 727. Monitoring and review(a) In general(1) DutiesIn carrying out the duties of the Commissioner under this subchapter, the Commissioner shall—(A) provide for the annual review and periodic onsite monitoring of programs under this subchapter; and
+
+(B) determine whether, in the administration of the State plan, a State is complying substantially with the provisions of such plan and with evaluation standards and performance indicators established under section 726 of this title.
+
+
+(2) Procedures for reviewsIn conducting reviews under this section the Commissioner shall consider, at a minimum—(A) State policies and procedures;
+
+(B) guidance materials;
+
+(C) decisions resulting from hearings conducted in accordance with due process;
+
+(D) State goals established under section 721(a)(15) of this title and the extent to which the State has achieved such goals;
+
+(E) plans and reports prepared under section 726(b) of this title;
+
+(F) consumer satisfaction reviews and analyses described in section 725(c)(4) of this title;
+
+(G) information provided by the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or by the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission;
+
+(H) reports; and
+
+(I) budget and financial management data.
+
+
+(3) Procedures for monitoringIn conducting monitoring under this section the Commissioner shall conduct—(A) onsite visits, including onsite reviews of records to verify that the State is following requirements regarding the order of selection set forth in section 721(a)(5)(A) of this title;
+
+(B) public hearings and other strategies for collecting information from the public;
+
+(C) meetings with the State Rehabilitation Council, if the State has such a Council or with the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission;
+
+(D) reviews of individual case files, including individualized plans for employmen</akn:p></akn:content><akn:subsection eId="subsec_727_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_727_b"><akn:num>(b)</akn:num><akn:heading>Technical assistance</akn:heading><akn:content><akn:p>(b) Technical assistance The Commissioner shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_727_c"><akn:num>(c)</akn:num><akn:heading>Failure to comply with plan</akn:heading><akn:content><akn:p>(c) Failure to comply with plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_727_d"><akn:num>(d)</akn:num><akn:heading>Review</akn:heading><akn:content><akn:p>(d) Review</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

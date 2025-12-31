@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/706" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/706/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/706/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_706"><akn:num>706</akn:num><akn:heading>Allotment percentage</akn:heading><akn:content><akn:p>§ 706. Allotment percentage(a)(1) For purposes of section 730 of this title, the allotment percentage for any State shall be 100 per centum less that percentage which bears the same ratio to 50 per centum as the per capita income of such State bears to the per capita income of the United States, except that—(A) the allotment percentage shall in no case be more than 75 per centum or less than 33⅓ per centum; and
+
+(B) the allotment percentage for the District of Columbia, Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be 75 per centum.
+
+
+(2) The allotment percentages shall be promulgated by the Secretary of Education between October 1 and December 31 of each even-numbered year, on the basis of the average of the per capita incomes of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the 2 fiscal years in the period beginning on the October 1 next succeeding such promulgation.
+
+(3) The term “United States” means (but only for purposes of this subsection) the 50 States and the District of Columbia.
+
+
+(b) The population of the several States and of the United States shall be determined on the basis of the most recent data available, to be furnished by the Department of Commerce by October 1 of the year preceding the fiscal year for which funds are appropriated pursuant to statutory authorizations.
+
+(Pub. L. 93–112, § 8, formerly § 7, as added Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1110; renumbered § 8, Pub. L. 105–277, div. A, § 101(f) [title VIII, § 402(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, § 405(a), July 22, 2014, 128 Stat. 1637.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to this section were contained in section 707 of this title prior to repeal by Pub. L. 105–220.
+A prior</akn:p></akn:content><akn:subsection eId="subsec_706_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_706_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The population of the several States and of the United States shall be determined on the basis of the most recent data available, to be furnished by the Department of Commerce by October 1 of the year preceding the fiscal year for which funds are appropriated pursuant to statutory authorizations.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

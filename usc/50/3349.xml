@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3349" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3349/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3349/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3349"><akn:num>3349</akn:num><akn:heading>Notification regarding the authorized public disclosure of national intelligence</akn:heading><akn:content><akn:p>§ 3349. Notification regarding the authorized public disclosure of national intelligence(a) NotificationIn the event of an authorized disclosure of national intelligence or intelligence related to national security to the persons or entities described in subsection (b), the government official responsible for authorizing the disclosure shall submit to the congressional intelligence committees on a timely basis a notification of the disclosure if—(1) at the time of the disclosure—(A) such intelligence is classified; or
+
+(B) is declassified for the purpose of the disclosure; and
+
+
+(2) the disclosure will be made by an officer, employee, or contractor of the Executive branch.
+
+
+(b) Persons or entities describedThe persons or entities described in this subsection are as follows:(1) Media personnel.
+
+(2) Any person or entity, if the disclosure described in subsection (a) is made with the intent or knowledge that such information will be made publicly available.
+
+
+(c) ContentEach notification required under subsection (a) shall—(1) provide the specific title and authority of the individual authorizing the disclosure;
+
+(2) if applicable, provide the specific title and authority of the individual who authorized the declassification of the intelligence disclosed; and
+
+(3) describe the intelligence disclosed, including the classification of the intelligence prior to its disclosure or declassification and the rationale for making the disclosure.
+
+
+(d) ExceptionThe notification requirement in this section does not apply to a disclosure made—(1) pursuant to any statutory requirement, including to section 552 of title 5 (commonly referred to as the “Freedom of Information Act”);
+
+(2) in connection with a civil, criminal, or administrative proceeding;
+
+(3) as a result of a declassification review process under Executive Order 13526 (50 U.S.C. 435 note) [now 50 U.S.C. 3161 note] or any successor order; or
+
+(4) to any officer, employee, or contractor of the Federal government or mem</akn:p></akn:content><akn:subsection eId="subsec_3349_a"><akn:num>(a)</akn:num><akn:heading>Notification</akn:heading><akn:content><akn:p>(a) Notification In the event of an authorized disclosure of national intelligence or intelligence related to national security to the persons or entities described in subsection (b), the government official responsible for authorizing the disclosure shall submit to the congressional intelligence committees on a timely basis a notification of the disclosure if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3349_b"><akn:num>(b)</akn:num><akn:heading>Persons or entities described</akn:heading><akn:content><akn:p>(b) Persons or entities described The persons or entities described in this subsection are as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3349_c"><akn:num>(c)</akn:num><akn:heading>Content</akn:heading><akn:content><akn:p>(c) Content Each notification required under subsection (a) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3349_d"><akn:num>(d)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(d) Exception The notification requirement in this section does not apply to a disclosure made—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/2311" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/2311/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/2311/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2311"><akn:num>2311</akn:num><akn:heading>Enhanced transparency on interagency contracting and other transactions</akn:heading><akn:content><akn:p>§ 2311. Enhanced transparency on interagency contracting and other transactions
+The Director of the Office of Management and Budget shall direct appropriate revisions to the Federal Procurement Data System or any successor system to facilitate the collection of complete, timely, and reliable data on interagency contracting actions and on transactions other than contracts, grants, and cooperative agreements issued pursuant to section 4021 of title 10 or similar authorities. The Director of the Office of Management and Budget shall ensure that data, consistent with what is collected for contract actions, is obtained on—(1) interagency contracting actions, including data at the task or delivery-order level; and
+
+(2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3739; Pub. L. 117–81, div. A, title XVII, § 1702(h)(11), Dec. 27, 2021, 135 Stat. 2158.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+231141:405 note.Pub. L. 110–417, [div. A], title VIII, § 874(a), Oct. 14, 2008, 122 Stat. 4558.
+
+
+In the first sentence, the words “Not later than one year after the date of enactment of this Act” are omitted because of section 6(f) of the bill.
+
+Editorial Notes
+Amendments2021—Pub. L. 117–81 substituted “section 4021” for “section 2371” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+Deadline for Revisions in Federal Procurement Data System or Successor SystemPub. L. 111–350, § 6(f)(2), Jan. 4, 2011, 124 Stat. 3855, provided that: “The requirement in section 2311 of title 41, United States Code, to direct appropriate revisions in the Federal Procurement Data System or any successor system shall be done not later than one year after October 14, 2008.”</akn:p></akn:content><akn:subsection eId="subsec_2311_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) interagency contracting actions, including data at the task or delivery-order level; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2311_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

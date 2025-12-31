@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/6502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/6502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/6502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6502"><akn:num>6502</akn:num><akn:heading>Information on grants received</akn:heading><akn:content><akn:p>§ 6502. Information on grants received
+On request of a chief executive officer of a State, a State legislature, or an official designated by either of them, an executive agency carrying out a grant program to States and local governments shall provide the requesting officer or legislature with written information on the purpose and amounts of grants provided to the State or local government.
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1007.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+650242:4211.Oct. 16, 1968, Pub. L. 90–577, § 201, 82 Stat. 1101.
+
+
+The words “chief executive officer” are substituted for “Governor” because the definition of State includes the District of Columbia. The words “executive agency” are substituted for “department or agency of the United States Government” because of the definition in sections 102 and 6501(3) of the revised title. The words “shall provide the requesting officer or legislature” are substituted for the last sentence of 42:4211 to eliminate unnecessary words. The word “information” is substituted for “such data” because it is more accurate. The words “in writing” and “actual” are omitted as unnecessary.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

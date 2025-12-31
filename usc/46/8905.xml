@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/8905" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/8905/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/8905/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8905"><akn:num>8905</akn:num><akn:heading>Exemptions</akn:heading><akn:content><akn:p>§ 8905. Exemptions(a) Section 8903 of this title applies to a recreational vessel operated in dealer demonstrations only if the Secretary decides that the application of section 8903 is necessary for recreational vessel safety under section 4302(d) of this title.
+
+(b) Section 8904 of this title does not apply to an oil spill response vessel while engaged in oil spill response or training activities.
+
+(c) After consultation with the Governor of Alaska and the State boating law administrator of Alaska, the Secretary may exempt an individual operating a self-propelled uninspected passenger vessel from the requirements of section 8903 of this title, if—(1) the individual only operates such vessel wholly within waters located in Alaska; and
+
+(2) such vessel is—(A) 26 feet or less in length; and
+
+(B) carrying not more than 6 passengers.
+
+
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556; Pub. L. 104–324, title VII, § 734, title XI, § 1104(f), Oct. 19, 1996, 110 Stat. 3941, 3967; Pub. L. 111–281, title VI, § 606, Oct. 15, 2010, 124 Stat. 2967; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8317, Jan. 1, 2021, 134 Stat. 4700.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+8905(a)46:1461(f)
+8905(b)46:405(b)(3)
+
+
+Section 8905 provides for certain exemptions from the requirements of this chapter.
+Subsection (a) exempts dealer demonstration recreational vessels from the licensed operator requirement in section 8903 unless the Secretary decides that safety considerations require the application of that section.
+Subsection (b) exempts an offshore supply vessel of less than 200 gross tons from the licensed operator requirement under section 8904 when used in the offshore mineral and oil industry.
+
+Editorial Notes
+Amendments2021—Subsec. (c). Pub. L. 116–283 added subsec. (c).
+2010—Subsecs. (b), (c). Pub. L. 111–281 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Section 8904 of this title does not a</akn:p></akn:content><akn:subsection eId="subsec_8905_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Section 8903 of this title applies to a recreational vessel operated in dealer demonstrations only if the Secretary decides that the application of section 8903 is necessary for recreational vessel safety under section 4302(d) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8905_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Section 8904 of this title does not apply to an oil spill response vessel while engaged in oil spill response or training activities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8905_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) After consultation with the Governor of Alaska and the State boating law administrator of Alaska, the Secretary may exempt an individual operating a self-propelled uninspected passenger vessel from the requirements of section 8903 of this title, if—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

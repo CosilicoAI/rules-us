@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/6906" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/6906/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/6906/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6906"><akn:num>6906</akn:num><akn:heading>Union Station Fund</akn:heading><akn:content><akn:p>§ 6906. Union Station Fund(a) Establishment.—There is a special deposit account in the Treasury known as the “Union Station Fund”, which shall be administered as a revolving fund.
+
+(b) Content.—The account shall be credited with receipts of the Secretary of Transportation from activities authorized by this subchapter.
+
+(c) Use of Amounts.—The Secretary may use income and proceeds received from activities authorized by this subchapter, including operating and leasing income and payments made to the Federal Government under development agreements, to pay expenses the Secretary incurs in carrying out the purposes of this subchapter, including construction, acquisition, leasing, operation, and maintenance expenses and payments made to developers under development agreements.
+
+(d) Availability of Amounts.—The balance in the account is available in amounts specified in annual appropriation laws for making expenditures authorized by this subchapter.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1202.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+6906(a)40:817(b) (1st sentence).Pub. L. 90–264, title I, § 117, as added Pub. L. 97–125, § 3(3), Dec. 29, 1981, 95 Stat. 1671.
+6906(b)40:817(b) (last sentence words before “and the balance”).
+6906(c)40:817(a).
+6906(d)40:817(b) (last sentence words after “activities authorized by this part”).
+
+
+In subsection (c), the words “without limitation” are omitted as unnecessary.</akn:p></akn:content><akn:subsection eId="subsec_6906_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is a special deposit account in the Treasury known as the “Union Station Fund”, which shall be administered as a revolving fund.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6906_b"><akn:num>(b)</akn:num><akn:heading>Content.—</akn:heading><akn:content><akn:p>(b) The account shall be credited with receipts of the Secretary of Transportation from activities authorized by this subchapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6906_c"><akn:num>(c)</akn:num><akn:heading>Use of Amounts.—</akn:heading><akn:content><akn:p>(c) The Secretary may use income and proceeds received from activities authorized by this subchapter, including operating and leasing income and payments made to the Federal Government under development agreements, to pay expenses the Secretary incurs in carrying out the purposes of this subchapter, including construction, acquisition, leasing, operation, and maintenance expenses and payments made to developers under development agreements.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6906_d"><akn:num>(d)</akn:num><akn:heading>Availability of Amounts.—</akn:heading><akn:content><akn:p>(d) The balance in the account is available in amounts specified in annual appropriation laws for making expenditures authorized by this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

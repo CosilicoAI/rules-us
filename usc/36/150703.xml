@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/150703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/150703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/150703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_150703"><akn:num>150703</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>§ 150703. Membership(a) Eligibility.—Membership in the corporation is confined to agencies and organizations. Except as provided in this chapter, the rights and privileges of members are as provided in the bylaws.
+
+(b) Voting.—Each agency or organization sending delegates to, and participating in, the annual national conference on citizenship has one vote in the conduct of the business of the conference.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1392.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+15070336:436.Aug. 13, 1953, ch. 427, § 6, 67 Stat. 563.</akn:p></akn:content><akn:subsection eId="subsec_150703_a"><akn:num>(a)</akn:num><akn:heading>Eligibility.—</akn:heading><akn:content><akn:p>(a) Membership in the corporation is confined to agencies and organizations. Except as provided in this chapter, the rights and privileges of members are as provided in the bylaws.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_150703_b"><akn:num>(b)</akn:num><akn:heading>Voting.—</akn:heading><akn:content><akn:p>(b) Each agency or organization sending delegates to, and participating in, the annual national conference on citizenship has one vote in the conduct of the business of the conference.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

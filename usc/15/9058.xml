@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9058" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9058/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9058/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9058"><akn:num>9058</akn:num><akn:heading>Temporary moratorium on eviction filings</akn:heading><akn:content><akn:p>§ 9058. Temporary moratorium on eviction filings(a) DefinitionsIn this section:(1) Covered dwellingThe term “covered dwelling” means a dwelling that—(A) is occupied by a tenant—(i) pursuant to a residential lease; or
+
+(ii) without a lease or with a lease terminable under State law; and
+
+
+(B) is on or in a covered property.
+
+
+(2) Covered propertyThe term “covered property” means any property that—(A) participates in—(i) a covered housing program (as defined in section 12491(a) of title 34); or
+
+(ii) the rural housing voucher program under section 1490r of title 42; or
+
+
+(B) has a—(i) Federally backed mortgage loan; or
+
+(ii) Federally backed multifamily mortgage loan.
+
+
+
+(3) DwellingThe term “dwelling”—(A) has the meaning given the term in section 3602 of title 42; and
+
+(B) includes houses and dwellings described in section 3603(b) of title 42.
+
+
+(4) Federally backed mortgage loanThe term “Federally backed mortgage loan” includes any loan (other than temporary financing such as a construction loan) that—(A) is secured by a first or subordinate lien on residential real property (including individual units of condominiums and cooperatives) designed principally for the occupancy of from 1 to 4 families, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property; and
+
+(B) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by any officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary of Housing and Urban Development or a housing or related program administered by any other such officer or agency, or is purchased or securitized by the Federal Home Loan Mortgage Corporation or the Federal National Mortgage Association.
+
+
+(5) Federally backed multifamily mortgage loanThe term “Federally backed multifamily mortgage loan” includes any loan (other than temporary financing such as a</akn:p></akn:content><akn:subsection eId="subsec_9058_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9058_b"><akn:num>(b)</akn:num><akn:heading>Moratorium</akn:heading><akn:content><akn:p>(b) Moratorium During the 120-day period beginning on March 27, 2020, the lessor of a covered dwelling may not—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9058_c"><akn:num>(c)</akn:num><akn:heading>Notice</akn:heading><akn:content><akn:p>(c) Notice The lessor of a covered dwelling unit—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

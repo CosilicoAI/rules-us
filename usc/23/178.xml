@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/178" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/178/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/178/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_178"><akn:num>178</akn:num><akn:heading>Environmental review implementation funds</akn:heading><akn:content><akn:p>§ 178. Environmental review implementation funds(a) Establishment.—In addition to amounts otherwise available, for fiscal year 2022, there is appropriated to the Administrator, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available until September 30, 2026, for the purpose of facilitating the development and review of documents for the environmental review process for proposed projects through—(1) the provision of guidance, technical assistance, templates, training, or tools to facilitate an efficient and effective environmental review process for surface transportation projects and any administrative expenses of the Federal Highway Administration to conduct activities described in this section; and
+
+(2) providing funds made available under this subsection to eligible entities—(A) to build capacity of such eligible entities to conduct environmental review processes;
+
+(B) to facilitate the environmental review process for proposed projects by—(i) defining the scope or study areas;
+
+(ii) identifying impacts, mitigation measures, and reasonable alternatives;
+
+(iii) preparing planning and environmental studies and other documents prior to and during the environmental review process, for potential use in the environmental review process in accordance with applicable statutes and regulations;
+
+(iv) conducting public engagement activities; and
+
+(v) carrying out permitting or other activities, as the Administrator determines to be appropriate, to support the timely completion of an environmental review process required for a proposed project; and
+
+
+(C) for administrative expenses of the eligible entity to conduct any of the activities described in subparagraphs (A) and (B).
+
+
+
+(b) Cost Share.—(1) In general.—The Federal share of the cost of an activity carried out under this section by an eligible entity shall be not more than 80 percent.
+
+(2) Source of funds.—The non-Federal share of the cost of an activity carried out under this sec</akn:p></akn:content><akn:subsection eId="subsec_178_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) In addition to amounts otherwise available, for fiscal year 2022, there is appropriated to the Administrator, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available until September 30, 2026, for the purpose of facilitating the development and review of documents for the environmental review process for proposed projects through—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_b"><akn:num>(b)</akn:num><akn:heading>Cost Share.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_178_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

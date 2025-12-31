@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/9805" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/9805/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/9805/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9805"><akn:num>9805</akn:num><akn:heading>Retention bonuses</akn:heading><akn:content><akn:p>§ 9805. Retention bonuses(a) Notwithstanding section 5754, the Administrator may pay a bonus to an employee, in accordance with the workforce plan and subject to the limitations in this section, if the Administrator determines that—(1) the unusually high or unique qualifications of the employee or a special need of the Administration for the employee’s services makes it essential to retain the employee; and
+
+(2) the employee would be likely to leave in the absence of a retention bonus.
+
+
+(b) If the position is described as addressing a critical need in the workforce plan under section 9802(b)(2)(A), the amount of a bonus may not exceed 50 percent of the employee’s annual rate of basic pay (including comparability payments under sections 5304 and 5304a).
+
+(c) If the position is not described as addressing a critical need in the workforce plan under section 9802(b)(2)(A), the amount of a bonus may not exceed 25 percent of the employee’s annual rate of basic pay (excluding comparability payments under sections 5304 and 5304a).
+
+(d)(1)(A) Payment of a bonus under this section shall be contingent upon the employee entering into a service agreement with the Administration.
+
+(B) At a minimum, the service agreement shall include—(i) the required service period;
+
+(ii) the method of payment, including a payment schedule, which may include a lump-sum payment, installment payments, or a combination thereof;
+
+(iii) the amount of the bonus and the basis for calculating the amount; and
+
+(iv) the conditions under which the agreement may be terminated before the agreed-upon service period has been completed, and the effect of the termination.
+
+
+
+(2) The employee’s service period shall be expressed as the number equal to the full years and twelfth parts thereof, rounding the fractional part of a month to the nearest twelfth part of a year. The service period may not be less than 6 months and may not exceed 4 years.
+
+(3) Notwithstanding paragraph (1), a service agreement is not requir</akn:p></akn:content><akn:subsection eId="subsec_9805_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Notwithstanding section 5754, the Administrator may pay a bonus to an employee, in accordance with the workforce plan and subject to the limitations in this section, if the Administrator determines that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9805_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) If the position is described as addressing a critical need in the workforce plan under section 9802(b)(2)(A), the amount of a bonus may not exceed 50 percent of the employee’s annual rate of basic pay (including comparability payments under sections 5304 and 5304a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9805_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) If the position is not described as addressing a critical need in the workforce plan under section 9802(b)(2)(A), the amount of a bonus may not exceed 25 percent of the employee’s annual rate of basic pay (excluding comparability payments under sections 5304 and 5304a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9805_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9805_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) A bonus under this section may not be considered to be part of the basic pay of an employee.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9805_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) An employee is not entitled to a retention bonus under this section during a service period previously established for that employee under section 5753 or under section 9804.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9805_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g) No more than 25 percent of the total amount in bonuses awarded under subsection (a) in any year may be awarded to supervisors or management officials.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

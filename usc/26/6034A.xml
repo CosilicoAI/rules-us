@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6034A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6034A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6034A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6034A"><akn:num>6034A</akn:num><akn:heading>Information to beneficiaries of estates and trusts</akn:heading><akn:content><akn:p>§ 6034A. Information to beneficiaries of estates and trusts(a) General ruleThe fiduciary of any estate or trust required to file a return under section 6012(a) for any taxable year shall, on or before the date on which such return was required to be filed, furnish to each beneficiary (or nominee thereof)—(1) who receives a distribution from such estate or trust with respect to such taxable year, or
+
+(2) to whom any item with respect to such taxable year is allocated,
+
+
+a statement containing such information required to be shown on such return as the Secretary may prescribe.
+
+(b) Nominee reportingAny person who holds an interest in an estate or trust as a nominee for another person—(1) shall furnish to the estate or trust, in the manner prescribed by the Secretary, the name and address of such other person, and any other information for the taxable year as the Secretary may by form and regulations prescribe, and
+
+(2) shall furnish in the manner prescribed by the Secretary to such other person the information provided by the estate or trust under subsection (a).
+
+
+(c) Beneficiary’s return must be consistent with estate or trust return or Secretary notified of inconsistency(1) In generalA beneficiary of any estate or trust to which subsection (a) applies shall, on such beneficiary’s return, treat any reported item in a manner which is consistent with the treatment of such item on the applicable entity’s return.
+
+
+(2) Notification of inconsistent treatment(A) In generalIn the case of any reported item, if—(i)(I) the applicable entity has filed a return but the beneficiary’s treatment on such beneficiary’s return is (or may be) inconsistent with the treatment of the item on the applicable entity’s return, or
+
+(II) the applicable entity has not filed a return, and
+
+
+(ii) the beneficiary files with the Secretary a statement identifying the inconsistency,
+
+
+paragraph (1) shall not apply to such item.
+
+(B) Beneficiary receiving incorrect informationA beneficiary shall be tr</akn:p></akn:content><akn:subsection eId="subsec_6034A_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule The fiduciary of any estate or trust required to file a return under section 6012(a) for any taxable year shall, on or before the date on which such return was required to be filed, furnish to each beneficiary (or nominee thereof)— a statement containing such information required to be shown on such return as the Secretary may prescribe.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6034A_b"><akn:num>(b)</akn:num><akn:heading>Nominee reporting</akn:heading><akn:content><akn:p>(b) Nominee reporting Any person who holds an interest in an estate or trust as a nominee for another person—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6034A_c"><akn:num>(c)</akn:num><akn:heading>Beneficiary’s return must be consistent with estate or trust return or Secretary notified of inconsistency</akn:heading><akn:content><akn:p>(c) Beneficiary’s return must be consistent with estate or trust return or Secretary notified of inconsistency</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

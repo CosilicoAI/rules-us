@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8595" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8595/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8595/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8595"><akn:num>8595</akn:num><akn:heading>United States Naval Community College: establishment and degree granting authority</akn:heading><akn:content><akn:p>§ 8595. United States Naval Community College: establishment and degree granting authority(a) Establishment and Function.—There is a United States Naval Community College. The primary function of such College shall be to provide—(1) programs of academic instruction and professional and technical education for individuals described in subsection (b) in—(A) academic and technical fields of the liberal arts and sciences which are relevant to the current and future needs of the Navy and Marine Corps, including in designated fields of national and economic importance such as cybersecurity, artificial intelligence, machine learning, data science, and software engineering; and
+
+(B) their practical duties;
+
+
+(2) remedial, developmental, or continuing education programs, as prescribed by the Secretary of the Navy, which are necessary to support, maintain, or extend programs under paragraph (1);
+
+(3) support and advisement services for individuals pursuing such programs; and
+
+(4) continuous monitoring of the progress of such individuals.
+
+
+(b) Individuals Eligible for Programs.—Subject to such other eligibility requirements as the Secretary of the Navy may prescribe, the following individuals are eligible to participate in programs and services under subsection (a):(1) Enlisted members of the Navy and Marine Corps.
+
+(2) Officers of the Navy and Marine Corps who hold a commission but have not completed a postsecondary degree.
+
+(3) Civilian employees of the Department of the Navy.
+
+(4) Other individuals, as determined by the Secretary of the Navy, so long as access to programs and services under subsection (a) by such individuals is—(A) in alignment with the mission of the United States Naval Community College; and
+
+(B) determined to support the mission or needs of the Department of the Navy.
+
+
+
+(c) Degree and Credential Granting Authority.—(1) In general.—Under regulations prescribed by the Secretary of the Navy, the head of the United States Naval Community College may, upon </akn:p></akn:content><akn:subsection eId="subsec_8595_a"><akn:num>(a)</akn:num><akn:heading>Establishment and Function.—</akn:heading><akn:content><akn:p>(a) There is a United States Naval Community College. The primary function of such College shall be to provide—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8595_b"><akn:num>(b)</akn:num><akn:heading>Individuals Eligible for Programs.—</akn:heading><akn:content><akn:p>(b) Subject to such other eligibility requirements as the Secretary of the Navy may prescribe, the following individuals are eligible to participate in programs and services under subsection (a):</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8595_c"><akn:num>(c)</akn:num><akn:heading>Degree and Credential Granting Authority.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8595_d"><akn:num>(d)</akn:num><akn:heading>Civilian Faculty Members.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

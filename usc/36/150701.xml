@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/150701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/150701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/150701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_150701"><akn:num>150701</akn:num><akn:heading>Organization</akn:heading><akn:content><akn:p>§ 150701. Organization(a) Federal Charter.—National Conference on Citizenship (in this chapter, the “corporation”) is a federally chartered corporation.
+
+(b) Perpetual Existence.—Except as otherwise provided, the corporation has perpetual existence.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1392.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+15070136:431.Aug. 13, 1953, ch. 427, §§ 1, 2, 67 Stat. 562.
+ 36:432. 
+
+
+This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.</akn:p></akn:content><akn:subsection eId="subsec_150701_a"><akn:num>(a)</akn:num><akn:heading>Federal Charter.—</akn:heading><akn:content><akn:p>(a) National Conference on Citizenship (in this chapter, the “corporation”) is a federally chartered corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_150701_b"><akn:num>(b)</akn:num><akn:heading>Perpetual Existence.—</akn:heading><akn:content><akn:p>(b) Except as otherwise provided, the corporation has perpetual existence.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

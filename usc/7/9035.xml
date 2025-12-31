@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/9035" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/9035/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/9035/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9035"><akn:num>9035</akn:num><akn:heading>Loan deficiency payments</akn:heading><akn:content><akn:p>§ 9035. Loan deficiency payments(a) Availability of loan deficiency payments(1) In generalExcept as provided in subsection (d), the Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan under section 9031 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for loan deficiency payments under this section.
+
+
+(2) Unshorn pelts, hay, and silage(A) Marketing assistance loansSubject to subparagraph (B), nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under section 9031 of this title.
+
+
+(B) Loan deficiency paymentEffective for each of the 2014 through 2031 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
+
+
+
+
+(b) ComputationA loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2) shall be equal to the product obtained by multiplying—(1) the payment rate determined under subsection (c) for the commodity; by
+
+(2) the quantity of the commodity produced by the eligible producers, excluding any quantity for which the producers obtain a marketing assistance loan under section 9031 of this title.
+
+
+(c) Payment rate(1) In generalIn the case of a loan commodity, the payment rate shall be the amount by which—(A) the loan rate established under section 9032 of this title for the loan commodity; exceeds
+
+(B) the rate at which a marketing assistance loan for the loan commodity may be repaid under section 9034 of this title.
+
+
+(2) Unshorn peltsIn the case of unshorn pelts, the payment rate shall be the amount by which—(A) the loan rate established under section 9032 of this title for ungraded wool; exceeds
+
+(B) the rate at which a marketing assistance loan for ungraded wool may be re</akn:p></akn:content><akn:subsection eId="subsec_9035_a"><akn:num>(a)</akn:num><akn:heading>Availability of loan deficiency payments</akn:heading><akn:content><akn:p>(a) Availability of loan deficiency payments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9035_b"><akn:num>(b)</akn:num><akn:heading>Computation</akn:heading><akn:content><akn:p>(b) Computation A loan deficiency payment for a loan commodity or commodity referred to in subsection (a)(2) shall be equal to the product obtained by multiplying—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9035_c"><akn:num>(c)</akn:num><akn:heading>Payment rate</akn:heading><akn:content><akn:p>(c) Payment rate</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9035_d"><akn:num>(d)</akn:num><akn:heading>Exception for extra long staple cotton</akn:heading><akn:content><akn:p>(d) Exception for extra long staple cotton This section shall not apply with respect to extra long staple cotton.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9035_e"><akn:num>(e)</akn:num><akn:heading>Effective date for payment rate determination</akn:heading><akn:content><akn:p>(e) Effective date for payment rate determination The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

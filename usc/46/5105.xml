@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/5105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/5105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/5105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5105"><akn:num>5105</akn:num><akn:heading>Load line surveys</akn:heading><akn:content><akn:p>§ 5105. Load line surveys(a) The Secretary may provide for annual, renewal, and other load line surveys.
+
+(b) In conducting a load line survey, the Secretary shall consider whether—(1) the hull and fittings of the vessel—(A) are adequate to protect the vessel from the sea; and
+
+(B) meet other requirements the Secretary may prescribe by regulation;
+
+
+(2) the strength of the hull is adequate for all loading conditions;
+
+(3) the stability of the vessel is adequate for all loading conditions;
+
+(4) the topsides of the vessel are arranged and constructed to allow rapid overboard drainage of deck water in heavy weather; and
+
+(5) the topsides of the vessel are adequate in design, arrangement, and equipment to protect crewmembers performing outside tasks necessary for safe operation of the vessel.
+
+
+(Pub. L. 99–509, title V, § 5101(2), Oct. 21, 1986, 100 Stat. 1916.)
+
+Historical and Revision NotesRevised section 5105
+Section 5105 authorizes the Secretary of Transportation to provide for load line surveys and requires that while conducting a load line survey, the Secretary must consider various strength, stability, design, and construction features of the vessel.</akn:p></akn:content><akn:subsection eId="subsec_5105_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary may provide for annual, renewal, and other load line surveys.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5105_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In conducting a load line survey, the Secretary shall consider whether—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

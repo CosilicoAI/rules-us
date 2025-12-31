@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1084" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1084/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1084/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1084"><akn:num>1084</akn:num><akn:heading>Minimum funding standards for multiemployer plans</akn:heading><akn:content><akn:p>§ 1084. Minimum funding standards for multiemployer plans(a) In generalFor purposes of section 1082 of this title, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
+
+
+(b) Funding standard account(1) Account requiredEach multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
+
+
+(2) Charges to accountFor a plan year, the funding standard account shall be charged with the sum of—(A) the normal cost of the plan for the plan year,
+
+(B) the amounts necessary to amortize in equal annual installments (until fully amortized)—(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
+
+(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
+
+(iii) separately, with respect to each plan year, the net experience loss (if any) under the plan, over a period of 15 plan years, and
+
+(iv) separately, with respect to each plan year, the net loss (if any) resulting from changes in actuarial assumptions used under the plan, over a period of 15 plan years,
+
+
+(C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for each prior plan year in equal annual installments (until fully amortized) over a period of 15 plan years,
+
+(D) the amount necessary to am</akn:p></akn:content><akn:subsection eId="subsec_1084_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general For purposes of section 1082 of this title, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1084_b"><akn:num>(b)</akn:num><akn:heading>Funding standard account</akn:heading><akn:content><akn:p>(b) Funding standard account</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1084_c"><akn:num>(c)</akn:num><akn:heading>Additional rules</akn:heading><akn:content><akn:p>(c) Additional rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1084_d"><akn:num>(d)</akn:num><akn:heading>Extension of amortization periods for multiemployer plans</akn:heading><akn:content><akn:p>(d) Extension of amortization periods for multiemployer plans</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

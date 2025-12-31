@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5565" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5565/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5565/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5565"><akn:num>5565</akn:num><akn:heading>Relief available</akn:heading><akn:content><akn:p>§ 5565. Relief available(a) Administrative proceedings or court actions(1) JurisdictionThe court (or the Bureau, as the case may be) in an action or adjudication proceeding brought under Federal consumer financial law, shall have jurisdiction to grant any appropriate legal or equitable relief with respect to a violation of Federal consumer financial law, including a violation of a rule or order prescribed under a Federal consumer financial law.
+
+
+(2) ReliefRelief under this section may include, without limitation—(A) rescission or reformation of contracts;
+
+(B) refund of moneys or return of real property;
+
+(C) restitution;
+
+(D) disgorgement or compensation for unjust enrichment;
+
+(E) payment of damages or other monetary relief;
+
+(F) public notification regarding the violation, including the costs of notification;
+
+(G) limits on the activities or functions of the person; and
+
+(H) civil money penalties, as set forth more fully in subsection (c).
+
+
+(3) No exemplary or punitive damagesNothing in this subsection shall be construed as authorizing the imposition of exemplary or punitive damages.
+
+
+
+(b) Recovery of costsIn any action brought by the Bureau, a State attorney general, or any State regulator to enforce any Federal consumer financial law, the Bureau, the State attorney general, or the State regulator may recover its costs in connection with prosecuting such action if the Bureau, the State attorney general, or the State regulator is the prevailing party in the action.
+
+
+(c) Civil money penalty in court and administrative actions(1) In generalAny person that violates, through any act or omission, any provision of Federal consumer financial law shall forfeit and pay a civil penalty pursuant to this subsection.
+
+
+(2) Penalty amounts(A) First tierFor any violation of a law, rule, or final order or condition imposed in writing by the Bureau, a civil penalty may not exceed $5,000 for each day during which such violation or failure to pay continues.
+
+
+(B) Second tierNot</akn:p></akn:content><akn:subsection eId="subsec_5565_a"><akn:num>(a)</akn:num><akn:heading>Administrative proceedings or court actions</akn:heading><akn:content><akn:p>(a) Administrative proceedings or court actions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5565_b"><akn:num>(b)</akn:num><akn:heading>Recovery of costs</akn:heading><akn:content><akn:p>(b) Recovery of costs In any action brought by the Bureau, a State attorney general, or any State regulator to enforce any Federal consumer financial law, the Bureau, the State attorney general, or the State regulator may recover its costs in connection with prosecuting such action if the Bureau, the State attorney general, or the State regulator is the prevailing party in the action.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5565_c"><akn:num>(c)</akn:num><akn:heading>Civil money penalty in court and administrative actions</akn:heading><akn:content><akn:p>(c) Civil money penalty in court and administrative actions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

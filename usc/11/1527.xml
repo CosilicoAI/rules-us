@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1527" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1527/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1527/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1527"><akn:num>1527</akn:num><akn:heading>Forms of cooperation</akn:heading><akn:content><akn:p>§ 1527. Forms of cooperation
+Cooperation referred to in sections 1525 and 1526 may be implemented by any appropriate means, including—(1) appointment of a person or body, including an examiner, to act at the direction of the court;
+
+(2) communication of information by any means considered appropriate by the court;
+
+(3) coordination of the administration and supervision of the debtor’s assets and affairs;
+
+(4) approval or implementation of agreements concerning the coordination of proceedings; and
+
+(5) coordination of concurrent proceedings regarding the same debtor.
+
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1527_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) appointment of a person or body, including an examiner, to act at the direction of the court;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1527_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) communication of information by any means considered appropriate by the court;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1527_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) coordination of the administration and supervision of the debtor’s assets and affairs;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1527_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) approval or implementation of agreements concerning the coordination of proceedings; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1527_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) coordination of concurrent proceedings regarding the same debtor.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

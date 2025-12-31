@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5211" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5211/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5211/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5211"><akn:num>5211</akn:num><akn:heading>Production and entry of distilled spirits</akn:heading><akn:content><akn:p>§ 5211. Production and entry of distilled spirits
+Distilled spirits in the process of production in a distilled spirits plant may be held prior to the production gauge only for so long as is reasonably necessary to complete the process of production. Under such regulations as the Secretary shall prescribe, all distilled spirits produced in a distilled spirits plant shall be gauged and a record made of such gauge within a reasonable time after the production thereof has been completed. The proprietor shall, pursuant to such production gauge and in accordance with such regulations as the Secretary shall prescribe, make appropriate entry for—(1) deposit of such spirits on bonded premises for storage or processing;
+
+(2) withdrawal upon determination of tax as authorized by law;
+
+(3) withdrawal under the provisions of section 5214; and
+
+(4) transfer for redistillation under the provisions of section 5223.
+
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(26), July 26, 1979, 93 Stat. 284.)
+
+Editorial Notes
+Prior ProvisionsA prior section 5211, act Aug. 16, 1954, ch. 736, 68A Stat. 638, related to detention of casks, packages, or containers on suspicion, prior to the general revision of this chapter by Pub. L. 85–859. See section 5311 of this title.
+Provisions similar to those comprising this section were contained in prior sections 5193(a), 5194(a), (e) to (g), 5242(a), 5305, act Aug. 16, 1954, ch. 736, 68A Stat. 633 to 636, 645, 657, prior to the general revision of this chapter by Pub. L. 85–859.
+
+Amendments1979—Pars. (1), (5). Pub. L. 96–39 substituted in par. (1) “on bonded premises for storage or processing” for “in storage on bonded premises” and struck out par. (5) which related to an appropriate entry by the proprietor for immediate denaturation.
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+Statutory Not</akn:p></akn:content><akn:subsection eId="subsec_5211_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) deposit of such spirits on bonded premises for storage or processing;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5211_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) withdrawal upon determination of tax as authorized by law;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5211_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) withdrawal under the provisions of section 5214; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5211_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) transfer for redistillation under the provisions of section 5223.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

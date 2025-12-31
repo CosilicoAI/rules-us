@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/70007" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/70007/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/70007/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_70007"><akn:num>70007</akn:num><akn:heading>Anchorage grounds</akn:heading><akn:content><akn:p>§ 70007. Anchorage grounds(a) Anchorage Grounds.—(1) Establishment.—The Secretary of the department in which the Coast Guard is operating shall define and establish anchorage grounds in the navigable waters of the United States for vessels operating in such waters.
+
+(2) Relevant factors for establishment.—In carrying out paragraph (1), the Secretary shall take into account all relevant factors concerning navigational safety, protection of the marine environment, proximity to undersea pipelines and cables, safe and efficient use of Marine Transportation System, and national security.
+
+
+(b) Vessel Requirements.—Vessels, of certain sizes or type determined by the Secretary, shall—(1) set and maintain an anchor alarm for the duration of an anchorage;
+
+(2) comply with any directions or orders issued by the Captain of the Port; and
+
+(3) comply with any applicable anchorage regulations.
+
+
+(c) Prohibitions.—A vessel may not—(1) anchor in any Federal navigation channel unless authorized or directed to by the Captain of the Port;
+
+(2) anchor in near proximity, within distances determined by the Coast Guard, to an undersea pipeline or cable, unless authorized or directed to by the Captain of the Port; and
+
+(3) anchor or remain anchored in an anchorage ground during any period in which the Captain of the Port orders closure of the anchorage ground due to inclement weather, navigational hazard, a threat to the environment, or other safety or security concern.
+
+
+(d) Safety Exception.—Nothing in this section shall be construed to prevent a vessel from taking actions necessary to maintain the safety of the vessel or to prevent the loss of life or property.
+
+(Added Pub. L. 117–263, div. K, title CXIII, § 11318(a), Dec. 23, 2022, 136 Stat. 4090.)
+
+Statutory Notes and Related Subsidiaries
+Savings ClausePub. L. 117–263, div. K, title CXIII, § 11318(c), Dec. 23, 2022, 136 Stat. 4091, provided that: “Nothing in this section [enacting this section and provisions set out as a note under th</akn:p></akn:content><akn:subsection eId="subsec_70007_a"><akn:num>(a)</akn:num><akn:heading>Anchorage Grounds.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70007_b"><akn:num>(b)</akn:num><akn:heading>Vessel Requirements.—</akn:heading><akn:content><akn:p>(b) Vessels, of certain sizes or type determined by the Secretary, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70007_c"><akn:num>(c)</akn:num><akn:heading>Prohibitions.—</akn:heading><akn:content><akn:p>(c) A vessel may not—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_70007_d"><akn:num>(d)</akn:num><akn:heading>Safety Exception.—</akn:heading><akn:content><akn:p>(d) Nothing in this section shall be construed to prevent a vessel from taking actions necessary to maintain the safety of the vessel or to prevent the loss of life or property.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

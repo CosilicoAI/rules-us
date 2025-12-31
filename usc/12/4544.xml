@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/4544" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/4544/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/4544/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4544"><akn:num>4544</akn:num><akn:heading>Annual housing report</akn:heading><akn:content><akn:p>§ 4544. Annual housing report(a) In generalAfter reviewing and analyzing the reports submitted under section 1723a(n) of this title and section 1456(f) of this title, the Director shall submit a report, not later than October 30 of each year, to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, on the activities of each enterprise.
+
+
+(b) ContentsThe report required under subsection (a) shall—(1) discuss—(A) the extent to and manner in which—(i) each enterprise is achieving the annual housing goals established under subpart 2;
+
+(ii) each enterprise is complying with its duty to serve underserved markets, as established under section 4565 of this title;
+
+(iii) each enterprise is complying with section 4567 of this title;
+
+(iv) each enterprise received credit towards achieving each of its goals resulting from a transaction or activity pursuant to section 4561(b)(2) of this title; and
+
+(v) each enterprise is achieving the purposes of the enterprise established by law; and
+
+
+(B) the actions that each enterprise could undertake to promote and expand the purposes of the enterprise;
+
+
+(2) aggregate and analyze relevant data on income to assess the compliance of each enterprise with the housing goals established under subpart 2;
+
+(3) aggregate and analyze data on income, race, and gender by census tract and other relevant classifications, and compare such data with larger demographic, housing, and economic trends;
+
+(4) identify the extent to which each enterprise is involved in mortgage purchases and secondary market activities involving subprime and nontraditional loans;
+
+(5) compare the characteristics of subprime and nontraditional loans both purchased and securitized by each enterprise to other loans purchased and securitized by each enterprise; and
+
+(6) compare the characteristics of high-cost loans purchased and securitized, where such securities are not held on portfolio to loans</akn:p></akn:content><akn:subsection eId="subsec_4544_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general After reviewing and analyzing the reports submitted under section 1723a(n) of this title and section 1456(f) of this title, the Director shall submit a report, not later than October 30 of each year, to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, on the activities of each enterprise.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4544_b"><akn:num>(b)</akn:num><akn:heading>Contents</akn:heading><akn:content><akn:p>(b) Contents The report required under subsection (a) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4544_c"><akn:num>(c)</akn:num><akn:heading>Data collection and reporting</akn:heading><akn:content><akn:p>(c) Data collection and reporting</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

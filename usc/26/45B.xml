@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/45B" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/45B/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/45B/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_45B"><akn:num>45B</akn:num><akn:heading>Credit for portion of employer social security taxes paid with respect to employee cash tips</akn:heading><akn:content><akn:p>§ 45B. Credit for portion of employer social security taxes paid with respect to employee cash tips(a) General ruleFor purposes of section 38, the employer social security credit determined under this section for the taxable year is an amount equal to the excess employer social security tax paid or incurred by the taxpayer during the taxable year.
+
+
+(b) Excess employer social security taxFor purposes of this section—(1) In generalThe term “excess employer social security tax” means any tax paid by an employer under section 3111 with respect to tips received by an employee during any month, to the extent such tips—(A) are deemed to have been paid by the employer to the employee pursuant to section 3121(q) (without regard to whether such tips are reported under section 6053), and
+
+(B) exceed the amount by which the wages (excluding tips) paid by the employer to the employee during such month are less than the total amount which would be payable (with respect to such employment) at the minimum wage rate applicable to such individual under section 6(a)(1) of the Fair Labor Standards Act of 1938 (determined without regard to section 3(m) of such Act, and in the case of food or beverage establishments, as in effect on January 1, 2007).
+
+
+(2) Application only to certain lines of businessIn applying paragraph (1) there shall be taken into account only tips received from customers or clients in connection with the following services:(A) The providing, delivering, or serving of food or beverages for consumption, if the tipping of employees delivering or serving food or beverages by customers is customary.
+
+(B) The providing of any of the following services to a customer or client if the tipping of employees providing such services is customary:(i) Barbering and hair care.
+
+(ii) Nail care.
+
+(iii) Esthetics.
+
+(iv) Body and spa treatments.
+
+
+
+
+(c) Denial of double benefitNo deduction shall be allowed under this chapter for any amount taken into account in determining the credit </akn:p></akn:content><akn:subsection eId="subsec_45B_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of section 38, the employer social security credit determined under this section for the taxable year is an amount equal to the excess employer social security tax paid or incurred by the taxpayer during the taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45B_b"><akn:num>(b)</akn:num><akn:heading>Excess employer social security tax</akn:heading><akn:content><akn:p>(b) Excess employer social security tax For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45B_c"><akn:num>(c)</akn:num><akn:heading>Denial of double benefit</akn:heading><akn:content><akn:p>(c) Denial of double benefit No deduction shall be allowed under this chapter for any amount taken into account in determining the credit under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45B_d"><akn:num>(d)</akn:num><akn:heading>Election not to claim credit</akn:heading><akn:content><akn:p>(d) Election not to claim credit This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

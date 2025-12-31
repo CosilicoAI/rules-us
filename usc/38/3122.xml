@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/3122" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/3122/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/3122/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3122"><akn:num>3122</akn:num><akn:heading>Longitudinal study of vocational rehabilitation programs</akn:heading><akn:content><akn:p>§ 3122. Longitudinal study of vocational rehabilitation programs(a) Study Required.—(1) Subject to the availability of appropriated funds, the Secretary shall conduct a longitudinal study of a statistically valid sample of each of the groups of individuals described in paragraph (2). The Secretary shall study each such group over a period of at least 20 years.
+
+(2) The groups of individuals described in this paragraph are the following:(A) Individuals who begin participating in a vocational rehabilitation program under this chapter during fiscal year 2010.
+
+(B) Individuals who begin participating in such a program during fiscal year 2012.
+
+(C) Individuals who begin participating in such a program during fiscal year 2014.
+
+
+
+(b) Annual Reports.—By not later than July 1 of each year covered by the study required under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the study during the preceding year.
+
+(c) Contents of Report.—The Secretary shall include in the report required under subsection (b) any data the Secretary determines is necessary to determine the long-term outcomes of the individuals participating in the vocational rehabilitation programs under this chapter. The Secretary may add data elements from time to time as necessary. In addition, each such report shall contain the following information:(1) The number of individuals participating in vocational rehabilitation programs under this chapter who suspended participation in such a program during the year covered by the report.
+
+(2) The average number of months such individuals served on active duty.
+
+(3) The distribution of disability ratings of such individuals.
+
+(4) The types of other benefits administered by the Secretary received by such individuals.
+
+(5) The types of social security benefits received by such individuals.
+
+(6) Any unemployment benefits received by such individuals.
+
+(7) The average number of months</akn:p></akn:content><akn:subsection eId="subsec_3122_a"><akn:num>(a)</akn:num><akn:heading>Study Required.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3122_b"><akn:num>(b)</akn:num><akn:heading>Annual Reports.—</akn:heading><akn:content><akn:p>(b) By not later than July 1 of each year covered by the study required under subsection (a), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the study during the preceding year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3122_c"><akn:num>(c)</akn:num><akn:heading>Contents of Report.—</akn:heading><akn:content><akn:p>(c) The Secretary shall include in the report required under subsection (b) any data the Secretary determines is necessary to determine the long-term outcomes of the individuals participating in the vocational rehabilitation programs under this chapter. The Secretary may add data elements from time to time as necessary. In addition, each such report shall contain the following information:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

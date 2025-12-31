@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5754" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5754/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5754/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5754"><akn:num>5754</akn:num><akn:heading>Restriction on importation of previously exported tobacco products</akn:heading><akn:content><akn:p>§ 5754. Restriction on importation of previously exported tobacco products(a) Export-labeled tobacco products(1) In generalTobacco products and cigarette papers and tubes manufactured in the United States and labeled for exportation under this chapter—(A) may be transferred to or removed from the premises of a manufacturer or an export warehouse proprietor only if such articles are being transferred or removed without tax in accordance with section 5704;
+
+(B) may be imported or brought into the United States, after their exportation, only if such articles either are eligible to be released from customs custody with the partial duty exemption provided in section 5704(d) or are returned to the original manufacturer of such article as provided in section 5704(c); and
+
+(C) may not be sold or held for sale for domestic consumption in the United States unless such articles are removed from their export packaging and repackaged by the original manufacturer into new packaging that does not contain an export label.
+
+
+(2) Alterations by persons other than original manufacturerThis section shall apply to articles labeled for export even if the packaging or the appearance of such packaging to the consumer of such articles has been modified or altered by a person other than the original manufacturer so as to remove or conceal or attempt to remove or conceal (including by the placement of a sticker over) any export label.
+
+
+(3) Exports include shipments to Puerto RicoFor purposes of this section, section 5704(d), section 5761, and such other provisions as the Secretary may specify by regulations, references to exportation shall be treated as including a reference to shipment to the Commonwealth of Puerto Rico.
+
+
+
+(b) Export labelFor purposes of this section, an article is labeled for export or contains an export label if it bears the mark, label, or notice required under section 5704(b).
+
+
+(c) Cross references(1) For exception to this section for personal use, see section 5761(d)</akn:p></akn:content><akn:subsection eId="subsec_5754_a"><akn:num>(a)</akn:num><akn:heading>Export-labeled tobacco products</akn:heading><akn:content><akn:p>(a) Export-labeled tobacco products</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5754_b"><akn:num>(b)</akn:num><akn:heading>Export label</akn:heading><akn:content><akn:p>(b) Export label For purposes of this section, an article is labeled for export or contains an export label if it bears the mark, label, or notice required under section 5704(b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5754_c"><akn:num>(c)</akn:num><akn:heading>Cross references</akn:heading><akn:content><akn:p>(c) Cross references</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

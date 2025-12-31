@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/30302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/30302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/30302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30302"><akn:num>30302</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>§ 30302. Purposes
+The purposes of the corporation are—(1) to operate as a not-for-profit corporation exclusively for charitable, educational, patriotic, and civic improvement purposes;
+
+(2) to promote the welfare of blinded veterans so that, notwithstanding their disabilities, they may take their rightful place in the community and work with their fellow citizens toward the creation of a peaceful world;
+
+(3) to preserve and strengthen a spirit of fellowship among blinded veterans so that they may give mutual aid and assistance to one another; and
+
+(4) to maintain and extend the institutions of American freedom and to encourage loyalty to the Constitution and laws of the United States and of the States in which they reside.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1317.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3030236:853(1)–(3), (4) (less words between 1st comma and semicolon).Aug. 27, 1958, Pub. L. 85–769, § 3(1)–(3), (4) (less words between 1st comma and semicolon), 72 Stat. 924.
+
+
+In clause (1), the words “to operate as a not-for-profit corporation” are substituted for “To be organized and operated as a corporation not for profit . . . and such corporation is organized and shall be operated” in 36:853(4) to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_30302_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) to operate as a not-for-profit corporation exclusively for charitable, educational, patriotic, and civic improvement purposes;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30302_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) to promote the welfare of blinded veterans so that, notwithstanding their disabilities, they may take their rightful place in the community and work with their fellow citizens toward the creation of a peaceful world;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30302_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) to preserve and strengthen a spirit of fellowship among blinded veterans so that they may give mutual aid and assistance to one another; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30302_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) to maintain and extend the institutions of American freedom and to encourage loyalty to the Constitution and laws of the United States and of the States in which they reside.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

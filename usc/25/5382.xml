@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/5382" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/5382/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/5382/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5382"><akn:num>5382</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>§ 5382. Establishment
+The Secretary shall establish and carry out a program within the Indian Health Service of the Department of Health and Human Services to be known as the “Tribal Self-Governance Program” in accordance with this subchapter.
+(Pub. L. 93–638, title V, § 502, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 714.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 458aaa–1 of this title prior to editorial reclassification and renumbering as this section.
+Another section 502 of Pub. L. 93–638 was renumbered section 802 and is classified to section 5422 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

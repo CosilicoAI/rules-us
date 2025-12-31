@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/391b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/391b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/391b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_391b"><akn:num>391b</akn:num><akn:heading>Strategic cybersecurity program</akn:heading><akn:content><akn:p>§ 391b. Strategic cybersecurity program(a) In General.—(1) There is a program to be known as the “Strategic Cybersecurity Program” (in this section referred to as the “Program”) to ensure the ability of the Department of Defense to conduct the most critical military missions of the Department.
+
+(2) The Secretary of Defense shall designate a principal staff assistant from within the Office of the Secretary of Defense whose office shall serve as the office of primary responsibility for the Program, and provide policy, direction, and oversight regarding the execution of the responsibilities of the program manager selected pursuant to subsection (c)(1).
+
+
+(b) Membership.—In addition to the office of primary responsibility for the Program under subsection (a)(2) and the program manager selected pursuant to subsection (c)(1), membership in the Program shall include the following:(1) The Vice Chairman of the Joint Chiefs of Staff.
+
+(2) The Commanders of the United States Cyber Command, United States European Command, United States Indo-Pacific Command, United States Northern Command, United States Strategic Command, United States Space Command, United States Transportation Command.
+
+(3) The Under Secretary of Defense for Acquisition and Sustainment.
+
+(4) The Under Secretary of Defense for Policy.
+
+(5) The Chief Information Officer of the Department of Defense.
+
+(6) The Chief Digital and Artificial Intelligence Officer of the Department of Defense.
+
+(7) The chief information officers of the military departments.
+
+(8) The Principal Cyber Advisor of the Department of Defense.
+
+(9) The Principal Cyber Advisors of the military departments.
+
+(10) Each senior official identified pursuant to subsection (i) of section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1118).
+
+(11) Such other officials as may be determined necessary by the Secretary of Defense.
+
+
+(c) Program Office.—(1) There is in the Cybersecurity Directorate of the N</akn:p></akn:content><akn:subsection eId="subsec_391b_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_b"><akn:num>(b)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(b) In addition to the office of primary responsibility for the Program under subsection (a)(2) and the program manager selected pursuant to subsection (c)(1), membership in the Program shall include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_c"><akn:num>(c)</akn:num><akn:heading>Program Office.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_d"><akn:num>(d)</akn:num><akn:heading>Designation of Mission Elements of Program.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_e"><akn:num>(e)</akn:num><akn:heading>Additional Responsibilities of Head of Office of Primary Responsibility.—</akn:heading><akn:content><akn:p>(e) In addition to providing policy, direction, and oversight as specified in subsection (a)(2), the head of the office of primary responsibility for the Program designated under such subsection shall be responsible—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_f"><akn:num>(f)</akn:num><akn:heading>Responsibilities of Program Manager.—</akn:heading><akn:content><akn:p>(f) The program manager selected pursuant to subsection (c)(1) shall be responsible for the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_g"><akn:num>(g)</akn:num><akn:heading>Responsibilities of Secretary of Defense.—</akn:heading><akn:content><akn:p>(g) The Secretary of Defense shall define and issue guidance on the roles and responsibilities for components of the Department of Defense other than those specified in this section with respect to the Program, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_h"><akn:num>(h)</akn:num><akn:heading>Annual Reporting.—</akn:heading><akn:content><akn:p>(h) Not later than December 31 of each year, the head of the office of primary responsibility for the Program, in coordination with the appropriate members of the Program under subsection (b), shall submit to the congressional defense committees an annual report on the efforts carried out pursuant to this section or any covered provision of law, including with respect to such efforts concerning—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_i"><akn:num>(i)</akn:num><akn:heading>Annual Budget Display.—</akn:heading><akn:content><akn:p>(i)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_391b_j"><akn:num>(j)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(j) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

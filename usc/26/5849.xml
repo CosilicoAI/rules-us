@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5849" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5849/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5849/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5849"><akn:num>5849</akn:num><akn:heading>Citation of chapter</akn:heading><akn:content><akn:p>§ 5849. Citation of chapter
+This chapter may be cited as the “National Firearms Act” and any reference in any other provision of law to the “National Firearms Act” shall be held to refer to the provisions of this chapter.
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1232.)
+
+Editorial Notes
+Prior ProvisionsA prior section 5849, Pub. L. 85–859, title II, § 203(g)(1), Sept. 2, 1958, 72 Stat. 1427, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 90–618, title II, § 202, Oct. 22, 1968, 82 Stat. 1235, provided that: “The amendments made by section 201 of this title [enacting this chapter] shall be cited as the ‘National Firearms Act Amendments of 1968’.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

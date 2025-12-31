@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3342" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3342/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3342/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3342"><akn:num>3342</akn:num><akn:heading>Check cashing and exchange transactions</akn:heading><akn:content><akn:p>§ 3342. Check cashing and exchange transactions(a) A disbursing official of the United States Government may—(1) cash and negotiate negotiable instruments payable in United States currency or currency of a foreign country;
+
+(2) exchange United States currency, coins, and negotiable instruments and currency, coins, and negotiable instruments of foreign countries; and
+
+(3) cash checks drawn on the Treasury to accommodate United States citizens in a foreign country, but only if—(A) satisfactory banking facilities are not available in the foreign country; and
+
+(B) a check is presented by the payee who is a United States citizen.
+
+
+
+(b) A disbursing official may act under subsection (a)(1) and (2) of this section only for the following:(1) An official purpose.
+
+(2) Personnel of the Government.
+
+(3) A dependent of personnel of the Government, but only—(A) at a United States installation at which adequate banking facilities are not available; and
+
+(B) in the case of negotiation of negotiable instruments, if the dependent’s sponsor authorizes, in writing, the presentation of negotiable instruments to the disbursing official for negotiation.
+
+
+(4) A veteran hospitalized or living in an institution operated by an agency.
+
+(5) A contractor, or personnel of a contractor, carrying out a Government project.
+
+(6) Personnel of an authorized agency not part of the Government that operates with an agency of the Government.
+
+(7) A Federal credit union (as defined in section 101(1) of the Federal Credit Union Act (12 U.S.C. 1752(1))) that at the request of the Secretary of Defense is operating on a United States military installation in a foreign country, but only if that country does not permit contractor-operated military banking facilities to operate on such installations.
+
+(8) A member of the military forces of an allied or coalition nation who is participating in a combined operation, combined exercise, or combined humanitarian or peacekeeping mission with the Armed Forces of the </akn:p></akn:content><akn:subsection eId="subsec_3342_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A disbursing official of the United States Government may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3342_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A disbursing official may act under subsection (a)(1) and (2) of this section only for the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3342_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3342_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authority to issue regulations applying to a disbursing official that is an officer or employee of the agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3342_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) Regulations prescribed under subsection (d) shall include regulations that define the terms “dependent” and “sponsor” for the purposes of this section. In the regulations, the term “dependent”, with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3342_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) With respect to automated teller machines on naval vessels, the authority of a disbursing official of the United States Government under subsection (a) also includes the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

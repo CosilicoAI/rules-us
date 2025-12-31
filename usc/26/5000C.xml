@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5000C" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5000C/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5000C/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5000C"><akn:num>5000C</akn:num><akn:heading>Imposition of tax on certain foreign procurement</akn:heading><akn:content><akn:p>§ 5000C. Imposition of tax on certain foreign procurement(a) Imposition of taxThere is hereby imposed on any foreign person that receives a specified Federal procurement payment a tax equal to 2 percent of the amount of such specified Federal procurement payment.
+
+
+(b) Specified Federal procurement paymentFor purposes of this section, the term “specified Federal procurement payment” means any payment made pursuant to a contract with the Government of the United States for—(1) the provision of goods, if such goods are manufactured or produced in any country which is not a party to an international procurement agreement with the United States, or
+
+(2) the provision of services, if such services are provided in any country which is not a party to an international procurement agreement with the United States.
+
+
+(c) Foreign personFor purposes of this section, the term “foreign person” means any person other than a United States person.
+
+
+(d) Administrative provisions(1) WithholdingThe amount deducted and withheld under chapter 3 shall be increased by the amount of tax imposed by this section on such payment.
+
+
+(2) Other administrative provisionsFor purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
+
+
+
+(Added Pub. L. 111–347, title III, § 301(a)(1), Jan. 2, 2011, 124 Stat. 3666.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 111–347, title III, § 301(a)(3), Jan. 2, 2011, 124 Stat. 3666, provided that: “The amendments made by this subsection [enacting this section] shall apply to payments received pursuant to contracts entered into on and after the date of the enactment of this Act [Jan. 2, 2011].”
+
+
+Prohibition on Reimbursement of FeesPub. L. 111–347, title III, § 301(b), Jan. 2, 2011, 124 Stat. 3666, provided that:
+“(1) In general.—The head of each executive agency shall take any and all measures necessary to ensure that no funds are disbursed to any foreign contractor in order to reimburse the tax i</akn:p></akn:content><akn:subsection eId="subsec_5000C_a"><akn:num>(a)</akn:num><akn:heading>Imposition of tax</akn:heading><akn:content><akn:p>(a) Imposition of tax There is hereby imposed on any foreign person that receives a specified Federal procurement payment a tax equal to 2 percent of the amount of such specified Federal procurement payment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5000C_b"><akn:num>(b)</akn:num><akn:heading>Specified Federal procurement payment</akn:heading><akn:content><akn:p>(b) Specified Federal procurement payment For purposes of this section, the term “specified Federal procurement payment” means any payment made pursuant to a contract with the Government of the United States for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5000C_c"><akn:num>(c)</akn:num><akn:heading>Foreign person</akn:heading><akn:content><akn:p>(c) Foreign person For purposes of this section, the term “foreign person” means any person other than a United States person.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5000C_d"><akn:num>(d)</akn:num><akn:heading>Administrative provisions</akn:heading><akn:content><akn:p>(d) Administrative provisions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

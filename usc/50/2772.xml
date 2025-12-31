@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2772" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2772/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2772/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2772"><akn:num>2772</akn:num><akn:heading>Reports on financial balances for atomic energy defense activities</akn:heading><akn:content><akn:p>§ 2772. Reports on financial balances for atomic energy defense activities(a) Reports required(1) In generalConcurrent with the submission of the budget justification materials submitted to Congress in support of the budget of the President for a fiscal year (submitted to Congress pursuant to section 1105(a) of title 31), the Secretary of Energy shall submit to the congressional defense committees a report on the financial balances for each atomic energy defense program.
+
+
+(2) Presentation of informationIn each report required by paragraph (1), the Secretary shall—(A) present information on the financial balances for each atomic energy defense program at the budget control levels used in the report accompanying the most current Act appropriating funds for energy and water development; and
+
+(B) present financial balances in connection with funding under recurring DOE national security authorizations (as defined in section 2741 of this title) separately from balances in connection with funding under any other provision of law.
+
+
+
+(b) Elements(1) FormatEach report required by subsection (a) shall—(A) be divided into two parts, as specified in paragraphs (2) and (3); and
+
+(B) set forth the information required by those paragraphs in summary form and by fiscal year.
+
+
+(2) Part 1The first part of the report required by subsection (a) shall set forth, for each atomic energy defense program, the following information, as of the end of the most recently completed fiscal year:(A) The balance of any unobligated funds and an explanation for why those funds are unobligated.
+
+(B) The total funds available to cost.
+
+(C) The total balance of costed funds.
+
+(D) The total balance of uncosted funds.
+
+(E) The threshold for the balance of uncosted funds, stated in dollars.
+
+(F) The amount of any balance of uncosted funds that is over or under that threshold and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
+
+(G) The total balanc</akn:p></akn:content><akn:subsection eId="subsec_2772_a"><akn:num>(a)</akn:num><akn:heading>Reports required</akn:heading><akn:content><akn:p>(a) Reports required</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2772_b"><akn:num>(b)</akn:num><akn:heading>Elements</akn:heading><akn:content><akn:p>(b) Elements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2772_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

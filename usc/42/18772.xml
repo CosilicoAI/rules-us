@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18772" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18772/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18772/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18772"><akn:num>18772</akn:num><akn:heading>Data collection in the electricity sector</akn:heading><akn:content><akn:p>§ 18772. Data collection in the electricity sector(a) Dashboard(1) Establishment(A) In generalNot later than 90 days after November 15, 2021, the Administrator shall establish an online database to track the operation of the bulk power system in the contiguous 48 States (referred to in this section as the “Dashboard”).
+
+
+(B) Improvement of existing dashboardThe Dashboard may be established through the improvement, in accordance with this subsection, of an existing dashboard of the Energy Information Administration, such as—(i) the U.S. Electric System Operating Data dashboard; or
+
+(ii) the Hourly Electric Grid Monitor.
+
+
+
+(2) Expansion(A) In generalNot later than 1 year after November 15, 2021, the Administrator shall expand the Dashboard to include, to the maximum extent practicable, hourly operating data collected from the electricity balancing authorities that operate the bulk power system in all of the several States, each territory of the United States, and the District of Columbia.
+
+
+(B) Types of dataThe hourly operating data collected under subparagraph (A) may include data relating to—(i) total electricity demand;
+
+(ii) electricity demand by subregion;
+
+(iii) short-term electricity demand forecasts;
+
+(iv) total electricity generation;
+
+(v) net electricity generation by fuel type, including renewables;
+
+(vi) electricity stored and discharged;
+
+(vii) total net electricity interchange;
+
+(viii) electricity interchange with directly interconnected balancing authorities; and
+
+(ix) where available, the estimated marginal greenhouse gas emissions per megawatt hour of electricity generated—(I) within the metered boundaries of each balancing authority; and
+
+(II) for each pricing node.
+
+
+
+
+
+(b) Mix of energy sources(1) In generalNot later than 1 year after November 15, 2021, the Administrator shall establish, in accordance with section 18777 of this title and this subsection and to the extent the Administrator determines to be appropriate, a system to harmonize the ope</akn:p></akn:content><akn:subsection eId="subsec_18772_a"><akn:num>(a)</akn:num><akn:heading>Dashboard</akn:heading><akn:content><akn:p>(a) Dashboard</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18772_b"><akn:num>(b)</akn:num><akn:heading>Mix of energy sources</akn:heading><akn:content><akn:p>(b) Mix of energy sources</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18772_c"><akn:num>(c)</akn:num><akn:heading>Observed characteristics of bulk power system resource integration</akn:heading><akn:content><akn:p>(c) Observed characteristics of bulk power system resource integration</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18772_d"><akn:num>(d)</akn:num><akn:heading>Distribution system operations</akn:heading><akn:content><akn:p>(d) Distribution system operations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

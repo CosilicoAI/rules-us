@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/702" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/702/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/702/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_702"><akn:num>702</akn:num><akn:heading>Election of trustee</akn:heading><akn:content><akn:p>§ 702. Election of trustee(a) A creditor may vote for a candidate for trustee only if such creditor—(1) holds an allowable, undisputed, fixed, liquidated, unsecured claim of a kind entitled to distribution under section 726(a)(2), 726(a)(3), 726(a)(4), 752(a), 766(h), or 766(i) of this title;
+
+(2) does not have an interest materially adverse, other than an equity interest that is not substantial in relation to such creditor’s interest as a creditor, to the interest of creditors entitled to such distribution; and
+
+(3) is not an insider.
+
+
+(b) At the meeting of creditors held under section 341 of this title, creditors may elect one person to serve as trustee in the case if election of a trustee is requested by creditors that may vote under subsection (a) of this section, and that hold at least 20 percent in amount of the claims specified in subsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section.
+
+(c) A candidate for trustee is elected trustee if—(1) creditors holding at least 20 percent in amount of the claims of a kind specified in subsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
+
+(2) such candidate receives the votes of creditors holding a majority in amount of claims specified in subsection (a)(1) of this section that are held by creditors that vote for a trustee.
+
+
+(d) If a trustee is not elected under this section, then the interim trustee shall serve as trustee in the case.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2604; Pub. L. 97–222, § 7, July 27, 1982, 96 Stat. 237; Pub. L. 98–353, title III, § 472, July 10, 1984, 98 Stat. 380.)
+
+Historical and Revision Notes
+legislative statementsThe House amendment adopts section 702(a)(2) of the Senate amendment. An insubstantial equity interest does not disqualify a creditor from voting for a candidate for trustee.
+
+senate report no. 95–989Subsection (a) of this section specifies which creditor</akn:p></akn:content><akn:subsection eId="subsec_702_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A creditor may vote for a candidate for trustee only if such creditor—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_702_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) At the meeting of creditors held under section 341 of this title, creditors may elect one person to serve as trustee in the case if election of a trustee is requested by creditors that may vote under subsection (a) of this section, and that hold at least 20 percent in amount of the claims specified in subsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_702_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) A candidate for trustee is elected trustee if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_702_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) If a trustee is not elected under this section, then the interim trustee shall serve as trustee in the case.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

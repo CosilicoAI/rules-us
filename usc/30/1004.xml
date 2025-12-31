@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/1004" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/1004/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/1004/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1004"><akn:num>1004</akn:num><akn:heading>Rents and royalties</akn:heading><akn:content><akn:p>§ 1004. Rents and royalties(a) In generalGeothermal leases shall provide for—(1) a royalty on electricity produced using geothermal resources, other than direct use of geothermal resources, that shall be—(A) not less than 1 percent and not more than 2.5 percent of the gross proceeds from the sale of electricity produced from such resources during the first 10 years of production under the lease; and
+
+(B) not less than 2 and not more than 5 percent of the gross proceeds from the sale of electricity produced from such resources during each year after such 10-year period;
+
+
+(2) a royalty on any byproduct that is a mineral specified in the first section of the Mineral Leasing Act (30 U.S.C. 181), and that is derived from production under the lease, at the rate of the royalty that applies under that Act [30 U.S.C. 181 et seq.] to production of the mineral under a lease under that Act; and
+
+(3) payment in advance of an annual rental of not less than—(A) for each of the 1st through 10th years of the lease—(i) in the case of a lease awarded in a noncompetitive lease sale, $1 per acre or fraction thereof; or
+
+(ii) in the case of a lease awarded in a competitive lease sale, $2 per acre or fraction thereof for the 1st year and $3 per acre or fraction thereof for each of the 2nd through 10th years; and
+
+
+(B) for each year after the 10th year of the lease, $5 per acre or fraction thereof; 11 So in original. The semicolon probably should be a period.
+
+
+
+(b) Direct use(1) In generalNotwithstanding subsection (a)(1), the Secretary shall establish a schedule of fees, in lieu of royalties for geothermal resources, that a lessee or its affiliate—(A) uses for a purpose other than the commercial generation of electricity; and
+
+(B) does not sell.
+
+
+(2) Schedule of feesThe schedule of fees—(A) may be based on the quantity or thermal content, or both, of geothermal resources used;
+
+(B) shall ensure a fair return to the United States for use of the resource; and
+
+(C) shall encourage develop</akn:p></akn:content><akn:subsection eId="subsec_1004_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Geothermal leases shall provide for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1004_b"><akn:num>(b)</akn:num><akn:heading>Direct use</akn:heading><akn:content><akn:p>(b) Direct use</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1004_c"><akn:num>(c)</akn:num><akn:heading>Final regulation establishing royalty rates</akn:heading><akn:content><akn:p>(c) Final regulation establishing royalty rates In issuing any final regulation establishing royalty rates under this section, the Secretary shall seek—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1004_d"><akn:num>(d)</akn:num><akn:heading>Credits for in-kind payments of electricity</akn:heading><akn:content><akn:p>(d) Credits for in-kind payments of electricity The Secretary may provide to a lessee a credit against royalties owed under this chapter, in an amount equal to the value of electricity provided under contract to a State or county government that is entitled to a portion of such royalties under section 1019 of this title, section 35 of the Mineral Leasing Act (30 U.S.C. 191), except as otherwise provided by this section, or section 355 of this title, if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1004_e"><akn:num>(e)</akn:num><akn:heading>Crediting of rental toward royalty</akn:heading><akn:content><akn:p>(e) Crediting of rental toward royalty Any annual rental under this section that is paid with respect to a lease before the first day of the year for which the annual rental is owed shall be credited to the amount of royalty that is required to be paid under the lease for that year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1004_f"><akn:num>(f)</akn:num><akn:heading>Advanced royalties required for cessation of production</akn:heading><akn:content><akn:p>(f) Advanced royalties required for cessation of production</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1004_g"><akn:num>(g)</akn:num><akn:heading>Termination of lease for failure to pay rental</akn:heading><akn:content><akn:p>(g) Termination of lease for failure to pay rental</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

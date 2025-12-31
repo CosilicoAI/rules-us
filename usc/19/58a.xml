@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/58a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/58a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/58a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_58a"><akn:num>58a</akn:num><akn:heading>Fees for services of customs officers</akn:heading><akn:content><akn:p>§ 58a. Fees for services of customs officers
+The Secretary may charge such fees as may be necessary to cover the costs of providing services similar to or the same as services furnished by customs officers under the sections repealed by subsection (a).
+(Pub. L. 95–410, title II, § 214(b), Oct. 3, 1978, 92 Stat. 904.)
+
+Editorial Notes
+
+References in TextThe sections repealed by subsection (a), referred to in text, means the sections repealed by Pub. L. 95–410, § 214(a), which provided: “Sections 2654, 4381, 4382, and 4383 of the Revised Statutes of the United States (19 U.S.C. 58 and 46 U.S.C. 329, 330, and 333) are each repealed.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

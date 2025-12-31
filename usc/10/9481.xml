@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/9481" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/9481/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/9481/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9481"><akn:num>9481</akn:num><akn:heading>Establishment: purpose</akn:heading><akn:content><akn:p>§ 9481. Establishment: purpose
+The Secretary of the Air Force may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Air Force, the Space Force, and civilians, to qualify them for—(1) appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve; or
+
+(2) appointment as officers, or enlistment as noncommissioned officers, for service in the Space Force in a space force active status.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 571, § 9411; renumbered § 9481, Pub. L. 115–232, div. A, title VIII, § 806(a)(2), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, § 923(d)(16), Jan. 1, 2021, 134 Stat. 3815; Pub. L. 118–31, div. A, title XVII, § 1721(d)(1), Dec. 22, 2023, 137 Stat. 667.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+941110:442 (words before 1st semicolon of 1st sentence).June 3, 1916, ch. 134, § 47d (words before 1st semicolon of 1st sentence); added June 4, 1920, ch. 227, subch. I, § 34 (words before 1st semicolon of 1st sentence of last par.), 41 Stat. 779.
+
+
+The words “upon military reservations or elsewhere” are omitted as surplusage. The words “of the Air Force” are inserted for clarity. The words “or enlistment as” are inserted for clarity.
+
+Editorial Notes
+Amendments2023—Pub. L. 118–31 inserted dash after “to qualify them for” and par. (1) designation before “appointment”, substituted “; or” for “or the Space Force Reserve.”, and added par. (2).
+2021—Pub. L. 116–283, § 923(d)(16)(B), inserted “or the Space Force Reserve” after “the Air Force Reserve”.
+Pub. L. 116–283, § 923(d)(16)(A), which directed amendment of this section by inserting “, the Space Force,” after “members of the Air Force,”, was executed by making the insertion after “members of the Air Force” to reflect the probable intent of Congress.
+2018—Pub. L.</akn:p></akn:content><akn:subsection eId="subsec_9481_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9481_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) appointment as officers, or enlistment as noncommissioned officers, for service in the Space Force in a space force active status.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

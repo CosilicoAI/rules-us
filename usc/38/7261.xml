@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/7261" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/7261/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/7261/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7261"><akn:num>7261</akn:num><akn:heading>Scope of review</akn:heading><akn:content><akn:p>§ 7261. Scope of review(a) In any action brought under this chapter, the Court of Appeals for Veterans Claims, to the extent necessary to its decision and when presented, shall—(1) decide all relevant questions of law, interpret constitutional, statutory, and regulatory provisions, and determine the meaning or applicability of the terms of an action of the Secretary;
+
+(2) compel action of the Secretary unlawfully withheld or unreasonably delayed;
+
+(3) hold unlawful and set aside decisions, findings (other than those described in clause (4) of this subsection), conclusions, rules, and regulations issued or adopted by the Secretary, the Board of Veterans’ Appeals, or the Chairman of the Board found to be—(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
+
+(B) contrary to constitutional right, power, privilege, or immunity;
+
+(C) in excess of statutory jurisdiction, authority, or limitations, or in violation of a statutory right; or
+
+(D) without observance of procedure required by law; and
+
+
+(4) in the case of a finding of material fact adverse to the claimant made in reaching a decision in a case before the Department with respect to benefits under laws administered by the Secretary, hold unlawful and set aside or reverse such finding if the finding is clearly erroneous.
+
+
+(b) In making the determinations under subsection (a), the Court shall review the record of proceedings before the Secretary and the Board of Veterans’ Appeals pursuant to section 7252(b) of this title and shall—(1) take due account of the Secretary’s application of section 5107(b) of this title; and
+
+(2) take due account of the rule of prejudicial error.
+
+
+(c) In no event shall findings of fact made by the Secretary or the Board of Veterans’ Appeals be subject to trial de novo by the Court.
+
+(d) When a final decision of the Board of Veterans’ Appeals is adverse to a party and the sole stated basis for such decision is the failure of the party to comply with a</akn:p></akn:content><akn:subsection eId="subsec_7261_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) In any action brought under this chapter, the Court of Appeals for Veterans Claims, to the extent necessary to its decision and when presented, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7261_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In making the determinations under subsection (a), the Court shall review the record of proceedings before the Secretary and the Board of Veterans’ Appeals pursuant to section 7252(b) of this title and shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7261_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) In no event shall findings of fact made by the Secretary or the Board of Veterans’ Appeals be subject to trial de novo by the Court.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7261_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) When a final decision of the Board of Veterans’ Appeals is adverse to a party and the sole stated basis for such decision is the failure of the party to comply with any applicable regulation prescribed by the Secretary, the Court shall review only questions raised as to compliance with and the validity of the regulation.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

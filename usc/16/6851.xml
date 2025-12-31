@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/6851" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/6851/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/6851/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6851"><akn:num>6851</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6851. Definitions
+In this chapter:(1) Federal landThe term “Federal land” means any land managed by a Federal land management agency.
+
+
+(2) Federal land management agencyThe term “Federal land management agency” means—(A) the Bureau of Reclamation;
+
+(B) the National Park Service;
+
+(C) the Bureau of Land Management;
+
+(D) the United States Fish and Wildlife Service;
+
+(E) the Forest Service; and
+
+(F) the Corps of Engineers.
+
+
+(3) Road or trailThe term “road or trail” means a road or trail designated by 1 or more of the Secretaries for public use.
+
+
+(4) SecretariesThe term “Secretaries” means—(A) the Secretary of Agriculture, acting through the Chief of the Forest Service;
+
+(B) the Secretary of the Interior; and
+
+(C) the Secretary of the Army, acting through the Assistant Secretary of the Army for Civil Works.
+
+
+(Pub. L. 117–114, § 2, Apr. 29, 2022, 136 Stat. 1175.)
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 117–114, § 1, Apr. 29, 2022, 136 Stat. 1175, provided that: “This Act [enacting this chapter] may be cited as the ‘Modernizing Access to Our Public Land Act’.”</akn:p></akn:content><akn:subsection eId="subsec_6851_1"><akn:num>(1)</akn:num><akn:heading>Federal land</akn:heading><akn:content><akn:p>(1) Federal land The term “Federal land” means any land managed by a Federal land management agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6851_2"><akn:num>(2)</akn:num><akn:heading>Federal land management agency</akn:heading><akn:content><akn:p>(2) Federal land management agency The term “Federal land management agency” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6851_3"><akn:num>(3)</akn:num><akn:heading>Road or trail</akn:heading><akn:content><akn:p>(3) Road or trail The term “road or trail” means a road or trail designated by 1 or more of the Secretaries for public use.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6851_4"><akn:num>(4)</akn:num><akn:heading>Secretaries</akn:heading><akn:content><akn:p>(4) Secretaries The term “Secretaries” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

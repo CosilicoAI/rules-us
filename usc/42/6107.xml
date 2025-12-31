@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6107" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6107/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6107/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6107"><akn:num>6107</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 6107. Definitions
+For purposes of this chapter—(1) the term “Commission” means the Commission on Civil Rights;
+
+(2) the term “Secretary” means the Secretary of Health and Human Services;
+
+(3) the term “Federal department or agency” means any agency as defined in section 551 of title 5 and includes the United States Postal Service and the Postal Regulatory Commission; and
+
+(4) the term “program or activity” means all of the operations of—(A)(i) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
+
+(ii) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
+
+
+(B)(i) a college, university, or other postsecondary institution, or a public system of higher education; or
+
+(ii) a local educational agency (as defined in section 7801 of title 20), system of vocational education, or other school system;
+
+
+(C)(i) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—(I) if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
+
+(II) which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
+
+
+(ii) the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
+
+
+(D) any other entity which is established by two or more of the entities described in subparagraph (A), (B), or (C);
+
+
+any part of which is extended Federal financial assistance.
+
+(Pub. L. 94–135, title III, § 309, formerly § 308, Nov. 28, 1975, 89 Stat. 731; renumbered § 309, Pub. L. 95–478, title IV, § 401(e), Oct. 18, 19</akn:p></akn:content><akn:subsection eId="subsec_6107_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “Commission” means the Commission on Civil Rights;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6107_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “Secretary” means the Secretary of Health and Human Services;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6107_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “Federal department or agency” means any agency as defined in section 551 of title 5 and includes the United States Postal Service and the Postal Regulatory Commission; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6107_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) the term “program or activity” means all of the operations of— any part of which is extended Federal financial assistance.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5011" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5011/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5011/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5011"><akn:num>5011</akn:num><akn:heading>Consumer awareness</akn:heading><akn:content><akn:p>§ 5011. Consumer awareness(a) In generalEach bank shall provide, in accordance with subsection (b), a brief notice about substitute checks that describes—(1) how a substitute check is the legal equivalent of an original check for all purposes, including any provision of any Federal or State law, and for all persons, if the substitute check—(A) accurately represents all of the information on the front and back of the original check as of the time at which the original check was truncated; and
+
+(B) bears the legend: “This is a legal copy of your check. You can use it in the same way you would use the original check.”; and
+
+
+(2) the consumer recredit rights established under section 5006 of this title when a consumer believes in good faith that a substitute check was not properly charged to the account of the consumer.
+
+
+(b) Distribution(1) Existing customersWith respect to consumers who are customers of a bank on the effective date of this chapter and who receive original checks or substitute checks, a bank shall provide the notice described in subsection (a) to each such consumer no later than the first regularly scheduled communication with the consumer after the effective date of this chapter.
+
+
+(2) New account holdersA bank shall provide the notice described in subsection (a) to each consumer who will receive original checks or substitute checks, other than existing customers referred to in paragraph (1), at the time at which the customer relationship is initiated.
+
+
+(3) Mode of deliveryA bank may send the notices required by this subsection by United States mail or by any other means through which the consumer has agreed to receive account information.
+
+
+(4) Consumers who request copies of checksNotice shall be provided to each consumer of the bank that requests a copy of a check and receives a substitute check, at the time of the request.
+
+
+
+(c) Model language(1) In generalBefore the end of the 9-month period beginning on October 28, 2003, the Board shall publis</akn:p></akn:content><akn:subsection eId="subsec_5011_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Each bank shall provide, in accordance with subsection (b), a brief notice about substitute checks that describes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5011_b"><akn:num>(b)</akn:num><akn:heading>Distribution</akn:heading><akn:content><akn:p>(b) Distribution</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5011_c"><akn:num>(c)</akn:num><akn:heading>Model language</akn:heading><akn:content><akn:p>(c) Model language</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/9021" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/9021/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/9021/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9021"><akn:num>9021</akn:num><akn:heading>Space Acquisition Council</akn:heading><akn:content><akn:p>§ 9021. Space Acquisition Council(a) Establishment.—There is in the Office of the Secretary of the Air Force a council to be known as the “Space Acquisition Council” (in this section referred to as the “Council”).
+
+(b) Members.—The members of the Council are as follows:(1) The Under Secretary of the Air Force.
+
+(2) The Assistant Secretary of the Air Force for Space Acquisition and Integration, who shall act as chair of the Council.
+
+(3) The Assistant Secretary of Defense for Space Policy.
+
+(4) The Director of the National Reconnaissance Office.
+
+(5) The Chief of Space Operations.
+
+(6) The Commander of the United States Space Command.
+
+
+(c) Duties.—(1) The Council shall oversee, direct, and manage acquisition and integration space systems and programs of the armed forces in order to ensure integration across the national security space enterprise.
+
+(2)(A) The Council shall promptly—(i) review any determination made by the Assistant Secretary of the Air Force for Space Acquisition and Integration with respect to architecture for the space systems and programs of the armed forces under section 9016(b)(6)(B)(i) of this title, including the requirements for operating such space systems or programs; and
+
+(ii) either—(I) if the Council finds such a determination to be warranted, certify the determination; or
+
+(II) if the Council finds such a determination not to be warranted, decline to certify the determination.
+
+
+
+(B) Not later than 10 business days after the date on which the Council makes a finding with respect to a certification under subparagraph (A), the Council shall submit to the congressional defense committees a notification of the finding, including a detailed justification for the finding.
+
+(C) Except as provided in subparagraph (D), the Assistant Secretary of the Air Force for Space Acquisition and Integration may not take any action to implement a determination referred to in subparagraph (A)(i) until 30 days has elapsed following the date on which the Counc</akn:p></akn:content><akn:subsection eId="subsec_9021_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) There is in the Office of the Secretary of the Air Force a council to be known as the “Space Acquisition Council” (in this section referred to as the “Council”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9021_b"><akn:num>(b)</akn:num><akn:heading>Members.—</akn:heading><akn:content><akn:p>(b) The members of the Council are as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9021_c"><akn:num>(c)</akn:num><akn:heading>Duties.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9021_d"><akn:num>(d)</akn:num><akn:heading>Meetings.—</akn:heading><akn:content><akn:p>(d) The Council shall meet not less frequently than monthly.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9021_e"><akn:num>(e)</akn:num><akn:heading>Reports.—</akn:heading><akn:content><akn:p>(e) Not later than 30 days after the end of each calendar year quarter through the first calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

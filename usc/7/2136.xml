@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/2136" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/2136/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/2136/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2136"><akn:num>2136</akn:num><akn:heading>Registration of research facilities, handlers, carriers and unlicensed exhibitors</akn:heading><akn:content><akn:p>§ 2136. Registration of research facilities, handlers, carriers and unlicensed exhibitors
+Every research facility, every intermediate handler, every carrier, and every exhibitor not licensed under section 2133 of this title shall register with the Secretary in accordance with such rules and regulations as he may prescribe.
+(Pub. L. 89–544, § 6, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, § 7, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 94–279, § 6, Apr. 22, 1976, 90 Stat. 418.)
+
+Editorial Notes
+Amendments1976—Pub. L. 94–279 inserted “, every intermediate handler, every carrier,” after “research facility”.
+1970—Pub. L. 91–579 inserted reference to exhibitors not licensed under section 2133 of this title.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

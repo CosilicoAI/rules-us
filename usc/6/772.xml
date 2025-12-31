@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/772" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/772/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/772/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_772"><akn:num>772</akn:num><akn:heading>National Disaster Housing Strategy</akn:heading><akn:content><akn:p>§ 772. National Disaster Housing Strategy(a) In generalThe Administrator, in coordination with representatives of the Federal agencies, governments, and organizations listed in subsection (b)(2) of this section, the National Advisory Council, the National Council on Disability, and other entities at the Administrator’s discretion, shall develop, coordinate, and maintain a National Disaster Housing Strategy.
+
+
+(b) ContentsThe National Disaster Housing Strategy shall—(1) outline the most efficient and cost effective Federal programs that will best meet the short-term and long-term housing needs of individuals and households affected by a major disaster;
+
+(2) clearly define the role, programs, authorities, and responsibilities of each entity in providing housing assistance in the event of a major disaster, including—(A) the Agency;
+
+(B) the Department of Housing and Urban Development;
+
+(C) the Department of Agriculture;
+
+(D) the Department of Veterans Affairs;
+
+(E) the Department of Health and Human Services;
+
+(F) the Bureau of Indian Affairs;
+
+(G) any other Federal agency that may provide housing assistance in the event of a major disaster;
+
+(H) the American Red Cross; and
+
+(I) State, local, and tribal governments;
+
+
+(3) describe in detail the programs that may be offered by the entities described in paragraph (2), including—(A) outlining any funding issues;
+
+(B) detailing how responsibilities under the National Disaster Housing Strategy will be shared; and
+
+(C) addressing other matters concerning the cooperative effort to provide housing assistance during a major disaster;
+
+
+(4) consider methods through which housing assistance can be provided to individuals and households where employment and other resources for living are available;
+
+(5) describe programs directed to meet the needs of special needs and low-income populations and ensure that a sufficient number of housing units are provided for individuals with disabilities;
+
+(6) describe plans for the operation of </akn:p></akn:content><akn:subsection eId="subsec_772_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Administrator, in coordination with representatives of the Federal agencies, governments, and organizations listed in subsection (b)(2) of this section, the National Advisory Council, the National Council on Disability, and other entities at the Administrator’s discretion, shall develop, coordinate, and maintain a National Disaster Housing Strategy.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_772_b"><akn:num>(b)</akn:num><akn:heading>Contents</akn:heading><akn:content><akn:p>(b) Contents The National Disaster Housing Strategy shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_772_c"><akn:num>(c)</akn:num><akn:heading>Guidance</akn:heading><akn:content><akn:p>(c) Guidance The Administrator should develop and make publicly available guidance on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_772_d"><akn:num>(d)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(d) Report</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

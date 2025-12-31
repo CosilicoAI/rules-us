@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1638a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1638a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1638a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1638a"><akn:num>1638a</akn:num><akn:heading>Notice of country of origin</akn:heading><akn:content><akn:p>§ 1638a. Notice of country of origin(a) In general(1) RequirementExcept as provided in subsection (b), a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
+
+
+(2) Designation of country of origin for lamb, chicken, goat, and venison meat(A) United States country of originA retailer of a covered commodity that is lamb, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—(i) exclusively born, raised, and slaughtered in the United States;
+
+(ii) born and raised in Alaska or Hawaii and transported for a period of not more than 60 days through Canada to the United States and slaughtered in the United States; or
+
+(iii) present in the United States on or before July 15, 2008, and once present in the United States, remained continuously in the United States.
+
+
+(B) Multiple countries of origin(i) In generalA retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is—(I) not exclusively born, raised, and slaughtered in the United States,
+
+(II) born, raised, or slaughtered in the United States, and
+
+(III) not imported into the United States for immediate slaughter,
+
+
+
+ may designate the country of origin of such covered commodity as all of the countries in which the animal may have been born, raised, or slaughtered.
+(ii) Relation to general requirementNothing in this subparagraph alters the mandatory requirement to inform consumers of the country of origin of covered commodities under paragraph (1).
+
+
+
+(C) Imported for immediate slaughterA retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—(i) th</akn:p></akn:content><akn:subsection eId="subsec_1638a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1638a_b"><akn:num>(b)</akn:num><akn:heading>Exemption for food service establishments</akn:heading><akn:content><akn:p>(b) Exemption for food service establishments Subsection (a) shall not apply to a covered commodity if the covered commodity is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1638a_c"><akn:num>(c)</akn:num><akn:heading>Method of notification</akn:heading><akn:content><akn:p>(c) Method of notification</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1638a_d"><akn:num>(d)</akn:num><akn:heading>Audit verification system</akn:heading><akn:content><akn:p>(d) Audit verification system</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1638a_e"><akn:num>(e)</akn:num><akn:heading>Information</akn:heading><akn:content><akn:p>(e) Information Any person engaged in the business of supplying a covered commodity to a retailer shall provide information to the retailer indicating the country of origin of the covered commodity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1638a_f"><akn:num>(f)</akn:num><akn:heading>Certification of origin</akn:heading><akn:content><akn:p>(f) Certification of origin</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/8302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/8302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/8302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8302"><akn:num>8302</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8302. Definitions
+In this chapter:(1) VfP OfficeThe term “VfP Office” means the Office of Volunteers for Prosperity of the United States Agency for International Development.
+
+
+(2) VfP ProgramThe term “VfP Program” means the Volunteers for Prosperity Program established through Executive Order 13317.
+
+
+(3) VfPServeThe term “VfPServe” means a program established by the VfP Office, in cooperation with the USA Freedom Corps, to provide eligible skilled professionals with fixed amount stipends to offset the travel and living costs of volunteering abroad.
+
+
+(Pub. L. 111–13, title V, § 5102, Apr. 21, 2009, 123 Stat. 1598.)
+
+Editorial Notes
+
+References in TextExecutive Order 13317, referred to in par. (2), is set out as a note under section 8301 of this title.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of Title 42, The Public Health and Welfare.</akn:p></akn:content><akn:subsection eId="subsec_8302_1"><akn:num>(1)</akn:num><akn:heading>VfP Office</akn:heading><akn:content><akn:p>(1) VfP Office The term “VfP Office” means the Office of Volunteers for Prosperity of the United States Agency for International Development.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8302_2"><akn:num>(2)</akn:num><akn:heading>VfP Program</akn:heading><akn:content><akn:p>(2) VfP Program The term “VfP Program” means the Volunteers for Prosperity Program established through Executive Order 13317.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8302_3"><akn:num>(3)</akn:num><akn:heading>VfPServe</akn:heading><akn:content><akn:p>(3) VfPServe The term “VfPServe” means a program established by the VfP Office, in cooperation with the USA Freedom Corps, to provide eligible skilled professionals with fixed amount stipends to offset the travel and living costs of volunteering abroad.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

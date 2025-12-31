@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/451k" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/451k/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/451k/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_451k"><akn:num>451k</akn:num><akn:heading>Availability of appropriations; expenses as nonreimbursable</akn:heading><akn:content><akn:p>§ 451k. Availability of appropriations; expenses as nonreimbursable
+Appropriations heretofore or hereafter made for carrying on the functions of the Bureau of Reclamation shall be available for credits, expenses, charges, and costs provided by or incurred under this subchapter. Expenses incurred in carrying out the provisions of sections 451 to 451f of this title, shall be nonreimbursable and nonreturnable under the Federal reclamation laws.
+(Aug. 13, 1953, ch. 428, § 13, 67 Stat. 568.)
+
+Editorial Notes
+
+References in TextThe Federal reclamation laws, referred to in text, are identified in section 451i of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

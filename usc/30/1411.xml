@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/1411" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/1411/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/1411/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1411"><akn:num>1411</akn:num><akn:heading>Prohibited activities by United States citizens</akn:heading><akn:content><akn:p>§ 1411. Prohibited activities by United States citizens(a) Prohibited activities and exceptions(1) No United States citizen may engage in any exploration or commercial recovery unless authorized to do so under—(A) a license or a permit issued under this subchapter;
+
+(B) a license, permit, or equivalent authorization issued by a reciprocating state; or
+
+(C) an international agreement which is in force with respect to the United States.
+
+
+(2) The prohibitions of this subsection shall not apply to any of the following activities:(A) Scientific research, including that concerning hard mineral resources.
+
+(B) Mapping, or the taking of any geophysical, geochemical, oceanographic, or atmospheric measurements or random bottom samplings of the deep seabed, if such taking does not significantly alter the surface or subsurface of the deep seabed or significantly affect the environment.
+
+(C) The design, construction, or testing of equipment and facilities which will or may be used for exploration or commercial recovery, if such design, construction, or testing is conducted on shore, or does not involve the recovery of any but incidental hard mineral resources.
+
+(D) The furnishing of machinery, products, supplies, services, or materials for any exploration or commercial recovery conducted under a license or permit issued under this subchapter, a license or permit or equivalent authorization issued by a reciprocating state, or under an international agreement.
+
+(E) Activities, other than exploration or commercial recovery activities, of the Federal Government.
+
+
+
+(b) Existing exploration(1) Subsection (a)(1)(A) shall not be deemed to prohibit any United States citizen who is engaged in exploration before June 28, 1980, from continuing to engage in such exploration—(A) if such citizen applies for a license under section 1413(a) of this title with respect to such exploration within such reasonable period of time, after the date on which initial regulations to implement section 1413</akn:p></akn:content><akn:subsection eId="subsec_1411_a"><akn:num>(a)</akn:num><akn:heading>Prohibited activities and exceptions</akn:heading><akn:content><akn:p>(a) Prohibited activities and exceptions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1411_b"><akn:num>(b)</akn:num><akn:heading>Existing exploration</akn:heading><akn:content><akn:p>(b) Existing exploration</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1411_c"><akn:num>(c)</akn:num><akn:heading>Interference</akn:heading><akn:content><akn:p>(c) Interference No United States citizen may interfere or participate in interference with any activity conducted by any licensee or permittee which is authorized to be undertaken under a license or permit issued by the United States to the licensee or permittee under this chapter or with any activity conducted by the holder of, and authorized to be undertaken under, a license or permit or equivalent authorization issued by a reciprocating state for the exploration or commercial recovery of hard mineral resources. United States citizens shall exercise their rights on the high seas with reasonable regard for the interests of other states in their exercise of the freedoms of the high seas.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

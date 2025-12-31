@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5192" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5192/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5192/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5192"><akn:num>5192</akn:num><akn:heading>Federal emergency assistance</akn:heading><akn:content><akn:p>§ 5192. Federal emergency assistance(a) SpecifiedIn any emergency, the President may—(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical and advisory services) in support of State and local emergency assistance efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations;
+
+(2) coordinate all disaster relief assistance (including voluntary assistance) provided by Federal agencies, private organizations, and State and local governments;
+
+(3) provide technical and advisory assistance to affected State and local governments for—(A) the performance of essential community services;
+
+(B) issuance of warnings of risks or hazards;
+
+(C) public health and safety information, including dissemination of such information;
+
+(D) provision of health and safety measures; and
+
+(E) management, control, and reduction of immediate threats to public health and safety;
+
+
+(4) provide emergency assistance through Federal agencies;
+
+(5) remove debris in accordance with the terms and conditions of section 5173 of this title;
+
+(6) provide assistance in accordance with section 5174 of this title and section 5183 of this title;
+
+(7) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
+
+(8) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—(A) shall, to the fullest extent practicable, promptly notify and coordinate with a State in which such assistance or support is provided; and
+
+(B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the</akn:p></akn:content><akn:subsection eId="subsec_5192_a"><akn:num>(a)</akn:num><akn:heading>Specified</akn:heading><akn:content><akn:p>(a) Specified In any emergency, the President may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5192_b"><akn:num>(b)</akn:num><akn:heading>General</akn:heading><akn:content><akn:p>(b) General Whenever the Federal assistance provided under subsection (a) with respect to an emergency is inadequate, the President may also provide assistance with respect to efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe, including precautionary evacuations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5192_c"><akn:num>(c)</akn:num><akn:heading>Guidelines</akn:heading><akn:content><akn:p>(c) Guidelines The President shall promulgate and maintain guidelines to assist Governors in requesting the declaration of an emergency in advance of a natural or man-made disaster (including for the purpose of seeking assistance with special needs and other evacuation efforts) under this section by defining the types of assistance available to affected States and the circumstances under which such requests are likely to be approved.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

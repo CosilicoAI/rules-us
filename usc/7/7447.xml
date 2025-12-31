@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/7447" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/7447/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/7447/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7447"><akn:num>7447</akn:num><akn:heading>Petition and review</akn:heading><akn:content><akn:p>§ 7447. Petition and review(a) Petition(1) In generalA person subject to an order issued under this subchapter may file with the Secretary a petition—(A) stating that the order, a provision of the order, or an obligation imposed in connection with the order is not established in accordance with law; and
+
+(B) requesting a modification of the order or an exemption from the order.
+
+
+(2) HearingsThe petitioner shall be given the opportunity for a hearing on a petition filed under paragraph (1), in accordance with regulations issued by the Secretary.
+
+
+(3) RulingAfter a hearing under paragraph (2), the Secretary shall issue a ruling on the petition that is the subject of the hearing, which shall be final if the ruling is in accordance with applicable law.
+
+
+(4) Limitation on petitionAny petition filed under this subchapter challenging an order, or any obligation imposed in connection with an order, shall be filed not later than 2 years after the effective date of the order or imposition of the obligation.
+
+
+
+(b) Review(1) Commencement of actionThe district court of the United States for any district in which the person who is a petitioner under subsection (a) resides or carries on business shall have jurisdiction to review a ruling on the petition, if a complaint is filed by the person not later than 20 days after the date of the entry of a ruling by the Secretary under subsection (a)(3).
+
+
+(2) ProcessService of process in a proceeding under paragraph (1) shall be conducted in accordance with the Federal Rules of Civil Procedure.
+
+
+(3) RemandsIf the court determines, under paragraph (1), that a ruling issued under subsection (a)(3) is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions either—(A) to make such ruling as the court shall determine to be in accordance with law; or
+
+(B) to take such further proceedings as, in the opinion of the court, the law requires.
+
+
+(4) EnforcementThe pendency of proceedings institute</akn:p></akn:content><akn:subsection eId="subsec_7447_a"><akn:num>(a)</akn:num><akn:heading>Petition</akn:heading><akn:content><akn:p>(a) Petition</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7447_b"><akn:num>(b)</akn:num><akn:heading>Review</akn:heading><akn:content><akn:p>(b) Review</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

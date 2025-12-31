@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/207" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/207/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/207/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_207"><akn:num>207</akn:num><akn:heading>Preparation of standards by Secretary of Commerce</akn:heading><akn:content><akn:p>§ 207. Preparation of standards by Secretary of Commerce
+The Secretary of Commerce is authorized and required to prepare suitable standards in accordance with section 206 of this title.
+(Mar. 3, 1893, ch. 221, § 2, 27 Stat. 746; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Act Mar. 4, 1913, created Department of Labor, and renamed Department of Commerce and Labor as Department of Commerce.
+
+
+Transfer of Functions
+Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Department to Department of Commerce and Labor.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8311" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8311/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8311/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8311"><akn:num>8311</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8311. Definitions
+For the purpose of this subchapter—(1) “employee” means—(A) an employee as defined by section 2105 of this title;
+
+(B) a Member of Congress as defined by section 2106 of this title and a Delegate to Congress;
+
+(C) a member or former member of a uniformed service; and
+
+(D) an individual employed by the government of the District of Columbia;
+
+
+(2) “annuity” means a retirement benefit, including a disability insurance benefit and a dependent’s or survivor’s benefit under subchapter II of chapter 7 of title 42, and a monthly annuity under section 228b or 228e of title 45, payable by an agency of the Government of the United States or the government of the District of Columbia on the basis of service as a civilian employee and other service which is creditable to an employee toward the benefit under the statute, regulation, or agreement which provides the benefit, but does not include—(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
+
+(B) pay or compensation which may not be diminished under section 1 of Article III of the Constitution of the United States;
+
+(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 which would be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
+
+(D) monthly annuity awarded under section 228b or 228e of title 45 before September 26, 1961, whether or not computed under section 228c(e) of title 45;
+
+(E) that portion of an annuity awarded under section 228b or 228e of title 45 after September 25, 1961, which would be payable without taking into account military service creditable under section 228c–1 of title 45;
+
+(F) a retirement benefit, including a disability insurance benefit and a dependent’s or survivor’s benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individ</akn:p></akn:content><akn:subsection eId="subsec_8311_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “employee” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8311_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “annuity” means a retirement benefit, including a disability insurance benefit and a dependent’s or survivor’s benefit under subchapter II of chapter 7 of title 42, and a monthly annuity under section 228b or 228e of title 45, payable by an agency of the Government of the United States or the government of the District of Columbia on the basis of service as a civilian employee and other service which is creditable to an employee toward the benefit under the statute, regulation, or agreement which provides the benefit, but does not include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8311_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay, payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary of the member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/5705" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/5705/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/5705/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5705"><akn:num>5705</akn:num><akn:heading>Annual reporting requirements</akn:heading><akn:content><akn:p>§ 5705. Annual reporting requirements(a) Annual reportingBeginning in the first fiscal year after October 10, 2020, the Attorney General shall include in its annual Indian Country Investigations and Prosecutions report to Congress information that—(1) includes known statistics on missing Indians in the United States, available to the Department of Justice, including—(A) age;
+
+(B) gender;
+
+(C) Tribal enrollment information or affiliation, if available;
+
+(D) the current number of open cases per State;
+
+(E) the total number of closed cases per State each calendar year, from the most recent 10 calendar years; and
+
+(F) other relevant information the Attorney General determines is appropriate;
+
+
+(2) includes known statistics on murdered Indians in the United States, available to the Department of Justice, including—(A) age;
+
+(B) gender;
+
+(C) Tribal enrollment information or affiliation, if available;
+
+(D) the current number of open cases per State;
+
+(E) the total number of closed cases per State each calendar year, from the most recent 10 calendar years; and
+
+(F) other relevant information the Attorney General determines is appropriate;
+
+
+(3) maintains victim privacy to the greatest extent possible by excluding information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context; and
+
+(4) includes—(A) an explanation of why the statistics described in paragraph (1) may not be comprehensive; and
+
+(B) recommendations on how data collection on missing or murdered Indians may be improved.
+
+
+
+(b) Compliance(1) In generalBeginning in the first fiscal year after October 10, 2020, and annually thereafter, for the purpose of compiling accurate data for the annual report required under subsection (a), the Attorney General shall request all Tribal, State, and local law enforcement agencies to submit to the Department of Justice, to the fullest extent possible, all relevant information pertaining to </akn:p></akn:content><akn:subsection eId="subsec_5705_a"><akn:num>(a)</akn:num><akn:heading>Annual reporting</akn:heading><akn:content><akn:p>(a) Annual reporting Beginning in the first fiscal year after October 10, 2020, the Attorney General shall include in its annual Indian Country Investigations and Prosecutions report to Congress information that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5705_b"><akn:num>(b)</akn:num><akn:heading>Compliance</akn:heading><akn:content><akn:p>(b) Compliance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5705_c"><akn:num>(c)</akn:num><akn:heading>Inclusion of gender in missing and unidentified persons statistics</akn:heading><akn:content><akn:p>(c) Inclusion of gender in missing and unidentified persons statistics Beginning in the first calendar year after October 10, 2020, and annually thereafter, the Federal Bureau of Investigation shall include gender in its annual statistics on missing and unidentified persons published on its public website.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

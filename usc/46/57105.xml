@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/57105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/57105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/57105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_57105"><akn:num>57105</akn:num><akn:heading>Acquisition of vessels for essential services, routes, or lines</akn:heading><akn:content><akn:p>§ 57105. Acquisition of vessels for essential services, routes, or lines(a) In General.—The Secretary of Transportation may acquire a vessel, by purchase or otherwise, if—(1) the Secretary considers the vessel necessary to establish, maintain, improve, or serve as a replacement on an essential service, route, or line in the foreign commerce of the United States, as determined under section 50103 of this title;
+
+(2) the vessel was constructed in the United States; and
+
+(3) the Secretary of the Navy has certified to the Secretary of Transportation that the vessel is suitable for economical and speedy conversion into a naval or military auxiliary or otherwise suitable for use by the United States Government in time of war or national emergency.
+
+
+(b) Price.—The price paid for the vessel shall be based on a fair and reasonable valuation. However, the price may not exceed by more than 5 percent the cost of the vessel to the owner (excluding any construction-differential subsidy and the cost of national defense features paid by the Secretary of Transportation) plus the actual cost previously expended for reconditioning, less depreciation based on a 25-year life for a dry-cargo or passenger vessel and a 20-year life for a tanker or other liquid bulk carrier vessel.
+
+(c) Documentation.—A vessel acquired under this section that is not documented under the laws of the United States at the time of acquisition shall be so documented as soon as practicable.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1660.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5710546 App.:1125.June 29, 1936, ch. 858, title II, § 215, as added June 23, 1938, ch. 600, § 4, 52 Stat. 954; Pub. L. 86–518, § 1, June 12, 1960, 74 Stat. 216; Pub. L. 97–31, § 12(73), Aug. 6, 1981, 95 Stat. 160.
+ 46 App.:1125 note.Pub. L. 86–518, § 9, June 12, 1960, 74 Stat. 217.
+
+
+In subsection (a), the words “and to pay for the same out of his construction fund” </akn:p></akn:content><akn:subsection eId="subsec_57105_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation may acquire a vessel, by purchase or otherwise, if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_57105_b"><akn:num>(b)</akn:num><akn:heading>Price.—</akn:heading><akn:content><akn:p>(b) The price paid for the vessel shall be based on a fair and reasonable valuation. However, the price may not exceed by more than 5 percent the cost of the vessel to the owner (excluding any construction-differential subsidy and the cost of national defense features paid by the Secretary of Transportation) plus the actual cost previously expended for reconditioning, less depreciation based on a 25-year life for a dry-cargo or passenger vessel and a 20-year life for a tanker or other liquid bulk carrier vessel.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_57105_c"><akn:num>(c)</akn:num><akn:heading>Documentation.—</akn:heading><akn:content><akn:p>(c) A vessel acquired under this section that is not documented under the laws of the United States at the time of acquisition shall be so documented as soon as practicable.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

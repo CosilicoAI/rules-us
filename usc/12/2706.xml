@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/2706" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/2706/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/2706/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2706"><akn:num>2706</akn:num><akn:heading>Emergency Homeowners’ Relief Fund</akn:heading><akn:content><akn:p>§ 2706. Emergency Homeowners’ Relief Fund
+To carry out the purposes of this chapter, the Secretary is authorized to establish in the Treasury of the United States an Emergency Homeowners’ Relief Fund (hereinafter in this chapter referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation—(1) for making payments in connection with defaulted loans or advances of credit insured under section 2704 of this title;
+
+(2) for making emergency mortgage relief payments under section 2705 of this title;
+
+(3) to pay such administrative expenses (or portion of such expenses) of carrying out the provisions of this chapter as the Secretary may deem necessary.
+
+(Pub. L. 94–50, title I, § 107, July 2, 1975, 89 Stat. 252; Pub. L. 98–479, title II, § 204(m)(1), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title XIV, § 1496(b)(4), July 21, 2010, 124 Stat. 2208.)
+
+Editorial Notes
+Amendments2010—Pub. L. 111–203 struck out subsec. (a) designation before “To carry out” and subsec. (b) which read as follows: “The fund shall be credited with—
+“(1) all amounts received by the Secretary as premium charges for insurance or as repayment for emergency mortgage relief payments under this chapter and all receipts, earnings, collections, or proceeds derived from any claim or other assets acquired by the Secretary under this Act; and
+“(2) such amounts as may be appropriated for the purposes of this chapter.”
+1984—Subsec. (a). Pub. L. 98–479, § 204(m)(1)(A), (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
+Subsec. (b). Pub. L. 98–479, § 204(m)(1)(C), (D), redesignated subsec. (a)(2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the d</akn:p></akn:content><akn:subsection eId="subsec_2706_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) for making payments in connection with defaulted loans or advances of credit insured under section 2704 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2706_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) for making emergency mortgage relief payments under section 2705 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2706_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) to pay such administrative expenses (or portion of such expenses) of carrying out the provisions of this chapter as the Secretary may deem necessary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

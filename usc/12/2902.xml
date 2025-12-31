@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/2902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/2902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/2902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2902"><akn:num>2902</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 2902. Definitions
+For the purposes of this chapter—(1) the term “appropriate Federal financial supervisory agency” means—(A) the Comptroller of the Currency with respect to national banks and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation);
+
+(B) the Board of Governors of the Federal Reserve System with respect to State chartered banks which are members of the Federal Reserve System, bank holding companies, and savings and loan holding companies;
+
+(C) the Federal Deposit Insurance Corporation with respect to State chartered banks and savings banks which are not members of the Federal Reserve System and the deposits of which are insured by the Corporation, and State savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation).11 So in original. The period probably should be a semicolon.
+
+
+(2) the term “regulated financial institution” means an insured depository institution (as defined in section 1813 of this title); and
+
+(3) the term “application for a deposit facility” means an application to the appropriate Federal financial supervisory agency otherwise required under Federal law or regulations thereunder for—(A) a charter for a national bank or Federal savings and loan association;
+
+(B) deposit insurance in connection with a newly chartered State bank, savings bank, savings and loan association or similar institution;
+
+(C) the establishment of a domestic branch or other facility with the ability to accept deposits of a regulated financial institution;
+
+(D) the relocation of the home office or a branch office of a regulated financial institution;
+
+(E) the merger or consolidation with, or the acquisition of the assets, or the assumption of the liabilities of a regulated financial institution requiring approval under section 1828(c) of this title or under regulations issued under the authority of title IV 22 See References in Text note below. of the National Housi</akn:p></akn:content><akn:subsection eId="subsec_2902_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “appropriate Federal financial supervisory agency” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2902_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “regulated financial institution” means an insured depository institution (as defined in section 1813 of this title); and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2902_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the term “application for a deposit facility” means an application to the appropriate Federal financial supervisory agency otherwise required under Federal law or regulations thereunder for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2902_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) A financial institution whose business predominately consists of serving the needs of military personnel who are not located within a defined geographic area may define its “entire community” to include its entire deposit customer base without regard to geographic proximity.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

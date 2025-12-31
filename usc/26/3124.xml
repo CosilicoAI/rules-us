@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/3124" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/3124/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/3124/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3124"><akn:num>3124</akn:num><akn:heading>Estimate of revenue reduction</akn:heading><akn:content><akn:p>§ 3124. Estimate of revenue reduction
+The Secretary at intervals of not longer than 3 years shall estimate the reduction in the amount of taxes collected under this chapter by reason of the operation of section 3121(b)(9) and shall include such estimate in his annual report.
+(Aug. 16, 1954, ch. 736, 68A Stat. 429; Sept. 1, 1954, ch. 1206, title II, § 205(b), 68 Stat. 1091; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+Editorial Notes
+Amendments1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+1954—Act Sept. 1, 1954, substituted “section 3121(b)(9)” for “section 3121(b)(10)”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

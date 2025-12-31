@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16456" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16456/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16456/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16456"><akn:num>16456</akn:num><akn:heading>Applicability</akn:heading><akn:content><akn:p>§ 16456. Applicability
+Except as otherwise specifically provided in this part, no provision of this part shall apply to, or be deemed to include—(1) the United States;
+
+(2) a State or any political subdivision of a State;
+
+(3) any foreign governmental authority not operating in the United States;
+
+(4) any agency, authority, or instrumentality of any entity referred to in paragraph (1), (2), or (3); or
+
+(5) any officer, agent, or employee of any entity referred to in paragraph (1), (2), (3), or (4) acting as such in the course of his or her official duty.
+
+(Pub. L. 109–58, title XII, § 1268, Aug. 8, 2005, 119 Stat. 976.)
+
+Editorial Notes
+
+References in TextThis part, referred to in text, was in the original “this subtitle”, meaning subtitle F (§§ 1261–1277) of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which enacted this part, amended sections 824 and 824m of Title 16, Conservation, repealed chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, and section 825q of Title 16, and enacted provisions set out as notes under sections 15801 and 16451 of this title. For complete classification of subtitle F to the Code, see Short Title note set out under section 15801 of this title and Tables.</akn:p></akn:content><akn:subsection eId="subsec_16456_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the United States;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16456_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) a State or any political subdivision of a State;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16456_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) any foreign governmental authority not operating in the United States;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16456_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) any agency, authority, or instrumentality of any entity referred to in paragraph (1), (2), or (3); or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16456_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) any officer, agent, or employee of any entity referred to in paragraph (1), (2), (3), or (4) acting as such in the course of his or her official duty.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/123" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/123/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/123/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_123"><akn:num>123</akn:num><akn:heading>Continuance of land offices when required by public convenience</akn:heading><akn:content><akn:p>§ 123. Continuance of land offices when required by public convenience
+The Secretary of the Interior may continue any land district in which is situated the seat of government of any one of the States, and may continue the land office in such district, notwithstanding the quantity of land unsold in such district may not amount to one hundred thousand acres, when, in his opinion, such continuance is required by public convenience, or in order to close the land system in such State.
+(R.S. § 2249.)
+
+Editorial Notes
+Codification
+R.S. § 2249 derived from act Sept. 4, 1841, ch. 16, § 7, 5 Stat. 455.
+
+Executive Documents
+
+Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

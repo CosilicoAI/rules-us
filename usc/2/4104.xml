@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/4104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/4104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/4104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4104"><akn:num>4104</akn:num><akn:heading>American goods to be preferred in purchases for Senate and House</akn:heading><akn:content><akn:p>§ 4104. American goods to be preferred in purchases for Senate and House
+The Secretary of the Senate and the Chief Administrative Officer of the House of Representatives shall, in disbursing the public moneys for the use of the two Houses, respectively, purchase only articles the growth and manufacture of the United States, provided the articles required can be procured of such growth and manufacture upon as good terms as to quality and price as are demanded for like articles of foreign growth and manufacture.
+(R.S. § 69; Pub. L. 104–186, title II, § 204(57), Aug. 20, 1996, 110 Stat. 1738.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 109 of this title prior to editorial reclassification and renumbering as this section.
+R.S. § 69 derived from act June 17, 1844, ch. 105, § 1, 5 Stat. 681.
+
+Amendments1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

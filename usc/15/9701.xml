@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9701"><akn:num>9701</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 9701. Definitions
+In this chapter:(1) AdministratorThe term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+
+
+(2) StateThe term “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.
+
+
+(Pub. L. 117–316, § 2, Dec. 27, 2022, 136 Stat. 4406.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 117–316, Dec. 27, 2022, 136 Stat. 4406, known as the Flood Level Observation, Operations, and Decision Support Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 117–316, § 1(a), Dec. 27, 2022, 136 Stat. 4406, provided that: “This Act [enacting this chapter and amending sections 8513, 8514, 8515, and 8521 of this title] may be cited as the ‘Flood Level Observation, Operations, and Decision Support Act’ or the ‘FLOODS Act’.”</akn:p></akn:content><akn:subsection eId="subsec_9701_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9701_2"><akn:num>(2)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(2) State The term “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

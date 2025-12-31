@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5189h" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5189h/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5189h/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5189h"><akn:num>5189h</akn:num><akn:heading>Agency accountability</akn:heading><akn:content><akn:p>§ 5189h. Agency accountability(a) Public assistanceNot later than 5 days after an award of a public assistance grant is made under section 5172 of this title that is in excess of $1,000,000, the Administrator of the Federal Emergency Management Agency shall publish on the website of the Federal Emergency Management Agency the specifics of each such grant award, including—(1) identifying the Federal Emergency Management Agency Region;
+
+(2) the disaster or emergency declaration number;
+
+(3) the State, county, and applicant name;
+
+(4) if the applicant is a private nonprofit organization;
+
+(5) the damage category code;
+
+(6) the amount of the Federal share obligated; and
+
+(7) the date of the award.
+
+
+(b) Mission assignments(1) In generalNot later than 5 days after the issuance of a mission assignment or mission assignment task order, the Administrator of the Federal Emergency Management Agency shall publish on the website of the Federal Emergency Management Agency any mission assignment or mission assignment task order to another Federal department or agency regarding a major disaster in excess of $1,000,000, including—(A) the name of the impacted State or Indian Tribe;
+
+(B) the disaster declaration for such State or Indian Tribe;
+
+(C) the assigned agency;
+
+(D) the assistance requested;
+
+(E) a description of the disaster;
+
+(F) the total cost estimate;
+
+(G) the amount obligated;
+
+(H) the State or Indian tribal government cost share, if applicable;
+
+(I) the authority under which the mission assignment or mission assignment task order was directed; and
+
+(J) if applicable, the date a State or Indian Tribe requested the mission assignment.
+
+
+(2) Recording changesNot later than 10 days after the last day of each month until a mission assignment or mission assignment task order described in paragraph (1) is completed and closed out, the Administrator of the Federal Emergency Management Agency shall update any changes to the total cost estimate and the amount obligated.
+
+
+
+(c) D</akn:p></akn:content><akn:subsection eId="subsec_5189h_a"><akn:num>(a)</akn:num><akn:heading>Public assistance</akn:heading><akn:content><akn:p>(a) Public assistance Not later than 5 days after an award of a public assistance grant is made under section 5172 of this title that is in excess of $1,000,000, the Administrator of the Federal Emergency Management Agency shall publish on the website of the Federal Emergency Management Agency the specifics of each such grant award, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5189h_b"><akn:num>(b)</akn:num><akn:heading>Mission assignments</akn:heading><akn:content><akn:p>(b) Mission assignments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5189h_c"><akn:num>(c)</akn:num><akn:heading>Disaster relief monthly report</akn:heading><akn:content><akn:p>(c) Disaster relief monthly report Not later than 10 days after the first day of each month, the Administrator of the Federal Emergency Management Agency shall publish on the website of the Federal Emergency Management Agency reports, including a specific description of the methodology and the source data used in developing such reports, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5189h_d"><akn:num>(d)</akn:num><akn:heading>Contracts</akn:heading><akn:content><akn:p>(d) Contracts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5189h_e"><akn:num>(e)</akn:num><akn:heading>Collection of public assistance recipient and subrecipient contracts</akn:heading><akn:content><akn:p>(e) Collection of public assistance recipient and subrecipient contracts</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

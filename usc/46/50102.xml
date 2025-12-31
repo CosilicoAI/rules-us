@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/50102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/50102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/50102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50102"><akn:num>50102</akn:num><akn:heading>Survey of merchant marine</akn:heading><akn:content><akn:p>§ 50102. Survey of merchant marine(a) In General.—The Secretary of Transportation shall survey the merchant marine of the United States to determine whether replacements and additions are required to carry out the objectives and policy of section 50101 of this title. The Secretary shall study, perfect, and adopt a long-range program for replacements and additions that will result, as soon as practicable, in—(1) an adequate and well-balanced merchant fleet, including vessels of all types, that will provide shipping service essential for maintaining the flow of foreign commerce by vessels designed to be readily and quickly convertible into transport and supply vessels in a time of national emergency;
+
+(2) ownership and operation of the fleet by citizens of the United States insofar as practicable;
+
+(3) vessels designed to afford the best and most complete protection for passengers and crew against fire and all marine perils; and
+
+(4) an efficient capacity for building and repairing vessels in the United States with an adequate number of skilled personnel to provide an adequate mobilization base.
+
+
+(b) Cooperation With Secretary of Navy.—In carrying out subsection (a)(1), the Secretary of Transportation shall cooperate closely with the Secretary of the Navy as to national defense requirements.
+
+(Pub. L. 109–304, § 8(b), Oct. 6, 2006, 120 Stat. 1557.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5010246 App.:1120.June 29, 1936, ch. 858, title II, § 210, 49 Stat. 1989; Pub. L. 91–469, §§ 3, 35(a), Oct. 21, 1970, 84 Stat. 1018, 1035; Pub.L. 97–31, § 12(67) (related to § 210), Aug. 6, 1981, 95 Stat. 159.</akn:p></akn:content><akn:subsection eId="subsec_50102_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation shall survey the merchant marine of the United States to determine whether replacements and additions are required to carry out the objectives and policy of section 50101 of this title. The Secretary shall study, perfect, and adopt a long-range program for replacements and additions that will result, as soon as practicable, in—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50102_b"><akn:num>(b)</akn:num><akn:heading>Cooperation With Secretary of Navy.—</akn:heading><akn:content><akn:p>(b) In carrying out subsection (a)(1), the Secretary of Transportation shall cooperate closely with the Secretary of the Navy as to national defense requirements.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

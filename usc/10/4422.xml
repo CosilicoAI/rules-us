@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/4422" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/4422/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/4422/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4422"><akn:num>4422</akn:num><akn:heading>Weapon system component or technology prototype projects: oversight</akn:heading><akn:content><akn:p>§ 4422. Weapon system component or technology prototype projects: oversight(a) Establishment.—The Secretary of each military department shall establish an oversight board or identify a similar existing group of senior advisors for managing prototype projects for weapon system components and other technologies and subsystems, including the use of funds for such projects, within the military department concerned.
+
+(b) Membership.—Each oversight board shall be comprised of senior officials with—(1) expertise in requirements; research, development, test, and evaluation; acquisition; sustainment; or other relevant areas within the military department concerned;
+
+(2) awareness of technology development activities and opportunities in the Department of Defense, industry, and other sources; and
+
+(3) awareness of the component capability requirements of major weapon systems, including scheduling and fielding goals for such component capabilities.
+
+
+(c) Functions.—The functions of each oversight board are as follows:(1) To issue a strategic plan every three years that prioritizes the capability and weapon system component portfolio areas for conducting prototype projects, based on assessments of—(A) high priority warfighter needs;
+
+(B) capability gaps or readiness issues with major weapon systems;
+
+(C) opportunities to incrementally integrate new components into major weapon systems based on commercial technology or science and technology efforts that are expected to be sufficiently mature to prototype within three years; and
+
+(D) opportunities to reduce operation and support costs of major weapon systems.
+
+
+(2) To annually recommend funding levels for weapon system component or technology development and prototype projects across capability or weapon system component portfolios.
+
+(3) To annually recommend to the service acquisition executive of the military department concerned specific weapon system component or technology development and prototype projects, subject to the </akn:p></akn:content><akn:subsection eId="subsec_4422_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) The Secretary of each military department shall establish an oversight board or identify a similar existing group of senior advisors for managing prototype projects for weapon system components and other technologies and subsystems, including the use of funds for such projects, within the military department concerned.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4422_b"><akn:num>(b)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(b) Each oversight board shall be comprised of senior officials with—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4422_c"><akn:num>(c)</akn:num><akn:heading>Functions.—</akn:heading><akn:content><akn:p>(c) The functions of each oversight board are as follows:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

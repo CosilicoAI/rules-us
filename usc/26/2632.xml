@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2632" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2632/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2632/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2632"><akn:num>2632</akn:num><akn:heading>Special rules for allocation of GST exemption</akn:heading><akn:content><akn:p>§ 2632. Special rules for allocation of GST exemption(a) Time and manner of allocation(1) TimeAny allocation by an individual of his GST exemption under section 2631(a) may be made at any time on or before the date prescribed for filing the estate tax return for such individual’s estate (determined with regard to extensions), regardless of whether such a return is required to be filed.
+
+
+(2) MannerThe Secretary shall prescribe by forms or regulations the manner in which any allocation referred to in paragraph (1) is to be made.
+
+
+
+(b) Deemed allocation to certain lifetime direct skips(1) In generalIf any individual makes a direct skip during his lifetime, any unused portion of such individual’s GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the direct skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+
+
+(2) Unused portionFor purposes of paragraph (1), the unused portion of an individual’s GST exemption is that portion of such exemption which has not previously been allocated by such individual (or treated as allocated under paragraph (1) or subsection (c)(1)).
+
+
+(3) Subsection not to apply in certain casesAn individual may elect to have this subsection not apply to a transfer.
+
+
+
+(c) Deemed allocation to certain lifetime transfers to GST trusts(1) In generalIf any individual makes an indirect skip during such individual’s lifetime, any unused portion of such individual’s GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+
+
+(2) Unused portionFor purposes of paragraph (1), the unused portion of an individual’s GST exemption is that portion of such exemption which has not previously been—</akn:p></akn:content><akn:subsection eId="subsec_2632_a"><akn:num>(a)</akn:num><akn:heading>Time and manner of allocation</akn:heading><akn:content><akn:p>(a) Time and manner of allocation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2632_b"><akn:num>(b)</akn:num><akn:heading>Deemed allocation to certain lifetime direct skips</akn:heading><akn:content><akn:p>(b) Deemed allocation to certain lifetime direct skips</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2632_c"><akn:num>(c)</akn:num><akn:heading>Deemed allocation to certain lifetime transfers to GST trusts</akn:heading><akn:content><akn:p>(c) Deemed allocation to certain lifetime transfers to GST trusts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2632_d"><akn:num>(d)</akn:num><akn:heading>Retroactive allocations</akn:heading><akn:content><akn:p>(d) Retroactive allocations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2632_e"><akn:num>(e)</akn:num><akn:heading>Allocation of unused GST exemption</akn:heading><akn:content><akn:p>(e) Allocation of unused GST exemption</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

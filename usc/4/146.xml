@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/4/146" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/4/146/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/4/146/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_146"><akn:num>146</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 146. Authorization of appropriations
+For the purposes of this chapter, there are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, sums of not more than $50,000 for any one fiscal year.
+(Added Oct. 31, 1951, ch. 655, § 12, 65 Stat. 715.)
+
+Statutory Notes and Related Subsidiaries
+
+Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
+See note preceding section 141 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

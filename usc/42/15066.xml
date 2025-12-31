@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15066" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15066/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15066/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15066"><akn:num>15066</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 15066. Authorization of appropriations(a) Authorization and reservations(1) AuthorizationThere are authorized to be appropriated to carry out this part (other than section 15063(c)(4) of this title) $30,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
+
+
+(2) Reservation for training initiativesFrom any amount appropriated for a fiscal year under paragraph (1) and remaining after each Center described in section 15062(a) of this title has received a grant award of not less than $500,000, as described in section 15062 of this title, the Secretary shall reserve funds for the training initiatives authorized under section 15063(b) of this title.
+
+
+(3) Reservation for technical assistance(A) Years before appropriation triggerFor any covered year, the Secretary shall reserve funds in accordance with section 15083(c) of this title to fund technical assistance activities under section 15063(c) of this title (other than section 15063(c)(4) of this title).
+
+
+(B) Years after appropriation triggerFor any fiscal year that is not a covered year, the Secretary shall reserve not less than $300,000 and not more than 2 percent of the amount appropriated under paragraph (1) to fund technical assistance activities under section 15063(c) of this title (other than section 15063(c)(4) of this title).
+
+
+(C) Covered yearIn this paragraph, the term “covered year” means a fiscal year prior to the first fiscal year for which the amount appropriated under paragraph (1) is not less than $20,000,000.
+
+
+
+
+(b) LimitationThe Secretary may not use, for peer review or other activities directly related to peer review conducted under this part—(1) for fiscal year 2001, more than $300,000 of the funds made available under subsection (a); and
+
+(2) for any succeeding fiscal year, more than the amount of funds used for the peer review and related activities in fiscal year 2001, adjusted to take into account the most recent percentage change in the Co</akn:p></akn:content><akn:subsection eId="subsec_15066_a"><akn:num>(a)</akn:num><akn:heading>Authorization and reservations</akn:heading><akn:content><akn:p>(a) Authorization and reservations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15066_b"><akn:num>(b)</akn:num><akn:heading>Limitation</akn:heading><akn:content><akn:p>(b) Limitation The Secretary may not use, for peer review or other activities directly related to peer review conducted under this part—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

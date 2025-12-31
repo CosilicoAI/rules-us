@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/1903" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/1903/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/1903/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1903"><akn:num>1903</akn:num><akn:heading>National Security Education Board</akn:heading><akn:content><akn:p>§ 1903. National Security Education Board(a) EstablishmentThe Secretary of Defense shall establish a National Security Education Board.
+
+
+(b) CompositionThe Board shall be composed of the following individuals or the representatives of such individuals:(1) The Secretary of Defense, who shall serve as the chairman of the Board.
+
+(2) The Secretary of Education.
+
+(3) The Secretary of State.
+
+(4) The Secretary of Commerce.
+
+(5) The Secretary of Homeland Security.
+
+(6) The Secretary of Energy.
+
+(7) The Director of National Intelligence.
+
+(8) The Chairperson of the National Endowment for the Humanities.
+
+(9) Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
+
+
+(c) Term of appointeesEach individual appointed to the Board pursuant to subsection (b)(7) shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
+
+
+(d) FunctionsThe Board shall perform the following functions:(1) Develop criteria for awarding scholarships, fellowships, and grants under this chapter, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position.
+
+(2) Provide for wide dissemination of information regarding the activities assisted under this chapter.
+
+(3) Establish qualifications for students desiring scholarships or fellowships, and institutions of higher education desiring grants, under this chapter, including, in the case of students desiring a scholarship or fellowship, a requirement that the student have a demonstrated commitment to the study of the discipline for which the scholarship or fellowship is to be awar</akn:p></akn:content><akn:subsection eId="subsec_1903_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary of Defense shall establish a National Security Education Board.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_b"><akn:num>(b)</akn:num><akn:heading>Composition</akn:heading><akn:content><akn:p>(b) Composition The Board shall be composed of the following individuals or the representatives of such individuals:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_c"><akn:num>(c)</akn:num><akn:heading>Term of appointees</akn:heading><akn:content><akn:p>(c) Term of appointees Each individual appointed to the Board pursuant to subsection (b)(7) shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1903_d"><akn:num>(d)</akn:num><akn:heading>Functions</akn:heading><akn:content><akn:p>(d) Functions The Board shall perform the following functions:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

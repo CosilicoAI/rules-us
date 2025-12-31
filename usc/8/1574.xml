@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/8/1574" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/8/1574/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/8/1574/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1574"><akn:num>1574</akn:num><akn:heading>Reports to Congress</akn:heading><akn:content><akn:p>§ 1574. Reports to Congress(a) Backlog elimination plan(1) Report requiredNot later than 90 days after October 17, 2000, the Attorney General shall submit a report to the Committees on the Judiciary and Appropriations of the Senate and the House of Representatives concerning—(A) the backlogs in immigration benefit applications in existence as of October 17, 2000; and
+
+(B) the Attorney General’s plan for eliminating such backlogs.
+
+
+(2) Report elementsThe report shall include—(A) an assessment of the data systems used in adjudicating and reporting on the status of immigration benefit applications, including—(i) a description of the adequacy of existing computer hardware, computer software, and other mechanisms to comply with the adjudications and reporting requirements of this subchapter; and
+
+(ii) a plan for implementing improvements to existing data systems to accomplish the purpose of this subchapter, as described in section 1571(a) of this title;
+
+
+(B) a description of the quality controls to be put into force to ensure timely, fair, accurate, and complete processing and adjudication of such applications;
+
+(C) the elements specified in subsection (b)(2);
+
+(D) an estimate of the amount of appropriated funds that would be necessary in order to eliminate the backlogs in each category of immigration benefit applications described in subsection (b)(2); and
+
+(E) a detailed plan on how the Attorney General will use any funds in the Immigration Services and Infrastructure Improvements Account to comply with the purposes of this subchapter.
+
+
+
+(b) Annual reports(1) In generalBeginning 90 days after the end of the first fiscal year for which any appropriation authorized by section 1573(b) of this title is made, and 90 days after the end of each fiscal year thereafter, the Attorney General shall submit a report to the Committees on the Judiciary and Appropriations of the Senate and the House of Representatives concerning the status of—(A) the Immigration Services and Infras</akn:p></akn:content><akn:subsection eId="subsec_1574_a"><akn:num>(a)</akn:num><akn:heading>Backlog elimination plan</akn:heading><akn:content><akn:p>(a) Backlog elimination plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1574_b"><akn:num>(b)</akn:num><akn:heading>Annual reports</akn:heading><akn:content><akn:p>(b) Annual reports</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

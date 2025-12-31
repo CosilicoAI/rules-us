@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/4336f" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/4336f/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/4336f/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4336f"><akn:num>4336f</akn:num><akn:heading>Project sponsor opt-in fees for environmental reviews</akn:heading><akn:content><akn:p>§ 4336f. Project sponsor opt-in fees for environmental reviews(a) Process(1) Project sponsorA project sponsor that intends to pay a fee under this section for the preparation, or supervision of the preparation, of an environmental assessment or environmental impact statement for a project shall submit to the Council—(A) a description of the project; and
+
+(B) a declaration of whether the project sponsor intends to prepare the environmental assessment or environmental impact statement under section 4336a(f) of this title.
+
+
+(2) Council on Environmental QualityNot later than 15 days after the date on which the Council receives information described in paragraph (1) from a project sponsor, the Council shall provide to the project sponsor notice of the amount of the fee to be paid under this section, as determined under subsection (b).
+
+
+(3) Payment of feeA project sponsor may pay a fee under this section after receipt of the notice described in paragraph (2).
+
+
+(4) Deadline for environmental reviews for which a fee is paidNotwithstanding section 4336a(g)(1) of this title—(A) an environmental assessment for which a fee is paid under this section shall be completed not later than 180 days after the date on which the fee is paid; and
+
+(B) an environmental impact statement for which a fee is paid under this section shall be completed not later than 1 year after the date of publication of the notice of intent to prepare the environmental impact statement.
+
+
+
+(b) Fee amountThe amount of a fee under this section shall be—(1) 125 percent of the anticipated costs to prepare the environmental assessment or environmental impact statement; and
+
+(2) in the case of an environmental assessment or environmental impact statement to be prepared in whole or in part by a project sponsor under section 4336a(f) of this title, 125 percent of the anticipated costs to supervise preparation of, and, as applicable, prepare, the environmental assessment or environmental impact statement.
+
+
+(Pub. L</akn:p></akn:content><akn:subsection eId="subsec_4336f_a"><akn:num>(a)</akn:num><akn:heading>Process</akn:heading><akn:content><akn:p>(a) Process</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4336f_b"><akn:num>(b)</akn:num><akn:heading>Fee amount</akn:heading><akn:content><akn:p>(b) Fee amount The amount of a fee under this section shall be—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

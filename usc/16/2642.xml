@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/2642" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/2642/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/2642/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2642"><akn:num>2642</akn:num><akn:heading>Responsibilities of Secretary</akn:heading><akn:content><akn:p>§ 2642. Responsibilities of Secretary(a) AuthorityThe Secretary may periodically notify the State regulatory authorities, and electric utilities identified pursuant to section 2612(c) of this title, of—(1) load management techniques and the results of studies and experiments concerning load management techniques;
+
+(2) developments and innovations in electric utility ratemaking throughout the United States, including the results of studies and experiments in rate structure and rate reform;
+
+(3) methods for determining cost of service;
+
+(4) any other data or information which the Secretary determines would assist such authorities and utilities in carrying out the provisions of this chapter; and
+
+(5) technologies, techniques, and rate-making methods related to advanced metering and communications and the use of these technologies, techniques and methods in demand response programs.
+
+
+(b) Technical assistanceThe Secretary may provide such technical assistance as he determines appropriate to assist the State regulatory authorities in carrying out their responsibilities under subchapter II and as is requested by any State regulatory authority relating to the standards established by subchapter II.
+
+
+(c) AppropriationsThere are authorized to be appropriated to carry out the purposes of subsection (b) not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.
+
+
+(d) Demand responseThe Secretary shall be responsible for—(1) educating consumers on the availability, advantages, and benefits of advanced metering and communications technologies, including the funding of demonstration or pilot projects;
+
+(2) working with States, utilities, other energy providers and advanced metering and communications experts to identify and address barriers to the adoption of demand response programs; and
+
+(3) not later than 180 days after August 8, 2005, providing Congress with a report that identifies and quantifies the national benefits of demand response and makes a recommendation </akn:p></akn:content><akn:subsection eId="subsec_2642_a"><akn:num>(a)</akn:num><akn:heading>Authority</akn:heading><akn:content><akn:p>(a) Authority The Secretary may periodically notify the State regulatory authorities, and electric utilities identified pursuant to section 2612(c) of this title, of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_b"><akn:num>(b)</akn:num><akn:heading>Technical assistance</akn:heading><akn:content><akn:p>(b) Technical assistance The Secretary may provide such technical assistance as he determines appropriate to assist the State regulatory authorities in carrying out their responsibilities under subchapter II and as is requested by any State regulatory authority relating to the standards established by subchapter II.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_c"><akn:num>(c)</akn:num><akn:heading>Appropriations</akn:heading><akn:content><akn:p>(c) Appropriations There are authorized to be appropriated to carry out the purposes of subsection (b) not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2642_d"><akn:num>(d)</akn:num><akn:heading>Demand response</akn:heading><akn:content><akn:p>(d) Demand response The Secretary shall be responsible for—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/692" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/692/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/692/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_692"><akn:num>692</akn:num><akn:heading>Inspection extended to reindeer</akn:heading><akn:content><akn:p>§ 692. Inspection extended to reindeer
+The provisions of the meat-inspection law may be extended to the inspection of reindeer.
+(June 30, 1914, ch. 131, 38 Stat. 420.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the appropriation act cited as the credit to this section and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
+Section was formerly classified to section 94 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

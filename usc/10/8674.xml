@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/8674" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/8674/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/8674/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8674"><akn:num>8674</akn:num><akn:heading>Examination of vessels; striking of vessels from Naval Vessel Register</akn:heading><akn:content><akn:p>§ 8674. Examination of vessels; striking of vessels from Naval Vessel Register(a) Boards of Officers To Examine Naval Vessels.—(1) The Secretary of the Navy shall designate boards of naval officers to examine naval vessels, including unfinished vessels, for the purpose of making a recommendation to the Secretary as to which vessels, if any, should be stricken from the Naval Vessel Register. Each vessel shall be examined at least once every three years if practicable.
+
+(2)(A) Except as provided in subparagraph (B), any naval vessel examined under this section on or after January 1, 2020, shall be examined with minimal notice provided to the crew of the vessel.
+
+(B) Subparagraph (A) shall not apply to a vessel undergoing necessary trials before acceptance into the fleet.
+
+
+
+(b) Actions by Board.—A board designated under subsection (a) shall submit to the Secretary in writing its recommendations as to which vessels, if any, among those it examined should be stricken from the Naval Vessel Register.
+
+(c) Action by Secretary.—If the Secretary concurs with a recommendation by a board that a vessel should be stricken from the Naval Vessel Register, the Secretary shall strike the name of that vessel from the Naval Vessel Register.
+
+(d) Annual Report.—(1) Not later than March 1 each year, the board designated under subsection (a) shall provide to the congressional defense committees a briefing and submit to such committees a report regarding the following:(A) An overall narrative summary of the material readiness of Navy ships as compared to established material requirements standards.
+
+(B) The overall number and types of vessels inspected during the preceding fiscal year.
+
+(C) For in-service vessels, material readiness trends by inspected functional area as compared to the previous five years.
+
+
+(2) Each report under this subsection shall be submitted in—(A) a classified form; and
+
+(B) an unclassified form that is releasable to the public without further redaction.
+
+
+
+(Added</akn:p></akn:content><akn:subsection eId="subsec_8674_a"><akn:num>(a)</akn:num><akn:heading>Boards of Officers To Examine Naval Vessels.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8674_b"><akn:num>(b)</akn:num><akn:heading>Actions by Board.—</akn:heading><akn:content><akn:p>(b) A board designated under subsection (a) shall submit to the Secretary in writing its recommendations as to which vessels, if any, among those it examined should be stricken from the Naval Vessel Register.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8674_c"><akn:num>(c)</akn:num><akn:heading>Action by Secretary.—</akn:heading><akn:content><akn:p>(c) If the Secretary concurs with a recommendation by a board that a vessel should be stricken from the Naval Vessel Register, the Secretary shall strike the name of that vessel from the Naval Vessel Register.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8674_d"><akn:num>(d)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

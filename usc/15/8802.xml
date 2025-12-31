@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8802"><akn:num>8802</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>§ 8802. Purposes
+The purpose of this chapter is to ensure the continued leadership of the United States in quantum information science and its technology applications by—(1) supporting research, development, demonstration, and application of quantum information science and technology—(A) to expand the number of researchers, educators, and students with training in quantum information science and technology to develop a workforce pipeline;
+
+(B) to promote the development and inclusion of multidisciplinary curriculum and research opportunities for quantum information science at the undergraduate, graduate, and postdoctoral level;
+
+(C) to address basic research knowledge gaps, including computational research gaps;
+
+(D) to promote the further development of facilities and centers available for quantum information science and technology research, testing and education; and
+
+(E) to stimulate research on and promote more rapid development of quantum-based technologies;
+
+
+(2) improving the interagency planning and coordination of Federal research and development of quantum information science and technology;
+
+(3) maximizing the effectiveness of the Federal Government’s quantum information science and technology research, development, and demonstration programs;
+
+(4) promoting collaboration among the Federal Government, Federal laboratories, industry, and universities; and
+
+(5) promoting the development of international standards for quantum information science and technology security—(A) to facilitate technology innovation and private sector commercialization; and
+
+(B) to meet economic and national security goals.
+
+
+(Pub. L. 115–368, § 3, Dec. 21, 2018, 132 Stat. 5093.)</akn:p></akn:content><akn:subsection eId="subsec_8802_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) supporting research, development, demonstration, and application of quantum information science and technology—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) improving the interagency planning and coordination of Federal research and development of quantum information science and technology;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) maximizing the effectiveness of the Federal Government’s quantum information science and technology research, development, and demonstration programs;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) promoting collaboration among the Federal Government, Federal laboratories, industry, and universities; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8802_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) promoting the development of international standards for quantum information science and technology security—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

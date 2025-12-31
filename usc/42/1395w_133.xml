@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1395w–133" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1395w–133/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1395w–133/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1395w_133"><akn:num>1395w–133</akn:num><akn:heading>State Pharmaceutical Assistance Programs</akn:heading><akn:content><akn:p>§ 1395w–133. State Pharmaceutical Assistance Programs(a) Requirements for benefit coordination(1) In generalBefore July 1, 2005, the Secretary shall establish consistent with this section requirements for prescription drug plans to ensure the effective coordination between a part D plan (as defined in paragraph (5)) and a State Pharmaceutical Assistance Program (as defined in subsection (b)) with respect to—(A) payment of premiums and coverage; and
+
+(B) payment for supplemental prescription drug benefits,
+
+
+for part D eligible individuals enrolled under both types of plans.
+
+(2) Coordination elementsThe requirements under paragraph (1) shall include requirements relating to coordination of each of the following:(A) Enrollment file sharing.
+
+(B) The processing of claims, including electronic processing.
+
+(C) Claims payment.
+
+(D) Claims reconciliation reports.
+
+(E) Application of the protection against high out-of-pocket expenditures under section 1395w–102(b)(4) of this title.
+
+(F) Other administrative processes specified by the Secretary.
+
+
+Such requirements shall be consistent with applicable law to safeguard the privacy of any individually identifiable beneficiary information.
+
+(3) Use of lump sum per capita methodSuch requirements shall include a method for the application by a part D plan of specified funding amounts from a State Pharmaceutical Assistance Program for enrolled individuals for supplemental prescription drug benefits.
+
+
+(4) ConsultationIn establishing requirements under this subsection, the Secretary shall consult with State Pharmaceutical Assistance Programs, MA organizations, States, pharmaceutical benefit managers, employers, representatives of part D eligible individuals, the data processing experts, pharmacists, pharmaceutical manufacturers, and other experts.
+
+
+(5) Part D plan definedFor purposes of this section and section 1395w–134 of this title, the term “part D plan” means a prescription drug plan and an MA–PD plan.
+
+
+
+(b) State Pharmaceu</akn:p></akn:content><akn:subsection eId="subsec_1395w_133_a"><akn:num>(a)</akn:num><akn:heading>Requirements for benefit coordination</akn:heading><akn:content><akn:p>(a) Requirements for benefit coordination</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_133_b"><akn:num>(b)</akn:num><akn:heading>State Pharmaceutical Assistance Program</akn:heading><akn:content><akn:p>(b) State Pharmaceutical Assistance Program For purposes of this part, the term “State Pharmaceutical Assistance Program” means a State program—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_133_c"><akn:num>(c)</akn:num><akn:heading>Relation to other provisions</akn:heading><akn:content><akn:p>(c) Relation to other provisions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395w_133_d"><akn:num>(d)</akn:num><akn:heading>Facilitation of transition and coordination with State Pharmaceutical Assistance Programs</akn:heading><akn:content><akn:p>(d) Facilitation of transition and coordination with State Pharmaceutical Assistance Programs</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

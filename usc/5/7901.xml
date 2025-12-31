@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/7901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/7901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/7901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7901"><akn:num>7901</akn:num><akn:heading>Health service programs</akn:heading><akn:content><akn:p>§ 7901. Health service programs(a) The head of each agency of the Government of the United States may establish, within the limits of appropriations available, a health service program to promote and maintain the physical and mental fitness of employees under his jurisdiction.
+
+(b) A health service program may be established by contract or otherwise, but only—(1) after consultation with the Secretary of Health, Education, and Welfare and consideration of its recommendations; and
+
+(2) in localities where there are a sufficient number of employees to warrant providing the service.
+
+
+(c) A health service program is limited to—(1) treatment of on-the-job illness and dental conditions requiring emergency attention;
+
+(2) preemployment and other examinations;
+
+(3) referral of employees to private physicians and dentists; and
+
+(4) preventive programs relating to health.
+
+
+(d) The Secretary of Health, Education, and Welfare, on request, shall review a health service program conducted under this section and shall submit comment and recommendations to the head of the agency concerned.
+
+(e) When this section authorizes the use of the professional services of physicians, that authorization includes the use of the professional services of surgeons and osteopathic practitioners within the scope of their practice as defined by State law.
+
+(f) The health programs conducted by the Tennessee Valley Authority are not affected by this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, § 1(47), Sept. 11, 1967, 81 Stat. 209; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(9), Sept. 23, 1996, 110 Stat. 2869.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+1966 Act
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 150.Aug. 8, 1946, ch. 865, 60 Stat. 903.Sept. 23, 1950, ch. 1010, § 8, 64 Stat. 986.
+
+
+In subsection (a), the words “agency of the Government of the United States” are coextensive with and substituted for “departments and agencies including Gov</akn:p></akn:content><akn:subsection eId="subsec_7901_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The head of each agency of the Government of the United States may establish, within the limits of appropriations available, a health service program to promote and maintain the physical and mental fitness of employees under his jurisdiction.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7901_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A health service program may be established by contract or otherwise, but only—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7901_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) A health service program is limited to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7901_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Secretary of Health, Education, and Welfare, on request, shall review a health service program conducted under this section and shall submit comment and recommendations to the head of the agency concerned.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7901_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) When this section authorizes the use of the professional services of physicians, that authorization includes the use of the professional services of surgeons and osteopathic practitioners within the scope of their practice as defined by State law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7901_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) The health programs conducted by the Tennessee Valley Authority are not affected by this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

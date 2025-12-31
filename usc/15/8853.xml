@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8853" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8853/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8853/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8853"><akn:num>8853</akn:num><akn:heading>Department of Energy quantum network infrastructure research and development program</akn:heading><akn:content><akn:p>§ 8853. Department of Energy quantum network infrastructure research and development program(a) In generalThe Secretary of Energy (referred to in this section as the “Secretary”) shall carry out a research, development, and demonstration program to accelerate innovation in quantum network infrastructure in order to—(1) facilitate the advancement of distributed quantum computing systems through the internet and intranet;
+
+(2) improve the precision of measurements of scientific phenomena and physical imaging technologies;
+
+(3) develop secure national quantum communications technologies and strategies;
+
+(4) demonstrate quantum networking utilizing the Department of Energy’s Energy Sciences Network User Facility; and
+
+(5) advance the relevant domestic supply chains, manufacturing capabilities, and associated simulations or modeling capabilities.
+
+
+(b) ProgramIn carrying out this section, the Secretary shall—(1) coordinate with—(A) the Director of the National Science Foundation;
+
+(B) the Director of the National Institute of Standards and Technology;
+
+(C) the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title; and
+
+(D) the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;
+
+
+(2) conduct cooperative research with industry, National Laboratories, institutions of higher education, and other research institutions to facilitate new quantum infrastructure methods and technologies, including—(A) quantum-limited detectors, ultra-low loss optical channels, space-to-ground connections, and classical networking and cybersecurity protocols;
+
+(B) entanglement and hyper-entangled state sources and transmission, control, and measurement of quantum states;
+
+(C) quantum interconnects that allow short range local connections between quantum processors;
+
+(D) transducers for quantum sources and signals between optical wavelength regimes, including teleco</akn:p></akn:content><akn:subsection eId="subsec_8853_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Energy (referred to in this section as the “Secretary”) shall carry out a research, development, and demonstration program to accelerate innovation in quantum network infrastructure in order to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8853_b"><akn:num>(b)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(b) Program In carrying out this section, the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8853_c"><akn:num>(c)</akn:num><akn:heading>Leveraging</akn:heading><akn:content><akn:p>(c) Leveraging In carrying out this section, the Secretary shall leverage resources, infrastructure, and expertise across the Department of Energy and from—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8853_d"><akn:num>(d)</akn:num><akn:heading>Research plan</akn:heading><akn:content><akn:p>(d) Research plan Not later than 180 days after August 9, 2022, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 4-year research plan that identifies and prioritizes basic research needs relating to quantum network infrastructure.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8853_e"><akn:num>(e)</akn:num><akn:heading>Standard of review</akn:heading><akn:content><akn:p>(e) Standard of review The Secretary shall review activities carried out under this section to determine the achievement of technical milestones.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8853_f"><akn:num>(f)</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>(f) Funding Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there is authorized to be appropriated to the Secretary to carry out the activities under this section $100,000,000 for each of fiscal years 2023 through 2027.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

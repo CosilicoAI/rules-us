@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/4232" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/4232/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/4232/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4232"><akn:num>4232</akn:num><akn:heading>Prohibition on use of lowest price technically acceptable source selection process</akn:heading><akn:content><akn:p>§ 4232. Prohibition on use of lowest price technically acceptable source selection process(a) In General.—The Department of Defense shall not use a lowest price technically acceptable source selection process for the engineering and manufacturing development contract of a major defense acquisition program.
+
+(b) Definitions.—In this section:(1) Lowest price technically acceptable source selection process.—The term “lowest price technically acceptable source selection process” has the meaning given that term in part 15 of the Federal Acquisition Regulation.
+
+(2) Engineering and manufacturing development contract.—The term “engineering and manufacturing development contract” means a prime contract for the engineering and manufacturing development of a major defense acquisition program.
+
+
+(Added Pub. L. 115–91, div. A, title VIII, § 832(a)(1), Dec. 12, 2017, 131 Stat. 1468, § 2442; renumbered § 4232 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(c)(2), Jan. 1, 2021, 134 Stat. 4254.)
+
+Editorial Notes
+Amendments2021—Pub. L. 116–283 renumbered section 2442 of this title as this section and, in subsec. (b), redesignated par. (3) as (2) and struck out former par. (2) which defined “major defense acquisition program”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DatePub. L. 115–91, div. A, title VIII, § 832(b), Dec. 12, 2017, 131 Stat. 1468, provided that: “The requirements of section 2442 of title 10, United States Code [now 10 U.S.C. 4232], as added by subsection (a), shall apply to major defense acquisition programs for which budgetary authority is requested for fiscal year 2019 or a subsequent fiscal year.”</akn:p></akn:content><akn:subsection eId="subsec_4232_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Department of Defense shall not use a lowest price technically acceptable source selection process for the engineering and manufacturing development contract of a major defense acquisition program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4232_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

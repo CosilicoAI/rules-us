@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/718r" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/718r/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/718r/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_718r"><akn:num>718r</akn:num><akn:heading>State obligations and authorities</akn:heading><akn:content><akn:p>§ 718r. State obligations and authorities(a) Delivery of electronic stampThe Secretary shall require that each individual to whom a State sells an electronic stamp under this subchapter shall receive the electronic stamp—(1) on the date of purchase of the electronic stamp; and
+
+(2) in a manner agreed upon by the State and Secretary.
+
+
+(b) Collection and transfer of electronic stamp revenue and customer information(1) Requirement to transmitThe Secretary shall require each State authorized to issue electronic stamps to collect and submit to the Secretary in accordance with this section—(A) the first name, last name, and complete mailing address of each individual that purchases an electronic stamp from the State;
+
+(B) the face value amount of each electronic stamp sold by the State; and
+
+(C) the amount of the Federal portion of any fee required by the agreement for each stamp sold.
+
+
+(2) Time of transmittalThe Secretary shall require the submission under paragraph (1) to be made with respect to sales of electronic stamps by a State according to the written agreement between the Secretary and the State agency.
+
+
+(3) Additional fees not affectedThis section shall not apply to the State portion of any fee collected by a State under subsection (c).
+
+
+
+(c) Electronic stamp issuance feeA State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under this subchapter, including costs of delivery of actual stamps under subsection (e).
+
+
+(d) Duplicate electronic stampsA State authorized to issue electronic stamps may issue a duplicate electronic stamp to replace an electronic stamp issued by the State that is lost or damaged.
+
+
+(e) Delivery of actual stampsThe Secretary shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp for the preceding waterfowl season.
+
+
+(f) Limitation on authority to require purchase </akn:p></akn:content><akn:subsection eId="subsec_718r_a"><akn:num>(a)</akn:num><akn:heading>Delivery of electronic stamp</akn:heading><akn:content><akn:p>(a) Delivery of electronic stamp The Secretary shall require that each individual to whom a State sells an electronic stamp under this subchapter shall receive the electronic stamp—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_718r_b"><akn:num>(b)</akn:num><akn:heading>Collection and transfer of electronic stamp revenue and customer information</akn:heading><akn:content><akn:p>(b) Collection and transfer of electronic stamp revenue and customer information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_718r_c"><akn:num>(c)</akn:num><akn:heading>Electronic stamp issuance fee</akn:heading><akn:content><akn:p>(c) Electronic stamp issuance fee A State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under this subchapter, including costs of delivery of actual stamps under subsection (e).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_718r_d"><akn:num>(d)</akn:num><akn:heading>Duplicate electronic stamps</akn:heading><akn:content><akn:p>(d) Duplicate electronic stamps A State authorized to issue electronic stamps may issue a duplicate electronic stamp to replace an electronic stamp issued by the State that is lost or damaged.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_718r_e"><akn:num>(e)</akn:num><akn:heading>Delivery of actual stamps</akn:heading><akn:content><akn:p>(e) Delivery of actual stamps The Secretary shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp for the preceding waterfowl season.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_718r_f"><akn:num>(f)</akn:num><akn:heading>Limitation on authority to require purchase of State license</akn:heading><akn:content><akn:p>(f) Limitation on authority to require purchase of State license A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

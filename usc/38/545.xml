@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/545" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/545/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/545/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_545"><akn:num>545</akn:num><akn:heading>Advisory Committee on the Readjustment of Veterans</akn:heading><akn:content><akn:p>§ 545. Advisory Committee on the Readjustment of Veterans(a)(1) There is in the Department the Advisory Committee on the Readjustment of Veterans (hereinafter in this section referred to as the “Committee”).
+
+(2) The Committee shall consist of not more than 18 members appointed by the Secretary from among individuals who—(A) have demonstrated significant civic or professional achievement; and
+
+(B) have experience with the provision of veterans benefits and services by the Department.
+
+
+(3) The Secretary shall seek to ensure that members appointed to the Committee include individuals from a wide variety of geographic areas and ethnic backgrounds, individuals from veterans service organizations, individuals with combat experience, and women.
+
+(4) The Secretary shall determine the terms of service and pay and allowances of the members of the Committee, except that a term of service may not exceed two years. The Secretary may reappoint any member for additional terms of service.
+
+
+(b)(1) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the provision by the Department of benefits and services to veterans in order to assist veterans in the readjustment to civilian life.
+
+(2)(A) In providing advice to the Secretary under this subsection, the Committee shall—(i) assemble and review information relating to the needs of veterans in readjusting to civilian life;
+
+(ii) provide information relating to the nature and character of psychological problems arising from service in the Armed Forces;
+
+(iii) provide an on-going assessment of the effectiveness of the policies, organizational structures, and services of the Department in assisting veterans in readjusting to civilian life; and
+
+(iv) provide on-going advice on the most appropriate means of responding to the readjustment needs of veterans in the future.
+
+
+(B) In carrying out its duties under subparagraph (A), the Committee shall take into special account the needs of v</akn:p></akn:content><akn:subsection eId="subsec_545_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_545_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_545_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_545_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

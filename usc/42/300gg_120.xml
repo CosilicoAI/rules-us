@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300gg–120" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300gg–120/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300gg–120/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300gg_120"><akn:num>300gg–120</akn:num><akn:heading>Reporting on pharmacy benefits and drug costs</akn:heading><akn:content><akn:p>§ 300gg–120. Reporting on pharmacy benefits and drug costs(a) In generalNot later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan or health insurance issuer offering group or individual health insurance coverage (except for a church plan) shall submit to the Secretary, the Secretary of Labor, and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:(1) The beginning and end dates of the plan year.
+
+(2) The number of enrollees.
+
+(3) Each State in which the plan or coverage is offered.
+
+(4) The 50 brand prescription drugs most frequently dispensed by pharmacies for claims paid by the plan or coverage, and the total number of paid claims for each such drug.
+
+(5) The 50 most costly prescription drugs with respect to the plan or coverage by total annual spending, and the annual amount spent by the plan or coverage for each such drug.
+
+(6) The 50 prescription drugs with the greatest increase in plan expenditures over the plan year preceding the plan year that is the subject of the report, and, for each such drug, the change in amounts expended by the plan or coverage in each such plan year.
+
+(7) Total spending on health care services by such group health plan or health insurance coverage, broken down by—(A) the type of costs, including—(i) hospital costs;
+
+(ii) health care provider and clinical service costs, for primary care and specialty care separately;
+
+(iii) costs for prescription drugs; and
+
+(iv) other medical costs, including wellness services; and
+
+
+(B) spending on prescription drugs by—(i) the health plan or coverage; and
+
+(ii) the enrollees.
+
+
+
+(8) The average monthly premium—(A) paid by employers on behalf of enrollees, as applicable; and
+
+(B) paid by enrollees.
+
+
+(9) Any impact on premiums by rebates, fees, and any other remuneration paid by drug manufacturers to the plan or coverage or its administrators or service providers, wi</akn:p></akn:content><akn:subsection eId="subsec_300gg_120_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan or health insurance issuer offering group or individual health insurance coverage (except for a church plan) shall submit to the Secretary, the Secretary of Labor, and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300gg_120_b"><akn:num>(b)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(b) Report Not later than 18 months after the date on which the first report is required under subsection (a) and biannually thereafter, the Secretary, acting through the Assistant Secretary of Planning and Evaluation and in coordination with the Inspector General of the Department of Health and Human Services, shall make available on the internet website of the Department of Health and Human Services a report on prescription drug reimbursements under group health plans and group and individual health insurance coverage, prescription drug pricing trends, and the role of prescription drug costs in contributing to premium increases or decreases under such plans or coverage, aggregated in such a way as no drug or plan specific information will be made public.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300gg_120_c"><akn:num>(c)</akn:num><akn:heading>Privacy protections</akn:heading><akn:content><akn:p>(c) Privacy protections No confidential or trade secret information submitted to the Secretary under subsection (a) shall be included in the report under subsection (b).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

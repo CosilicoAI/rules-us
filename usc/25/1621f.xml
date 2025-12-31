@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/1621f" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/1621f/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/1621f/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1621f"><akn:num>1621f</akn:num><akn:heading>Crediting of reimbursements</akn:heading><akn:content><akn:p>§ 1621f. Crediting of reimbursements(a) Use of amounts(1) Retention by programExcept as provided in sections 1621a(a)(2) and 1680c of this title, all reimbursements received or recovered under any of the programs described in paragraph (2), including under section 1680c of this title, by reason of the provision of health services by the Service, by an Indian tribe or tribal organization, or by an urban Indian organization, shall be credited to the Service, such Indian tribe or tribal organization, or such urban Indian organization, respectively, and may be used as provided in section 1641 of this title. In the case of such a service provided by or through a Service Unit, such amounts shall be credited to such unit and used for such purposes.
+
+
+(2) Programs coveredThe programs referred to in paragraph (1) are the following:(A) Titles XVIII, XIX, and XXI of the Social Security Act [42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.].
+
+(B) This chapter, including section 1680c of this title.
+
+(C) Public Law 87–693 [42 U.S.C. 2651 et seq.].
+
+(D) Any other provision of law.
+
+
+
+(b) No offset of amountsThe Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).
+
+
+(Pub. L. 94–437, title II, § 207, as added Pub. L. 100–713, title II, § 204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, § 701(c)(1), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+Editorial Notes
+
+References in TextThe Social Security Act, referred to in subsec. (a)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title</akn:p></akn:content><akn:subsection eId="subsec_1621f_a"><akn:num>(a)</akn:num><akn:heading>Use of amounts</akn:heading><akn:content><akn:p>(a) Use of amounts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1621f_b"><akn:num>(b)</akn:num><akn:heading>No offset of amounts</akn:heading><akn:content><akn:p>(b) No offset of amounts The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

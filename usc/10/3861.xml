@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/3861" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/3861/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/3861/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3861"><akn:num>3861</akn:num><akn:heading>Research and development contracts: indemnification provisions</akn:heading><akn:content><akn:p>§ 3861. Research and development contracts: indemnification provisions(a) With the approval of the Secretary of the military department concerned, any contract of a military department for research or development, or both, may provide that the United States will indemnify the contractor against either or both of the following, but only to the extent that they arise out of the direct performance of the contract and to the extent not compensated by insurance or otherwise:(1) Claims (including reasonable expenses of litigation or settlement) by third persons, including employees of the contractor, for death, bodily injury, or loss of or damage to property, from a risk that the contract defines as unusually hazardous.
+
+(2) Loss of or damage to property of the contractor from a risk that the contract defines as unusually hazardous.
+
+
+(b) A contract, made under subsection (a), that provides for indemnification must also provide for—(1) notice to the United States of any claim or suit against the contractor for the death, bodily injury, or loss of or damage to property; and
+
+(2) control of or assistance in the defense by the United States, at its election, of that suit or claim.
+
+
+(c) No payment may be made under subsection (a) unless the Secretary of the department concerned, or an officer or official of his department designated by him, certifies that the amount is just and reasonable.
+
+(d) Upon approval by the Secretary concerned, payments under subsection (a) may be made from—(1) funds obligated for the performance of the contract concerned;
+
+(2) funds available for research or development, or both, and not otherwise obligated; or
+
+(3) funds appropriated for those payments.
+
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 134, § 2354; renumbered § 3861 and amended Pub. L. 116–283, div. A, title XVIII, § 1836(b), (c), Jan. 1, 2021, 134 Stat. 4241.)
+
+Editorial Notes
+Amendments2021—Pub. L. 116–283 renumbered section 2354 of this title as this section and substituted “Research and de</akn:p></akn:content><akn:subsection eId="subsec_3861_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) With the approval of the Secretary of the military department concerned, any contract of a military department for research or development, or both, may provide that the United States will indemnify the contractor against either or both of the following, but only to the extent that they arise out of the direct performance of the contract and to the extent not compensated by insurance or otherwise:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3861_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A contract, made under subsection (a), that provides for indemnification must also provide for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3861_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) No payment may be made under subsection (a) unless the Secretary of the department concerned, or an officer or official of his department designated by him, certifies that the amount is just and reasonable.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3861_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Upon approval by the Secretary concerned, payments under subsection (a) may be made from—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

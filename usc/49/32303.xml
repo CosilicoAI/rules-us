@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/32303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/32303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/32303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_32303"><akn:num>32303</akn:num><akn:heading>Insurance information</akn:heading><akn:content><akn:p>§ 32303. Insurance information(a) General Reports and Information Requirements.—(1) In carrying out this chapter, the Secretary of Transportation may require an insurer, or a designated agent of the insurer, to make reports and provide the Secretary with information. The reports and information may include accident claim information by make, model, and model year of passenger motor vehicle about the kind and extent of—(A) physical damage and repair costs; and
+
+(B) personal injury.
+
+
+(2) In deciding which reports and information are to be provided under this subsection, the Secretary shall—(A) consider the cost of preparing and providing the reports and information;
+
+(B) consider the extent to which the reports and information will contribute to carrying out this chapter; and
+
+(C) consult with State authorities and public and private agencies the Secretary considers appropriate.
+
+
+(3) To the extent possible, the Secretary shall obtain reports and information under this subsection on a voluntary basis.
+
+
+(b) Requested Information on Crashworthiness, Damage Susceptibility, and Repair and Personal Injury Cost.—When requested by the Secretary, an insurer shall give the Secretary information—(1) about the extent to which the insurance premiums charged by the insurer are affected by damage susceptibility, crashworthiness, and the cost of repair and personal injury, for each make and model of passenger motor vehicle; and
+
+(2) available to the insurer about the effect of damage susceptibility, crashworthiness, and the cost of repair and personal injury for each make and model of passenger motor vehicle on the risk incurred by the insurer in insuring that make and model.
+
+
+(c) Disclosure.—In distributing information received under this section, the Secretary may disclose identifying information about a person that may be an insured, a claimant, a passenger, an owner, a witness, or an individual involved in a motor vehicle accident, only with the consent of the person.
+
+(Pub. </akn:p></akn:content><akn:subsection eId="subsec_32303_a"><akn:num>(a)</akn:num><akn:heading>General Reports and Information Requirements.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32303_b"><akn:num>(b)</akn:num><akn:heading>Requested Information on Crashworthiness, Damage Susceptibility, and Repair and Personal Injury Cost.—</akn:heading><akn:content><akn:p>(b) When requested by the Secretary, an insurer shall give the Secretary information—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32303_c"><akn:num>(c)</akn:num><akn:heading>Disclosure.—</akn:heading><akn:content><akn:p>(c) In distributing information received under this section, the Secretary may disclose identifying information about a person that may be an insured, a claimant, a passenger, an owner, a witness, or an individual involved in a motor vehicle accident, only with the consent of the person.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

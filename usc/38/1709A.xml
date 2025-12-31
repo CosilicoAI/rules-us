@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1709A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1709A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1709A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1709A"><akn:num>1709A</akn:num><akn:heading>Teleconsultation</akn:heading><akn:content><akn:p>§ 1709A. Teleconsultation(a) Teleconsultation.—(1) The Secretary shall carry out an initiative of teleconsultation for the provision of remote mental health and traumatic brain injury assessments in facilities of the Department that are not otherwise able to provide such assessments without contracting with third-party providers or reimbursing providers through a fee basis system.
+
+(2) The Secretary shall, in consultation with appropriate professional societies, promulgate technical and clinical care standards for the use of teleconsultation services within facilities of the Department.
+
+(3) In carrying out an initiative under paragraph (1), the Secretary shall ensure that facilities of the Department are able to provide a mental health or traumatic brain injury assessment to a veteran through contracting with a third-party provider or reimbursing a provider through a fee basis system when—(A) such facilities are not able to provide such assessment to the veteran without—(i) such contracting or reimbursement; or
+
+(ii) teleconsultation; and
+
+
+(B) providing such assessment with such contracting or reimbursement is more clinically appropriate for the veteran than providing such assessment with teleconsultation.
+
+
+
+(b) Teleconsultation Defined.—In this section, the term “teleconsultation” means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
+
+(Added Pub. L. 112–154, title I, § 108(a)(1), Aug. 6, 2012, 126 Stat. 1174.)</akn:p></akn:content><akn:subsection eId="subsec_1709A_a"><akn:num>(a)</akn:num><akn:heading>Teleconsultation.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1709A_b"><akn:num>(b)</akn:num><akn:heading>Teleconsultation Defined.—</akn:heading><akn:content><akn:p>(b) In this section, the term “teleconsultation” means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

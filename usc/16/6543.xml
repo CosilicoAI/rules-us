@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/6543" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/6543/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/6543/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6543"><akn:num>6543</akn:num><akn:heading>Watershed Condition Framework</akn:heading><akn:content><akn:p>§ 6543. Watershed Condition Framework(a) In generalThe Secretary of Agriculture, acting through the Chief of the Forest Service (referred to in this section as the “Secretary”), may establish and maintain a Watershed Condition Framework for National Forest System land—(1) to evaluate and classify the condition of watersheds, taking into consideration—(A) water quality and quantity;
+
+(B) aquatic habitat and biota;
+
+(C) riparian and wetland vegetation;
+
+(D) the presence of roads and trails;
+
+(E) soil type and condition;
+
+(F) groundwater-dependent ecosystems;
+
+(G) relevant terrestrial indicators, such as fire regime, risk of catastrophic fire, forest and rangeland vegetation, invasive species, and insects and disease; and
+
+(H) other significant factors, as determined by the Secretary;
+
+
+(2) to identify for protection and restoration up to 5 priority watersheds in each National Forest, and up to 2 priority watersheds in each national grassland, taking into consideration the impact of the condition of the watershed condition on—(A) wildfire behavior;
+
+(B) flood risk;
+
+(C) fish and wildlife;
+
+(D) drinking water supplies;
+
+(E) irrigation water supplies;
+
+(F) forest-dependent communities; and
+
+(G) other significant impacts, as determined by the Secretary;
+
+
+(3) to develop a watershed protection and restoration action plan for each priority watershed that—(A) takes into account existing restoration activities being implemented in the watershed; and
+
+(B) includes, at a minimum—(i) the major stressors responsible for the impaired condition of the watershed;
+
+(ii) a set of essential projects that, once completed, will address the identified stressors and improve watershed conditions;
+
+(iii) a proposed implementation schedule;
+
+(iv) potential partners and funding sources; and
+
+(v) a monitoring and evaluation program;
+
+
+
+(4) to prioritize protection and restoration activities for each watershed restoration action plan;
+
+(5) to implement each watershed protection and restoration a</akn:p></akn:content><akn:subsection eId="subsec_6543_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary of Agriculture, acting through the Chief of the Forest Service (referred to in this section as the “Secretary”), may establish and maintain a Watershed Condition Framework for National Forest System land—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6543_b"><akn:num>(b)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(b) Coordination In carrying out subsection (a), the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6543_c"><akn:num>(c)</akn:num><akn:heading>Emergency designation</akn:heading><akn:content><akn:p>(c) Emergency designation Notwithstanding paragraph (2) of subsection (a), the Secretary may identify a watershed as a priority for rehabilitation in the Watershed Condition Framework without using the process described in that subsection if a Forest Supervisor determines that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

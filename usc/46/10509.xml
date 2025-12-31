@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/10509" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/10509/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/10509/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10509"><akn:num>10509</akn:num><akn:heading>Penalty for failing to begin voyage</akn:heading><akn:content><akn:p>§ 10509. Penalty for failing to begin voyage(a) A seaman who fails to be on board at the time contained in the agreement required by section 10502 of this title, without having given 24 hours’ notice of inability to do so, shall forfeit, for each hour’s lateness, one-half of one day’s pay to be deducted from the seaman’s wages if the lateness is recorded in the official logbook on the date of the violation.
+
+(b) A seaman who does not report at all or subsequently deserts forfeits all wages.
+
+(c) This section does not apply to a fishing or whaling vessel or a yacht.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 572.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1050946:576
+
+
+This section provides for a reduction in the wages of seamen who arrive late for voyages, if their late arrival is noted in the official logbook. It does not apply to fishing vessels, whaling vessels or yachts.</akn:p></akn:content><akn:subsection eId="subsec_10509_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A seaman who fails to be on board at the time contained in the agreement required by section 10502 of this title, without having given 24 hours’ notice of inability to do so, shall forfeit, for each hour’s lateness, one-half of one day’s pay to be deducted from the seaman’s wages if the lateness is recorded in the official logbook on the date of the violation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10509_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A seaman who does not report at all or subsequently deserts forfeits all wages.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10509_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) This section does not apply to a fishing or whaling vessel or a yacht.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/136e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/136e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/136e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_136e"><akn:num>136e</akn:num><akn:heading>Registration of establishments</akn:heading><akn:content><akn:p>§ 136e. Registration of establishments(a) RequirementNo person shall produce any pesticide subject to this subchapter or active ingredient used in producing a pesticide subject to this subchapter in any State unless the establishment in which it is produced is registered with the Administrator. The application for registration of any establishment shall include the name and address of the establishment and of the producer who operates such establishment.
+
+
+(b) RegistrationWhenever the Administrator receives an application under subsection (a), the Administrator shall register the establishment and assign it an establishment number.
+
+
+(c) Information required(1) Any producer operating an establishment registered under this section shall inform the Administrator within 30 days after it is registered of the types and amounts of pesticides and, if applicable, active ingredients used in producing pesticides—(A) which the producer is currently producing;
+
+(B) which the producer has produced during the past year; and
+
+(C) which the producer has sold or distributed during the past year.
+
+
+The information required by this paragraph shall be kept current and submitted to the Administrator annually as required under such regulations as the Administrator may prescribe.
+
+(2) Any such producer shall, upon the request of the Administrator for the purpose of issuing a stop sale order pursuant to section 136k of this title, inform the Administrator of the name and address of any recipient of any pesticide produced in any registered establishment which the producer operates.
+
+
+(d) Confidential records and informationAny information submitted to the Administrator pursuant to subsection (c) other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of section 136h of this title.
+
+
+(June 25, 1947, ch. 125, § 7, as added Pub. L. 92–516,</akn:p></akn:content><akn:subsection eId="subsec_136e_a"><akn:num>(a)</akn:num><akn:heading>Requirement</akn:heading><akn:content><akn:p>(a) Requirement No person shall produce any pesticide subject to this subchapter or active ingredient used in producing a pesticide subject to this subchapter in any State unless the establishment in which it is produced is registered with the Administrator. The application for registration of any establishment shall include the name and address of the establishment and of the producer who operates such establishment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_136e_b"><akn:num>(b)</akn:num><akn:heading>Registration</akn:heading><akn:content><akn:p>(b) Registration Whenever the Administrator receives an application under subsection (a), the Administrator shall register the establishment and assign it an establishment number.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_136e_c"><akn:num>(c)</akn:num><akn:heading>Information required</akn:heading><akn:content><akn:p>(c) Information required</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_136e_d"><akn:num>(d)</akn:num><akn:heading>Confidential records and information</akn:heading><akn:content><akn:p>(d) Confidential records and information Any information submitted to the Administrator pursuant to subsection (c) other than the names of the pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment shall be considered confidential and shall be subject to the provisions of section 136h of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

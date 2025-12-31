@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/152" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/152/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/152/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_152"><akn:num>152</akn:num><akn:heading>Appointment of bankruptcy judges</akn:heading><akn:content><akn:p>§ 152. Appointment of bankruptcy judges(a)(1) Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located. Such appointments shall be made after considering the recommendations of the Judicial Conference submitted pursuant to subsection (b). Each bankruptcy judge shall be appointed for a term of fourteen years, subject to the provisions of subsection (e). However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor. Bankruptcy judges shall serve as judicial officers of the United States district court established under Article III of the Constitution.
+
+(2) The bankruptcy judges appointed pursuant to this section shall be appointed for the several judicial districts as follows:
+
+
+
+
+
+
+DistrictsJudges
+
+
+Alabama:
+Northern5
+Middle2
+Southern2
+Alaska2
+Arizona7
+Arkansas:
+Eastern and Western3
+California:
+Northern9
+Eastern6
+Central21
+Southern4
+Colorado5
+Connecticut3
+Delaware1
+District of Columbia1
+Florida:
+Northern1
+Middle8
+Southern5
+Georgia:
+Northern8
+Middle3
+Southern2
+Hawaii1
+Idaho2
+Illinois:
+Northern10
+Central3
+Southern1
+Indiana:
+Northern3
+Southern4
+Iowa:
+Northern2
+Southern2
+Kansas4
+Kentucky:
+Eastern2
+Western3
+Louisiana:
+Eastern2
+Middle1
+Western3
+Maine2
+Maryland4
+Massachusetts5
+Michigan:
+Eastern4
+Western3
+Minnesota4
+Mississippi:
+Northern1
+Southern2
+Missouri:
+Eastern3
+Western3
+Montana1
+Nebraska2
+Nevada3
+New Hampshire1
+New Jersey8
+New Mexico2
+New York:
+Northern2
+Southern9
+Eastern6
+Western3
+North Carolina:
+Eastern2
+Middle2
+Western2
+North Dakota1
+Ohio:
+Northern8
+Southern7
+Oklahoma:
+Northern2
+Eastern1
+Western3
+Oregon5
+Pennsylvania:
+Eastern5
+Middle2
+Western4
+Puerto Rico2
+Rhode Island1
+South Carolina2
+Sou</akn:p></akn:content><akn:subsection eId="subsec_152_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_152_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_152_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_152_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) With the approval of the Judicial Conference and of each of the judicial councils involved, a bankruptcy judge may be designated to serve in any district adjacent to or near the district for which such bankruptcy judge was appointed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_152_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) A bankruptcy judge may be removed during the term for which such bankruptcy judge is appointed, only for incompetence, misconduct, neglect of duty, or physical or mental disability and only by the judicial council of the circuit in which the judge’s official duty station is located. Removal may not occur unless a majority of all of the judges of such council concur in the order of removal. Before any order of removal may be entered, a full specification of charges shall be furnished to such bankruptcy judge who shall be accorded an opportunity to be heard on such charges.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

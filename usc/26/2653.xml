@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2653" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2653/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2653/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2653"><akn:num>2653</akn:num><akn:heading>Taxation of multiple skips</akn:heading><akn:content><akn:p>§ 2653. Taxation of multiple skips(a) General ruleFor purposes of this chapter, if—(1) there is a generation-skipping transfer of any property, and
+
+(2) immediately after such transfer such property is held in trust,
+
+
+for purposes of applying this chapter (other than section 2651) to subsequent transfers from the portion of such trust attributable to such property, the trust will be treated as if the transferor of such property were assigned to the first generation above the highest generation of any person who has an interest in such trust immediately after the transfer.
+
+(b) Trust retains inclusion ratio(1) In generalExcept as provided in paragraph (2), the provisions of subsection (a) shall not affect the inclusion ratio determined with respect to any trust. Under regulations prescribed by the Secretary, notwithstanding the preceding sentence, proper adjustment shall be made to the inclusion ratio with respect to such trust to take into account any tax under this chapter borne by such trust which is imposed by this chapter on the transfer described in subsection (a).
+
+
+(2) Special rule for pour-over trust(A) In generalIf the generation-skipping transfer referred to in subsection (a) involves the transfer of property from 1 trust to another trust (hereinafter in this paragraph referred to as the “pour-over trust”), the inclusion ratio for the pour-over trust shall be determined by treating the nontax portion of such distribution as if it were a part of a GST exemption allocated to such trust.
+
+
+(B) Nontax portionFor purposes of subparagraph (A), the nontax portion of any distribution is the amount of such distribution multiplied by the applicable fraction which applies to such distribution.
+
+
+
+
+(Added Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2727.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as o</akn:p></akn:content><akn:subsection eId="subsec_2653_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of this chapter, if— for purposes of applying this chapter (other than section 2651) to subsequent transfers from the portion of such trust attributable to such property, the trust will be treated as if the transferor of such property were assigned to the first generation above the highest generation of any person who has an interest in such trust immediately after the transfer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2653_b"><akn:num>(b)</akn:num><akn:heading>Trust retains inclusion ratio</akn:heading><akn:content><akn:p>(b) Trust retains inclusion ratio</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

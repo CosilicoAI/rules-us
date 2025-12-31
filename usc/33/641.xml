@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/641" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/641/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/641/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_641"><akn:num>641</akn:num><akn:heading>Creation of Mississippi River Commission</akn:heading><akn:content><akn:p>§ 641. Creation of Mississippi River Commission
+A commission is created to be called “The Mississippi River Commission”, to consist of seven members.
+(June 28, 1879, ch. 43, § 1, 21 Stat. 37.)
+
+Editorial Notes
+Codification
+This was the first section of an act entitled “An act to provide for the appointment of a ‘Mississippi River Commission’ for the improvement of said river from the Head of the Passes near its mouth to its head-waters”.
+
+Statutory Notes and Related Subsidiaries
+Appropriation for Salaries and ExpensesAct June 28, 1879, ch. 43, § 7, 21 Stat. 38, omitted as temporary and executed, provided for the expenditure of an appropriation of $175,000 for salaries of the commission and necessary expenses of surveys, examinations, etc.
+
+Missouri River CommissionThe Missouri River Commission was created by act July 5, 1884, ch. 229, § 1, 23 Stat. 144, and repealed by act July 13, 1902, ch. 1079, § 1, 32 Stat. 367.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

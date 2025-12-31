@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/10103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/10103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/10103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10103"><akn:num>10103</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>§ 10103. Reports(a) A master of a vessel to which section 8701(a) of this title applies, who engages or discharges a seaman, shall submit reports to the vessel owner in the form, content, and manner of filing as prescribed by regulation, to ensure compliance with laws related to manning and the engagement and discharge of seamen.
+
+(b) This section does not apply to a ferry or towing vessel operated in connection with a ferry operation, employed only in trades other than with foreign ports, lakes, bays, sounds, bayous, canals, or harbors.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 560; Pub. L. 103–206, title IV, § 417, Dec. 20, 1993, 107 Stat. 2438.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1010346:643(l)
+
+
+Section 10103 requires that masters who engage or discharge seamen submit to the Coast Guard reports of the manning of the vessel, and reports of shipping agreements which are not supervised by a shipping commissioner. It also contains a number of exceptions for specified vessels.
+
+Editorial Notes
+Amendments1993—Subsec. (a). Pub. L. 103–206 struck out “without a shipping commissioner being present” after “discharges a seaman” and inserted “to the vessel owner” after “shall submit reports”.</akn:p></akn:content><akn:subsection eId="subsec_10103_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A master of a vessel to which section 8701(a) of this title applies, who engages or discharges a seaman, shall submit reports to the vessel owner in the form, content, and manner of filing as prescribed by regulation, to ensure compliance with laws related to manning and the engagement and discharge of seamen.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10103_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) This section does not apply to a ferry or towing vessel operated in connection with a ferry operation, employed only in trades other than with foreign ports, lakes, bays, sounds, bayous, canals, or harbors.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/69c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/69c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/69c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_69c"><akn:num>69c</akn:num><akn:heading>False advertising and invoicing</akn:heading><akn:content><akn:p>§ 69c. False advertising and invoicing(a) For the purposes of this subchapter, a fur product or fur shall be considered to be falsely or deceptively advertised if any advertisement, representation, public announcement, or notice which is intended to aid, promote, or assist directly or indirectly in the sale or offering for sale of such fur product or fur—(1) does not show the name or names (as set forth in the Fur Products Name Guide) of the animal or animals that produced the fur, and such qualifying statement as may be required pursuant to section 69e(c) of this title;
+
+(2) does not show that the fur is used fur or that the fur product contains used fur, when such is the fact;
+
+(3) does not show that the fur product or fur is bleached, dyed, or otherwise artificially colored fur when such is the fact;
+
+(4) does not show that the fur product is composed in whole or in substantial part of paws, tails, bellies, or waste fur, when such is the fact;
+
+(5) contains the name or names of any animal or animals other than the name or names specified in paragraph (1) of this subsection, or contains any form of misrepresentation or deception, directly or by implication, with respect to such fur product or fur;
+
+(6) does not show the name of the country of origin of any imported furs or those contained in a fur product.
+
+
+(b) For the purposes of this subchapter, a fur product or fur shall be considered to be falsely or deceptively invoiced—(1) if such fur product or fur is not invoiced to show—(A) the name or names (as set forth in the Fur Products Name Guide) of the animal or animals that produced the fur, and such qualifying statement as may be required pursuant to section 69e(c) of this title;
+
+(B) that the fur product contains or is composed of used fur, when such is the fact;
+
+(C) that the fur product contains or is composed of bleached, dyed, or otherwise artificially colored fur, when such is the fact;
+
+(D) that the fur product is composed in whole or in substantial part</akn:p></akn:content><akn:subsection eId="subsec_69c_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For the purposes of this subchapter, a fur product or fur shall be considered to be falsely or deceptively advertised if any advertisement, representation, public announcement, or notice which is intended to aid, promote, or assist directly or indirectly in the sale or offering for sale of such fur product or fur—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_69c_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For the purposes of this subchapter, a fur product or fur shall be considered to be falsely or deceptively invoiced—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

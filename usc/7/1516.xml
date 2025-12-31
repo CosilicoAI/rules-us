@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1516" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1516/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1516/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1516"><akn:num>1516</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>§ 1516. Funding(a) Authorization of appropriations(1) Discretionary expensesThere are authorized to be appropriated for fiscal year 1999 and each subsequent fiscal year such sums as are necessary to cover the salaries and expenses of the Corporation.
+
+
+(2) Mandatory expensesThere are authorized to be appropriated such sums as are necessary to cover for each of the 1999 and subsequent reinsurance years the following:(A) The administrative and operating expenses of the Corporation for the sales commissions of agents.
+
+(B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
+
+(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsection (a)(3)(E)(ii) of that section.
+
+(D) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
+
+
+
+(b) Payment of Corporation expenses from insurance fund(1) Expenses generallyFor each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) all expenses of the Corporation (other than expenses covered by subsection (a)(1) and expenses covered by paragraph (2)(A)), including the following:(A) Premium subsidies and indemnities.
+
+(B) Administrative and operating expenses of the Corporation necessary to pay the sales commissions of agents.
+
+(C) All administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
+
+(D) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsection (a)(3)(E)(ii) of that section.
+
+(E) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 o</akn:p></akn:content><akn:subsection eId="subsec_1516_a"><akn:num>(a)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(a) Authorization of appropriations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1516_b"><akn:num>(b)</akn:num><akn:heading>Payment of Corporation expenses from insurance fund</akn:heading><akn:content><akn:p>(b) Payment of Corporation expenses from insurance fund</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1516_c"><akn:num>(c)</akn:num><akn:heading>Insurance fund</akn:heading><akn:content><akn:p>(c) Insurance fund</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

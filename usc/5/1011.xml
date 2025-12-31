@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/1011" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/1011/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/1011/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1011"><akn:num>1011</akn:num><akn:heading>Fiscal and administrative provisions</akn:heading><akn:content><akn:p>§ 1011. Fiscal and administrative provisions(a) Records.—Each agency shall keep records that fully disclose the disposition of any funds which may be at the disposal of its advisory committees and the nature and extent of their activities. The General Services Administration, or such other agency as the President may designate, shall maintain financial records with respect to Presidential advisory committees. The Comptroller General of the United States, or any authorized representative of the Comptroller General, shall have access to the records for the purpose of audit and examination.
+
+(b) Support Services.—Each agency shall be responsible for providing support services for each advisory committee established by or reporting to it unless the establishing authority provides otherwise. If an advisory committee reports to more than one agency, only one agency at a time shall be responsible for support services. In the case of Presidential advisory committees, support services may be provided by the General Services Administration.
+
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4203.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10115 U.S.C. App. (FACA § 12)Pub. L. 92–463, § 12, Oct. 6, 1972, 86 Stat. 775.</akn:p></akn:content><akn:subsection eId="subsec_1011_a"><akn:num>(a)</akn:num><akn:heading>Records.—</akn:heading><akn:content><akn:p>(a) Each agency shall keep records that fully disclose the disposition of any funds which may be at the disposal of its advisory committees and the nature and extent of their activities. The General Services Administration, or such other agency as the President may designate, shall maintain financial records with respect to Presidential advisory committees. The Comptroller General of the United States, or any authorized representative of the Comptroller General, shall have access to the records for the purpose of audit and examination.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1011_b"><akn:num>(b)</akn:num><akn:heading>Support Services.—</akn:heading><akn:content><akn:p>(b) Each agency shall be responsible for providing support services for each advisory committee established by or reporting to it unless the establishing authority provides otherwise. If an advisory committee reports to more than one agency, only one agency at a time shall be responsible for support services. In the case of Presidential advisory committees, support services may be provided by the General Services Administration.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

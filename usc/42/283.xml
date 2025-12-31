@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/283" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/283/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/283/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_283"><akn:num>283</akn:num><akn:heading>Triennial reports of Director of NIH</akn:heading><akn:content><akn:p>§ 283. Triennial reports of Director of NIH(a) In generalThe Director of NIH shall submit to the Congress on a triennial basis a report in accordance with this section. The first report shall be submitted not later than 1 year after January 15, 2007. Each such report shall include the following information:(1) An assessment of the state of biomedical and behavioral research.
+
+(2) A description of the activities conducted or supported by the agencies of the National Institutes of Health and policies respecting the programs of such agencies.
+
+(3) A description of intra-National Institutes of Health activities, including—(A) identification of the percentage of funds made available by each national research institute and national center with respect to each applicable fiscal year for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers; and
+
+(B) recommendations for promoting coordination of information among the centers of excellence.
+
+
+(4) A catalog of all the research activities of the agencies, prepared in accordance with the following:(A) The catalog shall, for each such activity—(i) identify the agency or agencies involved;
+
+(ii) state whether the activity was carried out directly by the agencies or was supported by the agencies and describe to what extent the agency was involved; and
+
+(iii) identify whether the activity was carried out through a center of excellence.
+
+
+(B) In the case of clinical research, the catalog shall, as appropriate, identify study populations by demographic variables, including biological and social variables and relevant age categories (such as pediatric subgroups), and determinants of health, that contribute to research on minority health and health disparities.
+
+(C) Research activities listed in the catalog shall include, where applicable, the following:(i) Epidemiological studies and longitudinal studies.
+
+(ii) Disease registri</akn:p></akn:content><akn:subsection eId="subsec_283_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Director of NIH shall submit to the Congress on a triennial basis a report in accordance with this section. The first report shall be submitted not later than 1 year after January 15, 2007. Each such report shall include the following information:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_283_b"><akn:num>(b)</akn:num><akn:heading>Requirement regarding disease-specific research activities</akn:heading><akn:content><akn:p>(b) Requirement regarding disease-specific research activities In a report under subsection (a), the Director of NIH, when reporting on research activities relating to a specific disease, disorder, or other adverse health condition, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_283_c"><akn:num>(c)</akn:num><akn:heading>Additional reports</akn:heading><akn:content><akn:p>(c) Additional reports In addition to reports required by subsections (a) and (b), the Director of NIH or the head of a national research institute or national center may submit to the Congress such additional reports as the Director or the head of such institute or center determines to be appropriate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

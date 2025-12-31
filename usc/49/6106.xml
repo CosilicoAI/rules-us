@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/6106" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/6106/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/6106/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6106"><akn:num>6106</akn:num><akn:heading>Grants to States</akn:heading><akn:content><akn:p>§ 6106. Grants to States(a) In General.—The Secretary may make a grant of financial assistance to a State that qualifies under section 6104(b) to assist in improving—(1) the overall quality and effectiveness of one-call notification systems in the State;
+
+(2) communications systems linking one-call notification systems;
+
+(3) location capabilities, including training personnel and developing and using location technology;
+
+(4) record retention and recording capabilities for one-call notification systems;
+
+(5) public information and education;
+
+(6) participation in one-call notification systems; or
+
+(7) compliance and enforcement under the State one-call notification program.
+
+
+(b) State Action Taken Into Account.—In making grants under this section, the Secretary shall take into consideration the commitment of each State to improving its State one-call notification program, including legislative and regulatory actions taken by the State after the date of enactment of this chapter.
+
+(c) Funding for One-Call Notification Systems.—A State may provide funds received under this section directly to any one-call notification system in such State that substantially adopts the best practices identified under section 6105.
+
+(Added Pub. L. 105–178, title VII, § 7302(a), June 9, 1998, 112 Stat. 482.)
+
+Editorial Notes
+
+References in TextThe date of enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.</akn:p></akn:content><akn:subsection eId="subsec_6106_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary may make a grant of financial assistance to a State that qualifies under section 6104(b) to assist in improving—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6106_b"><akn:num>(b)</akn:num><akn:heading>State Action Taken Into Account.—</akn:heading><akn:content><akn:p>(b) In making grants under this section, the Secretary shall take into consideration the commitment of each State to improving its State one-call notification program, including legislative and regulatory actions taken by the State after the date of enactment of this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6106_c"><akn:num>(c)</akn:num><akn:heading>Funding for One-Call Notification Systems.—</akn:heading><akn:content><akn:p>(c) A State may provide funds received under this section directly to any one-call notification system in such State that substantially adopts the best practices identified under section 6105.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

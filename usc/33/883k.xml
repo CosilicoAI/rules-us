@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/883k" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/883k/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/883k/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_883k"><akn:num>883k</akn:num><akn:heading>Acquisition of land for facilities</akn:heading><akn:content><akn:p>§ 883k. Acquisition of land for facilities
+For fiscal year 1990 and hereafter funds appropriated under this heading shall be available for acquisition of land for facilities.
+(Pub. L. 101–162, title I, Nov. 21, 1989, 103 Stat. 992.)
+
+Editorial Notes
+
+References in TextFunds appropriated under this heading, referred to in text, refers to funds appropriated under the headings “National Oceanic and Atmospheric Administration” and “operations, research, and facilities” of title I, “Department of Commerce”, of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1990, Pub. L. 101–162.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

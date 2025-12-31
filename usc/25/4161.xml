@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/4161" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/4161/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/4161/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4161"><akn:num>4161</akn:num><akn:heading>Remedies for noncompliance</akn:heading><akn:content><akn:p>§ 4161. Remedies for noncompliance(a) Actions by Secretary affecting grant amounts(1) In generalExcept as provided in subsection (b), if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—(A) terminate payments under this chapter to the recipient;
+
+(B) reduce payments under this chapter to the recipient by an amount equal to the amount of such payments that were not expended in accordance with this chapter;
+
+(C) limit the availability of payments under this chapter to programs, projects, or activities not affected by such failure to comply; or
+
+(D) in the case of noncompliance described in section 4162(b) of this title, provide a replacement tribally designated housing entity for the recipient, under section 4162 of this title.
+
+
+(2) Substantial noncomplianceThe failure of a recipient to comply with the requirements of section 4152(b)(1) of this title regarding the reporting of low-income dwelling units shall not, in itself, be considered to be substantial noncompliance for purposes of this subchapter.
+
+
+(3) Continuance of actionsIf the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), the Secretary shall continue such action until the Secretary determines that the failure to comply has ceased.
+
+
+(4) Exception for certain actions(A) In generalNotwithstanding any other provision of this subsection, if the Secretary makes a determination that the failure of a recipient of assistance under this chapter to comply substantially with any material provision (as that term is defined by the Secretary) of this chapter is resulting, and would continue to result, in a continuing expenditure of Federal funds in a manner that is not authorized by law, the Secretary may take an action described in paragraph (1)(C) before conducting a hearing.
+
+
+(B) Procedural requirementIf the Secretary takes</akn:p></akn:content><akn:subsection eId="subsec_4161_a"><akn:num>(a)</akn:num><akn:heading>Actions by Secretary affecting grant amounts</akn:heading><akn:content><akn:p>(a) Actions by Secretary affecting grant amounts</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4161_b"><akn:num>(b)</akn:num><akn:heading>Noncompliance because of technical incapacity</akn:heading><akn:content><akn:p>(b) Noncompliance because of technical incapacity</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4161_c"><akn:num>(c)</akn:num><akn:heading>Referral for civil action</akn:heading><akn:content><akn:p>(c) Referral for civil action</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4161_d"><akn:num>(d)</akn:num><akn:heading>Review</akn:heading><akn:content><akn:p>(d) Review</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

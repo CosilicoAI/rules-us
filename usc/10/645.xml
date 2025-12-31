@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/645" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/645/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/645/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_645"><akn:num>645</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 645. Definitions
+In this chapter:(1) The term “promotion zone” means a promotion eligibility category consisting of the officers on an active-duty list in the same grade and competitive category—(A) who—(i) in the case of officers in grades below colonel, for officers of the Army, Air Force, Marine Corps, and Space Force, or captain, for officers of the Navy, have neither (I) failed of selection for promotion to the next higher grade, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); or
+
+(ii) in the case of officers in the grade of colonel or brigadier general, for officers of the Army, Air Force, Marine Corps, and Space Force, or captain or rear admiral (lower half), for officers of the Navy, have neither (I) not been recommended for promotion to the next higher grade when considered in the promotion zone, nor (II) been removed from a list of officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
+
+
+(B) are senior to the officer designated by the Secretary of the military department concerned to be the junior officer in the promotion zone eligible for consideration for promotion to the next higher grade.
+
+
+(2) The term “officers above the promotion zone” means a group of officers on an active-duty list in the same grade and competitive category who—(A) are eligible for consideration for promotion to the next higher grade;
+
+(B) are in the same grade as those officers in the promotion zone for that competitive category; and
+
+(C) are senior to the senior officer in the promotion zone for that competitive category.
+
+
+(3) The term “officers below the promotion zone” means a group of officers on the active-duty list in the same grade and competitive category who—(A) are eligible for consideration for promotion to the next higher grade;
+
+(B)</akn:p></akn:content><akn:subsection eId="subsec_645_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “promotion zone” means a promotion eligibility category consisting of the officers on an active-duty list in the same grade and competitive category—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_645_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “officers above the promotion zone” means a group of officers on an active-duty list in the same grade and competitive category who—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_645_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “officers below the promotion zone” means a group of officers on the active-duty list in the same grade and competitive category who—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

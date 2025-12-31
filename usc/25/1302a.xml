@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/1302a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/1302a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/1302a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1302a"><akn:num>1302a</akn:num><akn:heading>Bureau of Prisons tribal prisoner program</akn:heading><akn:content><akn:p>§ 1302a. Bureau of Prisons tribal prisoner program(1) In generalNot later than 120 days after March 15, 2022, the Director of the Bureau of Prisons shall establish a program under which the Bureau of Prisons shall accept offenders convicted in tribal court pursuant to section 1302 of this title (as amended by this section), subject to the conditions described in paragraph (2).
+
+
+(2) Conditions(A) In generalAs a condition of participation in the program described in paragraph (1), the tribal court shall submit to the Attorney General a request for confinement of the offender, for approval by the Attorney General (or a designee) by not later than 30 days after the date of submission.
+
+
+(B) LimitationsRequests for confinement shall be limited to offenders convicted of a violent crime (comparable to the violent crimes described in section 1153(a) of title 18) for which the sentence includes a term of imprisonment of 1 or more years.
+
+
+(C) Custody conditionsThe imprisonment by the Bureau of Prisons shall be subject to the conditions described in section 5003 of title 18, regarding the custody of State offenders, except that the offender shall be placed in the nearest available and appropriate Federal facility, and imprisoned at the expense of the United States.
+
+
+(D) CapThe Bureau of Prisons shall confine not more than 100 tribal offenders at any time.
+
+
+
+(3) Rescinding requests(A) In generalThe applicable tribal government shall retain the authority to rescind the request for confinement of a tribal offender by the Bureau of Prisons under this paragraph at any time during the sentence of the offender.
+
+
+(B) Return to tribal custodyOn rescission of a request under subparagraph (A), a tribal offender shall be returned to tribal custody.
+
+
+
+(4) ReassessmentIf tribal court demand for participation in this program exceeds 100 tribal offenders, a representative of the Bureau of Prisons shall notify Congress.
+
+
+(Pub. L. 111–211, title II, § 234(c), July 29, 2010, 124 Stat. 228</akn:p></akn:content><akn:subsection eId="subsec_1302a_1"><akn:num>(1)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(1) In general Not later than 120 days after March 15, 2022, the Director of the Bureau of Prisons shall establish a program under which the Bureau of Prisons shall accept offenders convicted in tribal court pursuant to section 1302 of this title (as amended by this section), subject to the conditions described in paragraph (2).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1302a_2"><akn:num>(2)</akn:num><akn:heading>Conditions</akn:heading><akn:content><akn:p>(2) Conditions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1302a_3"><akn:num>(3)</akn:num><akn:heading>Rescinding requests</akn:heading><akn:content><akn:p>(3) Rescinding requests</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1302a_4"><akn:num>(4)</akn:num><akn:heading>Reassessment</akn:heading><akn:content><akn:p>(4) Reassessment If tribal court demand for participation in this program exceeds 100 tribal offenders, a representative of the Bureau of Prisons shall notify Congress.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

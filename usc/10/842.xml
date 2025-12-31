@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/842" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/842/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/842/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_842"><akn:num>842</akn:num><akn:heading>Art. 42. Oaths</akn:heading><akn:content><akn:p>§ 842. Art. 42. Oaths(a) Before performing their respective duties, military judges, members of general and special courts-martial, trial counsel, assistant trial counsel, defense counsel, assistant or associate defense counsel, reporters, and interpreters shall take an oath to perform their duties faithfully. The form of the oath, the time and place of the taking thereof, the manner of recording the same, and whether the oath shall be taken for all cases in which these duties are to be performed or for a particular case, shall be as prescribed in regulations of the Secretary concerned. These regulations may provide that an oath to perform faithfully duties as a military judge, trial counsel, assistant trial counsel, defense counsel, or assistant or associate defense counsel may be taken at any time by any judge advocate or other person certified to be qualified or competent for the duty, and if such an oath is taken it need not again be taken at the time the judge advocate or other person is detailed to that duty.
+
+(b) Each witness before a court-martial shall be examined on oath.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(18), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 98–209, §§ 2(e), 3(f), Dec. 6, 1983, 97 Stat. 1393, 1395.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+842(a)842(b)50:617(a).50:617(b).May 5, 1950, ch. 169, § 1 (Art. 42), 64 Stat. 121.
+
+
+In subsection (a), the word “all” and the word “the” before the words “members”, “trial”, “defense”, and “reporter” are omitted as surplusage.
+In subsections (a) and (b), the words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of Title 1.
+In subsection (b), the words “Each witness” are substituted for the words “All witnesses”.
+
+Editorial Notes
+Amendments1983—Subsec. (a). Pub. L. 98–209 struck out “, law specialist,” after “judge advocate” in two places, substituted “assistant or associate defense c</akn:p></akn:content><akn:subsection eId="subsec_842_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Before performing their respective duties, military judges, members of general and special courts-martial, trial counsel, assistant trial counsel, defense counsel, assistant or associate defense counsel, reporters, and interpreters shall take an oath to perform their duties faithfully. The form of the oath, the time and place of the taking thereof, the manner of recording the same, and whether the oath shall be taken for all cases in which these duties are to be performed or for a particular case, shall be as prescribed in regulations of the Secretary concerned. These regulations may provide that an oath to perform faithfully duties as a military judge, trial counsel, assistant trial counsel, defense counsel, or assistant or associate defense counsel may be taken at any time by any judge advocate or other person certified to be qualified or competent for the duty, and if such an oath is taken it need not again be taken at the time the judge advocate or other person is detailed to t</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_842_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Each witness before a court-martial shall be examined on oath.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

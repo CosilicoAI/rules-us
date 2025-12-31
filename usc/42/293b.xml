@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/293b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/293b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/293b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_293b"><akn:num>293b</akn:num><akn:heading>Loan repayments and fellowships regarding faculty positions</akn:heading><akn:content><akn:p>§ 293b. Loan repayments and fellowships regarding faculty positions(a) Loan repayments(1) Establishment of programThe Secretary shall establish a program of entering into contracts with individuals described in paragraph (2) under which the individuals agree to serve as members of the faculties of schools described in paragraph (3) in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $30,000 of the principal and interest of the educational loans of such individuals.
+
+
+(2) Eligible individualsThe individuals referred to in paragraph (1) are individuals from disadvantaged backgrounds who—(A) have a degree in medicine, osteopathic medicine, dentistry, nursing, or another health profession;
+
+(B) are enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, nursing, or other health profession; or
+
+(C) are enrolled as full-time students—(i) in an accredited (as determined by the Secretary) school described in paragraph (3); and
+
+(ii) in the final year of a course of a study or program, offered by such institution and approved by the Secretary, leading to a degree from such a school.
+
+
+
+(3) Eligible health professions schoolsThe schools described in this paragraph are schools of medicine, nursing (as schools of nursing are defined in section 296 of this title), osteopathic medicine, dentistry, pharmacy, allied health, podiatric medicine, optometry, veterinary medicine, or public health, schools offering physician assistant education programs, or schools offering graduate programs in behavioral and mental health.
+
+
+(4) Requirements regarding faculty positionsThe Secretary may not enter into a contract under paragraph (1) unless—(A) the individual involved has entered into a contract with a school described in paragraph (3) to serve as a member of the faculty of the school for not less than 2 years; and
+
+(B) the contract referred to in subparagraph (A) provides that—(i) the school will,</akn:p></akn:content><akn:subsection eId="subsec_293b_a"><akn:num>(a)</akn:num><akn:heading>Loan repayments</akn:heading><akn:content><akn:p>(a) Loan repayments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_293b_b"><akn:num>(b)</akn:num><akn:heading>Fellowships</akn:heading><akn:content><akn:p>(b) Fellowships</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

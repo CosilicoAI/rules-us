@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/40704" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/40704/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/40704/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40704"><akn:num>40704</akn:num><akn:heading>Research program on perceived impact of sonic booms</akn:heading><akn:content><akn:p>§ 40704. Research program on perceived impact of sonic booms(a) Establishment.—The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonic booms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
+
+(b) Coordination.—The Administrator shall ensure that sonic boom research is coordinated as appropriate with the Administrator of the Federal Aviation Administration, and as appropriate make use of the expertise of the Partnership for Air Transportation Noise and Emissions Reduction Center of Excellence sponsored by the Administration and the Federal Aviation Administration.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3391.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+40704(a)42 U.S.C. 17723(b).Pub. L. 110–422, title III, § 304(b), (c), Oct. 15, 2008, 122 Stat. 4787.
+40704(b)42 U.S.C. 17723(c).
+
+
+
+Statutory Notes and Related Subsidiaries
+PurposePub. L. 110–422, title III, § 304(a), Oct. 15, 2008, 122 Stat. 4787, provided that: “The ability to fly commercial aircraft over land at supersonic speeds without adverse impacts on the environment or on local communities would open new markets and enable new transportation capabilities. In order to have the basis for establishing appropriate sonic boom standards for such flight operations, a research program is needed to assess the impact in a relevant environment of commercial supersonic flight operations.”</akn:p></akn:content><akn:subsection eId="subsec_40704_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonic booms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40704_b"><akn:num>(b)</akn:num><akn:heading>Coordination.—</akn:heading><akn:content><akn:p>(b) The Administrator shall ensure that sonic boom research is coordinated as appropriate with the Administrator of the Federal Aviation Administration, and as appropriate make use of the expertise of the Partnership for Air Transportation Noise and Emissions Reduction Center of Excellence sponsored by the Administration and the Federal Aviation Administration.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

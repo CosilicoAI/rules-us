@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/1304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/1304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/1304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1304"><akn:num>1304</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>§ 1304. Reports(a) Annual Report.—The Board shall annually transmit to the Congress a report on its activities, including each instance in which the Board has initiated an investigation on its own initiative under this chapter or subtitle IV.
+
+(b) Rate Case Review Metrics.—(1) Quarterly reports.—The Board shall post a quarterly report of rail rate review cases pending or completed by the Board during the previous quarter that includes—(A) summary information of the case, including the docket number, case name, commodity or commodities involved, and rate review guideline or guidelines used;
+
+(B) the date on which the rate review proceeding began;
+
+(C) the date for the completion of discovery;
+
+(D) the date for the completion of the evidentiary record;
+
+(E) the date for the submission of closing briefs;
+
+(F) the date on which the Board issued the final decision; and
+
+(G) a brief summary of the final decision;
+
+
+(2) Website posting.—Each quarterly report shall be posted on the Board’s public website.
+
+
+(c) Complaints.—(1) In general.—The Board shall establish and maintain a database of complaints received by the Board.
+
+(2) Quarterly reports.—The Board shall post a quarterly report of formal and informal service complaints received by the Board during the previous quarter that includes—(A) the date on which the complaint was received by the Board;
+
+(B) a list of the type of each complaint;
+
+(C) the geographic region of each complaint; and
+
+(D) the resolution of each complaint, if appropriate.
+
+
+(3) Written consent.—The quarterly report may identify a complainant that submitted an informal complaint only upon the written consent of the complainant.
+
+(4) Website posting.—Each quarterly report shall be posted on the Board’s public website.
+
+
+(Added Pub. L. 104–88, title II, § 201(a), Dec. 29, 1995, 109 Stat. 934, § 704; renumbered § 1304 and amended Pub. L. 114–110, §§ 3(a)(3), 6, Dec. 18, 2015, 129 Stat. 2228, 2231.)
+
+Editorial Notes
+Amendments2015—Pub. L. 114–110, § 6, </akn:p></akn:content><akn:subsection eId="subsec_1304_a"><akn:num>(a)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(a) The Board shall annually transmit to the Congress a report on its activities, including each instance in which the Board has initiated an investigation on its own initiative under this chapter or subtitle IV.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1304_b"><akn:num>(b)</akn:num><akn:heading>Rate Case Review Metrics.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1304_c"><akn:num>(c)</akn:num><akn:heading>Complaints.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

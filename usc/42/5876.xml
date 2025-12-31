@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5876" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5876/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5876/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5876"><akn:num>5876</akn:num><akn:heading>Comptroller General audit</akn:heading><akn:content><akn:p>§ 5876. Comptroller General audit(a) Section 166 of the Atomic Energy Act of 1954, as amended [42 U.S.C. 2206], shall be deemed to be applicable, respectively, to the nuclear and nonnuclear activities under subchapter I and to the activities under subchapter II.
+
+(b) The Comptroller General of the United States shall audit, review, and evaluate the implementation of the provisions of subchapter II of this chapter by the Nuclear Safety and Licensing Commission not later than sixty months after the effective date of this chapter, the Comptroller General shall prepare and submit to the Congress a report on his audit, which shall contain, but not be limited to—(1) an evaluation of the effectiveness of the licensing and related regulatory activities of the Commission and the operations of the Office of Nuclear Safety Research and the Bureau of Nuclear Materials Security;
+
+(2) an evaluation of the effect of such Commission activities on the efficiency, effectiveness, and safety with which the activities licensed under the Atomic Energy Act of 1954, as amended [42 U.S.C. 2011 et seq.], are carried out;
+
+(3) recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of subchapter II.
+
+
+(Pub. L. 93–438, title III, § 306, Oct. 11, 1974, 88 Stat. 1251.)
+
+Editorial Notes
+
+References in TextThe effective date of this chapter, referred to in subsec. (b), is the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (b)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+Executive Documents
+
+Transfer of Funct</akn:p></akn:content><akn:subsection eId="subsec_5876_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Section 166 of the Atomic Energy Act of 1954, as amended [42 U.S.C. 2206], shall be deemed to be applicable, respectively, to the nuclear and nonnuclear activities under subchapter I and to the activities under subchapter II.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5876_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Comptroller General of the United States shall audit, review, and evaluate the implementation of the provisions of subchapter II of this chapter by the Nuclear Safety and Licensing Commission not later than sixty months after the effective date of this chapter, the Comptroller General shall prepare and submit to the Congress a report on his audit, which shall contain, but not be limited to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

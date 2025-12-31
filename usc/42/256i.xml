@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/256i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/256i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/256i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_256i"><akn:num>256i</akn:num><akn:heading>Community-based collaborative care network program</akn:heading><akn:content><akn:p>§ 256i. Community-based collaborative care network program(a) In generalThe Secretary may award grants to eligible entities to support community-based collaborative care networks that meet the requirements of subsection (b).
+
+
+(b) Community-based collaborative care networks(1) DescriptionA community-based collaborative care network (referred to in this section as a “network”) shall be a consortium of health care providers with a joint governance structure (including providers within a single entity) that provides comprehensive coordinated and integrated health care services (as defined by the Secretary) for low-income populations.
+
+
+(2) Required inclusionA network shall include the following providers (unless such provider does not exist within the community, declines or refuses to participate, or places unreasonable conditions on their participation):(A) A hospital that meets the criteria in section 1396r–4(b)(1) of this title; and
+
+(B) All Federally qualified health centers (as defined in section 1395x(aa) of this title 11 So in original. A closing parenthesis probably should appear. located in the community.
+
+
+(3) PriorityIn awarding grants, the Secretary shall give priority to networks that include—(A) the capability to provide the broadest range of services to low-income individuals;
+
+(B) the broadest range of providers that currently serve a high volume of low-income individuals; and
+
+(C) a county or municipal department of health.
+
+
+
+(c) Application(1) ApplicationA network described in subsection (b) shall submit an application to the Secretary.
+
+
+(2) RenewalIn subsequent years, based on the performance of grantees, the Secretary may provide renewal grants to prior year grant recipients.
+
+
+
+(d) Use of funds(1) Use by granteesGrant funds may be used for the following activities:(A) Assist low-income individuals to—(i) access and appropriately use health services;
+
+(ii) enroll in health coverage programs; and
+
+(iii) obtain a regular primary care provider or a m</akn:p></akn:content><akn:subsection eId="subsec_256i_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may award grants to eligible entities to support community-based collaborative care networks that meet the requirements of subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_256i_b"><akn:num>(b)</akn:num><akn:heading>Community-based collaborative care networks</akn:heading><akn:content><akn:p>(b) Community-based collaborative care networks</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_256i_c"><akn:num>(c)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(c) Application</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_256i_d"><akn:num>(d)</akn:num><akn:heading>Use of funds</akn:heading><akn:content><akn:p>(d) Use of funds</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_256i_e"><akn:num>(e)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(e) Authorization of appropriations There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2011 through 2015.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

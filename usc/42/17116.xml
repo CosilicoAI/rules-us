@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17116" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17116/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17116/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17116"><akn:num>17116</akn:num><akn:heading>Industrial research and assessment centers</akn:heading><akn:content><akn:p>§ 17116. Industrial research and assessment centers(a) DefinitionsIn this section:(1) Covered projectThe term “covered project” means a project—(A) that has been recommended in an energy assessment described in paragraph (2)(A) conducted for an eligible entity; and
+
+(B) with respect to which the plant site of that eligible entity—(i) improves—(I) energy efficiency;
+
+(II) material efficiency;
+
+(III) cybersecurity; or
+
+(IV) productivity; or
+
+
+(ii) reduces—(I) waste production;
+
+(II) greenhouse gas emissions; or
+
+(III) nongreenhouse gas pollution.
+
+
+
+
+(2) Eligible entityThe term “eligible entity” means a small- or medium-sized manufacturer that has had an energy assessment completed by—(A) an industrial research and assessment center;
+
+(B) a Department of Energy Combined Heat and Power Technical Assistance Partnership jointly with an industrial research and assessment center; or
+
+(C) a third-party assessor that provides an assessment equivalent to an assessment described in subparagraph (A) or (B), as determined by the Secretary.
+
+
+(3) Energy service providerThe term “energy service provider” means—(A) any business providing technology or services to improve the energy efficiency, water efficiency, power factor, or load management of a manufacturing site or other industrial process in an energy-intensive industry (as defined in section 17111(a) of this title); and
+
+(B) any utility operating under a utility energy service project.
+
+
+(4) Industrial research and assessment centerThe term “industrial research and assessment center” means—(A) an institution of higher education-based industrial research and assessment center that is funded by the Secretary under subsection (b); and
+
+(B) an industrial research and assessment center at a trade school, community college, or union training program that is funded by the Secretary under subsection (f).
+
+
+(5) ProgramThe term “Program” means the program for implementation grants established under subsection (i)(1).
+
+
+(6) Small- or m</akn:p></akn:content><akn:subsection eId="subsec_17116_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_b"><akn:num>(b)</akn:num><akn:heading>Institution of higher education-based industrial research and assessment centers</akn:heading><akn:content><akn:p>(b) Institution of higher education-based industrial research and assessment centers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_c"><akn:num>(c)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(c) Coordination To increase the value and capabilities of the industrial research and assessment centers, the centers shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_d"><akn:num>(d)</akn:num><akn:heading>Outreach</akn:heading><akn:content><akn:p>(d) Outreach The Secretary shall provide funding for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_e"><akn:num>(e)</akn:num><akn:heading>Centers of Excellence</akn:heading><akn:content><akn:p>(e) Centers of Excellence</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_f"><akn:num>(f)</akn:num><akn:heading>Expansion of industrial research and assessment centers</akn:heading><akn:content><akn:p>(f) Expansion of industrial research and assessment centers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_g"><akn:num>(g)</akn:num><akn:heading>Workforce training</akn:heading><akn:content><akn:p>(g) Workforce training</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_h"><akn:num>(h)</akn:num><akn:heading>Small business loans</akn:heading><akn:content><akn:p>(h) Small business loans The Administrator of the Small Business Administration shall, to the maximum extent practicable, expedite consideration of applications from eligible small business concerns for loans under the Small Business Act (15 U.S.C. 631 et seq.) to implement recommendations developed by the industrial research and assessment centers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_i"><akn:num>(i)</akn:num><akn:heading>Implementation grants</akn:heading><akn:content><akn:p>(i) Implementation grants</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17116_j"><akn:num>(j)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(j) Authorization of appropriations There are authorized to be appropriated to the Secretary for the period of fiscal years 2022 through 2026—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

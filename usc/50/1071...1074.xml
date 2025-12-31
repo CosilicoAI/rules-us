@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/1071...1074" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/1071...1074/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/1071...1074/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1071___1074"><akn:num>1071...1074</akn:num><akn:heading>Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641</akn:heading><akn:content><akn:p>§§ 1071 to 1074. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
+
+Section 1071, act July 9, 1952, ch. 608, pt. V, § 501, 66 Stat. 500, prescribed composition of Naval Militia. See section 7851 of Title 10, Armed Forces.
+
+
+Section 1072, act July 9, 1952, ch. 608, pt. V, § 502, 66 Stat. 500, provided for appointment and enlistment of militia members in Naval Reserve or Marine Corps Reserve. See section 7852 of Title 10.
+
+
+Section 1073, act July 9, 1952, ch. 608, pt. V, § 503, 66 Stat. 500, provided for release from militia duty upon order to active duty in service of United States. See section 7853 of Title 10.
+
+
+Section 1074, act July 9, 1952, ch. 608, pt. V, § 504, 66 Stat. 500, related to availability of supplies and equipment. See section 7854 of Title 10.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

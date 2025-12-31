@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/41101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/41101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/41101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_41101"><akn:num>41101</akn:num><akn:heading>Joint ventures and consortiums</akn:heading><akn:content><akn:p>§ 41101. Joint ventures and consortiums
+In this chapter, a joint venture or consortium of two or more common carriers operating as a single entity is deemed to be a single common carrier.
+(Pub. L. 109–304, § 7, Oct. 6, 2006, 120 Stat. 1540.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+4110146 App.:1709(e).Pub. L. 98–237, § 10(e), Mar. 20, 1984, 98 Stat. 80.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

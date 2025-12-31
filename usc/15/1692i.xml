@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/1692i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/1692i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/1692i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1692i"><akn:num>1692i</akn:num><akn:heading>Legal actions by debt collectors</akn:heading><akn:content><akn:p>§ 1692i. Legal actions by debt collectors(a) VenueAny debt collector who brings any legal action on a debt against any consumer shall—(1) in the case of an action to enforce an interest in real property securing the consumer’s obligation, bring such action only in a judicial district or similar legal entity in which such real property is located; or
+
+(2) in the case of an action not described in paragraph (1), bring such action only in the judicial district or similar legal entity—(A) in which such consumer signed the contract sued upon; or
+
+(B) in which such consumer resides at the commencement of the action.
+
+
+
+(b) Authorization of actionsNothing in this subchapter shall be construed to authorize the bringing of legal actions by debt collectors.
+
+
+(Pub. L. 90–321, title VIII, § 811, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 880.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1692i_a"><akn:num>(a)</akn:num><akn:heading>Venue</akn:heading><akn:content><akn:p>(a) Venue Any debt collector who brings any legal action on a debt against any consumer shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1692i_b"><akn:num>(b)</akn:num><akn:heading>Authorization of actions</akn:heading><akn:content><akn:p>(b) Authorization of actions Nothing in this subchapter shall be construed to authorize the bringing of legal actions by debt collectors.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

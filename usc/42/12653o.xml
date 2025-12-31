@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/12653o" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/12653o/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/12653o/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12653o"><akn:num>12653o</akn:num><akn:heading>National service programs clearinghouses</akn:heading><akn:content><akn:p>§ 12653o. National service programs clearinghouses(a) In generalThe Corporation shall provide assistance, by grant, contract, or cooperative agreement, to entities with expertise in the dissemination of information through clearinghouses to establish 1 or more clearinghouses for information regarding the national service laws, which shall include information on service-learning and on service through other programs receiving assistance under the national service laws.
+
+
+(b) Function of clearinghouseSuch a clearinghouse may—(1) assist entities carrying out State or local service-learning and national service programs with needs assessments and planning;
+
+(2) conduct research and evaluations concerning service-learning or programs receiving assistance under the national service laws, except that such clearinghouse may not conduct such research and evaluations if the recipient of the grant, contract, or cooperative agreement establishing the clearinghouse under this section is receiving funds for such purpose under part III of division B or under this division (not including this section);
+
+(3)(A) provide leadership development and training to State and local service-learning program administrators, supervisors, service sponsors, and participants; and
+
+(B) provide training to persons who can provide the leadership development and training described in subparagraph (A);
+
+
+(4) facilitate communication among—(A) entities carrying out service-learning programs and programs offered under the national service laws; and
+
+(B) participants in such programs;
+
+
+(5) provide and disseminate information and curriculum materials relating to planning and operating service-learning programs and programs offered under the national service laws, to States, territories, Indian tribes, and local entities eligible to receive financial assistance under the national service laws;
+
+(6) provide and disseminate information regarding methods to make service-learning programs and programs offered </akn:p></akn:content><akn:subsection eId="subsec_12653o_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Corporation shall provide assistance, by grant, contract, or cooperative agreement, to entities with expertise in the dissemination of information through clearinghouses to establish 1 or more clearinghouses for information regarding the national service laws, which shall include information on service-learning and on service through other programs receiving assistance under the national service laws.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12653o_b"><akn:num>(b)</akn:num><akn:heading>Function of clearinghouse</akn:heading><akn:content><akn:p>(b) Function of clearinghouse Such a clearinghouse may—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

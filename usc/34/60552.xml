@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/60552" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/60552/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/60552/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60552"><akn:num>60552</akn:num><akn:heading>Grants to study parole or post-incarceration supervision violations and revocations</akn:heading><akn:content><akn:p>§ 60552. Grants to study parole or post-incarceration supervision violations and revocations(a) Grants authorizedFrom amounts made available to carry out this section, the Attorney General may make grants to States to study and to improve the collection of data with respect to individuals whose parole or post-incarceration supervision is revoked, and which such individuals represent the greatest risk to victims and community safety.
+
+
+(b) ApplicationAs a condition of receiving a grant under this section, a State shall—(1) certify that the State has, or intends to establish, a program that collects comprehensive and reliable data with respect to individuals described in subsection (a), including data on—(A) the number and type of parole or post-incarceration supervision violations that occur with the State;
+
+(B) the reasons for parole or post-incarceration supervision revocation;
+
+(C) the underlying behavior that led to the revocation; and
+
+(D) the term of imprisonment or other penalty that is imposed for the violation; and
+
+
+(2) provide the data described in paragraph (1) to the Bureau of Justice Statistics, in a form prescribed by the Bureau.
+
+
+(c) AnalysisAny statistical analysis of population data under this section shall be conducted in accordance with the Federal Register Notice dated October 30, 1997, relating to classification standards.
+
+
+(Pub. L. 110–199, title II, § 242, Apr. 9, 2008, 122 Stat. 690.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 17552 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.</akn:p></akn:content><akn:subsection eId="subsec_60552_a"><akn:num>(a)</akn:num><akn:heading>Grants authorized</akn:heading><akn:content><akn:p>(a) Grants authorized From amounts made available to carry out this section, the Attorney General may make grants to States to study and to improve the collection of data with respect to individuals whose parole or post-incarceration supervision is revoked, and which such individuals represent the greatest risk to victims and community safety.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60552_b"><akn:num>(b)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(b) Application As a condition of receiving a grant under this section, a State shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60552_c"><akn:num>(c)</akn:num><akn:heading>Analysis</akn:heading><akn:content><akn:p>(c) Analysis Any statistical analysis of population data under this section shall be conducted in accordance with the Federal Register Notice dated October 30, 1997, relating to classification standards.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

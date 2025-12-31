@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/2601" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/2601/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/2601/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2601"><akn:num>2601</akn:num><akn:heading>Findings, policy, and intent</akn:heading><akn:content><akn:p>§ 2601. Findings, policy, and intent(a) FindingsThe Congress finds that—(1) human beings and the environment are being exposed each year to a large number of chemical substances and mixtures;
+
+(2) among the many chemical substances and mixtures which are constantly being developed and produced, there are some whose manufacture, processing, distribution in commerce, use, or disposal may present an unreasonable risk of injury to health or the environment; and
+
+(3) the effective regulation of interstate commerce in such chemical substances and mixtures also necessitates the regulation of intrastate commerce in such chemical substances and mixtures.
+
+
+(b) PolicyIt is the policy of the United States that—(1) adequate information should be developed with respect to the effect of chemical substances and mixtures on health and the environment and that the development of such information should be the responsibility of those who manufacture and those who process such chemical substances and mixtures;
+
+(2) adequate authority should exist to regulate chemical substances and mixtures which present an unreasonable risk of injury to health or the environment, and to take action with respect to chemical substances and mixtures which are imminent hazards; and
+
+(3) authority over chemical substances and mixtures should be exercised in such a manner as not to impede unduly or create unnecessary economic barriers to technological innovation while fulfilling the primary purpose of this chapter to assure that such innovation and commerce in such chemical substances and mixtures do not present an unreasonable risk of injury to health or the environment.
+
+
+(c) Intent of CongressIt is the intent of Congress that the Administrator shall carry out this chapter in a reasonable and prudent manner, and that the Administrator shall consider the environmental, economic, and social impact of any action the Administrator takes or proposes as provided under this chapter.
+
+
+(Pub. L. 94–469, title I, </akn:p></akn:content><akn:subsection eId="subsec_2601_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2601_b"><akn:num>(b)</akn:num><akn:heading>Policy</akn:heading><akn:content><akn:p>(b) Policy It is the policy of the United States that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2601_c"><akn:num>(c)</akn:num><akn:heading>Intent of Congress</akn:heading><akn:content><akn:p>(c) Intent of Congress It is the intent of Congress that the Administrator shall carry out this chapter in a reasonable and prudent manner, and that the Administrator shall consider the environmental, economic, and social impact of any action the Administrator takes or proposes as provided under this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

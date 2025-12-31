@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/316" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/316/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/316/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_316"><akn:num>316</akn:num><akn:heading>Treasury Attaché Program</akn:heading><akn:content><akn:p>§ 316. Treasury Attaché Program(a) In General.—There is established the Treasury Financial Attaché Program, under which the Secretary of the Treasury shall appoint employees of the Department of the Treasury as a Treasury Financial Attaché, who shall—(1) further the work of the Department of the Treasury in developing and executing the financial and economic policy of the United States Government and the international fight against terrorism, money laundering, and other illicit finance;
+
+(2) be co-located in a United States Embassy, a similar United States Government facility, or a foreign government facility, as the Secretary determines is appropriate;
+
+(3) establish and maintain relationships with foreign counterparts, including employees of ministries of finance, central banks, international financial institutions, and other relevant official entities;
+
+(4) conduct outreach to local and foreign financial institutions and other commercial actors;
+
+(5) coordinate with representatives of the Department of Justice at United States Embassies who perform similar functions on behalf of the United States Government; and
+
+(6) perform such other actions as the Secretary determines are appropriate.
+
+
+(b) Number of Attachés.—(1) In general.—The number of Treasury Financial Attachés appointed under this section at any one time shall be not fewer than 6 more employees than the number of employees of the Department of the Treasury serving as Treasury attachés on the date of enactment of this section.
+
+(2) Additional posts.—The Secretary of the Treasury may establish additional posts subject to the availability of appropriations.
+
+
+(c) Compensation.—(1) In general.—Each Treasury Financial Attaché appointed under this section and located at a United States Embassy shall receive compensation, including allowances, at the higher of—(A) the rate of compensation, including allowances, provided to a Foreign Service officer serving at the same embassy; and
+
+(B) the rate of compe</akn:p></akn:content><akn:subsection eId="subsec_316_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) There is established the Treasury Financial Attaché Program, under which the Secretary of the Treasury shall appoint employees of the Department of the Treasury as a Treasury Financial Attaché, who shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_316_b"><akn:num>(b)</akn:num><akn:heading>Number of Attachés.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_316_c"><akn:num>(c)</akn:num><akn:heading>Compensation.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/7914" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/7914/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/7914/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7914"><akn:num>7914</akn:num><akn:heading>Shooting ranges</akn:heading><akn:content><akn:p>§ 7914. Shooting ranges(a) In generalExcept as provided in subsection (b), the Secretary concerned may, in accordance with this section and other applicable law, lease or permit the use of Federal land for a shooting range.
+
+
+(b) ExceptionThe Secretary concerned shall not lease or permit the use of Federal land for a shooting range within—(1) a component of the National Landscape Conservation System;
+
+(2) a component of the National Wilderness Preservation System;
+
+(3) any area that is—(A) designated as a wilderness study area;
+
+(B) administratively classified as—(i) wilderness-eligible; or
+
+(ii) wilderness-suitable; or
+
+
+(C) a primitive or semiprimitive area;
+
+
+(4) a national monument, national volcanic monument, or national scenic area; or
+
+(5) a component of the National Wild and Scenic Rivers System (including areas designated for study for potential addition to the National Wild and Scenic Rivers System).
+
+
+(Pub. L. 116–9, title IV, § 4104, Mar. 12, 2019, 133 Stat. 759.)</akn:p></akn:content><akn:subsection eId="subsec_7914_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Except as provided in subsection (b), the Secretary concerned may, in accordance with this section and other applicable law, lease or permit the use of Federal land for a shooting range.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7914_b"><akn:num>(b)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(b) Exception The Secretary concerned shall not lease or permit the use of Federal land for a shooting range within—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

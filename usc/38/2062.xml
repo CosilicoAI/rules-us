@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/2062" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/2062/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/2062/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2062"><akn:num>2062</akn:num><akn:heading>Dental care</akn:heading><akn:content><akn:p>§ 2062. Dental care(a) In General.—For purposes of section 1712(a)(1)(H) of this title, outpatient dental services and treatment of a dental condition or disability of a veteran described in subsection (b) shall be considered to be medically necessary, subject to subsection (c), if—(1) the dental services and treatment are necessary for the veteran to successfully gain or regain employment;
+
+(2) the dental services and treatment are necessary to alleviate pain; or
+
+(3) the dental services and treatment are necessary for treatment of moderate, severe, or severe and complicated gingival and periodontal pathology.
+
+
+(b) Eligible Veterans.—Subsection (a) applies to a veteran—(1) who is enrolled for care under section 1705(a) of this title; and
+
+(2) who, for a period of 60 consecutive days, is receiving care (directly or by contract) in any of the following settings:(A) A domiciliary under section 1710 of this title.
+
+(B) A therapeutic residence under section 2032 of this title.
+
+(C) Community residential care coordinated by the Secretary under section 1730 of this title.
+
+(D) A setting for which the Secretary provides funds for a grant and per diem provider.
+
+
+(3) For purposes of paragraph (2), in determining whether a veteran has received treatment for a period of 60 consecutive days, the Secretary may disregard breaks in the continuity of treatment for which the veteran is not responsible.
+
+
+(c) Limitation.—Dental benefits provided by reason of this section shall be a one-time course of dental care provided in the same manner as the dental benefits provided to a newly discharged veteran.
+
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913.)</akn:p></akn:content><akn:subsection eId="subsec_2062_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) For purposes of section 1712(a)(1)(H) of this title, outpatient dental services and treatment of a dental condition or disability of a veteran described in subsection (b) shall be considered to be medically necessary, subject to subsection (c), if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2062_b"><akn:num>(b)</akn:num><akn:heading>Eligible Veterans.—</akn:heading><akn:content><akn:p>(b) Subsection (a) applies to a veteran—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2062_c"><akn:num>(c)</akn:num><akn:heading>Limitation.—</akn:heading><akn:content><akn:p>(c) Dental benefits provided by reason of this section shall be a one-time course of dental care provided in the same manner as the dental benefits provided to a newly discharged veteran.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

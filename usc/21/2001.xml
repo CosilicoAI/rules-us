@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/2001" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/2001/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/2001/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2001"><akn:num>2001</akn:num><akn:heading>Designation of United States Anti-Doping Agency</akn:heading><akn:content><akn:p>§ 2001. Designation of United States Anti-Doping Agency(a) DefinitionsIn this subchapter:(1) United States Olympic CommitteeThe term “United States Olympic Committee” means the organization established by the “Ted Stevens Olympic and Amateur Sports Act” (36 U.S.C. 220501 et seq.).
+
+
+(2) Amateur athletic competitionThe term “amateur athletic competition” means a contest, game, meet, match, tournament, regatta, or other event in which amateur athletes compete (36 U.S.C. 220501(b)(2)).
+
+
+(3) Amateur athleteThe term “amateur athlete” means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport in which the athlete competes (36 U.S.C. 22501(b)(1)).11 So in original. Probably should be “220501(b)(1)).”
+
+
+
+(b) In generalThe United States Anti-Doping Agency shall—(1)(A) serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic and Paralympic Committee;
+
+(B) be responsible for certifying in advance any testing conducted by international organizations under the World Anti-Doping Code for international amateur athletes and athletic competitions occurring within the jurisdiction of the United States; and
+
+(C) be recognized worldwide as the independent national anti-doping organization for the United States;
+
+
+(2) ensure that athletes participating in amateur athletic activities recognized by the United States Olympic Committee are prevented from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
+
+(3) implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
+
+(4) serve as the United States representative responsible for coordination wit</akn:p></akn:content><akn:subsection eId="subsec_2001_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this subchapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2001_b"><akn:num>(b)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(b) In general The United States Anti-Doping Agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2001_c"><akn:num>(c)</akn:num><akn:heading>Due process in arbitration proceedings</akn:heading><akn:content><akn:p>(c) Due process in arbitration proceedings Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

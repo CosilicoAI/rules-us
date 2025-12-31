@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/4002" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/4002/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/4002/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4002"><akn:num>4002</akn:num><akn:heading>Expedited funds availability schedules</akn:heading><akn:content><akn:p>§ 4002. Expedited funds availability schedules(a) Next business day availability for certain deposits(1) Cash deposits; wire transfersExcept as provided in subsection (e) and in section 4003 of this title, in any case in which—(A) any cash is deposited in an account at a receiving depository institution staffed by individuals employed by such institution, or
+
+(B) funds are received by a depository institution by wire transfer for deposit in an account at such institution,
+
+
+such cash or funds shall be available for withdrawal not later than the business day after the business day on which such cash is deposited or such funds are received for deposit.
+
+(2) Government checks; certain other checksFunds deposited in an account at a depository institution by check shall be available for withdrawal not later than the business day after the business day on which such funds are deposited in the case of—(A) a check which—(i) is drawn on the Treasury of the United States; and
+
+(ii) is endorsed only by the person to whom it was issued;
+
+
+(B) a check which—(i) is drawn by a State;
+
+(ii) is deposited in a receiving depository institution which is located in such State and is staffed by individuals employed by such institution;
+
+(iii) is deposited with a special deposit slip which indicates it is a check drawn by a State; and
+
+(iv) is endorsed only by the person to whom it was issued;
+
+
+(C) a check which—(i) is drawn by a unit of general local government;
+
+(ii) is deposited in a receiving depository institution which is located in the same State as such unit of general local government and is staffed by individuals employed by such institution;
+
+(iii) is deposited with a special deposit slip which indicates it is a check drawn by a unit of general local government; and
+
+(iv) is endorsed only by the person to whom it was issued;
+
+
+(D) the first $200 deposited by check or checks on any one business day;
+
+(E) a check deposited in a branch of a depository institution and drawn on the</akn:p></akn:content><akn:subsection eId="subsec_4002_a"><akn:num>(a)</akn:num><akn:heading>Next business day availability for certain deposits</akn:heading><akn:content><akn:p>(a) Next business day availability for certain deposits</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4002_b"><akn:num>(b)</akn:num><akn:heading>Permanent schedule</akn:heading><akn:content><akn:p>(b) Permanent schedule</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4002_c"><akn:num>(c)</akn:num><akn:heading>Temporary schedule</akn:heading><akn:content><akn:p>(c) Temporary schedule</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4002_d"><akn:num>(d)</akn:num><akn:heading>Time period adjustments</akn:heading><akn:content><akn:p>(d) Time period adjustments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4002_e"><akn:num>(e)</akn:num><akn:heading>Deposits at ATM</akn:heading><akn:content><akn:p>(e) Deposits at ATM</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4002_f"><akn:num>(f)</akn:num><akn:heading>Check return; notice of nonpayment</akn:heading><akn:content><akn:p>(f) Check return; notice of nonpayment No provision of this section shall be construed as requiring that, with respect to all checks deposited in a receiving depository institution—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

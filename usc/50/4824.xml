@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/4824" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/4824/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/4824/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4824"><akn:num>4824</akn:num><akn:heading>Annual report to Congress</akn:heading><akn:content><akn:p>§ 4824. Annual report to Congress(a) In generalThe Secretary shall submit to Congress, by December 31 of each year, a report on the implementation of this subchapter during the preceding fiscal year. The report shall include a review of—(1) the effect of controls imposed under this subchapter on exports, reexports, and in-country transfers of items in addressing threats to the national security or foreign policy of the United States, including a description of licensing processing times;
+
+(2) the impact of such controls on the scientific and technological leadership of the United States;
+
+(3) the consistency with such controls of export controls imposed by other countries;
+
+(4) efforts to provide exporters with compliance assistance, including specific actions to assist small- and medium-sized businesses;
+
+(5) a summary of regulatory changes from the prior fiscal year;
+
+(6) a summary of export enforcement actions, including of actions taken to implement end-use monitoring of dual-use, military, and other items subject to the Export Administration Regulations;
+
+(7) a summary of approved license applications to proscribed persons;
+
+(8) efforts undertaken within the previous year to comply with the requirements of section 4817 11 See References in Text note below. of this title, including any critical technologies identified under such section and how or whether such critical technologies were controlled for export; and
+
+(9) a summary of industrial base assessments conducted during the previous year by the Department of Commerce, including with respect to counterfeit electronics, foundational technologies, and other research and analysis of critical technologies and industrial capabilities of key defense-related sectors.
+
+
+(b) FormThe report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex.
+
+
+(Pub. L. 115–232, div. A, title XVII, § 1765, Aug. 13, 2018, 132 Stat. 2232.)
+
+Editorial Notes
+
+References in TextThis sub</akn:p></akn:content><akn:subsection eId="subsec_4824_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall submit to Congress, by December 31 of each year, a report on the implementation of this subchapter during the preceding fiscal year. The report shall include a review of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4824_b"><akn:num>(b)</akn:num><akn:heading>Form</akn:heading><akn:content><akn:p>(b) Form The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

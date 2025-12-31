@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/780" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/780/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/780/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_780"><akn:num>780</akn:num><akn:heading>Establishment of National Council on Disability</akn:heading><akn:content><akn:p>§ 780. Establishment of National Council on Disability(a) Membership; purpose(1)(A) There is established within the Federal Government a National Council on Disability (referred to in this subchapter as the “National Council”), which, subject to subparagraph (B), shall be composed of 9 members, of which—(i) 5 shall be appointed by the President;
+
+(ii) 1 shall be appointed by the Majority Leader of the Senate;
+
+(iii) 1 shall be appointed by the Minority Leader of the Senate;
+
+(iv) 1 shall be appointed by the Speaker of the House of Representatives; and
+
+(v) 1 shall be appointed by the Minority Leader of the House of Representatives.
+
+
+(B) The National Council shall transition from 15 members (as of July 22, 2014) to 9 members as follows:(i) On the first 4 expirations of National Council terms (after that date), replacement members shall be appointed to the National Council in the following order and manner:(I) 1 shall be appointed by the Majority Leader of the Senate.
+
+(II) 1 shall be appointed by the Minority Leader of the Senate.
+
+(III) 1 shall be appointed by the Speaker of the House of Representatives.
+
+(IV) 1 shall be appointed by the Minority Leader of the House of Representatives.
+
+
+(ii) On the next 6 expirations of National Council terms (after the 4 expirations described in clause (i) occur), no replacement members shall be appointed to the National Council.
+
+
+(C) For any vacancy on the National Council that occurs after the transition described in subparagraph (B), the vacancy shall be filled in the same manner as the original appointment was made.
+
+(D) The members of the National Council shall be individuals with disabilities, parents or guardians of individuals with disabilities, national leaders on disability policy, or other individuals who have substantial knowledge or experience relating to disability policy or issues that affect individuals with disabilities. The members of the National Council shall be appointed so as to be representative of individ</akn:p></akn:content><akn:subsection eId="subsec_780_a"><akn:num>(a)</akn:num><akn:heading>Membership; purpose</akn:heading><akn:content><akn:p>(a) Membership; purpose</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_780_b"><akn:num>(b)</akn:num><akn:heading>Term of office</akn:heading><akn:content><akn:p>(b) Term of office</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_780_c"><akn:num>(c)</akn:num><akn:heading>Chairperson; meetings</akn:heading><akn:content><akn:p>(c) Chairperson; meetings The President shall designate the Chairperson from among the members appointed to the National Council. The National Council shall meet at the call of the Chairperson, but not less often than four times each year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_780_d"><akn:num>(d)</akn:num><akn:heading>Quorum; vacancies</akn:heading><akn:content><akn:p>(d) Quorum; vacancies Five members of the National Council shall constitute a quorum and any vacancy in the National Council shall not affect its power to function.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

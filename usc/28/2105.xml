@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/2105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/2105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/2105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2105"><akn:num>2105</akn:num><akn:heading>Scope of review; abatement</akn:heading><akn:content><akn:p>§ 2105. Scope of review; abatement
+There shall be no reversal in the Supreme Court or a court of appeals for error in ruling upon matters in abatement which do not involve jurisdiction.
+(June 25, 1948, ch. 646, 62 Stat. 963.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 879 (R.S. § 1011; Feb. 18, 1875, ch. 80, § 1, 18 Stat. 318).
+The revised language is substituted for the provisions of section 879 of title 28, U.S.C., 1940 ed., to avoid any construction that matters of fact are not reviewable in nonjury cases. Such section 879 related to review upon a writ of error which applied only to actions at law. (See Rule 52(a) of the Federal Rules of Civil Procedure limiting the review of questions of fact which renders unnecessary any statutory limitation.)
+Rule 7(c) of the Federal Rules of Civil Procedure abolished all pleas, and the rules adopted the motion as a substitute therefor.
+Words “matters in abatement” were, therefore, substituted for the abolished “plea in abatement” and “plea to the jurisdiction.”
+Changes were made in phraseology.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

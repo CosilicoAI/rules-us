@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/918c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/918c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/918c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_918c"><akn:num>918c</akn:num><akn:heading>Rural and remote communities electrification grants</akn:heading><akn:content><akn:p>§ 918c. Rural and remote communities electrification grants(a) DefinitionsIn this section:(1) The term “eligible grantee” means a local government or municipality, peoples’ utility district, irrigation district, and cooperative, nonprofit, or limited-dividend association in a rural area.
+
+(2) The term “incremental hydropower” means additional generation achieved from increased efficiency after January 1, 2005, at a hydroelectric dam that was placed in service before January 1, 2005.
+
+(3) The term “renewable energy” means electricity generated from—(A) a renewable energy source; or
+
+(B) hydrogen, other than hydrogen produced from a fossil fuel, that is produced from a renewable energy source.
+
+
+(4) The term “renewable energy source” means—(A) wind;
+
+(B) ocean waves;
+
+(C) biomass;
+
+(D) solar;
+
+(E) landfill gas;
+
+(F) incremental hydropower;
+
+(G) livestock methane; or
+
+(H) geothermal energy.
+
+
+(5) The term “rural area” means a city, town, or unincorporated area that has a population of not more than 10,000 inhabitants.
+
+
+(b) GrantsThe Secretary, in consultation with the Secretary of Agriculture and the Secretary of the Interior, may provide grants under this section to eligible grantees for the purpose of—(1) increasing energy efficiency, siting or upgrading transmission and distribution lines serving rural areas; or
+
+(2) providing or modernizing electric generation facilities that serve rural areas.
+
+
+(c) Grant administration(1) The Secretary shall make grants under this section based on a determination of cost-effectiveness and the most effective use of the funds to achieve the purposes described in subsection (b).
+
+(2) For each fiscal year, the Secretary shall allocate grant funds under this section equally between the purposes described in paragraphs (1) and (2) of subsection (b).
+
+(3) In making grants for the purposes described in subsection (b)(2), the Secretary shall give preference to renewable energy facilities.
+
+
+(d) Authorization of appropriationsThere is aut</akn:p></akn:content><akn:subsection eId="subsec_918c_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_918c_b"><akn:num>(b)</akn:num><akn:heading>Grants</akn:heading><akn:content><akn:p>(b) Grants The Secretary, in consultation with the Secretary of Agriculture and the Secretary of the Interior, may provide grants under this section to eligible grantees for the purpose of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_918c_c"><akn:num>(c)</akn:num><akn:heading>Grant administration</akn:heading><akn:content><akn:p>(c) Grant administration</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_918c_d"><akn:num>(d)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(d) Authorization of appropriations There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for each of fiscal years 2006 through 2012.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

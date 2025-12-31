@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/2021" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/2021/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/2021/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2021"><akn:num>2021</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 2021. Definitions
+For the purposes of this chapter, unless otherwise specified:(1) Agency school boardThe term “agency school board” means a body—(A) the members of which are appointed by all of the school boards of the schools located within an agency, including schools operated under contract or grant; and
+
+(B) the number of such members is determined by the Secretary, in consultation with the affected tribes;
+
+
+except that, in agencies serving a single school, the school board of such school shall fulfill these duties, and in agencies having schools or a school operated under contract or grant, one such member at least shall be from such a school.
+
+(2) BureauThe term “Bureau” means the Bureau of Indian Affairs of the Department of the Interior.
+
+
+(3) Bureau-funded schoolThe term “Bureau-funded school” means—(A) a Bureau school;
+
+(B) a contract or grant school; or
+
+(C) a school for which assistance is provided under the Tribally Controlled Schools Act of 1988 [25 U.S.C. 2501 et seq.].
+
+
+(4) Bureau schoolThe term “Bureau school” means a Bureau-operated elementary or secondary day or boarding school or a Bureau-operated dormitory for students attending a school other than a Bureau school.
+
+
+(5) Complementary educational facilitiesThe term “complementary educational facilities” means educational program functional spaces such as libraries, gymnasiums, and cafeterias.
+
+
+(6) Contract or grant schoolThe term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 5321, 5322(a), or 5352 of this title, or under the Tribally Controlled Schools Act of 1988 [25 U.S.C. 2501 et seq.].
+
+
+(7) DirectorThe term “Director” means the Director of the Office of Indian Education Programs.
+
+
+(8) Education line officerThe term “education line officer” means a member of the education personnel under the supervision of the Director of the </akn:p></akn:content><akn:subsection eId="subsec_2021_1"><akn:num>(1)</akn:num><akn:heading>Agency school board</akn:heading><akn:content><akn:p>(1) Agency school board The term “agency school board” means a body— except that, in agencies serving a single school, the school board of such school shall fulfill these duties, and in agencies having schools or a school operated under contract or grant, one such member at least shall be from such a school.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_2"><akn:num>(2)</akn:num><akn:heading>Bureau</akn:heading><akn:content><akn:p>(2) Bureau The term “Bureau” means the Bureau of Indian Affairs of the Department of the Interior.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_3"><akn:num>(3)</akn:num><akn:heading>Bureau-funded school</akn:heading><akn:content><akn:p>(3) Bureau-funded school The term “Bureau-funded school” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_4"><akn:num>(4)</akn:num><akn:heading>Bureau school</akn:heading><akn:content><akn:p>(4) Bureau school The term “Bureau school” means a Bureau-operated elementary or secondary day or boarding school or a Bureau-operated dormitory for students attending a school other than a Bureau school.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_5"><akn:num>(5)</akn:num><akn:heading>Complementary educational facilities</akn:heading><akn:content><akn:p>(5) Complementary educational facilities The term “complementary educational facilities” means educational program functional spaces such as libraries, gymnasiums, and cafeterias.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_6"><akn:num>(6)</akn:num><akn:heading>Contract or grant school</akn:heading><akn:content><akn:p>(6) Contract or grant school The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 5321, 5322(a), or 5352 of this title, or under the Tribally Controlled Schools Act of 1988 [25 U.S.C. 2501 et seq.].</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_7"><akn:num>(7)</akn:num><akn:heading>Director</akn:heading><akn:content><akn:p>(7) Director The term “Director” means the Director of the Office of Indian Education Programs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_8"><akn:num>(8)</akn:num><akn:heading>Education line officer</akn:heading><akn:content><akn:p>(8) Education line officer The term “education line officer” means a member of the education personnel under the supervision of the Director of the Office, whether located in a central, area, or agency office.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_9"><akn:num>(9)</akn:num><akn:heading>Family literacy services</akn:heading><akn:content><akn:p>(9) Family literacy services The term “family literacy services” has the meaning given that term in section 7801 of title 20.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2021_10"><akn:num>(10)</akn:num><akn:heading>Financial plan</akn:heading><akn:content><akn:p>(10) Financial plan The term “financial plan” means a plan of services provided by each Bureau school.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/162a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/162a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/162a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_162a"><akn:num>162a</akn:num><akn:heading>Gross salary of Library of Congress employees</akn:heading><akn:content><akn:p>§ 162a. Gross salary of Library of Congress employees
+Hereafter the gross salary of any position in the Library which is augmented by payment of an honorarium from other than appropriated funds under terms of section 162 of this title shall not exceed an amount, which when combined with such honorarium, will exceed the maximum salary provided in chapter 51 and subchapter III of chapter 53 of title 5.
+(June 22, 1949, ch. 235, § 101, 63 Stat. 226; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+
+Editorial Notes
+Codification
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees.
+
+Amendments1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+Statutory Notes and Related Subsidiaries
+RepealsAct Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

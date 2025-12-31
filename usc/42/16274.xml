@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16274" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16274/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16274/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16274"><akn:num>16274</akn:num><akn:heading>Nuclear science and engineering support</akn:heading><akn:content><akn:p>§ 16274. Nuclear science and engineering support(a) University nuclear science and engineering support(1) In generalThe Secretary shall conduct a program to invest in human resources and infrastructure in the nuclear sciences and related fields, including health physics, nuclear engineering, and radiochemistry, consistent with missions of the Department related to civilian nuclear research, development, demonstration, and commercial application.
+
+
+(2) RequirementsIn carrying out the program under this subsection, the Secretary shall—(A) conduct a graduate and undergraduate fellowship program to attract new and talented students, which may include fellowships for students to spend time at National Laboratories in the areas of nuclear science, engineering, and health physics with a member of the National Laboratory staff acting as a mentor;
+
+(B) conduct a junior faculty research initiation grant program to assist universities in recruiting and retaining new faculty in the nuclear sciences and engineering by awarding grants to junior faculty for research on issues related to nuclear energy engineering and science;
+
+(C) support fundamental nuclear sciences, engineering, and health physics research through a nuclear engineering education and research program;
+
+(D) promote collaborations, partnerships, and knowledge sharing between institutions of higher education, National Laboratories, other Federal agencies, industry, and associated labor unions; and
+
+(E) support communication and outreach related to nuclear science, engineering, and health physics.
+
+
+(3) University-National Laboratory interactionsThe Secretary shall conduct—(A) a fellowship program for professors at universities to spend sabbaticals at National Laboratories in the areas of nuclear science and technology; and
+
+(B) a visiting scientist program in which National Laboratory staff can spend time in academic nuclear science and engineering departments.
+
+
+(4) Strengthening university research and training re</akn:p></akn:content><akn:subsection eId="subsec_16274_a"><akn:num>(a)</akn:num><akn:heading>University nuclear science and engineering support</akn:heading><akn:content><akn:p>(a) University nuclear science and engineering support</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16274_b"><akn:num>(b)</akn:num><akn:heading>Nuclear energy traineeship subprogram</akn:heading><akn:content><akn:p>(b) Nuclear energy traineeship subprogram</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

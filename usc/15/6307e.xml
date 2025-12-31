@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/6307e" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/6307e/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/6307e/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6307e"><akn:num>6307e</akn:num><akn:heading>Required disclosures for promoters</akn:heading><akn:content><akn:p>§ 6307e. Required disclosures for promoters(a) Disclosures to the boxing commissionsA promoter shall not be entitled to receive any compensation directly or indirectly in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement of—(1) a copy of any agreement in writing to which the promoter is a party with any boxer participating in the match;
+
+(2) a statement made under penalty of perjury that there are no other agreements, written or oral, between the promoter and the boxer with respect to that match; and
+
+(3)(A) all fees, charges, and expenses that will be assessed by or through the promoter on the boxer pertaining to the event, including any portion of the boxer’s purse that the promoter will receive, and training expenses;
+
+(B) all payments, gifts, or benefits the promoter is providing to any sanctioning organization affiliated with the event; and
+
+(C) any reduction in a boxer’s purse contrary to a previous agreement between the promoter and the boxer or a purse bid held for the event.
+
+
+
+(b) Disclosures to the boxerA promoter shall not be entitled to receive any compensation directly or indirectly in connection with a boxing match until it provides to the boxer it promotes—(1) the amounts of any compensation or consideration that a promoter has contracted to receive from such match;
+
+(2) all fees, charges, and expenses that will be assessed by or through the promoter on the boxer pertaining to the event, including any portion of the boxer’s purse that the promoter will receive, and training expenses; and
+
+(3) any reduction in a boxer’s purse contrary to a previous agreement between the promoter and the boxer or a purse bid held for the event.
+
+
+(c) Information to be available to State Attorney GeneralA promoter shall make information required to be disclosed under this section available to the chief law enforcement officer of the State in which the match is to be held upon request of </akn:p></akn:content><akn:subsection eId="subsec_6307e_a"><akn:num>(a)</akn:num><akn:heading>Disclosures to the boxing commissions</akn:heading><akn:content><akn:p>(a) Disclosures to the boxing commissions A promoter shall not be entitled to receive any compensation directly or indirectly in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6307e_b"><akn:num>(b)</akn:num><akn:heading>Disclosures to the boxer</akn:heading><akn:content><akn:p>(b) Disclosures to the boxer A promoter shall not be entitled to receive any compensation directly or indirectly in connection with a boxing match until it provides to the boxer it promotes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6307e_c"><akn:num>(c)</akn:num><akn:heading>Information to be available to State Attorney General</akn:heading><akn:content><akn:p>(c) Information to be available to State Attorney General A promoter shall make information required to be disclosed under this section available to the chief law enforcement officer of the State in which the match is to be held upon request of such officer.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

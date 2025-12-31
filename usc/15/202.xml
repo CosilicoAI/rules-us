@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/202" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/202/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/202/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_202"><akn:num>202</akn:num><akn:heading>Repairs to standards</akn:heading><akn:content><akn:p>§ 202. Repairs to standards
+Such necessary repairs and adjustments shall be made to the standards furnished to the several States and Territories as may be requested by the governors thereof, and also to standard weights and measures that have been or may be supplied to United States customhouses and other offices of the United States under Act of Congress, when requested by the Secretary of Commerce.
+(July 11, 1890, ch. 667, § 1, 26 Stat. 242; Feb. 14, 1903, ch. 552, §§ 4, 10, 32 Stat. 826, 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Act Mar. 4, 1913, created Department of Labor and renamed Department of Commerce and Labor as Department of Commerce.
+
+
+Transfer of Functions
+Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Department to Department of Commerce and Labor.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

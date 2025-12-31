@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/7914" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/7914/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/7914/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7914"><akn:num>7914</akn:num><akn:heading>Availability of counter-cyclical payments</akn:heading><akn:content><akn:p>§ 7914. Availability of counter-cyclical payments(a) Payment requiredFor each of the 2002 through 2007 crop years for each covered commodity, the Secretary shall make counter-cyclical payments to producers on farms for which payment yields and base acres are established with respect to the covered commodity if the Secretary determines that the effective price for the covered commodity is less than the target price for the covered commodity.
+
+
+(b) Effective priceFor purposes of subsection (a), the effective price for a covered commodity is equal to the sum of the following:(1) The higher of the following:(A) The national average market price received by producers during the 12-month marketing year for the covered commodity, as determined by the Secretary.
+
+(B) The national average loan rate for a marketing assistance loan for the covered commodity in effect for the applicable period under subchapter II.
+
+
+(2) The payment rate in effect for the covered commodity under section 7913 of this title for the purpose of making direct payments with respect to the covered commodity.
+
+
+(c) Target price(1) 2002 and 2003 crop yearsFor purposes of the 2002 and 2003 crop years, the target prices for covered commodities shall be as follows:(A) Wheat, $3.86 per bushel.
+
+(B) Corn, $2.60 per bushel.
+
+(C) Grain sorghum, $2.54 per bushel.
+
+(D) Barley, $2.21 per bushel.
+
+(E) Oats, $1.40 per bushel.
+
+(F) Upland cotton, $0.7240 per pound.
+
+(G) Rice, $10.50 per hundredweight.
+
+(H) Soybeans, $5.80 per bushel.
+
+(I) Other oilseeds, $0.0980 per pound.
+
+
+(2) Subsequent crop yearsFor purposes of each of the 2004 through 2007 crop years, the target prices for covered commodities shall be as follows:(A) Wheat, $3.92 per bushel.
+
+(B) Corn, $2.63 per bushel.
+
+(C) Grain sorghum, $2.57 per bushel.
+
+(D) Barley, $2.24 per bushel.
+
+(E) Oats, $1.44 per bushel.
+
+(F) Upland cotton, $0.7240 per pound.
+
+(G) Rice, $10.50 per hundredweight.
+
+(H) Soybeans, $5.80 per bushel.
+
+(I) Other oilseeds, $0.1010 per pound.
+</akn:p></akn:content><akn:subsection eId="subsec_7914_a"><akn:num>(a)</akn:num><akn:heading>Payment required</akn:heading><akn:content><akn:p>(a) Payment required For each of the 2002 through 2007 crop years for each covered commodity, the Secretary shall make counter-cyclical payments to producers on farms for which payment yields and base acres are established with respect to the covered commodity if the Secretary determines that the effective price for the covered commodity is less than the target price for the covered commodity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7914_b"><akn:num>(b)</akn:num><akn:heading>Effective price</akn:heading><akn:content><akn:p>(b) Effective price For purposes of subsection (a), the effective price for a covered commodity is equal to the sum of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7914_c"><akn:num>(c)</akn:num><akn:heading>Target price</akn:heading><akn:content><akn:p>(c) Target price</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7914_d"><akn:num>(d)</akn:num><akn:heading>Payment rate</akn:heading><akn:content><akn:p>(d) Payment rate The payment rate used to make counter-cyclical payments with respect to a covered commodity for a crop year shall be equal to the difference between—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7914_e"><akn:num>(e)</akn:num><akn:heading>Payment amount</akn:heading><akn:content><akn:p>(e) Payment amount If counter-cyclical payments are required to be paid for any of the 2002 through 2007 crop years of a covered commodity, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7914_f"><akn:num>(f)</akn:num><akn:heading>Time for payments</akn:heading><akn:content><akn:p>(f) Time for payments</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

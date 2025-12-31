@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/1501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/1501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/1501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1501"><akn:num>1501</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1501. Definitions
+In this chapter:(1) Appropriate committees of CongressThe term “appropriate committees of Congress” means—(A) the Committee on Commerce, Science, and Transportation of the Senate;
+
+(B) the Committee on Energy and Commerce of the House of Representatives; and
+
+(C) each committee of the Senate or of the House of Representatives with jurisdiction over a Federal entity affected by the applicable section in which the term appears.
+
+
+(2) CommissionThe term “Commission” means the Federal Communications Commission.
+
+
+(3) Federal entityThe term “Federal entity” has the meaning given the term in section 923(l) of this title.
+
+
+(4) NTIAThe term “NTIA” means the National Telecommunications and Information Administration of the Department of Commerce.
+
+
+(5) OMBThe term “OMB” means the Office of Management and Budget.
+
+
+(6) SecretaryThe term “Secretary” means the Secretary of Commerce.
+
+
+(Pub. L. 115–141, div. P, title VI, § 602, Mar. 23, 2018, 132 Stat. 1097.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this title”, meaning title VI of div. P of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 1097, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 115–141, div. P, title VI, § 601, Mar. 23, 2018, 132 Stat. 1097, provided that: “This title [enacting this chapter, amending sections 928 and 1455 of this title, enacting provisions set out as notes under section 1455 of this title, and enacting and amending provisions set out as as notes under section 1303 of Title 40, Public Buildings, Property, and Works] may be cited as the ‘Making Opportunities for Broadband Investment and Limiting Excessive and Needless Obstacles to Wireless Act’ or the ‘MOBILE NOW Act’.”</akn:p></akn:content><akn:subsection eId="subsec_1501_1"><akn:num>(1)</akn:num><akn:heading>Appropriate committees of Congress</akn:heading><akn:content><akn:p>(1) Appropriate committees of Congress The term “appropriate committees of Congress” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_2"><akn:num>(2)</akn:num><akn:heading>Commission</akn:heading><akn:content><akn:p>(2) Commission The term “Commission” means the Federal Communications Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_3"><akn:num>(3)</akn:num><akn:heading>Federal entity</akn:heading><akn:content><akn:p>(3) Federal entity The term “Federal entity” has the meaning given the term in section 923(l) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_4"><akn:num>(4)</akn:num><akn:heading>NTIA</akn:heading><akn:content><akn:p>(4) NTIA The term “NTIA” means the National Telecommunications and Information Administration of the Department of Commerce.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_5"><akn:num>(5)</akn:num><akn:heading>OMB</akn:heading><akn:content><akn:p>(5) OMB The term “OMB” means the Office of Management and Budget.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_6"><akn:num>(6)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(6) Secretary The term “Secretary” means the Secretary of Commerce.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/300ff–52" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/300ff–52/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/300ff–52/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300ff_52"><akn:num>300ff–52</akn:num><akn:heading>Minimum qualifications of grantees</akn:heading><akn:content><akn:p>§ 300ff–52. Minimum qualifications of grantees(a) Eligible entities(1) In generalThe entities referred to in section 300ff–51(a) of this title are public entities and nonprofit private entities that are—(A) federally-qualified health centers under section 1905(l)(2)(B) of the Social Security Act [42 U.S.C. 1396d(l)(2)(B)];
+
+(B) grantees under section 300 of this title (regarding family planning) other than States;
+
+(C) comprehensive hemophilia diagnostic and treatment centers;
+
+(D) rural health clinics;
+
+(E) health facilities operated by or pursuant to a contract with the Indian Health Service;
+
+(F) community-based organizations, clinics, hospitals and other health facilities that provide early intervention services to those persons infected with HIV/AIDS through intravenous drug use; or
+
+(G) nonprofit private entities that provide comprehensive primary care services to populations at risk of HIV/AIDS, including faith-based and community-based organizations.
+
+
+(2) Underserved populationsEntities described in paragraph (1) shall serve underserved populations which may include minority populations and Native American populations, ex-offenders, individuals with comorbidities including hepatitis B or C, mental illness, or substance abuse, low-income populations, inner city populations, and rural populations.
+
+
+
+(b) Status as medicaid provider(1) In generalSubject to paragraph (2), the Secretary may not make a grant under section 300ff–51 of this title for the provision of services described in subsection (b) of such section in a State unless, in the case of any such service that is available pursuant to the State plan approved under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] for the State—(A) the applicant for the grant will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
+
+(B) the applicant for the grant will enter into an agreement</akn:p></akn:content><akn:subsection eId="subsec_300ff_52_a"><akn:num>(a)</akn:num><akn:heading>Eligible entities</akn:heading><akn:content><akn:p>(a) Eligible entities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300ff_52_b"><akn:num>(b)</akn:num><akn:heading>Status as medicaid provider</akn:heading><akn:content><akn:p>(b) Status as medicaid provider</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/5170a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/5170a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/5170a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5170a"><akn:num>5170a</akn:num><akn:heading>General Federal assistance</akn:heading><akn:content><akn:p>§ 5170a. General Federal assistance
+In any major disaster, the President may—(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical, and advisory services) in support of State and local assistance response or recovery efforts, including precautionary evacuations;
+
+(2) coordinate all disaster relief assistance (including voluntary assistance) provided by Federal agencies, private organizations, and State and local governments, including precautionary evacuations and recovery;
+
+(3) provide technical and advisory assistance to affected State and local governments for—(A) the performance of essential community services;
+
+(B) issuance of warnings of risks and hazards;
+
+(C) public health and safety information, including dissemination of such information;
+
+(D) provision of health and safety measures;
+
+(E) management, control, and reduction of immediate threats to public health and safety; and
+
+(F) recovery activities, including disaster impact assessments and planning;
+
+
+(4) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance;
+
+(5) provide assistance to State and local governments for building code and floodplain management ordinance administration and enforcement, including inspections for substantial damage compliance; and
+
+(6) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—(A) shall, to the fullest extent practicable, promptly notify and coordinate with officials in a State in which such assistance or support is provided; and
+
+(B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use</akn:p></akn:content><akn:subsection eId="subsec_5170a_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical, and advisory services) in support of State and local assistance response or recovery efforts, including precautionary evacuations;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5170a_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) coordinate all disaster relief assistance (including voluntary assistance) provided by Federal agencies, private organizations, and State and local governments, including precautionary evacuations and recovery;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5170a_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) provide technical and advisory assistance to affected State and local governments for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5170a_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5170a_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) provide assistance to State and local governments for building code and floodplain management ordinance administration and enforcement, including inspections for substantial damage compliance; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5170a_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

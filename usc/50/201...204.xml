@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/201...204" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/201...204/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/201...204/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_201___204"><akn:num>201...204</akn:num><akn:heading>Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641</akn:heading><akn:content><akn:p>§§ 201 to 204. Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641
+
+Section 201, R.S. § 5297, provided for Federal aid for State Governments in case of an insurrection in any State. See section 251 of Title 10, Armed Forces.
+
+
+Section 202, R.S. § 5298, related to use of military and naval forces to enforce authority of Federal Government. See section 252 of Title 10.
+
+
+Section 203, R.S. § 5299, related to denial by State of equal protection of laws and authorized the President to take measures for the suppression of any insurrection, domestic violence, or combinations. See section 253 of Title 10.
+
+
+Section 204, R.S. § 5300, authorized the President to issue a proclamation commanding insurgents to disperse. See section 254 of Title 10.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

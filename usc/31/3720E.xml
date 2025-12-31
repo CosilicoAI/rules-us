@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3720E" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3720E/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3720E/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3720E"><akn:num>3720E</akn:num><akn:heading>Dissemination of information regarding identity of delinquent debtors</akn:heading><akn:content><akn:p>§ 3720E. Dissemination of information regarding identity of delinquent debtors(a) The head of any agency may, with the review of the Secretary of the Treasury, for the purpose of collecting any delinquent nontax debt owed by any person, publish or otherwise publicly disseminate information regarding the identity of the person and the existence of the nontax debt.
+
+(b)(1) The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget and the heads of other appropriate Federal agencies, shall issue regulations establishing procedures and requirements the Secretary considers appropriate to carry out this section.
+
+(2) Regulations under this subsection shall include—(A) standards for disseminating information that maximize collections of delinquent nontax debts, by directing actions under this section toward delinquent debtors that have assets or income sufficient to pay their delinquent nontax debt;
+
+(B) procedures and requirements that prevent dissemination of information under this section regarding persons who have not had an opportunity to verify, contest, and compromise their nontax debt in accordance with this subchapter; and
+
+(C) procedures to ensure that persons are not incorrectly identified pursuant to this section.
+
+
+
+(Added Pub. L. 104–134, title III, § 31001(r)(1), Apr. 26, 1996, 110 Stat. 1321–372.)</akn:p></akn:content><akn:subsection eId="subsec_3720E_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The head of any agency may, with the review of the Secretary of the Treasury, for the purpose of collecting any delinquent nontax debt owed by any person, publish or otherwise publicly disseminate information regarding the identity of the person and the existence of the nontax debt.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3720E_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/9" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/9/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/9/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9"><akn:num>9</akn:num><akn:heading>Voting for Representatives</akn:heading><akn:content><akn:p>§ 9. Voting for Representatives
+All votes for Representatives in Congress must be by written or printed ballot, or voting machine the use of which has been duly authorized by the State law; and all votes received or recorded contrary to this section shall be of no effect.
+(R.S. § 27; Feb. 14, 1899, ch. 154, 30 Stat. 836.)
+
+Editorial Notes
+Codification
+R.S. § 27 derived from acts Feb. 28, 1871, ch. 99, § 19, 16 Stat. 440, and May 30, 1872, ch. 239, 17 Stat. 192.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

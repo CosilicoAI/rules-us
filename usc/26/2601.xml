@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2601" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2601/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2601/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2601"><akn:num>2601</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>§ 2601. Tax imposed
+A tax is hereby imposed on every generation-skipping transfer (within the meaning of subchapter B).
+(Added Pub. L. 94–455, title XX, § 2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 99–514, title XIV, § 1431(a), Oct. 22, 1986, 100 Stat. 2718.)
+
+Editorial Notes
+Amendments1986—Pub. L. 99–514 amended section generally, substituting “(within the meaning of subchapter B)” for “in the amount determined under section 2602”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1986 AmendmentPub. L. 99–514, title XIV, § 1433, Oct. 22, 1986, 100 Stat. 2731, as amended by Pub. L. 100–647, title I, § 1014(h)(1)–(3)(A), (4), Nov. 10, 1988, 102 Stat. 3567, 3568, provided that:
+“(a) General Rule.—Except as provided in subsection (b), the amendments made by this subtitle [subtitle D (§§ 1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title] shall apply to any generation-skipping transfer (within the meaning of section 2611 of the Internal Revenue Code of 1986) made after the date of the enactment of this Act [Oct. 22, 1986].
+
+“(b) Special Rules.—“(1) Treatment of certain inter vivos transfers made after september 25, 1985.—For purposes of subsection (a) (and chapter 13 of the Internal Revenue Code of 1986 as amended by this part), any inter vivos transfer after September 25, 1985, and on or before the date of the enactment of this Act [Oct. 22, 1986] shall be treated as if it were made on the 1st day after the date of enactment of this Act.
+
+“(2) Exceptions.—The amendments made by this subtitle shall not apply to—“(A) any generation-skipping transfer under a trust which was irrevocable on September 25, 1985, but only to the extent that such transfer is not made out of corpus added to the trust after September 25, 1985 (or out of income attributable to corpus so added),
+
+“(B) any generation-skipping transfer under a wi</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

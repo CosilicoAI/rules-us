@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/9705" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/9705/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/9705/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9705"><akn:num>9705</akn:num><akn:heading>Commission personnel matters</akn:heading><akn:content><akn:p>§ 9705. Commission personnel matters(a) Compensation of membersEach member of the Commission shall serve without compensation in addition to that received for their service as an officer or employee of the United States.
+
+
+(b) Travel expensesThe members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Commission.
+
+
+(c) Assistance(1) In generalThe Director of the Office of Financial Education of the Department of the Treasury shall provide assistance to the Commission, upon request of the Commission, without reimbursement.
+
+
+(2) Detail of Government employeesAny Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+
+
+(Pub. L. 108–159, title V, § 516, Dec. 4, 2003, 117 Stat. 2008.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.</akn:p></akn:content><akn:subsection eId="subsec_9705_a"><akn:num>(a)</akn:num><akn:heading>Compensation of members</akn:heading><akn:content><akn:p>(a) Compensation of members Each member of the Commission shall serve without compensation in addition to that received for their service as an officer or employee of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9705_b"><akn:num>(b)</akn:num><akn:heading>Travel expenses</akn:heading><akn:content><akn:p>(b) Travel expenses The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9705_c"><akn:num>(c)</akn:num><akn:heading>Assistance</akn:heading><akn:content><akn:p>(c) Assistance</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

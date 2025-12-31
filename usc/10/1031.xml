@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1031" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1031/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1031/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1031"><akn:num>1031</akn:num><akn:heading>Administration of oath</akn:heading><akn:content><akn:p>§ 1031. Administration of oath
+The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath—(1) required for the enlistment or appointment of any person in the armed forces; or
+
+(2) required by law in connection with such an enlistment or appointment.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 109–364, div. A, title V, § 595(b), Oct. 17, 2006, 120 Stat. 2235.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+103110:19.34:217a–2.May 22, 1950, ch. 193, § 1, 64 Stat. 187.
+
+
+The words “(including the reserve component)” are omitted, since the words “any component of an armed force” include the reserve components. The words “any oath required for the enlistment or appointment of any person” are substituted for the words “the oath required for the enlistment of any person, the oath required for the appointment of any person to commissioned or warrant officer grade, and any other oath required by law in connection with the enlistment or appointment of any person”.
+
+Editorial Notes
+Amendments2006—Pub. L. 109–364 substituted “The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath” for “Any commissioned officer of any component of an armed force, whether or not on active duty, may administer any oath” in introductory provisions.</akn:p></akn:content><akn:subsection eId="subsec_1031_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) required for the enlistment or appointment of any person in the armed forces; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1031_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) required by law in connection with such an enlistment or appointment.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

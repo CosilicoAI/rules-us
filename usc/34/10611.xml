@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/10611" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/10611/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/10611/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10611"><akn:num>10611</akn:num><akn:heading>Grant authority</akn:heading><akn:content><akn:p>§ 10611. Grant authority(a) In generalThe Attorney General may make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or private entities, for adult drug courts, juvenile drug courts, family drug courts, and tribal drug courts that involve—(1) continuing judicial supervision over offenders, and other individuals under the jurisdiction of the court, with substance abuse problems, including co-occurring substance abuse and mental health problems, who are not violent offenders;
+
+(2) coordination with the appropriate State or local prosecutor; and
+
+(3) the integrated administration of other sanctions and services, which shall include—(A) mandatory periodic testing for the use of controlled substances or other addictive substances during any period of supervised release or probation for each participant;
+
+(B) substance abuse treatment for each participant;
+
+(C) diversion, probation, or other supervised release involving the possibility of prosecution, confinement, or incarceration based on noncompliance with program requirements or failure to show satisfactory progress;
+
+(D) offender management, and aftercare services such as relapse prevention, health care, education, vocational training, job placement, housing placement, and child care or other family support services for each participant who requires such services;
+
+(E) payment, in whole or part, by the offender of treatment costs, to the extent practicable, such as costs for urinalysis or counseling; and
+
+(F) payment, in whole or part, by the offender of restitution, to the extent practicable, to either a victim of the offender’s offense or to a restitution or similar victim support fund.
+
+
+
+(b) LimitationEconomic sanctions imposed on an offender pursuant to this section shall not be at a level that would interfere with the offender’s rehabilitation.
+
+
+(c) Mandatory drug testing and mandatory sanctions(1) Man</akn:p></akn:content><akn:subsection eId="subsec_10611_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Attorney General may make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or private entities, for adult drug courts, juvenile drug courts, family drug courts, and tribal drug courts that involve—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10611_b"><akn:num>(b)</akn:num><akn:heading>Limitation</akn:heading><akn:content><akn:p>(b) Limitation Economic sanctions imposed on an offender pursuant to this section shall not be at a level that would interfere with the offender’s rehabilitation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10611_c"><akn:num>(c)</akn:num><akn:heading>Mandatory drug testing and mandatory sanctions</akn:heading><akn:content><akn:p>(c) Mandatory drug testing and mandatory sanctions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

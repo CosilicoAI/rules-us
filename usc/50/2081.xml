@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2081" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2081/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2081/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2081"><akn:num>2081</akn:num><akn:heading>Computation of length of service</akn:heading><akn:content><akn:p>§ 2081. Computation of length of service(a) In general(1) Crediting service as participantFor the purposes of this subchapter, the period of service of a participant shall be computed from the date on which the participant becomes a participant under this subchapter.
+
+
+(2) Exclusion of certain periodsIn computing the period of service of a participant, all periods of separation from the Agency and so much of any leave of absence without pay as may exceed six months in the aggregate in any calendar year shall be excluded, except leaves of absence while receiving benefits under chapter 81 of title 5 and leaves of absence granted participants while performing active and honorable service in the Armed Forces.
+
+
+(3) Crediting certain periods of separationA participant or former participant who returns to Government duty after a period of separation shall have included in the participant or former participant’s period of service that part of the period of separation in which the participant or former participant was receiving benefits under chapter 81 of title 5.
+
+
+
+(b) Extra credit for periods served at unhealthful posts overseas(1) Classification of certain posts as unhealthfulThe Director may from time to time establish a list of places outside the United States that, by reason of climatic or other extreme conditions, are to be classed as unhealthful posts. Such list shall be established in consultation with the Secretary of State.
+
+
+(2) Extra creditEach year of duty at a post on the list established under paragraph (1), inclusive of regular leaves of absence, shall be counted as one and a half years in computing the length of service of a participant under this subchapter for the purpose of retirement. In computing such service, any fractional month shall be treated as a full month.
+
+
+(3) Coordination with benefits under title 5Extra credit for service at an unhealthful post may not be credited to a participant who is paid a differential under section 5925 or 5928 of </akn:p></akn:content><akn:subsection eId="subsec_2081_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2081_b"><akn:num>(b)</akn:num><akn:heading>Extra credit for periods served at unhealthful posts overseas</akn:heading><akn:content><akn:p>(b) Extra credit for periods served at unhealthful posts overseas</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

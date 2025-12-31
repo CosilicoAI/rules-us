@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/100722" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/100722/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/100722/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_100722"><akn:num>100722</akn:num><akn:heading>Liability</akn:heading><akn:content><akn:p>§ 100722. Liability(a) In General.—Subject to subsection (c), any person that destroys, causes the loss of, or injures any System unit resource is liable to the United States for response costs and damages resulting from the destruction, loss, or injury.
+
+(b) Liability In Rem.—Any instrumentality, including a vessel, vehicle, aircraft, or other equipment, that destroys, causes the loss of, or injures any System unit resource shall be liable in rem to the United States for response costs and damages resulting from the destruction, loss, or injury to the same extent as a person is liable under subsection (a).
+
+(c) Defenses.—A person is not liable under this section if the person establishes that—(1) the destruction, loss of, or injury to the System unit resource was caused solely by an act of God or an act of war;
+
+(2) the person acted with due care, and the destruction, loss of, or injury to the System unit resource was caused solely by an act or omission of a 3d party, other than an employee or agent of the person; or
+
+(3) the destruction, loss, or injury to the System unit resource was caused by an activity authorized by Federal or State law.
+
+
+(d) Scope.—Liability under this section is in addition to any other liability that may arise under Federal or State law.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3107.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10072216 U.S.C. 19jj–1.Pub. L. 101–337, § 2, July 27, 1990, 104 Stat. 379; Pub. L. 104–333, div. I, title VIII, § 814(h)(3), Nov. 12, 1996, 110 Stat. 4199; Pub. L. 106–176, title I, § 120(c), Mar. 10, 2000, 114 Stat. 29.</akn:p></akn:content><akn:subsection eId="subsec_100722_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Subject to subsection (c), any person that destroys, causes the loss of, or injures any System unit resource is liable to the United States for response costs and damages resulting from the destruction, loss, or injury.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_100722_b"><akn:num>(b)</akn:num><akn:heading>Liability In Rem.—</akn:heading><akn:content><akn:p>(b) Any instrumentality, including a vessel, vehicle, aircraft, or other equipment, that destroys, causes the loss of, or injures any System unit resource shall be liable in rem to the United States for response costs and damages resulting from the destruction, loss, or injury to the same extent as a person is liable under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_100722_c"><akn:num>(c)</akn:num><akn:heading>Defenses.—</akn:heading><akn:content><akn:p>(c) A person is not liable under this section if the person establishes that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_100722_d"><akn:num>(d)</akn:num><akn:heading>Scope.—</akn:heading><akn:content><akn:p>(d) Liability under this section is in addition to any other liability that may arise under Federal or State law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

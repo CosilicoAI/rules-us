@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/60302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/60302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/60302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60302"><akn:num>60302</akn:num><akn:heading>Capital prosecution improvement grants</akn:heading><akn:content><akn:p>§ 60302. Capital prosecution improvement grants(a) In generalThe Attorney General shall award grants to States for the purpose of enhancing the ability of prosecutors to effectively represent the public in State capital cases.
+
+
+(b) Use of funds(1) Permitted usesGrants awarded under subsection (a) shall be used for one or more of the following:(A) To design and implement training programs for State and local prosecutors to ensure effective representation in State capital cases.
+
+(B) To develop and implement appropriate standards and qualifications for State and local prosecutors who litigate State capital cases.
+
+(C) To assess the performance of State and local prosecutors who litigate State capital cases, provided that such assessment shall not include participation by the assessor in the trial of any specific capital case.
+
+(D) To identify and implement any potential legal reforms that may be appropriate to minimize the potential for error in the trial of capital cases.
+
+(E) To establish a program under which State and local prosecutors conduct a systematic review of cases in which a death sentence was imposed in order to identify cases in which post-conviction DNA testing may be appropriate.
+
+(F) To provide support and assistance to the families of murder victims.
+
+
+(2) Prohibited useGrants awarded under subsection (a) shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
+
+
+
+(Pub. L. 108–405, title IV, § 422, Oct. 30, 2004, 118 Stat. 2288.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 14163a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.</akn:p></akn:content><akn:subsection eId="subsec_60302_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Attorney General shall award grants to States for the purpose of enhancing the ability of prosecutors to effectively represent the public in State capital cases.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60302_b"><akn:num>(b)</akn:num><akn:heading>Use of funds</akn:heading><akn:content><akn:p>(b) Use of funds</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

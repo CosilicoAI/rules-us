@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6939c" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6939c/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6939c/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6939c"><akn:num>6939c</akn:num><akn:heading>Mixed waste inventory reports and plan</akn:heading><akn:content><akn:p>§ 6939c. Mixed waste inventory reports and plan(a) Mixed waste inventory reports(1) RequirementNot later than 180 days after October 6, 1992, the Secretary of Energy shall submit to the Administrator and to the Governor of each State in which the Department of Energy stores or generates mixed wastes the following reports:(A) A report containing a national inventory of all such mixed wastes, regardless of the time they were generated, on a State-by-State basis.
+
+(B) A report containing a national inventory of mixed waste treatment capacities and technologies.
+
+
+(2) Inventory of wastesThe report required by paragraph (1)(A) shall include the following:(A) A description of each type of mixed waste at each Department of Energy facility in each State, including, at a minimum, the name of the waste stream.
+
+(B) The amount of each type of mixed waste currently stored at each Department of Energy facility in each State, set forth separately by mixed waste that is subject to the land disposal prohibition requirements of section 6924 of this title and mixed waste that is not subject to such prohibition requirements.
+
+(C) An estimate of the amount of each type of mixed waste the Department expects to generate in the next 5 years at each Department of Energy facility in each State.
+
+(D) A description of any waste minimization actions the Department has implemented at each Department of Energy facility in each State for each mixed waste stream.
+
+(E) The EPA hazardous waste code for each type of mixed waste containing waste that has been characterized at each Department of Energy facility in each State.
+
+(F) An inventory of each type of waste that has not been characterized by sampling and analysis at each Department of Energy facility in each State.
+
+(G) The basis for the Department’s determination of the applicable hazardous waste code for each type of mixed waste at each Department of Energy facility and a description of whether the determination is based on sampling and analy</akn:p></akn:content><akn:subsection eId="subsec_6939c_a"><akn:num>(a)</akn:num><akn:heading>Mixed waste inventory reports</akn:heading><akn:content><akn:p>(a) Mixed waste inventory reports</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6939c_b"><akn:num>(b)</akn:num><akn:heading>Plan for development of treatment capacities and technologies</akn:heading><akn:content><akn:p>(b) Plan for development of treatment capacities and technologies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6939c_c"><akn:num>(c)</akn:num><akn:heading>Schedule and progress reports</akn:heading><akn:content><akn:p>(c) Schedule and progress reports</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

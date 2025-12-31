@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/190112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/190112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/190112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_190112"><akn:num>190112</akn:num><akn:heading>Distribution of assets on dissolution or final liquidation</akn:heading><akn:content><akn:p>§ 190112. Distribution of assets on dissolution or final liquidation
+On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be divided equally among the then active officers and members.
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1449.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+19011236:231 (words after 2d comma).June 30, 1950, ch. 431, § 11 (words after 2d comma), 64 Stat. 314.
+
+
+The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

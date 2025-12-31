@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/9901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/9901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/9901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9901"><akn:num>9901</akn:num><akn:heading>Prohibition on transfer of personally identifiable sensitive data of United States individuals to fo</akn:heading><akn:content><akn:p>§ 9901. Prohibition on transfer of personally identifiable sensitive data of United States individuals to foreign adversaries(a) ProhibitionIt shall be unlawful for a data broker to sell, license, rent, trade, transfer, release, disclose, provide access to, or otherwise make available personally identifiable sensitive data of a United States individual to—(1) any foreign adversary country; or
+
+(2) any entity that is controlled by a foreign adversary.
+
+
+(b) Enforcement by Federal Trade Commission(1) Unfair or deceptive acts or practicesA violation of this section shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+
+(2) Powers of Commission(A) In generalThe Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this section.
+
+
+(B) Privileges and immunitiesAny person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+
+
+
+(3) Authority preservedNothing in this section may be construed to limit the authority of the Commission under any other provision of law.
+
+
+
+(c) DefinitionsIn this section:(1) CommissionThe term “Commission” means the Federal Trade Commission.
+
+
+(2) Controlled by a foreign adversaryThe term “controlled by a foreign adversary” means, with respect to an individual or entity, that such individual or entity is—(A) a foreign person that is domiciled in, is headquartered in, has its principal place of business in, or is organized under the laws of a foreign adversary country;
+
+(B) an entity with respect to which a foreign person or combination of foreign persons described in subparagraph (A) directly or indirectly ow</akn:p></akn:content><akn:subsection eId="subsec_9901_a"><akn:num>(a)</akn:num><akn:heading>Prohibition</akn:heading><akn:content><akn:p>(a) Prohibition It shall be unlawful for a data broker to sell, license, rent, trade, transfer, release, disclose, provide access to, or otherwise make available personally identifiable sensitive data of a United States individual to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9901_b"><akn:num>(b)</akn:num><akn:heading>Enforcement by Federal Trade Commission</akn:heading><akn:content><akn:p>(b) Enforcement by Federal Trade Commission</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9901_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9901_d"><akn:num>(d)</akn:num><akn:heading>Effective date</akn:heading><akn:content><akn:p>(d) Effective date This section shall take effect on the date that is 60 days after April 24, 2024.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

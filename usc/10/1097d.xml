@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1097d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1097d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1097d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1097d"><akn:num>1097d</akn:num><akn:heading>TRICARE program: notice of change to benefits</akn:heading><akn:content><akn:p>§ 1097d. TRICARE program: notice of change to benefits(a) Provision of Notice.—(1) If the Secretary makes a significant change to any benefits provided by the TRICARE program to covered beneficiaries, the Secretary shall provide individuals described in paragraph (2) with notice explaining such changes.
+
+(2) The individuals described by this paragraph are covered beneficiaries participating in the TRICARE program who may be affected by a significant change covered by a notification under paragraph (1).
+
+(3) The Secretary shall provide notice under paragraph (1) through electronic means.
+
+
+(b) Timing of Notice.—The Secretary shall provide notice under paragraph (1) of subsection (a) by the earlier of the following dates:(1) The date that the Secretary determines would afford individuals described in paragraph (2) of such subsection adequate time to understand the change covered by the notification.
+
+(2) The date that is 90 days before the date on which the change covered by the notification becomes effective.
+
+(3) The effective date of a significant change that is required by law.
+
+
+(c) Significant Change Defined.—In this section, the term “significant change” means a systemwide change—(1) in the structure of the TRICARE program or the benefits provided under the TRICARE program (not including the addition of new services or benefits); or
+
+(2) in beneficiary cost-share rates of more than 20 percent.
+
+
+(Added Pub. L. 113–291, div. A, title VII, § 711(a), Dec. 19, 2014, 128 Stat. 3413.)</akn:p></akn:content><akn:subsection eId="subsec_1097d_a"><akn:num>(a)</akn:num><akn:heading>Provision of Notice.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1097d_b"><akn:num>(b)</akn:num><akn:heading>Timing of Notice.—</akn:heading><akn:content><akn:p>(b) The Secretary shall provide notice under paragraph (1) of subsection (a) by the earlier of the following dates:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1097d_c"><akn:num>(c)</akn:num><akn:heading>Significant Change Defined.—</akn:heading><akn:content><akn:p>(c) In this section, the term “significant change” means a systemwide change—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

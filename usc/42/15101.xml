@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15101"><akn:num>15101</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 15101. Authorization of appropriations(a) In generalThere are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of fiscal years 2001 through 2007.
+
+
+(b) Reservation(1) In generalThe Secretary shall reserve for each fiscal year 10 percent, or $400,000 (whichever is greater), of the amount appropriated pursuant to subsection (a) to carry out—(A) section 15098 of this title (relating to the provision of technical assistance and information to States); and
+
+(B) section 15099 of this title (relating to the conduct of evaluations).
+
+
+(2) Special ruleFor each year that the amount appropriated pursuant to subsection (a) is $10,000,000 or greater, the Secretary may reserve 5 percent of such amount to carry out section 15100 of this title.
+
+
+
+(Pub. L. 106–402, title II, § 212, Oct. 30, 2000, 114 Stat. 1734.)</akn:p></akn:content><akn:subsection eId="subsec_15101_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of fiscal years 2001 through 2007.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15101_b"><akn:num>(b)</akn:num><akn:heading>Reservation</akn:heading><akn:content><akn:p>(b) Reservation</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

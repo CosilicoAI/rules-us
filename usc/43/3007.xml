@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/3007" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/3007/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/3007/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3007"><akn:num>3007</akn:num><akn:heading>Renewable energy fees on Federal land</akn:heading><akn:content><akn:p>§ 3007. Renewable energy fees on Federal land(a) DefinitionsIn this section:(1) Annual Adjustment FactorThe term “Annual Adjustment Factor” means 3 percent.
+
+
+(2) Encumbrance FactorThe term “Encumbrance Factor” means—(A) 100 percent for a solar energy generation facility; and
+
+(B) an amount determined by the Secretary, but not less than 10 percent for a wind energy generation facility.
+
+
+(3) National Forest System(A) In generalThe term “National Forest System” means land of the National Forest System (as defined in section 1609(a) of title 16) administered by the Secretary of Agriculture.
+
+
+(B) ExclusionThe term “National Forest System” does not include any forest reserve not created from the public domain.
+
+
+
+(4) Per-Acre RateThe term “Per-Acre Rate”, with respect to a right-of-way, means the average of the per-acre pastureland rental rates published in the Cash Rents Survey by the National Agricultural Statistics Service for the State in which the right-of-way is located over the 5 calendar-year period preceding the issuance or renewal of the right-of-way.
+
+
+(5) ProjectThe term “project” means a system described in section 2801.9(a)(4) of title 43, Code of Federal Regulations (as in effect on July 4, 2025).
+
+
+(6) Public landThe term “public land” means—(A) public lands (as defined in section 1702 of this title); and
+
+(B) National Forest System land.
+
+
+(7) Renewable energy projectThe term “renewable energy project” means a project located on public land that uses wind or solar energy to generate energy.
+
+
+(8) Right-of-wayThe term “right-of-way” has the meaning given the term in section 1702 of this title.
+
+
+(9) SecretaryThe term “Secretary” means—(A) the Secretary of the Interior, with respect to land controlled or administered by the Secretary of the Interior; and
+
+(B) the Secretary of Agriculture, with respect to National Forest System land.
+
+
+
+(b) Acreage rent for wind and solar rights-of-way(1) In generalPursuant to section 1764(g) of this title, the Secretary </akn:p></akn:content><akn:subsection eId="subsec_3007_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3007_b"><akn:num>(b)</akn:num><akn:heading>Acreage rent for wind and solar rights-of-way</akn:heading><akn:content><akn:p>(b) Acreage rent for wind and solar rights-of-way</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3007_c"><akn:num>(c)</akn:num><akn:heading>Capacity fees</akn:heading><akn:content><akn:p>(c) Capacity fees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3007_d"><akn:num>(d)</akn:num><akn:heading>Late payment fee; termination</akn:heading><akn:content><akn:p>(d) Late payment fee; termination</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

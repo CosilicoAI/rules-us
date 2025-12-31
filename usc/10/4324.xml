@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/4324" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/4324/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/4324/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4324"><akn:num>4324</akn:num><akn:heading>Life-cycle management and product support</akn:heading><akn:content><akn:p>§ 4324. Life-cycle management and product support(a) Guidance on Life-Cycle Management.—The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for covered systems. The guidance issued pursuant to this subsection shall—(1) maximize competition and make the best possible use of available Department of Defense and industry resources at the system, subsystem, and component levels; and
+
+(2) maximize value to the Department of Defense by providing the best possible product support outcomes at the lowest operations and support cost.
+
+
+(b) Life Cycle Sustainment Plan.—(1) In general.—Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives. The life cycle sustainment plan shall include—(A) a comprehensive product support strategy;
+
+(B) performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
+
+(C) an approved life-cycle cost estimate for the covered system;
+
+(D) affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
+
+(E) sustainment risks and proposed mitigation plans for such risks;
+
+(F) engineering and design considerations that support cost-effective sustainment of the covered system;
+
+(G) an intellectual property management plan for product support, including requirements for technical data, software, and modular open system approaches (as defined in section 4401 of this title);
+
+(H) an estimate of the number of personnel needed to operate and maintain the covered system, including military personnel, Federal employees, contractors, and host nation support personnel (as </akn:p></akn:content><akn:subsection eId="subsec_4324_a"><akn:num>(a)</akn:num><akn:heading>Guidance on Life-Cycle Management.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense shall issue and maintain comprehensive guidance on life-cycle management and the development and implementation of product support strategies for covered systems. The guidance issued pursuant to this subsection shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4324_b"><akn:num>(b)</akn:num><akn:heading>Life Cycle Sustainment Plan.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4324_c"><akn:num>(c)</akn:num><akn:heading>Product Support Managers.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4324_d"><akn:num>(d)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(d) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

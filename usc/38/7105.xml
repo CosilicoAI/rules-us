@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/7105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/7105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/7105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7105"><akn:num>7105</akn:num><akn:heading>Filing of appeal</akn:heading><akn:content><akn:p>§ 7105. Filing of appeal(a) Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
+
+(b)(1)(A) Except in the case of simultaneously contested claims, a notice of disagreement shall be filed within one year from the date of the issuance of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
+
+(B) A notice of disagreement postmarked before the expiration of the one-year period shall be accepted as timely filed.
+
+(C) A question as to timeliness or adequacy of the notice of disagreement shall be decided by the Board.
+
+
+(2)(A) Notices of disagreement shall be in writing, shall identify the specific determination with which the claimant disagrees, and may be filed by the claimant, the claimant’s legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian.
+
+(B) Not more than one recognized organization, attorney, or agent may be recognized at any one time in the prosecution of a claim.
+
+(C) Notices of disagreement shall be filed with the Board.
+
+
+(3) The notice of disagreement shall indicate whether the claimant requests—(A) a hearing before the Board, which shall include an opportunity to submit evidence in accordance with section 7113(b) of this title;
+
+(B) an opportunity to submit additional evidence without a hearing before the Board, which shall include an opportunity to submit evidence in accordance with section 7113(c) of this title; or
+
+(C) a review by the Board without a hearing or the submittal of additional evidence.
+
+
+(4) The Secretary shall develop a policy to permit a claimant to modify the information identified in the notice of disagreement after the notice of disagreement has been filed under this section pursuant to </akn:p></akn:content><akn:subsection eId="subsec_7105_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7105_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7105_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or decision of the agency of original jurisdiction shall become final and the claim shall not thereafter be readjudicated or allowed, except—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7105_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Board may dismiss any appeal which fails to identify the specific determination with which the claimant disagrees.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

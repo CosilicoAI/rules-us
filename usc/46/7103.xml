@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/7103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/7103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/7103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7103"><akn:num>7103</akn:num><akn:heading>Licenses for radio officers</akn:heading><akn:content><akn:p>§ 7103. Licenses for radio officers(a) A license as radio officer may be issued only to an applicant who has a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.
+
+(b) Except as provided in section 7318 of this title, this part does not affect the status of radiotelegraph operators serving on board vessels operating only on the Great Lakes.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 540.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+710346:229a46:229b46:229g
+
+
+Section 7103 requires an applicant for a license as a radio officer to have, as a prerequisite, a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission (FCC). It also excepts radiotelegraph operators that are engaged on Great Lakes vessels from the requirement of having to obtain a radio officer’s license.</akn:p></akn:content><akn:subsection eId="subsec_7103_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A license as radio officer may be issued only to an applicant who has a first-class or second-class radiotelegraph operator license issued by the Federal Communications Commission.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7103_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as provided in section 7318 of this title, this part does not affect the status of radiotelegraph operators serving on board vessels operating only on the Great Lakes.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

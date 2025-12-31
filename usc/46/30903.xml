@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30903" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30903/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30903/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30903"><akn:num>30903</akn:num><akn:heading>Waiver of immunity</akn:heading><akn:content><akn:p>§ 30903. Waiver of immunity(a) In General.—In a case in which, if a vessel were privately owned or operated, or if cargo were privately owned or possessed, or if a private person or property were involved, a civil action in admiralty could be maintained, a civil action in admiralty in personam may be brought against the United States or a federally-owned corporation. In a civil action in admiralty brought by the United States or a federally-owned corporation, an admiralty claim in personam may be filed or a setoff claimed against the United States or corporation.
+
+(b) Non-Jury.—A claim against the United States or a federally-owned corporation under this section shall be tried without a jury.
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1518.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3090346 App.:742 (1st, 3d sentences).Mar. 9, 1920, ch. 95, § 2 (1st, 3d sentences), 41 Stat. 525; Pub. L. 86–770, § 3, Sept. 13, 1960, 74 Stat. 912; Pub. L. 104–324, title XI, § 1105, Oct. 19, 1996, 110 Stat. 3967.
+
+
+In subsection (a), the words “civil action” are substituted for “proceeding” and “libel” because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.) and for consistency in the chapter. The words “civil action in admiralty in personam” are substituted for “any appropriate nonjury proceeding in personam” for clarity. The words “in rem or in personam in any district” are omitted as unnecessary. The words “admiralty claim” are substituted for “cross libel” for consistency in this chapter and with the various means of asserting a claim (such as by counterclaim or cross-claim) allowed by the Federal Rules of Civil Procedure. The words “with the same force and effect as if the libel had been filed by a private party” are omitted as unnecessary.
+Subsection (b) is substituted for the word “nonjury” to clarify that the nonjury requirement applies to any claim against the United States or a federally-o</akn:p></akn:content><akn:subsection eId="subsec_30903_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In a case in which, if a vessel were privately owned or operated, or if cargo were privately owned or possessed, or if a private person or property were involved, a civil action in admiralty could be maintained, a civil action in admiralty in personam may be brought against the United States or a federally-owned corporation. In a civil action in admiralty brought by the United States or a federally-owned corporation, an admiralty claim in personam may be filed or a setoff claimed against the United States or corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30903_b"><akn:num>(b)</akn:num><akn:heading>Non-Jury.—</akn:heading><akn:content><akn:p>(b) A claim against the United States or a federally-owned corporation under this section shall be tried without a jury.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/1053" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/1053/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/1053/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1053"><akn:num>1053</akn:num><akn:heading>Minimum vesting standards</akn:heading><akn:content><akn:p>§ 1053. Minimum vesting standards(a) Nonforfeitability requirementsEach pension plan shall provide that an employee’s right to his normal retirement benefit is nonforfeitable upon the attainment of normal retirement age and in addition shall satisfy the requirements of paragraphs (1) and (2) of this subsection.(1) A plan satisfies the requirements of this paragraph if an employee’s rights in his accrued benefit derived from his own contributions are nonforfeitable.
+
+(2)(A)(i) In the case of a defined benefit plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
+
+(ii) A plan satisfies the requirements of this clause if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
+
+(iii) A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table:
+
+
+
+
+
+
+ Years of service:The nonforfeitable percentage is:
+
+
+320  
+440  
+560  
+680  
+7 or more100.
+
+
+
+
+
+(B)(i) In the case of an individual account plan, a plan satisfies the requirements of this paragraph if it satisfies the requirements of clause (ii) or (iii).
+
+(ii) A plan satisfies the requirements of this clause if an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions.
+
+(iii) A plan satisfies the requirements of this clause if an employee has a nonforfeitable right to a percentage of the employee’s accrued benefit derived from employer contributions determined under the following table:
+
+
+
+
+
+
+ Years of service:The nonforfeitable percentage is:
+
+
+220  
+340  
+460  
+580  
+6 or more100.
+
+
+
+
+
+
+(3)(A) A right to an accrued benefit derived from employer contributions shall not be treated as forf</akn:p></akn:content><akn:subsection eId="subsec_1053_a"><akn:num>(a)</akn:num><akn:heading>Nonforfeitability requirements</akn:heading><akn:content><akn:p>(a) Nonforfeitability requirements Each pension plan shall provide that an employee’s right to his normal retirement benefit is nonforfeitable upon the attainment of normal retirement age and in addition shall satisfy the requirements of paragraphs (1) and (2) of this subsection.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1053_b"><akn:num>(b)</akn:num><akn:heading>Computation of period of service</akn:heading><akn:content><akn:p>(b) Computation of period of service</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1053_c"><akn:num>(c)</akn:num><akn:heading>Plan amendments altering vesting schedule</akn:heading><akn:content><akn:p>(c) Plan amendments altering vesting schedule</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1053_d"><akn:num>(d)</akn:num><akn:heading>Nonforfeitable benefits after lesser period and in greater amounts than required</akn:heading><akn:content><akn:p>(d) Nonforfeitable benefits after lesser period and in greater amounts than required A pension plan may allow for nonforfeitable benefits after a lesser period and in greater amounts than are required by this part.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1053_e"><akn:num>(e)</akn:num><akn:heading>Consent for distribution; present value; covered distributions</akn:heading><akn:content><akn:p>(e) Consent for distribution; present value; covered distributions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1053_f"><akn:num>(f)</akn:num><akn:heading>Special rules for plans computing accrued benefits by reference to hypothetical account balance or equivalent amounts</akn:heading><akn:content><akn:p>(f) Special rules for plans computing accrued benefits by reference to hypothetical account balance or equivalent amounts</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

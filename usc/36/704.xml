@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/704" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/704/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/704/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_704"><akn:num>704</akn:num><akn:heading>Activities</akn:heading><akn:content><akn:p>§ 704. Activities
+In cooperation with appropriate State and local government authorities, each Federal land management agency shall plan for and carry out activities on Carl Garner Federal Lands Cleanup Day that—(1) encourage continuing public and private sector cooperation in preserving the beauty and safety of areas within the jurisdiction of the agency;
+
+(2) increase citizens’ sense of ownership and community pride in those areas;
+
+(3) reduce litter on Federal lands, along trails and waterways, and within those areas; and
+
+(4) maintain and improve trails, recreation areas, waterways, and facilities.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1267.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+70436:169i–1(b).Aug. 27, 1986, Pub. L. 99–402, § 4(b), 100 Stat. 911; Nov. 12, 1996, Pub. L. 104–333, § 806, 110 Stat. 4188.
+
+
+In this section, before clause (1), the word “county” is omitted as unnecessary. The word “authorities” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.</akn:p></akn:content><akn:subsection eId="subsec_704_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) encourage continuing public and private sector cooperation in preserving the beauty and safety of areas within the jurisdiction of the agency;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_704_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) increase citizens’ sense of ownership and community pride in those areas;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_704_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) reduce litter on Federal lands, along trails and waterways, and within those areas; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_704_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) maintain and improve trails, recreation areas, waterways, and facilities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

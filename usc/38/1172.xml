@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1172" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1172/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1172/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1172"><akn:num>1172</akn:num><akn:heading>Annual notice and opportunity for public comment</akn:heading><akn:content><akn:p>§ 1172. Annual notice and opportunity for public comment(a) Notice Required.—(1)(A) Not less frequently than once each year, the Secretary shall publish in the Federal Register notice of the formal evaluations that the Secretary plans to conduct pursuant to section 1173 of this title.
+
+(B) Each notice published under subparagraph (A) shall include, for each formal evaluation referred to in the notice, an explanation as to why the military environmental exposures and adverse health outcomes that are the subject of the formal evaluation were chosen by the Secretary for formal evaluation under section 1173 of this title.
+
+
+(2)(A) With each notice published under paragraph (1), the Secretary shall seek public comment on the military environmental exposures and adverse health outcomes that are the subject of the formal evaluations referred to in the notice.
+
+(B) The Secretary shall—(i) consider all public comment received under subparagraph (A); and
+
+(ii) publish in the Federal Register a response to the comments received under subparagraph (A).
+
+
+
+(3)(A) For each notice published under paragraph (1), the Secretary shall hold an open meeting for members of the public to voice their comments in response to the notice.
+
+(B) To help evaluate presumptions of service connection, the Secretary shall, not less frequently than quarterly, collaborate with, partner with, and give weight to the advice of veterans service organizations and such other stakeholders as the Secretary considers appropriate.
+
+
+(4) Failure to include a military environmental exposure or adverse health effect in a Federal Register notice published pursuant to subsection (a) shall not preclude the Secretary from initiating a formal evaluation of such exposure or health effect.
+
+
+(b) Working Group.—(1) The Secretary shall establish a working group within the Department (in this section referred to as the “Working Group”).
+
+(2) The Working Group shall include personnel of the Veterans Health Administration and</akn:p></akn:content><akn:subsection eId="subsec_1172_a"><akn:num>(a)</akn:num><akn:heading>Notice Required.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1172_b"><akn:num>(b)</akn:num><akn:heading>Working Group.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1172_c"><akn:num>(c)</akn:num><akn:heading>Assessments.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1172_d"><akn:num>(d)</akn:num><akn:heading>Development of Recommendations.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1172_e"><akn:num>(e)</akn:num><akn:heading>Reports by the Working Group.—</akn:heading><akn:content><akn:p>(e) Not less frequently than once each year, the Working Group shall submit to the Secretary, the Committee on Veterans’ Affairs of the Senate, and the Committee on Veterans’ Affairs of the House of Representatives, and make publicly available, a report on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1172_f"><akn:num>(f)</akn:num><akn:heading>Responses by Secretary.—</akn:heading><akn:content><akn:p>(f) In response to each report submitted under subsection (e), the Secretary shall, not later than 30 days after receiving the report, initiate a formal evaluation pursuant to section 1173 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

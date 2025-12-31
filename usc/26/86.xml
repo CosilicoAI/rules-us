@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/86" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/86/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/86/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_86"><akn:num>86</akn:num><akn:heading>Social security and tier 1 railroad retirement benefits</akn:heading><akn:content><akn:p>§ 86. Social security and tier 1 railroad retirement benefits(a) In general(1) In generalExcept as provided in paragraph (2), gross income for the taxable year of any taxpayer described in subsection (b) (notwithstanding section 207 of the Social Security Act) includes social security benefits in an amount equal to the lesser of—(A) one-half of the social security benefits received during the taxable year, or
+
+(B) one-half of the excess described in subsection (b)(1).
+
+
+(2) Additional amountIn the case of a taxpayer with respect to whom the amount determined under subsection (b)(1)(A) exceeds the adjusted base amount, the amount included in gross income under this section shall be equal to the lesser of—(A) the sum of—(i) 85 percent of such excess, plus
+
+(ii) the lesser of the amount determined under paragraph (1) or an amount equal to one-half of the difference between the adjusted base amount and the base amount of the taxpayer, or
+
+
+(B) 85 percent of the social security benefits received during the taxable year.
+
+
+
+(b) Taxpayers to whom subsection (a) applies(1) In generalA taxpayer is described in this subsection if—(A) the sum of—(i) the modified adjusted gross income of the taxpayer for the taxable year, plus
+
+(ii) one-half of the social security benefits received during the taxable year, exceeds
+
+
+(B) the base amount.
+
+
+(2) Modified adjusted gross incomeFor purposes of this subsection, the term “modified adjusted gross income” means adjusted gross income—(A) determined without regard to this section and sections 85(c), 135, 137, 221, 911, 931, and 933, and
+
+(B) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is exempt from tax.
+
+
+
+(c) Base amount and adjusted base amountFor purposes of this section—(1) Base amountThe term “base amount” means—(A) except as otherwise provided in this paragraph, $25,000,
+
+(B) $32,000 in the case of a joint return, and
+
+(C) zero in the case of a taxpayer who—(i) is married as </akn:p></akn:content><akn:subsection eId="subsec_86_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_86_b"><akn:num>(b)</akn:num><akn:heading>Taxpayers to whom subsection (a) applies</akn:heading><akn:content><akn:p>(b) Taxpayers to whom subsection (a) applies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_86_c"><akn:num>(c)</akn:num><akn:heading>Base amount and adjusted base amount</akn:heading><akn:content><akn:p>(c) Base amount and adjusted base amount For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_86_d"><akn:num>(d)</akn:num><akn:heading>Social security benefit</akn:heading><akn:content><akn:p>(d) Social security benefit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_86_e"><akn:num>(e)</akn:num><akn:heading>Limitation on amount included where taxpayer receives lump-sum payment</akn:heading><akn:content><akn:p>(e) Limitation on amount included where taxpayer receives lump-sum payment then the amount included in gross income under this section for the taxable year by reason of the receipt of such portion shall not exceed the sum of the increases in gross income under this chapter for prior taxable years which would result solely from taking into account such portion in the taxable years to which it is attributable.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_86_f"><akn:num>(f)</akn:num><akn:heading>Treatment as pension or annuity for certain purposes</akn:heading><akn:content><akn:p>(f) Treatment as pension or annuity for certain purposes For purposes of— any social security benefit shall be treated as an amount received as a pension or annuity.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

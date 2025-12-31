@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1862o–7" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1862o–7/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1862o–7/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1862o_7"><akn:num>1862o–7</akn:num><akn:heading>Cyberinfrastructure</akn:heading><akn:content><akn:p>§ 1862o–7. Cyberinfrastructure
+In order to continue and expand efforts to ensure that research institutions throughout the Nation can fully participate in research programs of the Foundation and collaborate with colleagues throughout the Nation, the Director, not later than 180 days after August 9, 2007, shall develop and publish a plan that—(1) describes the current status of broadband access for scientific research purposes at institutions in EPSCoR-eligible States, at institutions in rural areas, and at minority serving institutions; and
+
+(2) outlines actions that can be taken to ensure that such connections are available to enable participation in those Foundation programs that rely heavily on high-speed networking and collaborations across institutions and regions.
+
+(Pub. L. 110–69, title VII, § 7020, Aug. 9, 2007, 121 Stat. 685.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions
+For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862o of this title.</akn:p></akn:content><akn:subsection eId="subsec_1862o_7_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) describes the current status of broadband access for scientific research purposes at institutions in EPSCoR-eligible States, at institutions in rural areas, and at minority serving institutions; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1862o_7_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) outlines actions that can be taken to ensure that such connections are available to enable participation in those Foundation programs that rely heavily on high-speed networking and collaborations across institutions and regions.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

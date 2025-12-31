@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/123...126" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/123...126/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/123...126/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_123___126"><akn:num>123...126</akn:num><akn:heading>Repealed. Pub. L. 103–325, title VI, § 602(e)(12), (13), (f)(4)(C), (6), Sept. 23, 1994, 108 Stat. 2</akn:heading><akn:content><akn:p>§§ 123 to 126. Repealed. Pub. L. 103–325, title VI, § 602(e)(12), (13), (f)(4)(C), (6), Sept. 23, 1994, 108 Stat. 2292, 2293
+
+Section 123, R.S. § 5195; June 20, 1874, ch. 343, § 3, 18 Stat. 123, related to redemption of notes by bank at own counter.
+
+
+Section 124, R.S. § 5184; June 23, 1874, ch. 455, § 1, 18 Stat. 206, related to destroying and replacing notes unfit for use.
+
+
+Section 125, act July 28, 1892, ch. 317, 27 Stat. 322, related to redemption of lost or stolen notes.
+
+
+Section 126, act June 20, 1874, ch. 343, § 8, 18 Stat. 125, related to duty of Treasurer, designated depositaries, and national-bank depositaries of United States to return notes of failed or liquidated banks to Treasury for redemption.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

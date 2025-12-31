@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/50113" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/50113/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/50113/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_50113"><akn:num>50113</akn:num><akn:heading>Acquisition of space science data</akn:heading><akn:content><akn:p>§ 50113. Acquisition of space science data(a) Definition of Space Science Data.—In this section, the term “space science data” includes scientific data concerning—(1) the elemental and mineralogical resources of the moon, asteroids, planets and their moons, and comets;
+
+(2) microgravity acceleration; and
+
+(3) solar storm monitoring.
+
+
+(b) Acquisition From Commercial Providers.—The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost effective, space science data from a commercial provider.
+
+(c) Treatment of Space Science Data as Commercial Product or Commercial Service Under Acquisition Laws.—Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including applicable provisions of chapters 201 through 285, 341 through 343, and 363 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+
+(d) Safety Standards.—Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+
+(e) Limitation.—This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3397; Pub. L. 115–232, div. A, title VIII, § 836(g)(10)(A), Aug. 13, 2018, 132 Stat. 1874; Pub. L. 117–81, div. A, title XVII, § 1702(l)(10), Dec. 27, 2021, 135 Stat. 2161.)
+
+
+
+
+
+
+
+
+
+
+
+Hist</akn:p></akn:content><akn:subsection eId="subsec_50113_a"><akn:num>(a)</akn:num><akn:heading>Definition of Space Science Data.—</akn:heading><akn:content><akn:p>(a) In this section, the term “space science data” includes scientific data concerning—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50113_b"><akn:num>(b)</akn:num><akn:heading>Acquisition From Commercial Providers.—</akn:heading><akn:content><akn:p>(b) The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost effective, space science data from a commercial provider.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50113_c"><akn:num>(c)</akn:num><akn:heading>Treatment of Space Science Data as Commercial Product or Commercial Service Under Acquisition Laws.—</akn:heading><akn:content><akn:p>(c) Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including applicable provisions of chapters 201 through 285, 341 through 343, and 363 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50113_d"><akn:num>(d)</akn:num><akn:heading>Safety Standards.—</akn:heading><akn:content><akn:p>(d) Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_50113_e"><akn:num>(e)</akn:num><akn:heading>Limitation.—</akn:heading><akn:content><akn:p>(e) This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

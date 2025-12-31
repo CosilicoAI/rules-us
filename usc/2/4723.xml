@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/4723" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/4723/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/4723/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4723"><akn:num>4723</akn:num><akn:heading>Annual report by Select Committee on Ethics</akn:heading><akn:content><akn:p>§ 4723. Annual report by Select Committee on Ethics
+The Select Committee on Ethics of the Senate shall issue an annual report due no later than January 31, describing the following:(1) The number of alleged violations of Senate rules received from any source, including the number raised by a Senator or staff of the committee.
+
+(2) A list of the number of alleged violations that were dismissed—(A) for lack of subject matter jurisdiction or, in which, even if the allegations in the complaint are true, no violation of Senate rules would exist; or
+
+(B) because they failed to provide sufficient facts as to any material violation of the Senate rules beyond mere allegation or assertion.
+
+
+(3) The number of alleged violations in which the committee staff conducted a preliminary inquiry.
+
+(4) The number of alleged violations that resulted in an adjudicatory review.
+
+(5) The number of alleged violations that the committee dismissed for lack of substantial merit.
+
+(6) The number of private letters of admonition or public letters of admonition issued.
+
+(7) The number of matters resulting in a disciplinary sanction.
+
+(8) Any other information deemed by the committee to be appropriate to describe its activities in the preceding year.
+
+(Pub. L. 110–81, title V, § 554, Sept. 14, 2007, 121 Stat. 773.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 72a–1i of this title prior to editorial reclassification and renumbering as this section.</akn:p></akn:content><akn:subsection eId="subsec_4723_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The number of alleged violations of Senate rules received from any source, including the number raised by a Senator or staff of the committee.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4723_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) A list of the number of alleged violations that were dismissed—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4723_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The number of alleged violations in which the committee staff conducted a preliminary inquiry.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4723_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The number of alleged violations that resulted in an adjudicatory review.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4723_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The number of alleged violations that the committee dismissed for lack of substantial merit.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4723_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The number of private letters of admonition or public letters of admonition issued.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4723_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) The number of matters resulting in a disciplinary sanction.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4723_8"><akn:num>(8)</akn:num><akn:content><akn:p>(8) Any other information deemed by the committee to be appropriate to describe its activities in the preceding year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

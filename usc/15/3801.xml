@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/3801" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/3801/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/3801/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3801"><akn:num>3801</akn:num><akn:heading>Congressional statement of findings and declaration of policy</akn:heading><akn:content><akn:p>§ 3801. Congressional statement of findings and declaration of policy(a) The Congress finds and declares that—(1) gasoline and diesel fuel for vehicular use are in short supply and constitute a sizable portion of domestic petroleum consumption;
+
+(2) methane use in fleet-operated vehicles would result in substantial reduction in oil imports;
+
+(3) methane is in more abundant domestic supply than petroleum products, is the primary component of natural gas and can be derived in increased quantities from coal, biomass, waste products, and other renewable resources;
+
+(4) recoverable methane presently available in the United States is not fully utilized;
+
+(5) test results to date indicate that methane use as a substitute for gasoline as a motor fuel can result in emission reductions;
+
+(6) experience to date has shown methane to be a safe motor fuel in properly modified vehicles and is therefore particularly suitable as fuel for fleet vehicles; and
+
+(7) the introduction into commerce of methane-fueled vehicles would be expedited and facilitated by the establishment of a Federal program of research, development, and demonstration to explore and refine technologies related to methane use as a vehicular fuel.
+
+
+(b) It is therefore declared to be the policy of the Congress in this chapter to—(1) provide for and support advanced and accelerated research into, and development of, methane vehicle design, and related technologies;
+
+(2) demonstrate the economic and technological practicalities of methane-fueled vehicles for fleet use and of methane-fueled farm equipment;
+
+(3) facilitate, and remove barriers to, the use of methane-fueled vehicles in lieu of gasoline- or diesel-powered motor vehicles where practicable;
+
+(4) promote the substitution of methane-fueled vehicles for gasoline- and diesel-powered vehicles currently used on farms and in fleet operations, particularly in areas where such substitution would facilitate plans to meet air quality standards set under the Clean Air</akn:p></akn:content><akn:subsection eId="subsec_3801_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress finds and declares that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) It is therefore declared to be the policy of the Congress in this chapter to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

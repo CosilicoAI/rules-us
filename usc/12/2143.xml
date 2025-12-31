@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/2143" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/2143/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/2143/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2143"><akn:num>2143</akn:num><akn:heading>Credit delivery office</akn:heading><akn:content><akn:p>§ 2143. Credit delivery office
+On a determination by the board of directors of the consolidated bank that the bank’s loan portfolio is concentrated in any one district or districts (according to the district boundaries in effect immediately prior to the effective date of the establishment of the bank under section 413 of the Agricultural Credit Act of 1987), the bank may consider the creation of regional service centers to accommodate such loan concentrations.
+(Pub. L. 92–181, title III, § 3.22, as added Pub. L. 100–233, title IV, § 415(2), Jan. 6, 1988, 101 Stat. 1643; amended Pub. L. 100–399, title IV, § 407(e), Aug. 17, 1988, 102 Stat. 1000.)
+
+Editorial Notes
+
+References in TextSection 413 of the Agricultural Credit Act of 1987, referred to in text, is section 413 of Pub. L. 100–233, which is set out as a note under section 2121 of this title.
+
+Amendments1988—Pub. L. 100–399 substituted “consolidated bank” for “United Bank for Cooperatives or the National Bank for Cooperatives” and “establishment of the bank under section 413 of the Agricultural Credit Act of 1987” for “merger”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

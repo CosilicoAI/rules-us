@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/153103" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/153103/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/153103/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_153103"><akn:num>153103</akn:num><akn:heading>Powers</akn:heading><akn:content><akn:p>§ 153103. Powers
+The corporation may—(1) adopt a constitution and bylaws;
+
+(2) adopt a seal; and
+
+(3) acquire, own, lease, encumber, and transfer property as necessary or convenient to carry out its purposes.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1423.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+15310336:18a (1st sentence).Feb. 20, 1896, ch. 23, § 2 (1st sentence), 29 Stat. 9; Mar. 3, 1915, ch. 89, 38 Stat. 955; Feb. 5, 1926, ch. 11, 44 Stat. 4; July 30, 1951, ch. 255, 65 Stat. 130; Oct. 1, 1976, Pub. L. 94–443, § 1, 90 Stat. 1475.
+
+
+In clause (1), the words “not inconsistent with law” are omitted as unnecessary.
+Clause (3) is substituted for “acquire by purchase, gift, devise, or bequest and to hold, convey, or otherwise dispose of such property, real or personal, as may be convenient or necessary for its lawful purposes” for consistency in the revised title and to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_153103_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) adopt a constitution and bylaws;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_153103_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) adopt a seal; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_153103_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) acquire, own, lease, encumber, and transfer property as necessary or convenient to carry out its purposes.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

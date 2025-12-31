@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3343" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3343/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3343/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3343"><akn:num>3343</akn:num><akn:heading>Security clearances; limitations</akn:heading><akn:content><akn:p>§ 3343. Security clearances; limitations(a) DefinitionsIn this section:(1) Controlled substanceThe term “controlled substance” has the meaning given that term in section 802 of title 21.
+
+
+(2) Covered personThe term “covered person” means—(A) an officer or employee of a Federal agency;
+
+(B) a member of the Army, Navy, Air Force, or Marine Corps who is on active duty or is in an active status; and
+
+(C) an officer or employee of a contractor of a Federal agency.
+
+
+(3) Restricted DataThe term “Restricted Data” has the meaning given that term in section 2014 of title 42.
+
+
+(4) Special access programThe term “special access program” has the meaning given that term in section 4.1 of Executive Order No. 12958 (60 Fed. Reg. 19825).
+
+
+
+(b) ProhibitionAfter January 1, 2008, the head of a Federal agency may not grant or renew a security clearance for a covered person who is an unlawful user of a controlled substance or an addict (as defined in section 802(1) of title 21).
+
+
+(c) Disqualification(1) In generalAfter January 1, 2008, absent an express written waiver granted in accordance with paragraph (2), the head of a Federal agency may not grant or renew a security clearance described in paragraph (3) for a covered person who—(A) has been convicted in any court of the United States of a crime, was sentenced to imprisonment for a term exceeding 1 year, and was incarcerated as a result of that sentence for not less than 1 year;
+
+(B) has been discharged or dismissed from the Armed Forces under dishonorable conditions; or
+
+(C) is mentally incompetent, as determined by an adjudicating authority, based on an evaluation by a duly qualified mental health professional employed by, or acceptable to and approved by, the United States Government and in accordance with the adjudicative guidelines required by subsection (d).
+
+
+(2) Waiver authorityIn a meritorious case, an exception to the disqualification in this subsection may be authorized if there are mitigating factors. Any such waiver </akn:p></akn:content><akn:subsection eId="subsec_3343_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3343_b"><akn:num>(b)</akn:num><akn:heading>Prohibition</akn:heading><akn:content><akn:p>(b) Prohibition After January 1, 2008, the head of a Federal agency may not grant or renew a security clearance for a covered person who is an unlawful user of a controlled substance or an addict (as defined in section 802(1) of title 21).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3343_c"><akn:num>(c)</akn:num><akn:heading>Disqualification</akn:heading><akn:content><akn:p>(c) Disqualification</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3343_d"><akn:num>(d)</akn:num><akn:heading>Adjudicative guidelines</akn:heading><akn:content><akn:p>(d) Adjudicative guidelines</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

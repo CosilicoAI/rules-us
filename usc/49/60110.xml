@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/60110" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/60110/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/60110/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_60110"><akn:num>60110</akn:num><akn:heading>Excess flow valves</akn:heading><akn:content><akn:p>§ 60110. Excess flow valves(a) Application.—This section applies only to—(1) a natural gas distribution system installed after the effective date of regulations prescribed under this section; and
+
+(2) any other natural gas distribution system when repair to the system requires replacing a part to accommodate installing excess flow valves.
+
+
+(b) Installation Requirements and Considerations.—Not later than April 24, 1994, the Secretary of Transportation shall prescribe standards on the circumstances, if any, under which an operator of a natural gas distribution system must install excess flow valves in the system. The Secretary shall consider—(1) the system design pressure;
+
+(2) the system operating pressure;
+
+(3) the types of customers to which the distribution system supplies gas, including hospitals, schools, and commercial enterprises;
+
+(4) the technical feasibility and cost of installing, operating, and maintaining the valve;
+
+(5) the public safety benefits of installing the valve;
+
+(6) the location of customer meters; and
+
+(7) other factors the Secretary considers relevant.
+
+
+(c) Notification of Availability.—(1) Not later than October 24, 1994, the Secretary shall prescribe standards requiring an operator of a natural gas distribution system to notify in writing its customers having lines in which excess flow valves are not required by law but can be installed according to the standards prescribed under subsection (e) of this section, of—(A) the availability of excess flow valves for installation in the system;
+
+(B) safety benefits to be derived from installation; and
+
+(C) costs associated with installation, maintenance, and replacement.
+
+
+(2) The standards shall provide that, except when installation is required under subsection (b) of this section, excess flow valves shall be installed at the request of the customer if the customer will pay all costs associated with installation.
+
+
+(d) Report.—If the Secretary decides under subsection (b) of this section that</akn:p></akn:content><akn:subsection eId="subsec_60110_a"><akn:num>(a)</akn:num><akn:heading>Application.—</akn:heading><akn:content><akn:p>(a) This section applies only to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60110_b"><akn:num>(b)</akn:num><akn:heading>Installation Requirements and Considerations.—</akn:heading><akn:content><akn:p>(b) Not later than April 24, 1994, the Secretary of Transportation shall prescribe standards on the circumstances, if any, under which an operator of a natural gas distribution system must install excess flow valves in the system. The Secretary shall consider—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60110_c"><akn:num>(c)</akn:num><akn:heading>Notification of Availability.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60110_d"><akn:num>(d)</akn:num><akn:heading>Report.—</akn:heading><akn:content><akn:p>(d) If the Secretary decides under subsection (b) of this section that there are no circumstances under which an operator must install excess flow valves, the Secretary shall submit to Congress a report on the reasons for the decision not later than 30 days after the decision is made.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_60110_e"><akn:num>(e)</akn:num><akn:heading>Performance Standards.—</akn:heading><akn:content><akn:p>(e) Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

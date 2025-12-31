@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/21/364" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/21/364/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/21/364/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_364"><akn:num>364</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 364. Definitions
+In this subchapter:(1) Adverse eventThe term “adverse event” means any health-related event associated with the use of a cosmetic product that is adverse.
+
+
+(2) Cosmetic productThe term “cosmetic product” means a preparation of cosmetic ingredients with a qualitatively and quantitatively set composition for use in a finished product.
+
+
+(3) Facility(A) In general.—The term “facility” includes any establishment (including an establishment of an importer) that manufactures or processes cosmetic products distributed in the United States.
+
+(B) Such term does not include any of the following:(i) Beauty shops and salons, unless such establishment manufactures or processes cosmetic products at that location.
+
+(ii) Cosmetic product retailers, including individual sales representatives, direct sellers (as defined in section 3508(b)(2) of title 26), retail distribution facilities, and pharmacies, unless such establishment manufactures or processes cosmetic products that are not sold directly to consumers at that location.
+
+(iii) Hospitals, physicians’ offices, and health care clinics.
+
+(iv) Public health agencies and other nonprofit entities that provide cosmetic products directly to the consumer.
+
+(v) Entities (such as hotels and airlines) that provide complimentary cosmetic products to customers incidental to other services.
+
+(vi) Trade shows and other venues where cosmetic product samples are provided free of charge.
+
+(vii) An establishment that manufactures or processes cosmetic products that are solely for use in research or evaluation, including for production testing and not offered for retail sale.
+
+(viii) An establishment that solely performs one or more of the following with respect to cosmetic products:(I) Labeling.
+
+(II) Relabeling.
+
+(III) Packaging.
+
+(IV) Repackaging.
+
+(V) Holding.
+
+(VI) Distributing.
+
+
+
+(C) Clarification.—For the purposes of subparagraph (B)(viii), the terms “packaging” and “repackaging” do not include filling a product contain</akn:p></akn:content><akn:subsection eId="subsec_364_1"><akn:num>(1)</akn:num><akn:heading>Adverse event</akn:heading><akn:content><akn:p>(1) Adverse event The term “adverse event” means any health-related event associated with the use of a cosmetic product that is adverse.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_364_2"><akn:num>(2)</akn:num><akn:heading>Cosmetic product</akn:heading><akn:content><akn:p>(2) Cosmetic product The term “cosmetic product” means a preparation of cosmetic ingredients with a qualitatively and quantitatively set composition for use in a finished product.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_364_3"><akn:num>(3)</akn:num><akn:heading>Facility</akn:heading><akn:content><akn:p>(3) Facility</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_364_4"><akn:num>(4)</akn:num><akn:heading>Responsible person</akn:heading><akn:content><akn:p>(4) Responsible person The term “responsible person” means the manufacturer, packer, or distributor of a cosmetic product whose name appears on the label of such cosmetic product in accordance with section 364e(a) of this title or section 1453(a) of title 15.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_364_5"><akn:num>(5)</akn:num><akn:heading>Serious adverse event</akn:heading><akn:content><akn:p>(5) Serious adverse event The term “serious adverse event” means an adverse event that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16232" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16232/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16232/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16232"><akn:num>16232</akn:num><akn:heading>Bioenergy program</akn:heading><akn:content><akn:p>§ 16232. Bioenergy program(a) DefinitionsIn this section:(1) BiomassThe term “biomass” means—(A) any organic material grown for the purpose of being converted to energy;
+
+(B) any organic byproduct of agriculture (including wastes from food production and processing) that can be converted into energy; or
+
+(C) any waste material that can be converted to energy, is segregated from other waste materials, and is derived from—(i) any of the following forest-related resources: mill residues, precommercial thinnings, slash, brush, or otherwise nonmerchantable material; or
+
+(ii) wood waste materials, including waste pallets, crates, dunnage, manufacturing and construction wood wastes (other than pressure-treated, chemically-treated, or painted wood wastes), and landscape or right-of-way tree trimmings, but not including municipal solid waste, gas derived from the biodegradation of municipal solid waste, or paper that is commonly recycled.
+
+
+
+(2) Lignocellulosic feedstockThe term “lignocellulosic feedstock” means any portion of a plant or coproduct from conversion, including crops, trees, forest residues, and agricultural residues not specifically grown for food, including from barley grain, grapeseed, rice bran, rice hulls, rice straw, soybean matter, and sugarcane bagasse.
+
+
+
+(b) ProgramThe Secretary shall conduct a program of research, development, demonstration, and commercial application for bioenergy, including—(1) biopower energy systems;
+
+(2) biofuels;
+
+(3) bioproducts;
+
+(4) integrated biorefineries that may produce biopower, biofuels, and bioproducts;
+
+(5) cross-cutting research and development in feedstocks; and
+
+(6) economic analysis.
+
+
+(c) Biofuels and bioproductsThe goals of the biofuels and bioproducts programs shall be to develop, in partnership with industry and institutions of higher education—(1) advanced biochemical and thermochemical conversion technologies capable of making fuels from lignocellulosic feedstocks that are price-competitive with gasoline or </akn:p></akn:content><akn:subsection eId="subsec_16232_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16232_b"><akn:num>(b)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(b) Program The Secretary shall conduct a program of research, development, demonstration, and commercial application for bioenergy, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16232_c"><akn:num>(c)</akn:num><akn:heading>Biofuels and bioproducts</akn:heading><akn:content><akn:p>(c) Biofuels and bioproducts The goals of the biofuels and bioproducts programs shall be to develop, in partnership with industry and institutions of higher education—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16232_d"><akn:num>(d)</akn:num><akn:heading>Integrated biorefinery demonstration projects</akn:heading><akn:content><akn:p>(d) Integrated biorefinery demonstration projects</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16232_e"><akn:num>(e)</akn:num><akn:heading>University biodiesel program</akn:heading><akn:content><akn:p>(e) University biodiesel program The Secretary shall establish a demonstration program to determine the feasibility of the operation of diesel electric power generators, using biodiesel fuels with ratings as high as B100, at electric generation facilities owned by institutions of higher education. The program shall examine—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16232_g"><akn:num>(g)</akn:num><akn:heading>11 So in original. No subsec. (f) has been enacted. Biorefinery energy efficiency</akn:heading><akn:content><akn:p>(g) The Secretary shall establish a program of research, development, demonstration, and commercial application for increasing energy efficiency and reducing energy consumption in the operation of biorefinery facilities.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16232_h"><akn:num>(h)</akn:num><akn:heading>Retrofit technologies for the development of ethanol from cellulosic materials</akn:heading><akn:content><akn:p>(h) Retrofit technologies for the development of ethanol from cellulosic materials The Secretary shall establish a program of research, development, demonstration, and commercial application on technologies and processes to enable biorefineries that exclusively use corn grain or corn starch as a feedstock to produce ethanol to be retrofitted to accept a range of biomass, including lignocellulosic feedstocks.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

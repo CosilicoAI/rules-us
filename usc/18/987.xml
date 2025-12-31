@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/987" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/987/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/987/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_987"><akn:num>987</akn:num><akn:heading>Anti-terrorist forfeiture protection</akn:heading><akn:content><akn:p>§ 987. Anti-terrorist forfeiture protection(a) Right to Contest.—An owner of property that is confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists, may contest that confiscation by filing a claim in the manner set forth in the Federal Rules of Civil Procedure (Supplemental Rules for Certain Admiralty and Maritime Claims), and asserting as an affirmative defense that—(1) the property is not subject to confiscation under such provision of law; or
+
+(2) the innocent owner provisions of section 983(d) of title 18, United States Code, apply to the case.
+
+
+(b) Evidence.—In considering a claim filed under this section, a court may admit evidence that is otherwise inadmissible under the Federal Rules of Evidence, if the court determines that the evidence is reliable, and that compliance with the Federal Rules of Evidence may jeopardize the national security interests of the United States.
+
+(c) Clarifications.—(1) Protection of rights.—The exclusion of certain provisions of Federal law from the definition of the term “civil forfeiture statute” in section 983(i) of title 18, United States Code, shall not be construed to deny an owner of property the right to contest the confiscation of assets of suspected international terrorists under—(A) subsection (a) of this section;
+
+(B) the Constitution; or
+
+(C) subchapter II of chapter 5 of title 5, United States Code (commonly known as the “Administrative Procedure Act”).
+
+
+(2) Savings clause.—Nothing in this section shall limit or otherwise affect any other remedies that may be available to an owner of property under section 983 of title 18, United States Code, or any other provision of law.
+
+
+(Added Pub. L. 109–177, title IV, § 406(b)(1)(B), Mar. 9, 2006, 120 Stat. 244.)
+
+Editorial Notes
+
+References in TextThe Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure. The Supplemental Rules for </akn:p></akn:content><akn:subsection eId="subsec_987_a"><akn:num>(a)</akn:num><akn:heading>Right to Contest.—</akn:heading><akn:content><akn:p>(a) An owner of property that is confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists, may contest that confiscation by filing a claim in the manner set forth in the Federal Rules of Civil Procedure (Supplemental Rules for Certain Admiralty and Maritime Claims), and asserting as an affirmative defense that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_987_b"><akn:num>(b)</akn:num><akn:heading>Evidence.—</akn:heading><akn:content><akn:p>(b) In considering a claim filed under this section, a court may admit evidence that is otherwise inadmissible under the Federal Rules of Evidence, if the court determines that the evidence is reliable, and that compliance with the Federal Rules of Evidence may jeopardize the national security interests of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_987_c"><akn:num>(c)</akn:num><akn:heading>Clarifications.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

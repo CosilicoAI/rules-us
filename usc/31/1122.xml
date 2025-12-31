@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/1122" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/1122/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/1122/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1122"><akn:num>1122</akn:num><akn:heading>Transparency of programs, priority goals, and results</akn:heading><akn:content><akn:p>§ 1122. Transparency of programs, priority goals, and results(a) Transparency of Agency Programs.—(1) Definitions.—For purposes of this subsection—(A) the term “Federal financial assistance” has the meaning given that term under section 7501;
+
+(B) the term “open Government data asset” has the meaning given that term under section 3502 of title 44;
+
+(C) the term “program” means a single program activity or an organized set of aggregated, disaggregated, or consolidated program activities by one or more agencies directed toward a common purpose or goal; and
+
+(D) the term “program activity” has the meaning given that term in section 1115(h).
+
+
+(2) Website and program inventory.—The Director of the Office of Management and Budget shall—(A) ensure the effective operation of a single website that includes the information required under subsections (b) and (c);
+
+(B) include on the website described in subparagraph (A), or another appropriate Federal Government website where related information is made available, as determined by the Director—(i) a program inventory that shall identify each program; and
+
+(ii) for each program identified in the program inventory, the information required under paragraph (3);
+
+
+(C) make the information required to be included on the single website under subparagraph (A) and the information in the program inventory required under subparagraph (B) available as an open Government data asset;
+
+(D) at a minimum—(i) update the information required to be included on the single website under subparagraph (A) on a quarterly basis; and
+
+(ii) update the program inventory required under subparagraph (B) on an annual basis; and
+
+
+(E) ensure that the website described in subparagraph (A) conforms with the requirements for websites under section 3(a) of the 21st Century Integrated Digital Experience Act (44 U.S.C. 3501 note).
+
+
+(3) Information.—Information for each program identified in the program inventory required under paragraph (2)(B) shall include—(A) </akn:p></akn:content><akn:subsection eId="subsec_1122_a"><akn:num>(a)</akn:num><akn:heading>Transparency of Agency Programs.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1122_b"><akn:num>(b)</akn:num><akn:heading>Transparency of Agency Priority Goals and Results.—</akn:heading><akn:content><akn:p>(b) The head of each agency required to develop agency priority goals shall make information about each agency priority goal available to the Office of Management and Budget for publication on the website described in subsection (a)(2)(A), with the exception of any information covered by section 1120(b)(2) of this title. In addition to an identification of each agency priority goal, the website described in subsection (a)(2)(A) shall also consolidate information about each agency priority goal, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1122_c"><akn:num>(c)</akn:num><akn:heading>Transparency of Federal Government Priority Goals and Results.—</akn:heading><akn:content><akn:p>(c) The Director of the Office of Management and Budget shall also make available on the website described in subsection (a)(2)(A)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1122_d"><akn:num>(d)</akn:num><akn:heading>Information.—</akn:heading><akn:content><akn:p>(d) The information made available under this section shall be readily accessible and easily found on the Internet by the public and members and committees of Congress. Such information shall also be presented in a searchable, machine-readable format. The Director of the Office of Management and Budget shall issue guidance to ensure that such information is provided in a way that presents a coherent picture of all Federal programs, and the performance of the Federal Government as well as individual agencies.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

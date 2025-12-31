@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101912" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101912/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101912/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101912"><akn:num>101912</akn:num><akn:heading>Findings and declaration of policy</akn:heading><akn:content><akn:p>§ 101912. Findings and declaration of policy(a) Findings.—In furtherance of section 100101(a), Congress finds that the preservation and conservation of System unit resources and values requires that public accommodations, facilities, and services that have to be provided within those System units should be provided only under carefully controlled safeguards against unregulated and indiscriminate use, so that—(1) visitation will not unduly impair those resources and values; and
+
+(2) development of public accommodations, facilities, and services within System units can best be limited to locations that are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the System units.
+
+
+(b) Declaration of Policy.—It is the policy of Congress that the development of public accommodations, facilities, and services in System units shall be limited to accommodations, facilities, and services that—(1) are necessary and appropriate for public use and enjoyment of the System unit in which they are located; and
+
+(2) are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the System unit.
+
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3138.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10191216 U.S.C. 5951.Pub. L. 105–391, title IV, § 402, Nov. 13, 1998, 112 Stat. 3503.
+
+
+In subsection (a), the words “section 100101(a)” are substituted for “sections 1, 2, 3, and 4 of this title, which directs the Secretary to administer units of the National Park System in accordance with the fundamental purpose of conserving their scenery, wildlife, and natural and historic objects, and providing for their enjoyment in a manner that will leave them unimpaired for the enjoyment of future generations” to give a more precise cross reference because section 100101(a) of the new title is where that direction to the Secreta</akn:p></akn:content><akn:subsection eId="subsec_101912_a"><akn:num>(a)</akn:num><akn:heading>Findings.—</akn:heading><akn:content><akn:p>(a) In furtherance of section 100101(a), Congress finds that the preservation and conservation of System unit resources and values requires that public accommodations, facilities, and services that have to be provided within those System units should be provided only under carefully controlled safeguards against unregulated and indiscriminate use, so that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101912_b"><akn:num>(b)</akn:num><akn:heading>Declaration of Policy.—</akn:heading><akn:content><akn:p>(b) It is the policy of Congress that the development of public accommodations, facilities, and services in System units shall be limited to accommodations, facilities, and services that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

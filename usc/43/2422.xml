@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/2422" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/2422/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/2422/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2422"><akn:num>2422</akn:num><akn:heading>Project eligibility</akn:heading><akn:content><akn:p>§ 2422. Project eligibility(a) Eligibility criteria(1) In generalThe Secretary shall develop and publish in the Federal Register criteria for determining the eligibility of a project for financial assistance under section 2423 of this title.
+
+
+(2) InclusionsEligibility criteria shall include—(A) submission of an application by the lender to the Secretary;
+
+(B) demonstration of the creditworthiness of the project, including a determination by the Secretary that any financing for the project has appropriate security features to ensure repayment;
+
+(C) demonstration by the non-Federal borrower, to the satisfaction of the Secretary, of the ability of the non-Federal borrower to repay the project financing from user fees or other dedicated revenue sources;
+
+(D) demonstration by the non-Federal borrower, to the satisfaction of the Secretary, of the ability of the non-Federal borrower to pay all operations, maintenance, and replacement costs of the project facilities; and
+
+(E) such other criteria as the Secretary determines to be appropriate.
+
+
+
+(b) WaiverThe Secretary may waive any of the criteria in subsection (a)(2) that the Secretary determines to be duplicative or rendered unnecessary because of an action already taken by the United States.
+
+
+(c) Projects previously authorizedA project that was authorized for construction under Federal reclamation laws prior to December 22, 2006, shall be eligible for assistance under this subchapter, subject to the criteria established by the Secretary under subsection (a).
+
+
+(d) Criteria for rural water supply projectsA rural water supply project that is determined to be feasible under section 2405 of this title is eligible for a loan guarantee under section 2423 of this title.
+
+
+(Pub. L. 109–451, title II, § 203, Dec. 22, 2006, 120 Stat. 3357.)</akn:p></akn:content><akn:subsection eId="subsec_2422_a"><akn:num>(a)</akn:num><akn:heading>Eligibility criteria</akn:heading><akn:content><akn:p>(a) Eligibility criteria</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2422_b"><akn:num>(b)</akn:num><akn:heading>Waiver</akn:heading><akn:content><akn:p>(b) Waiver The Secretary may waive any of the criteria in subsection (a)(2) that the Secretary determines to be duplicative or rendered unnecessary because of an action already taken by the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2422_c"><akn:num>(c)</akn:num><akn:heading>Projects previously authorized</akn:heading><akn:content><akn:p>(c) Projects previously authorized A project that was authorized for construction under Federal reclamation laws prior to December 22, 2006, shall be eligible for assistance under this subchapter, subject to the criteria established by the Secretary under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2422_d"><akn:num>(d)</akn:num><akn:heading>Criteria for rural water supply projects</akn:heading><akn:content><akn:p>(d) Criteria for rural water supply projects A rural water supply project that is determined to be feasible under section 2405 of this title is eligible for a loan guarantee under section 2423 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

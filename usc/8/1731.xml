@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/8/1731" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/8/1731/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/8/1731/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1731"><akn:num>1731</akn:num><akn:heading>Implementation of an integrated entry and exit data system</akn:heading><akn:content><akn:p>§ 1731. Implementation of an integrated entry and exit data system(a) Development of systemIn developing the integrated entry and exit data system for the ports of entry, as required by the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215), the Attorney General and the Secretary of State shall—(1) implement, fund, and use a technology standard under section 1379 of this title at United States ports of entry and at consular posts abroad;
+
+(2) establish a database containing the arrival and departure data from machine-readable visas, passports, and other travel and entry documents possessed by aliens; and
+
+(3) make interoperable all security databases relevant to making determinations of admissibility under section 1182 of this title.
+
+
+(b) ImplementationIn implementing the provisions of subsection (a), the Immigration and Naturalization Service and the Department of State shall—(1) utilize technologies that facilitate the lawful and efficient cross-border movement of commerce and persons without compromising the safety and security of the United States; and
+
+(2) consider implementing the North American National Security Program described in section 1751 of this title.
+
+
+(Pub. L. 107–173, title III, § 302, May 14, 2002, 116 Stat. 552.)
+
+Editorial Notes
+
+References in TextThe Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to in subsec. (a), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, which amended section 1365a of this title and enacted provisions set out as notes under sections 1101 and 1365a of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Abolition of Immigration and Naturalization Service and Transfer of Functions
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related </akn:p></akn:content><akn:subsection eId="subsec_1731_a"><akn:num>(a)</akn:num><akn:heading>Development of system</akn:heading><akn:content><akn:p>(a) Development of system In developing the integrated entry and exit data system for the ports of entry, as required by the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215), the Attorney General and the Secretary of State shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1731_b"><akn:num>(b)</akn:num><akn:heading>Implementation</akn:heading><akn:content><akn:p>(b) Implementation In implementing the provisions of subsection (a), the Immigration and Naturalization Service and the Department of State shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/78m–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/78m–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/78m–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_78m_1"><akn:num>78m–1</akn:num><akn:heading>Reporting and recordkeeping for certain security-based swaps</akn:heading><akn:content><akn:p>§ 78m–1. Reporting and recordkeeping for certain security-based swaps(a) Required reporting of security-based swaps not accepted by any clearing agency or derivatives clearing organization(1) In generalEach security-based swap that is not accepted for clearing by any clearing agency or derivatives clearing organization shall be reported to—(A) a security-based swap data repository described in section 78m(n) of this title; or
+
+(B) in the case in which there is no security-based swap data repository that would accept the security-based swap, to the Commission pursuant to this section within such time period as the Commission may by rule or regulation prescribe.
+
+
+(2) Transition rule for preenactment security-based swaps(A) Security-based swaps entered into before July 21, 2010Each security-based swap entered into before July 21, 2010, the terms of which have not expired as of July 21, 2010, shall be reported to a registered security-based swap data repository or the Commission by a date that is not later than—(i) 30 days after issuance of the interim final rule; or
+
+(ii) such other period as the Commission determines to be appropriate.
+
+
+(B) Commission rulemakingThe Commission shall promulgate an interim final rule within 90 days of July 21, 2010, providing for the reporting of each security-based swap entered into before July 21, 2010, as referenced in subparagraph (A).
+
+
+(C) Effective dateThe reporting provisions described in this section shall be effective upon July 21, 2010.
+
+
+
+(3) Reporting obligations(A) Security-based swaps in which only 1 counterparty is a security-based swap dealer or major security-based swap participantWith respect to a security-based swap in which only 1 counterparty is a security-based swap dealer or major security-based swap participant, the security-based swap dealer or major security-based swap participant shall report the security-based swap as required under paragraphs (1) and (2).
+
+
+(B) Security-based swaps in which 1 counterparty </akn:p></akn:content><akn:subsection eId="subsec_78m_1_a"><akn:num>(a)</akn:num><akn:heading>Required reporting of security-based swaps not accepted by any clearing agency or derivatives clearing organization</akn:heading><akn:content><akn:p>(a) Required reporting of security-based swaps not accepted by any clearing agency or derivatives clearing organization</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_78m_1_b"><akn:num>(b)</akn:num><akn:heading>Duties of certain individuals</akn:heading><akn:content><akn:p>(b) Duties of certain individuals Any individual or entity that enters into a security-based swap shall meet each requirement described in subsection (c) if the individual or entity did not—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_78m_1_c"><akn:num>(c)</akn:num><akn:heading>Requirements</akn:heading><akn:content><akn:p>(c) Requirements An individual or entity described in subsection (b) shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_78m_1_d"><akn:num>(d)</akn:num><akn:heading>Identical data</akn:heading><akn:content><akn:p>(d) Identical data In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by security-based swap data repositories under this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

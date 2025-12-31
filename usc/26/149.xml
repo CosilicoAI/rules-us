@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/149" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/149/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/149/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_149"><akn:num>149</akn:num><akn:heading>Bonds must be registered to be tax exempt; other requirements</akn:heading><akn:content><akn:p>§ 149. Bonds must be registered to be tax exempt; other requirements(a) Bonds must be registered to be tax exempt(1) General ruleNothing in section 103(a) or in any other provision of law shall be construed to provide an exemption from Federal income tax for interest on any registration-required bond unless such bond is in registered form.
+
+
+(2) Registration-required bondFor purposes of paragraph (1), the term “registration-required bond” means any bond other than a bond which—(A) is not of a type offered to the public, or
+
+(B) has a maturity (at issue) of not more than 1 year.
+
+
+(3) Special rules(A) Book entries permittedFor purposes of paragraph (1), a book entry bond shall be treated as in registered form if the right to the principal of, and stated interest on, such bond may be transferred only through a book entry consistent with regulations prescribed by the Secretary.
+
+
+(B) NomineesThe Secretary shall prescribe such regulations as may be necessary to carry out the purpose of paragraph (1) where there is a nominee or chain of nominees.
+
+
+
+
+(b) Federally guaranteed bond is not tax exempt(1) In generalSection 103(a) shall not apply to any State or local bond if such bond is federally guaranteed.
+
+
+(2) Federally guaranteed definedFor purposes of paragraph (1), a bond is federally guaranteed if—(A) the payment of principal or interest with respect to such bond is guaranteed (in whole or in part) by the United States (or any agency or instrumentality thereof),
+
+(B) such bond is issued as part of an issue and 5 percent or more of the proceeds of such issue is to be—(i) used in making loans the payment of principal or interest with respect to which are to be guaranteed (in whole or in part) by the United States (or any agency or instrumentality thereof), or
+
+(ii) invested (directly or indirectly) in federally insured deposits or accounts, or
+
+
+(C) the payment of principal or interest on such bond is otherwise indirectly guaranteed (in whole or in part) by the United </akn:p></akn:content><akn:subsection eId="subsec_149_a"><akn:num>(a)</akn:num><akn:heading>Bonds must be registered to be tax exempt</akn:heading><akn:content><akn:p>(a) Bonds must be registered to be tax exempt</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_149_b"><akn:num>(b)</akn:num><akn:heading>Federally guaranteed bond is not tax exempt</akn:heading><akn:content><akn:p>(b) Federally guaranteed bond is not tax exempt</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_149_c"><akn:num>(c)</akn:num><akn:heading>Tax exemption must be derived from this title</akn:heading><akn:content><akn:p>(c) Tax exemption must be derived from this title</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_149_d"><akn:num>(d)</akn:num><akn:heading>Advance refundings</akn:heading><akn:content><akn:p>(d) Advance refundings</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_149_e"><akn:num>(e)</akn:num><akn:heading>Information reporting</akn:heading><akn:content><akn:p>(e) Information reporting</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_149_f"><akn:num>(f)</akn:num><akn:heading>Treatment of certain pooled financing bonds</akn:heading><akn:content><akn:p>(f) Treatment of certain pooled financing bonds</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_149_g"><akn:num>(g)</akn:num><akn:heading>Treatment of hedge bonds</akn:heading><akn:content><akn:p>(g) Treatment of hedge bonds</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

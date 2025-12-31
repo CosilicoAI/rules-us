@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/3208" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/3208/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/3208/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3208"><akn:num>3208</akn:num><akn:heading>Relationship to other applicable law</akn:heading><akn:content><akn:p>§ 3208. Relationship to other applicable law
+Nothing in this chapter prohibits any State regulatory authority or nonregulated gas utility from adopting, pursuant to State law, any standard or rule affecting gas utilities which is different from any standard established by this chapter.
+(Pub. L. 95–617, title III, § 308, Nov. 9, 1978, 92 Stat. 3153.)
+
+Statutory Notes and Related Subsidiaries
+
+Definitions
+The definition of State in section 2602 of Title 16, Conservation, applies to this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

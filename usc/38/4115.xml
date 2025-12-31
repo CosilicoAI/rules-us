@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/4115" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/4115/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/4115/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4115"><akn:num>4115</akn:num><akn:heading>Longitudinal study of job counseling, training, and placement service for veterans</akn:heading><akn:content><akn:p>§ 4115. Longitudinal study of job counseling, training, and placement service for veterans(a) Study Required.—(1) The Secretary shall enter into a contract with a non-government entity to conduct a longitudinal study of a statistically valid sample of each of the groups of individuals described in paragraph (2). The contract shall provide for the study of each such group over a period of at least 5 years.
+
+(2) The groups of individuals described in this paragraph are the following:(A) Veterans who have received intensive services.
+
+(B) Veterans who did not receive intensive services but who otherwise received services under this chapter.
+
+(C) Veterans who did not seek or receive services under this chapter.
+
+
+(3) The study required by this subsection shall include the collection of the following information for each individual who participates in the study:(A) The average number of months such individual served on active duty.
+
+(B) The disability ratings of such individual.
+
+(C) Any unemployment benefits received by such individual.
+
+(D) The average number of months such individual was employed during the year covered by the report.
+
+(E) The average annual starting and ending salaries of any such individual who was employed during the year covered by the report.
+
+(F) The average annual income of such individual.
+
+(G) The average total household income of such individual for the year covered by the report.
+
+(H) The percentage of such individuals who own their principal residences.
+
+(I) The employment status of such individual.
+
+(J) In the case of such an individual who received services under this chapter, whether the individual believes that any service provided by a disabled veterans’ outreach program specialist or local veterans’ employment representative helped the individual to become employed.
+
+(K) In the case of such an individual who believes such a service helped the individual to become employed, whether—(i) the individual retained the position of employmen</akn:p></akn:content><akn:subsection eId="subsec_4115_a"><akn:num>(a)</akn:num><akn:heading>Study Required.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4115_b"><akn:num>(b)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

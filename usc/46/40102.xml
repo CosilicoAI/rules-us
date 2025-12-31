@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/40102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/40102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/40102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40102"><akn:num>40102</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 40102. Definitions
+In this part:(1) Agreement.—The term “agreement”—(A) means a written or oral understanding, arrangement, or association, and any modification or cancellation thereof; but
+
+(B) does not include a maritime labor agreement.
+
+
+(2) Antitrust laws.—The term “antitrust laws” means—(A) the Sherman Act (15 U.S.C. 1 et seq.);
+
+(B) sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8, 9);
+
+(C) the Clayton Act (15 U.S.C. 12 et seq.);
+
+(D) the Act of June 19, 1936 (15 U.S.C. 13, 13a, 13b, 21a);
+
+(E) the Federal Trade Commission Act (15 U.S.C. 41 et seq.);
+
+(F) the Antitrust Civil Process Act (15 U.S.C. 1311 et seq.); and
+
+(G) Acts supplementary to those Acts.
+
+
+(3) Assessment agreement.—The term “assessment agreement” means an agreement, whether part of a collective bargaining agreement or negotiated separately, to the extent the agreement provides for the funding of collectively bargained fringe-benefit obligations on other than a uniform worker-hour basis, regardless of the cargo handled or type of vessel or equipment used.
+
+(4) Bulk cargo.—The term “bulk cargo” means cargo that is loaded and carried in bulk without mark or count.
+
+(5) Certain covered services.—For purposes of sections 41105 and 41307, the term “certain covered services” means, with respect to a vessel—(A) the berthing or bunkering of the vessel;
+
+(B) the loading or unloading of cargo to or from the vessel to or from a point on a wharf or terminal;
+
+(C) the positioning, removal, or replacement of buoys related to the movement of the vessel; and
+
+(D) with respect to injunctive relief under section 41307, towing vessel services provided to such a vessel.
+
+
+(6) Chemical parcel-tanker.—The term “chemical parcel-tanker” means a vessel that has—(A) a cargo-carrying capability consisting of individual cargo tanks for bulk chemicals that—(i) are a permanent part of the vessel; and
+
+(ii) have segregation capability with piping systems to permit simultaneous carriage of several bulk chemical car</akn:p></akn:content><akn:subsection eId="subsec_40102_1"><akn:num>(1)</akn:num><akn:heading>Agreement.—</akn:heading><akn:content><akn:p>(1) The term “agreement”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_2"><akn:num>(2)</akn:num><akn:heading>Antitrust laws.—</akn:heading><akn:content><akn:p>(2) The term “antitrust laws” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_3"><akn:num>(3)</akn:num><akn:heading>Assessment agreement.—</akn:heading><akn:content><akn:p>(3) The term “assessment agreement” means an agreement, whether part of a collective bargaining agreement or negotiated separately, to the extent the agreement provides for the funding of collectively bargained fringe-benefit obligations on other than a uniform worker-hour basis, regardless of the cargo handled or type of vessel or equipment used.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_4"><akn:num>(4)</akn:num><akn:heading>Bulk cargo.—</akn:heading><akn:content><akn:p>(4) The term “bulk cargo” means cargo that is loaded and carried in bulk without mark or count.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_5"><akn:num>(5)</akn:num><akn:heading>Certain covered services.—</akn:heading><akn:content><akn:p>(5) For purposes of sections 41105 and 41307, the term “certain covered services” means, with respect to a vessel—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_6"><akn:num>(6)</akn:num><akn:heading>Chemical parcel-tanker.—</akn:heading><akn:content><akn:p>(6) The term “chemical parcel-tanker” means a vessel that has—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_7"><akn:num>(7)</akn:num><akn:heading>Common carrier.—</akn:heading><akn:content><akn:p>(7) The term “common carrier”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_8"><akn:num>(8)</akn:num><akn:heading>Conference.—</akn:heading><akn:content><akn:p>(8) The term “conference”—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_9"><akn:num>(9)</akn:num><akn:heading>Controlled carrier.—</akn:heading><akn:content><akn:p>(9) The term “controlled carrier” means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40102_10"><akn:num>(10)</akn:num><akn:heading>Deferred rebate.—</akn:heading><akn:content><akn:p>(10) The term “deferred rebate” means a return by a common carrier of any freight money to a shipper, where the return is—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

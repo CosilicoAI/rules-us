@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/2567" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/2567/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/2567/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2567"><akn:num>2567</akn:num><akn:heading>Space and services: provision to WIC offices</akn:heading><akn:content><akn:p>§ 2567. Space and services: provision to WIC offices(a) Allotment of Space and Provision of Services Authorized.—Upon application by a WIC office, the Secretary of a military department may allot space on a military installation under the jurisdiction of the Secretary to the WIC office without charge for rent or services if the Secretary determines that—(1) the WIC office provides or will provide services solely to members of the armed forces assigned to the installation, civilian employees of the Department of Defense employed at the installation, or dependents of such members or employees;
+
+(2) space is available on the installation;
+
+(3) operation of the WIC office will not hinder military mission requirements; and
+
+(4) the security situation at the installation permits the presence of a non-Federal entity on the installation.
+
+
+(b) Definitions.—In this section:(1) The term “services” includes the provision of lighting, heating, cooling, and electricity.
+
+(2) The term “WIC office” means a local agency (as defined in subsection (b)(6) of section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786)) that participates in the special supplemental nutrition program for women, infants, and children under such section.
+
+
+(Added Pub. L. 114–328, div. B, title XXVIII, § 2812(a), Dec. 23, 2016, 130 Stat. 2716.)
+
+Editorial Notes
+Prior ProvisionsA prior section 2567, added Pub. L. 109–364, div. A, title X, § 1076(b)(1), Oct. 17, 2006, 120 Stat. 2405, which related to supplies, services, and equipment: provision in major public emergencies, was repealed by Pub. L. 110–181, div. A, title X, § 1068(b)(1), Jan. 28, 2008, 122 Stat. 326.</akn:p></akn:content><akn:subsection eId="subsec_2567_a"><akn:num>(a)</akn:num><akn:heading>Allotment of Space and Provision of Services Authorized.—</akn:heading><akn:content><akn:p>(a) Upon application by a WIC office, the Secretary of a military department may allot space on a military installation under the jurisdiction of the Secretary to the WIC office without charge for rent or services if the Secretary determines that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2567_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

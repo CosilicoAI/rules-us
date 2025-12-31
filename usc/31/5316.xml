@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/5316" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/5316/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/5316/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5316"><akn:num>5316</akn:num><akn:heading>Reports on exporting and importing monetary instruments</akn:heading><akn:content><akn:p>§ 5316. Reports on exporting and importing monetary instruments(a) Except as provided in subsection (c) of this section, a person or an agent or bailee of the person shall file a report under subsection (b) of this section when the person, agent, or bailee knowingly—(1) transports, is about to transport, or has transported, monetary instruments of more than $10,000 at one time—(A) from a place in the United States to or through a place outside the United States; or
+
+(B) to a place in the United States from or through a place outside the United States; or
+
+
+(2) receives monetary instruments of more than $10,000 at one time transported into the United States from or through a place outside the United States.
+
+
+(b) A report under this section shall be filed at the time and place the Secretary of the Treasury prescribes. The report shall contain the following information to the extent the Secretary prescribes:(1) the legal capacity in which the person filing the report is acting.
+
+(2) the origin, destination, and route of the monetary instruments.
+
+(3) when the monetary instruments are not legally and beneficially owned by the person transporting the instruments, or if the person transporting the instruments personally is not going to use them, the identity of the person that gave the instruments to the person transporting them, the identity of the person who is to receive them, or both.
+
+(4) the amount and kind of monetary instruments transported.
+
+(5) additional information.
+
+
+(c) This section or a regulation under this section does not apply to a common carrier of passengers when a passenger possesses a monetary instrument, or to a common carrier of goods if the shipper does not declare the instrument.
+
+(d) Cumulation of Closely Related Events.—The Secretary of the Treasury may prescribe regulations under this section defining the term “at one time” for purposes of subsection (a). Such regulations may permit the cumulation of closely related events in order that such</akn:p></akn:content><akn:subsection eId="subsec_5316_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as provided in subsection (c) of this section, a person or an agent or bailee of the person shall file a report under subsection (b) of this section when the person, agent, or bailee knowingly—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5316_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A report under this section shall be filed at the time and place the Secretary of the Treasury prescribes. The report shall contain the following information to the extent the Secretary prescribes:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5316_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) This section or a regulation under this section does not apply to a common carrier of passengers when a passenger possesses a monetary instrument, or to a common carrier of goods if the shipper does not declare the instrument.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5316_d"><akn:num>(d)</akn:num><akn:heading>Cumulation of Closely Related Events.—</akn:heading><akn:content><akn:p>(d) The Secretary of the Treasury may prescribe regulations under this section defining the term “at one time” for purposes of subsection (a). Such regulations may permit the cumulation of closely related events in order that such events may collectively be considered to occur at one time for the purposes of subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

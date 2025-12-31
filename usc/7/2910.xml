@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/2910" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/2910/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/2910/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2910"><akn:num>2910</akn:num><akn:heading>Preemption of other Federal and State programs; applicability of provisions to amendments to orders</akn:heading><akn:content><akn:p>§ 2910. Preemption of other Federal and State programs; applicability of provisions to amendments to orders(a) Nothing in this chapter may be construed to preempt or supersede any other program relating to beef promotion organized and operated under the laws of the United States or any State.
+
+(b) The provisions of this chapter applicable to the order shall be applicable to amendments to the order.
+
+(Pub. L. 94–294, § 11, May 28, 1976, 90 Stat. 535; Pub. L. 99–198, title XVI, § 1601(b), Dec. 23, 1985, 99 Stat. 1606.)
+
+Editorial Notes
+Amendments1985—Pub. L. 99–198 amended section generally, substituting administrative provisions for provisions relating to applicability of provisions to amendments to orders.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1985 AmendmentAmendment by Pub. L. 99–198 effective Jan. 1, 1986, see section 1601(c) of Pub. L. 99–198, set out as a note under section 2901 of this title.</akn:p></akn:content><akn:subsection eId="subsec_2910_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Nothing in this chapter may be construed to preempt or supersede any other program relating to beef promotion organized and operated under the laws of the United States or any State.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2910_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The provisions of this chapter applicable to the order shall be applicable to amendments to the order.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

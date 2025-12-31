@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/445" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/445/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/445/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_445"><akn:num>445</akn:num><akn:heading>Omitted</akn:heading><akn:content><akn:p>§§ 444, 445. Omitted
+Editorial Notes
+Codification
+Section 444, act June 25, 1910, ch. 432, 36 Stat. 864, related to leave of absence for entrymen.
+Section 445, act Apr. 30, 1912, ch. 100, 37 Stat. 105, related to protection of entries made prior to June 25, 1910.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

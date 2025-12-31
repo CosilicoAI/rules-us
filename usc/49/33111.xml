@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/33111" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/33111/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/33111/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_33111"><akn:num>33111</akn:num><akn:heading>Verifications involving motor vehicle major parts</akn:heading><akn:content><akn:p>§ 33111. Verifications involving motor vehicle major parts(a) General Requirements.—A person engaged in the business of salvaging, dismantling, recycling, or repairing passenger motor vehicles may not knowingly sell in commerce or transfer or install a major part marked with an identification number without—(1) first establishing, through a procedure the Attorney General by regulation prescribes in consultation with the Secretary of Transportation under section 33109 of this title, that the major part has not been reported as stolen; and
+
+(2) providing the purchaser or transferee with a verification—(A) identifying the vehicle identification number (or derivative of that number) of that major part; and
+
+(B) verifying that the major part has not been reported as stolen.
+
+
+
+(b) Nonapplication.—(1) Subsection (a) of this section does not apply to a person that—(A) is the manufacturer of the major part;
+
+(B) has purchased the major part directly from the manufacturer; or
+
+(C) has received a verification from an insurance carrier under section 33110 of this title that the motor vehicle from which the major part is derived has not been reported as stolen, or that the carrier has not established whether that vehicle has been stolen.
+
+
+(2) A person described under paragraph (1)(C) of this subsection that subsequently transfers or sells in commerce the motor vehicle or a major part of the vehicle shall provide the verification received from the carrier to the person to whom the vehicle or part is transferred or sold.
+
+
+(c) Regulations.—The Attorney General shall prescribe regulations to carry out this section. The regulations shall include regulations prescribed in consultation with the Secretary that are necessary to ensure that a verification a person provides under subsection (a)(2) of this section is uniform, effective, and resistant to fraudulent use.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1086.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSourc</akn:p></akn:content><akn:subsection eId="subsec_33111_a"><akn:num>(a)</akn:num><akn:heading>General Requirements.—</akn:heading><akn:content><akn:p>(a) A person engaged in the business of salvaging, dismantling, recycling, or repairing passenger motor vehicles may not knowingly sell in commerce or transfer or install a major part marked with an identification number without—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_33111_b"><akn:num>(b)</akn:num><akn:heading>Nonapplication.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_33111_c"><akn:num>(c)</akn:num><akn:heading>Regulations.—</akn:heading><akn:content><akn:p>(c) The Attorney General shall prescribe regulations to carry out this section. The regulations shall include regulations prescribed in consultation with the Secretary that are necessary to ensure that a verification a person provides under subsection (a)(2) of this section is uniform, effective, and resistant to fraudulent use.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

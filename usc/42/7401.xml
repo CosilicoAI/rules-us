@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/7401" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/7401/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/7401/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7401"><akn:num>7401</akn:num><akn:heading>Congressional findings and declaration of purpose</akn:heading><akn:content><akn:p>§ 7401. Congressional findings and declaration of purpose(a) FindingsThe Congress finds—(1) that the predominant part of the Nation’s population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
+
+(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
+
+(3) that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced or created at the source) and air pollution control at its source is the primary responsibility of States and local governments; and
+
+(4) that Federal financial assistance and leadership is essential for the development of cooperative Federal, State, regional, and local programs to prevent and control air pollution.
+
+
+(b) DeclarationThe purposes of this subchapter are—(1) to protect and enhance the quality of the Nation’s air resources so as to promote the public health and welfare and the productive capacity of its population;
+
+(2) to initiate and accelerate a national research and development program to achieve the prevention and control of air pollution;
+
+(3) to provide technical and financial assistance to State and local governments in connection with the development and execution of their air pollution prevention and control programs; and
+
+(4) to encourage and assist the development and operation of regional air pollution prevention and control programs.
+
+
+(c) Pollution preventionA primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State, and local governmental actions, consistent with the provisions of this </akn:p></akn:content><akn:subsection eId="subsec_7401_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7401_b"><akn:num>(b)</akn:num><akn:heading>Declaration</akn:heading><akn:content><akn:p>(b) Declaration The purposes of this subchapter are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7401_c"><akn:num>(c)</akn:num><akn:heading>Pollution prevention</akn:heading><akn:content><akn:p>(c) Pollution prevention A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State, and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

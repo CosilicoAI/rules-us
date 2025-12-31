@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18404" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18404/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18404/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18404"><akn:num>18404</akn:num><akn:heading>National space technology policy</akn:heading><akn:content><akn:p>§ 18404. National space technology policy(a) In generalThe President or the President’s designee, in consultation with appropriate Federal agencies, shall develop a national policy to guide the space technology development programs of the United States through 2020. The policy shall include national goals for technology development and shall describe the role and responsibilities of each Federal agency that will carry out the policy. In developing the policy, the President or the President’s designee shall utilize external studies that have been conducted on the state of United States technology development and have suggested policies to ensure continued competitiveness.
+
+
+(b) Content(1) At a minimum, the national space technology development policy shall describe for NASA—(A) the priority areas of research for technology investment;
+
+(B) the basis on which and the process by which priorities for ensuing fiscal years will be selected;
+
+(C) the facilities and personnel needed to carry out the technology development program; and
+
+(D) the budget assumptions on which the policy is based, which for fiscal years 2011, 2012, and 2013 shall be the authorized level for NASA’s technology program authorized by this chapter.
+
+
+(2) The policy shall be based on the premise that the Federal Government has an established interest in conducting research and development programs that help preserve the role of the United States as a global leader in space technologies and their application.
+
+(3) Considerations.—In developing the national space technology development policy, the President or the President’s designee shall consider, and include a discussion in the report required by subsection (c), of the following issues:(A) The extent to which NASA should focus on long term, high-risk research or more incremental technology development, and the expected impact of that decision on the United States economy.
+
+(B) The extent to which NASA should address military and commercial needs.
+
+(C</akn:p></akn:content><akn:subsection eId="subsec_18404_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The President or the President’s designee, in consultation with appropriate Federal agencies, shall develop a national policy to guide the space technology development programs of the United States through 2020. The policy shall include national goals for technology development and shall describe the role and responsibilities of each Federal agency that will carry out the policy. In developing the policy, the President or the President’s designee shall utilize external studies that have been conducted on the state of United States technology development and have suggested policies to ensure continued competitiveness.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18404_b"><akn:num>(b)</akn:num><akn:heading>Content</akn:heading><akn:content><akn:p>(b) Content</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18404_c"><akn:num>(c)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(c) Report</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

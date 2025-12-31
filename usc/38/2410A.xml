@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/2410A" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/2410A/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/2410A/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2410A"><akn:num>2410A</akn:num><akn:heading>Arlington National Cemetery: other administrative matters</akn:heading><akn:content><akn:p>§ 2410A. Arlington National Cemetery: other administrative matters(a) One Gravesite.—(1) Not more than one gravesite may be provided at Arlington National Cemetery to a veteran or member of the Armed Forces who is eligible for interment or inurnment at such cemetery.
+
+(2) The Secretary of the Army may waive the prohibition in paragraph (1) as the Secretary of the Army considers appropriate.
+
+
+(b) Prohibition Against Reservation of Gravesites.—(1) A gravesite at Arlington National Cemetery may not be reserved for an individual before the death of such individual.
+
+(2)(A) The President may waive the prohibition in paragraph (1) as the President considers appropriate.
+
+(B) Upon waiving the prohibition in paragraph (1), the President shall submit notice of such waiver to—(i) the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate; and
+
+(ii) the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives.
+
+
+
+
+(Added Pub. L. 112–154, title VI, § 602(a), Aug. 6, 2012, 126 Stat. 1199.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided that:
+“(1) In general.—Except as provided in paragraph (2), section 2410A of title 38, United States Code, as added by subsection (a), shall apply with respect to all interments at Arlington National Cemetery after the date of the enactment of this Act [Aug. 6, 2012].
+
+“(2) Exception.—Subsection (b) of such section, as so added, shall not apply with respect to the interment of an individual for whom a request for a reserved gravesite was approved by the Secretary of the Army before January 1, 1962.”</akn:p></akn:content><akn:subsection eId="subsec_2410A_a"><akn:num>(a)</akn:num><akn:heading>One Gravesite.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2410A_b"><akn:num>(b)</akn:num><akn:heading>Prohibition Against Reservation of Gravesites.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

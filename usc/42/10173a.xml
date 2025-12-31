@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/10173a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/10173a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/10173a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10173a"><akn:num>10173a</akn:num><akn:heading>Content of agreements</akn:heading><akn:content><akn:p>§ 10173a. Content of agreements(a) In general(1) In addition to the benefits to which a State, an affected unit of local government or Indian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under section 10173 of this title in accordance with the following schedule:
+
+
+
+
+
+
+
+
+BENEFITS SCHEDULE
+
+
+
+(amounts in $ millions)
+
+
+EventMRSRepository
+
+
+(A) Annual payments prior to first spent fuel receipt 510
+(B) Upon first spent fuel receipt1020
+(C) Annual payments after first spent fuel receipt until closure of the facility1020
+
+
+
+
+(2) For purposes of this section, the term—(A) “MRS” means a monitored retrievable storage facility,
+
+(B) “spent fuel” means high-level radioactive waste or spent nuclear fuel, and
+
+(C) “first spent fuel receipt” does not include receipt of spent fuel or high-level radioactive waste for purposes of testing or operational demonstration.
+
+
+(3) Annual payments prior to first spent fuel receipt under paragraph (1)(A) shall be made on the date of execution of the benefits agreement and thereafter on the anniversary date of such execution. Annual payments after the first spent fuel receipt until closure of the facility under paragraph (1)(C) shall be made on the anniversary date of such first spent fuel receipt.
+
+(4) If the first spent fuel payment under paragraph (1)(B) is made within six months after the last annual payment prior to the receipt of spent fuel under paragraph (1)(A), such first spent fuel payment under paragraph (1)(B) shall be reduced by an amount equal to one-twelfth of such annual payment under paragraph (1)(A) for each full month less than six that has not elapsed since the last annual payment under paragraph (1)(A).
+
+(5) Notwithstanding paragraph (1), (2), or (3), no payment under this section may be made before January 1, 1989, and any payment due under this subchapter before January 1, 1989, shall be made on or after such date.
+
+(6) Excep</akn:p></akn:content><akn:subsection eId="subsec_10173a_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10173a_b"><akn:num>(b)</akn:num><akn:heading>Contents</akn:heading><akn:content><akn:p>(b) Contents A benefits agreement under section 10173 of this title shall provide that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10173a_c"><akn:num>(c)</akn:num><akn:heading>Payments by Secretary</akn:heading><akn:content><akn:p>(c) Payments by Secretary The Secretary shall make payments to the States or affected Indian tribes under a benefits agreement under this section from the Waste Fund. The signature of the Secretary on a valid benefits agreement under section 10173 of this title shall constitute a commitment by the United States to make payments in accordance with such agreement.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

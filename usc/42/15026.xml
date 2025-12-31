@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15026" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15026/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15026/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15026"><akn:num>15026</akn:num><akn:heading>Federal and non-Federal share</akn:heading><akn:content><akn:p>§ 15026. Federal and non-Federal share(a) Aggregate cost(1) In generalExcept as provided in paragraphs (2) and (3), the Federal share of the cost of all projects in a State supported by an allotment to the State under this part may not be more than 75 percent of the aggregate necessary cost of such projects, as determined by the Secretary.
+
+
+(2) Urban or rural poverty areasIn the case of projects whose activities or products target individuals with developmental disabilities who live in urban or rural poverty areas, as determined by the Secretary, the Federal share of the cost of all such projects may not be more than 90 percent of the aggregate necessary cost of such projects, as determined by the Secretary.
+
+
+(3) State plan activitiesIn the case of projects undertaken by the Council or Council staff to implement State plan activities, the Federal share of the cost of all such projects may be not more than 100 percent of the aggregate necessary cost of such activities.
+
+
+
+(b) NonduplicationIn determining the amount of any State’s Federal share of the cost of such projects incurred by such State under a State plan approved under section 15024 of this title, the Secretary shall not consider—(1) any portion of such cost that is financed by Federal funds provided under any provision of law other than section 15022 of this title; and
+
+(2) the amount of any non-Federal funds required to be expended as a condition of receipt of the Federal funds described in paragraph (1).
+
+
+(c) Non-Federal share(1) In-kind contributionsThe non-Federal share of the cost of any project supported by an allotment under this part may be provided in cash or in kind, fairly evaluated, including plant, equipment, or services.
+
+
+(2) Contributions of political subdivisions and public or private entities(A) In generalContributions to projects by a political subdivision of a State or by a public or private entity under an agreement with the State shall, subject to such limitations and conditions as </akn:p></akn:content><akn:subsection eId="subsec_15026_a"><akn:num>(a)</akn:num><akn:heading>Aggregate cost</akn:heading><akn:content><akn:p>(a) Aggregate cost</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15026_b"><akn:num>(b)</akn:num><akn:heading>Nonduplication</akn:heading><akn:content><akn:p>(b) Nonduplication In determining the amount of any State’s Federal share of the cost of such projects incurred by such State under a State plan approved under section 15024 of this title, the Secretary shall not consider—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15026_c"><akn:num>(c)</akn:num><akn:heading>Non-Federal share</akn:heading><akn:content><akn:p>(c) Non-Federal share</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2501"><akn:num>2501</akn:num><akn:heading>Imposition of tax</akn:heading><akn:content><akn:p>§ 2501. Imposition of tax(a) Taxable transfers(1) General ruleA tax, computed as provided in section 2502, is hereby imposed for each calendar year on the transfer of property by gift during such calendar year by any individual resident or nonresident.
+
+
+(2) Transfers of intangible propertyExcept as provided in paragraph (3), paragraph (1) shall not apply to the transfer of intangible property by a nonresident not a citizen of the United States.
+
+
+(3) Exception(A) Certain individualsParagraph (2) shall not apply in the case of a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer.
+
+
+(B) Credit for foreign gift taxesThe tax imposed by this section solely by reason of this paragraph shall be credited with the amount of any gift tax actually paid to any foreign country in respect of any gift which is taxable under this section solely by reason of this paragraph.
+
+
+
+(4) Transfers to political organizationsParagraph (1) shall not apply to the transfer of money or other property to a political organization (within the meaning of section 527(e)(1)) for the use of such organization.
+
+
+(5) Transfers of certain stock(A) In generalIn the case of a transfer of stock in a foreign corporation described in subparagraph (B) by a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer—(i) section 2511(a) shall be applied without regard to whether such stock is situated within the United States, and
+
+(ii) the value of such stock for purposes of this chapter shall be its U.S.-asset value determined under subparagraph (C).
+
+
+(B) Foreign corporation describedA foreign corporation is described in this subparagraph with respect to a donor if—(i) the donor owned (within the meaning of section 958(a)) at the time of such transfer 10 percent or more of the total combined voting power of all classes of stock entitled to vote of the foreign corporation, and
+
+(ii) such donor owned (within the meaning of sect</akn:p></akn:content><akn:subsection eId="subsec_2501_a"><akn:num>(a)</akn:num><akn:heading>Taxable transfers</akn:heading><akn:content><akn:p>(a) Taxable transfers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2501_b"><akn:num>(b)</akn:num><akn:heading>Certain residents of possessions considered citizens of the United States</akn:heading><akn:content><akn:p>(b) Certain residents of possessions considered citizens of the United States A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2501_c"><akn:num>(c)</akn:num><akn:heading>Certain residents of possessions considered nonresidents not citizens of the United States</akn:heading><akn:content><akn:p>(c) Certain residents of possessions considered nonresidents not citizens of the United States A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2501_d"><akn:num>(d)</akn:num><akn:heading>Cross references</akn:heading><akn:content><akn:p>(d) Cross references</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

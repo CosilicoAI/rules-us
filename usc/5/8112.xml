@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8112"><akn:num>8112</akn:num><akn:heading>Maximum and minimum monthly payments</akn:heading><akn:content><akn:p>§ 8112. Maximum and minimum monthly payments(a) Except as provided by section 8138 of this title, the monthly rate of compensation for disability, including augmented compensation under section 8110 of this title but not including additional compensation under section 8111 of this title, may not be more than 75 percent of the monthly pay of the maximum rate of basic pay for GS–15, and in case of total disability may not be less than 75 percent of the monthly pay of the minimum rate of basic pay for GS–2 or the amount of the monthly pay of the employee, whichever is less.
+
+(b) The provisions of subsection (a) shall not apply to any employee whose disability is a result of an assault which occurs during an assassination or attempted assassination of a Federal official described under section 351(a) or 1751(a) of title 18, and was sustained in the performance of duty.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 540; Pub. L. 90–83, § 1(55), Sept. 11, 1967, 81 Stat. 210; Pub. L. 100–566, § 5, Oct. 31, 1988, 102 Stat. 2845.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+1966 Act
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 756(c).Oct. 14, 1949, ch. 691, § 105 “Sec. 6(c)”, 63 Stat. 859.
+  Sept. 13, 1960, Pub. L. 86–767, § 101 (last 13 words), 74 Stat. 906.
+
+
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+
+
+
+
+
+
+
+
+
+
+1967 Act
+
+
+Section of title 5Source (U.S.Code)Source (Statutes at Large)
+
+
+81125 App.: 756(c).July 4, 1966, Pub. L. 89–488, § 3(b), 80 Stat. 252.
+
+
+The words “maximum rate of basic pay for GS–15” and “minimum rate of basic pay for GS–2” are substituted for “highest rate of basic compensation provided for grade 15 of the General Schedule of the Classification Act of 1949” and “lowest rate of basic compensation provided for grade 2 by such General Schedule”, respectively, for consistency of style within title 5 and to reflect the codification of the Cl</akn:p></akn:content><akn:subsection eId="subsec_8112_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as provided by section 8138 of this title, the monthly rate of compensation for disability, including augmented compensation under section 8110 of this title but not including additional compensation under section 8111 of this title, may not be more than 75 percent of the monthly pay of the maximum rate of basic pay for GS–15, and in case of total disability may not be less than 75 percent of the monthly pay of the minimum rate of basic pay for GS–2 or the amount of the monthly pay of the employee, whichever is less.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8112_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The provisions of subsection (a) shall not apply to any employee whose disability is a result of an assault which occurs during an assassination or attempted assassination of a Federal official described under section 351(a) or 1751(a) of title 18, and was sustained in the performance of duty.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

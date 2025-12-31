@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/6710" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/6710/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/6710/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6710"><akn:num>6710</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 6710. Authorization of appropriations
+There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1997, to carry out this chapter.
+(Pub. L. 101–624, title XXIV, § 2412, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 104–127, title VIII, § 843, Apr. 4, 1996, 110 Stat. 1170.)
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this title”, meaning title XXIV of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 4058, known as the Global Climate Change Prevention Act of 1990, which is classified principally to this chapter. For complete classification of title XXIV to the Code, see Short Title note set out under section 6701 of this title and Tables.
+
+Amendments1996—Pub. L. 104–127 substituted “1997” for “1996”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

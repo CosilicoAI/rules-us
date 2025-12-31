@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53301"><akn:num>53301</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 53301. Definitions(a) In General.—In this chapter:(1) Construction contract.—The term “construction contract” includes, for a taxpayer constructing a new vessel in a shipyard owned by that taxpayer, an agreement between the taxpayer and the Secretary of Transportation for that construction containing provisions the Secretary considers advisable to carry out this chapter.
+
+(2) New vessel.—The term “new vessel” means—(A) a vessel—(i) constructed in the United States after December 31, 1939, constructed with a construction-differential subsidy under title V of the Merchant Marine Act, 1936, or constructed with financing or a financing guarantee under chapter 537 or 575 of this title;
+
+(ii) documented or agreed with the Secretary to be documented under the laws of the United States; and
+
+(iii)(I) of a type, size, and speed that the Secretary determines is suitable for use on the high seas or Great Lakes in carrying out this subtitle, but not less than 2,000 gross tons or less than 12 knots speed unless the Secretary certifies in each case that a vessel of lesser tonnage or speed is desirable for use by the United States Government in case of war or national emergency; or
+
+(II) constructed to replace a vessel bought or requisitioned by the Government; and
+
+
+
+(B) a vessel reconstructed or reconditioned for use only on the Great Lakes, including the Saint Lawrence River and Gulf, if the Secretary finds that the reconstruction or reconditioning will promote the objectives of this subtitle.
+
+
+
+(b) Additional Tax-Related Terms.—Other terms used in this chapter have the same meaning as in chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. ch. 1).
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1587.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+53301(a)(1)46 App.:1161(n).June 29, 1936, ch. 858, title V, § 511(n), as added Dec. 23, 1944, ch. 714, § 2, 58 Stat. 920; Pub. L. 97–31, § 12(92)(A), Aug. 6, 1981, 9</akn:p></akn:content><akn:subsection eId="subsec_53301_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In this chapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53301_b"><akn:num>(b)</akn:num><akn:heading>Additional Tax-Related Terms.—</akn:heading><akn:content><akn:p>(b) Other terms used in this chapter have the same meaning as in chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. ch. 1).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

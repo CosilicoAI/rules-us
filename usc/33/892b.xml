@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/892b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/892b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/892b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_892b"><akn:num>892b</akn:num><akn:heading>Quality assurance program</akn:heading><akn:content><akn:p>§ 892b. Quality assurance program(a) DefinitionFor purposes of this section, the term “hydrographic product” means any publicly or commercially available product or service produced or disseminated by a non-Federal entity that includes or displays hydrographic data.
+
+
+(b) Program(1) In generalThe Administrator—(A) by not later than 2 years after December 19, 2002, shall, subject to the availability of appropriations, develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
+
+(B) may authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
+
+(C) may charge a fee for such certification and use.
+
+
+(2) Limitation on fee amountAny fee under paragraph (1)(C) shall not exceed the costs of conducting the quality assurance testing, evaluation, or studies necessary to determine whether the hydrographic product satisfies the standards adopted under section 892a(a)(3) of this title, including the cost of administering such a program.
+
+
+
+(c) Limitation on liabilityThe Government of the United States shall not be liable for any negligence by a person that produces hydrographic products certified under this section.
+
+
+(d) Hydrographic Services Account(1) EstablishmentThere is established in the Treasury a separate account, which shall be known as the “Hydrographic Services Account”.
+
+
+(2) ContentThe account shall consist of—(A) amounts received by the United States as fees charged under subsection (b)(1)(C); and
+
+(B) such other amounts as may be provided by law.
+
+
+(3) UseAmounts in the account shall be available to the Administrator, without further appropriation, for hydrographic services.
+
+
+
+(e) Limitation on new fees and increases in existing fees for hydrographic servicesAfter November 13, 1998, the Admi</akn:p></akn:content><akn:subsection eId="subsec_892b_a"><akn:num>(a)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(a) Definition For purposes of this section, the term “hydrographic product” means any publicly or commercially available product or service produced or disseminated by a non-Federal entity that includes or displays hydrographic data.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_892b_b"><akn:num>(b)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(b) Program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_892b_c"><akn:num>(c)</akn:num><akn:heading>Limitation on liability</akn:heading><akn:content><akn:p>(c) Limitation on liability The Government of the United States shall not be liable for any negligence by a person that produces hydrographic products certified under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_892b_d"><akn:num>(d)</akn:num><akn:heading>Hydrographic Services Account</akn:heading><akn:content><akn:p>(d) Hydrographic Services Account</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_892b_e"><akn:num>(e)</akn:num><akn:heading>Limitation on new fees and increases in existing fees for hydrographic services</akn:heading><akn:content><akn:p>(e) Limitation on new fees and increases in existing fees for hydrographic services After November 13, 1998, the Administrator may not—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

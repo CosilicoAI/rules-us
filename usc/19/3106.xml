@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/3106" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/3106/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/3106/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3106"><akn:num>3106</akn:num><akn:heading>Review of trade agreement implementation by Trade Representative</akn:heading><akn:content><akn:p>§ 3106. Review of trade agreement implementation by Trade Representative(a) In general(1) In conducting the annual analysis under section 181(a) of the Trade Act of 1974 (19 U.S.C. 2241), the Trade Representative shall review the operation and effectiveness of—(A) each trade agreement negotiated by reason of this chapter that is in force with respect to the United States; and
+
+(B) every other trade agreement regarding telecommunications products or services that is in force with respect to the United States.
+
+
+(2) In each review conducted under paragraph (1), the Trade Representative shall determine whether any act, policy, or practice of the foreign country that has entered into the agreement described in paragraph (1)—(A) is not in compliance with the terms of such agreement, or
+
+(B) otherwise denies, within the context of the terms of such agreement, to telecommunications products and services of United States firms mutually advantageous market opportunities in that foreign country.
+
+
+
+(b) Review factors(1) In conducting reviews under subsection (a), the Trade Representative shall consider any evidence of actual patterns of trade (including United States exports to a foreign country of telecommunications products and services, including sales and services related to those products) that do not reflect patterns of trade which would reasonably be anticipated to flow from the concessions or commitments of such country based on the international competitive position and export potential of such products and services.
+
+(2) The Trade Representative shall consult with the United States International Trade Commission with regard to the actual patterns of trade described in paragraph (1).
+
+
+(c) Action in response to affirmative determination(1) Any affirmative determination made by the Trade Representative under subsection (a)(2) with respect to any act, policy, or practice of a foreign country shall, for purposes of chapter 1 of title III of the Trade Act of 1974 [19 U.S</akn:p></akn:content><akn:subsection eId="subsec_3106_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3106_b"><akn:num>(b)</akn:num><akn:heading>Review factors</akn:heading><akn:content><akn:p>(b) Review factors</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3106_c"><akn:num>(c)</akn:num><akn:heading>Action in response to affirmative determination</akn:heading><akn:content><akn:p>(c) Action in response to affirmative determination</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

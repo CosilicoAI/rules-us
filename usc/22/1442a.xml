@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/1442a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/1442a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/1442a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1442a"><akn:num>1442a</akn:num><akn:heading>National security measures</akn:heading><akn:content><akn:p>§ 1442a. National security measures(a) RestrictionIn coordination with other appropriate executive branch officials, the Secretary of State shall take all appropriate steps to—(1) prevent any agent of a foreign power from participating in educational and cultural exchange programs under this chapter;
+
+(2) ensure that no person who is involved in the research, development, design, testing, evaluation, or production of missiles or weapons of mass destruction is a participant in any program of educational or cultural exchange under this chapter if such person is employed by, or attached to, an entity within a country that has been identified by any element of the United States intelligence community (as defined by section 3003(4) of title 50) within the previous 5 years as having been involved in the proliferation of missiles or weapons of mass destruction; and
+
+(3) ensure that no person who is involved in the research, development, design, testing, evaluation, or production of chemical or biological weapons for offensive purposes is a participant in any program of educational or cultural exchange under this chapter.
+
+
+(b) Definitions(1) The term “appropriate executive branch officials” means officials from the elements of the United States Government listed pursuant to section 101 of the Intelligence Authorization Act for Fiscal Year 1999 (Public Law 105–272).
+
+(2) The term “agent of a foreign power” has the same meaning as set forth in section 1801(b)(1)(B) and (b)(2) of title 50, and does not include any person who acts in the capacity defined under section 1801(b)(1)(A) of title 50.
+
+
+(Jan. 27, 1948, ch. 36, title X, § 1012, as added Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 403], Nov. 29, 1999, 113 Stat. 1536, 1501A–446.)
+
+Editorial Notes
+
+References in TextSection 101 of the Intelligence Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(1), is section 101 of Pub. L. 105–272, title I, Oct. 20, 1998, 112 Stat. 2397, which is not cl</akn:p></akn:content><akn:subsection eId="subsec_1442a_a"><akn:num>(a)</akn:num><akn:heading>Restriction</akn:heading><akn:content><akn:p>(a) Restriction In coordination with other appropriate executive branch officials, the Secretary of State shall take all appropriate steps to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1442a_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/106" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/106/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/106/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_106"><akn:num>106</akn:num><akn:heading>Federal Acquisition Regulation</akn:heading><akn:content><akn:p>§ 106. Federal Acquisition Regulation
+In this subtitle, the term “Federal Acquisition Regulation” means the regulation issued under section 1303(a)(1) of this title.
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3680.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10641:259(e).June 30, 1949, ch. 288, title III, § 309(e), as added Pub. L. 103–355, title I, § 1551, Oct. 13, 1994, 108 Stat. 3299.
+
+
+The defined term is made applicable to the subtitle because of the numerous references throughout the Office of Federal Procurement Policy Act (Public Law 93–400, 88 Stat. 796), restated in division B of this subtitle, and especially because of sections 6(a) and 25(c) of the Act, restated in sections 1121 and 1303, respectively.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/40905" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/40905/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/40905/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40905"><akn:num>40905</akn:num><akn:heading>Program to expand distance learning in rural underserved areas</akn:heading><akn:content><akn:p>§ 40905. Program to expand distance learning in rural underserved areas(a) In General.—The Administrator shall develop or expand programs to extend science and space educational outreach to rural communities and schools through video conferencing, interpretive exhibits, teacher education, classroom presentations, and student field trips.
+
+(b) Priorities.—In carrying out subsection (a), the Administrator shall give priority to existing programs, including Challenger Learning Centers—(1) that utilize community-based partnerships in the field;
+
+(2) that build and maintain video conference and exhibit capacity;
+
+(3) that travel directly to rural communities and serve low-income populations; and
+
+(4) with a special emphasis on increasing the number of women and minorities in the science and engineering professions.
+
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3393.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+4090542 U.S.C. 16791.Pub. L. 109–155, title VI, § 612, Dec. 30, 2005, 119 Stat. 2932.</akn:p></akn:content><akn:subsection eId="subsec_40905_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Administrator shall develop or expand programs to extend science and space educational outreach to rural communities and schools through video conferencing, interpretive exhibits, teacher education, classroom presentations, and student field trips.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40905_b"><akn:num>(b)</akn:num><akn:heading>Priorities.—</akn:heading><akn:content><akn:p>(b) In carrying out subsection (a), the Administrator shall give priority to existing programs, including Challenger Learning Centers—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

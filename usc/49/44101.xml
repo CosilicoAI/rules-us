@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/44101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/44101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/44101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_44101"><akn:num>44101</akn:num><akn:heading>Operation of aircraft</akn:heading><akn:content><akn:p>§ 44101. Operation of aircraft(a) Registration Requirement.—Except as provided in subsection (b) of this section, a person may operate an aircraft only when the aircraft is registered under section 44103 of this title.
+
+(b) Exceptions.—A person may operate an aircraft in the United States that is not registered—(1) when authorized under section 40103(d) or 41703 of this title;
+
+(2) when it is an aircraft of the national defense forces of the United States and is identified in a way satisfactory to the Administrator of the Federal Aviation Administration; and
+
+(3) for a reasonable period of time after a transfer of ownership, under regulations prescribed by the Administrator.
+
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1161.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+44101(a)49 App.:1401(a) (1st sentence words before proviso less words between parentheses).Aug. 23, 1958, Pub. L. 85–726, § 501(a), 72 Stat. 771.
+44101(b)49 App.:1401(a) (1st sentence words between parentheses, proviso, last sentence).
+ 49 App.:1655(c)(1).Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, § 7(b), 96 Stat. 2444.
+
+
+In this section, the word “navigate” is omitted as being included in the definition of “operate aircraft” in section 40102(a) of the revised title.
+In subsection (a), the words “Except as provided in subsection (b) of this section” are added for clarity. The words “a person may . . . an aircraft only when the aircraft is registered under section 44103 of this title” are substituted for “It shall be unlawful . . . any aircraft eligible for registration if such aircraft is not registered by its owner as provided in this section, or . . . any aircraft not eligible for registration” for clarity and to eliminate unnecessary words.
+In subsection (b), before clause (1), the words “A person may operate an aircraft in the United States that is not registered” are substituted for “may</akn:p></akn:content><akn:subsection eId="subsec_44101_a"><akn:num>(a)</akn:num><akn:heading>Registration Requirement.—</akn:heading><akn:content><akn:p>(a) Except as provided in subsection (b) of this section, a person may operate an aircraft only when the aircraft is registered under section 44103 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_44101_b"><akn:num>(b)</akn:num><akn:heading>Exceptions.—</akn:heading><akn:content><akn:p>(b) A person may operate an aircraft in the United States that is not registered—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

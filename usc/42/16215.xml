@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/16215" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/16215/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/16215/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_16215"><akn:num>16215</akn:num><akn:heading>Electric transmission and distribution programs</akn:heading><akn:content><akn:p>§ 16215. Electric transmission and distribution programs(a) ProgramThe Secretary shall establish a comprehensive research, development, and demonstration program to ensure the reliability, efficiency, and environmental integrity of electrical transmission and distribution systems, which shall include—(1) advanced energy delivery technologies, energy storage technologies, materials, and systems, giving priority to new transmission technologies, including composite conductor materials and other technologies that enhance reliability, operational flexibility, or power-carrying capability;
+
+(2) advanced grid reliability and efficiency technology development;
+
+(3) technologies contributing to significant load reductions;
+
+(4) advanced metering, load management, and control technologies;
+
+(5) technologies to enhance existing grid components;
+
+(6) the development and use of high-temperature superconductors to—(A) enhance the reliability, operational flexibility, or power-carrying capability of electric transmission or distribution systems; or
+
+(B) increase the efficiency of electric energy generation, transmission, distribution, or storage systems;
+
+
+(7) integration of power systems, including systems to deliver high-quality electric power, electric power reliability, and combined heat and power;
+
+(8) supply of electricity to the power grid by small scale, distributed and residential-based power generators;
+
+(9) the development and use of advanced grid design, operation, and planning tools;
+
+(10) the development of cost-effective technologies that enable two-way information and power flow between distributed energy resources and the electric grid;
+
+(11) the development of technologies and concepts that enable interoperability between distributed energy resources and other behind-the-meter devices and the electric grid;
+
+(12) any other infrastructure technologies, as appropriate; and
+
+(13) technology transfer and education.
+
+
+(b) Program plan(1) In generalNot later than 1 ye</akn:p></akn:content><akn:subsection eId="subsec_16215_a"><akn:num>(a)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(a) Program The Secretary shall establish a comprehensive research, development, and demonstration program to ensure the reliability, efficiency, and environmental integrity of electrical transmission and distribution systems, which shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16215_b"><akn:num>(b)</akn:num><akn:heading>Program plan</akn:heading><akn:content><akn:p>(b) Program plan</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16215_c"><akn:num>(c)</akn:num><akn:heading>Implementation</akn:heading><akn:content><akn:p>(c) Implementation The Secretary shall consider implementing the program under this section using a consortium of participants from industry, institutions of higher education, and National Laboratories.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16215_d"><akn:num>(d)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(d) Report Not later than 2 years after the submission of the plan under subsection (b), the Secretary shall submit to Congress a report—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16215_e"><akn:num>(e)</akn:num><akn:heading>Power delivery research initiative</akn:heading><akn:content><akn:p>(e) Power delivery research initiative</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16215_f"><akn:num>(f)</akn:num><akn:heading>Transmission and distribution grid planning and operations initiative</akn:heading><akn:content><akn:p>(f) Transmission and distribution grid planning and operations initiative</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_16215_g"><akn:num>(g)</akn:num><akn:heading>High-voltage transmission lines</akn:heading><akn:content><akn:p>(g) High-voltage transmission lines As part of the program described in subsection (a), the Secretary shall award a grant to a university research program to design and test, in consultation with the Tennessee Valley Authority, state-of-the-art optimization techniques for power flow through existing high voltage transmission lines.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/198" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/198/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/198/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_198"><akn:num>198</akn:num><akn:heading>Adjournment</akn:heading><akn:content><akn:p>§ 198. Adjournment(a) Unless otherwise provided by the Congress, the two Houses shall—(1) adjourn sine die not later than July 31 of each year; or
+
+(2) in the case of an odd-numbered year, provide, not later than July 31 of such year, by concurrent resolution adopted in each House by roll-call vote, for the adjournment of the two Houses from that Friday in August which occurs at least thirty days before the first Monday in September (Labor Day) of such year to the second day after Labor Day.
+
+
+(b) This section shall not be applicable in any year if on July 31 of such year a state of war exists pursuant to a declaration of war by the Congress.
+
+(Aug. 2, 1946, ch. 753, title I, § 132, 60 Stat. 831; Pub. L. 91–510, title IV, § 461(b), Oct. 26, 1970, 84 Stat. 1193.)
+
+Editorial Notes
+Amendments1970—Pub. L. 95–110, in amending section generally, incorporated existing subject matter in subsec. (a)(1), substituted therein an adjournment date not later than July 31 of each year for prior provision for a date not later than last day (Sundays excepted) in month of July in each year, added subsec. (a)(2), added subsec. (b) which incorporated former exception to adjournment in time of war, and deleted another exception to adjournment during national emergency proclaimed by the President.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 4301 of this title.
+
+Effective DateSection effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.</akn:p></akn:content><akn:subsection eId="subsec_198_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Unless otherwise provided by the Congress, the two Houses shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_198_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) This section shall not be applicable in any year if on July 31 of such year a state of war exists pursuant to a declaration of war by the Congress.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

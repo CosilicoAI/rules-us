@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/1490" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/1490/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/1490/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1490"><akn:num>1490</akn:num><akn:heading>General orders</akn:heading><akn:content><akn:p>§ 1490. General orders(a) Incomplete entry(1) Whenever—(A) the entry of any imported merchandise is not made within the time provided by law or by regulation prescribed by the Secretary;
+
+(B) the entry of imported merchandise is incomplete because of failure to pay the estimated duties, fees, or interest;
+
+(C) in the opinion of the Customs Service, the entry of imported merchandise cannot be made for want of proper documents or other cause; or
+
+(D) the Customs Service believes that any merchandise is not correctly and legally invoiced;
+
+
+the carrier (unless subject to subsection (c)) shall notify the bonded warehouse of such unentered merchandise.
+
+(2) After notification under paragraph (1), the bonded warehouse shall arrange for the transportation and storage of the merchandise at the risk and expense of the consignee. The merchandise shall remain in the bonded warehouse until—(A) entry is made or completed and the proper documents are produced;
+
+(B) the information and data necessary for entry are transmitted to the Customs Service pursuant to an authorized electronic data interchange system; or
+
+(C) a bond is given for the production of documents or the transmittal of data.
+
+
+
+(b) Request for possession by CustomsAt the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may be unladen and held at the risk and expense of the consignee until entry thereof is made.
+
+
+(c) Government merchandiseAny imported merchandise that—(1) is described in any of subparagraphs (A) through (D) of subsection (a)(1); and
+
+(2) is consigned to, or owned by, the United States Government;
+
+
+shall be stored and disposed of in accordance with such rules and procedures as the Secretary shall by regulation prescribe.
+
+(June 17, 1930, c</akn:p></akn:content><akn:subsection eId="subsec_1490_a"><akn:num>(a)</akn:num><akn:heading>Incomplete entry</akn:heading><akn:content><akn:p>(a) Incomplete entry</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1490_b"><akn:num>(b)</akn:num><akn:heading>Request for possession by Customs</akn:heading><akn:content><akn:p>(b) Request for possession by Customs At the request of the consignee of any merchandise, or of the owner or master of the vessel or the person in charge of the vehicle in which the same is imported, any merchandise may be taken possession of by the Customs Service after the expiration of one day after the entry of the vessel or report of the vehicle and may be unladen and held at the risk and expense of the consignee until entry thereof is made.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1490_c"><akn:num>(c)</akn:num><akn:heading>Government merchandise</akn:heading><akn:content><akn:p>(c) Government merchandise Any imported merchandise that— shall be stored and disposed of in accordance with such rules and procedures as the Secretary shall by regulation prescribe.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/8236" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/8236/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/8236/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8236"><akn:num>8236</akn:num><akn:heading>Voluntary rating guidelines</akn:heading><akn:content><akn:p>§ 8236. Voluntary rating guidelines(a) In generalNot later than 18 months after October 24, 1992, the Secretary, in consultation with the Secretary of Housing and Urban Development, the Secretary of Veterans Affairs, representatives of existing home energy rating programs, and other appropriate persons, shall, by rule, issue voluntary guidelines that may be used by State and local governments, utilities, builders, real estate agents, lenders, agencies in mortgage markets, and others, to enable and encourage the assignment of energy efficiency ratings to residential buildings.
+
+
+(b) Contents of guidelinesThe voluntary guidelines issued under subsection (a) shall—(1) encourage uniformity with regard to systems for rating the annual energy efficiency of residential buildings;
+
+(2) establish protocols and procedures for—(A) certification of the technical accuracy of building energy analysis tools used to determine energy efficiency ratings;
+
+(B) training of personnel conducting energy efficiency ratings;
+
+(C) data collection and reporting;
+
+(D) quality control; and
+
+(E) monitoring and evaluation;
+
+
+(3) encourage consistency with, and support for, the uniform plan for Federal energy efficient mortgages, including that developed under section 946 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12712 note) and pursuant to sections 105 and 106 of the Energy Policy Act of 1992;
+
+(4) provide that rating systems take into account local climate conditions and construction practices, solar energy collected on-site, and the benefits of peak load shifting construction practices, and not discriminate among fuel types; and
+
+(5) establish procedures to ensure that residential buildings can receive an energy efficiency rating at the time of sale and that such rating is communicated to potential buyers.
+
+
+(Pub. L. 95–619, title II, § 271, as added Pub. L. 102–486, title I, § 102(a), Oct. 24, 1992, 106 Stat. 2787.)
+
+Editorial Notes
+
+References in TextSection 946 of t</akn:p></akn:content><akn:subsection eId="subsec_8236_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than 18 months after October 24, 1992, the Secretary, in consultation with the Secretary of Housing and Urban Development, the Secretary of Veterans Affairs, representatives of existing home energy rating programs, and other appropriate persons, shall, by rule, issue voluntary guidelines that may be used by State and local governments, utilities, builders, real estate agents, lenders, agencies in mortgage markets, and others, to enable and encourage the assignment of energy efficiency ratings to residential buildings.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8236_b"><akn:num>(b)</akn:num><akn:heading>Contents of guidelines</akn:heading><akn:content><akn:p>(b) Contents of guidelines The voluntary guidelines issued under subsection (a) shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

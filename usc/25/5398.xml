@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/5398" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/5398/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/5398/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5398"><akn:num>5398</akn:num><akn:heading>Appeals</akn:heading><akn:content><akn:p>§ 5398. Appeals
+In any appeal (including civil actions) involving decisions made by the Secretary under this subchapter, the Secretary shall have the burden of proof of demonstrating by clear and convincing evidence—(1) the validity of the grounds for the decision made; and
+
+(2) that the decision is fully consistent with provisions and policies of this subchapter.
+
+(Pub. L. 93–638, title V, § 518, as added Pub. L. 106–260, § 4, Aug. 18, 2000, 114 Stat. 730.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 458aaa–17 of this title prior to editorial reclassification and renumbering as this section.</akn:p></akn:content><akn:subsection eId="subsec_5398_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the validity of the grounds for the decision made; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5398_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) that the decision is fully consistent with provisions and policies of this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

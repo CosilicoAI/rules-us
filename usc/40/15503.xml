@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/15503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/15503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/15503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15503"><akn:num>15503</akn:num><akn:heading>Approval of applications for assistance</akn:heading><akn:content><akn:p>§ 15503. Approval of applications for assistance(a) Evaluation by State Member.—An application to a Commission for a grant or any other assistance for a project under this subtitle shall be made through, and evaluated for approval by, the State member of the Commission representing the applicant.
+
+(b) Certification.—An application to a Commission for a grant or other assistance for a project under this subtitle shall be eligible for assistance only on certification by the State member of the Commission representing the applicant that the application for the project—(1) describes ways in which the project complies with any applicable State economic and infrastructure development plan;
+
+(2) meets applicable criteria under section 15504;
+
+(3) adequately ensures that the project will be properly administered, operated, and maintained; and
+
+(4) otherwise meets the requirements for assistance under this subtitle.
+
+
+(c) Votes for Decisions.—On certification by a State member of a Commission of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Commission under section 15302 shall be required for approval of the application.
+
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
+
+Editorial Notes
+Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_15503_a"><akn:num>(a)</akn:num><akn:heading>Evaluation by State Member.—</akn:heading><akn:content><akn:p>(a) An application to a Commission for a grant or any other assistance for a project under this subtitle shall be made through, and evaluated for approval by, the State member of the Commission representing the applicant.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15503_b"><akn:num>(b)</akn:num><akn:heading>Certification.—</akn:heading><akn:content><akn:p>(b) An application to a Commission for a grant or other assistance for a project under this subtitle shall be eligible for assistance only on certification by the State member of the Commission representing the applicant that the application for the project—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15503_c"><akn:num>(c)</akn:num><akn:heading>Votes for Decisions.—</akn:heading><akn:content><akn:p>(c) On certification by a State member of a Commission of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Commission under section 15302 shall be required for approval of the application.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

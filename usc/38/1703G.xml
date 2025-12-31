@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1703G" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1703G/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1703G/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1703G"><akn:num>1703G</akn:num><akn:heading>Quarterly report on referrals for non-Department health care</akn:heading><akn:content><akn:p>§ 1703G. Quarterly report on referrals for non-Department health care
+The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a quarterly report containing, with respect to referrals for non-Department health care originating from a medical facility of the Department during the quarter preceding the date of the submission of the report, a measurement of, for each such medical facility—(1) the period of time between—(A) the date on which a clinician employed by the Department determines that a veteran requires care, or a veteran presents to the Department requesting care, and the date on which the referral for care is sent to a non-Department health care provider;
+
+(B) the date on which such referral is sent to a non-Department health care provider and the date on which such non-Department health care provider accepts such referral;
+
+(C) the date on which such non-Department health care provider accepts such referral and the date on which such referral is completed;
+
+(D) the date on which such referral is completed and the date on which an appointment with a non-Department health care provider is made; and
+
+(E) the date on which such an appointment is made and the date on which such appointment occurs; and
+
+
+(2) any other period of time that the Secretary determines necessary.
+
+(Added Pub. L. 118–210, title I, § 140(a), Jan. 2, 2025, 138 Stat. 2743.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 118–210, title I, § 140(b), Jan. 2, 2025, 138 Stat. 2744, provided that: “The first report under section 1703G [38 U.S.C. 1703G], as added by this section, shall be due not later than 180 days after the date of the enactment of this section [Jan. 2, 2025].”</akn:p></akn:content><akn:subsection eId="subsec_1703G_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the period of time between—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1703G_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) any other period of time that the Secretary determines necessary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

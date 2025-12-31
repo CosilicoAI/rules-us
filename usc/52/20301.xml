@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/20301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/20301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/20301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20301"><akn:num>20301</akn:num><akn:heading>Federal responsibilities</akn:heading><akn:content><akn:p>§ 20301. Federal responsibilities(a) Presidential designeeThe President shall designate the head of an executive department to have primary responsibility for Federal functions under this chapter.
+
+
+(b) Duties of Presidential designeeThe Presidential designee shall—(1) consult State and local election officials in carrying out this chapter, and ensure that such officials are aware of the requirements of this Act;
+
+(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as required under section 20302(a)(4) of this title;
+
+(3) carry out section 20303 of this title with respect to the Federal write-in absentee ballot for absent uniformed services voters and overseas voters in general elections for Federal office;
+
+(4) prescribe a suggested design for absentee ballot mailing envelopes;
+
+(5) compile and distribute (A) descriptive material on State absentee registration and voting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions;
+
+(6) not later than the end of each year after a Presidential election year, transmit to the President and the Congress a report on the effectiveness of assistance under this chapter, including a statistical analysis of uniformed services voter participation, a separate statistical analysis of overseas nonmilitary participation, and a description of State-Federal cooperation;
+
+(7) prescribe a standard oath for use with any document under this chapter affirming that a material misstatement of fact in the completion of such a document may constitute grounds for a conviction for perjury;
+
+(8) carry out section 20304 of this title with respect to the collection and delivery of marked absentee ballots of absent overseas uniformed services voters in elections for Federal office;
+
+(9) to the greatest extent practicable, take such actions as may be n</akn:p></akn:content><akn:subsection eId="subsec_20301_a"><akn:num>(a)</akn:num><akn:heading>Presidential designee</akn:heading><akn:content><akn:p>(a) Presidential designee The President shall designate the head of an executive department to have primary responsibility for Federal functions under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20301_b"><akn:num>(b)</akn:num><akn:heading>Duties of Presidential designee</akn:heading><akn:content><akn:p>(b) Duties of Presidential designee The Presidential designee shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20301_c"><akn:num>(c)</akn:num><akn:heading>Duties of other Federal officials</akn:heading><akn:content><akn:p>(c) Duties of other Federal officials</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20301_d"><akn:num>(d)</akn:num><akn:heading>Authorization of appropriations for carrying out Federal Voting Assistance Program Improvements</akn:heading><akn:content><akn:p>(d) Authorization of appropriations for carrying out Federal Voting Assistance Program Improvements There are authorized to be appropriated to the Presidential designee such sums as are necessary for purposes of carrying out subsection (b)(10).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

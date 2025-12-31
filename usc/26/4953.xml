@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4953" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4953/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4953/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4953"><akn:num>4953</akn:num><akn:heading>Tax on excess contributions to black lung benefit trusts</akn:heading><akn:content><akn:p>§ 4953. Tax on excess contributions to black lung benefit trusts(a) Tax imposedThere is hereby imposed for each taxable year a tax in an amount equal to 5 percent of the amount of the excess contributions made by a person to or under a trust or trusts described in section 501(c)(21). The tax imposed by this subsection shall be paid by the person making the excess contribution.
+
+
+(b) Excess contributionFor purposes of this section, the term “excess contribution” means the sum of—(1) the amount by which the amount contributed for the taxable year to a trust or trusts described in section 501(c)(21) exceeds the amount of the deduction allowable to such person for such contributions for the taxable year under section 192, and
+
+(2) the amount determined under this subsection for the preceding taxable year, reduced by the sum of—(A) the excess of the maximum amount allowable as a deduction under section 192 for the taxable year over the amount contributed to the trust or trusts for the taxable year, and
+
+(B) amounts distributed from the trust to the contributor which were excess contributions for the preceding taxable year.
+
+
+
+(c) Treatment of withdrawal of excess contributionsAmounts distributed during the taxable year from a trust described in section 501(c)(21) to the contributor thereof the sum of which does not exceed the amount of the excess contribution made by the contributor shall not be treated as—(1) an act of self-dealing (within the meaning of section 4951),
+
+(2) a taxable expenditure (within the meaning of section 4952), or
+
+(3) an act contrary to the purposes for which the trust is exempt from taxation under section 501(a).
+
+
+(Added Pub. L. 95–227, § 4(c)(1), Feb. 10, 1978, 92 Stat. 22.)</akn:p></akn:content><akn:subsection eId="subsec_4953_a"><akn:num>(a)</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>(a) Tax imposed There is hereby imposed for each taxable year a tax in an amount equal to 5 percent of the amount of the excess contributions made by a person to or under a trust or trusts described in section 501(c)(21). The tax imposed by this subsection shall be paid by the person making the excess contribution.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4953_b"><akn:num>(b)</akn:num><akn:heading>Excess contribution</akn:heading><akn:content><akn:p>(b) Excess contribution For purposes of this section, the term “excess contribution” means the sum of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4953_c"><akn:num>(c)</akn:num><akn:heading>Treatment of withdrawal of excess contributions</akn:heading><akn:content><akn:p>(c) Treatment of withdrawal of excess contributions Amounts distributed during the taxable year from a trust described in section 501(c)(21) to the contributor thereof the sum of which does not exceed the amount of the excess contribution made by the contributor shall not be treated as—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

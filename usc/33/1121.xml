@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/1121" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/1121/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/1121/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1121"><akn:num>1121</akn:num><akn:heading>Congressional declaration of policy</akn:heading><akn:content><akn:p>§ 1121. Congressional declaration of policy(a) FindingsThe Congress finds and declares the following:(1) The national interest requires a strategy to—(A) provide for the understanding and wise use of ocean, coastal, and Great Lakes resources and the environment;
+
+(B) foster economic competitiveness;
+
+(C) promote public stewardship and wise economic development of the coastal ocean and its margins, the Great Lakes, and the exclusive economic zone;
+
+(D) encourage the development of preparation, forecast, analysis, mitigation, response, and recovery systems for coastal hazards;
+
+(E) understand global environmental processes and their impacts on ocean, coastal, and Great Lakes resources; and
+
+(F) promote domestic and international cooperative solutions to ocean, coastal, and Great Lakes issues.
+
+
+(2) Investment in a strong program of integrated research, education, extension, training, technology transfer, and public service is essential for this strategy.
+
+(3) The expanding use and development of ocean, coastal, and Great Lakes resources resulting from growing coastal area populations and the increasing pressures on the coastal and Great Lakes environment challenge the ability of the United States to manage such resources wisely.
+
+(4) The vitality of the Nation and the quality of life of its citizens depend increasingly on the understanding, assessment, development, management, utilization, and conservation of ocean, coastal, and Great Lakes resources. These resources supply food, energy, and minerals and contribute to human health, the quality of the environment, national security, and the enhancement of commerce.
+
+(5) The understanding, assessment, development, management, utilization, and conservation of such resources require a broad commitment and an intense involvement on the part of the Federal Government in continuing partnership with State and local governments, private industry, universities, organizations, and individuals concerned with or affected by ocean,</akn:p></akn:content><akn:subsection eId="subsec_1121_a"><akn:num>(a)</akn:num><akn:heading>Findings</akn:heading><akn:content><akn:p>(a) Findings The Congress finds and declares the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1121_b"><akn:num>(b)</akn:num><akn:heading>Objective</akn:heading><akn:content><akn:p>(b) Objective The objective of this subchapter is to increase the understanding, assessment, development, management, utilization, and conservation of the Nation’s ocean, coastal, and Great Lakes resources by providing assistance to promote a strong educational base, responsive research and training activities, broad and prompt dissemination of knowledge and techniques, and multidisciplinary approaches to environmental problems.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1121_c"><akn:num>(c)</akn:num><akn:heading>Purpose</akn:heading><akn:content><akn:p>(c) Purpose It is the purpose of the Congress to achieve the objective of this subchapter by extending and strengthening the national sea grant program, initially established in 1966, to promote integrated research, education, training, and extension services and activities in fields related to ocean, coastal, and Great Lakes resources.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

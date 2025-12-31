@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2761" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2761/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2761/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2761"><akn:num>2761</akn:num><akn:heading>Restriction on use of funds to pay penalties under environmental laws</akn:heading><akn:content><akn:p>§ 2761. Restriction on use of funds to pay penalties under environmental laws(a) RestrictionFunds appropriated to the Department of Energy for the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy may not be used to pay a penalty, fine, or forfeiture in regard to a defense activity or facility of the Department of Energy due to a failure to comply with any environmental requirement.
+
+
+(b) ExceptionSubsection (a) shall not apply with respect to an environmental requirement if—(1) the President fails to request funds for compliance with the environmental requirement; or
+
+(2) Congress has appropriated funds for such purpose (and such funds have not been sequestered, deferred, or rescinded) and the Secretary of Energy fails to use the funds for such purpose.
+
+
+(Pub. L. 107–314, div. D, title XLVII, § 4721, formerly Pub. L. 99–661, div. C, title I, § 3132, Nov. 14, 1986, 100 Stat. 4063; renumbered Pub. L. 107–314, div. D, title XLVII, § 4721, and amended Pub. L. 108–136, div. C, title XXXI, § 3141(j)(4), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, § 3146(h)(5), Dec. 26, 2013, 127 Stat. 1081.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 7273a of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+
+Amendments2013—Subsec. (b)(2). Pub. L. 113–66 substituted “Congress” for “the Congress”.
+2003—Pub. L. 108–136, § 3141(j)(4)(D), made technical amendment to section catchline.</akn:p></akn:content><akn:subsection eId="subsec_2761_a"><akn:num>(a)</akn:num><akn:heading>Restriction</akn:heading><akn:content><akn:p>(a) Restriction Funds appropriated to the Department of Energy for the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy may not be used to pay a penalty, fine, or forfeiture in regard to a defense activity or facility of the Department of Energy due to a failure to comply with any environmental requirement.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2761_b"><akn:num>(b)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(b) Exception Subsection (a) shall not apply with respect to an environmental requirement if—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

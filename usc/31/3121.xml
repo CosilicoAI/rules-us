@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3121" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3121/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3121/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3121"><akn:num>3121</akn:num><akn:heading>Procedure</akn:heading><akn:content><akn:p>§ 3121. Procedure(a) In issuing obligations under sections 3102–3104 of this title, the Secretary of the Treasury may prescribe—(1) whether an obligation is to be issued on an interest-bearing basis, a discount basis, or an interest-bearing and discount basis;
+
+(2) regulations on the conditions under which the obligation will be offered for sale, including whether it will be offered for sale on a competitive or other basis;
+
+(3) the offering price and interest rate;
+
+(4) the method of computing the interest rate;
+
+(5) the dates for paying principal and interest;
+
+(6) the form and denominations of the obligations; and
+
+(7) other conditions.
+
+
+(b)(1) Under conditions prescribed by the Secretary, an obligation issued under this chapter and redeemable on demand of the owner or holder may be used to pay the United States Government for taxes imposed by it.
+
+(2) An obligation of the Government issued after March 3, 1971, under law may not be redeemed before its maturity to pay a tax imposed by the Government in an amount more than the fair market value of the obligation at the time of its redemption. This paragraph does not apply to a Treasury bill issued under section 3104 of this title.
+
+
+(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
+
+(d) Under conditions prescribed by the Secretary, the Secretary may issue registered bonds in exchange for and instead of coupon bonds that have been or may be issued. The registered bonds shall be similar in all respects to the registered bonds issued under a law authorizing the issue of coupon bonds offered for exchange.
+
+(e) A decision of the Secretary about an issue of obligations under sections 3102–3104 of this title is final.
+
+(f) The Secretary may accept voluntary services in carrying out the sale of public debt obligations.
+
+(g)(1)</akn:p></akn:content><akn:subsection eId="subsec_3121_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) In issuing obligations under sections 3102–3104 of this title, the Secretary of the Treasury may prescribe—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3121_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3121_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3121_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Under conditions prescribed by the Secretary, the Secretary may issue registered bonds in exchange for and instead of coupon bonds that have been or may be issued. The registered bonds shall be similar in all respects to the registered bonds issued under a law authorizing the issue of coupon bonds offered for exchange.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3121_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) A decision of the Secretary about an issue of obligations under sections 3102–3104 of this title is final.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3121_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f) The Secretary may accept voluntary services in carrying out the sale of public debt obligations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3121_g"><akn:num>(g)</akn:num><akn:content><akn:p>(g)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3121_h"><akn:num>(h)</akn:num><akn:content><akn:p>(h)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

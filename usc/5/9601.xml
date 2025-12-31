@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/9601" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/9601/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/9601/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9601"><akn:num>9601</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 9601. Definitions
+For purposes of this chapter—(1) the term “land management agency” means—(A) the Forest Service of the Department of Agriculture;
+
+(B) the Bureau of Land Management of the Department of the Interior;
+
+(C) the National Park Service of the Department of the Interior;
+
+(D) the Fish and Wildlife Service of the Department of the Interior;
+
+(E) the Bureau of Indian Affairs of the Department of the Interior; and
+
+(F) the Bureau of Reclamation of the Department of the Interior; and
+
+
+(2) the term “time-limited appointment” includes a temporary appointment and a term appointment, as defined by the Office of Personnel Management.
+
+(Added Pub. L. 114–47, § 2(a), Aug. 7, 2015, 129 Stat. 485.)</akn:p></akn:content><akn:subsection eId="subsec_9601_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the term “land management agency” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9601_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the term “time-limited appointment” includes a temporary appointment and a term appointment, as defined by the Office of Personnel Management.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

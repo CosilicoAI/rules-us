@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/35/306" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/35/306/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/35/306/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_306"><akn:num>306</akn:num><akn:heading>Appeal</akn:heading><akn:content><akn:p>§ 306. Appeal
+The patent owner involved in a reexamination proceeding under this chapter may appeal under the provisions of section 134, and may seek court review under the provisions of sections 141 to 144, with respect to any decision adverse to the patentability of any original or proposed amended or new claim of the patent.
+(Added Pub. L. 96–517, § 1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 112–29, §§ 6(h)(2)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
+
+Editorial Notes
+Amendments2011—Pub. L. 112–29, § 20(j), struck out “of this title” after “134” and after “144”.
+Pub. L. 112–29, § 6(h)(2)(A), substituted “144” for “145”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2011 AmendmentPub. L. 112–29, § 6(h)(2)(B), Sept. 16, 2011, 125 Stat. 312, provided that: “The amendment made by this paragraph [amending this section] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any appeal of a reexamination before the Board of Patent Appeals and Interferences or the Patent Trial and Appeal Board that is pending on, or brought on or after, the date of the enactment of this Act.”
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+
+Effective DateSection effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

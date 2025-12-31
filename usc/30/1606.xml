@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/30/1606" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/30/1606/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/30/1606/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1606"><akn:num>1606</akn:num><akn:heading>Mineral security</akn:heading><akn:content><akn:p>§ 1606. Mineral security(a) DefinitionsIn this section:(1) ByproductThe term “byproduct” means a critical mineral—(A) the recovery of which depends on the production of a host mineral that is not designated as a critical mineral; and
+
+(B) that exists in sufficient quantities to be recovered during processing or refining.
+
+
+(2) Critical materialThe term “critical material” means—(A) any non-fuel mineral, element, substance, or material that the Secretary of Energy determines—(i) has a high risk of a supply chain disruption; and
+
+(ii) serves an essential function in 1 or more energy technologies, including technologies that produce, transmit, store, and conserve energy; or
+
+
+(B) a critical mineral.
+
+
+(3) Critical mineral(A) In generalThe term “critical mineral” means any mineral, element, substance, or material designated as critical by the Secretary under subsection (c).
+
+
+(B) ExclusionsThe term “critical mineral” does not include—(i) fuel minerals;
+
+(ii) water, ice, or snow;
+
+(iii) common varieties of sand, gravel, stone, pumice, cinders, and clay.
+
+
+
+(4) Indian TribeThe term “Indian Tribe” has the meaning given the term in section 5304 of title 25.
+
+
+(5) SecretaryThe term “Secretary” means the Secretary of the Interior.
+
+
+(6) StateThe term “State” means—(A) a State;
+
+(B) the District of Columbia;
+
+(C) the Commonwealth of Puerto Rico;
+
+(D) Guam;
+
+(E) American Samoa;
+
+(F) the Commonwealth of the Northern Mariana Islands; and
+
+(G) the United States Virgin Islands.
+
+
+(7) Institution of higher educationThe term “institution of higher education” means—(A) an institution of higher education (as defined in section 1001(a) of title 20); or
+
+(B) a postsecondary vocational institution (as defined in section 1002(c) of title 20).
+
+
+
+(b) Omitted
+
+(c) Critical mineral designations(1) Draft methodology and listThe Secretary, acting through the Director of the United States Geological Survey (referred to in this subsection as the “Secretary”), shall publish in the Federal Register</akn:p></akn:content><akn:subsection eId="subsec_1606_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_b"><akn:num>(b)</akn:num><akn:heading>Omitted</akn:heading><akn:content><akn:p>(b) Omitted</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_c"><akn:num>(c)</akn:num><akn:heading>Critical mineral designations</akn:heading><akn:content><akn:p>(c) Critical mineral designations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_d"><akn:num>(d)</akn:num><akn:heading>Resource assessment</akn:heading><akn:content><akn:p>(d) Resource assessment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_e"><akn:num>(e)</akn:num><akn:heading>Report of Small Business Administration</akn:heading><akn:content><akn:p>(e) Report of Small Business Administration Not later than 1 year and 300 days after December 27, 2020, the Administrator of the Small Business Administration shall submit to the applicable committees of Congress a report that assesses the performance of Federal agencies with respect to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_f"><akn:num>(f)</akn:num><akn:heading>Federal Register process</akn:heading><akn:content><akn:p>(f) Federal Register process</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_g"><akn:num>(g)</akn:num><akn:heading>Recycling, innovation, efficiency, and alternatives</akn:heading><akn:content><akn:p>(g) Recycling, innovation, efficiency, and alternatives</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_h"><akn:num>(h)</akn:num><akn:heading>Critical Materials Supply Chain Research Facility</akn:heading><akn:content><akn:p>(h) Critical Materials Supply Chain Research Facility</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_i"><akn:num>(i)</akn:num><akn:heading>Critical Materials Research Database and Information Portal</akn:heading><akn:content><akn:p>(i) Critical Materials Research Database and Information Portal</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1606_j"><akn:num>(j)</akn:num><akn:heading>Analysis and forecasting</akn:heading><akn:content><akn:p>(j) Analysis and forecasting</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

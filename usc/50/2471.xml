@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2471" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2471/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2471/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2471"><akn:num>2471</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 2471. Definitions
+For purposes of this chapter:(1) The term “national security laboratory” means any of the following:(A) Los Alamos National Laboratory, Los Alamos, New Mexico.
+
+(B) Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.
+
+(C) Lawrence Livermore National Laboratory, Livermore, California.
+
+
+(2) The term “nuclear weapons production facility” means any of the following:(A) The Kansas City National Security Campus, Kansas City, Missouri.
+
+(B) The Pantex Plant, Amarillo, Texas.
+
+(C) The Y–12 National Security Complex, Oak Ridge, Tennessee.
+
+(D) The Savannah River Site, Aiken, South Carolina.
+
+(E) The Nevada National Security Site, Nevada.
+
+(F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
+
+
+(3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ([former] 50 U.S.C. 401 note) [now 50 U.S.C. 3001 note], Executive Order No. 12958 of April 17, 1995 ([former] 50 U.S.C. 435 note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
+
+(4) The term “Restricted Data” has the meaning given such term in section 2014(y) of title 42.
+
+(5) The term “congressional defense committees” means—(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
+
+
+(6) The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
+
+(Pub. L. 106–65, div. C, title XXXII, § 3281, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, § 3132(a)(3), (d)(3), (4), Jan. 2, 2013, 126 Stat. 2185, 2187; Pub. L. 113–66, div. </akn:p></akn:content><akn:subsection eId="subsec_2471_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “national security laboratory” means any of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2471_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “nuclear weapons production facility” means any of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2471_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 ([former] 50 U.S.C. 401 note) [now 50 U.S.C. 3001 note], Executive Order No. 12958 of April 17, 1995 ([former] 50 U.S.C. 435 note), or successor orders, to require protection against unauthorized disclosure and that is so designated.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2471_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) The term “Restricted Data” has the meaning given such term in section 2014(y) of title 42.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2471_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) The term “congressional defense committees” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2471_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

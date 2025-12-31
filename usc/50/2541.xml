@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2541" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2541/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2541/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2541"><akn:num>2541</akn:num><akn:heading>Tritium production program</akn:heading><akn:content><akn:p>§ 2541. Tritium production program(a) Establishment of programThe Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons.
+
+
+(b) Location of tritium production facilityThe Secretary shall locate any new tritium production facility of the Department of Energy at the Savannah River Site, South Carolina.
+
+
+(c) In-reactor testsThe Secretary may perform in-reactor tests of tritium target rods as part of the activities carried out under the commercial light water reactor program.
+
+
+(Pub. L. 107–314, div. D, title XLII, § 4231, formerly Pub. L. 104–106, div. C, title XXXI, § 3133, Feb. 10, 1996, 110 Stat. 618; renumbered Pub. L. 107–314, div. D, title XLII, § 4231, and amended Pub. L. 108–136, div. C, title XXXI, § 3141(e)(16), Nov. 24, 2003, 117 Stat. 1761; Pub. L. 112–239, div. C, title XXXI, § 3131(h), Jan. 2, 2013, 126 Stat. 2182; Pub. L. 113–66, div. C, title XXXI, § 3146(c)(11)(A), Dec. 26, 2013, 127 Stat. 1075.)
+
+Editorial Notes
+Codification
+Section was formerly set out as a note under section 2121 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
+Subsec. (b) of section 2543 of this title, which was transferred to the end of this section and redesignated subsec. (c) by Pub. L. 113–66, § 3146(c)(11)(A), was based on Pub. L. 107–314, div. D, title XLII, § 4233, formerly Pub. L. 104–201, div. C, title XXXI, § 3133(c), (d), Sept. 23, 1996, 110 Stat. 2830; renumbered Pub. L. 107–314, div. D, title XLII, § 4233, and amended Pub. L. 108–136, div. C, title XXXI, § 3141(e)(18), Nov. 24, 2003, 117 Stat. 1761.
+
+Amendments2013—Pub. L. 112–239 amended section generally. Prior to amendment, section related to tritium production program.
+Subsec. (c). Pub. L. 113–66 transferred subsec. (b) of section 2543 of this title to the end of this section and redesignated it subsec. (c). See Codification note above.
+2003—Subsec. (a)(1). Pub. L. 108–136, § 3</akn:p></akn:content><akn:subsection eId="subsec_2541_a"><akn:num>(a)</akn:num><akn:heading>Establishment of program</akn:heading><akn:content><akn:p>(a) Establishment of program The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2541_b"><akn:num>(b)</akn:num><akn:heading>Location of tritium production facility</akn:heading><akn:content><akn:p>(b) Location of tritium production facility The Secretary shall locate any new tritium production facility of the Department of Energy at the Savannah River Site, South Carolina.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2541_c"><akn:num>(c)</akn:num><akn:heading>In-reactor tests</akn:heading><akn:content><akn:p>(c) In-reactor tests The Secretary may perform in-reactor tests of tritium target rods as part of the activities carried out under the commercial light water reactor program.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

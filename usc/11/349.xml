@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/349" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/349/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/349/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_349"><akn:num>349</akn:num><akn:heading>Effect of dismissal</akn:heading><akn:content><akn:p>§ 349. Effect of dismissal(a) Unless the court, for cause, orders otherwise, the dismissal of a case under this title does not bar the discharge, in a later case under this title, of debts that were dischargeable in the case dismissed; nor does the dismissal of a case under this title prejudice the debtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(g) of this title.
+
+(b) Unless the court, for cause, orders otherwise, a dismissal of a case other than under section 742 of this title—(1) reinstates—(A) any proceeding or custodianship superseded under section 543 of this title;
+
+(B) any transfer avoided under section 522, 544, 545, 547, 548, 549, or 724(a) of this title, or preserved under section 510(c)(2), 522(i)(2), or 551 of this title; and
+
+(C) any lien voided under section 506(d) of this title;
+
+
+(2) vacates any order, judgment, or transfer ordered, under section 522(i)(1), 542, 550, or 553 of this title; and
+
+(3) revests the property of the estate in the entity in which such property was vested immediately before the commencement of the case under this title.
+
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2569; Pub. L. 98–353, title III, § 303, July 10, 1984, 98 Stat. 352; Pub. L. 103–394, title V, § 501(d)(6), Oct. 22, 1994, 108 Stat. 4144.)
+
+Historical and Revision Notes
+legislative statementsSection 349(b)(2) of the House amendment adds a cross reference to section 553 to reflect the new right of recovery of setoffs created under that section. Corresponding changes are made throughout the House amendment.
+
+senate report no. 95–989Subsection (a) specifies that unless the court for cause orders otherwise, the dismissal of a case is without prejudice. The debtor is not barred from receiving a discharge in a later case of debts that were dischargeable in the case dismissed. Of course, this subsection refers only to pre-discharge dismissals. If the debtor has already received a discharge and it is not revoked, t</akn:p></akn:content><akn:subsection eId="subsec_349_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Unless the court, for cause, orders otherwise, the dismissal of a case under this title does not bar the discharge, in a later case under this title, of debts that were dischargeable in the case dismissed; nor does the dismissal of a case under this title prejudice the debtor with regard to the filing of a subsequent petition under this title, except as provided in section 109(g) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_349_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Unless the court, for cause, orders otherwise, a dismissal of a case other than under section 742 of this title—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

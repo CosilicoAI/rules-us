@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15092" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15092/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15092/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15092"><akn:num>15092</akn:num><akn:heading>Definitions and special rule</akn:heading><akn:content><akn:p>§ 15092. Definitions and special rule(a) DefinitionsIn this subchapter:(1) Child with a disabilityThe term “child with a disability” means an individual who—(A) has a significant physical or mental impairment, as defined pursuant to State policy to the extent that such policy is established without regard to type of disability; or
+
+(B) is an infant or a young child from birth through age 8 and has a substantial developmental delay or specific congenital or acquired condition that presents a high probability of resulting in a disability if services are not provided to the infant or child.
+
+
+(2) Family(A) In generalSubject to subparagraph (B), for purposes of the application of this subchapter in a State, the term “family” has the meaning given the term by the State.
+
+
+(B) Exclusion of employeesThe term does not include an employee who, acting in a paid employment capacity, provides services to a child with a disability in an out-of-home setting such as a hospital, nursing home, personal care home, board and care home, group home, or other facility.
+
+
+
+(3) Family support for families of children with disabilitiesThe term “family support for families of children with disabilities” means supports, resources, services, and other assistance provided to families of children with disabilities pursuant to State policy that are designed to—(A) support families in the efforts of such families to raise their children with disabilities in the home;
+
+(B) strengthen the role of the family as primary caregiver for such children;
+
+(C) prevent involuntary out-of-the-home placement of such children and maintain family unity; and
+
+(D) reunite families with children with disabilities who have been placed out of the home, whenever possible.
+
+
+(4) SecretaryThe term “Secretary” means the Secretary of Health and Human Services.
+
+
+(5) StateThe term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Isl</akn:p></akn:content><akn:subsection eId="subsec_15092_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this subchapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15092_b"><akn:num>(b)</akn:num><akn:heading>Special rule</akn:heading><akn:content><akn:p>(b) Special rule References in this subchapter to a child with a disability shall be considered to include references to an individual who is not younger than age 18 who—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

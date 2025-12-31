@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/2901" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/2901/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/2901/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2901"><akn:num>2901</akn:num><akn:heading>Congressional findings and statement of purpose</akn:heading><akn:content><akn:p>§ 2901. Congressional findings and statement of purpose(a) The Congress finds that—(1) regulated financial institutions are required by law to demonstrate that their deposit facilities serve the convenience and needs of the communities in which they are chartered to do business;
+
+(2) the convenience and needs of communities include the need for credit services as well as deposit services; and
+
+(3) regulated financial institutions have continuing and affirmative obligation to help meet the credit needs of the local communities in which they are chartered.
+
+
+(b) It is the purpose of this chapter to require each appropriate Federal financial supervisory agency to use its authority when examining financial institutions, to encourage such institutions to help meet the credit needs of the local communities in which they are chartered consistent with the safe and sound operation of such institutions.
+
+(Pub. L. 95–128, title VIII, § 802, Oct. 12, 1977, 91 Stat. 1147.)
+
+Statutory Notes and Related Subsidiaries
+Short TitlePub. L. 95–128, title VIII, § 801, Oct. 12, 1977, 91 Stat. 1147, provided that: “This title [enacting this chapter] may be cited as the ‘Community Reinvestment Act of 1977’.”
+
+
+Responsiveness to Community Needs for Financial ServicesPub. L. 106–102, title VII, § 715, Nov. 12, 1999, 113 Stat. 1470, provided that:
+“(a) Study.—The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act [12 U.S.C. 1813(z)]), shall conduct a study of the extent to which adequate services are being provided as intended by the Community Reinvestment Act of 1977 [12 U.S.C. 2901 et seq.], including services in low- and moderate-income neighborhoods and for persons of modest means, as a result of the enactment of this Act [see Tables for classification].
+
+“(b) Reports.—“(1) In general.—The Secretary of the Treasury shall—“(A) before March 15, 2000, submit a baseline report to the Congress on the stud</akn:p></akn:content><akn:subsection eId="subsec_2901_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2901_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) It is the purpose of this chapter to require each appropriate Federal financial supervisory agency to use its authority when examining financial institutions, to encourage such institutions to help meet the credit needs of the local communities in which they are chartered consistent with the safe and sound operation of such institutions.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

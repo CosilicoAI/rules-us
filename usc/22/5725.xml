@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/5725" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/5725/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/5725/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5725"><akn:num>5725</akn:num><akn:heading>Secretary of State report regarding the autonomy of Hong Kong</akn:heading><akn:content><akn:p>§ 5725. Secretary of State report regarding the autonomy of Hong Kong(a) Certification(1) In generalExcept as provided in subsection (b), the Secretary of State, on at least an annual basis, and in conjunction with the report required under section 5731 of this title, shall issue a certification to Congress that—(A) indicates whether Hong Kong continues to warrant treatment under United States law in the same manner as United States laws were applied to Hong Kong before July 1, 1997;
+
+(B) addresses—(i) commercial agreements;
+
+(ii) law enforcement cooperation, including extradition requests;
+
+(iii) sanctions enforcement;
+
+(iv) export controls, and any other agreements and forms of exchange involving dual use, critical, or other sensitive technologies;
+
+(v) any formal treaties or agreements between the United States and Hong Kong;
+
+(vi) other areas of bilateral cooperation that the Secretary determines to be relevant; and
+
+(vii) decision-making within the Government of Hong Kong, including executive, legislative, and judicial structures, including—(I) freedom of assembly;
+
+(II) freedom of speech;
+
+(III) freedom of expression; and
+
+(IV) freedom of the press, including the Internet and social media;
+
+
+(viii) universal suffrage, including the ultimate aim of the selection of the Chief Executive and all members of the Legislative Council by universal suffrage;
+
+(ix) judicial independence;
+
+(x) police and security functions;
+
+(xi) education;
+
+(xii) laws or regulations regarding treason, secession, sedition, subversion against the Central People’s Government of the People’s Republic of China, or theft of state secrets;
+
+(xiii) laws or regulations regarding foreign political organizations or bodies;
+
+(xiv) laws or regulations regarding political organizations; and
+
+(xv) other rights enumerated in the Universal Declaration of Human Rights, done at Paris December 10, 1948, and the International Covenant on Civil and Political Rights, done at New York December 19, 1966; and
+
+
+(</akn:p></akn:content><akn:subsection eId="subsec_5725_a"><akn:num>(a)</akn:num><akn:heading>Certification</akn:heading><akn:content><akn:p>(a) Certification</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5725_b"><akn:num>(b)</akn:num><akn:heading>Waiver authority</akn:heading><akn:content><akn:p>(b) Waiver authority</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

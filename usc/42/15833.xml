@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15833" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15833/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15833/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15833"><akn:num>15833</akn:num><akn:heading>Energy efficiency pilot program</akn:heading><akn:content><akn:p>§ 15833. Energy efficiency pilot program(a) In generalThe Secretary shall establish a pilot program under which the Secretary provides financial assistance to at least 3, but not more than 7, States to carry out pilot projects in the States for—(1) planning and adopting statewide programs that encourage, for each year in which the pilot project is carried out—(A) energy efficiency; and
+
+(B) reduction of consumption of electricity or natural gas in the State by at least 0.75 percent, as compared to a baseline determined by the Secretary for the period preceding the implementation of the program; or
+
+
+(2) for any State that has adopted a statewide program as of August 8, 2005, activities that reduce energy consumption in the State by expanding and improving the program.
+
+
+(b) VerificationA State that receives financial assistance under subsection (a)(1) shall submit to the Secretary independent verification of any energy savings achieved through the statewide program.
+
+
+(c) Authorization of appropriationsThere is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010, to remain available until expended.
+
+
+(Pub. L. 109–58, title I, § 140, Aug. 8, 2005, 119 Stat. 647.)</akn:p></akn:content><akn:subsection eId="subsec_15833_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall establish a pilot program under which the Secretary provides financial assistance to at least 3, but not more than 7, States to carry out pilot projects in the States for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15833_b"><akn:num>(b)</akn:num><akn:heading>Verification</akn:heading><akn:content><akn:p>(b) Verification A State that receives financial assistance under subsection (a)(1) shall submit to the Secretary independent verification of any energy savings achieved through the statewide program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15833_c"><akn:num>(c)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(c) Authorization of appropriations There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010, to remain available until expended.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

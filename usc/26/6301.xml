@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6301"><akn:num>6301</akn:num><akn:heading>Collection authority</akn:heading><akn:content><akn:p>§ 6301. Collection authority
+The Secretary shall collect the taxes imposed by the internal revenue laws.
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+Editorial Notes
+Amendments1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+Statutory Notes and Related Subsidiaries
+Approval Process for Liens, Levies, and SeizuresPub. L. 105–206, title III, § 3421, July 22, 1998, 112 Stat. 758, provided that:
+“(a) In General.—The Commissioner of Internal Revenue shall develop and implement procedures under which—“(1) a determination by an employee to file a notice of lien or levy with respect to, or to levy or seize, any property or right to property would, where appropriate, be required to be reviewed by a supervisor of the employee before the action was taken; and
+
+“(2) appropriate disciplinary action would be taken against the employee or supervisor where the procedures under paragraph (1) were not followed.
+
+
+“(b) Review Process.—The review process under subsection (a)(1) may include a certification that the employee has—“(1) reviewed the taxpayer’s information;
+
+“(2) verified that a balance is due; and
+
+“(3) affirmed that the action proposed to be taken is appropriate given the taxpayer’s circumstances, considering the amount due and the value of the property or right to property.
+
+
+“(c) Effective Dates.—“(1) In general.—Except as provided in paragraph (2), this section shall take effect on the date of the enactment of this Act [July 22, 1998].
+
+“(2) Automated collection system actions.—In the case of any action under an automated collection system, this section shall apply to actions initiated after December 31, 2000.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

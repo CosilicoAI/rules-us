@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/8482" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/8482/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/8482/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8482"><akn:num>8482</akn:num><akn:heading>Trail inventory</akn:heading><akn:content><akn:p>§ 8482. Trail inventory(a) AssessmentNot later than 7 years after January 4, 2025, the Secretary concerned shall—(1) conduct a comprehensive assessment of high-priority trails, in accordance with subsection (b), on Federal recreational lands and waters under the jurisdiction of the respective Secretary concerned, including measuring each trail’s—(A) average and minimum tread width;
+
+(B) average and maximum running slope;
+
+(C) average and maximum cross slope;
+
+(D) tread type; and
+
+(E) length; and
+
+
+(2) make information about such high-priority trails available (including through the use of prominently displayed links) on public websites of—(A) each of the Federal land management agencies; and
+
+(B) each relevant unit and subunit of the Federal land management agencies.
+
+
+
+(b) SelectionThe Secretary concerned shall select high-priority trails to be assessed under subsection (a)(1)—(1) in consultation with stakeholders, including veterans organizations and organizations with expertise or experience providing outdoor recreation opportunities to individuals with disabilities;
+
+(2) in a geographically equitable manner; and
+
+(3) in no fewer than 15 units or subunits managed by the Secretary concerned.
+
+
+(c) Inclusion of current assessmentsAs part of the assessment required under subsection (a)(1), the Secretary concerned may, to the extent practicable, rely on assessments completed or data gathered prior to January 4, 2025.
+
+
+(d) Public information(1) In generalNot later than 7 years after January 4, 2025, the Secretary concerned shall identify opportunities to replace signage and other publicly available information, including web page information, related to such high-priority trails and consistent with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) and section 794 of title 29 at high-priority trails covered by the assessment required under subsection (a)(1).
+
+
+(2) Tread obstaclesAs part of the assessment required under subsection (a)(1), the Secretary ma</akn:p></akn:content><akn:subsection eId="subsec_8482_a"><akn:num>(a)</akn:num><akn:heading>Assessment</akn:heading><akn:content><akn:p>(a) Assessment Not later than 7 years after January 4, 2025, the Secretary concerned shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8482_b"><akn:num>(b)</akn:num><akn:heading>Selection</akn:heading><akn:content><akn:p>(b) Selection The Secretary concerned shall select high-priority trails to be assessed under subsection (a)(1)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8482_c"><akn:num>(c)</akn:num><akn:heading>Inclusion of current assessments</akn:heading><akn:content><akn:p>(c) Inclusion of current assessments As part of the assessment required under subsection (a)(1), the Secretary concerned may, to the extent practicable, rely on assessments completed or data gathered prior to January 4, 2025.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8482_d"><akn:num>(d)</akn:num><akn:heading>Public information</akn:heading><akn:content><akn:p>(d) Public information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8482_e"><akn:num>(e)</akn:num><akn:heading>Assistive technology specification</akn:heading><akn:content><akn:p>(e) Assistive technology specification In publishing information about each trail under this subsection, the Secretary concerned shall make public information about trails that do not meet the Architectural Barriers Act accessibility guidelines but could otherwise provide outdoor recreation opportunities to individuals with disabilities through the use of certain assistive technology.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

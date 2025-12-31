@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/6617" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/6617/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/6617/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6617"><akn:num>6617</akn:num><akn:heading>Authorization of appropriations and spending authority</akn:heading><akn:content><akn:p>§ 6617. Authorization of appropriations and spending authority(a) Authorization of appropriationsExcept as provided in subsection (b), there are authorized to be appropriated—(1) an amount not to exceed 5 percent of the sum of—(A) the sums received by the Secretary from sales of timber and other products of the forests; and
+
+(B) user fees paid in connection with the use of forest lands; and
+
+
+(2) such additional sums as may be necessary to carry out the purposes of this subchapter.
+
+
+(b) Limitation on authorizationSubsection (a) shall not in any way affect payments to the States pursuant to section 500 of title 16.
+
+
+(c) Spending authorityAny spending authority (as defined in section 651 of title 2) provided in this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+
+
+(Pub. L. 101–624, title XXIII, § 2379, Nov. 28, 1990, 104 Stat. 4049.)</akn:p></akn:content><akn:subsection eId="subsec_6617_a"><akn:num>(a)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(a) Authorization of appropriations Except as provided in subsection (b), there are authorized to be appropriated—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6617_b"><akn:num>(b)</akn:num><akn:heading>Limitation on authorization</akn:heading><akn:content><akn:p>(b) Limitation on authorization Subsection (a) shall not in any way affect payments to the States pursuant to section 500 of title 16.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6617_c"><akn:num>(c)</akn:num><akn:heading>Spending authority</akn:heading><akn:content><akn:p>(c) Spending authority Any spending authority (as defined in section 651 of title 2) provided in this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

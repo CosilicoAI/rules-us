@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7406" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7406/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7406/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7406"><akn:num>7406</akn:num><akn:heading>National Institute of Standards and Technology programs</akn:heading><akn:content><akn:p>§ 7406. National Institute of Standards and Technology programs(a), (b) Omitted
+
+(c) Security automation and checklists for Government systems(1) In generalThe Director of the National Institute of Standards and Technology shall, as necessary, develop and revise security automation standards, associated reference materials (including protocols), and checklists providing settings and option selections that minimize the security risks associated with each information technology hardware or software system and security tool that is, or is likely to become, widely used within the Federal Government, thereby enabling standardized and interoperable technologies, architectures, and frameworks for continuous monitoring of information security within the Federal Government.
+
+
+(2) Priorities for developmentThe Director of the National Institute of Standards and Technology shall establish priorities for the development of standards, reference materials, and checklists under this subsection on the basis of—(A) the security risks associated with the use of the system;
+
+(B) the number of agencies that use a particular system or security tool;
+
+(C) the usefulness of the standards, reference materials, or checklists to Federal agencies that are users or potential users of the system;
+
+(D) the effectiveness of the associated standard, reference material, or checklist in creating or enabling continuous monitoring of information security; or
+
+(E) such other factors as the Director of the National Institute of Standards and Technology determines to be appropriate.
+
+
+(3) Excluded systemsThe Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any information technology hardware or software system or security tool for which such Director determines that the development of a standard, reference material, or checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the lack of u</akn:p></akn:content><akn:subsection eId="subsec_7406_a"><akn:num>(a)</akn:num><akn:heading>, (b) Omitted</akn:heading><akn:content><akn:p>(a) , (b) Omitted</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7406_c"><akn:num>(c)</akn:num><akn:heading>Security automation and checklists for Government systems</akn:heading><akn:content><akn:p>(c) Security automation and checklists for Government systems</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7406_d"><akn:num>(d)</akn:num><akn:heading>Federal agency information security programs</akn:heading><akn:content><akn:p>(d) Federal agency information security programs</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

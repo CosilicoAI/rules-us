@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/20152" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/20152/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/20152/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20152"><akn:num>20152</akn:num><akn:heading>Notification of grade crossing problems</akn:heading><akn:content><akn:p>§ 20152. Notification of grade crossing problems(a) In General.—Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall require each railroad carrier to—(1) establish and maintain a toll-free telephone service for rights-of-way over which it dispatches trains, to directly receive calls reporting—(A) malfunctions of signals, crossing gates, and other devices to promote safety at the grade crossing of railroad tracks on those rights-of-way and public or private roads;
+
+(B) disabled vehicles blocking railroad tracks at such grade crossings;
+
+(C) obstructions to the view of a pedestrian or a vehicle operator for a reasonable distance in either direction of a train’s approach; or
+
+(D) other safety information involving such grade crossings;
+
+
+(2) upon receiving a report pursuant to paragraph (1)(A) or (B), immediately contact trains operating near the grade crossing to warn them of the malfunction or disabled vehicle;
+
+(3) upon receiving a report pursuant to paragraph (1)(A) or (B), and after contacting trains pursuant to paragraph (2), contact, as necessary, appropriate public safety officials having jurisdiction over the grade crossing to provide them with the information necessary for them to direct traffic, assist in the removal of the disabled vehicle, or carry out other activities as appropriate;
+
+(4) upon receiving a report pursuant to paragraph (1)(C) or (D), timely investigate the report, remove the obstruction if possible, or correct the unsafe circumstance; and
+
+(5) ensure the placement at each grade crossing on rights-of-way that it owns of appropriately located signs, on which shall appear, at a minimum—(A) a toll-free telephone number to be used for placing calls described in paragraph (1) to the railroad carrier dispatching trains on that right-of-way;
+
+(B) an explanation of the purpose of that toll-free telephone number; and
+
+(C) the grade crossing number assigned for that cros</akn:p></akn:content><akn:subsection eId="subsec_20152_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall require each railroad carrier to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20152_b"><akn:num>(b)</akn:num><akn:heading>Waiver.—</akn:heading><akn:content><akn:p>(b) The Secretary may waive the requirement that the telephone service be toll-free for Class II and Class III rail carriers if the Secretary determines that toll-free service would be cost prohibitive or unnecessary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

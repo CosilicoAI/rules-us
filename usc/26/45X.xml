@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/45X" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/45X/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/45X/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_45X"><akn:num>45X</akn:num><akn:heading>Advanced manufacturing production credit</akn:heading><akn:content><akn:p>§ 45X. Advanced manufacturing production credit(a) In general(1) Allowance of creditFor purposes of section 38, the advanced manufacturing production credit for any taxable year is an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each eligible component which is—(A) produced by the taxpayer, and
+
+(B) during the taxable year, sold by such taxpayer to an unrelated person.
+
+
+(2) Production and sale must be in trade or businessAny eligible component produced and sold by the taxpayer shall be taken into account only if the production and sale described in paragraph (1) is in a trade or business of the taxpayer.
+
+
+(3) Unrelated person(A) In generalFor purposes of this subsection, a taxpayer shall be treated as selling components to an unrelated person if such component is sold to such person by a person related to the taxpayer.
+
+
+(B) Election(i) In generalAt the election of the taxpayer (in such form and manner as the Secretary may prescribe), a sale of components by such taxpayer to a related person shall be deemed to have been made to an unrelated person.
+
+
+(ii) RequirementAs a condition of, and prior to, any election described in clause (i), the Secretary may require such information or registration as the Secretary deems necessary for purposes of preventing duplication, fraud, or any improper or excessive amount determined under paragraph (1).
+
+
+
+
+
+(b) Credit amount(1) In generalSubject to paragraph (3), the amount determined under this subsection with respect to any eligible component, including any eligible component it incorporates, shall be equal to—(A) in the case of a thin film photovoltaic cell or a crystalline photovoltaic cell, an amount equal to the product of—(i) 4 cents, multiplied by
+
+(ii) the capacity of such cell (expressed on a per direct current watt basis),
+
+
+(B) in the case of a photovoltaic wafer, $12 per square meter,
+
+(C) in the case of solar grade polysilicon, $3 per kilogram,
+
+(D) in the case of a</akn:p></akn:content><akn:subsection eId="subsec_45X_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45X_b"><akn:num>(b)</akn:num><akn:heading>Credit amount</akn:heading><akn:content><akn:p>(b) Credit amount</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45X_c"><akn:num>(c)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(c) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45X_d"><akn:num>(d)</akn:num><akn:heading>Special rules</akn:heading><akn:content><akn:p>(d) Special rules In this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

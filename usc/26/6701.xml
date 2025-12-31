@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/6701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/6701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/6701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6701"><akn:num>6701</akn:num><akn:heading>Penalties for aiding and abetting understatement of tax liability</akn:heading><akn:content><akn:p>§ 6701. Penalties for aiding and abetting understatement of tax liability(a) Imposition of penaltyAny person—(1) who aids or assists in, procures, or advises with respect to, the preparation or presentation of any portion of a return, affidavit, claim, or other document,
+
+(2) who knows (or has reason to believe) that such portion will be used in connection with any material matter arising under the internal revenue laws, and
+
+(3) who knows that such portion (if so used) would result in an understatement of the liability for tax of another person,
+
+
+shall pay a penalty with respect to each such document in the amount determined under subsection (b).
+
+(b) Amount of penalty(1) In generalExcept as provided in paragraph (2), the amount of the penalty imposed by subsection (a) shall be $1,000.
+
+
+(2) CorporationsIf the return, affidavit, claim, or other document relates to the tax liability of a corporation, the amount of the penalty imposed by subsection (a) shall be $10,000.
+
+
+(3) Only 1 penalty per person per periodIf any person is subject to a penalty under subsection (a) with respect to any document relating to any taxpayer for any taxable period (or where there is no taxable period, any taxable event), such person shall not be subject to a penalty under subsection (a) with respect to any other document relating to such taxpayer for such taxable period (or event).
+
+
+
+(c) Activities of subordinates(1) In generalFor purposes of subsection (a), the term “procures” includes—(A) ordering (or otherwise causing) a subordinate to do an act, and
+
+(B) knowing of, and not attempting to prevent, participation by a subordinate in an act.
+
+
+(2) SubordinateFor purposes of paragraph (1), the term “subordinate” means any other person (whether or not a director, officer, employee, or agent of the taxpayer involved) over whose activities the person has direction, supervision, or control.
+
+
+
+(d) Taxpayer not required to have knowledgeSubsection (a) shall apply whether or not the understa</akn:p></akn:content><akn:subsection eId="subsec_6701_a"><akn:num>(a)</akn:num><akn:heading>Imposition of penalty</akn:heading><akn:content><akn:p>(a) Imposition of penalty Any person— shall pay a penalty with respect to each such document in the amount determined under subsection (b).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_b"><akn:num>(b)</akn:num><akn:heading>Amount of penalty</akn:heading><akn:content><akn:p>(b) Amount of penalty</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_c"><akn:num>(c)</akn:num><akn:heading>Activities of subordinates</akn:heading><akn:content><akn:p>(c) Activities of subordinates</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_d"><akn:num>(d)</akn:num><akn:heading>Taxpayer not required to have knowledge</akn:heading><akn:content><akn:p>(d) Taxpayer not required to have knowledge Subsection (a) shall apply whether or not the understatement is with the knowledge or consent of the persons authorized or required to present the return, affidavit, claim, or other document.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_e"><akn:num>(e)</akn:num><akn:heading>Certain actions not treated as aid or assistance</akn:heading><akn:content><akn:p>(e) Certain actions not treated as aid or assistance For purposes of subsection (a)(1), a person furnishing typing, reproducing, or other mechanical assistance with respect to a document shall not be treated as having aided or assisted in the preparation of such document by reason of such assistance.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6701_f"><akn:num>(f)</akn:num><akn:heading>Penalty in addition to other penalties</akn:heading><akn:content><akn:p>(f) Penalty in addition to other penalties</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

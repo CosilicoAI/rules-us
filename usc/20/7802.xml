@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/7802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/7802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/7802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7802"><akn:num>7802</akn:num><akn:heading>Applicability of subchapter</akn:heading><akn:content><akn:p>§ 7802. Applicability of subchapter
+Parts B, C, D, E, and F of this subchapter do not apply to subchapter VII of this chapter.
+(Pub. L. 89–10, title VIII, § 8102, formerly title IX, § 9102, as added Pub. L. 107–110, title IX, § 901, Jan. 8, 2002, 115 Stat. 1966; renumbered title VIII, § 8102, and amended Pub. L. 114–95, title VIII, §§ 8001(a)(1), 8003, Dec. 10, 2015, 129 Stat. 2088, 2089, 2099.)
+
+Editorial Notes
+Prior ProvisionsA prior section 7802, Pub. L. 89–10, title IX, § 9102, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3774, set out purpose of provisions relating to Indian education, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+
+Amendments2015—Pub. L. 114–95, § 8003, substituted “Parts B, C, D, E, and F of this subchapter do not apply to subchapter VII” for “Parts B, C, D, and E of this subchapter do not apply to subchapter VIII”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

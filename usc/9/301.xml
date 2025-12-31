@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/9/301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/9/301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/9/301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_301"><akn:num>301</akn:num><akn:heading>Enforcement of Convention</akn:heading><akn:content><akn:p>§ 301. Enforcement of Convention
+The Inter-American Convention on International Commercial Arbitration of January 30, 1975, shall be enforced in United States courts in accordance with this chapter.
+(Added Pub. L. 101–369, § 1, Aug. 15, 1990, 104 Stat. 448.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 101–369, § 3, Aug. 15, 1990, 104 Stat. 450, provided that: “This Act [enacting this chapter] shall take effect upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States.”
+ The Convention entered into force for the United States on Oct. 27, 1990.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

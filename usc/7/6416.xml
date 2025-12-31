@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/6416" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/6416/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/6416/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6416"><akn:num>6416</akn:num><akn:heading>Independent evaluation of programs</akn:heading><akn:content><akn:p>§ 6416. Independent evaluation of programs(a) Review and evaluationThe Comptroller General of the United States shall review and evaluate the order to—(1) determine the effectiveness of the promotion program conducted under this chapter on fluid milk sales;
+
+(2) determine if the assessments for the program have been passed back to milk producers by fluid milk processors; and
+
+(3) make recommendations for future funding and assessment levels for the program.
+
+
+(b) Report to CongressThe Comptroller General shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the valuations made under this section no later than January 1, 1995.
+
+
+(Pub. L. 101–624, title XIX, § 1999Q, Nov. 28, 1990, 104 Stat. 3926.)</akn:p></akn:content><akn:subsection eId="subsec_6416_a"><akn:num>(a)</akn:num><akn:heading>Review and evaluation</akn:heading><akn:content><akn:p>(a) Review and evaluation The Comptroller General of the United States shall review and evaluate the order to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6416_b"><akn:num>(b)</akn:num><akn:heading>Report to Congress</akn:heading><akn:content><akn:p>(b) Report to Congress The Comptroller General shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the valuations made under this section no later than January 1, 1995.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

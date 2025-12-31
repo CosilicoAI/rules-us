@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/3112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/3112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/3112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3112"><akn:num>3112</akn:num><akn:heading>Countercyclical employment policies</akn:heading><akn:content><akn:p>§ 3112. Countercyclical employment policies(a) Programmatic entitiesAny countercyclical efforts undertaken to aid in achieving the purposes of section 3111 of this title shall consider for inclusion the following programmatic entities:(1) accelerated public works, including the development of standby public works projects;
+
+(2) public service employment;
+
+(3) State and local grant programs;
+
+(4) the levels and duration of unemployment insurance;
+
+(5) skill training in both the private and public sectors, both as a general remedy and as a supplement to unemployment insurance;
+
+(6) youth employment programs as specified in section 3115 of this title;
+
+(7) community development programs to provide employment in activities of value to the States, local communities (including rural areas), and the Nation;
+
+(8) Federal procurement programs which are targeted on labor surplus areas; and
+
+(9) augmentation of other employment and training programs which would help to reduce high levels of unemployment arising from cyclical causes.
+
+
+(b) Triggering mechanismIn any countercyclical efforts undertaken, the President shall consider a triggering mechanism which will implement the program during a period of rising unemployment and phase out the program when unemployment is appropriately reduced, and incorporate effective means to facilitate individuals assisted under programs developed pursuant to this section to return promptly to regular private and public employment as the economy recovers.
+
+
+(Pub. L. 95–523, title II, § 202, Oct. 27, 1978, 92 Stat. 1900.)</akn:p></akn:content><akn:subsection eId="subsec_3112_a"><akn:num>(a)</akn:num><akn:heading>Programmatic entities</akn:heading><akn:content><akn:p>(a) Programmatic entities Any countercyclical efforts undertaken to aid in achieving the purposes of section 3111 of this title shall consider for inclusion the following programmatic entities:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3112_b"><akn:num>(b)</akn:num><akn:heading>Triggering mechanism</akn:heading><akn:content><akn:p>(b) Triggering mechanism In any countercyclical efforts undertaken, the President shall consider a triggering mechanism which will implement the program during a period of rising unemployment and phase out the program when unemployment is appropriately reduced, and incorporate effective means to facilitate individuals assisted under programs developed pursuant to this section to return promptly to regular private and public employment as the economy recovers.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

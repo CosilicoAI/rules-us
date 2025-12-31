@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/80110" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/80110/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/80110/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_80110"><akn:num>80110</akn:num><akn:heading>Duty to deliver goods</akn:heading><akn:content><akn:p>§ 80110. Duty to deliver goods(a) General Rules.—Except to the extent a common carrier establishes an excuse provided by law, the carrier must deliver goods covered by a bill of lading on demand of the consignee named in a nonnegotiable bill or the holder of a negotiable bill for the goods when the consignee or holder—(1) offers in good faith to satisfy the lien of the carrier on the goods;
+
+(2) has possession of the bill and, if a negotiable bill, offers to indorse and give the bill to the carrier; and
+
+(3) agrees to sign, on delivery of the goods, a receipt for delivery if requested by the carrier.
+
+
+(b) Persons to Whom Goods May Be Delivered.—Subject to section 80111 of this title, a common carrier may deliver the goods covered by a bill of lading to—(1) a person entitled to their possession;
+
+(2) the consignee named in a nonnegotiable bill; or
+
+(3) a person in possession of a negotiable bill if—(A) the goods are deliverable to the order of that person; or
+
+(B) the bill has been indorsed to that person or in blank by the consignee or another indorsee.
+
+
+
+(c) Common Carrier Claims of Title and Possession.—A claim by a common carrier that the carrier has title to goods or right to their possession is an excuse for nondelivery of the goods only if the title or right is derived from—(1) a transfer made by the consignor or consignee after the shipment; or
+
+(2) the carrier’s lien.
+
+
+(d) Adverse Claims.—If a person other than the consignee or the person in possession of a bill of lading claims title to or possession of goods and the common carrier knows of the claim, the carrier is not required to deliver the goods to any claimant until the carrier has had a reasonable time to decide the validity of the adverse claim or to bring a civil action to require all claimants to interplead.
+
+(e) Interpleader.—If at least 2 persons claim title to or possession of the goods, the common carrier may—(1) bring a civil action to interplead all known claimants to the goods; or
+
+(2) re</akn:p></akn:content><akn:subsection eId="subsec_80110_a"><akn:num>(a)</akn:num><akn:heading>General Rules.—</akn:heading><akn:content><akn:p>(a) Except to the extent a common carrier establishes an excuse provided by law, the carrier must deliver goods covered by a bill of lading on demand of the consignee named in a nonnegotiable bill or the holder of a negotiable bill for the goods when the consignee or holder—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80110_b"><akn:num>(b)</akn:num><akn:heading>Persons to Whom Goods May Be Delivered.—</akn:heading><akn:content><akn:p>(b) Subject to section 80111 of this title, a common carrier may deliver the goods covered by a bill of lading to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80110_c"><akn:num>(c)</akn:num><akn:heading>Common Carrier Claims of Title and Possession.—</akn:heading><akn:content><akn:p>(c) A claim by a common carrier that the carrier has title to goods or right to their possession is an excuse for nondelivery of the goods only if the title or right is derived from—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80110_d"><akn:num>(d)</akn:num><akn:heading>Adverse Claims.—</akn:heading><akn:content><akn:p>(d) If a person other than the consignee or the person in possession of a bill of lading claims title to or possession of goods and the common carrier knows of the claim, the carrier is not required to deliver the goods to any claimant until the carrier has had a reasonable time to decide the validity of the adverse claim or to bring a civil action to require all claimants to interplead.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80110_e"><akn:num>(e)</akn:num><akn:heading>Interpleader.—</akn:heading><akn:content><akn:p>(e) If at least 2 persons claim title to or possession of the goods, the common carrier may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80110_f"><akn:num>(f)</akn:num><akn:heading>Third Person Claims Not a Defense.—</akn:heading><akn:content><akn:p>(f) Except as provided in subsections (b), (d), and (e) of this section, title or a right of a third person is not a defense to an action brought by the consignee of a nonnegotiable bill of lading or by the holder of a negotiable bill against the common carrier for failure to deliver the goods on demand unless enforced by legal process.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

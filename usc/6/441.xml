@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/441" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/441/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/441/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_441"><akn:num>441</akn:num><akn:heading>Administration</akn:heading><akn:content><akn:p>§ 441. Administration(a) In generalThe Secretary shall be responsible for the administration of this part.
+
+
+(b) Designation of qualified anti-terrorism technologiesThe Secretary may designate anti-terrorism technologies that qualify for protection under the system of risk management set forth in this part in accordance with criteria that shall include, but not be limited to, the following:(1) Prior United States Government use or demonstrated substantial utility and effectiveness.
+
+(2) Availability of the technology for immediate deployment in public and private settings.
+
+(3) Existence of extraordinarily large or extraordinarily unquantifiable potential third party liability risk exposure to the Seller or other provider of such anti-terrorism technology.
+
+(4) Substantial likelihood that such anti-terrorism technology will not be deployed unless protections under the system of risk management provided under this part are extended.
+
+(5) Magnitude of risk exposure to the public if such anti-terrorism technology is not deployed.
+
+(6) Evaluation of all scientific studies that can be feasibly conducted in order to assess the capability of the technology to substantially reduce risks of harm.
+
+(7) Anti-terrorism technology that would be effective in facilitating the defense against acts of terrorism, including technologies that prevent, defeat or respond to such acts.
+
+
+(c) RegulationsThe Secretary may issue such regulations, after notice and comment in accordance with section 553 of title 5, as may be necessary to carry out this part.
+
+
+(Pub. L. 107–296, title VIII, § 862, Nov. 25, 2002, 116 Stat. 2238.)
+
+Statutory Notes and Related Subsidiaries
+Short TitleFor short title of this part as the “Support Anti-terrorism by Fostering Effective Technologies Act of 2002” or the “SAFETY Act”, see section 861 of Pub. L. 107–296, set out as a Short Title note under section 101 of this title.</akn:p></akn:content><akn:subsection eId="subsec_441_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall be responsible for the administration of this part.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_b"><akn:num>(b)</akn:num><akn:heading>Designation of qualified anti-terrorism technologies</akn:heading><akn:content><akn:p>(b) Designation of qualified anti-terrorism technologies The Secretary may designate anti-terrorism technologies that qualify for protection under the system of risk management set forth in this part in accordance with criteria that shall include, but not be limited to, the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_441_c"><akn:num>(c)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(c) Regulations The Secretary may issue such regulations, after notice and comment in accordance with section 553 of title 5, as may be necessary to carry out this part.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

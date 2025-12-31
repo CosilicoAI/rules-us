@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/497" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/497/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/497/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_497"><akn:num>497</akn:num><akn:heading>Action to recover operation charge and penalty</akn:heading><akn:content><akn:p>§ 497. Action to recover operation charge and penalty
+In the discretion of the Secretary of the Interior suit or action may be brought for the amounts of operation or maintenance charges in default and penalties in like manner as provided in section 481 of this title.
+(Aug. 13, 1914, ch. 247, § 6, 38 Stat. 688.)
+
+Editorial Notes
+Codification
+Section is comprised of third sentence of section 6 of act Aug. 13, 1914. First and second sentences of such section 6 are classified to sections 479, 493, 494, 495, and 496 of this title, respectively.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

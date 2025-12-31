@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/971" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/971/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/971/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_971"><akn:num>971</akn:num><akn:heading>Service credit: officers may not count service performed while serving as cadet or midshipman</akn:heading><akn:content><akn:p>§ 971. Service credit: officers may not count service performed while serving as cadet or midshipman(a) Prohibition on Counting Enlisted Service Performed While at Service Academy or in Navy Reserve.—The period of service under an enlistment or period of obligated service while also performing service as a cadet or midshipman or serving as a midshipman in the Navy Reserve may not be counted in computing, for any purpose, the length of service of an officer of an armed force or an officer in the Commissioned Corps of the Public Health Service.
+
+(b) Prohibition on Counting Service as a Cadet or Midshipman.—In computing length of service for any purpose, service as a cadet or midshipman may not be credited to any of the following officers:(1) An officer of the Navy or Marine Corps.
+
+(2) A commissioned officer of the Army, Air Force, or Space Force.
+
+(3) An officer of the Coast Guard.
+
+(4) An officer in the Commissioned Corps of the Public Health Service.
+
+
+(c) Service as a Cadet or Midshipman Defined.—In this section, the term “service as a cadet or midshipman” means—(1) service as a cadet at the United States Military Academy, United States Air Force Academy, or United States Coast Guard Academy; or
+
+(2) service as a midshipman at the United States Naval Academy.
+
+
+(Added Pub. L. 85–861, § 1(20), Sept. 2, 1958, 72 Stat. 1442; amended Pub. L. 90–235, § 6(a) (1), Jan. 2, 1968, 81 Stat. 761; Pub. L. 98–557, § 17(a), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 101–189, div. A, title VI, § 652(a)(1)(A), (2), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–201, div. A, title V, § 581, Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title X, § 1073(a)(13), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 109–163, div. A, title V, § 515(b)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 116–283, div. A, title IX, § 924(b)(22), Jan. 1, 2021, 134 Stat. 3824.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+97150:1414.June 25, </akn:p></akn:content><akn:subsection eId="subsec_971_a"><akn:num>(a)</akn:num><akn:heading>Prohibition on Counting Enlisted Service Performed While at Service Academy or in Navy Reserve.—</akn:heading><akn:content><akn:p>(a) The period of service under an enlistment or period of obligated service while also performing service as a cadet or midshipman or serving as a midshipman in the Navy Reserve may not be counted in computing, for any purpose, the length of service of an officer of an armed force or an officer in the Commissioned Corps of the Public Health Service.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_971_b"><akn:num>(b)</akn:num><akn:heading>Prohibition on Counting Service as a Cadet or Midshipman.—</akn:heading><akn:content><akn:p>(b) In computing length of service for any purpose, service as a cadet or midshipman may not be credited to any of the following officers:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_971_c"><akn:num>(c)</akn:num><akn:heading>Service as a Cadet or Midshipman Defined.—</akn:heading><akn:content><akn:p>(c) In this section, the term “service as a cadet or midshipman” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

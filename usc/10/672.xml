@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/672" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/672/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/672/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_672"><akn:num>672</akn:num><akn:heading>Reference to chapter 1209</akn:heading><akn:content><akn:p>§ 672. Reference to chapter 1209
+Provisions of law relating to service of members of reserve components on active duty are set forth in chapter 1209 of this title (beginning with section 12301).
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(e)(4), Oct. 5, 1994, 108 Stat. 2992.)
+
+Editorial Notes
+Prior ProvisionsA prior section 672 was renumbered section 12301 of this title.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

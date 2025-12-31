@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/1155" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/1155/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/1155/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1155"><akn:num>1155</akn:num><akn:heading>Security awareness program</akn:heading><akn:content><akn:p>§ 1155. Security awareness program(a) EstablishmentThe Administrator shall establish a program to promote surface transportation security through the training of surface transportation operators and frontline employees on each of the skills identified in subsection (c).
+
+
+(b) ApplicationThe program established under subsection (a) shall apply to all modes of surface transportation, including public transportation, rail, highway, motor carrier, and pipeline.
+
+
+(c) TrainingThe program established under subsection (a) shall cover, at a minimum, the skills necessary to recognize, assess, and respond to suspicious items or actions that could indicate a threat to transportation.
+
+
+(d) Assessment(1) In generalThe Administrator shall conduct an assessment of current training programs for surface transportation operators and frontline employees.
+
+
+(2) ContentsThe assessment shall identify—(A) whether other training is being provided, either voluntarily or in response to other Federal requirements; and
+
+(B) whether there are any gaps in existing training.
+
+
+
+(e) UpdatesThe Administrator shall ensure the program established under subsection (a) is updated as necessary to address changes in risk and terrorist methods and to close any gaps identified in the assessment under subsection (d).
+
+
+(f) Suspicious activity reporting(1) In generalThe Secretary shall maintain a national telephone number for an individual to use to report suspicious activity under this section to the Administration.
+
+
+(2) ProceduresThe Administrator shall establish procedures for the Administration—(A) to review and follow-up, as necessary, on each report received under paragraph (1); and
+
+(B) to share, as necessary and in accordance with law, the report with appropriate Federal, State, local, and tribal entities.
+
+
+(3) Rule of constructionNothing in this section may be construed to—(A) replace or affect in any way the use of 9–1–1 services in an emergency; or
+
+(B) replace or affect in any way the security</akn:p></akn:content><akn:subsection eId="subsec_1155_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Administrator shall establish a program to promote surface transportation security through the training of surface transportation operators and frontline employees on each of the skills identified in subsection (c).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1155_b"><akn:num>(b)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(b) Application The program established under subsection (a) shall apply to all modes of surface transportation, including public transportation, rail, highway, motor carrier, and pipeline.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1155_c"><akn:num>(c)</akn:num><akn:heading>Training</akn:heading><akn:content><akn:p>(c) Training The program established under subsection (a) shall cover, at a minimum, the skills necessary to recognize, assess, and respond to suspicious items or actions that could indicate a threat to transportation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1155_d"><akn:num>(d)</akn:num><akn:heading>Assessment</akn:heading><akn:content><akn:p>(d) Assessment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1155_e"><akn:num>(e)</akn:num><akn:heading>Updates</akn:heading><akn:content><akn:p>(e) Updates The Administrator shall ensure the program established under subsection (a) is updated as necessary to address changes in risk and terrorist methods and to close any gaps identified in the assessment under subsection (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1155_f"><akn:num>(f)</akn:num><akn:heading>Suspicious activity reporting</akn:heading><akn:content><akn:p>(f) Suspicious activity reporting</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1155_g"><akn:num>(g)</akn:num><akn:heading>Definition of frontline employee</akn:heading><akn:content><akn:p>(g) Definition of frontline employee In this section, the term “frontline employee” includes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

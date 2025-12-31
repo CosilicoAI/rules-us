@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/5962" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/5962/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/5962/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5962"><akn:num>5962</akn:num><akn:heading>Safe schools program authorized</akn:heading><akn:content><akn:p>§ 5962. Safe schools program authorized(a) Authority(1) In generalFrom funds appropriated pursuant to the authority of subsection (b)(1), the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six 11 So in original. Probably should be “Goal Seven”. of the National Education Goals by helping to ensure that all schools are safe and free of violence.
+
+
+(2) Grant duration and amountGrants under this subchapter may not exceed—(A) two fiscal years in duration; and
+
+(B) $3,000,000.
+
+
+(3) Geographic distributionTo the extent practicable, grants under this subchapter shall be awarded to eligible local educational agencies serving rural, as well as urban, areas.
+
+
+
+(b) Authorization of appropriations and reservation(1) AuthorizationThere are authorized to be appropriated $50,000,000 for fiscal year 1994 to carry out this subchapter.
+
+
+(2) ReservationThe Secretary is authorized in each fiscal year to reserve not more than 10 percent of the amount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in section 5966 of this title, of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in section 5966(b) of this title.
+
+
+
+(Pub. L. 103–227, title VII, § 702, Mar. 31, 1994, 108 Stat. 204.)</akn:p></akn:content><akn:subsection eId="subsec_5962_a"><akn:num>(a)</akn:num><akn:heading>Authority</akn:heading><akn:content><akn:p>(a) Authority</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5962_b"><akn:num>(b)</akn:num><akn:heading>Authorization of appropriations and reservation</akn:heading><akn:content><akn:p>(b) Authorization of appropriations and reservation</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

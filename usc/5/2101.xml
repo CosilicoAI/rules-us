@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/2101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/2101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/2101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2101"><akn:num>2101</akn:num><akn:heading>Civil service; armed forces; uniformed services</akn:heading><akn:content><akn:p>§ 2101. Civil service; armed forces; uniformed services
+For the purpose of this title—(1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;
+
+(2) “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard; and
+
+(3) “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 408; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, § 2(a)(4), Aug. 14, 1979, 93 Stat. 381; Pub. L. 116–283, div. A, title IX, § 927(a), Jan. 1, 2021, 134 Stat. 3831.)
+
+Historical and Revision Notes
+1966 ActThe section is supplied to establish basis of reference to employees in this title.
+
+1967 ActThis section amends various sections [§§ 2101, 4102, 4109, 5541, 8101] of title 5, United States Code, to reflect 1965 Reorganization Plan No. 2 (79 Stat. 1318), effective July 13, 1965, which consolidated the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration.
+
+Editorial Notes
+Amendments2021—Par. (2). Pub. L. 116–283 inserted “Space Force,” after “Marine Corps”.
+1979—Par. (3). Pub. L. 96–54 substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1979 AmendmentAmendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+Short Title of 1998 AmendmentPub. L. 105–339, § 1, Oct. 31, 1998, 112 Stat. 3182, provided that: “This Act [enacting sections 3330a to 3330c of this title, section 1316a of Title 2, The Congress, section 115 of Title 3, The President, and section 1354 of Titl</akn:p></akn:content><akn:subsection eId="subsec_2101_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2101_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2101_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

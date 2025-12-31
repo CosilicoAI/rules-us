@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3908" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3908/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3908/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3908"><akn:num>3908</akn:num><akn:heading>Secured loans</akn:heading><akn:content><akn:p>§ 3908. Secured loans(a) Agreements(1) In generalSubject to paragraphs (2) and (3), the Secretary or the Administrator, as applicable, may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used to finance eligible project costs of any project selected under section 3907 of this title.
+
+
+(2) Financial risk assessmentBefore entering into an agreement under this subsection for a secured loan, the Secretary or the Administrator, as applicable, in consultation with the Director of the Office of Management and Budget and each rating agency providing a rating opinion letter under section 3907(a)(1)(D) of this title, shall determine an appropriate capital reserve subsidy amount for the secured loan, taking into account each such rating opinion letter.
+
+
+(3) Investment-grade rating requirementThe execution of a secured loan under this section shall be contingent on receipt by the senior obligations of the project of an investment-grade rating.
+
+
+
+(b) Terms and limitations(1) In generalA secured loan provided for a project under this section shall be subject to such terms and conditions, and contain such covenants, representations, warranties, and requirements (including requirements for audits), as the Secretary or the Administrator, as applicable, determines to be appropriate.
+
+
+(2) Maximum amountThe amount of a secured loan under this section shall not exceed the lesser of—(A) an amount equal to 49 percent of the reasonably anticipated eligible project costs; and
+
+(B) if the secured loan does not receive an investment-grade rating, the amount of the senior project obligations of the project.
+
+
+(3) PaymentA secured loan under this section—(A) shall be payable, in whole or in part, from State or local taxes, user fees, or other dedicated revenue sources that also secure the senior project obligations of the relevant project;
+
+(B) shall include a rate covenant, coverage requirement, or similar security feature supporting the p</akn:p></akn:content><akn:subsection eId="subsec_3908_a"><akn:num>(a)</akn:num><akn:heading>Agreements</akn:heading><akn:content><akn:p>(a) Agreements</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3908_b"><akn:num>(b)</akn:num><akn:heading>Terms and limitations</akn:heading><akn:content><akn:p>(b) Terms and limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3908_c"><akn:num>(c)</akn:num><akn:heading>Repayment</akn:heading><akn:content><akn:p>(c) Repayment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3908_d"><akn:num>(d)</akn:num><akn:heading>Sale of secured loans</akn:heading><akn:content><akn:p>(d) Sale of secured loans</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3908_e"><akn:num>(e)</akn:num><akn:heading>Loan guarantees</akn:heading><akn:content><akn:p>(e) Loan guarantees</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

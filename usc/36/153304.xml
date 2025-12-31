@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/153304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/153304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/153304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_153304"><akn:num>153304</akn:num><akn:heading>Trustees</akn:heading><akn:content><akn:p>§ 153304. Trustees
+The property and affairs of the corporation shall be managed by at least 40 trustees. The trustees shall be elected annually at the time provided in the bylaws. At least one trustee shall be elected annually from a list of nominees to be made by each of the State societies and submitted to the corporation at least 30 days before the annual meeting, in accordance with provisions adopted by the corporation to regulate nominations.
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1424.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+15330436:20d.June 9, 1906, ch. 3065, § 4, 34 Stat. 228; Feb. 6, 1925, ch. 142, 43 Stat. 808.
+
+
+The word “corporation” is substituted for “society” for consistency.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

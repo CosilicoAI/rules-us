@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/150" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/150/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/150/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_150"><akn:num>150</akn:num><akn:heading>Sale of copies of card indexes and other publications</akn:heading><akn:content><akn:p>§ 150. Sale of copies of card indexes and other publications
+The Librarian of Congress is authorized to furnish to such institutions or individuals as may desire to buy them, such copies of the card indexes and other publications of the Library as may not be required for its ordinary transactions, and charge for the same a price which will cover their cost and ten per centum added, and all moneys received by him shall be deposited in the Treasury and shall be credited to the appropriation for necessary expenses for the preparation and distribution of catalog cards and other publications of the Library.
+(June 28, 1902, ch. 1301, § 1, 32 Stat. 480; Pub. L. 95–94, title IV, § 405(a), Aug. 5, 1977, 91 Stat. 682.)
+
+Editorial Notes
+Amendments1977—Pub. L. 95–94 inserted provisions relating to crediting of the moneys deposited in the Treasury.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 1977 AmendmentPub. L. 95–94, title IV, § 405(b), Aug. 5, 1977, 91 Stat. 682, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1977.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

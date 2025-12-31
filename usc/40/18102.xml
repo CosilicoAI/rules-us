@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/40/18102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/40/18102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/40/18102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18102"><akn:num>18102</akn:num><akn:heading>Federal telecommunications system</akn:heading><akn:content><akn:p>§ 18102. Federal telecommunications system(a) Regulations To Ensure Accessibility.—The Administrator of General Services, after consultation with the Architectural and Transportation Barriers Compliance Board, the Interagency Committee on Computer Support of Handicapped Employees, the Federal Communications Commission, and affected federal agencies, shall prescribe regulations to ensure that the federal telecommunications system is fully accessible to hearing-impaired and speech-impaired individuals, including federal employees, for communications with and within federal agencies.
+
+(b) Federal Relay System.—The Administrator shall provide for the continuation of the existing federal relay system for users of TTY’s.
+
+(c) Directory.—The Administrator shall assemble, publish, and maintain a directory of TTY’s and other devices used by federal agencies to comply with regulations prescribed under subsection (a).
+
+(d) Publication of Access Numbers.—The Administrator shall publish access numbers of TTY’s and such other devices in federal agency directories.
+
+(e) Logo.—After consultation with the Board, the Administrator shall adopt the design of a standard logo to signify the presence of a TTY or other device used by a federal agency to comply with regulations prescribed under subsection (a).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1290.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+18102(a)40:762a(a).Pub. L. 100–542, § 3, Oct. 28, 1988, 102 Stat. 2721.
+18102(b)40:762a(b)(1).
+18102(c), (d)40:762a(b)(2)–(5), (c).
+18102(e)40:762a(b)(6).
+
+
+In subsection (a), the words “prescribe regulations to ensure” are substituted for “by regulation, take such actions in accordance with this section as may be necessary to assure” to eliminate unnecessary words.
+In subsection (c), the text of 40:762a(b)(2)–(4) and (c) is omitted as executed and obsolete. The words “In carrying out subsection (a) of this section” are omitted as u</akn:p></akn:content><akn:subsection eId="subsec_18102_a"><akn:num>(a)</akn:num><akn:heading>Regulations To Ensure Accessibility.—</akn:heading><akn:content><akn:p>(a) The Administrator of General Services, after consultation with the Architectural and Transportation Barriers Compliance Board, the Interagency Committee on Computer Support of Handicapped Employees, the Federal Communications Commission, and affected federal agencies, shall prescribe regulations to ensure that the federal telecommunications system is fully accessible to hearing-impaired and speech-impaired individuals, including federal employees, for communications with and within federal agencies.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18102_b"><akn:num>(b)</akn:num><akn:heading>Federal Relay System.—</akn:heading><akn:content><akn:p>(b) The Administrator shall provide for the continuation of the existing federal relay system for users of TTY’s.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18102_c"><akn:num>(c)</akn:num><akn:heading>Directory.—</akn:heading><akn:content><akn:p>(c) The Administrator shall assemble, publish, and maintain a directory of TTY’s and other devices used by federal agencies to comply with regulations prescribed under subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18102_d"><akn:num>(d)</akn:num><akn:heading>Publication of Access Numbers.—</akn:heading><akn:content><akn:p>(d) The Administrator shall publish access numbers of TTY’s and such other devices in federal agency directories.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18102_e"><akn:num>(e)</akn:num><akn:heading>Logo.—</akn:heading><akn:content><akn:p>(e) After consultation with the Board, the Administrator shall adopt the design of a standard logo to signify the presence of a TTY or other device used by a federal agency to comply with regulations prescribed under subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

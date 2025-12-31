@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/5548" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/5548/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/5548/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5548"><akn:num>5548</akn:num><akn:heading>Payments to ensure continuing availability of goods and services during the coronavirus emergency</akn:heading><akn:content><akn:p>§ 5548. Payments to ensure continuing availability of goods and services during the coronavirus emergency(a) Authorization to make paymentsNotwithstanding any other provision of law and subject to subsection (b), during an emergency situation, the Chief Administrative Officer of the House of Representatives may make payments under contracts with vendors providing goods and services to the House in amounts and under terms and conditions other than those provided under the contract in order to ensure that those goods and services remain available to the House throughout the duration of the emergency.
+
+
+(b) Conditions(1) Approval requiredThe Chief Administrative Officer may not make payments under the authority of subsection (a) without the approval of the Committee on House Administration of the House of Representatives.
+
+
+(2) Availability of appropriationsThe authority of the Chief Administrative Officer to make payments under the authority of subsection (a) is subject to the availability of appropriations to make such payments.
+
+
+
+(c) ApplicabilityThis section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.
+
+
+(Pub. L. 116–136, div. B, title IX, § 19003, Mar. 27, 2020, 134 Stat. 578.)
+
+Editorial Notes
+Codification
+Section is from the Emergency Appropriations for Coronavirus Health Response and Agency Operations, which is div. B of the Coronavirus Aid, Relief, and Economic Security Act or the CARES Act.
+
+Statutory Notes and Related Subsidiaries
+
+Definition
+For definition of “coronavirus”, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of this title.</akn:p></akn:content><akn:subsection eId="subsec_5548_a"><akn:num>(a)</akn:num><akn:heading>Authorization to make payments</akn:heading><akn:content><akn:p>(a) Authorization to make payments Notwithstanding any other provision of law and subject to subsection (b), during an emergency situation, the Chief Administrative Officer of the House of Representatives may make payments under contracts with vendors providing goods and services to the House in amounts and under terms and conditions other than those provided under the contract in order to ensure that those goods and services remain available to the House throughout the duration of the emergency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5548_b"><akn:num>(b)</akn:num><akn:heading>Conditions</akn:heading><akn:content><akn:p>(b) Conditions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5548_c"><akn:num>(c)</akn:num><akn:heading>Applicability</akn:heading><akn:content><akn:p>(c) Applicability This section shall apply with respect to fiscal year 2020 and each succeeding fiscal year.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

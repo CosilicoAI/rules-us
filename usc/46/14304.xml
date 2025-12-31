@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/14304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/14304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/14304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_14304"><akn:num>14304</akn:num><akn:heading>Remeasurement</akn:heading><akn:content><akn:p>§ 14304. Remeasurement(a) To the extent necessary, the Secretary shall remeasure a vessel to which this chapter applies if—(1) the Secretary or the owner alleges an error in its measurement; or
+
+(2) the vessel or the use of its space is changed in a way that substantially affects its tonnage.
+
+
+(b) Except as provided in this chapter or section 14504 of this title, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.
+
+(Pub. L. 99–509, title V, § 5101(3), Oct. 21, 1986, 100 Stat. 1921.)
+
+Historical and Revision NotesRevised section 14304
+Source: International Convention on Tonnage Measurement of Ships.
+Section 14304(a) requires the Secretary to remeasure a vessel, to the extent necessary, if there is an alleged error regarding its measurement or if the vessel or its use undergoes a change substantially affecting its tonnage. The phrase “to the extent necessary” was included to indicate that a complete remeasurement of the vessel may not be necessary if, for example, an error was made in one portion of the vessel’s measurement and only that portion needs to be remeasured.
+Section 14304(b) provides that except as provided in section 14504, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.</akn:p></akn:content><akn:subsection eId="subsec_14304_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) To the extent necessary, the Secretary shall remeasure a vessel to which this chapter applies if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_14304_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Except as provided in this chapter or section 14504 of this title, a vessel that has been measured does not have to be remeasured to obtain another document or endorsement under chapter 121 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

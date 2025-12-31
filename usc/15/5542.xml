@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/5542" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/5542/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/5542/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5542"><akn:num>5542</akn:num><akn:heading>Department of Energy high-end computing research and development program</akn:heading><akn:content><akn:p>§ 5542. Department of Energy high-end computing research and development program(a) In generalThe Secretary shall—(1) carry out a coordinated program across the Department of research and development (including development of software and hardware) to advance high-end computing systems; and
+
+(2) develop and deploy high-end computing systems for advanced scientific and engineering applications.
+
+
+(b) ProgramThe program shall—(1) support both individual investigators and multidisciplinary teams of investigators;
+
+(2) conduct research in multiple architectures;
+
+(3) conduct research on software for high-end computing systems, including research on algorithms, programming environments, tools, languages, and operating systems for high-end computing systems, in collaboration with architecture development efforts;
+
+(4) provide for sustained access by the research community in the United States to high-end computing systems and to Leadership Systems, including provision of technical support for users of such systems;
+
+(5) support technology transfer to the private sector and others in accordance with applicable law; and
+
+(6) ensure that the high-end computing activities of the Department of Energy are coordinated with relevant activities in industry and with other Federal agencies, including the National Science Foundation, the Defense Advanced Research Projects Agency, the National Nuclear Security Administration, the National Security Agency, the National Institutes of Health, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institutes of Standards and Technology, and the Environmental Protection Agency.
+
+
+(c) Leadership Systems facilities(1) In generalAs part of the program carried out under this subchapter, the Secretary shall establish and operate 1 or more Leadership Systems facilities to—(A) conduct advanced scientific and engineering research and development using Leadership Systems; and
+
+(B) develo</akn:p></akn:content><akn:subsection eId="subsec_5542_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5542_b"><akn:num>(b)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(b) Program The program shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5542_c"><akn:num>(c)</akn:num><akn:heading>Leadership Systems facilities</akn:heading><akn:content><akn:p>(c) Leadership Systems facilities</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5542_d"><akn:num>(d)</akn:num><akn:heading>Exascale Computing Program</akn:heading><akn:content><akn:p>(d) Exascale Computing Program</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

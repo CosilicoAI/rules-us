@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/300108" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/300108/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/300108/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_300108"><akn:num>300108</akn:num><akn:heading>Buildings</akn:heading><akn:content><akn:p>§ 300108. Buildings(a) Ownership.—The United States Government shall retain ownership of the corporation’s permanent headquarters, comprised of buildings erected on square 172 in the District of Columbia, including—(1) the memorial building to commemorate the service and sacrifice of the women of the United States, North and South, during the Civil War, erected for the use of the corporation;
+
+(2) the memorial building to commemorate the service and sacrifice of the patriotic women of the United States, its territories and possessions, and the District of Columbia during World War I, erected for the use of the corporation; and
+
+(3) the permanent building erected for the use of the corporation in connection with its work in cooperation with the Government.
+
+
+(b) Maintenance and Expenses.—Those buildings shall remain under the supervision of the Administrator of General Services. However, the corporation shall care for and maintain the buildings without expense to the Government.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30010836:13.Feb. 7, 1930, ch. 42, §§ 1, 5, 46 Stat. 66.
+ 36:15.June 7, 1924, ch. 369, §§ 1, 2, 4, 43 Stat. 665, 666.
+
+
+Subsection (a)(1) is substituted for “land occupied in part on June 7, 1924, by the Memorial to the Women of the Civil War, the permanent headquarters of the American Red Cross” in 36:15 because the words in the source refer to the building, provided for by the Act of October 22, 1913 (ch. 32 (par. under heading “Monument to Commemorate the Women of the Civil War”), 38 Stat. 233), that was built as the permanent headquarters of the American Red Cross, the predecessor organization to the corporation.
+In subsection (a)(2), the words “That there is hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated the sum of $150,000 as a part contribution to the erection of . . . with equipment” </akn:p></akn:content><akn:subsection eId="subsec_300108_a"><akn:num>(a)</akn:num><akn:heading>Ownership.—</akn:heading><akn:content><akn:p>(a) The United States Government shall retain ownership of the corporation’s permanent headquarters, comprised of buildings erected on square 172 in the District of Columbia, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_300108_b"><akn:num>(b)</akn:num><akn:heading>Maintenance and Expenses.—</akn:heading><akn:content><akn:p>(b) Those buildings shall remain under the supervision of the Administrator of General Services. However, the corporation shall care for and maintain the buildings without expense to the Government.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

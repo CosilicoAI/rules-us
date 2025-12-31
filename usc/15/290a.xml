@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/290a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/290a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/290a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_290a"><akn:num>290a</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 290a. Definitions
+For the purposes of this chapter:(1) Standard reference dataThe term “standard reference data” means data that is—(A) either—(i) quantitative information related to a measurable physical, or chemical, or biological property of a substance or system of substances of known composition and structure;
+
+(ii) measurable characteristics of a physical artifact or artifacts;
+
+(iii) engineering properties or performance characteristics of a system; or
+
+(iv) 1 or more digital data objects that serve—(I) to calibrate or characterize the performance of a detection or measurement system; or
+
+(II) to interpolate or extrapolate, or both, data described in subparagraph (A) through (C); 11 So in original. and
+
+
+
+(B) that is critically evaluated as to its reliability under section 290b of this title.
+
+
+(2) SecretaryThe term “Secretary” means the Secretary of Commerce.
+
+
+(Pub. L. 90–396, § 2, July 11, 1968, 82 Stat. 340; Pub. L. 114–329, title I, § 108, Jan. 6, 2017, 130 Stat. 2987.)
+
+Editorial Notes
+Amendments2017—Pub. L. 114–329 amended section generally. Prior to amendment, text read as follows: “For the purposes of this chapter—
+“(a) The term ‘standard reference data’ means quantitative information, related to a measurable physical or chemical property of a substance or system of substances of known composition and structure, which is critically evaluated as to its reliability under section 290b of this title.
+“(b) The term ‘Secretary’ means the Secretary of Commerce.”</akn:p></akn:content><akn:subsection eId="subsec_290a_1"><akn:num>(1)</akn:num><akn:heading>Standard reference data</akn:heading><akn:content><akn:p>(1) Standard reference data The term “standard reference data” means data that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_290a_2"><akn:num>(2)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(2) Secretary The term “Secretary” means the Secretary of Commerce.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

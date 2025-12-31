@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/573" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/573/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/573/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_573"><akn:num>573</akn:num><akn:heading>Assessments and reports</akn:heading><akn:content><akn:p>§ 573. Assessments and reports(a) Baseline assessmentNot later than 1 year after October 4, 2006, and not less than every 5 years thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—(1) defines the range of capabilities needed by emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
+
+(2) defines the range of interoperable emergency communications capabilities needed for specific events;
+
+(3) assesses the current available capabilities to meet such communications needs;
+
+(4) identifies the gap between such current capabilities and defined requirements; and
+
+(5) includes a national interoperable emergency communications inventory to be completed by the Secretary of Homeland Security, the Secretary of Commerce, and the Chairman of the Federal Communications Commission that—(A) identifies for each Federal department and agency—(i) the channels and frequencies used;
+
+(ii) the nomenclature used to refer to each channel or frequency used; and
+
+(iii) the types of communications systems and equipment used; and
+
+
+(B) identifies the interoperable emergency communications systems in use by public safety agencies in the United States.
+
+
+
+(b) Classified annexThe baseline assessment under this section may include a classified annex including information provided under subsection (a)(5)(A).
+
+
+(c) Savings clauseIn conducting the baseline assessment under this section, the Secretary may incorporate findings from assessments conducted before, or ongoing on, October 4, 2006.
+
+
+(d) Progress reportsNot later than one year after October 4, 2006, and biennially thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall submit to Congress a report on the progress of the Department in achieving the goals of, a</akn:p></akn:content><akn:subsection eId="subsec_573_a"><akn:num>(a)</akn:num><akn:heading>Baseline assessment</akn:heading><akn:content><akn:p>(a) Baseline assessment Not later than 1 year after October 4, 2006, and not less than every 5 years thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_573_b"><akn:num>(b)</akn:num><akn:heading>Classified annex</akn:heading><akn:content><akn:p>(b) Classified annex The baseline assessment under this section may include a classified annex including information provided under subsection (a)(5)(A).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_573_c"><akn:num>(c)</akn:num><akn:heading>Savings clause</akn:heading><akn:content><akn:p>(c) Savings clause In conducting the baseline assessment under this section, the Secretary may incorporate findings from assessments conducted before, or ongoing on, October 4, 2006.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_573_d"><akn:num>(d)</akn:num><akn:heading>Progress reports</akn:heading><akn:content><akn:p>(d) Progress reports Not later than one year after October 4, 2006, and biennially thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall submit to Congress a report on the progress of the Department in achieving the goals of, and carrying out its responsibilities under, this subchapter, including—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

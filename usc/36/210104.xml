@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/210104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/210104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/210104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_210104"><akn:num>210104</akn:num><akn:heading>Governing body</akn:heading><akn:content><akn:p>§ 210104. Governing body(a) Board of Trustees.—A self-perpetuating board of trustees shall manage and direct the property and affairs of the corporation.
+
+(b) Powers.—The board of trustees may adopt and amend a constitution, bylaws, and regulations for—(1) the selection of successor trustees;
+
+(2) the admission of members;
+
+(3) the election of officers; and
+
+(4) the conduct of the affairs of the corporation.
+
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1456.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+21010436:4704 (1st par., last par. less regulations for membership).May 31, 1920, ch. 216, § 4 (1st par., last par. less regulations for membership), 41 Stat. 693.
+
+
+The text of 36:4704 (2d sentence) is omitted as executed and obsolete.
+In subsection (b), before clause (1), the words “adopt and amend” are substituted for “adopt from time to time . . . and alter, amend, or repeal” for consistency in the revised title and to eliminate unnecessary words. The word “rules” is omitted as included in “regulations”.</akn:p></akn:content><akn:subsection eId="subsec_210104_a"><akn:num>(a)</akn:num><akn:heading>Board of Trustees.—</akn:heading><akn:content><akn:p>(a) A self-perpetuating board of trustees shall manage and direct the property and affairs of the corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_210104_b"><akn:num>(b)</akn:num><akn:heading>Powers.—</akn:heading><akn:content><akn:p>(b) The board of trustees may adopt and amend a constitution, bylaws, and regulations for—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

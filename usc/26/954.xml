@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/954" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/954/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/954/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_954"><akn:num>954</akn:num><akn:heading>Foreign base company income</akn:heading><akn:content><akn:p>§ 954. Foreign base company income(a) Foreign base company incomeFor purposes of section 952(a)(2), the term “foreign base company income” means for any taxable year the sum of—(1) the foreign personal holding company income for the taxable year (determined under subsection (c) and reduced as provided in subsection (b)(5)),
+
+(2) the foreign base company sales income for the taxable year (determined under subsection (d) and reduced as provided in subsection (b)(5)), and
+
+(3) the foreign base company services income for the taxable year (determined under subsection (e) and reduced as provided in subsection (b)(5)).
+
+
+(b) Exclusion and special rules[(1) Repealed. Pub. L. 94–12, title VI, § 602(c)(1), Mar. 29, 1975, 89 Stat. 58]
+
+[(2) Repealed. Pub. L. 99–514, title XII, § 1221(c)(1), Oct. 22, 1986, 100 Stat. 2553]
+
+(3) De minimis, etc., rulesFor purposes of subsection (a) and section 953—(A) De minimis ruleIf the sum of foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year is less than the lesser of—(i) 5 percent of gross income, or
+
+(ii) $1,000,000,
+
+
+no part of the gross income for the taxable year shall be treated as foreign base company income or insurance income.
+
+(B) Foreign base company income and insurance income in excess of 70 percent of gross incomeIf the sum of the foreign base company income (determined without regard to paragraph (5)) and the gross insurance income for the taxable year exceeds 70 percent of gross income, the entire gross income for the taxable year shall, subject to the provisions of paragraphs (4) and (5), be treated as foreign base company income or insurance income (whichever is appropriate).
+
+
+(C) Gross insurance incomeFor purposes of subparagraphs (A) and (B), the term “gross insurance income” means any item of gross income taken into account in determining insurance income under section 953.
+
+
+
+(4) Exception for certain income subject to high foreign taxesFor pur</akn:p></akn:content><akn:subsection eId="subsec_954_a"><akn:num>(a)</akn:num><akn:heading>Foreign base company income</akn:heading><akn:content><akn:p>(a) Foreign base company income For purposes of section 952(a)(2), the term “foreign base company income” means for any taxable year the sum of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_b"><akn:num>(b)</akn:num><akn:heading>Exclusion and special rules</akn:heading><akn:content><akn:p>(b) Exclusion and special rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_c"><akn:num>(c)</akn:num><akn:heading>Foreign personal holding company income</akn:heading><akn:content><akn:p>(c) Foreign personal holding company income</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_d"><akn:num>(d)</akn:num><akn:heading>Foreign base company sales income</akn:heading><akn:content><akn:p>(d) Foreign base company sales income</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_e"><akn:num>(e)</akn:num><akn:heading>Foreign base company services income</akn:heading><akn:content><akn:p>(e) Foreign base company services income</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_f"><akn:num>(f)</akn:num><akn:heading>Repealed. Pub. L. 108–357, title IV, § 415(a)(2), Oct. 22, 2004, 118 Stat. 1511]</akn:heading><akn:content><akn:p>[(f) Repealed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_g"><akn:num>(g)</akn:num><akn:heading>Repealed. Pub. L. 115–97, title I, § 14211(b)(3), Dec. 22, 2017, 131 Stat. 2217]</akn:heading><akn:content><akn:p>[(g) Repealed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_h"><akn:num>(h)</akn:num><akn:heading>Special rule for income derived in the active conduct of banking, financing, or similar businesses</akn:heading><akn:content><akn:p>(h) Special rule for income derived in the active conduct of banking, financing, or similar businesses</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_954_i"><akn:num>(i)</akn:num><akn:heading>Special rule for income derived in the active conduct of insurance business</akn:heading><akn:content><akn:p>(i) Special rule for income derived in the active conduct of insurance business</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

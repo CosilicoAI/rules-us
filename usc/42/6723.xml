@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6723" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6723/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6723/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6723"><akn:num>6723</akn:num><akn:heading>Allocation of amounts</akn:heading><akn:content><akn:p>§ 6723. Allocation of amounts(a) Reservations for eligible States and units of local government(1) The Secretary shall reserve one-third of the amounts appropriated pursuant to authorization under section 6722 of this title for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b).
+
+(2) The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c).
+
+
+(b) State allocation; percentage; definitions(1) The Secretary shall allocate from amounts reserved under subsection (a)(1) an amount for the purpose of making payments to each State equal to the total amount reserved under subsection (a)(1) for the calendar quarter multiplied by the applicable State percentage.
+
+(2) For purposes of this subsection, the applicable State percentage is equal to the quotient resulting from the division of the product of—(A) the State excess unemployment percentage, multiplied by
+
+(B) the State revenue sharing amount by the sum of such products for all the States.
+
+
+(3) For the purposes of this section—(A) the term “State” means each State of the United States;
+
+(B) the State excess unemployment percentage is equal to the difference resulting from the subtraction of 4.5 percentage points from the State unemployment rate for that State but shall not be less than zero;
+
+(C) the State unemployment rate is equal to the rate of unemployment in the State during the appropriate calendar quarter, as determined by the Secretary of Labor and reported to the Secretary; and
+
+(D) the State revenue sharing amount is the amount determined under sections 6705–6707(a) of title 31 11 See References in Text note below. for the most recently completed entitlement period, as defined under section 6701(a)(1) of title 31.
+
+
+
+(c) Local government allocation; percentage; definitions; special limitation(1) The Secretary shall allocate from amounts reserved under subsection (a)(</akn:p></akn:content><akn:subsection eId="subsec_6723_a"><akn:num>(a)</akn:num><akn:heading>Reservations for eligible States and units of local government</akn:heading><akn:content><akn:p>(a) Reservations for eligible States and units of local government</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6723_b"><akn:num>(b)</akn:num><akn:heading>State allocation; percentage; definitions</akn:heading><akn:content><akn:p>(b) State allocation; percentage; definitions</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6723_c"><akn:num>(c)</akn:num><akn:heading>Local government allocation; percentage; definitions; special limitation</akn:heading><akn:content><akn:p>(c) Local government allocation; percentage; definitions; special limitation</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

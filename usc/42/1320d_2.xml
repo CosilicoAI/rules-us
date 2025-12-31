@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1320d–2" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1320d–2/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1320d–2/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1320d_2"><akn:num>1320d–2</akn:num><akn:heading>Standards for information transactions and data elements</akn:heading><akn:content><akn:p>§ 1320d–2. Standards for information transactions and data elements(a) Standards to enable electronic exchange(1) In generalThe Secretary shall adopt standards for transactions, and data elements for such transactions, to enable health information to be exchanged electronically, that are appropriate for—(A) the financial and administrative transactions described in paragraph (2); and
+
+(B) other financial and administrative transactions determined appropriate by the Secretary, consistent with the goals of improving the operation of the health care system and reducing administrative costs, and subject to the requirements under paragraph (5).
+
+
+(2) TransactionsThe transactions referred to in paragraph (1)(A) are transactions with respect to the following:(A) Health claims or equivalent encounter information.
+
+(B) Health claims attachments.
+
+(C) Enrollment and disenrollment in a health plan.
+
+(D) Eligibility for a health plan.
+
+(E) Health care payment and remittance advice.
+
+(F) Health plan premium payments.
+
+(G) First report of injury.
+
+(H) Health claim status.
+
+(I) Referral certification and authorization.
+
+(J) Electronic funds transfers.
+
+
+(3) Accommodation of specific providersThe standards adopted by the Secretary under paragraph (1) shall accommodate the needs of different types of health care providers.
+
+
+(4) Requirements for financial and administrative transactions(A) In generalThe standards and associated operating rules adopted by the Secretary shall—(i) to the extent feasible and appropriate, enable determination of an individual’s eligibility and financial responsibility for specific services prior to or at the point of care;
+
+(ii) be comprehensive, requiring minimal augmentation by paper or other communications;
+
+(iii) provide for timely acknowledgment, response, and status reporting that supports a transparent claims and denial management process (including adjudication and appeals); and
+
+(iv) describe all data elements (including reason and remark codes)</akn:p></akn:content><akn:subsection eId="subsec_1320d_2_a"><akn:num>(a)</akn:num><akn:heading>Standards to enable electronic exchange</akn:heading><akn:content><akn:p>(a) Standards to enable electronic exchange</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_b"><akn:num>(b)</akn:num><akn:heading>Unique health identifiers</akn:heading><akn:content><akn:p>(b) Unique health identifiers</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_c"><akn:num>(c)</akn:num><akn:heading>Code sets</akn:heading><akn:content><akn:p>(c) Code sets</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_d"><akn:num>(d)</akn:num><akn:heading>Security standards for health information</akn:heading><akn:content><akn:p>(d) Security standards for health information</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_e"><akn:num>(e)</akn:num><akn:heading>Electronic signature</akn:heading><akn:content><akn:p>(e) Electronic signature</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_f"><akn:num>(f)</akn:num><akn:heading>Transfer of information among health plans</akn:heading><akn:content><akn:p>(f) Transfer of information among health plans The Secretary shall adopt standards for transferring among health plans appropriate standard data elements needed for the coordination of benefits, the sequential processing of claims, and other data elements for individuals who have more than one health plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_g"><akn:num>(g)</akn:num><akn:heading>Operating rules</akn:heading><akn:content><akn:p>(g) Operating rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_h"><akn:num>(h)</akn:num><akn:heading>Compliance</akn:heading><akn:content><akn:p>(h) Compliance</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_i"><akn:num>(i)</akn:num><akn:heading>Review and amendment of standards and operating rules</akn:heading><akn:content><akn:p>(i) Review and amendment of standards and operating rules</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1320d_2_j"><akn:num>(j)</akn:num><akn:heading>Penalties</akn:heading><akn:content><akn:p>(j) Penalties</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

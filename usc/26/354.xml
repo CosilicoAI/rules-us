@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/354" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/354/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/354/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_354"><akn:num>354</akn:num><akn:heading>Exchanges of stock and securities in certain reorganizations</akn:heading><akn:content><akn:p>§ 354. Exchanges of stock and securities in certain reorganizations(a) General rule(1) In generalNo gain or loss shall be recognized if stock or securities in a corporation a party to a reorganization are, in pursuance of the plan of reorganization, exchanged solely for stock or securities in such corporation or in another corporation a party to the reorganization.
+
+
+(2) Limitation(A) Excess principal amountParagraph (1) shall not apply if—(i) the principal amount of any such securities received exceeds the principal amount of any such securities surrendered, or
+
+(ii) any such securities are received and no such securities are surrendered.
+
+
+(B) Property attributable to accrued interestNeither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder’s holding period.
+
+
+(C) Nonqualified preferred stock(i) In generalNonqualified preferred stock (as defined in section 351(g)(2)) received in exchange for stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+
+
+(ii) Recapitalizations of family-owned corporations(I) In generalClause (i) shall not apply in the case of a recapitalization under section 368(a)(1)(E) of a family-owned corporation.
+
+
+(II) Family-owned corporationFor purposes of this clause, except as provided in regulations, the term “family-owned corporation” means any corporation which is described in clause (i) of section 447(d)(2)(C) 11 See References in Text note below. throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated as owned by a family member during any period described in section 355(d)(6)(B).
+
+
+(III) Extension of </akn:p></akn:content><akn:subsection eId="subsec_354_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_354_b"><akn:num>(b)</akn:num><akn:heading>Exception</akn:heading><akn:content><akn:p>(b) Exception</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_354_c"><akn:num>(c)</akn:num><akn:heading>Certain railroad reorganizations</akn:heading><akn:content><akn:p>(c) Certain railroad reorganizations Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much of section 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, as being in the public interest.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

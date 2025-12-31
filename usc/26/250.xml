@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/250" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/250/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/250/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_250"><akn:num>250</akn:num><akn:heading>Foreign-derived deduction eligible income and net CFC tested income</akn:heading><akn:content><akn:p>§ 250. Foreign-derived deduction eligible income and net CFC tested income(a) Allowance of deduction(1) In generalIn the case of a domestic corporation for any taxable year, there shall be allowed as a deduction an amount equal to the sum of—(A) 33.34 percent of the foreign-derived deduction eligible income of such domestic corporation for such taxable year, plus
+
+(B) 40 percent of—(i) the net CFC tested income amount (if any) which is included in the gross income of such domestic corporation under section 951A for such taxable year, and
+
+(ii) the amount treated as a dividend received by such corporation under section 78 which is attributable to the amount described in clause (i).
+
+
+
+(2) Limitation based on taxable income(A) In generalIf, for any taxable year—(i) the sum of the foreign-derived deduction eligible income and the net CFC tested income amount otherwise taken into account by the domestic corporation under paragraph (1), exceeds
+
+(ii) the taxable income of the domestic corporation (determined without regard to this section),
+
+
+then the amount of the foreign-derived deduction eligible income and the net CFC tested income amount so taken into account shall be reduced as provided in subparagraph (B).
+
+(B) ReductionFor purposes of subparagraph (A)—(i) foreign-derived deduction eligible income shall be reduced by an amount which bears the same ratio to the excess described in subparagraph (A) as such foreign-derived deduction eligible income bears to the sum described in subparagraph (A)(i), and
+
+(ii) the net CFC tested income amount shall be reduced by the remainder of such excess.
+
+
+
+
+(b) Foreign-derived deduction eligible incomeFor purposes of this section—(1) Foreign-derived deduction eligible incomeThe term “foreign-derived deduction eligible income” means, with respect to any taxpayer for any taxable year, any deduction eligible income of such taxpayer which is derived in connection with—(A) property—(i) which is sold by the taxpayer to any person who is</akn:p></akn:content><akn:subsection eId="subsec_250_a"><akn:num>(a)</akn:num><akn:heading>Allowance of deduction</akn:heading><akn:content><akn:p>(a) Allowance of deduction</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_250_b"><akn:num>(b)</akn:num><akn:heading>Foreign-derived deduction eligible income</akn:heading><akn:content><akn:p>(b) Foreign-derived deduction eligible income For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_250_c"><akn:num>(c)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(c) Regulations The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

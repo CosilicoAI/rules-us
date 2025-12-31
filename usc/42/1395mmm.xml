@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1395mmm" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1395mmm/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1395mmm/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1395mmm"><akn:num>1395mmm</akn:num><akn:heading>Limiting Medicare coverage of certain individuals</akn:heading><akn:content><akn:p>§ 1395mmm. Limiting Medicare coverage of certain individuals(a) In generalSubject to subsection (b), an individual may be entitled to, or enrolled for, benefits under this subchapter only if the individual is—(1) a citizen or national of the United States;
+
+(2) an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act;
+
+(3) an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96–422); or
+
+(4) an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 1612(b)(2)(G) of title 8.
+
+
+(b) Application to individuals currently entitled to or enrolled for benefits(1) In generalIn the case of an individual who is entitled to, or enrolled for, benefits under this subchapter as of July 4, 2025, subsection (a) shall apply beginning on the date that is 18 months after July 4, 2025.
+
+
+(2) Review by Commissioner of Social Security(A) In generalNot later than 1 year after July 4, 2025, the Commissioner of Social Security shall complete a review of individuals entitled to, or enrolled for, benefits under this subchapter as of July 4, 2025, for purposes of identifying individuals not described in any of paragraphs (1) through (4) of subsection (a).
+
+
+(B) NoticeThe Commissioner of Social Security shall notify each individual identified under the review conducted under subparagraph (A) that such individual’s entitlement to, or enrollment for, benefits under this subchapter will be terminated as of the date that is 18 months after July 4, 2025. Such notification shall be made as soon as practicable after such identification and in a manner designed to ensure such individual’s comprehension of such notification.
+
+
+
+
+(Aug. 14, 1935, ch. 531, title XVIII, § 1899C, as added Pub. L. 119–21, title VII, § 71201, July 4, 2025, 139 Stat. 319.)
+
+Editorial Notes
+
+References in TextThe </akn:p></akn:content><akn:subsection eId="subsec_1395mmm_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Subject to subsection (b), an individual may be entitled to, or enrolled for, benefits under this subchapter only if the individual is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1395mmm_b"><akn:num>(b)</akn:num><akn:heading>Application to individuals currently entitled to or enrolled for benefits</akn:heading><akn:content><akn:p>(b) Application to individuals currently entitled to or enrolled for benefits</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/31102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/31102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/31102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31102"><akn:num>31102</akn:num><akn:heading>Waiver of immunity</akn:heading><akn:content><akn:p>§ 31102. Waiver of immunity(a) In General.—A civil action in personam in admiralty may be brought, or an impleader filed, against the United States for—(1) damages caused by a public vessel of the United States; or
+
+(2) compensation for towage and salvage services, including contract salvage, rendered to a public vessel of the United States.
+
+
+(b) Counterclaim or Setoff.—If the United States brings a civil action in admiralty for damages caused by a privately owned vessel, the owner of the vessel, or the successor in interest, may file a counterclaim in personam, or claim a setoff, against the United States for damages arising out of the same subject matter.
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1521.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+31102(a)46 App.:781.Mar. 3, 1925, ch. 428, § 1, 43 Stat. 1112.
+31102(b)46 App.:783 (words before proviso).Mar. 3, 1925, ch. 428, § 3 (words before proviso), 43 Stat. 1112.
+
+
+In this section, the words “civil action” are substituted for “libel” because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In subsection (a), the words “Provided, That the cause of action arose after the 6th day of April, 1920” are omitted as unnecessary.
+In subsection (b), the words “in rem or in personam” are omitted as unnecessary. The words “file a counterclaim in personam, or claim a setoff” are substituted for “file a cross libel in personam or claim a set-off or counterclaim” to conform to the terminolgy in the Federal Rules of Civil Procedure and to eliminate unnecessary words. The words “for damages arising out of the same subject matter” are substituted for “in such suit for and on account of any damages arising out of the same subject matter or cause of action” to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_31102_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A civil action in personam in admiralty may be brought, or an impleader filed, against the United States for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31102_b"><akn:num>(b)</akn:num><akn:heading>Counterclaim or Setoff.—</akn:heading><akn:content><akn:p>(b) If the United States brings a civil action in admiralty for damages caused by a privately owned vessel, the owner of the vessel, or the successor in interest, may file a counterclaim in personam, or claim a setoff, against the United States for damages arising out of the same subject matter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

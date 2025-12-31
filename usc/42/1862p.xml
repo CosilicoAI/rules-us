@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/1862p" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/1862p/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/1862p/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1862p"><akn:num>1862p</akn:num><akn:heading>National Center for Science and Engineering Statistics</akn:heading><akn:content><akn:p>§ 1862p. National Center for Science and Engineering Statistics(a) EstablishmentThere is established within the Foundation a National Center for Science and Engineering Statistics that shall serve as a central Federal clearinghouse for the collection, interpretation, analysis, and dissemination of objective data on science, engineering, technology, and research and development.
+
+
+(b) DutiesIn carrying out subsection (a) of this section, the Director, acting through the Center shall—(1) collect, acquire, analyze, report, and disseminate statistical data related to the science and engineering enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including statistical data on—(A) research and development trends;
+
+(B) the science and engineering workforce;
+
+(C) United States competitiveness in science, engineering, technology, and research and development; and
+
+(D) the condition and progress of United States STEM education;
+
+
+(2) support research using the data it collects, and on methodologies in areas related to the work of the Center; and
+
+(3) support the education and training of researchers in the use of large-scale, nationally representative data sets.
+
+
+(c) Statistical reportsThe Director or the National Science Board, acting through the Center, shall issue regular, and as necessary, special statistical reports on topics related to the national and international science and engineering enterprise such as the biennial report required by section 1863(j)(1) of this title on indicators of the state of science and engineering in the United States.
+
+
+(Pub. L. 111–358, title V, § 505, Jan. 4, 2011, 124 Stat. 4007.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as pa</akn:p></akn:content><akn:subsection eId="subsec_1862p_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment There is established within the Foundation a National Center for Science and Engineering Statistics that shall serve as a central Federal clearinghouse for the collection, interpretation, analysis, and dissemination of objective data on science, engineering, technology, and research and development.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1862p_b"><akn:num>(b)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(b) Duties In carrying out subsection (a) of this section, the Director, acting through the Center shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1862p_c"><akn:num>(c)</akn:num><akn:heading>Statistical reports</akn:heading><akn:content><akn:p>(c) Statistical reports The Director or the National Science Board, acting through the Center, shall issue regular, and as necessary, special statistical reports on topics related to the national and international science and engineering enterprise such as the biennial report required by section 1863(j)(1) of this title on indicators of the state of science and engineering in the United States.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

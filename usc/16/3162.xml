@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/3162" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/3162/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/3162/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3162"><akn:num>3162</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3162. Definitions
+For purposes of this subchapter—(1) The term “applicable law” means any law of general applicability (other than this subchapter) under which any Federal department or agency has jurisdiction to grant any authorization (including but not limited to, any right-of-way, permit, license, lease, or certificate) without which a transportation or utility system cannot, in whole or in part, be established or operated.
+
+(2) The term “applicant” means any public or private person, including, but not limited to, any Federal department or agency.
+
+(3) The term “Federal agency” means any Federal department or agency that has any function or duty under applicable law.
+
+(4)(A) The term “transportation or utility system” means any type of system described in subparagraph (B) if any portion of the route of the system will be within any conservation system unit, national recreation area, or national conservation area in the State (and the system is not one that the department or agency having jurisdiction over the unit or area is establishing incident to its management of the unit or area).
+
+(B) The types of systems to which subparagraph (A) applies are as follows:(i) Canals, ditches, flumes, laterals, pipes, pipelines, tunnels, and other systems for the transportation of water.
+
+(ii) Pipelines and other systems for the transportation of liquids other than water, including oil, natural gas, synthetic liquid and gaseous fuels, and any refined product produced therefrom.
+
+(iii) Pipelines, slurry and emulsion systems and conveyor belts for the transportation of solid materials.
+
+(iv) Systems for the transmission and distribution of electric energy.
+
+(v) Systems for transmission or reception of radio, television, telephone, telegraph, and other electronic signals, and other means of communication.
+
+(vi) Improved rights-of-way for snow machines, air cushion vehicles, and other all-terrain vehicles.
+
+(vii) Roads, highways, railroads, tunnels, tramways, airports, landing</akn:p></akn:content><akn:subsection eId="subsec_3162_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “applicable law” means any law of general applicability (other than this subchapter) under which any Federal department or agency has jurisdiction to grant any authorization (including but not limited to, any right-of-way, permit, license, lease, or certificate) without which a transportation or utility system cannot, in whole or in part, be established or operated.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3162_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “applicant” means any public or private person, including, but not limited to, any Federal department or agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3162_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “Federal agency” means any Federal department or agency that has any function or duty under applicable law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3162_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

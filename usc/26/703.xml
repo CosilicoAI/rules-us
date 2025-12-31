@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_703"><akn:num>703</akn:num><akn:heading>Partnership computations</akn:heading><akn:content><akn:p>§ 703. Partnership computations(a) Income and deductionsThe taxable income of a partnership shall be computed in the same manner as in the case of an individual except that—(1) the items described in section 702(a) shall be separately stated, and
+
+(2) the following deductions shall not be allowed to the partnership:(A) the deductions for personal exemptions provided in section 151,
+
+(B) the deduction for taxes provided in section 164(a) with respect to taxes, described in section 901, paid or accrued to foreign countries and to possessions of the United States,
+
+(C) the deduction for charitable contributions provided in section 170,
+
+(D) the net operating loss deduction provided in section 172,
+
+(E) the additional itemized deductions for individuals provided in part VII of subchapter B (sec. 211 and following), and
+
+(F) the deduction for depletion under section 611 with respect to oil and gas wells.
+
+
+
+(b) Elections of the partnershipAny election affecting the computation of taxable income derived from a partnership shall be made by the partnership, except that any election under—(1) subsection (b)(5) or (c)(3) of section 108 (relating to income from discharge of indebtedness),
+
+(2) section 617 (relating to deduction and recapture of certain mining exploration expenditures), or
+
+(3) section 901 (relating to taxes of foreign countries and possessions of the United States),
+
+
+shall be made by each partner separately.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 89–570, § 2(b), Sept. 12, 1966, 80 Stat. 764; Pub. L. 91–172, title V, § 504(c)(3), Dec. 30, 1969, 83 Stat. 633; Pub. L. 92–178, title III, § 304(c), Dec. 10, 1971, 85 Stat. 523; Pub. L. 94–12, title V, § 501(b)(3), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, § 1901(b)(21)(F), title XXI, § 2115(c)(2), Oct. 4, 1976, 90 Stat. 1798, 1909; Pub. L. 95–30, title I, § 101(d)(10), May 23, 1977, 91 Stat. 134; Pub. L. 96–589, § 2(e)(1), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 99–514, title V, § 511(d)(2)(B),</akn:p></akn:content><akn:subsection eId="subsec_703_a"><akn:num>(a)</akn:num><akn:heading>Income and deductions</akn:heading><akn:content><akn:p>(a) Income and deductions The taxable income of a partnership shall be computed in the same manner as in the case of an individual except that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_703_b"><akn:num>(b)</akn:num><akn:heading>Elections of the partnership</akn:heading><akn:content><akn:p>(b) Elections of the partnership Any election affecting the computation of taxable income derived from a partnership shall be made by the partnership, except that any election under— shall be made by each partner separately.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

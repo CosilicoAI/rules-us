@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/6309" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/6309/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/6309/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6309"><akn:num>6309</akn:num><akn:heading>Non-propagation of core-based statistical area delineations</akn:heading><akn:content><akn:p>§ 6309. Non-propagation of core-based statistical area delineations(a) In General.—Beginning on the date of enactment of the MAPS Act of 2021, and notwithstanding any other provision of law, any change to the standards of core-based statistical area delineations pursuant to section 3504(e) of title 44—(1) shall not propagate automatically for any non-statistical use by any domestic assistance program, including any such use as required through—(A) statutory reference to any core-based statistical area delineation; or
+
+(B) administrative or regulatory reference to any core-based statistical area delineation; and
+
+
+(2) shall propagate for any non-statistical use by any domestic assistance program only—(A) if a relevant agency determines that such a propagation—(i) supports the purposes of the program; and
+
+(ii) is in the public interest; and
+
+
+(B) through affirmative adoption through notice-and-comment rulemaking pursuant to section 553 of title 5.
+
+
+
+(b) Definitions.—The definitions in section 4 of the MAPS Act of 2021 shall apply to this section.
+
+(Added Pub. L. 117–219, § 5(a), Dec. 5, 2022, 136 Stat. 2272.)
+
+Statutory Notes and Related Subsidiaries
+
+References in TextThe date of enactment of the MAPS Act of 2021, referred to in subsec. (a), is the date of enactment of Pub. L. 117–219, which was approved Dec. 5, 2022.
+Section 4 of the MAPS Act of 2021, referred to in subsec. (b), is section 4 of Pub. L. 117–219, which is set out as a note under section 6102 of this title.</akn:p></akn:content><akn:subsection eId="subsec_6309_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Beginning on the date of enactment of the MAPS Act of 2021, and notwithstanding any other provision of law, any change to the standards of core-based statistical area delineations pursuant to section 3504(e) of title 44—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6309_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) The definitions in section 4 of the MAPS Act of 2021 shall apply to this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

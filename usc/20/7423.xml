@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/7423" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/7423/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/7423/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7423"><akn:num>7423</akn:num><akn:heading>Amount of grants</akn:heading><akn:content><akn:p>§ 7423. Amount of grants(a) Amount of grant awards(1) In generalExcept as provided in subsection (b) and paragraph (2), the Secretary shall allocate to each local educational agency that has an approved application under this subpart an amount equal to the product of—(A) the number of Indian children who are eligible under section 7427 of this title and served by such agency; and
+
+(B) the greater of—(i) the average per pupil expenditure of the State in which such agency is located; or
+
+(ii) 80 percent of the average per pupil expenditure of all the States.
+
+
+
+(2) ReductionThe Secretary shall reduce the amount of each allocation otherwise determined under this section in accordance with subsection (e).
+
+
+
+(b) Minimum grant(1) In generalNotwithstanding subsection (e), an entity that is eligible for a grant under section 7422 of this title, and a school that is operated or supported by the Bureau of Indian Education that is eligible for a grant under subsection (d), that submits an application that is approved by the Secretary, shall, subject to appropriations, receive a grant under this subpart in an amount that is not less than $3,000.
+
+
+(2) ConsortiaLocal educational agencies may form a consortium for the purpose of obtaining grants under this subpart.
+
+
+(3) IncreaseThe Secretary may increase the minimum grant under paragraph (1) to not more than $4,000 for all grantees if the Secretary determines such increase is necessary to ensure the quality of the programs provided.
+
+
+
+(c) DefinitionFor the purpose of this section, the term “average per pupil expenditure”, used with respect to a State, means an amount equal to—(1) the sum of the aggregate current expenditures of all the local educational agencies in the State, plus any direct current expenditures by the State for the operation of such agencies, without regard to the sources of funds from which such local or State expenditures were made, during the second fiscal year preceding the fiscal year for which the compu</akn:p></akn:content><akn:subsection eId="subsec_7423_a"><akn:num>(a)</akn:num><akn:heading>Amount of grant awards</akn:heading><akn:content><akn:p>(a) Amount of grant awards</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7423_b"><akn:num>(b)</akn:num><akn:heading>Minimum grant</akn:heading><akn:content><akn:p>(b) Minimum grant</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7423_c"><akn:num>(c)</akn:num><akn:heading>Definition</akn:heading><akn:content><akn:p>(c) Definition For the purpose of this section, the term “average per pupil expenditure”, used with respect to a State, means an amount equal to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7423_d"><akn:num>(d)</akn:num><akn:heading>Schools operated or supported by the Bureau of Indian Education</akn:heading><akn:content><akn:p>(d) Schools operated or supported by the Bureau of Indian Education</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7423_e"><akn:num>(e)</akn:num><akn:heading>Ratable reductions</akn:heading><akn:content><akn:p>(e) Ratable reductions If the sums appropriated for any fiscal year under 7492(a) 11 So in original. Probably should be preceded by “section”. of this title are insufficient to pay in full the amounts determined for local educational agencies under subsection (a)(1) and for the Secretary of the Interior under subsection (d), each of those amounts shall be ratably reduced.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

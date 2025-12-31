@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4081" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4081/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4081/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4081"><akn:num>4081</akn:num><akn:heading>Imposition of tax</akn:heading><akn:content><akn:p>§ 4081. Imposition of tax(a) Tax imposed(1) Tax on removal, entry, or sale(A) In generalThere is hereby imposed a tax at the rate specified in paragraph (2) on—(i) the removal of a taxable fuel from any refinery,
+
+(ii) the removal of a taxable fuel from any terminal,
+
+(iii) the entry into the United States of any taxable fuel for consumption, use, or warehousing, and
+
+(iv) the sale of a taxable fuel to any person who is not registered under section 4101 unless there was a prior taxable removal or entry of such fuel under clause (i), (ii), or (iii).
+
+
+(B) Exemption for bulk transfers to registered terminals or refineries(i) In generalThe tax imposed by this paragraph shall not apply to any removal or entry of a taxable fuel transferred in bulk by pipeline or vessel to a terminal or refinery if the person removing or entering the taxable fuel, the operator of such pipeline or vessel (except as provided in clause (ii)), and the operator of such terminal or refinery are registered under section 4101.
+
+
+(ii) Nonapplication of registration to vessel operators entering by deep-draft vesselFor purposes of clause (i), a vessel operator is not required to be registered with respect to the entry of a taxable fuel transferred in bulk by a vessel described in section 4042(c)(1).
+
+
+
+
+(2) Rates of tax(A) In generalThe rate of the tax imposed by this section is—(i) in the case of gasoline other than aviation gasoline, 18.3 cents per gallon,
+
+(ii) in the case of aviation gasoline, 19.3 cents per gallon, and
+
+(iii) in the case of diesel fuel or kerosene, 24.3 cents per gallon.
+
+
+(B) Leaking Underground Storage Tank Trust Fund taxThe rates of tax specified in subparagraph (A) shall each be increased by 0.1 cent per gallon. The increase in tax under this subparagraph shall in this title be referred to as the Leaking Underground Storage Tank Trust Fund financing rate.
+
+
+(C) Taxes imposed on fuel used in aviationIn the case of kerosene which is removed from any refinery or terminal direc</akn:p></akn:content><akn:subsection eId="subsec_4081_a"><akn:num>(a)</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>(a) Tax imposed</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4081_b"><akn:num>(b)</akn:num><akn:heading>Treatment of removal or subsequent sale by blender</akn:heading><akn:content><akn:p>(b) Treatment of removal or subsequent sale by blender</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4081_c"><akn:num>(c)</akn:num><akn:heading>Later separation of fuel from diesel-water fuel emulsion</akn:heading><akn:content><akn:p>(c) Later separation of fuel from diesel-water fuel emulsion If any person separates the taxable fuel from a diesel-water fuel emulsion on which tax was imposed under subsection (a) at a rate determined under subsection (a)(2)(D) (or with respect to which a credit or payment was allowed or made by reason of section 6427), such person shall be treated as the refiner of such taxable fuel. The amount of tax imposed on any removal of such fuel by such person shall be reduced by the amount of tax imposed (and not credited or refunded) on any prior removal or entry of such fuel.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4081_d"><akn:num>(d)</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>(d) Termination</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4081_e"><akn:num>(e)</akn:num><akn:heading>Refunds in certain cases</akn:heading><akn:content><akn:p>(e) Refunds in certain cases Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

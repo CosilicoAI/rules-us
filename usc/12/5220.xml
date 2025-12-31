@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5220" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5220/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5220/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5220"><akn:num>5220</akn:num><akn:heading>Assistance to homeowners</akn:heading><akn:content><akn:p>§ 5220. Assistance to homeowners(a) DefinitionsAs used in this section—(1) the term “Federal property manager” means—(A) the Federal Housing Finance Agency, in its capacity as conservator of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation;
+
+(B) the Corporation, with respect to residential mortgage loans and mortgage-backed securities held by any bridge depository institution pursuant to section 1821(n) of this title; and
+
+(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,11 See References in Text note below. or as collateral for an advance or discount that is not in default;
+
+
+(2) the term “consumer” has the same meaning as in section 1602 of title 15;
+
+(3) the term “insured depository institution” has the same meaning as in section 1813 of this title; and
+
+(4) the term “servicer” has the same meaning as in section 2605(i)(2) of this title.
+
+
+(b) Homeowner assistance by agencies(1) In generalTo the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed 22 So in original. Probably should be “mortgage-backed”. securities, and other assets secured by residential real estate, including multifamily housing, the Federal property manager shall implement a plan that seeks to maximize assistance for homeowners and use its authority to encourage the servicers of the underlying mortgages, and considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 of this title or other available programs to minimize foreclosures.
+
+
+(2) ModificationsIn the case of a residential mortgage loan, modifications made under paragraph (1) may include—(A) reduction in interest rates;
+
+(B) reduct</akn:p></akn:content><akn:subsection eId="subsec_5220_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions As used in this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5220_b"><akn:num>(b)</akn:num><akn:heading>Homeowner assistance by agencies</akn:heading><akn:content><akn:p>(b) Homeowner assistance by agencies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5220_c"><akn:num>(c)</akn:num><akn:heading>Actions with respect to servicers</akn:heading><akn:content><akn:p>(c) Actions with respect to servicers In any case in which a Federal property manager is not the owner of a residential mortgage loan, but holds an interest in obligations or pools of obligations secured by residential mortgage loans, the Federal property manager shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5220_d"><akn:num>(d)</akn:num><akn:heading>Limitation</akn:heading><akn:content><akn:p>(d) Limitation The requirements of this section shall not supersede any other duty or requirement imposed on the Federal property managers under otherwise applicable law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

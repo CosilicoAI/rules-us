@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18998" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18998/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18998/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18998"><akn:num>18998</akn:num><akn:heading>Mandatory cost-sharing</akn:heading><akn:content><akn:p>§ 18998. Mandatory cost-sharing(a) WaiverThe cost-sharing requirements under section 1862o-14(c) of this title for the Major Research Instrumentation Program and under section 1862n-1a(i) of this title for teaching fellowships administered within the Robert Noyce Teacher Scholarship Program are waived for a period of 5 years following August 9, 2022.
+
+
+(b) AssessmentNot later than 5 years following August 9, 2022, the Director shall submit to Congress an assessment, that includes feedback from the research community, of the impacts of the waivers provided under subsection (a), including—(1) programmatic and scientific goals;
+
+(2) institutional commitment and stewardship of Federal resources;
+
+(3) institutional strategic planning and administrative burden;
+
+(4) equity among recipient institutions; and
+
+(5) recommendations for or against extending or making permanent such waivers.
+
+
+(Pub. L. 117–167, div. B, title III, § 10320, Aug. 9, 2022, 136 Stat. 1536.)</akn:p></akn:content><akn:subsection eId="subsec_18998_a"><akn:num>(a)</akn:num><akn:heading>Waiver</akn:heading><akn:content><akn:p>(a) Waiver The cost-sharing requirements under section 1862o-14(c) of this title for the Major Research Instrumentation Program and under section 1862n-1a(i) of this title for teaching fellowships administered within the Robert Noyce Teacher Scholarship Program are waived for a period of 5 years following August 9, 2022.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18998_b"><akn:num>(b)</akn:num><akn:heading>Assessment</akn:heading><akn:content><akn:p>(b) Assessment Not later than 5 years following August 9, 2022, the Director shall submit to Congress an assessment, that includes feedback from the research community, of the impacts of the waivers provided under subsection (a), including—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

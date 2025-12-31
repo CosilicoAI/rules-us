@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/1607" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/1607/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/1607/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1607"><akn:num>1607</akn:num><akn:heading>Counterclaims</akn:heading><akn:content><akn:p>§ 1607. Counterclaims
+In any action brought by a foreign state, or in which a foreign state intervenes, in a court of the United States or of a State, the foreign state shall not be accorded immunity with respect to any counterclaim—(a) for which a foreign state would not be entitled to immunity under section 1605 or 1605A of this chapter had such claim been brought in a separate action against the foreign state; or
+
+(b) arising out of the transaction or occurrence that is the subject matter of the claim of the foreign state; or
+
+(c) to the extent that the counterclaim does not seek relief exceeding in amount or differing in kind from that sought by the foreign state.
+
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2894; amended Pub. L. 110–181, div. A, title X, § 1083(b)(2), Jan. 28, 2008, 122 Stat. 341.)
+
+Editorial Notes
+Amendments2008—Subsec. (a). Pub. L. 110–181 inserted “or 1605A” after “section 1605”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2008 AmendmentFor applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of this title.
+
+Effective DateSection effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.</akn:p></akn:content><akn:subsection eId="subsec_1607_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) for which a foreign state would not be entitled to immunity under section 1605 or 1605A of this chapter had such claim been brought in a separate action against the foreign state; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1607_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) arising out of the transaction or occurrence that is the subject matter of the claim of the foreign state; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1607_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) to the extent that the counterclaim does not seek relief exceeding in amount or differing in kind from that sought by the foreign state.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

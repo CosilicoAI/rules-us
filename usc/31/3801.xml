@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3801" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3801/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3801/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3801"><akn:num>3801</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 3801. Definitions(a) For purposes of this chapter—(1) “authority” means—(A) an executive department;
+
+(B) a military department;
+
+(C) an establishment (as such term is defined in section 401 of title 5) which is not an executive department;
+
+(D) the United States Postal Service;
+
+(E) the National Science Foundation; and
+
+(F) a designated Federal entity (as such term is defined under section 415(a) of title 5);
+
+
+(2) “authority head” means—(A) the head of an authority; or
+
+(B) an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
+
+
+(3) “claim” means any request, demand, or submission—(A) made to an authority for property, services, or money (including money representing grants, loans, insurance, or benefits);
+
+(B) made to a recipient of property, services, or money from an authority or to a party to a contract with an authority—(i) for property or services if the United States—(I) provided such property or services;
+
+(II) provided any portion of the funds for the purchase of such property or services; or
+
+(III) will reimburse such recipient or party for the purchase of such property or services; or
+
+
+(ii) for the payment of money (including money representing grants, loans, insurance, or benefits) if the United States—(I) provided any portion of the money requested or demanded; or
+
+(II) will reimburse such recipient or party for any portion of the money paid on such request or demand; or
+
+
+
+(C) made to an authority which has the effect of concealing or improperly avoiding or decreasing an obligation to pay or transmit property, services, or money to the authority,
+
+
+except that such term does not include any claim made in any return of tax imposed by the Internal Revenue Code of 1986;
+
+(4) “investigating official” means an individual who—(A)(i) in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any othe</akn:p></akn:content><akn:subsection eId="subsec_3801_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For purposes of this chapter—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For purposes of paragraph (3) of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) For purposes of paragraph (9) of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3801_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) For purposes of subsection (a)(10), materiality shall be determined in the same manner as under section 3729 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

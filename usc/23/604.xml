@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/604" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/604/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/604/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_604"><akn:num>604</akn:num><akn:heading>Lines of credit</akn:heading><akn:content><akn:p>§ 604. Lines of credit(a) In General.—(1) Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
+
+(2) Use of proceeds.—The proceeds of a line of credit made available under this section shall be available to pay debt service on project obligations issued to finance eligible project costs, extraordinary repair and replacement costs, operation and maintenance expenses, and costs associated with unexpected Federal or State environmental restrictions.
+
+(3) Risk assessment.—Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget and each rating agency providing a preliminary rating opinion letter under section 602(b)(3), shall determine an appropriate capital reserve subsidy amount for each line of credit, taking into account the rating opinion letter.
+
+(4) Investment-grade rating requirement.—The funding of a line of credit under this section shall be contingent on the senior obligations of the project receiving an investment-grade rating from 2 rating agencies.
+
+
+(b) Terms and Limitations.—(1) In general.—A line of credit under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.
+
+(2) Maximum amounts.—The total amount of a line of credit under this section shall not exceed 33 percent of the reasonably anticipated eligible project costs.
+
+(3) Draws.—Any draw on a line of credit under this section shall—(A) represent a direct loan; and
+
+(B) be made only if net revenues from the project (including capitalized interest, but not including reasonably required financing r</akn:p></akn:content><akn:subsection eId="subsec_604_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_604_b"><akn:num>(b)</akn:num><akn:heading>Terms and Limitations.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_604_c"><akn:num>(c)</akn:num><akn:heading>Repayment.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

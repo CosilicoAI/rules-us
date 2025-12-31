@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/101338" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/101338/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/101338/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_101338"><akn:num>101338</akn:num><akn:heading>General leasing provisions</akn:heading><akn:content><akn:p>§ 101338. General leasing provisions(a) Exemption From Leasing Requirements.—Section 102901 of this title and section 1302 of title 40 shall not apply to leases issued by the Secretary under this section.
+
+(b) Proceeds From Leases.—The proceeds from any lease under section 101335(a)(1) of this title and any lease under section 101337 of this title shall be retained by the Service and deposited in the special fund established for maintenance and operation of quarters.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3128.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+101338(a)16 U.S.C. 17o(17)(C).Pub. L. 104–333, div. I, title VIII, § 814(a)(17)(C), Nov. 12, 1996, 110 Stat. 4194.
+101338(b)16 U.S.C. 17o(18).Pub. L. 104–333, div. I, title VIII, § 814(a)(18), Nov. 12, 1996, 110 Stat. 4191; Pub. L. 106–176, title I, § 120(a)(1)(F), Mar. 10, 2000, 114 Stat. 28.</akn:p></akn:content><akn:subsection eId="subsec_101338_a"><akn:num>(a)</akn:num><akn:heading>Exemption From Leasing Requirements.—</akn:heading><akn:content><akn:p>(a) Section 102901 of this title and section 1302 of title 40 shall not apply to leases issued by the Secretary under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_101338_b"><akn:num>(b)</akn:num><akn:heading>Proceeds From Leases.—</akn:heading><akn:content><akn:p>(b) The proceeds from any lease under section 101335(a)(1) of this title and any lease under section 101337 of this title shall be retained by the Service and deposited in the special fund established for maintenance and operation of quarters.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

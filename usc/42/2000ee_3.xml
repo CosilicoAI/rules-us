@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/2000ee–3" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/2000ee–3/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/2000ee–3/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2000ee_3"><akn:num>2000ee–3</akn:num><akn:heading>Federal agency data mining reporting</akn:heading><akn:content><akn:p>§ 2000ee–3. Federal agency data mining reporting(a) Short titleThis section may be cited as the “Federal Agency Data Mining Reporting Act of 2007”.
+
+
+(b) DefinitionsIn this section:(1) Data miningThe term “data mining” means a program involving pattern-based queries, searches, or other analyses of 1 or more electronic databases, where—(A) a department or agency of the Federal Government, or a non-Federal entity acting on behalf of the Federal Government, is conducting the queries, searches, or other analyses to discover or locate a predictive pattern or anomaly indicative of terrorist or criminal activity on the part of any individual or individuals;
+
+(B) the queries, searches, or other analyses are not subject-based and do not use personal identifiers of a specific individual, or inputs associated with a specific individual or group of individuals, to retrieve information from the database or databases; and
+
+(C) the purpose of the queries, searches, or other analyses is not solely—(i) the detection of fraud, waste, or abuse in a Government agency or program; or
+
+(ii) the security of a Government computer system.
+
+
+
+(2) DatabaseThe term “database” does not include telephone directories, news reporting, information publicly available to any member of the public without payment of a fee, or databases of judicial and administrative opinions or other legal research sources.
+
+
+
+(c) Reports on data mining activities by Federal agencies(1) Requirement for reportThe head of each department or agency of the Federal Government that is engaged in any activity to use or develop data mining shall submit a report to Congress on all such activities of the department or agency under the jurisdiction of that official. The report shall be produced in coordination with the privacy officer of that department or agency, if applicable, and shall be made available to the public, except for an annex described in subparagraph (C).11 So in original. Probably should be “paragraph (3)”.
+
+
+(2) </akn:p></akn:content><akn:subsection eId="subsec_2000ee_3_a"><akn:num>(a)</akn:num><akn:heading>Short title</akn:heading><akn:content><akn:p>(a) Short title This section may be cited as the “Federal Agency Data Mining Reporting Act of 2007”.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2000ee_3_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2000ee_3_c"><akn:num>(c)</akn:num><akn:heading>Reports on data mining activities by Federal agencies</akn:heading><akn:content><akn:p>(c) Reports on data mining activities by Federal agencies</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

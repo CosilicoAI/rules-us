@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1636d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1636d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1636d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1636d"><akn:num>1636d</akn:num><akn:heading>Recordkeeping</akn:heading><akn:content><akn:p>§ 1636d. Recordkeeping(a) In generalSubject to subsection (b), each packer required to report information to the Secretary under this subchapter shall maintain, and make available to the Secretary on request, for 2 years—(1) the original contracts, agreements, receipts and other records associated with any transaction relating to the purchase, sale, pricing, transportation, delivery, weighing, slaughter, or carcass characteristics of all livestock; and
+
+(2) such records or other information as is necessary or appropriate to verify the accuracy of the information required to be reported under this subchapter.
+
+
+(b) LimitationsUnder subsection (a)(2), the Secretary may not require a packer to provide new or additional information if—(1) the information is not generally available or maintained by packers; or
+
+(2) the provision of the information would be unduly burdensome.
+
+
+(c) Purchases of cattle or swineA record of a purchase of a lot of cattle or a lot of swine by a packer shall evidence whether the purchase occurred—(1) before 10:00 a.m. Central Time;
+
+(2) between 10:00 a.m. and 2:00 p.m. Central Time; or
+
+(3) after 2:00 p.m. Central Time.
+
+
+(Aug. 14, 1946, ch. 966, title II, § 255, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1203.)</akn:p></akn:content><akn:subsection eId="subsec_1636d_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Subject to subsection (b), each packer required to report information to the Secretary under this subchapter shall maintain, and make available to the Secretary on request, for 2 years—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1636d_b"><akn:num>(b)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(b) Limitations Under subsection (a)(2), the Secretary may not require a packer to provide new or additional information if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1636d_c"><akn:num>(c)</akn:num><akn:heading>Purchases of cattle or swine</akn:heading><akn:content><akn:p>(c) Purchases of cattle or swine A record of a purchase of a lot of cattle or a lot of swine by a packer shall evidence whether the purchase occurred—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

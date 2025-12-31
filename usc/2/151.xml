@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/151" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/151/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/151/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_151"><akn:num>151</akn:num><akn:heading>Smithsonian Library</akn:heading><akn:content><akn:p>§ 151. Smithsonian Library
+The library collected by the Smithsonian Institution under the provisions of the Act of August 10, 1846, chapter 25, and removed from the building of that institution, with the consent of the Regents thereof, to the Library of Congress, shall, while there deposited, be subject to the same regulations as the Library of Congress, except as hereinafter provided.
+(R.S. § 99.)
+
+Editorial Notes
+
+References in TextAct of August 10, 1846, chapter 25, referred to in text, probably should be act Aug. 10, 1846, ch. 178, 9 Stat. 102, which was entitled “An Act to establish the ‘Smithsonian Institution’, for the increase and diffusion of knowledge among men”.
+
+Codification
+R.S. § 99 derived from act Apr. 5, 1866, ch. 25, § 1, 14 Stat. 13.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

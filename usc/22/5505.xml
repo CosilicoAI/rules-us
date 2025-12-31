@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/5505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/5505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/5505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5505"><akn:num>5505</akn:num><akn:heading>Disaster training for State Department personnel</akn:heading><akn:content><akn:p>§ 5505. Disaster training for State Department personnel(a) Additional trainingThe Secretary of State shall institute a supplemental program of training in disaster management for all consular officers.
+
+
+(b) Training improvements(1) In expanding the training program under subsection (a), the Secretary of State shall consult with death and bereavement counselors concerning the particular demands posed by aviation tragedies and terrorist activities.
+
+(2) In providing such additional training under subsection (a) the Secretary of State shall consider supplementing the current training program through—(A) providing specialized training to create a team of “disaster specialists” to deploy immediately in a crisis; or
+
+(B) securing outside experts to be brought in during the initial phases to assist consular personnel.
+
+
+
+(Pub. L. 101–604, title II, § 206, Nov. 16, 1990, 104 Stat. 3084.)</akn:p></akn:content><akn:subsection eId="subsec_5505_a"><akn:num>(a)</akn:num><akn:heading>Additional training</akn:heading><akn:content><akn:p>(a) Additional training The Secretary of State shall institute a supplemental program of training in disaster management for all consular officers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5505_b"><akn:num>(b)</akn:num><akn:heading>Training improvements</akn:heading><akn:content><akn:p>(b) Training improvements</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

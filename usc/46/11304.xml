@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/11304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/11304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/11304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11304"><akn:num>11304</akn:num><akn:heading>Additional logbook and entry requirements</akn:heading><akn:content><akn:p>§ 11304. Additional logbook and entry requirements(a) A vessel of the United States that is subject to inspection under section 3301 of this title, except a vessel on a voyage from a port in the United States to a port in Canada, shall have a logbook, which may be in any form, including electronic, and shall be kept available for review by the Secretary on request.
+
+(b) The logbook required by subsection (a) shall include the following entries:(1) The time when each seaman and each officer assumed or relieved the watch.
+
+(2) The number of hours in service to the vessels of each seaman and each officer.
+
+(3) Each illness of, and injury to, a seaman of the vessel, the nature of the illness or injury, and the medical treatment provided for the injury or illness.
+
+
+(Added Pub. L. 111–281, title VI, § 607(a), Oct. 15, 2010, 124 Stat. 2967; amended Pub. L. 115–282, title V, § 511, Dec. 4, 2018, 132 Stat. 4274.)
+
+Editorial Notes
+Amendments2018—Subsec. (a). Pub. L. 115–282, § 511(a)(1), substituted “a logbook, which may be in any form, including electronic, and” for “an official logbook, which”.
+Subsec. (b). Pub. L. 115–282, § 511(b), which directed amendment of section 11304(b), without specifying the title to be amended, by substituting “logbook” for “log book”, was executed to this section in the introductory provisions of subsec. (b), to reflect the probable intent of Congress.
+Subsec. (b)(3). Pub. L. 115–282, § 511(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An account of each accident, illness, and injury that occurs during each watch.”</akn:p></akn:content><akn:subsection eId="subsec_11304_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) A vessel of the United States that is subject to inspection under section 3301 of this title, except a vessel on a voyage from a port in the United States to a port in Canada, shall have a logbook, which may be in any form, including electronic, and shall be kept available for review by the Secretary on request.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11304_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The logbook required by subsection (a) shall include the following entries:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

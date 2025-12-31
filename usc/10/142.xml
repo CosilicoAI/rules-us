@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/142" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/142/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/142/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_142"><akn:num>142</akn:num><akn:heading>Chief Information Officer</akn:heading><akn:content><akn:p>§ 142. Chief Information Officer(a) There is a Chief Information Officer of the Department of Defense, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer.
+
+(b)(1) The Chief Information Officer of the Department of Defense—(A) is the Chief Information Officer of the Department of Defense for the purposes of sections 3506(a)(2) and 3544(a)(3) of title 44;
+
+(B) has the responsibilities and duties specified in sections 11315 and 11319 of title 40;
+
+(C) has the responsibilities specified for the Chief Information Officer in sections 2223(a) and 2224 of this title;
+
+(D) exercises authority, direction, and control over the Activities of the Cybersecurity Directorate, or any successor organization, of the National Security Agency, funded through the Information Systems Security Program;
+
+(E) exercises authority, direction, and control over the Defense Information Systems Agency, or any successor organization;
+
+(F) has the responsibilities for policy, oversight, guidance, and coordination for all Department of Defense matters related to electromagnetic spectrum, including coordination with other Federal and industry agencies, coordination for classified programs, and in coordination with the Under Secretary for Personnel and Readiness, policies related to spectrum management workforce;
+
+(G) has the responsibilities for policy, oversight, and guidance for matters related to precision navigation and timing; and
+
+(H) has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the information technology, networking, information assurance, cybersecurity, and cyber capability architectures of the Department.
+
+
+(2)(A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense Agencies with responsibilities associated with</akn:p></akn:content><akn:subsection eId="subsec_142_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) There is a Chief Information Officer of the Department of Defense, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in section 131(b)(4) and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_142_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/526" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/526/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/526/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_526"><akn:num>526</akn:num><akn:heading>Authorized strength: general officers and flag officers on active duty</akn:heading><akn:content><akn:p>§ 526. Authorized strength: general officers and flag officers on active duty(a) Limitations.—The number of general officers on active duty in the Army, Air Force, Marine Corps, and Space Force, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:(1) For the Army, 219.
+
+(2) For the Navy, 150.
+
+(3) For the Air Force, 171.
+
+(4) For the Marine Corps, 64.
+
+(5) For the Space Force, 21.
+
+
+(b) Limited Exclusion for Joint Duty Requirements.—(1) In general.—The Secretary of Defense may designate up to 232 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a).
+
+(2) Minimum number.—Unless the Secretary of Defense determines that a lower number is in the best interest of the Department of Defense, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:(A) For the Army, 75.
+
+(B) For the Navy, 53.
+
+(C) For the Air Force, 68.
+
+(D) For the Marine Corps, 17.
+
+(E) For the Space Force, 6.
+
+
+
+(c) Exclusion of Certain Officers of Reserve Components.—The limitations of this section do not apply to the following:(1) A general or flag officer of a reserve component who is on active duty—(A) for training; or
+
+(B) under a call or order specifying a period of less than 180 days.
+
+
+(2)(A) A general or flag officer of a reserve component who is authorized by the Secretary of the military department concerned to serve on active duty for a period of at least 180 days and not longer than 365 days.
+
+(B) The Secretary of the military department concerned may authorize a number, determined under subparagraph (C), of officers in the reserve component of each armed force under the jurisdiction of that Secretary to serve as described in subparagraph (A).
+
+(C) Each number described in subparagraph (B) may not exceed 10 percent of the number</akn:p></akn:content><akn:subsection eId="subsec_526_a"><akn:num>(a)</akn:num><akn:heading>Limitations.—</akn:heading><akn:content><akn:p>(a) The number of general officers on active duty in the Army, Air Force, Marine Corps, and Space Force, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_b"><akn:num>(b)</akn:num><akn:heading>Limited Exclusion for Joint Duty Requirements.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_c"><akn:num>(c)</akn:num><akn:heading>Exclusion of Certain Officers of Reserve Components.—</akn:heading><akn:content><akn:p>(c) The limitations of this section do not apply to the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_d"><akn:num>(d)</akn:num><akn:heading>Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—</akn:heading><akn:content><akn:p>(d) The limitations of this section do not apply to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_e"><akn:num>(e)</akn:num><akn:heading>Temporary Exclusion for Assignment to Certain Temporary Billets.—</akn:heading><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_f"><akn:num>(f)</akn:num><akn:heading>Exclusion of Officers Departing From Joint Duty Assignments.—</akn:heading><akn:content><akn:p>(f) The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by the additional extension at the same time.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_g"><akn:num>(g)</akn:num><akn:heading>Exclusion of Medical Officer of Marine Corps.—</akn:heading><akn:content><akn:p>(g) The limitations of this section do not apply to the flag officer who is serving as the Medical Officer of the Marine Corps.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_h"><akn:num>(h)</akn:num><akn:heading>Secretary of Defense Adaptive Force Account.—</akn:heading><akn:content><akn:p>(h) The limitations in subsection (a) and in section 525(a) of this title do not apply to a general officer or flag officer assigned to the Secretary of Defense Adaptive Force Account as designated by the Secretary of Defense. The total number of positions designated as the Secretary of Defense Adaptive Force Account for purposes of this subsection shall not exceed 35.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_i"><akn:num>(i)</akn:num><akn:heading>Active-Duty Baseline.—</akn:heading><akn:content><akn:p>(i)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_526_j"><akn:num>(j)</akn:num><akn:heading>Joint Duty Assignment Baseline.—</akn:heading><akn:content><akn:p>(j)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

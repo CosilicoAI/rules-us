@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17241" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17241/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17241/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17241"><akn:num>17241</akn:num><akn:heading>Lightweight materials research and development</akn:heading><akn:content><akn:p>§ 17241. Lightweight materials research and development(a) In generalAs soon as practicable after December 19, 2007, the Secretary of Energy shall establish a program to determine ways in which the weight of motor vehicles could be reduced to improve fuel efficiency without compromising passenger safety by conducting research, development, and demonstration relating to—(1) the development of new materials (including cast metal composite materials formed by autocombustion synthesis) and material processes that yield a higher strength-to-weight ratio or other properties that reduce vehicle weight; and
+
+(2) reducing the cost of—(A) lightweight materials (including high-strength steel alloys, aluminum, magnesium, metal composites, and carbon fiber reinforced polymer composites) with the properties required for construction of lighter-weight vehicles; and
+
+(B) materials processing, automated manufacturing, joining, and recycling lightweight materials for high-volume applications.
+
+
+
+(b) Authorization of appropriationsThere is authorized to be appropriated to carry out this section $80,000,000 for the period of fiscal years 2008 through 2012.
+
+
+(Pub. L. 110–140, title VI, § 651, Dec. 19, 2007, 121 Stat. 1694.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.</akn:p></akn:content><akn:subsection eId="subsec_17241_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general As soon as practicable after December 19, 2007, the Secretary of Energy shall establish a program to determine ways in which the weight of motor vehicles could be reduced to improve fuel efficiency without compromising passenger safety by conducting research, development, and demonstration relating to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17241_b"><akn:num>(b)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(b) Authorization of appropriations There is authorized to be appropriated to carry out this section $80,000,000 for the period of fiscal years 2008 through 2012.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

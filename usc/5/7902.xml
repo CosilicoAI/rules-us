@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/7902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/7902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/7902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7902"><akn:num>7902</akn:num><akn:heading>Safety programs</akn:heading><akn:content><akn:p>§ 7902. Safety programs(a) For the purpose of this section—(1) “employee” means an employee as defined by section 8101 of this title; and
+
+(2) “agency” means an agency in any branch of the Government of the United States (not including the United States Postal Service), including an instrumentality wholly owned by the United States, and the government of the District of Columbia.
+
+
+(b) The Secretary of Labor shall carry out a safety program under section 941(b)(1) of title 33 covering the employment of each employee of an agency.
+
+(c) The President may—(1) establish by Executive order a safety council composed of representatives of the agencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
+
+(2) undertake such other measures as he considers proper to prevent injuries and accidents to employees of the agencies.
+
+
+(d) The head of each agency shall develop and support organized safety promotion to reduce accidents and injuries among employees of his agency, encourage safe practices, and eliminate work hazards and health risks.
+
+(e) Each agency shall—(1) keep a record of injuries and accidents to its employees whether or not they result in loss of time or in the payment or furnishing of benefits; and
+
+(2) make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
+
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 91–596, § 19(c), Dec. 29, 1970, 84 Stat. 1610; Pub. L. 105–241, § 2(b)(2), Sept. 28, 1998, 112 Stat. 1572.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 784 (less (a)).Sept. 16, 1916, ch. 458, § 33 (less (a)); added
+  Dec. 22, 1944, ch. 664, 58 Stat. 887.
+  Oct. 14, 1949, ch. 691, § 209, 63 Stat. 865.
+
+
+Subsection (a) is added on authority of former sections 790(b) and 794 (1st sentence), which ar</akn:p></akn:content><akn:subsection eId="subsec_7902_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For the purpose of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7902_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary of Labor shall carry out a safety program under section 941(b)(1) of title 33 covering the employment of each employee of an agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7902_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The President may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7902_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The head of each agency shall develop and support organized safety promotion to reduce accidents and injuries among employees of his agency, encourage safe practices, and eliminate work hazards and health risks.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7902_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) Each agency shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

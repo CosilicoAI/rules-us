@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/6604" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/6604/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/6604/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6604"><akn:num>6604</akn:num><akn:heading>Punitive damages limitations</akn:heading><akn:content><akn:p>§ 6604. Punitive damages limitations(a) In generalIn any Y2K action in which punitive damages are permitted by applicable law, the defendant shall not be liable for punitive damages unless the plaintiff proves by clear and convincing evidence that the applicable standard for awarding damages has been met.
+
+
+(b) Caps on punitive damages(1) In generalSubject to the evidentiary standard established by subsection (a), punitive damages permitted under applicable law against a defendant described in paragraph (2) in a Y2K action may not exceed the lesser of—(A) three times the amount awarded for compensatory damages; or
+
+(B) $250,000.
+
+
+(2) Defendant describedA defendant described in this paragraph is a defendant—(A) who—(i) is sued in his or her capacity as an individual; and
+
+(ii) whose net worth does not exceed $500,000; or
+
+
+(B) that is an unincorporated business, a partnership, corporation, association, or organization, with fewer than 50 full-time employees.
+
+
+(3) No cap if injury specifically intendedParagraph (1) does not apply if the plaintiff establishes by clear and convincing evidence that the defendant acted with specific intent to injure the plaintiff.
+
+
+
+(c) Government entitiesPunitive damages in a Y2K action may not be awarded against a government entity.
+
+
+(d) Institutions of higher education(1) In generalSubject to paragraph (2), punitive damages in a Y2K action may not be awarded against an instituion 11 So in original. Probably should be “institution”. of higher education as defined in section 1001(a) of title 20.
+
+
+(2) ExceptionParagraph (1) shall not apply to an institution of higher education if the Y2K failure in the Y2K action occurred in a computer-based student financial aid system of that institution of higher education, and the institution—(A) has passed Y2K data exchange testing with the Department of Education; or
+
+(B) is not or was not in the process of performing data exchange testing with the Department of Education at the time the Depart</akn:p></akn:content><akn:subsection eId="subsec_6604_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In any Y2K action in which punitive damages are permitted by applicable law, the defendant shall not be liable for punitive damages unless the plaintiff proves by clear and convincing evidence that the applicable standard for awarding damages has been met.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6604_b"><akn:num>(b)</akn:num><akn:heading>Caps on punitive damages</akn:heading><akn:content><akn:p>(b) Caps on punitive damages</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6604_c"><akn:num>(c)</akn:num><akn:heading>Government entities</akn:heading><akn:content><akn:p>(c) Government entities Punitive damages in a Y2K action may not be awarded against a government entity.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6604_d"><akn:num>(d)</akn:num><akn:heading>Institutions of higher education</akn:heading><akn:content><akn:p>(d) Institutions of higher education</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/200505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/200505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/200505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_200505"><akn:num>200505</akn:num><akn:heading>State action</akn:heading><akn:content><akn:p>§ 200505. State action(a) Additional Match.—The Secretary may increase rehabilitation grants or innovation grants authorized in section 200503 of this title by providing an additional match equal to the total match provided by a State of up to 15 percent of total project costs. The Federal matching amount shall not exceed 85 percent of total project cost.
+
+(b) Adequate Implementation of Local Recovery Plans.—The Secretary shall encourage States to assist the Secretary in ensuring—(1) that local recovery plans and programs are adequately implemented by cooperating with the Secretary in monitoring local park and recreation recovery plans and programs; and
+
+(2) consistency of the plans and programs, where appropriate, with State recreation policies as set forth in statewide comprehensive outdoor recreation plans.
+
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3185.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+20050516 U.S.C. 2507.Pub. L. 95–625, title X, § 1008, Nov. 10, 1978, 92 Stat. 3542.
+
+
+In subsection (a), the words “rehabilitation grants or innovation grants” are substituted for “Federal implementation grants” for clarity. See 36 CFR 72.32(c).</akn:p></akn:content><akn:subsection eId="subsec_200505_a"><akn:num>(a)</akn:num><akn:heading>Additional Match.—</akn:heading><akn:content><akn:p>(a) The Secretary may increase rehabilitation grants or innovation grants authorized in section 200503 of this title by providing an additional match equal to the total match provided by a State of up to 15 percent of total project costs. The Federal matching amount shall not exceed 85 percent of total project cost.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_200505_b"><akn:num>(b)</akn:num><akn:heading>Adequate Implementation of Local Recovery Plans.—</akn:heading><akn:content><akn:p>(b) The Secretary shall encourage States to assist the Secretary in ensuring—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/11/1325" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/11/1325/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/11/1325/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1325"><akn:num>1325</akn:num><akn:heading>Confirmation of plan</akn:heading><akn:content><akn:p>§ 1325. Confirmation of plan(a) Except as provided in subsection (b), the court shall confirm a plan if—(1) The plan complies with the provisions of this chapter and with the other applicable provisions of this title;
+
+(2) any fee, charge, or amount required under chapter 123 of title 28, or by the plan, to be paid before confirmation, has been paid;
+
+(3) the plan has been proposed in good faith and not by any means forbidden by law;
+
+(4) the value, as of the effective date of the plan, of property to be distributed under the plan on account of each allowed unsecured claim is not less than the amount that would be paid on such claim if the estate of the debtor were liquidated under chapter 7 of this title on such date;
+
+(5) with respect to each allowed secured claim provided for by the plan—(A) the holder of such claim has accepted the plan;
+
+(B)(i) the plan provides that—(I) the holder of such claim retain the lien securing such claim until the earlier of—(aa) the payment of the underlying debt determined under nonbankruptcy law; or
+
+(bb) discharge under section 1328; and
+
+
+(II) if the case under this chapter is dismissed or converted without completion of the plan, such lien shall also be retained by such holder to the extent recognized by applicable nonbankruptcy law;
+
+
+(ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; and
+
+(iii) if—(I) property to be distributed pursuant to this subsection is in the form of periodic payments, such payments shall be in equal monthly amounts; and
+
+(II) the holder of the claim is secured by personal property, the amount of such payments shall not be less than an amount sufficient to provide to the holder of such claim adequate protection during the period of the plan; or
+
+
+
+(C) the debtor surrenders the property securing such claim to such holder;
+
+
+(6) the debtor will be able to make all payments under the p</akn:p></akn:content><akn:subsection eId="subsec_1325_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Except as provided in subsection (b), the court shall confirm a plan if— For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day period preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1325_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1325_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

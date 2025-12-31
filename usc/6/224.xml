@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/224" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/224/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/224/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_224"><akn:num>224</akn:num><akn:heading>Other reporting requirements</akn:heading><akn:content><akn:p>§ 224. Other reporting requirements(a) Unidentified remains(1) Reporting requirementNot later than 1 year after December 31, 2020, and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall submit a report to the appropriate committees of Congress regarding all unidentified remains discovered, during the reporting period, on or near the border between the United States and Mexico, including—(A) for each deceased person—(i) the cause and manner of death, if known;
+
+(ii) the sex, age (at time of death), and country of origin (if such information is determinable); and
+
+(iii) the location of each unidentified remain;
+
+
+(B) the total number of deceased people whose unidentified remains were discovered by U.S. Customs and Border Protection during the reporting period;
+
+(C) to the extent such information is available to U.S. Customs and Border Protection, the total number of deceased people whose unidentified remains were discovered by Federal, State, local or Tribal law enforcement officers, military personnel, or medical examiners offices;
+
+(D) the efforts of U.S. Customs and Border Protection to engage with nongovernmental organizations, institutions of higher education, medical examiners and coroners, and law enforcement agencies—(i) to identify and map the locations at which migrant deaths occur; and
+
+(ii) to count the number of deaths that occur at such locations; and
+
+
+(E) a detailed description of U.S. Customs and Border Protection’s Missing Migrant Program, including how the program helps mitigate migrant deaths while maintaining border security.
+
+
+(2) Public disclosureNot later than 30 days after each report required under paragraph (1) is submitted, the Commissioner of U.S. Customs and Border Protection shall publish on the website of the agency the information described in subparagraphs (A), (B), and (C) of paragraph (1) during each reporting period.
+
+
+
+(b) Rescue beaconsNot later than 1 year after December 31, 2020, and annually ther</akn:p></akn:content><akn:subsection eId="subsec_224_a"><akn:num>(a)</akn:num><akn:heading>Unidentified remains</akn:heading><akn:content><akn:p>(a) Unidentified remains</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_224_b"><akn:num>(b)</akn:num><akn:heading>Rescue beacons</akn:heading><akn:content><akn:p>(b) Rescue beacons Not later than 1 year after December 31, 2020, and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall submit a report to the appropriate committees of Congress regarding the use of rescue beacons along the border between the United States and Mexico, including, for the reporting period—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_224_c"><akn:num>(c)</akn:num><akn:heading>GAO report</akn:heading><akn:content><akn:p>(c) GAO report Not later than 6 months after the report required under subsection (a) is submitted to the appropriate committees of Congress, the Comptroller General of the United States shall submit a report to the same committees that describes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

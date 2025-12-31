@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/7682" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/7682/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/7682/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7682"><akn:num>7682</akn:num><akn:heading>Eligibility</akn:heading><akn:content><akn:p>§ 7682. Eligibility(a) Eligibility.—An individual is eligible to participate in the Education Debt Reduction Program if the individual—(1) is an employee in the Veterans Health Administration serving in a position (as determined by the Secretary) providing direct-patient care services or services incident to direct-patient care services for which recruitment or retention of qualified health-care personnel (as so determined) is difficult; and
+
+(2) owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1).
+
+
+(b) Covered Costs.—For purposes of subsection (a)(2), costs relating to a course of education or training include—(1) tuition expenses;
+
+(2) all other reasonable educational expenses, including expenses for fees, books, and laboratory expenses; and
+
+(3) reasonable living expenses.
+
+
+(Added Pub. L. 105–368, title VIII, § 803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–135, title I, § 102(b), Jan. 23, 2002, 115 Stat. 2448; Pub. L. 111–163, title III, § 301(b), May 5, 2010, 124 Stat. 1146.)
+
+Editorial Notes
+Amendments2010—Subsec. (a)(1). Pub. L. 111–163, § 301(b)(1), substituted “an” for “a recently appointed”.
+Subsec. (c). Pub. L. 111–163, § 301(b)(2), struck out subsec. (c). Text read as follows: “For purposes of subsection (a), an individual shall be considered to be recently appointed to a position if the individual has held that position for less than 6 months.”
+2002—Subsec. (a)(1). Pub. L. 107–135 substituted “in a position (as determined by the Secretary) providing direct-patient care services or services incident to direct-patient care services” for “under an appointment under section 7402(b) of this title in a position” and “(as so determined)” for “(as determined by the Secretary)”.
+
+Statutory Notes and Related Subsidiaries
+Inclu</akn:p></akn:content><akn:subsection eId="subsec_7682_a"><akn:num>(a)</akn:num><akn:heading>Eligibility.—</akn:heading><akn:content><akn:p>(a) An individual is eligible to participate in the Education Debt Reduction Program if the individual—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7682_b"><akn:num>(b)</akn:num><akn:heading>Covered Costs.—</akn:heading><akn:content><akn:p>(b) For purposes of subsection (a)(2), costs relating to a course of education or training include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

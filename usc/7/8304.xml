@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/8304" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/8304/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/8304/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8304"><akn:num>8304</akn:num><akn:heading>Exportation</akn:heading><akn:content><akn:p>§ 8304. Exportation(a) In generalThe Secretary may prohibit or restrict—(1) the exportation of any animal, article, or means of conveyance if the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination from or within the United States of any pest or disease of livestock;
+
+(2) the exportation of any livestock if the Secretary determines that the livestock is unfit to be moved;
+
+(3) the use of any means of conveyance or facility in connection with the exportation of any animal or article if the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination from or within the United States of any pest or disease of livestock; or
+
+(4) the use of any means of conveyance in connection with the exportation of livestock if the Secretary determines that the prohibition or restriction is necessary because the means of conveyance has not been maintained in a clean and sanitary condition or does not have accommodations for the safe and proper movement and humane treatment of livestock.
+
+
+(b) Requirements of owners(1) Orders to disinfectThe Secretary may require the disinfection of—(A) a means of conveyance used in connection with the exportation of an animal;
+
+(B) an individual involved in the exportation of an animal and personal articles of the individual; and
+
+(C) any article used in the exportation of an animal.
+
+
+(2) Failure to comply with ordersIf an owner fails to comply with an order of the Secretary under this section, the Secretary may—(A) take remedial action with respect to the animal, article, or means of conveyance referred to in paragraph (1); and
+
+(B) recover from the owner the costs of any care, handling, disposal, or other action incurred by the Secretary in connection with the remedial action.
+
+
+
+(c) CertificationThe Secretary may certify the classification, quality, quantity, condition, processing, handling, or storage of any animal or article intended for export.
+
+
+(d) Authorizat</akn:p></akn:content><akn:subsection eId="subsec_8304_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may prohibit or restrict—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8304_b"><akn:num>(b)</akn:num><akn:heading>Requirements of owners</akn:heading><akn:content><akn:p>(b) Requirements of owners</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8304_c"><akn:num>(c)</akn:num><akn:heading>Certification</akn:heading><akn:content><akn:p>(c) Certification The Secretary may certify the classification, quality, quantity, condition, processing, handling, or storage of any animal or article intended for export.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8304_d"><akn:num>(d)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(d) Authorization of appropriations</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

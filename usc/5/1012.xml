@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/1012" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/1012/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/1012/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1012"><akn:num>1012</akn:num><akn:heading>Responsibilities of Library of Congress</akn:heading><akn:content><akn:p>§ 1012. Responsibilities of Library of Congress
+Subject to section 552 of this title, the Administrator shall provide for the filing with the Library of Congress of at least 8 copies of each report made by each advisory committee and, where appropriate, background papers prepared by consultants. The Librarian of Congress shall establish a depository for the reports and papers and make them available for public inspection and use.
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4204.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10125 U.S.C. App. (FACA § 13)Pub. L. 92–463, § 13, Oct. 6, 1972, 86 Stat. 775.
+
+
+In this section, the word “Administrator” is substituted for “Director” (meaning the Director of the Office of Management and Budget) because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

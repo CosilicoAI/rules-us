@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/8512" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/8512/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/8512/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8512"><akn:num>8512</akn:num><akn:heading>Weather research and forecasting innovation</akn:heading><akn:content><akn:p>§ 8512. Weather research and forecasting innovation(a) ProgramThe Assistant Administrator for the Office of Oceanic and Atmospheric Research shall conduct a program to develop improved understanding of and forecast capabilities for atmospheric events and their impacts, placing priority on developing more accurate, timely, and effective warnings and forecasts of high impact weather events that endanger life and property.
+
+
+(b) Program elementsThe program described in subsection (a) shall focus on the following activities:(1) Improving the fundamental understanding of weather consistent with section 8511 of this title, including the boundary layer and other processes affecting high impact weather events.
+
+(2) Improving the understanding of how the public receives, interprets, and responds to warnings and forecasts of high impact weather events that endanger life and property.
+
+(3) Research and development, and transfer of knowledge, technologies, and applications to the National Weather Service and other appropriate agencies and entities, including the United States weather industry and academic partners, related to—(A) advanced radar, radar networking technologies, and other ground-based technologies, including those emphasizing rapid, fine-scale sensing of the boundary layer and lower troposphere, and the use of innovative, dual-polarization, phased-array technologies;
+
+(B) aerial weather observing systems;
+
+(C) high performance computing and information technology and wireless communication networks;
+
+(D) advanced numerical weather prediction systems and forecasting tools and techniques that improve the forecasting of timing, track, intensity, and severity of high impact weather, including through—(i) the development of more effective mesoscale models;
+
+(ii) more effective use of existing, and the development of new, regional and national cloud-resolving models;
+
+(iii) enhanced global weather models; and
+
+(iv) integrated assessment models;
+
+
+(E) quantitative assess</akn:p></akn:content><akn:subsection eId="subsec_8512_a"><akn:num>(a)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(a) Program The Assistant Administrator for the Office of Oceanic and Atmospheric Research shall conduct a program to develop improved understanding of and forecast capabilities for atmospheric events and their impacts, placing priority on developing more accurate, timely, and effective warnings and forecasts of high impact weather events that endanger life and property.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8512_b"><akn:num>(b)</akn:num><akn:heading>Program elements</akn:heading><akn:content><akn:p>(b) Program elements The program described in subsection (a) shall focus on the following activities:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8512_c"><akn:num>(c)</akn:num><akn:heading>Extramural research</akn:heading><akn:content><akn:p>(c) Extramural research</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8512_d"><akn:num>(d)</akn:num><akn:heading>Annual report</akn:heading><akn:content><akn:p>(d) Annual report Each year, concurrent with the annual budget request submitted by the President to Congress under section 1105 of title 31 for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

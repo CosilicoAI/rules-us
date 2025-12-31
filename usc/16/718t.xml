@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/718t" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/718t/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/718t/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_718t"><akn:num>718t</akn:num><akn:heading>Termination of State participation</akn:heading><akn:content><akn:p>§ 718t. Termination of State participation
+The authority of a State to issue electronic stamps under this subchapter may be terminated—(1) by the Secretary, if the Secretary—(A) finds that the State has violated any of the terms of the application of the State approved by the Secretary under section 718q of this title; and
+
+(B) provides to the State written notice of the termination by not later than the date that is 30 days before the date of termination; or
+
+
+(2) by the State, by providing written notice to the Secretary by not later than the date that is 30 days before the termination date.
+
+(Pub. L. 113–239, § 7, Dec. 18, 2014, 128 Stat. 2849.)</akn:p></akn:content><akn:subsection eId="subsec_718t_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) by the Secretary, if the Secretary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_718t_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) by the State, by providing written notice to the Secretary by not later than the date that is 30 days before the termination date.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

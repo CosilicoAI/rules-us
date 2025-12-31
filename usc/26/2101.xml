@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/2101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/2101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/2101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2101"><akn:num>2101</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>§ 2101. Tax imposed(a) ImpositionExcept as provided in section 2107, a tax is hereby imposed on the transfer of the taxable estate (determined as provided in section 2106) of every decedent nonresident not a citizen of the United States.
+
+
+(b) Computation of taxThe tax imposed by this section shall be the amount equal to the excess (if any) of—(1) a tentative tax computed under section 2001(c) on the sum of—(A) the amount of the taxable estate, and
+
+(B) the amount of the adjusted taxable gifts, over
+
+
+(2) a tentative tax computed under section 2001(c) on the amount of the adjusted taxable gifts.
+
+
+(c) Adjustments for taxable gifts(1) Adjusted taxable gifts definedFor purposes of this section, the term “adjusted taxable gifts” means the total amount of the taxable gifts (within the meaning of section 2503 as modified by section 2511) made by the decedent after December 31, 1976, other than gifts which are includible in the gross estate of the decedent.
+
+
+(2) Adjustment for certain gift taxFor purposes of this section, the rules of section 2001(d) shall apply.
+
+
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, § 108(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 94–455, title XX, § 2001(c)(1)(D), Oct. 4, 1976, 90 Stat. 1850; Pub. L. 100–647, title V, § 5032(a), (c), Nov. 10, 1988, 102 Stat. 3669; Pub. L. 101–239, title VII, § 7815(c), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 103–66, title XIII, § 13208(b)(3), Aug. 10, 1993, 107 Stat. 469; Pub. L. 107–147, title IV, § 411(g)(2), Mar. 9, 2002, 116 Stat. 46.)
+
+Editorial Notes
+Amendments2002—Subsec. (b). Pub. L. 107–147 struck out concluding provisions which read as follows: “For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section 2001(c)(2) to reflect the difference between the amount of the credit provided under section 2102(c) and the amount of the credit provided under section 2010.”
+1993—Subsec. (b). Pub. L. 103–66 substituted “section 2001(c)(2)” for “se</akn:p></akn:content><akn:subsection eId="subsec_2101_a"><akn:num>(a)</akn:num><akn:heading>Imposition</akn:heading><akn:content><akn:p>(a) Imposition Except as provided in section 2107, a tax is hereby imposed on the transfer of the taxable estate (determined as provided in section 2106) of every decedent nonresident not a citizen of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2101_b"><akn:num>(b)</akn:num><akn:heading>Computation of tax</akn:heading><akn:content><akn:p>(b) Computation of tax The tax imposed by this section shall be the amount equal to the excess (if any) of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2101_c"><akn:num>(c)</akn:num><akn:heading>Adjustments for taxable gifts</akn:heading><akn:content><akn:p>(c) Adjustments for taxable gifts</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

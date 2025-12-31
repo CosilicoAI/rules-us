@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/10302" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/10302/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/10302/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10302"><akn:num>10302</akn:num><akn:heading>Shipping articles agreements</akn:heading><akn:content><akn:p>§ 10302. Shipping articles agreements(a) The owner, charterer, managing operator, master, or individual in charge shall make a shipping agreement in writing with each seaman before the seaman commences employment.
+
+(b) The agreement shall contain the following:(1) the nature, and, as far as practicable, the duration of the intended voyage, and the port or country in which the voyage is to end.
+
+(2) the number and description of the crew and the capacity in which each seaman is to be engaged.
+
+(3) the time at which each seaman is to be on board to begin work.
+
+(4) the amount of wages each seaman is to receive.
+
+(5) regulations about conduct on board, and information on fines, short allowance of provisions, and other punishment for misconduct provided by law.
+
+(6) a scale of the provisions that are to be provided each seaman.
+
+(7) any stipulation in reference to advances and allotments of wages.
+
+(8) other matters not contrary to law.
+
+
+(c) Each shipping agreement must be signed by the master or individual in charge or a representative of the owner, charterer, or managing operator, and by each seaman employed.
+
+(d) The owner, charterer, managing operator, master, or individual in charge shall maintain the shipping agreement and make the shipping agreement available to the seaman.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 561; Pub. L. 103–206, title IV, § 401, Dec. 20, 1993, 107 Stat. 2435.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1030246:564
+
+
+Section 10302 requires the master to make a shipping agreement with each crew member and lists the information that must be included in the agreement.
+
+Editorial Notes
+Amendments1993—Subsec. (a). Pub. L. 103–206, § 401(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Before proceeding on a voyage, the master of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman in the crew.”
+Subsecs. (c), (d).</akn:p></akn:content><akn:subsection eId="subsec_10302_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The owner, charterer, managing operator, master, or individual in charge shall make a shipping agreement in writing with each seaman before the seaman commences employment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10302_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The agreement shall contain the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10302_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Each shipping agreement must be signed by the master or individual in charge or a representative of the owner, charterer, or managing operator, and by each seaman employed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10302_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) The owner, charterer, managing operator, master, or individual in charge shall maintain the shipping agreement and make the shipping agreement available to the seaman.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

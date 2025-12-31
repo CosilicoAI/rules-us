@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/355" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/355/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/355/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_355"><akn:num>355</akn:num><akn:heading>Motorcyclist Advisory Council</akn:heading><akn:content><akn:p>§ 355. Motorcyclist Advisory Council(a) Establishment.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a council, to be known as the “Motorcyclist Advisory Council” (referred to in this section as the “Council”).
+
+(b) Membership.—(1) In general.—The Council shall be comprised of 13 members, to be appointed by the Secretary, of whom—(A) 5 shall be representatives of units of State or local government with expertise relating to highway engineering and safety issues, including—(i) motorcycle and motorcyclist safety;
+
+(ii) barrier and road design, construction, and maintenance; or
+
+(iii) intelligent transportation systems;
+
+
+(B) 1 shall be a motorcyclist who serves as a State or local—(i) traffic and safety engineer;
+
+(ii) design engineer; or
+
+(iii) other transportation department official;
+
+
+(C) 1 shall be a representative of a national association of State transportation officials;
+
+(D) 1 shall be a representative of a national motorcyclist association;
+
+(E) 1 shall be a representative of a national motorcyclist foundation;
+
+(F) 1 shall be a representative of a national motorcycle manufacturing association;
+
+(G) 1 shall be a representative of a motorcycle manufacturing company headquartered in the United States;
+
+(H) 1 shall be a roadway safety data expert with expertise relating to crash testing and analysis; and
+
+(I) 1 shall be a member of a national safety organization that represents the traffic safety systems industry.
+
+
+(2) Term.—(A) In general.—Subject to subparagraphs (B) and (C), each member shall serve on the Council for a single term of 2 years.
+
+(B) Additional term.—If a successor is not appointed for a member of the Council before the expiration of the term of service of the member, the member may serve on the Council for a second term of not longer than 2 years.
+
+(C) Appointment of replacements.—If a member of the Council resigns before th</akn:p></akn:content><akn:subsection eId="subsec_355_a"><akn:num>(a)</akn:num><akn:heading>Establishment.—</akn:heading><akn:content><akn:p>(a) Not later than 90 days after the date of enactment of this section, the Secretary of Transportation (referred to in this section as the “Secretary”) shall establish a council, to be known as the “Motorcyclist Advisory Council” (referred to in this section as the “Council”).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_355_b"><akn:num>(b)</akn:num><akn:heading>Membership.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_355_c"><akn:num>(c)</akn:num><akn:heading>Duties.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_355_d"><akn:num>(d)</akn:num><akn:heading>Duties of Secretary.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_355_e"><akn:num>(e)</akn:num><akn:heading>Termination.—</akn:heading><akn:content><akn:p>(e) The Council shall terminate on the date that is 6 years after the date on which the Council is established under subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

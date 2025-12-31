@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/40130" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/40130/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/40130/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_40130"><akn:num>40130</akn:num><akn:heading>FAA authority to conduct criminal history record checks</akn:heading><akn:content><akn:p>§ 40130. FAA authority to conduct criminal history record checks(a) Criminal History Background Checks.—(1) Access to information.—The Administrator of the Federal Aviation Administration, for certification purposes of the Administration only, is authorized—(A) to conduct, in accordance with the established request process, a criminal history background check of an airman in the criminal repositories of the Federal Bureau of Investigation and States by submitting positive identification of the airman to a fingerprint-based repository in compliance with section 217 of the National Crime Prevention and Privacy Compact Act of 1998 (34 U.S.C. 40316); and
+
+(B) to receive relevant criminal history record information regarding the airman checked.
+
+
+(2) Release of information.—In accessing a repository referred to in paragraph (1), the Administrator shall be subject to the conditions and procedures established by the Department of Justice or the State, as appropriate, for other governmental agencies conducting background checks for noncriminal justice purposes.
+
+(3) Limitation.—The Administrator may not use the authority under paragraph (1) to conduct criminal investigations.
+
+(4) Reimbursement.—The Administrator may collect reimbursement to process the fingerprint-based checks under this subsection, to be used for expenses incurred, including Federal Bureau of Investigation fees, in providing these services.
+
+
+(b) Designated Employees.—The Administrator shall designate, by order, employees of the Administration who may carry out the authority described in subsection (a).
+
+(Added Pub. L. 112–95, title VIII, § 802(a), Feb. 14, 2012, 126 Stat. 118; amended Pub. L. 118–63, title XI, § 1101(h), May 16, 2024, 138 Stat. 1413.)
+
+Editorial Notes
+Amendments2024—Subsec. (a)(1)(A). Pub. L. 118–63 substituted “(34 U.S.C. 40316)” for “(42 U.S.C. 14616)”.</akn:p></akn:content><akn:subsection eId="subsec_40130_a"><akn:num>(a)</akn:num><akn:heading>Criminal History Background Checks.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_40130_b"><akn:num>(b)</akn:num><akn:heading>Designated Employees.—</akn:heading><akn:content><akn:p>(b) The Administrator shall designate, by order, employees of the Administration who may carry out the authority described in subsection (a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

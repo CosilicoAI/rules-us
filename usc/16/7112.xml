@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/7112" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/7112/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/7112/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7112"><akn:num>7112</akn:num><akn:heading>Payments to States and counties</akn:heading><akn:content><akn:p>§ 7112. Payments to States and counties(a) Payment amountsExcept as provided in section 7113 of this title, the Secretary of the Treasury shall pay to—(1) a State or territory of the United States an amount equal to the sum of the amounts elected under subsection (b) by each county within the State or territory for—(A) if the county is eligible for the 25-percent payment, the share of the 25-percent payment; or
+
+(B) the share of the State payment of the eligible county; and
+
+
+(2) a county an amount equal to the amount elected under subsection (b) by each county for—(A) if the county is eligible for the 50-percent payment, the 50-percent payment; or
+
+(B) the county payment for the eligible county.
+
+
+
+(b) Election to receive payment amount(1) Election; submission of results(A) In generalThe election to receive a share of the State payment, the county payment, a share of the State payment and the county payment, a share of the 25-percent payment, the 50-percent payment, or a share of the 25-percent payment and the 50-percent payment, as applicable, shall be made at the discretion of each affected county by August 1, 2013 (or as soon thereafter as the Secretary concerned determines is practicable), and August 1 of each second fiscal year thereafter, in accordance with paragraph (2), and transmitted to the Secretary concerned by the Governor of each eligible State.
+
+
+(B) Failure to transmitIf an election for an affected county is not transmitted to the Secretary concerned by the date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
+
+
+(C) Effect of late payment for fiscal years 2014 and 2015The election otherwise required by subparagraph (A) shall not apply for fiscal year 2014 or 2015.
+
+
+(D) Payments for each of fiscal years 2017 through 2020The election otherwise required by subparagraph (A) shall no</akn:p></akn:content><akn:subsection eId="subsec_7112_a"><akn:num>(a)</akn:num><akn:heading>Payment amounts</akn:heading><akn:content><akn:p>(a) Payment amounts Except as provided in section 7113 of this title, the Secretary of the Treasury shall pay to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7112_b"><akn:num>(b)</akn:num><akn:heading>Election to receive payment amount</akn:heading><akn:content><akn:p>(b) Election to receive payment amount</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7112_c"><akn:num>(c)</akn:num><akn:heading>Distribution and expenditure of payments</akn:heading><akn:content><akn:p>(c) Distribution and expenditure of payments</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7112_d"><akn:num>(d)</akn:num><akn:heading>Expenditure rules for eligible counties</akn:heading><akn:content><akn:p>(d) Expenditure rules for eligible counties</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7112_e"><akn:num>(e)</akn:num><akn:heading>Time for payment</akn:heading><akn:content><akn:p>(e) Time for payment The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7112_f"><akn:num>(f)</akn:num><akn:heading>Treatment as supplemental funding</akn:heading><akn:content><akn:p>(f) Treatment as supplemental funding</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

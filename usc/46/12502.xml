@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/12502" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/12502/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/12502/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12502"><akn:num>12502</akn:num><akn:heading>Identification numbers, signal letters, and markings</akn:heading><akn:content><akn:p>§ 12502. Identification numbers, signal letters, and markings(a) For the identification of a vessel of the United States, the Secretary of Transportation—(1) shall maintain a unique numbering system and assign a number to each vessel of the United States;
+
+(2) may maintain a system of signal letters for a documented vessel;
+
+(3) shall record a name selected by the owner of a documented vessel approved by the Secretary as the vessel’s name of record; and
+
+(4) may establish other identification markings.
+
+
+(b) The manufacturer or owner of a vessel shall affix to the vessel and maintain in the manner prescribed by the Secretary the number assigned and any other markings the Secretary may require.
+
+(c) Once a number is assigned under this section, it may not be used by another vessel.
+
+(d) Once a documented vessel’s name is established, the name may not be changed without the approval of the Secretary.
+
+(e) A person may not tamper with or falsify a number or other marking required under this section.
+
+(Added Pub. L. 100–710, title I, § 101(a), Nov. 23, 1988, 102 Stat. 4736.)
+
+Historical and Revision NotesRevised section 12502
+Subsection (a) of this section requires the Secretary to maintain a unique numbering system for vessels of the United States. The Secretary may use existing vessel numbering systems such as the hull identification number for this purpose, but must ensure that no two existing vessels of the United States have the same number. The Secretary should consider and propose the use of a 17-digit number to implement this requirement. This subsection also requires the Secretary to maintain a system of signal letters and to record vessel names for documented vessels. The Secretary is authorized to establish other vessel identification markings for vessels of the United States, such as hailing ports.
+Subsections (b), (c), (d), and (e) contain other requirements and restrictions concerning vessel identification markings.
+This section consolidates the requiremen</akn:p></akn:content><akn:subsection eId="subsec_12502_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For the identification of a vessel of the United States, the Secretary of Transportation—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12502_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The manufacturer or owner of a vessel shall affix to the vessel and maintain in the manner prescribed by the Secretary the number assigned and any other markings the Secretary may require.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12502_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) Once a number is assigned under this section, it may not be used by another vessel.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12502_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) Once a documented vessel’s name is established, the name may not be changed without the approval of the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12502_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) A person may not tamper with or falsify a number or other marking required under this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

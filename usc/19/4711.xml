@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/19/4711" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/19/4711/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/19/4711/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4711"><akn:num>4711</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>§ 4711. Establishment(a) In generalNot later than 30 days after January 29, 2020, the President shall establish an Interagency Environment Committee for Monitoring and Enforcement (in this subchapter referred to as the “Interagency Environment Committee”)—(1) to coordinate United States efforts to monitor and enforce environmental obligations generally; and
+
+(2) with respect to the USMCA countries—(A) to carry out an assessment of their environmental laws and policies;
+
+(B) to carry out monitoring actions with respect to the implementation and maintenance of their environmental obligations; and
+
+(C) to request enforcement actions with respect to USMCA countries that are not in compliance with their environmental obligations.
+
+
+
+(b) MembershipThe members of the Interagency Environment Committee shall be the following:(1) The Trade Representative, who shall serve as chairperson.
+
+(2) Representatives from each of the following:(A) The National Oceanic Atmospheric 11 So in original. Probably should be preceded by “and”. Administration.
+
+(B) The U.S. Fish and Wildlife Service.
+
+(C) The U.S. Forest Service.
+
+(D) The Environmental Protection Agency.
+
+(E) The Animal and Plant Health Inspection Service.
+
+(F) U.S. Customs and Border Protection.
+
+(G) The Department of State.
+
+(H) The Department of Justice.
+
+(I) The Department of the Treasury.
+
+(J) The United States Agency for International Development.
+
+
+(3) Representatives from other Federal agencies, as the President determines to be appropriate.
+
+
+(c) Information sharingNotwithstanding any other provision of law, the members of the Interagency Environment Committee may exchange information for purposes of carrying out this part.
+
+
+(Pub. L. 116–113, title VIII, § 811, Jan. 29, 2020, 134 Stat. 90.)
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in subsec. (a), was in the original “this title”, meaning title VIII of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 90, which is classified principally to this subchapt</akn:p></akn:content><akn:subsection eId="subsec_4711_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Not later than 30 days after January 29, 2020, the President shall establish an Interagency Environment Committee for Monitoring and Enforcement (in this subchapter referred to as the “Interagency Environment Committee”)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4711_b"><akn:num>(b)</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>(b) Membership The members of the Interagency Environment Committee shall be the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4711_c"><akn:num>(c)</akn:num><akn:heading>Information sharing</akn:heading><akn:content><akn:p>(c) Information sharing Notwithstanding any other provision of law, the members of the Interagency Environment Committee may exchange information for purposes of carrying out this part.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

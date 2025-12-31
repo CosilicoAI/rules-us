@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/9503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/9503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/9503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_9503"><akn:num>9503</akn:num><akn:heading>Reports about Government pension plans</akn:heading><akn:content><akn:p>§ 9503. Reports about Government pension plans[(a) Repealed. Pub. L. 105–362, title XV, § 1501(a), Nov. 10, 1998, 112 Stat. 3294.]
+
+(b) This chapter does not prevent a Government pension plan from using the services of an enrolled actuary employed by an agency administering the plan.
+
+(c) The requirements of this section are satisfied with respect to the Thrift Savings Plan described under subchapter III of chapter 84 of title 5, by preparation and transmission of the report described under section 8439(b) of such title.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1050; Pub. L. 104–66, title II, § 2081, Dec. 21, 1995, 109 Stat. 729; Pub. L. 105–362, title XV, § 1501(a), Nov. 10, 1998, 112 Stat. 3294.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+9503(a)31:68a(a), (b).Sept. 12, 1950, ch. 946, 64 Stat. 832, § 121; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2541.
+9503(b)31:68a(c).
+
+
+In subsection (a), before clause (1), the words “Notwithstanding any other provision of law or any administrative determination to the contrary . . . Federal” are omitted as unnecessary. The words “and each plan described in section 68c(b) of this title” are omitted as unnecessary because of the restatement. In clause (1), before subclause (A), the words “required by such section” are omitted as unnecessary because of the restatement. In subclause (A), the word “information” is substituted for “information and data” because it is inclusive and for consistency. In clause (4), the words “and shall not supersede” are omitted as surplus. In clause (5), the words “the Comptroller General deems” are omitted as unnecessary. The words “under section 1023 of title 29” are omitted as unnecessary because of the restatement.
+In subsection (b), the words “This chapter does not prevent” are substituted for “Nothing in this chapter shall preclude” for clarity. The words “or agencies” are omitted as unnecessary because of 1:1.
+
+Editorial Not</akn:p></akn:content><akn:subsection eId="subsec_9503_a"><akn:num>(a)</akn:num><akn:content><akn:p>[(a) Repealed. Pub. L. 105–362, title XV, § 1501(a), Nov. 10, 1998, 112 Stat. 3294.]</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9503_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) This chapter does not prevent a Government pension plan from using the services of an enrolled actuary employed by an agency administering the plan.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_9503_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) The requirements of this section are satisfied with respect to the Thrift Savings Plan described under subchapter III of chapter 84 of title 5, by preparation and transmission of the report described under section 8439(b) of such title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

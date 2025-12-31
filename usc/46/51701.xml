@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/51701" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/51701/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/51701/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_51701"><akn:num>51701</akn:num><akn:heading>United States Maritime Service</akn:heading><akn:content><akn:p>§ 51701. United States Maritime Service(a) General Authority.—The Secretary of Transportation may establish and maintain a voluntary organization, to be known as the United States Maritime Service, for the training of citizens of the United States to serve on merchant vessels of the United States and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary.
+
+(b) Specific Authority.—The Secretary may—(1) determine the number of individuals to be enrolled for training and reserve purposes in the Service;
+
+(2) fix the rates of pay and allowances of the individuals without regard to chapter 51 or subchapter III of chapter 53 of title 5;
+
+(3) prescribe the course of study and the periods of training for the Service; and
+
+(4) prescribe the uniform of the Service and the rules on providing and wearing the uniform.
+
+
+(c) Ranks, Grades, and Ratings.—The ranks, grades, and ratings for personnel of the Service shall be the same as those prescribed for personnel of the Coast Guard.
+
+(d) Medals and Awards.—The Secretary may establish and maintain a medals and awards program to recognize distinguished service, superior achievement, professional performance, and other commendable achievement by personnel of the Service.
+
+(Pub. L. 109–304, § 8(b), Oct. 6, 2006, 120 Stat. 1582; Pub. L. 109–163, div. C, title XXXV, § 3509, Jan. 6, 2006, 119 Stat. 3557; Pub. L. 109–364, div. C, title XXXV, § 3510(d)(1), Oct. 17, 2006, 120 Stat. 2520; Pub. L. 110–181, div. C, title XXXV, § 3523(a)(4), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+5170146 App.:1295e.June 29, 1936, ch. 858, title XIII, § 1306, as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 2006; Pub. L. 108–136, title XXXV, § 3515(e), Nov. 24, 2003, 117 Stat. 1795.
+
+
+
+Editorial Notes
+Amendments2008—Pub. L. 110–181, § 3523(b), repealed Pub. L. 109–163, § 3509. See 2006 Amendment note b</akn:p></akn:content><akn:subsection eId="subsec_51701_a"><akn:num>(a)</akn:num><akn:heading>General Authority.—</akn:heading><akn:content><akn:p>(a) The Secretary of Transportation may establish and maintain a voluntary organization, to be known as the United States Maritime Service, for the training of citizens of the United States to serve on merchant vessels of the United States and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51701_b"><akn:num>(b)</akn:num><akn:heading>Specific Authority.—</akn:heading><akn:content><akn:p>(b) The Secretary may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51701_c"><akn:num>(c)</akn:num><akn:heading>Ranks, Grades, and Ratings.—</akn:heading><akn:content><akn:p>(c) The ranks, grades, and ratings for personnel of the Service shall be the same as those prescribed for personnel of the Coast Guard.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_51701_d"><akn:num>(d)</akn:num><akn:heading>Medals and Awards.—</akn:heading><akn:content><akn:p>(d) The Secretary may establish and maintain a medals and awards program to recognize distinguished service, superior achievement, professional performance, and other commendable achievement by personnel of the Service.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

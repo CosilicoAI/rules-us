@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/817" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/817/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/817/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_817"><akn:num>817</akn:num><akn:heading>Art. 17. Jurisdiction of courts-martial in general</akn:heading><akn:content><akn:p>§ 817. Art. 17. Jurisdiction of courts-martial in general(a) Each armed force has court-martial jurisdiction over all persons subject to this chapter. The exercise of jurisdiction by one armed force over personnel of another armed force shall be in accordance with regulations prescribed by the President.
+
+(b) In all cases, departmental review after that by the officer with authority to convene a general court-martial for the command which held the trial, where that review is required under this chapter, shall be carried out by the department that includes the armed force of which the accused is a member.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 43.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+817(a)817(b)50:577(a).50:577(b).May 5, 1950, ch. 169, § 1 (Art. 17), 64 Stat. 114.
+
+
+In subsection (a), the word “has” is substituted for the words “shall have”.
+In subsection (b), the word “after” is substituted for the words “subsequent to”. The words “the provisions of” are omitted as surplusage. The words “department that includes the” are inserted before the words “armed force”, since the review is carried out by the department and not by the armed force.</akn:p></akn:content><akn:subsection eId="subsec_817_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Each armed force has court-martial jurisdiction over all persons subject to this chapter. The exercise of jurisdiction by one armed force over personnel of another armed force shall be in accordance with regulations prescribed by the President.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_817_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In all cases, departmental review after that by the officer with authority to convene a general court-martial for the command which held the trial, where that review is required under this chapter, shall be carried out by the department that includes the armed force of which the accused is a member.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

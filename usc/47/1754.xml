@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/47/1754" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/47/1754/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/47/1754/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1754"><akn:num>1754</akn:num><akn:heading>Digital discrimination</akn:heading><akn:content><akn:p>§ 1754. Digital discrimination(a) Statement of policyIt is the policy of the United States that, insofar as technically and economically feasible—(1) subscribers should benefit from equal access to broadband internet access service within the service area of a provider of such service;
+
+(2) the term “equal access”, for purposes of this section, means the equal opportunity to subscribe to an offered service that provides comparable speeds, capacities, latency, and other quality of service metrics in a given area, for comparable terms and conditions; and
+
+(3) the Commission should take steps to ensure that all people of the United States benefit from equal access to broadband internet access service.
+
+
+(b) Adoption of rulesNot later than 2 years after November 15, 2021, the Commission shall adopt final rules to facilitate equal access to broadband internet access service, taking into account the issues of technical and economic feasibility presented by that objective, including—(1) preventing digital discrimination of access based on income level, race, ethnicity, color, religion, or national origin; and
+
+(2) identifying necessary steps for the Commissions to take to eliminate discrimination described in paragraph (1).
+
+
+(c) Federal policiesThe Commission and the Attorney General shall ensure that Federal policies promote equal access to robust broadband internet access service by prohibiting deployment discrimination based on—(1) the income level of an area;
+
+(2) the predominant race or ethnicity composition of an area; or
+
+(3) other factors the Commission determines to be relevant based on the findings in the record developed from the rulemaking under subsection (b).
+
+
+(d) Model State and local policiesThe Commission shall develop model policies and best practices that can be adopted by States and localities to ensure that broadband internet access service providers do not engage in digital discrimination.
+
+
+(e) ComplaintsThe Commission shall revise its public compl</akn:p></akn:content><akn:subsection eId="subsec_1754_a"><akn:num>(a)</akn:num><akn:heading>Statement of policy</akn:heading><akn:content><akn:p>(a) Statement of policy It is the policy of the United States that, insofar as technically and economically feasible—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1754_b"><akn:num>(b)</akn:num><akn:heading>Adoption of rules</akn:heading><akn:content><akn:p>(b) Adoption of rules Not later than 2 years after November 15, 2021, the Commission shall adopt final rules to facilitate equal access to broadband internet access service, taking into account the issues of technical and economic feasibility presented by that objective, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1754_c"><akn:num>(c)</akn:num><akn:heading>Federal policies</akn:heading><akn:content><akn:p>(c) Federal policies The Commission and the Attorney General shall ensure that Federal policies promote equal access to robust broadband internet access service by prohibiting deployment discrimination based on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1754_d"><akn:num>(d)</akn:num><akn:heading>Model State and local policies</akn:heading><akn:content><akn:p>(d) Model State and local policies The Commission shall develop model policies and best practices that can be adopted by States and localities to ensure that broadband internet access service providers do not engage in digital discrimination.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1754_e"><akn:num>(e)</akn:num><akn:heading>Complaints</akn:heading><akn:content><akn:p>(e) Complaints The Commission shall revise its public complaint process to accept complaints from consumers or other members of the public that relate to digital discrimination.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

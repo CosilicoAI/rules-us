@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/701n–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/701n–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/701n–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_701n_1"><akn:num>701n–1</akn:num><akn:heading>Biennial report to Congress</akn:heading><akn:content><akn:p>§ 701n–1. Biennial report to Congress(A) In generalNot later than 2 years after June 10, 2014, and every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report detailing the amounts expended in the previous 5 fiscal years to carry out Corps of Engineers projects under section 701n of this title.
+
+
+(B) InclusionsA report under subparagraph (A) shall, at a minimum, include a description of—(i) each structure, feature, or project for which amounts are expended, including the type of structure, feature, or project and cost of the work; and
+
+(ii) how the Secretary has repaired, restored, replaced, or modified each structure, feature, or project or intends to restore the structure, feature, or project to the design level of protection for the structure, feature, or project.
+
+
+(Pub. L. 113–121, title III, § 3029(c)(1), June 10, 2014, 128 Stat. 1307.)
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined
+Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.</akn:p></akn:content><akn:subsection eId="subsec_701n_1_A"><akn:num>(A)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(A) In general Not later than 2 years after June 10, 2014, and every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report detailing the amounts expended in the previous 5 fiscal years to carry out Corps of Engineers projects under section 701n of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_701n_1_B"><akn:num>(B)</akn:num><akn:heading>Inclusions</akn:heading><akn:content><akn:p>(B) Inclusions A report under subparagraph (A) shall, at a minimum, include a description of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

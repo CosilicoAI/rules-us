@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/11806" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/11806/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/11806/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11806"><akn:num>11806</akn:num><akn:heading>Annual report</akn:heading><akn:content><akn:p>§ 11806. Annual report
+Not later than 180 days after the end of each fiscal year, the Secretary shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report describing—(1) the types of projects and activities for which grants and contracts were made under this subchapter for such fiscal year,
+
+(2) the number and characteristics of the youth and families served by such projects and activities, and
+
+(3) each of such projects and activities the Secretary considers to be exemplary.
+
+(Pub. L. 100–690, title III, § 3506, as added Pub. L. 102–132, § 1(c), Oct. 18, 1991, 105 Stat. 630.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 1, 1991, see section 3 of Pub. L. 102–132, set out as an Effective Date of 1991 Amendment note under section 11801 of this title.</akn:p></akn:content><akn:subsection eId="subsec_11806_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the types of projects and activities for which grants and contracts were made under this subchapter for such fiscal year,</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11806_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the number and characteristics of the youth and families served by such projects and activities, and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11806_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) each of such projects and activities the Secretary considers to be exemplary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

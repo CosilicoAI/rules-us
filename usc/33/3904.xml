@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/3904" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/3904/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/3904/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3904"><akn:num>3904</akn:num><akn:heading>Eligible entities</akn:heading><akn:content><akn:p>§ 3904. Eligible entities
+The following entities are eligible to receive assistance under this chapter:(1) A corporation.
+
+(2) A partnership.
+
+(3) A joint venture.
+
+(4) A trust.
+
+(5) A Federal, State, or local governmental entity, agency, or instrumentality.
+
+(6) A tribal government or consortium of tribal governments.
+
+(7) A State infrastructure financing authority.
+
+(Pub. L. 113–121, title V, § 5025, June 10, 2014, 128 Stat. 1334.)</akn:p></akn:content><akn:subsection eId="subsec_3904_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) A corporation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3904_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) A partnership.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3904_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) A joint venture.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3904_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) A trust.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3904_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) A Federal, State, or local governmental entity, agency, or instrumentality.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3904_6"><akn:num>(6)</akn:num><akn:content><akn:p>(6) A tribal government or consortium of tribal governments.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3904_7"><akn:num>(7)</akn:num><akn:content><akn:p>(7) A State infrastructure financing authority.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3242" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3242/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3242/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3242"><akn:num>3242</akn:num><akn:heading>Annual reports on certain cyber vulnerabilities procured by intelligence community and foreign comme</akn:heading><akn:content><akn:p>§ 3242. Annual reports on certain cyber vulnerabilities procured by intelligence community and foreign commercial providers of cyber vulnerabilities(a) Annual reportsOn an annual basis through 2026, the Director of the Central Intelligence Agency and the Director of the National Security Agency, in coordination with the Director of National Intelligence, shall jointly submit to the congressional intelligence committees a report containing information on foreign commercial providers and the cyber vulnerabilities procured by the intelligence community through foreign commercial providers.
+
+
+(b) ElementsEach report under subsection (a) shall include, with respect to the period covered by the report, the following:(1) A description of each cyber vulnerability procured through a foreign commercial provider, including—(A) a description of the vulnerability;
+
+(B) the date of the procurement;
+
+(C) whether the procurement consisted of only that vulnerability or included other vulnerabilities;
+
+(D) the cost of the procurement;
+
+(E) the identity of the commercial provider and, if the commercial provider was not the original supplier of the vulnerability, a description of the original supplier;
+
+(F) the country of origin of the vulnerability; and
+
+(G) an assessment of the ability of the intelligence community to use the vulnerability, including whether such use will be operational or for research and development, and the approximate timeline for such use.
+
+
+(2) An assessment of foreign commercial providers that—(A) pose a significant threat to the national security of the United States; or
+
+(B) have provided cyber vulnerabilities to any foreign government that—(i) has used the cyber vulnerabilities to target United States persons, the United States Government, journalists, or dissidents; or
+
+(ii) has an established pattern or practice of violating human rights or suppressing dissent.
+
+
+
+(3) An assessment of whether the intelligence community has conducted business with the fore</akn:p></akn:content><akn:subsection eId="subsec_3242_a"><akn:num>(a)</akn:num><akn:heading>Annual reports</akn:heading><akn:content><akn:p>(a) Annual reports On an annual basis through 2026, the Director of the Central Intelligence Agency and the Director of the National Security Agency, in coordination with the Director of National Intelligence, shall jointly submit to the congressional intelligence committees a report containing information on foreign commercial providers and the cyber vulnerabilities procured by the intelligence community through foreign commercial providers.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3242_b"><akn:num>(b)</akn:num><akn:heading>Elements</akn:heading><akn:content><akn:p>(b) Elements Each report under subsection (a) shall include, with respect to the period covered by the report, the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3242_c"><akn:num>(c)</akn:num><akn:heading>Form</akn:heading><akn:content><akn:p>(c) Form Each report under subsection (a) may be submitted in classified form.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3242_d"><akn:num>(d)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(d) Definitions In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

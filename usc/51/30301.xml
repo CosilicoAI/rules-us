@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/51/30301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/51/30301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/51/30301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30301"><akn:num>30301</akn:num><akn:heading>Guaranteed customer base</akn:heading><akn:content><akn:p>§ 30301. Guaranteed customer base
+No amount appropriated to the Administration may be used to fund grants, contracts, or other agreements with an expected duration of more than one year, when a primary effect of the grant, contract, or agreement is to provide a guaranteed customer base for or establish an anchor tenancy in new commercial space hardware or services unless an appropriations Act specifies the new commercial space hardware or services to be developed or used, or the grant, contract, or agreement is otherwise identified in such Act.
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3363.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3030142 U.S.C. 2459d.Pub. L. 102–139, title III, (1st par. under heading “Administrative Provisions”, at 105 Stat. 771), Oct. 28, 1991, 105 Stat. 771.
+
+
+The words “in this or any other Act with respect to any fiscal year” are omitted as unnecessary.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

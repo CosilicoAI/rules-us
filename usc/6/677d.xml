@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/677d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/677d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/677d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_677d"><akn:num>677d</akn:num><akn:heading>Notification and reporting</akn:heading><akn:content><akn:p>§ 677d. Notification and reporting(a) NotificationUpon a declaration or renewal, the Secretary shall immediately notify the National Cyber Director and appropriate congressional committees and include in the notification—(1) an estimation of the planned duration of the declaration;
+
+(2) with respect to a notification of a declaration, the reason for the declaration, including information relating to the specific significant incident or imminent specific significant incident, including—(A) the operational or mission impact or anticipated impact of the specific significant incident on Federal and non-Federal entities;
+
+(B) if known, the perpetrator of the specific significant incident; and
+
+(C) the scope of the Federal and non-Federal entities impacted or anticipated to be impacted by the specific significant incident;
+
+
+(3) with respect to a notification of a renewal, the reason for the renewal;
+
+(4) justification as to why available resources, other than the Fund, are insufficient to respond to or mitigate the specific significant incident; and
+
+(5) a description of the coordination activities described in section 677b(b) of this title that the Secretary anticipates the Director to perform.
+
+
+(b) Report to CongressNot later than 180 days after the date of a declaration or renewal, the Secretary shall submit to the appropriate congressional committees a report that includes—(1) the reason for the declaration or renewal, including information and intelligence relating to the specific significant incident that led to the declaration or renewal;
+
+(2) the use of any funds from the Fund for the purpose of responding to the incident or threat described in paragraph (1);
+
+(3) a description of the actions, initiatives, and projects undertaken by the Department and State and local governments and public and private entities in responding to and recovering from the specific significant incident described in paragraph (1);
+
+(4) an accounting of the specific obligations and outl</akn:p></akn:content><akn:subsection eId="subsec_677d_a"><akn:num>(a)</akn:num><akn:heading>Notification</akn:heading><akn:content><akn:p>(a) Notification Upon a declaration or renewal, the Secretary shall immediately notify the National Cyber Director and appropriate congressional committees and include in the notification—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_677d_b"><akn:num>(b)</akn:num><akn:heading>Report to Congress</akn:heading><akn:content><akn:p>(b) Report to Congress Not later than 180 days after the date of a declaration or renewal, the Secretary shall submit to the appropriate congressional committees a report that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_677d_c"><akn:num>(c)</akn:num><akn:heading>Classification</akn:heading><akn:content><akn:p>(c) Classification Each notification made under subsection (a) and each report submitted under subsection (b)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_677d_d"><akn:num>(d)</akn:num><akn:heading>Consolidated report</akn:heading><akn:content><akn:p>(d) Consolidated report The Secretary shall not be required to submit multiple reports under subsection (b) for multiple declarations or renewals if the Secretary determines that the declarations or renewals substantively relate to the same specific significant incident.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_677d_e"><akn:num>(e)</akn:num><akn:heading>Exemption</akn:heading><akn:content><akn:p>(e) Exemption The requirements of subchapter I of chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to the voluntary collection of information by the Department during an investigation of, a response to, or an immediate post-response review of, the specific significant incident leading to a declaration or renewal.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

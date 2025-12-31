@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/1501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/1501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/1501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1501"><akn:num>1501</akn:num><akn:heading>Documentary evidence requirement for Government obligations</akn:heading><akn:content><akn:p>§ 1501. Documentary evidence requirement for Government obligations(a) An amount shall be recorded as an obligation of the United States Government only when supported by documentary evidence of—(1) a binding agreement between an agency and another person (including an agency) that is—(A) in writing, in a way and form, and for a purpose authorized by law; and
+
+(B) executed before the end of the period of availability for obligation of the appropriation or fund used for specific goods to be delivered, real property to be bought or leased, or work or service to be provided;
+
+
+(2) a loan agreement showing the amount and terms of repayment;
+
+(3) an order required by law to be placed with an agency;
+
+(4) an order issued under a law authorizing purchases without advertising—(A) when necessary because of a public exigency;
+
+(B) for perishable subsistence supplies; or
+
+(C) within specific monetary limits;
+
+
+(5) a grant or subsidy payable—(A) from appropriations made for payment of, or contributions to, amounts required to be paid in specific amounts fixed by law or under formulas prescribed by law;
+
+(B) under an agreement authorized by law; or
+
+(C) under plans approved consistent with and authorized by law;
+
+
+(6) a liability that may result from pending litigation;
+
+(7) employment or services of persons or expenses of travel under law;
+
+(8) services provided by public utilities; or
+
+(9) other legal liability of the Government against an available appropriation or fund.
+
+
+(b) A statement of obligations provided to Congress or a committee of Congress by an agency shall include only those amounts that are obligations consistent with subsection (a) of this section.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 927.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1501(a)31:200(a).Aug. 26, 1954, ch. 935, § 1311(a), (e), 68 Stat. 830, 831.
+1501(b)31:200(e).
+
+
+In subsection (a), before clause (1), the words “After August 26, 19</akn:p></akn:content><akn:subsection eId="subsec_1501_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) An amount shall be recorded as an obligation of the United States Government only when supported by documentary evidence of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1501_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) A statement of obligations provided to Congress or a committee of Congress by an agency shall include only those amounts that are obligations consistent with subsection (a) of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

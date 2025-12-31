@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30523" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30523/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30523/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30523"><akn:num>30523</akn:num><akn:heading>General limit of liability</akn:heading><akn:content><akn:p>§ 30523. General limit of liability(a) In General.—Except as provided in section 30524 of this title, the liability of the owner of a vessel for any claim, debt, or liability described in subsection (b) shall not exceed the value of the vessel and pending freight. If the vessel has more than one owner, the proportionate share of the liability of any one owner shall not exceed that owner’s proportionate interest in the vessel and pending freight.
+
+(b) Claims Subject to Limitation.—Unless otherwise excluded by law, claims, debts, and liabilities subject to limitation under subsection (a) are those arising from any embezzlement, loss, or destruction of any property, goods, or merchandise shipped or put on board the vessel, any loss, damage, or injury by collision, or any act, matter, or thing, loss, damage, or forfeiture, done, occasioned, or incurred, without the privity or knowledge of the owner.
+
+(c) Wages.—Subsection (a) does not apply to a claim for wages.
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1513, § 30505; renumbered § 30523 and amended Pub. L. 117–263, div. K, title CXV, § 11503(a)(3), (f)(2), Dec. 23, 2022, 136 Stat. 4130, 4131.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+3050546 App.:183(a).R.S. § 4283(a); Aug. 29, 1935, ch. 804, § 1, 49 Stat. 960; June 5, 1936, ch. 521, § 1, 49 Stat. 1479.
+ 46 App.:189June 26, 1884, ch. 121, § 18, 23 Stat. 57.
+
+
+In subsection (a), the words “Except as provided in section 30506 of this title” are substituted for “except in the cases provided for in subsection (b) of this section” because 46 App. U.S.C. 183(b) is restated in section 30506 of the revised title. The words “whether American or foreign” are omitted as unnecessary because of section 30502 of the revised title. The words “shall not exceed the value of the vessel and pending freight” are substituted for “shall not . . . exceed the amount or value of . . . such vessel, and her freight then pendi</akn:p></akn:content><akn:subsection eId="subsec_30523_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) Except as provided in section 30524 of this title, the liability of the owner of a vessel for any claim, debt, or liability described in subsection (b) shall not exceed the value of the vessel and pending freight. If the vessel has more than one owner, the proportionate share of the liability of any one owner shall not exceed that owner’s proportionate interest in the vessel and pending freight.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30523_b"><akn:num>(b)</akn:num><akn:heading>Claims Subject to Limitation.—</akn:heading><akn:content><akn:p>(b) Unless otherwise excluded by law, claims, debts, and liabilities subject to limitation under subsection (a) are those arising from any embezzlement, loss, or destruction of any property, goods, or merchandise shipped or put on board the vessel, any loss, damage, or injury by collision, or any act, matter, or thing, loss, damage, or forfeiture, done, occasioned, or incurred, without the privity or knowledge of the owner.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30523_c"><akn:num>(c)</akn:num><akn:heading>Wages.—</akn:heading><akn:content><akn:p>(c) Subsection (a) does not apply to a claim for wages.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

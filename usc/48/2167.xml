@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/48/2167" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/48/2167/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/48/2167/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2167"><akn:num>2167</akn:num><akn:heading>Venue</akn:heading><akn:content><akn:p>§ 2167. Venue(a) In generalVenue shall be proper in—(1) with respect to a territory, the district court for the territory or, for any territory that does not have a district court, the United States District Court for the District of Hawaii; and
+
+(2) with respect to a covered territorial instrumentality, the district court for the territory in which the covered territorial instrumentality is located or, for any territory that does not have a district court, the United States District Court for the District of Hawaii.
+
+
+(b) Alternative venue(1) If the Oversight Board so determines in its sole discretion, then venue shall be proper in the district court for the jurisdiction in which the Oversight Board maintains an office that is located outside the territory.
+
+(2) With respect to paragraph (1), the Oversight Board may consider, among other things—(A) the resources of the district court to adjudicate a case or proceeding; and
+
+(B) the impact on witnesses who may be called in such a case or proceeding.
+
+
+
+(Pub. L. 114–187, title III, § 307, June 30, 2016, 130 Stat. 582.)</akn:p></akn:content><akn:subsection eId="subsec_2167_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general Venue shall be proper in—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2167_b"><akn:num>(b)</akn:num><akn:heading>Alternative venue</akn:heading><akn:content><akn:p>(b) Alternative venue</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

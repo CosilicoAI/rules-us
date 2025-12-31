@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/2209" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/2209/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/2209/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2209"><akn:num>2209</akn:num><akn:heading>Disclosure requirement for official business conducted using non-official electronic messaging accou</akn:heading><akn:content><akn:p>§ 2209. Disclosure requirement for official business conducted using non-official electronic messaging accounts(a) In General.—The President, the Vice President, or a covered employee may not create or send a Presidential or Vice Presidential record using a non-official electronic message account unless the President, Vice President, or covered employee—(1) copies an official electronic messaging account of the President, Vice President, or covered employee in the original creation or transmission of the Presidential record or Vice Presidential record; or
+
+(2) forwards a complete copy of the Presidential or Vice Presidential record to an official electronic messaging account of the President, Vice President, or covered employee not later than 20 days after the original creation or transmission of the Presidential or Vice Presidential record.
+
+
+(b) Adverse Actions.—The intentional violation of subsection (a) by a covered employee (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.
+
+(c) Definitions.—In this section:(1) Covered employee.—The term “covered employee” means—(A) the immediate staff of the President;
+
+(B) the immediate staff of the Vice President;
+
+(C) a unit or individual of the Executive Office of the President whose function is to advise and assist the President; and
+
+(D) a unit or individual of the Office of the Vice President whose function is to advise and assist the Vice President.
+
+
+(2) Electronic messages.—The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
+
+(3) Electronic messaging account.—The term “electronic messaging account” means any account that sends electronic messages.
+
+
+(Added Pub. L. 113–187, § 2(e)(1), Nov. 26, 2014, 128 Stat. 2006.)</akn:p></akn:content><akn:subsection eId="subsec_2209_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The President, the Vice President, or a covered employee may not create or send a Presidential or Vice Presidential record using a non-official electronic message account unless the President, Vice President, or covered employee—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2209_b"><akn:num>(b)</akn:num><akn:heading>Adverse Actions.—</akn:heading><akn:content><akn:p>(b) The intentional violation of subsection (a) by a covered employee (including any rules, regulations, or other implementing guidelines), as determined by the appropriate supervisor, shall be a basis for disciplinary action in accordance with subchapter I, II, or V of chapter 75 of title 5, as the case may be.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2209_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

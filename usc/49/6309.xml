@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/6309" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/6309/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/6309/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6309"><akn:num>6309</akn:num><akn:heading>National transportation atlas database</akn:heading><akn:content><akn:p>§ 6309. National transportation atlas database(a) In General.—The Director shall develop and maintain a national transportation atlas database that is comprised of geospatial databases that depict—(1) transportation networks;
+
+(2) flows of people, goods, vehicles, and craft over the transportation networks; and
+
+(3) social, economic, and environmental conditions that affect or are affected by the transportation networks.
+
+
+(b) Intermodal Network Analysis.—The databases referred to in subsection (a) shall be capable of supporting intermodal network analysis.
+
+(Added Pub. L. 112–141, div. E, title II, § 52011(a), July 6, 2012, 126 Stat. 894.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.</akn:p></akn:content><akn:subsection eId="subsec_6309_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Director shall develop and maintain a national transportation atlas database that is comprised of geospatial databases that depict—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6309_b"><akn:num>(b)</akn:num><akn:heading>Intermodal Network Analysis.—</akn:heading><akn:content><akn:p>(b) The databases referred to in subsection (a) shall be capable of supporting intermodal network analysis.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/30105" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/30105/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/30105/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_30105"><akn:num>30105</akn:num><akn:heading>Restriction on recovery by non-citizens and non-resident aliens for incidents in waters of other cou</akn:heading><akn:content><akn:p>§ 30105. Restriction on recovery by non-citizens and non-resident aliens for incidents in waters of other countries(a) Definition.—In this section, the term “continental shelf” has the meaning given that term in article I of the 1958 Convention on the Continental Shelf.
+
+(b) Restriction.—Except as provided in subsection (c), a civil action for maintenance and cure or for damages for personal injury or death may not be brought under a maritime law of the United States if—(1) the individual suffering the injury or death was not a citizen or permanent resident alien of the United States at the time of the incident giving rise to the action;
+
+(2) the incident occurred in the territorial waters or waters overlaying the continental shelf of a country other than the United States; and
+
+(3) the individual suffering the injury or death was employed at the time of the incident by a person engaged in the exploration, development, or production of offshore mineral or energy resources, including drilling, mapping, surveying, diving, pipelaying, maintaining, repairing, constructing, or transporting supplies, equipment, or personnel, but not including transporting those resources by a vessel constructed or adapted primarily to carry oil in bulk in the cargo spaces.
+
+
+(c) Nonapplication.—Subsection (b) does not apply if the individual bringing the action establishes that a remedy is not available under the laws of—(1) the country asserting jurisdiction over the area in which the incident occurred; or
+
+(2) the country in which the individual suffering the injury or death maintained citizenship or residency at the time of the incident.
+
+
+(Pub. L. 109–304, § 6(c), Oct. 6, 2006, 120 Stat. 1510.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30105(a)46 App.:688(b)(1) (last sentence).Mar. 4, 1915, ch. 153, § 20(b), as added Pub. L. 97–389, title V, § 503(a)(2), Dec. 29, 1982, 96 Stat. 1955.
+30105(b)46 App.:688(b)(1) (less last sen</akn:p></akn:content><akn:subsection eId="subsec_30105_a"><akn:num>(a)</akn:num><akn:heading>Definition.—</akn:heading><akn:content><akn:p>(a) In this section, the term “continental shelf” has the meaning given that term in article I of the 1958 Convention on the Continental Shelf.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30105_b"><akn:num>(b)</akn:num><akn:heading>Restriction.—</akn:heading><akn:content><akn:p>(b) Except as provided in subsection (c), a civil action for maintenance and cure or for damages for personal injury or death may not be brought under a maritime law of the United States if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_30105_c"><akn:num>(c)</akn:num><akn:heading>Nonapplication.—</akn:heading><akn:content><akn:p>(c) Subsection (b) does not apply if the individual bringing the action establishes that a remedy is not available under the laws of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

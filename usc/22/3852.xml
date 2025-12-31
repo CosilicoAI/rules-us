@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/22/3852" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/22/3852/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/22/3852/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3852"><akn:num>3852</akn:num><akn:heading>Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868</akn:heading><akn:content><akn:p>§§ 3851, 3852. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(a)(4), Sept. 23, 1996, 110 Stat. 2868
+
+Section 3851, Pub. L. 96–70, title II, § 2401, Sept. 27, 1979, 93 Stat. 495, related to vesting of authority in the President during transition period.
+
+
+Section 3852, Pub. L. 96–70, title II, § 2402, Sept. 27, 1979, 93 Stat. 495, related to commitment of prisoners to custody of Attorney General or Commission.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

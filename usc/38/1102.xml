@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1102"><akn:num>1102</akn:num><akn:heading>Special provisions relating to surviving spouses</akn:heading><akn:content><akn:p>§ 1102. Special provisions relating to surviving spouses(a) No compensation shall be paid to the surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran—(1) before the expiration of fifteen years after the termination of the period of service in which the injury or disease causing the death of the veteran was incurred or aggravated; or
+
+(2) for one year or more; or
+
+(3) for any period of time if a child was born of the marriage, or was born to them before the marriage.
+
+
+(b) Subsection (a) shall not be applicable to any surviving spouse who, with respect to date of marriage, could have qualified as a surviving spouse for death compensation under any law administered by the Secretary in effect on December 31, 1957.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, § 302; Pub. L. 86–491, June 8, 1960, 74 Stat. 161; Pub. L. 90–77, title I, § 101(a), Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–433, title IV, § 404(2)–(4), Sept. 30, 1976, 90 Stat. 1378; renumbered § 1102 and amended Pub. L. 102–83, §§ 4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
+
+Editorial Notes
+Amendments1991—Pub. L. 102–83, § 5(a), renumbered section 302 of this title as this section.
+Subsec. (b). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+1976—Pub. L. 94–433, § 404(4), substituted “surviving spouses” for “widows” in section catchline.
+Subsec. (a). Pub. L. 94–433, § 404(2), substituted “surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran” for “widow of a veteran under this chapter unless she was married to him”.
+Subsec. (b). Pub. L. 94–433, § 404(3), substituted “surviving spouse” for “widow” in two places.
+1967—Subsec. (a)(2), (3). Pub. L. 90–77 qualified widow of a veteran for receipt of compensation by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits </akn:p></akn:content><akn:subsection eId="subsec_1102_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) No compensation shall be paid to the surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1102_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Subsection (a) shall not be applicable to any surviving spouse who, with respect to date of marriage, could have qualified as a surviving spouse for death compensation under any law administered by the Secretary in effect on December 31, 1957.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

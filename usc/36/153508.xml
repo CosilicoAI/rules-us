@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/153508" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/153508/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/153508/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_153508"><akn:num>153508</akn:num><akn:heading>Principal office and location of activities and gardens</akn:heading><akn:content><akn:p>§ 153508. Principal office and location of activities and gardens(a) Principal Office.—The principal office of the corporation shall be in the District of Columbia or another place decided by the board of trustees.
+
+(b) Location of Activities and Gardens.—The activities of the corporation may be conducted anywhere. However, the corporation may establish tropical botanical gardens only in the United States and its territories and possessions.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1426.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+15350836:4607(a).Aug. 19, 1964, Pub. L. 88–449, § 7(a), 78 Stat. 498; Oct. 28, 1988, Pub. L. 100–539, § 2, 102 Stat. 2718.
+
+
+Subsection (a) is substituted for “The corporation initially shall have its principal office in the District of Columbia and later at such place as may be determined by the board of trustees” for consistency in the revised title.
+Subsection (b) is substituted for “The corporation shall have the right to conduct its activities in the United States and elsewhere but shall establish a tropical botanical garden or gardens only in the United States. For purposes of this subsection, the term ‘United States’ includes any commonwealth, territory, or possession of the United States” to eliminate unnecessary words.</akn:p></akn:content><akn:subsection eId="subsec_153508_a"><akn:num>(a)</akn:num><akn:heading>Principal Office.—</akn:heading><akn:content><akn:p>(a) The principal office of the corporation shall be in the District of Columbia or another place decided by the board of trustees.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_153508_b"><akn:num>(b)</akn:num><akn:heading>Location of Activities and Gardens.—</akn:heading><akn:content><akn:p>(b) The activities of the corporation may be conducted anywhere. However, the corporation may establish tropical botanical gardens only in the United States and its territories and possessions.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

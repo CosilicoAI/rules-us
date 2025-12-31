@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1473" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1473/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1473/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1473"><akn:num>1473</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1473. Definitions
+For purposes of this chapter—(1) Withholdable paymentExcept as otherwise provided by the Secretary—(A) In generalThe term “withholdable payment” means—(i) any payment of interest (including any original issue discount), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income, if such payment is from sources within the United States, and
+
+(ii) any gross proceeds from the sale or other disposition of any property of a type which can produce interest or dividends from sources within the United States.
+
+
+(B) Exception for income connected with United States businessSuch term shall not include any item of income which is taken into account under section 871(b)(1) or 882(a)(1) for the taxable year.
+
+
+(C) Special rule for sourcing interest paid by foreign branches of domestic financial institutionsSubparagraph (B) of section 861(a)(1) shall not apply.
+
+
+
+(2) Substantial United States owner(A) In generalThe term “substantial United States owner” means—(i) with respect to any corporation, any specified United States person which owns, directly or indirectly, more than 10 percent of the stock of such corporation (by vote or value),
+
+(ii) with respect to any partnership, any specified United States person which owns, directly or indirectly, more than 10 percent of the profits interests or capital interests in such partnership, and
+
+(iii) in the case of a trust—(I) any specified United States person treated as an owner of any portion of such trust under subpart E of part I of subchapter J of chapter 1, and
+
+(II) to the extent provided by the Secretary in regulations or other guidance, any specified United States person which holds, directly or indirectly, more than 10 percent of the beneficial interests of such trust.
+
+
+
+(B) Special rule for investment vehiclesIn the case of any financial institution described in section 1471(d)(5)(C), cl</akn:p></akn:content><akn:subsection eId="subsec_1473_1"><akn:num>(1)</akn:num><akn:heading>Withholdable payment</akn:heading><akn:content><akn:p>(1) Withholdable payment Except as otherwise provided by the Secretary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1473_2"><akn:num>(2)</akn:num><akn:heading>Substantial United States owner</akn:heading><akn:content><akn:p>(2) Substantial United States owner</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1473_3"><akn:num>(3)</akn:num><akn:heading>Specified United States person</akn:heading><akn:content><akn:p>(3) Specified United States person Except as otherwise provided by the Secretary, the term “specified United States person” means any United States person other than—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1473_4"><akn:num>(4)</akn:num><akn:heading>Withholding agent</akn:heading><akn:content><akn:p>(4) Withholding agent The term “withholding agent” means all persons, in whatever capacity acting, having the control, receipt, custody, disposal, or payment of any withholdable payment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1473_5"><akn:num>(5)</akn:num><akn:heading>Foreign entity</akn:heading><akn:content><akn:p>(5) Foreign entity The term “foreign entity” means any entity which is not a United States person.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

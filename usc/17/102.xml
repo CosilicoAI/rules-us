@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/17/102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/17/102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/17/102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_102"><akn:num>102</akn:num><akn:heading>Subject matter of copyright: In general</akn:heading><akn:content><akn:p>§ 102. Subject matter of copyright: In general(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:(1) literary works;
+
+(2) musical works, including any accompanying words;
+
+(3) dramatic works, including any accompanying music;
+
+(4) pantomimes and choreographic works;
+
+(5) pictorial, graphic, and sculptural works;
+
+(6) motion pictures and other audiovisual works;
+
+(7) sound recordings; and
+
+(8) architectural works.
+
+
+(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
+
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2544; Pub. L. 101–650, title VII, § 703, Dec. 1, 1990, 104 Stat. 5133.)
+
+Historical and Revision Notes
+house report no. 94–1476Original Works of Authorship. The two fundamental criteria of copyright protection—originality and fixation in tangible form are restated in the first sentence of this cornerstone provision. The phrase “original works or authorship,” which is purposely left undefined, is intended to incorporate without change the standard of originality established by the courts under the present copyright statute. This standard does not include requirements of novelty, ingenuity, or esthetic merit, and there is no intention to enlarge the standard of copyright protection to require them.
+In using the phrase “original works of authorship,” rather than “all the writings of an author” now in section 4 of the statute [section 4 of former title 17], the committee’s purpose is to avoid exhausting the constitutional power of C</akn:p></akn:content><akn:subsection eId="subsec_102_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_102_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

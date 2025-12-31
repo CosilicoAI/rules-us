@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/3802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/3802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/3802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3802"><akn:num>3802</akn:num><akn:heading>False claims and statements; liability</akn:heading><akn:content><akn:p>§ 3802. False claims and statements; liability(a)(1) Any person who makes, presents, or submits, or causes to be made, presented, or submitted, a claim that the person knows or has reason to know—(A) is false, fictitious, or fraudulent;
+
+(B) includes or is supported by any written statement which asserts a material fact which is false, fictitious, or fraudulent;
+
+(C) includes or is supported by any written statement that—(i) omits a material fact;
+
+(ii) is false, fictitious, or fraudulent as a result of such omission; and
+
+(iii) is a statement in which the person making, presenting, or submitting such statement has a duty to include such material fact; or
+
+
+(D) is for payment for the provision of property or services which the person has not provided as claimed,
+
+
+shall be subject to, in addition to any other remedy that may be prescribed by law, a civil penalty of not more than $5,000 for each such claim. Except as provided in paragraph (3) of this subsection, such person shall also be subject to an assessment, in lieu of damages sustained by the United States because of such claim, of not more than twice the amount of such claim, or the portion of such claim, which is determined under this chapter to be in violation of the preceding sentence.
+
+(2) Any person who makes, presents, or submits, or causes to be made, presented, or submitted, a written statement that—(A) the person knows or has reason to know—(i) asserts a material fact which is false, fictitious, or fraudulent; or
+
+(ii)(I) omits a material fact; and
+
+(II) is false, fictitious, or fraudulent as a result of such omission;
+
+
+
+(B) in the case of a statement described in clause (ii) of subparagraph (A), is a statement in which the person making, presenting, or submitting such statement has a duty to include such material fact; and
+
+(C) contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement,
+
+
+shall be subject to, in addition to</akn:p></akn:content><akn:subsection eId="subsec_3802_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3802_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

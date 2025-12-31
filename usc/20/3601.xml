@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/3601" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/3601/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/3601/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3601"><akn:num>3601</akn:num><akn:heading>Congressional statement of findings and purposes</akn:heading><akn:content><akn:p>§ 3601. Congressional statement of findings and purposes(a) The Congress finds that—(1) exposure to asbestos fibers has been identified over a long period of time and by reputable medical and scientific evidence as significantly increasing the incidence of cancer and other severe or fatal diseases, such as asbestosis;
+
+(2) medical evidence has suggested that children may be particularly vulnerable to environmentally induced cancers;
+
+(3) medical science has not established any minimum level of exposure to asbestos fibers which is considered to be safe to individuals exposed to the fibers;
+
+(4) substantial amounts of asbestos, particularly in sprayed form, have been used in school buildings, especially during the period 1946 through 1972;
+
+(5) partial surveys in some States have indicated that (A) in a number of school buildings materials containing asbestos fibers have become damaged or friable, causing asbestos fibers to be dislodged into the air, and (B) asbestos concentrations far exceeding normal ambient air levels have been found in school buildings containing such damaged materials;
+
+(6) the presence in school buildings of friable or easily damaged asbestos creates an unwarranted hazard to the health of the school children and school employees who are exposed to such materials;
+
+(7) the Department of Health and Human Services and the Environmental Protection Agency, as well as several States, have attempted to publicize the potential hazards to school children and employees from exposure to asbestos fibers, but there is no systematic program for identifying hazardous conditions in schools or for remedying those conditions;
+
+(8) because there is no Federal health standard regulating the concentration of asbestos fibers in noncommercial workplace environments such as schools, school employees and students may be exposed to hazardous concentrations of asbestos fibers in the school buildings which they use each day;
+
+(9) without an improved program of information </akn:p></akn:content><akn:subsection eId="subsec_3601_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress finds that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3601_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) It is the purpose of this chapter to—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

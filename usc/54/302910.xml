@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/302910" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/302910/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/302910/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_302910"><akn:num>302910</akn:num><akn:heading>Recordkeeping</akn:heading><akn:content><akn:p>§ 302910. Recordkeeping
+A recipient of assistance under this division shall keep—(1) such records as the Secretary shall prescribe, including records that fully disclose—(A) the disposition by the recipient of the proceeds of the assistance;
+
+(B) the total cost of the project or undertaking in connection with which the assistance is given or used; and
+
+(C) the amount and nature of that portion of the cost of the project or undertaking supplied by other sources; and
+
+
+(2) such other records as will facilitate an effective audit.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3205.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30291016 U.S.C. 470e.Pub. L. 89–665, title I, § 105, Oct. 15, 1966, 80 Stat. 917.
+
+
+The word “recipient” is substituted for “beneficiary” for clarity.</akn:p></akn:content><akn:subsection eId="subsec_302910_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) such records as the Secretary shall prescribe, including records that fully disclose—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_302910_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) such other records as will facilitate an effective audit.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

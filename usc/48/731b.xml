@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/48/731b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/48/731b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/48/731b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_731b"><akn:num>731b</akn:num><akn:heading>Organization of a government pursuant to a constitution</akn:heading><akn:content><akn:p>§ 731b. Organization of a government pursuant to a constitution
+Fully recognizing the principle of government by consent, sections 731b to 731e of this title are now adopted in the nature of a compact so that the people of Puerto Rico may organize a government pursuant to a constitution of their own adoption.
+(July 3, 1950, ch. 446, § 1, 64 Stat. 319.)
+
+Editorial Notes
+Codification
+Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+RepealsAct July 3, 1950, ch. 446, § 6, 64 Stat. 320, provided that: “All laws or parts of laws inconsistent with this Act [enacting sections 731b to 731e of this title] are hereby repealed.”</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

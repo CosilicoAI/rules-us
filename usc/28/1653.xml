@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/28/1653" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/28/1653/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/28/1653/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1653"><akn:num>1653</akn:num><akn:heading>Amendment of pleadings to show jurisdiction</akn:heading><akn:content><akn:p>§ 1653. Amendment of pleadings to show jurisdiction
+Defective allegations of jurisdiction may be amended, upon terms, in the trial or appellate courts.
+(June 25, 1948, ch. 646, 62 Stat. 944.)
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 399 (Mar. 3, 1911, ch. 231, § 274c, as added Mar. 3, 1915, ch. 90, 38 Stat. 956).
+Section was extended to permit amendment of all jurisdictional allegations instead of merely allegations of diversity of citizenship as provided by section 399 of title 28, U.S.C., 1940 ed.
+Changes were made in phraseology.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/1629d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/1629d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/1629d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1629d"><akn:num>1629d</akn:num><akn:heading>Dissenters rights</akn:heading><akn:content><akn:p>§ 1629d. Dissenters rights(a) Coverage(1) Notwithstanding the laws of the State, if the shareholders of a Native Corporation—(A) fail to approve an amendment authorized by section 1629c(b) of this title to terminate alienability restrictions, a shareholder who voted for the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock; or
+
+(B) approve an amendment authorized by section 1629c(d) of this title to continue alienability restrictions without issuing alienable common stock pursuant to section 1629c(d)(6) of this title, a shareholder who voted against the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock.
+
+
+(2)(A) A demand for payment made pursuant to paragraph (1)(A) shall be honored only if at the same time as the vote giving rise to the demand, the shareholders of the corporation approved a resolution providing for the purchase of Settlement Common Stock from dissenting shareholders.
+
+(B) A demand for payment made pursuant to paragraph (1)(B) shall be honored.
+
+
+
+(b) Relationship to State procedure(1) Except as otherwise provided in this section, the laws of the State governing the right of a dissenting shareholder to demand and receive payment for his or her shares shall apply to demands for payment honored pursuant to subsection (a)(2).
+
+(2) The board of directors of a Native Corporation may approve a resolution to provide a dissenting shareholder periods of time longer than those provided under the laws of the State to take actions required to demand and receive payment for his or her shares.
+
+
+(c) Valuation of stock(1) Prior to a vote described in subsection (a)(1), the board of directors of a Native Corporation may approve a resolution to provide that one or more of the following conditions will apply in the event a demand for payment is honored pursuant to subsection (a)(2)—(A) the Settlement Common Stock shall be valued as restricted stock; and
+
+(B</akn:p></akn:content><akn:subsection eId="subsec_1629d_a"><akn:num>(a)</akn:num><akn:heading>Coverage</akn:heading><akn:content><akn:p>(a) Coverage</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1629d_b"><akn:num>(b)</akn:num><akn:heading>Relationship to State procedure</akn:heading><akn:content><akn:p>(b) Relationship to State procedure</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1629d_c"><akn:num>(c)</akn:num><akn:heading>Valuation of stock</akn:heading><akn:content><akn:p>(c) Valuation of stock</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1629d_d"><akn:num>(d)</akn:num><akn:heading>Form of payment</akn:heading><akn:content><akn:p>(d) Form of payment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1629d_e"><akn:num>(e)</akn:num><akn:heading>Dividend adjustment</akn:heading><akn:content><akn:p>(e) Dividend adjustment</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/32/305" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/32/305/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/32/305/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_305"><akn:num>305</akn:num><akn:heading>Federal recognition of commissioned officers: persons eligible</akn:heading><akn:content><akn:p>§ 305. Federal recognition of commissioned officers: persons eligible(a) The following categories are eligible for Federal recognition as commissioned officers of the National Guard:(1) Members of the National Guard.
+
+(2) Members of the armed forces.
+
+(3) Former officers of the armed forces.
+
+(4) Former enlisted members of the armed forces who were discharged honorably or under honorable conditions.
+
+(5) Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy.
+
+(6) Graduates of a school, college, university, or officer’s training camp who received military instruction under the supervision of a commissioned officer of the Regular Army or the Regular Air Force, and whose fitness for appointment has been certified by that officer.
+
+(7) Civilians who are specially qualified for duty in a technical or staff branch or organization.
+
+
+(b) To be eligible for Federal recognition under this section with a view to serving as a nurse, a person must be a graduate of a hospital or university training school and a registered nurse.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 85–861, § 2(5), Sept. 2, 1958, 72 Stat. 1543; Pub. L. 90–130, § 2(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 108–375, div. A, title V, § 505, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 111–383, div. A, title V, § 517, Jan. 7, 2011, 124 Stat. 4214.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+
+1956 Act
+
+
+Revised sectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30532:111 (less 37th through 54th words).June 3, 1916, ch. 134, § 74 (less 39th through 56th words); restated June 4, 1920, ch. 227, subch. I, § 41 (less 39th through 56th words), 41 Stat. 781.
+
+
+The word “individual” is inserted for clarity to distinguish the individual Federal recognition that is necessary to membership as an officer from the general Federal recognition that is necessary to all membership</akn:p></akn:content><akn:subsection eId="subsec_305_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The following categories are eligible for Federal recognition as commissioned officers of the National Guard:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_305_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) To be eligible for Federal recognition under this section with a view to serving as a nurse, a person must be a graduate of a hospital or university training school and a registered nurse.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

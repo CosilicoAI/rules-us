@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1273" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1273/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1273/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1273"><akn:num>1273</akn:num><akn:heading>Determination of amount of original issue discount</akn:heading><akn:content><akn:p>§ 1273. Determination of amount of original issue discount(a) General ruleFor purposes of this subpart—(1) In generalThe term “original issue discount” means the excess (if any) of—(A) the stated redemption price at maturity, over
+
+(B) the issue price.
+
+
+(2) Stated redemption price at maturityThe term “stated redemption price at maturity” means the amount fixed by the last modification of the purchase agreement and includes interest and other amounts payable at that time (other than any interest based on a fixed rate, and payable unconditionally at fixed periodic intervals of 1 year or less during the entire term of the debt instrument).
+
+
+(3) ¼ of 1 percent de minimis ruleIf the original issue discount determined under paragraph (1) is less than—(A) ¼ of 1 percent of the stated redemption price at maturity, multiplied by
+
+(B) the number of complete years to maturity,
+
+
+then the original issue discount shall be treated as zero.
+
+
+(b) Issue priceFor purposes of this subpart—(1) Publicly offered debt instruments not issued for propertyIn the case of any issue of debt instruments—(A) publicly offered, and
+
+(B) not issued for property,
+
+
+the issue price is the initial offering price to the public (excluding bond houses and brokers) at which price a substantial amount of such debt instruments was sold.
+
+(2) Other debt instruments not issued for propertyIn the case of any issue of debt instruments not issued for property and not publicly offered, the issue price of each such instrument is the price paid by the first buyer of such debt instrument.
+
+
+(3) Debt instruments issued for property where there is public tradingIn the case of a debt instrument which is issued for property and which—(A) is part of an issue a portion of which is traded on an established securities market, or
+
+(B)(i) is issued for stock or securities which are traded on an established securities market, or
+
+(ii) to the extent provided in regulations, is issued for property (other than stock or securiti</akn:p></akn:content><akn:subsection eId="subsec_1273_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of this subpart—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1273_b"><akn:num>(b)</akn:num><akn:heading>Issue price</akn:heading><akn:content><akn:p>(b) Issue price For purposes of this subpart—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1273_c"><akn:num>(c)</akn:num><akn:heading>Special rules for applying subsection (b)</akn:heading><akn:content><akn:p>(c) Special rules for applying subsection (b) For purposes of subsection (b)—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

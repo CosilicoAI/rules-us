@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/8211" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/8211/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/8211/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8211"><akn:num>8211</akn:num><akn:heading>Nonapplicability of Federal Advisory Committee Act</akn:heading><akn:content><akn:p>§ 8211. Nonapplicability of Federal Advisory Committee Act
+Chapter 10 of title 5 (commonly known as the “Federal Advisory Committee Act”), shall not apply to—(1) the Board; or
+
+(2) any Partnership.
+
+(Pub. L. 116–188, title II, § 211, Oct. 30, 2020, 134 Stat. 937; Pub. L. 118–198, title II, § 207, Dec. 23, 2024, 138 Stat. 2683.)
+
+Editorial Notes
+Amendments2024—Pub. L. 118–198 substituted “Chapter 10 of title 5 (commonly known as the ‘Federal Advisory Committee Act’),” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in introductory provisions.</akn:p></akn:content><akn:subsection eId="subsec_8211_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the Board; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8211_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) any Partnership.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

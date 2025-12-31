@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1078b" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1078b/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1078b/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1078b"><akn:num>1078b</akn:num><akn:heading>Provision of food to certain members and dependents not receiving inpatient care in military medical</akn:heading><akn:content><akn:p>§ 1078b. Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities(a) In General.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary may provide food and beverages to an individual described in paragraph (2) at no cost to the individual.
+
+(2) An individual described in this paragraph is the following:(A) A member or former member of the uniformed services or dependent—(i) who is receiving outpatient medical care at a military medical treatment facility; and
+
+(ii) whom the Secretary determines is unable to purchase food and beverages while at such facility by virtue of receiving such care.
+
+
+(B) A member or former member of the uniformed services or dependent—(i) who is a family member of an infant receiving inpatient medical care at a military medical treatment facility;
+
+(ii) who provides care to the infant while the infant receives such inpatient medical care; and
+
+(iii) whom the Secretary determines is unable to purchase food and beverages while at such facility by virtue of providing such care to the infant.
+
+
+(C) A member or former member of the uniformed services or dependent whom the Secretary determines is under similar circumstances as a member, former member, or dependent described in subparagraph (A) or (B).
+
+
+
+(b) Regulations.—The Secretary shall ensure that regulations prescribed under this section are consistent with generally accepted practices in private medical treatment facilities.
+
+(Added Pub. L. 112–81, div. A, title VII, § 704(a), Dec. 31, 2011, 125 Stat. 1472; amended Pub. L. 113–291, div. A, title VII, § 705, Dec. 19, 2014, 128 Stat. 3413.)
+
+Editorial Notes
+Amendments2014—Subsec. (a)(2). Pub. L. 113–291, § 705(1), substituted “A member or former member” for “A member” wherever appearing.
+Subsec. (a)(2)(C). Pub. L. 113–291, § 705(2), substituted “member, former member, or dependent” for “member or dependent”.
+
+Statutory Notes and Related Subsidiaries
+Effect</akn:p></akn:content><akn:subsection eId="subsec_1078b_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1078b_b"><akn:num>(b)</akn:num><akn:heading>Regulations.—</akn:heading><akn:content><akn:p>(b) The Secretary shall ensure that regulations prescribed under this section are consistent with generally accepted practices in private medical treatment facilities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

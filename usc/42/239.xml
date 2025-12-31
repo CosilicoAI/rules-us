@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/239" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/239/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/239/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_239"><akn:num>239</akn:num><akn:heading>General provisions</akn:heading><akn:content><akn:p>§ 239. General provisions(a) DefinitionsFor purposes of this part:(1) Covered countermeasureThe term “covered countermeasure” means a covered countermeasure as specified in a Declaration made pursuant to section 233(p) of this title.
+
+
+(2) Covered individualThe term “covered individual” means an individual—(A) who is a health care worker, law enforcement officer, firefighter, security personnel, emergency medical personnel, other public safety personnel, or support personnel for such occupational specialities 11 So in original. Probably should be “specialties”.;
+
+(B) who is or will be functioning in a role identified in a State, local, or Department of Health and Human Services smallpox emergency response plan (as defined in paragraph (7)) approved by the Secretary;
+
+(C) who has volunteered and been selected to be a member of a smallpox emergency response plan described in subparagraph (B) prior to the time at which the Secretary publicly announces that an active case of smallpox has been identified either within or outside of the United States; and
+
+(D) to whom a smallpox vaccine is administered pursuant to such approved plan during the effective period of the Declaration (including the portion of such period before April 30, 2003).
+
+
+(3) Covered injuryThe term “covered injury” means an injury, disability, illness, condition, or death (other than a minor injury such as minor scarring or minor local reaction) determined, pursuant to the procedures established under section 239a of this title, to have been sustained by an individual as the direct result of—(A) administration to the individual of a covered countermeasure during the effective period of the Declaration; or
+
+(B) accidental vaccinia inoculation of the individual in circumstances in which—(i) the vaccinia is contracted during the effective period of the Declaration or within 30 days after the end of such period;
+
+(ii) smallpox vaccine has not been administered to the individual; and
+
+(iii) the individual h</akn:p></akn:content><akn:subsection eId="subsec_239_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions For purposes of this part:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_239_b"><akn:num>(b)</akn:num><akn:heading>Voluntary program</akn:heading><akn:content><akn:p>(b) Voluntary program The Secretary shall ensure that a State, local, or Department of Health and Human Services plan to vaccinate individuals that is approved by the Secretary establishes procedures to ensure, consistent with the Declaration and any applicable guidelines of the Centers for Disease Control and Prevention, that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

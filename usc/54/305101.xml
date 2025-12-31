@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/305101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/305101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/305101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_305101"><akn:num>305101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 305101. Definitions
+In this chapter:(1) Administrator.—The term “Administrator” means the Administrator of General Services.
+
+(2) Eligible entity.—The term “eligible entity” means—(A) any department or agency of the Federal Government; or
+
+(B) any department or agency of the State in which a historic light station is located, the local government of the community in which a historic light station is located, a nonprofit corporation, an educational agency, or a community development organization that—(i) has agreed to comply with the conditions set forth in section 305104 of this title and to have the conditions recorded with the deed of title to the historic light station; and
+
+(ii) is financially able to maintain the historic light station in accordance with the conditions set forth in section 305104 of this title.
+
+
+
+(3) Federal aid to navigation.—(A) In general.—The term “Federal aid to navigation” means any device, operated and maintained by the United States, external to a vessel or aircraft, intended to assist a navigator to determine position or safe course, or to warn of dangers or obstructions to navigation.
+
+(B) Inclusions.—The term “Federal aid to navigation” includes a light, lens, lantern, antenna, sound signal, camera, sensor, piece of electronic navigation equipment, power source, or other piece of equipment associated with a device described in subparagraph (A).
+
+
+(4) Historic light station.—The term “historic light station” includes the light tower, lighthouse, keeper’s dwelling, garages, storage sheds, oil house, fog signal building, boat house, barn, pumphouse, tramhouse support structures, piers, walkways, underlying and appurtenant land and related real property and improvements associated with a historic light station that is a historic property.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3215.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+30510116 U.S.C. 470w–7(e).Pub. L. 89–66</akn:p></akn:content><akn:subsection eId="subsec_305101_1"><akn:num>(1)</akn:num><akn:heading>Administrator.—</akn:heading><akn:content><akn:p>(1) The term “Administrator” means the Administrator of General Services.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_305101_2"><akn:num>(2)</akn:num><akn:heading>Eligible entity.—</akn:heading><akn:content><akn:p>(2) The term “eligible entity” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_305101_3"><akn:num>(3)</akn:num><akn:heading>Federal aid to navigation.—</akn:heading><akn:content><akn:p>(3)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_305101_4"><akn:num>(4)</akn:num><akn:heading>Historic light station.—</akn:heading><akn:content><akn:p>(4) The term “historic light station” includes the light tower, lighthouse, keeper’s dwelling, garages, storage sheds, oil house, fog signal building, boat house, barn, pumphouse, tramhouse support structures, piers, walkways, underlying and appurtenant land and related real property and improvements associated with a historic light station that is a historic property.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

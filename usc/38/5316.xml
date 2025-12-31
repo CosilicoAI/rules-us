@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/5316" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/5316/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/5316/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5316"><akn:num>5316</akn:num><akn:heading>Authority to sue to collect certain debts</akn:heading><akn:content><akn:p>§ 5316. Authority to sue to collect certain debts(a)(1) The Secretary shall take appropriate steps to authorize attorneys employed by the Department to exercise, subject to paragraphs (2) and (3) of this subsection, the right of the United States to bring suit in any court of competent jurisdiction to recover any indebtedness owed to the United States by a person by virtue of such person’s participation in a benefits program administered by the Secretary.
+
+(2) No suit may be filed under this section to recover any indebtedness owed by any person to the United States unless the Secretary has determined, under regulations which the Secretary shall prescribe, that such person has failed to respond appropriately to reasonable administrative efforts to collect such indebtedness.
+
+(3) The activities of attorneys employed by the Department in bringing suit under this section shall be subject to the direction and supervision of the Attorney General of the United States and to such terms and conditions as the Attorney General may prescribe.
+
+
+(b) Nothing in this section shall derogate from the authority of the Attorney General of the United States under sections 516 and 519 of title 28 to direct and supervise all litigation to which the United States or an agency or officer of the United States is a party.
+
+(Added Pub. L. 96–466, title VI, § 605(a)(1), Oct. 17, 1980, 94 Stat. 2211, § 3116; renumbered § 5316, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, § 14(d)(3), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+
+Editorial Notes
+Amendments1991—Pub. L. 102–40 renumbered section 3116 of this title as this section.
+Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary”</akn:p></akn:content><akn:subsection eId="subsec_5316_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5316_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Nothing in this section shall derogate from the authority of the Attorney General of the United States under sections 516 and 519 of title 28 to direct and supervise all litigation to which the United States or an agency or officer of the United States is a party.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

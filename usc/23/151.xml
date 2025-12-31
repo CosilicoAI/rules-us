@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/23/151" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/23/151/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/23/151/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_151"><akn:num>151</akn:num><akn:heading>National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors</akn:heading><akn:content><akn:p>§ 151. National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors(a) In General.—The Secretary shall periodically designate national electric vehicle charging and hydrogen, propane, and natural gas fueling corridors that identify the near- and long-term need for, and location of, electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, and natural gas fueling infrastructure at strategic locations along major national highways to support changes in the transportation sector that help achieve a reduction in greenhouse gas emissions and improve the mobility of passenger and commercial vehicles that employ electric, hydrogen fuel cell, propane, and natural gas fueling technologies across the United States.
+
+(b) Designation of Corridors.—In designating the corridors under subsection (a), the Secretary shall—(1) solicit nominations from State and local officials for facilities to be included in the corridors;
+
+(2) incorporate existing electric vehicle charging, hydrogen fueling, propane fueling, and natural gas fueling corridors previously designated by the Federal Highway Administration or designated by a State or group of States; and
+
+(3) consider the demand for, and location of, existing electric vehicle charging stations, hydrogen fueling stations, propane fueling stations, and natural gas fueling infrastructure.
+
+
+(c) Stakeholders.—In designating corridors under subsection (a), the Secretary shall involve, on a voluntary basis, stakeholders that include—(1) the heads of other Federal agencies;
+
+(2) State and local officials;
+
+(3) representatives of—(A) energy utilities;
+
+(B) the electric, fuel cell electric, propane, and natural gas vehicle industries;
+
+(C) the freight and shipping industry;
+
+(D) clean technology firms;
+
+(E) the hospitality industry;
+
+(F) the restaurant industry;
+
+(G) highway rest stop vendors; and
+
+(H) industrial gas and hydrogen manufacturers; and
+
+
+(4) such other st</akn:p></akn:content><akn:subsection eId="subsec_151_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary shall periodically designate national electric vehicle charging and hydrogen, propane, and natural gas fueling corridors that identify the near- and long-term need for, and location of, electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, and natural gas fueling infrastructure at strategic locations along major national highways to support changes in the transportation sector that help achieve a reduction in greenhouse gas emissions and improve the mobility of passenger and commercial vehicles that employ electric, hydrogen fuel cell, propane, and natural gas fueling technologies across the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151_b"><akn:num>(b)</akn:num><akn:heading>Designation of Corridors.—</akn:heading><akn:content><akn:p>(b) In designating the corridors under subsection (a), the Secretary shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151_c"><akn:num>(c)</akn:num><akn:heading>Stakeholders.—</akn:heading><akn:content><akn:p>(c) In designating corridors under subsection (a), the Secretary shall involve, on a voluntary basis, stakeholders that include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151_d"><akn:num>(d)</akn:num><akn:heading>Redesignation.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151_e"><akn:num>(e)</akn:num><akn:heading>Report.—</akn:heading><akn:content><akn:p>(e) During designation and redesignation of the corridors under this section, the Secretary shall issue a report that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_151_f"><akn:num>(f)</akn:num><akn:heading>Grant Program.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/424" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/424/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/424/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_424"><akn:num>424</akn:num><akn:heading>Disclosure of organizational and personnel information: exemption for specified intelligence agencie</akn:heading><akn:content><akn:p>§ 424. Disclosure of organizational and personnel information: exemption for specified intelligence agencies(a) Exemption From Disclosure.—Except as required by the President or as provided in subsection (c), no provision of law shall be construed to require the disclosure of—(1) the organization or any function of an organization of the Department of Defense named in subsection (b); or
+
+(2) the number of persons employed by or assigned or detailed to any such organization or the name, official title, occupational series, grade, or salary of any such person.
+
+
+(b) Covered Organizations.—This section applies to the following organizations of the Department of Defense:(1) The Defense Intelligence Agency.
+
+(2) The National Reconnaissance Office.
+
+(3) The National Geospatial-Intelligence Agency.
+
+
+(c) Provision of Information to Congress.—Subsection (a) does not apply with respect to the provision of information to Congress.
+
+(Added Pub. L. 104–201, div. A, title XI, § 1112(d), Sept. 23, 1996, 110 Stat. 2683; amended Pub. L. 108–136, div. A, title IX, § 921(d)(5)(A), (B)(i), Nov. 24, 2003, 117 Stat. 1569.)
+
+Editorial Notes
+Prior ProvisionsA prior section 424, added Pub. L. 100–178, title VI, § 603(a), Dec. 2, 1987, 101 Stat. 1016, § 1607; renumbered § 424 and amended Pub. L. 100–453, title VII, § 703(a), Sept. 29, 1988, 102 Stat. 1912, related to disclosure of organizational and personnel information with respect to the Defense Intelligence Agency prior to repeal by Pub. L. 104–201, div. A, title XI, §§ 1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996.
+
+Amendments2003—Pub. L. 108–136, § 921(d)(5)(B)(i), substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in section catchline.
+Subsec. (b)(3). Pub. L. 108–136</akn:p></akn:content><akn:subsection eId="subsec_424_a"><akn:num>(a)</akn:num><akn:heading>Exemption From Disclosure.—</akn:heading><akn:content><akn:p>(a) Except as required by the President or as provided in subsection (c), no provision of law shall be construed to require the disclosure of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_424_b"><akn:num>(b)</akn:num><akn:heading>Covered Organizations.—</akn:heading><akn:content><akn:p>(b) This section applies to the following organizations of the Department of Defense:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_424_c"><akn:num>(c)</akn:num><akn:heading>Provision of Information to Congress.—</akn:heading><akn:content><akn:p>(c) Subsection (a) does not apply with respect to the provision of information to Congress.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

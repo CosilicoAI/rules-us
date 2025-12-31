@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/311101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/311101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/311101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_311101"><akn:num>311101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 311101. Definitions
+In this chapter:(1) Council.—The term “Council” means the Advisory Council on Historic Preservation.
+
+(2) Heritage tourism.—The term “heritage tourism” means the conduct of activities to attract and accommodate visitors to a site or area based on the unique or special aspects of the history, landscape (including trail systems), and culture of the site or area.
+
+(3) Program.—The term “program” means the Preserve America Program established under section 311102(a).
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3247.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+31110116 U.S.C. 469n(b).Pub. L. 111–11, title VII, subtitle D, § 7302(b), Mar. 30, 2009, 123 Stat. 1214.</akn:p></akn:content><akn:subsection eId="subsec_311101_1"><akn:num>(1)</akn:num><akn:heading>Council.—</akn:heading><akn:content><akn:p>(1) The term “Council” means the Advisory Council on Historic Preservation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_311101_2"><akn:num>(2)</akn:num><akn:heading>Heritage tourism.—</akn:heading><akn:content><akn:p>(2) The term “heritage tourism” means the conduct of activities to attract and accommodate visitors to a site or area based on the unique or special aspects of the history, landscape (including trail systems), and culture of the site or area.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_311101_3"><akn:num>(3)</akn:num><akn:heading>Program.—</akn:heading><akn:content><akn:p>(3) The term “program” means the Preserve America Program established under section 311102(a).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

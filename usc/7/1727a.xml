@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/1727a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/1727a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/1727a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1727a"><akn:num>1727a</akn:num><akn:heading>Eligible countries</akn:heading><akn:content><akn:p>§ 1727a. Eligible countries(a) Least developed countriesA country shall be considered to be a least developed country and eligible for the donation of agricultural commodities under this subchapter if—(1) such country meets the poverty criteria established by the International Bank for Reconstruction and Development for Civil Works Preference for providing financial assistance; or
+
+(2) such country is a food deficit country and is characterized by high levels of malnutrition among significant numbers of its population, as determined by the Administrator under subsection (b).
+
+
+(b) Indicators of food deficit countriesTo make a finding under subsection (a)(2) that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:(1) Calorie consumptionThat the daily per capita calorie consumption of the country is less than 2300 calories.
+
+
+(2) Food security requirementsThat the country cannot meet its food security requirements through domestic production or imports due to a shortage of foreign exchange earnings.
+
+
+(3) Child mortality rateThat the mortality rate of children under 5 years of age in the country is in excess of 100 per 1000 births.
+
+
+
+(c) PriorityIn determining whether and to what extent agricultural commodities shall be made available to least developed countries under this subchapter, the Administrator shall give priority to countries that—(1) demonstrate the greatest need for food;
+
+(2) demonstrate the capacity to use food assistance effectively;
+
+(3) have demonstrated a commitment to policies to promote food security, including policies to reduce measurably hunger and malnutrition through efforts such as establishing and institutionalizing supplemental nutrition programs targeted to reach those who are nutritionally at risk; and
+
+(4) have a long-term plan for broad-based, equitable, and sustainable </akn:p></akn:content><akn:subsection eId="subsec_1727a_a"><akn:num>(a)</akn:num><akn:heading>Least developed countries</akn:heading><akn:content><akn:p>(a) Least developed countries A country shall be considered to be a least developed country and eligible for the donation of agricultural commodities under this subchapter if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1727a_b"><akn:num>(b)</akn:num><akn:heading>Indicators of food deficit countries</akn:heading><akn:content><akn:p>(b) Indicators of food deficit countries To make a finding under subsection (a)(2) that a country is a food deficit country and is characterized by high levels of malnutrition, the Administrator must determine that the country meets all of the following indicators of national food deficit and malnutrition:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1727a_c"><akn:num>(c)</akn:num><akn:heading>Priority</akn:heading><akn:content><akn:p>(c) Priority In determining whether and to what extent agricultural commodities shall be made available to least developed countries under this subchapter, the Administrator shall give priority to countries that—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

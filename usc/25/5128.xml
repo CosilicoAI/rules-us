@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/5128" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/5128/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/5128/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5128"><akn:num>5128</akn:num><akn:heading>Application of laws and treaties</akn:heading><akn:content><akn:p>§ 5128. Application of laws and treaties
+All laws, general and special, and all treaty provisions affecting any Indian reservation which has voted or may vote to exclude itself from the application of the Act of June 18, 1934 (48 Stat. 984) [25 U.S.C. 5101 et seq.], shall be deemed to have been continuously effective as to such reservation, notwithstanding the passage of said Act of June 18, 1934. Nothing in the Act of June 18, 1934, shall be construed to abrogate or impair any rights guaranteed under any existing treaty with any Indian tribe, where such tribe voted not to exclude itself from the application of said Act.
+(June 15, 1935, ch. 260, § 4, 49 Stat. 378.)
+
+Editorial Notes
+
+References in TextAct of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+
+Codification
+Section was formerly classified to section 478b of this title prior to editorial reclassification and renumbering as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

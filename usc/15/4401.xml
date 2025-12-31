@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/4401" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/4401/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/4401/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4401"><akn:num>4401</akn:num><akn:heading>Public education</akn:heading><akn:content><akn:p>§ 4401. Public education(a) Development(1) The Secretary of Health and Human Services shall establish and carry out a program to inform the public of any dangers to human health resulting from the use of smokeless tobacco products. In carrying out such program the Secretary shall—(A) develop educational programs and materials and public service announcements respecting the dangers to human health from the use of smokeless tobacco;
+
+(B) make such programs, materials, and announcements available to States, local governments, school systems, the media, and such other entities as the Secretary determines appropriate to further the purposes of this chapter;
+
+(C) conduct and support research on the effect of smokeless tobacco on human health; and
+
+(D) collect, analyze, and disseminate information and studies on smokeless tobacco and health.
+
+
+(2) In developing programs, materials, and announcements under paragraph (1) the Secretary shall consult with the Secretary of Education, medical and public health entities, consumer groups, representatives of manufacturers of smokeless tobacco products, and other appropriate entities.
+
+
+(b) AssistanceThe Secretary of Health and Human Services may provide technical assistance and may make grants to States—(1) to assist in the development of educational programs and materials and public service announcements respecting the dangers to human health from the use of smokeless tobacco,
+
+(2) to assist in the distribution of such programs, materials, and announcements throughout the States, and
+
+(3) to establish 18 as the minimum age for the purchase of smokeless tobacco.
+
+
+(Pub. L. 99–252, § 2, Feb. 27, 1986, 100 Stat. 30.)
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 99–252, § 11, Feb. 27, 1986, 100 Stat. 35, provided that:
+“(a) In General.—Except as provided in sections 3(f) and 5(b) [sections 4402(f) and 4404(b) of this title] and subsection (b), this Act [enacting this chapter and amending section 342 of Title 21, Foo</akn:p></akn:content><akn:subsection eId="subsec_4401_a"><akn:num>(a)</akn:num><akn:heading>Development</akn:heading><akn:content><akn:p>(a) Development</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4401_b"><akn:num>(b)</akn:num><akn:heading>Assistance</akn:heading><akn:content><akn:p>(b) Assistance The Secretary of Health and Human Services may provide technical assistance and may make grants to States—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

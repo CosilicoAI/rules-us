@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/2521" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/2521/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/2521/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2521"><akn:num>2521</akn:num><akn:heading>Stockpile stewardship program</akn:heading><akn:content><akn:p>§ 2521. Stockpile stewardship program(a) EstablishmentThe Secretary of Energy, acting through the Administrator, shall establish a stewardship program to ensure—(1) the preservation of the core intellectual and technical competencies of the United States in nuclear weapons, including weapons design, system integration, manufacturing, security, use control, reliability assessment, and certification; and
+
+(2) that the nuclear weapons stockpile is safe, secure, and reliable without the use of underground nuclear weapons testing.
+
+
+(b) Program elementsThe program shall include the following:(1) An increased level of effort for the construction of new facilities and the modernization of existing facilities with production and manufacturing capabilities that are necessary to support the deterrence of strategic attacks against the United States by maintaining and enhancing the performance, reliability, and security of the United States nuclear weapons stockpile, including—(A) the nuclear weapons production facilities; and
+
+(B) production and manufacturing capabilities resident in the national security laboratories.
+
+
+(2) Support for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the performance over time of nuclear weapons.
+
+(3) Support for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
+
+(4) Support for the modernization of facilities and projects that contribute to the experimental capabilities of the United States that support the sustainment and modernization of the United States nuclear weapons stockpile and the capabilities required to assess nuclear weapons effects.
+
+(5) Support for the use of, and experiments facilitated by, the advanced experimental facilities of the United States, including—(A) the National Ignition Facility at Lawrence Livermore National Laboratory;
+
+(B) the Dual Axis Rad</akn:p></akn:content><akn:subsection eId="subsec_2521_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment The Secretary of Energy, acting through the Administrator, shall establish a stewardship program to ensure—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2521_b"><akn:num>(b)</akn:num><akn:heading>Program elements</akn:heading><akn:content><akn:p>(b) Program elements The program shall include the following:</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

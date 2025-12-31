@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/20703" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/20703/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/20703/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20703"><akn:num>20703</akn:num><akn:heading>Purposes</akn:heading><akn:content><akn:p>§ 20703. Purposes
+The purposes of the corporation are as provided in the articles of incorporation and include—(1) the advancement of the humanistic studies in all fields of learning; and
+
+(2) the maintenance and strengthening of relations among the national societies devoted to those studies.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1289.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2070336:1903.June 1, 1982, Pub. L. 97–192, § 3, 96 Stat. 109.
+
+
+The word “objects” is omitted as included in “purposes”. The words “and the corporation shall function as authorized by the laws of the State or States where it is incorporated” are omitted as unnecessary.</akn:p></akn:content><akn:subsection eId="subsec_20703_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the advancement of the humanistic studies in all fields of learning; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20703_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the maintenance and strengthening of relations among the national societies devoted to those studies.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

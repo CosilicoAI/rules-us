@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/37/301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/37/301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/37/301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_301"><akn:num>301</akn:num><akn:heading>Incentive pay: hazardous duty</akn:heading><akn:content><akn:p>§ 301. Incentive pay: hazardous duty(a) Subject to regulations prescribed by the President, a member of a uniformed service who is entitled to basic pay is also entitled to incentive pay, in the amount set forth in subsection (b) or (c), for the performance of hazardous duty required by orders. In this subsection, the term “hazardous duty” means duty—(1) involving frequent and regular participation in aerial flight as a crew member, as determined by the Secretary concerned, except for a member who is entitled to incentive pay under section 301a of this title;
+
+(2) involving frequent and regular participation in aerial flight, not as a crew member under paragraph (1);
+
+(3) involving parachute jumping as an essential part of military duty;
+
+(4) involving the demolition of explosives as a primary duty, including training for that duty;
+
+(5) inside a high- or low-pressure chamber;
+
+(6) as a human acceleration or deceleration experimental subject;
+
+(7) as a human test subject in thermal stress experiments;
+
+(8) involving frequent and regular participation in flight operations on the flight deck of an aircraft carrier or of a ship other than an aircraft carrier from which aircraft are launched;
+
+(9) involving frequent and regular exposure to highly toxic pesticides or involving laboratory work that utilizes live dangerous viruses or bacteria;
+
+(10) involving (A) the servicing of aircraft or missiles with highly toxic fuels or propellants, (B) the testing of aircraft or missile systems (or components of such systems) during which highly toxic fuels or propellants are used, or (C) the handling of chemical munitions (or components of such munitions);
+
+(11) involving regular participation as a member of a team conducting visit, board, search, and seizure operations aboard vessels in support of maritime interdiction operations;
+
+(12) involving use of ski-equipped aircraft on the ground in Antarctica or on the Arctic ice-pack; or
+
+(13) involving frequent and regular participati</akn:p></akn:content><akn:subsection eId="subsec_301_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Subject to regulations prescribed by the President, a member of a uniformed service who is entitled to basic pay is also entitled to incentive pay, in the amount set forth in subsection (b) or (c), for the performance of hazardous duty required by orders. In this subsection, the term “hazardous duty” means duty—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) For the performance of hazardous duty described in paragraph (1) of subsection (a), a member is entitled to monthly incentive pay as follows:
+
+
+
+
+
+
+Pay GradeMonthly Rate
+
+
+O–10$150 
+O–9150 
+O–8150 
+O–7150 
+O–6250 
+O–5250 
+O–4225 
+O–3175 
+O–2150 
+O–1150 
+W–5250 
+W–4250 
+W–3175 
+W–2150 
+W–1150 
+E–9240 
+E–8240 
+E–7240 
+E–6215 
+E–5190 
+E–4165 
+E–3150 
+E–2150 
+E–1150</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e) A member of a uniformed service who is entitled to basic pay may be paid incentive pay under this subsection, at a monthly rate not to exceed $150, for any month during which the member performs duty involving regular participation as a firefighting crew member, as determined by the Secretary concerned.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_301_f"><akn:num>(f)</akn:num><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/883a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/883a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/883a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_883a"><akn:num>883a</akn:num><akn:heading>Surveys and other activities</akn:heading><akn:content><akn:p>§ 883a. Surveys and other activities
+To provide charts and related information for the safe navigation of marine and air commerce, and to provide basic data for engineering and scientific purposes and for other commercial and industrial needs, the Secretary of Commerce, is authorized to conduct the following activities:(1) Hydrographic and topographic surveys;
+
+(2) Tide and current observations;
+
+(3) Geodetic-control surveys;
+
+(4) Field surveys for aeronautical charts;
+
+(5) Geomagnetic, seismological, gravity, and related geophysical measurements and investigations, and observations for the determination of variation in latitude and longitude.
+
+(Aug. 6, 1947, ch. 504, § 1, 61 Stat. 787; Pub. L. 86–409, Apr. 5, 1960, 74 Stat. 16; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+
+Editorial Notes
+Amendments1960—Pub. L. 86–409 struck out provisions which restricted the Coast and Geodetic Survey in the conduct of its specified activities to the United States, its Territories and possessions, and which restricted hydrographic and topographic surveys to surveys of coastal water and land areas (including offlying islands, banks, shoals, and other offshore areas), and to surveys of lakes, rivers, reservoirs, and other inland waters not otherwise provided for by statute.
+
+Statutory Notes and Related Subsidiaries
+Continuous Plankton Recorder SurveyPub. L. 117–328, div. JJ, title III, § 301, Dec. 29, 2022, 136 Stat. 6092, provided that:
+“(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 29, 2022], and on an ongoing basis thereafter, the Secretary of Commerce shall conduct a Continuous Plankton Recorder survey.
+
+“(b) Required Elements.—For the purpose of conducting the survey required under subsection (a), the Northeast Fisheries Science Center shall—“(1) to the extent possible, utilize the resources of and partner with, on a volunteer basis, research institutions, nonprofit organizations, commercial vessels, and other</akn:p></akn:content><akn:subsection eId="subsec_883a_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) Hydrographic and topographic surveys;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_883a_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) Tide and current observations;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_883a_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) Geodetic-control surveys;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_883a_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) Field surveys for aeronautical charts;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_883a_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) Geomagnetic, seismological, gravity, and related geophysical measurements and investigations, and observations for the determination of variation in latitude and longitude.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

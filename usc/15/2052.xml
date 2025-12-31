@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/2052" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/2052/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/2052/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2052"><akn:num>2052</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 2052. Definitions(a) In generalIn this chapter:(1) Appropriate Congressional committeesThe term “appropriate Congressional committees” means the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+
+(2) Children’s productThe term “children’s product” means a consumer product designed or intended primarily for children 12 years of age or younger. In determining whether a consumer product is primarily intended for a child 12 years of age or younger, the following factors shall be considered:(A) A statement by a manufacturer about the intended use of such product, including a label on such product if such statement is reasonable.
+
+(B) Whether the product is represented in its packaging, display, promotion, or advertising as appropriate for use by children 12 years of age or younger.
+
+(C) Whether the product is commonly recognized by consumers as being intended for use by a child 12 years of age or younger.
+
+(D) The Age Determination Guidelines issued by the Commission staff in September 2002, and any successor to such guidelines.
+
+
+(3) CommerceThe term “commerce” means trade, traffic, commerce, or transportation—(A) between a place in a State and any place outside thereof, or
+
+(B) which affects trade, traffic, commerce, or transportation described in subparagraph (A).
+
+
+(4) CommissionThe term “Commission” means the Consumer Product Safety Commission, established by section 2053 of this title.
+
+
+(5) Consumer productThe term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—(A) any article which is not customarily </akn:p></akn:content><akn:subsection eId="subsec_2052_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general In this chapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2052_b"><akn:num>(b)</akn:num><akn:heading>Common carriers, contract carriers, third-party logistics provider, and freight forwarders</akn:heading><akn:content><akn:p>(b) Common carriers, contract carriers, third-party logistics provider, and freight forwarders A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

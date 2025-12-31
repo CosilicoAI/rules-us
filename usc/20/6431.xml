@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/6431" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/6431/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/6431/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6431"><akn:num>6431</akn:num><akn:heading>Eligibility</akn:heading><akn:content><akn:p>§ 6431. Eligibility
+A State agency is eligible for assistance under this subpart if such State agency is responsible for providing free public education for children and youth—(1) in institutions for neglected or delinquent children and youth;
+
+(2) attending community day programs for neglected or delinquent children and youth; or
+
+(3) in adult correctional institutions.
+
+(Pub. L. 89–10, title I, § 1411, as added Pub. L. 107–110, title I, § 101, Jan. 8, 2002, 115 Stat. 1581.)
+
+Editorial Notes
+Prior ProvisionsA prior section 6431, Pub. L. 89–10, title I, § 1411, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3592, related to eligibility, prior to the general amendment of this subchapter by Pub. L. 107–110.</akn:p></akn:content><akn:subsection eId="subsec_6431_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) in institutions for neglected or delinquent children and youth;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6431_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) attending community day programs for neglected or delinquent children and youth; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6431_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) in adult correctional institutions.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

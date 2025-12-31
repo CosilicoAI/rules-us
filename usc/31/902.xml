@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/902" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/902/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/902/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_902"><akn:num>902</akn:num><akn:heading>Authority and functions of agency Chief Financial Officers</akn:heading><akn:content><akn:p>§ 902. Authority and functions of agency Chief Financial Officers(a) An agency Chief Financial Officer shall—(1) report directly to the head of the agency regarding financial management matters;
+
+(2) oversee all financial management activities relating to the programs and operations of the agency;
+
+(3) develop and maintain an integrated agency accounting and financial management system, including financial reporting and internal controls, which—(A) complies with applicable accounting principles, standards, and requirements, and internal control standards;
+
+(B) complies with such policies and requirements as may be prescribed by the Director of the Office of Management and Budget;
+
+(C) complies with any other requirements applicable to such systems; and
+
+(D) provides for—(i) complete, reliable, consistent, and timely information which is prepared on a uniform basis and which is responsive to the financial information needs of agency management;
+
+(ii) the development and reporting of cost information;
+
+(iii) the integration of accounting and budgeting information; and
+
+(iv) the systematic measurement of performance;
+
+
+
+(4) make recommendations to the head of the agency regarding the selection of the Deputy Chief Financial Officer of the agency;
+
+(5) direct, manage, and provide policy guidance and oversight of agency financial management personnel, activities, and operations, including—(A) the preparation and annual revision of an agency plan to—(i) implement the 5-year financial management plan prepared by the Director of the Office of Management and Budget under section 3512(a)(3) of this title; and
+
+(ii) comply with the requirements established under sections 3515 and subsections (e) and (f) of section 3521 of this title;
+
+
+(B) the development of agency financial management budgets;
+
+(C) the recruitment, selection, and training of personnel to carry out agency financial management functions;
+
+(D) the approval and management of agency financial management systems des</akn:p></akn:content><akn:subsection eId="subsec_902_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) An agency Chief Financial Officer shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_902_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

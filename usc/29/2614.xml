@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/29/2614" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/29/2614/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/29/2614/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2614"><akn:num>2614</akn:num><akn:heading>Employment and benefits protection</akn:heading><akn:content><akn:p>§ 2614. Employment and benefits protection(a) Restoration to position(1) In generalExcept as provided in subsection (b), any eligible employee who takes leave under section 2612 of this title for the intended purpose of the leave shall be entitled, on return from such leave—(A) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
+
+(B) to be restored to an equivalent position with equivalent employment benefits, pay, and other terms and conditions of employment.
+
+
+(2) Loss of benefitsThe taking of leave under section 2612 of this title shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced.
+
+
+(3) LimitationsNothing in this section shall be construed to entitle any restored employee to—(A) the accrual of any seniority or employment benefits during any period of leave; or
+
+(B) any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
+
+
+(4) CertificationAs a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
+
+
+(5) ConstructionNothing in this subsection shall be construed to prohibit an employer from requiring an employee on leave under section 2612 of this title to report periodically to the employer on the status and intention of the employee to return to work.
+
+
+
+(b) Exemption concerning certain highly compensated employees(1) Denial of restorationAn employer may deny restoration under subsection (a) to</akn:p></akn:content><akn:subsection eId="subsec_2614_a"><akn:num>(a)</akn:num><akn:heading>Restoration to position</akn:heading><akn:content><akn:p>(a) Restoration to position</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2614_b"><akn:num>(b)</akn:num><akn:heading>Exemption concerning certain highly compensated employees</akn:heading><akn:content><akn:p>(b) Exemption concerning certain highly compensated employees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2614_c"><akn:num>(c)</akn:num><akn:heading>Maintenance of health benefits</akn:heading><akn:content><akn:p>(c) Maintenance of health benefits</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

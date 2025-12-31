@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/6501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/6501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/6501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6501"><akn:num>6501</akn:num><akn:heading>Annual modal research plans</akn:heading><akn:content><akn:p>§ 6501. Annual modal research plans(a) Modal Plans Required.—(1) In general.—Not later than June 1 of each year, the head of each modal administration and joint program office of the Department of Transportation shall prepare and submit to the Assistant Secretary for Research and Technology of the Department of Transportation (referred to in this chapter as the “Assistant Secretary”)—(A) a comprehensive annual modal research plan for the following fiscal year; and
+
+(B) a detailed outlook for the fiscal year thereafter.
+
+
+(2) Requirements.—Each plan under paragraph (1) shall include—(A) a general description of the strategic goals of the Department that are addressed by the research programs being carried out by the Assistant Secretary or modal administration, as applicable;
+
+(B) a description of each proposed research program, as described in the budget request submitted by the Secretary of Transportation to the President under section 1108 of title 31 for the following fiscal year, including—(i) the major objectives of the program; and
+
+(ii) the requested amount of funding for each program and area;
+
+
+(C) a list of activities the Assistant Secretary or modal administration plans to carry out under the research programs described in subparagraph (B);
+
+(D) an assessment of the potential impact of the research programs described in subparagraph (B), including—(i) potential outputs, outcomes, and impacts on technologies and practices used by entities subject to the jurisdiction of the modal administration;
+
+(ii) potential effects on applicable regulations of the modal administration, including the modification or modernization of those regulations;
+
+(iii) potential economic or societal impacts; and
+
+(iv) progress made toward achieving strategic goals of—(I) the applicable modal administration; or
+
+(II) the Department of Transportation;
+
+
+
+(E) a description of potential partnerships to be established to conduct the research program, including partnerships with—(i) insti</akn:p></akn:content><akn:subsection eId="subsec_6501_a"><akn:num>(a)</akn:num><akn:heading>Modal Plans Required.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_b"><akn:num>(b)</akn:num><akn:heading>Review.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_c"><akn:num>(c)</akn:num><akn:heading>Funding Limitations.—</akn:heading><akn:content><akn:p>(c) No funds may be expended by the Department of Transportation on research that has been determined by the Assistant Secretary under subsection (b)(4) to be duplicative unless—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6501_d"><akn:num>(d)</akn:num><akn:heading>Certification.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

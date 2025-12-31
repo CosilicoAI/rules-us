@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15883" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15883/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15883/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15883"><akn:num>15883</akn:num><akn:heading>Maintaining and enhancing hydroelectricity incentives</akn:heading><akn:content><akn:p>§ 15883. Maintaining and enhancing hydroelectricity incentives(a) Definition of qualified hydroelectric facilityIn this section, the term “qualified hydroelectric facility” means a hydroelectric project that—(1)(A) is licensed by the Federal Energy Regulatory Commission; or
+
+(B) is a hydroelectric project constructed, operated, or maintained pursuant to a permit or valid existing right-of-way granted prior to June 10, 1920, or a license granted pursuant to the Federal Power Act (16 U.S.C. 791a et seq.);
+
+
+(2) is placed into service before November 15, 2021; and
+
+(3)(A) is in compliance with all applicable Federal, Tribal, and State requirements; or
+
+(B) would be brought into compliance with the requirements described in subparagraph (A) as a result of the capital improvements carried out using an incentive payment under this section.
+
+
+
+(b) Incentive paymentsThe Secretary shall make incentive payments to the owners or operators of qualified hydroelectric facilities for capital improvements directly related to—(1) improving grid resiliency, including—(A) adapting more quickly to changing grid conditions;
+
+(B) providing ancillary services (including black start capabilities, voltage support, and spinning reserves);
+
+(C) integrating other variable sources of electricity generation; and
+
+(D) managing accumulated reservoir sediments;
+
+
+(2) improving dam safety to ensure acceptable performance under all loading conditions (including static, hydrologic, and seismic conditions), including—(A) the maintenance or upgrade of spillways or other appurtenant structures;
+
+(B) dam stability improvements, including erosion repair and enhanced seepage controls; and
+
+(C) upgrades or replacements of floodgates or natural infrastructure restoration or protection to improve flood risk reduction; or
+
+
+(3) environmental improvements, including—(A) adding or improving safe and effective fish passage, including new or upgraded turbine technology, fish ladders, fishways, and all other associa</akn:p></akn:content><akn:subsection eId="subsec_15883_a"><akn:num>(a)</akn:num><akn:heading>Definition of qualified hydroelectric facility</akn:heading><akn:content><akn:p>(a) Definition of qualified hydroelectric facility In this section, the term “qualified hydroelectric facility” means a hydroelectric project that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15883_b"><akn:num>(b)</akn:num><akn:heading>Incentive payments</akn:heading><akn:content><akn:p>(b) Incentive payments The Secretary shall make incentive payments to the owners or operators of qualified hydroelectric facilities for capital improvements directly related to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15883_c"><akn:num>(c)</akn:num><akn:heading>Limitations</akn:heading><akn:content><akn:p>(c) Limitations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15883_d"><akn:num>(d)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(d) Authorization of appropriations There is authorized to be appropriated to the Secretary to carry out this section $553,600,000 for fiscal year 2022, to remain available until expended.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

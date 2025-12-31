@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1281" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1281/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1281/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1281"><akn:num>1281</akn:num><akn:heading>Current inclusion in income of discount on certain short-term obligations</akn:heading><akn:content><akn:p>§ 1281. Current inclusion in income of discount on certain short-term obligations(a) General ruleIn the case of any short-term obligation to which this section applies, for purposes of this title—(1) there shall be included in the gross income of the holder an amount equal to the sum of the daily portions of the acquisition discount for each day during the taxable year on which such holder held such obligation, and
+
+(2) any interest payable on the obligation (other than interest taken into account in determining the amount of the acquisition discount) shall be included in gross income as it accrues.
+
+
+(b) Short-term obligations to which section applies(1) In generalThis section shall apply to any short-term obligation which—(A) is held by a taxpayer using an accrual method of accounting,
+
+(B) is held primarily for sale to customers in the ordinary course of the taxpayer’s trade or business,
+
+(C) is held by a bank (as defined in section 581),
+
+(D) is held by a regulated investment company or a common trust fund,
+
+(E) is identified by the taxpayer under section 1256(e)(2) as being part of a hedging transaction, or
+
+(F) is a stripped bond or stripped coupon held by the person who stripped the bond or coupon (or by any other person whose basis is determined by reference to the basis in the hands of such person).
+
+
+(2) Treatment of obligations held by pass-thru entities(A) In generalThis section shall apply also to—(i) any short-term obligation which is held by a pass-thru entity which is formed or availed of for purposes of avoiding the provisions of this section, and
+
+(ii) any short-term obligation which is acquired by a pass-thru entity (not described in clause (i)) during the required accrual period.
+
+
+(B) Required accrual periodFor purposes of subparagraph (A), the term “required accrual period” means the period—(i) which begins with the first taxable year for which the ownership test of subparagraph (C) is met with respect to the pass-thru entity (or a predecessor)</akn:p></akn:content><akn:subsection eId="subsec_1281_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule In the case of any short-term obligation to which this section applies, for purposes of this title—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1281_b"><akn:num>(b)</akn:num><akn:heading>Short-term obligations to which section applies</akn:heading><akn:content><akn:p>(b) Short-term obligations to which section applies</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1281_c"><akn:num>(c)</akn:num><akn:heading>Cross reference</akn:heading><akn:content><akn:p>(c) Cross reference For special rules limiting the application of this section to original issue discount in the case of nongovernmental obligations, see section 1283(c).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

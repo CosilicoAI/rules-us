@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/278g–3a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/278g–3a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/278g–3a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_278g_3a"><akn:num>278g–3a</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 278g–3a. Definitions
+In this Act:(1) AgencyThe term “agency” has the meaning given that term in section 3502 of title 44.
+
+
+(2) Director of OMBThe term “Director of OMB” means the Director of the Office of Management and Budget.
+
+
+(3) Director of the InstituteThe term “Director of the Institute” means the Director of the National Institute of Standards and Technology.
+
+
+(4) Information systemThe term “information system” has the meaning given that term in section 3502 of title 44.
+
+
+(5) National security systemThe term “national security system” has the meaning given that term in section 3552(b)(6) of title 44.
+
+
+(6) Operational technologyThe term “operational technology” means hardware and software that detects or causes a change through the direct monitoring or control of physical devices, processes, and events in the enterprise.
+
+
+(7) SecretaryThe term “Secretary” means the Secretary of Homeland Security.
+
+
+(8) Security vulnerabilityThe term “security vulnerability” has the meaning given that term in section 650 of title 6.
+
+
+(Pub. L. 116–207, § 3, Dec. 4, 2020, 134 Stat. 1001; Pub. L. 117–263, div. G, title LXXI, § 7143(d)(8), Dec. 23, 2022, 136 Stat. 3664.)
+
+Editorial Notes
+
+References in TextThis Act, referred to in text, is Pub. L. 116–207, Dec. 4, 2020, 134 Stat. 1001, known as the Internet of Things Cybersecurity Improvement Act of 2020 and also as the IoT Cybersecurity Improvement Act of 2020, which enacted this section and sections 278g–3b to 278g–3e of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 271 of this title and Tables.
+
+Codification
+Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+Amendments2022—Par. (8). Pub</akn:p></akn:content><akn:subsection eId="subsec_278g_3a_1"><akn:num>(1)</akn:num><akn:heading>Agency</akn:heading><akn:content><akn:p>(1) Agency The term “agency” has the meaning given that term in section 3502 of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_278g_3a_2"><akn:num>(2)</akn:num><akn:heading>Director of OMB</akn:heading><akn:content><akn:p>(2) Director of OMB The term “Director of OMB” means the Director of the Office of Management and Budget.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_278g_3a_3"><akn:num>(3)</akn:num><akn:heading>Director of the Institute</akn:heading><akn:content><akn:p>(3) Director of the Institute The term “Director of the Institute” means the Director of the National Institute of Standards and Technology.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_278g_3a_4"><akn:num>(4)</akn:num><akn:heading>Information system</akn:heading><akn:content><akn:p>(4) Information system The term “information system” has the meaning given that term in section 3502 of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_278g_3a_5"><akn:num>(5)</akn:num><akn:heading>National security system</akn:heading><akn:content><akn:p>(5) National security system The term “national security system” has the meaning given that term in section 3552(b)(6) of title 44.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_278g_3a_6"><akn:num>(6)</akn:num><akn:heading>Operational technology</akn:heading><akn:content><akn:p>(6) Operational technology The term “operational technology” means hardware and software that detects or causes a change through the direct monitoring or control of physical devices, processes, and events in the enterprise.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_278g_3a_7"><akn:num>(7)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(7) Secretary The term “Secretary” means the Secretary of Homeland Security.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_278g_3a_8"><akn:num>(8)</akn:num><akn:heading>Security vulnerability</akn:heading><akn:content><akn:p>(8) Security vulnerability The term “security vulnerability” has the meaning given that term in section 650 of title 6.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

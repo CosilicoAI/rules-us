@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/54/100707" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/54/100707/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/54/100707/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_100707"><akn:num>100707</akn:num><akn:heading>Confidentiality of information</akn:heading><akn:content><akn:p>§ 100707. Confidentiality of information
+Information concerning the nature and specific location of a System resource that is endangered, threatened, rare, or commercially valuable, of mineral or paleontological objects within System units, or of objects of cultural patrimony within System units, may be withheld from the public in response to a request under section 552 of title 5 unless the Secretary determines that—(1) disclosure of the information would further the purposes of the System unit in which the resource or object is located and would not create an unreasonable risk of harm, theft, or destruction of the resource or object, including individual organic or inorganic specimens; and
+
+(2) disclosure is consistent with other laws protecting the resource or object.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3106.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+10070716 U.S.C. 5937.Pub. L. 105–391, title II, § 207, Nov. 13, 1998, 112 Stat. 3501.</akn:p></akn:content><akn:subsection eId="subsec_100707_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) disclosure of the information would further the purposes of the System unit in which the resource or object is located and would not create an unreasonable risk of harm, theft, or destruction of the resource or object, including individual organic or inorganic specimens; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_100707_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) disclosure is consistent with other laws protecting the resource or object.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

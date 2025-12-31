@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/44/3557" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/44/3557/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/44/3557/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3557"><akn:num>3557</akn:num><akn:heading>National security systems</akn:heading><akn:content><akn:p>§ 3557. National security systems
+The head of each agency operating or exercising control of a national security system shall be responsible for ensuring that the agency—(1) provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information contained in such system;
+
+(2) implements information security policies and practices as required by standards and guidelines for national security systems, issued in accordance with law and as directed by the President; and
+
+(3) complies with the requirements of this subchapter.
+
+(Added Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3084.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to this section were contained in sections 3536 and 3547 of this title prior to repeal by Pub. L. 113–283.
+
+Statutory Notes and Related Subsidiaries
+Enforcement of Cybersecurity Requirements for National Security SystemsPub. L. 117–263, div. F, title LXIII, § 6309, Dec. 23, 2022, 136 Stat. 3506, as amended by Pub. L. 118–31, div. G, title III, § 7352, Dec. 22, 2023, 137 Stat. 1065, provided that:
+“(a) Definitions.—In this section:“(1) Cybersecurity requirements for national security systems.—The term ‘cybersecurity requirements for national security systems’ means the minimum cybersecurity requirements established by the National Manager, consistent with the direction of the President and in consultation with the Director of National Intelligence, that applies to all national security systems operated by, on the behalf of, or administered by the head of an element of the intelligence community.
+
+“(2) National manager.—The term ‘National Manager’ means the National Manager for National Security Systems designated by the President.
+
+“(3) National security systems.—The term ‘national security systems’ includes—“(A) national security systems (as defined in section 3552(b) of title 44, United States Co</akn:p></akn:content><akn:subsection eId="subsec_3557_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information contained in such system;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3557_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) implements information security policies and practices as required by standards and guidelines for national security systems, issued in accordance with law and as directed by the President; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3557_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) complies with the requirements of this subchapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

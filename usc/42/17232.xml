@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/17232" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/17232/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/17232/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_17232"><akn:num>17232</akn:num><akn:heading>Better energy storage technology</akn:heading><akn:content><akn:p>§ 17232. Better energy storage technology(a) DefinitionsIn this section:(1) Energy storage systemThe term “energy storage system” means any system, equipment, facility, or technology that—(A) is capable of absorbing or converting energy, storing the energy for a period of time, and dispatching the energy; and
+
+(B)(i) uses mechanical, electrochemical, thermal, electrolysis, or other processes to convert and store electric energy that was generated at an earlier time for use at a later time;
+
+(ii) uses mechanical, electrochemical, biochemical, or thermal processes to convert and store energy generated from mechanical processes that would otherwise be wasted, for delivery at a later time; or
+
+(iii) stores energy in an electric, thermal, or gaseous state for direct use for heating or cooling at a later time in a manner that avoids the need to use electricity or other fuel sources at that later time, such as a grid-enabled water heater.
+
+
+
+(2) ProgramThe term “program” means the Energy Storage System Research, Development, and Deployment Program established under subsection (b)(1).
+
+
+(3) SecretaryThe term “Secretary” means the Secretary of Energy.
+
+
+
+(b) Energy Storage System Research, Development, and Deployment Program(1) EstablishmentNot later than 180 days after December 27, 2020, the Secretary shall establish a program, to be known as the Energy Storage System Research, Development, and Deployment Program.
+
+
+(2) Initial program objectivesThe program shall focus on research, development, and deployment of—(A) energy storage systems, components, and materials designed to further the development of technologies—(i) for large-scale commercial deployment;
+
+(ii) for deployment at cost targets established by the Secretary;
+
+(iii) for hourly and subhourly durations required to provide reliability services to the grid;
+
+(iv) for daily durations, which have the capacity to discharge energy for a minimum of 6 hours;
+
+(v) for weekly or monthly durations, which have the capacity</akn:p></akn:content><akn:subsection eId="subsec_17232_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17232_b"><akn:num>(b)</akn:num><akn:heading>Energy Storage System Research, Development, and Deployment Program</akn:heading><akn:content><akn:p>(b) Energy Storage System Research, Development, and Deployment Program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17232_c"><akn:num>(c)</akn:num><akn:heading>Energy storage demonstration projects; pilot grant program</akn:heading><akn:content><akn:p>(c) Energy storage demonstration projects; pilot grant program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17232_d"><akn:num>(d)</akn:num><akn:heading>Long-duration demonstration initiative and joint program</akn:heading><akn:content><akn:p>(d) Long-duration demonstration initiative and joint program</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17232_e"><akn:num>(e)</akn:num><akn:heading>Pumped storage hydropower wind and solar integration and system reliability initiative</akn:heading><akn:content><akn:p>(e) Pumped storage hydropower wind and solar integration and system reliability initiative</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17232_f"><akn:num>(f)</akn:num><akn:heading>Omitted</akn:heading><akn:content><akn:p>(f) Omitted</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17232_g"><akn:num>(g)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(g) Coordination To the maximum extent practicable, the Secretary shall coordinate the activities under this section (including activities conducted pursuant to the amendments made by this section) among the offices and employees of the Department, other Federal agencies, and other relevant entities—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_17232_h"><akn:num>(h)</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>(h) Authorization of appropriations There are authorized to be appropriated—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

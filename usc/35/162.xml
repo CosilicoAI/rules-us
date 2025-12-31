@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/35/162" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/35/162/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/35/162/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_162"><akn:num>162</akn:num><akn:heading>Description, claim</akn:heading><akn:content><akn:p>§ 162. Description, claim
+No plant patent shall be declared invalid for noncompliance with section 112 if the description is as complete as is reasonably possible.
+The claim in the specification shall be in formal terms to the plant shown and described.
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+Historical and Revision NotesBased on Title 35, U.S.C., 1946 ed., § 33, part (R.S. 4888, amended (1) Mar. 3, 1915, ch. 94, § 1, 38 Stat. 958, (2) May 23, 1930, ch. 312, § 2, 46 Stat. 376).
+The first paragraph is the provision in R.S. 4888 (see section 112). The second paragraph is not in the statute but represents the actual practice.
+
+Editorial Notes
+Amendments2011—Pub. L. 112–29 struck out “of this title” after “112”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2011 AmendmentAmendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

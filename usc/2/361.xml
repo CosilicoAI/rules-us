@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/361" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/361/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/361/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_361"><akn:num>361</akn:num><akn:heading>Publication of recommendations</akn:heading><akn:content><akn:p>§ 361. Publication of recommendations
+The recommendations of the President which take effect shall be printed in the Statutes at Large in the same volume as public laws and shall be printed in the Federal Register and included in the Code of Federal Regulations.
+(Pub. L. 90–206, title II, § 225(k), Dec. 16, 1967, 81 Stat. 644.)
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/4109" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/4109/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/4109/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4109"><akn:num>4109</akn:num><akn:heading>Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Office</akn:heading><akn:content><akn:p>§ 4109. Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House
+The Secretary of the Senate and the Chief Administrative Officer of the House of Representatives, respectively, shall report to Congress on the first day of each regular session, and at the expiration of their terms of service, a full and complete statement of all their receipts and expenditures as such officers, showing in detail the items of expense, classifying them under the proper appropriations, and also showing the aggregate thereof, and exhibiting in a clear and concise manner the exact condition of all public moneys by them received, paid out, and remaining in their possession as such officers.
+(R.S. § 70; Pub. L. 104–186, title II, § 204(60), Aug. 20, 1996, 110 Stat. 1738.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 113 of this title prior to editorial reclassification and renumbering as this section.
+R.S. § 70 derived from act July 15, 1870, ch. 302, § 1, 16 Stat. 365.
+
+Amendments1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

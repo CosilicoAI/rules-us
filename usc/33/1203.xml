@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/1203" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/1203/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/1203/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1203"><akn:num>1203</akn:num><akn:heading>Radiotelephone requirement</akn:heading><akn:content><akn:p>§ 1203. Radiotelephone requirement(a) Vessel coverage; exchange of navigational informationExcept as provided in section 1206 of this title—(1) every power-driven vessel of twenty meters or over in length while navigating;
+
+(2) every vessel of one hundred gross tons as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title, and upward carrying one or more passengers for hire while navigating;
+
+(3) every towing vessel of twenty-six feet or over in length while navigating; and
+
+(4) every dredge and floating plant engaged in or near a channel or fairway in operations likely to restrict or affect navigation of other vessels—
+
+
+shall have a radiotelephone capable of operation from its navigational bridge or, in the case of a dredge, from its main control station and capable of transmitting and receiving on the frequency or frequencies within the 156–162 Mega-Hertz band using the classes of emissions designated by the Federal Communications Commission, after consultation with other cognizant agencies, for the exchange of navigational information.
+
+(b) Vessels upon navigable waters of United States inside high seas linesThe radiotelephone required by subsection (a) shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
+
+
+(Pub. L. 92–63, § 4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, § 16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, § 704, Oct. 19, 1996, 110 Stat. 3933; Pub. L. 107–295, title III, § 321, Nov. 25, 2002, 116 Stat. 2103.)
+
+Editorial Notes
+
+References in TextPresidential Proclamation 5928 of December 27, 1988, referred to in subsec. (b), is set out as a note under section 1331 of Title 43, Public Lands.
+
+Amendments2002—S</akn:p></akn:content><akn:subsection eId="subsec_1203_a"><akn:num>(a)</akn:num><akn:heading>Vessel coverage; exchange of navigational information</akn:heading><akn:content><akn:p>(a) Vessel coverage; exchange of navigational information Except as provided in section 1206 of this title— shall have a radiotelephone capable of operation from its navigational bridge or, in the case of a dredge, from its main control station and capable of transmitting and receiving on the frequency or frequencies within the 156–162 Mega-Hertz band using the classes of emissions designated by the Federal Communications Commission, after consultation with other cognizant agencies, for the exchange of navigational information.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1203_b"><akn:num>(b)</akn:num><akn:heading>Vessels upon navigable waters of United States inside high seas lines</akn:heading><akn:content><akn:p>(b) Vessels upon navigable waters of United States inside high seas lines The radiotelephone required by subsection (a) shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/52/21131" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/52/21131/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/52/21131/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_21131"><akn:num>21131</akn:num><akn:heading>Transfer of functions of Office of Election Administration of Federal Election Commission</akn:heading><akn:content><akn:p>§ 21131. Transfer of functions of Office of Election Administration of Federal Election Commission
+There are transferred to the Election Assistance Commission established under section 20921 of this title all functions which the Office of Election Administration, established within the Federal Election Commission, exercised before October 29, 2002.
+(Pub. L. 107–252, title VIII, § 801(a), Oct. 29, 2002, 116 Stat. 1725.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 15531 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

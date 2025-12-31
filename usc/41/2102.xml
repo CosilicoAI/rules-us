@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/41/2102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/41/2102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/41/2102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2102"><akn:num>2102</akn:num><akn:heading>Prohibitions on disclosing and obtaining procurement information</akn:heading><akn:content><akn:p>§ 2102. Prohibitions on disclosing and obtaining procurement information(a) Prohibition on Disclosing Procurement Information.—(1) In general.—Except as provided by law, a person described in paragraph (3) shall not knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
+
+(2) Employee of private sector organization.—In addition to the restriction in paragraph (1), an employee of a private sector organization assigned to an agency under chapter 37 of title 5 shall not knowingly disclose contractor bid or proposal information or source selection information during the 3-year period after the employee’s assignment ends, except as provided by law.
+
+(3) Application.—Paragraph (1) applies to a person that—(A)(i) is a present or former official of the Federal Government; or
+
+(ii) is acting or has acted for or on behalf of, or who is advising or has advised the Federal Government with respect to, a Federal agency procurement; and
+
+
+(B) by virtue of that office, employment, or relationship has or had access to contractor bid or proposal information or source selection information.
+
+
+
+(b) Prohibition on Obtaining Procurement Information.—Except as provided by law, a person shall not knowingly obtain contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3728.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+2102(a)41:423(a).Pub. L. 93–400, § 27(a), (b), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(l)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355,</akn:p></akn:content><akn:subsection eId="subsec_2102_a"><akn:num>(a)</akn:num><akn:heading>Prohibition on Disclosing Procurement Information.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2102_b"><akn:num>(b)</akn:num><akn:heading>Prohibition on Obtaining Procurement Information.—</akn:heading><akn:content><akn:p>(b) Except as provided by law, a person shall not knowingly obtain contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

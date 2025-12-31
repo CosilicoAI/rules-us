@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53713" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53713/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53713/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53713"><akn:num>53713</akn:num><akn:heading>Administrative fees</akn:heading><akn:content><akn:p>§ 53713. Administrative fees(a) In General.—The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for processing the application and monitoring the loan guarantee, including for—(1) investigating an application for a guarantee;
+
+(2) appraising property offered as security for a guarantee;
+
+(3) issuing a commitment;
+
+(4) providing services related to an escrow fund under section 53715 of this title or a deposit fund under section 53716 of this title;
+
+(5) inspecting property during construction, reconstruction, or reconditioning; and
+
+(6) monitoring and providing services related to the obligor’s compliance with any terms related to the obligations, the guarantee, or maintenance of the Secretary or Administrator’s security interests under this chapter.
+
+
+(b) Total Fee Limitation.—The total fees under subsection (a) may not exceed 0.5 percent of the original principal amount of the obligations to be guaranteed.
+
+(c) Fees for Independent Analysis.—(1) In general.—The Secretary or Administrator may charge and collect fees to cover the costs of independent analysis under section 53703(c) of this title. Notwithstanding section 3302 of title 31, any fee collected under this subsection shall—(A) be credited as an offsetting collection to the account that finances the administration of the loan guarantee program;
+
+(B) be available for expenditure only to pay the costs of activities and services for which the fee is imposed; and
+
+(C) remain available until expended.
+
+
+(2) Fee limitation inapplicable.—Fees collected under this subsection are not subject to the limitation of subsection (b).
+
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1612; Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 116–92, div. C, title XXXV, § 3506(h), Dec. 20, 2019, 133 Stat. 1973.)
+
+
+
+
+
+
+
+</akn:p></akn:content><akn:subsection eId="subsec_53713_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for processing the application and monitoring the loan guarantee, including for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53713_b"><akn:num>(b)</akn:num><akn:heading>Total Fee Limitation.—</akn:heading><akn:content><akn:p>(b) The total fees under subsection (a) may not exceed 0.5 percent of the original principal amount of the obligations to be guaranteed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53713_c"><akn:num>(c)</akn:num><akn:heading>Fees for Independent Analysis.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

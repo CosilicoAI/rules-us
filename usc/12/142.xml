@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/142" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/142/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/142/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_142"><akn:num>142</akn:num><akn:heading>Banks in reserve cities; reserves</akn:heading><akn:content><akn:p>§ 142. Banks in reserve cities; reserves
+National banking associations located in reserve cities or central reserve cities shall maintain reserves provided for in section 462 of this title for banks so located.
+(R.S. § 5191 (part); Dec. 23, 1913, ch. 6, §§ 19, 27, 38 Stat. 270, 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239.)
+
+Editorial Notes
+
+References in TextSection 462 of this title, referred to in text, was omitted from the Code. See section 461 of this title.
+
+Codification
+R.S. § 5191 derived from act June 3, 1864, ch. 106, § 31, 13 Stat. 108, which was the National Bank Act, and act Mar. 1, 1872, ch. 22, 17 Stat. 32. See section 38 of this title.
+Some of the other provisions of R.S. § 5191 were classified to section 141 of this title prior to its omission from the Code, some are classified to section 143 of this title, and some were not included in the Code.
+
+Statutory Notes and Related Subsidiaries
+Termination of Central Reserve CitiesCentral reserve cities terminated, see section 3(b) of Pub. L. 86–114 set out as a note under former section 141 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

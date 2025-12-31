@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8109" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8109/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8109/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8109"><akn:num>8109</akn:num><akn:heading>Beneficiaries of awards unpaid at death; order of precedence</akn:heading><akn:content><akn:p>§ 8109. Beneficiaries of awards unpaid at death; order of precedence(a) If an individual—(1) has sustained disability compensable under section 8107(a) of this title;
+
+(2) has filed a valid claim in his lifetime; and
+
+(3) dies from a cause other than the injury before the end of the period specified by the schedule;
+
+
+the compensation specified by the schedule that is unpaid at his death, whether or not accrued or due at his death, shall be paid—
+(A) under an award made before or after the death;
+
+(B) for the period specified by the schedule;
+
+(C) to and for the benefit of the persons then in being within the classes and proportions and on the conditions specified by this section; and
+
+(D) in the following order of precedence:(i) If there is no child, to the widow or widower.
+
+(ii) If there are both a widow or widower and a child or children, one-half to the widow or widower and one-half to the child or children.
+
+(iii) If there is no widow or widower, to the child or children.
+
+(iv) If there is no survivor in the above classes, to the parent or parents wholly or partly dependent for support on the decedent, or to other wholly dependent relatives listed by section 8133(a)(5) of this title, or to both in proportions provided by regulation.
+
+(v) If there is no survivor in the above classes and no burial allowance is payable under section 8134 of this title, an amount not exceeding that which would be expendable under section 8134 of this title if applicable shall be paid to reimburse a person equitably entitled thereto to the extent and in the proportion that he has paid the burial expenses, but a compensated insurer or other person obligated by law or contract to pay the burial expenses or a State or political subdivision or entity is deemed not equitably entitled.
+
+
+
+(b) Payments under subsection (a) of this section, except for an amount payable for a period preceding the death of the individual, are at the basic rate of compensation for permanent disability specifi</akn:p></akn:content><akn:subsection eId="subsec_8109_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) If an individual— the compensation specified by the schedule that is unpaid at his death, whether or not accrued or due at his death, shall be paid—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8109_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) Payments under subsection (a) of this section, except for an amount payable for a period preceding the death of the individual, are at the basic rate of compensation for permanent disability specified by section 8107(a) of this title even if at the time of death the individual was entitled to the augmented rate specified by section 8110 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8109_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) A surviving beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), does not have a vested right to payment and must be alive to receive payment.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8109_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) A beneficiary under subsection (a) of this section, except one under subsection (a)(D)(v), ceases to be entitled to payment on the happening of an event which would terminate his right to compensation for death under section 8133 of this title. When that entitlement ceases, compensation remaining unpaid under subsection (a) of this section is payable to the surviving beneficiary in accordance with subsection (a) of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

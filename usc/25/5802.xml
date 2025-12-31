@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/25/5802" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/25/5802/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/25/5802/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5802"><akn:num>5802</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5802. Definitions
+In this chapter:(1) Business incubatorThe term “business incubator” means an organization that—(A) provides physical workspace and facilities resources to startups and established businesses; and
+
+(B) is designed to accelerate the growth and success of businesses through a variety of business support resources and services, including—(i) access to capital, business education, and counseling;
+
+(ii) networking opportunities;
+
+(iii) mentorship opportunities; and
+
+(iv) other services intended to aid in developing a business.
+
+
+
+(2) Eligible applicantThe term “eligible applicant” means an applicant eligible to apply for a grant under section 5803(b) of this title.
+
+
+(3) Indian tribeThe term “Indian tribe” has the meaning given the term in section 5304 of this title.
+
+
+(4) Institution of higher educationThe term “institution of higher education” has the meaning given the term in section 1001 of title 20.
+
+
+(5) Native American; NativeThe terms “Native American” and “Native” have the meaning given the term “Indian” in section 5304 of this title.
+
+
+(6) Native businessThe term “Native business” means a business concern that is at least 51-percent owned and controlled by 1 or more Native Americans.
+
+
+(7) Native entrepreneurThe term “Native entrepreneur” means an entrepreneur who is a Native American.
+
+
+(8) ProgramThe term “program” means the program established under section 5803(a) of this title.
+
+
+(9) ReservationThe term “reservation” has the meaning given the term in section 1452 of this title.
+
+
+(10) SecretaryThe term “Secretary” means the Secretary of the Interior.
+
+
+(11) Tribal college or universityThe term “tribal college or university” has the meaning given the term “Tribal College or University” in section 1059c(b) of title 20.
+
+
+(Pub. L. 116–174, § 3, Oct. 20, 2020, 134 Stat. 839.)</akn:p></akn:content><akn:subsection eId="subsec_5802_1"><akn:num>(1)</akn:num><akn:heading>Business incubator</akn:heading><akn:content><akn:p>(1) Business incubator The term “business incubator” means an organization that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_2"><akn:num>(2)</akn:num><akn:heading>Eligible applicant</akn:heading><akn:content><akn:p>(2) Eligible applicant The term “eligible applicant” means an applicant eligible to apply for a grant under section 5803(b) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_3"><akn:num>(3)</akn:num><akn:heading>Indian tribe</akn:heading><akn:content><akn:p>(3) Indian tribe The term “Indian tribe” has the meaning given the term in section 5304 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_4"><akn:num>(4)</akn:num><akn:heading>Institution of higher education</akn:heading><akn:content><akn:p>(4) Institution of higher education The term “institution of higher education” has the meaning given the term in section 1001 of title 20.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_5"><akn:num>(5)</akn:num><akn:heading>Native American; Native</akn:heading><akn:content><akn:p>(5) Native American; Native The terms “Native American” and “Native” have the meaning given the term “Indian” in section 5304 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_6"><akn:num>(6)</akn:num><akn:heading>Native business</akn:heading><akn:content><akn:p>(6) Native business The term “Native business” means a business concern that is at least 51-percent owned and controlled by 1 or more Native Americans.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_7"><akn:num>(7)</akn:num><akn:heading>Native entrepreneur</akn:heading><akn:content><akn:p>(7) Native entrepreneur The term “Native entrepreneur” means an entrepreneur who is a Native American.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_8"><akn:num>(8)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(8) Program The term “program” means the program established under section 5803(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_9"><akn:num>(9)</akn:num><akn:heading>Reservation</akn:heading><akn:content><akn:p>(9) Reservation The term “reservation” has the meaning given the term in section 1452 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5802_10"><akn:num>(10)</akn:num><akn:heading>Secretary</akn:heading><akn:content><akn:p>(10) Secretary The term “Secretary” means the Secretary of the Interior.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

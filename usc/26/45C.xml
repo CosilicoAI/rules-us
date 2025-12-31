@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/45C" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/45C/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/45C/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_45C"><akn:num>45C</akn:num><akn:heading>Clinical testing expenses for certain drugs for rare diseases or conditions</akn:heading><akn:content><akn:p>§ 45C. Clinical testing expenses for certain drugs for rare diseases or conditions(a) General ruleFor purposes of section 38, the credit determined under this section for the taxable year is an amount equal to 25 percent of the qualified clinical testing expenses for the taxable year.
+
+
+(b) Qualified clinical testing expensesFor purposes of this section—(1) Qualified clinical testing expenses(A) In generalExcept as otherwise provided in this paragraph, the term “qualified clinical testing expenses” means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection (b) of section 41 if such subsection were applied with the modifications set forth in subparagraph (B).
+
+
+(B) ModificationsFor purposes of subparagraph (A), subsection (b) of section 41 shall be applied—(i) by substituting “clinical testing” for “qualified research” each place it appears in paragraphs (2) and (3) of such subsection, and
+
+(ii) by substituting “100 percent” for “65 percent” in paragraph (3)(A) of such subsection.
+
+
+(C) Exclusion for amounts funded by grants, etc.The term “qualified clinical testing expenses” shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
+
+
+
+(2) Clinical testing(A) In generalThe term “clinical testing” means any human clinical testing—(i) which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),
+
+(ii) which occurs—(I) after the date such drug is designated under section 526 of such Act, and
+
+(II) before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act, and
+
+
+(iii) which is</akn:p></akn:content><akn:subsection eId="subsec_45C_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of section 38, the credit determined under this section for the taxable year is an amount equal to 25 percent of the qualified clinical testing expenses for the taxable year.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45C_b"><akn:num>(b)</akn:num><akn:heading>Qualified clinical testing expenses</akn:heading><akn:content><akn:p>(b) Qualified clinical testing expenses For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45C_c"><akn:num>(c)</akn:num><akn:heading>Coordination with credit for increasing research expenditures</akn:heading><akn:content><akn:p>(c) Coordination with credit for increasing research expenditures</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_45C_d"><akn:num>(d)</akn:num><akn:heading>Definition and special rules</akn:heading><akn:content><akn:p>(d) Definition and special rules</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

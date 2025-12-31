@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/20404" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/20404/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/20404/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_20404"><akn:num>20404</akn:num><akn:heading>Selection of officers for early retirement or discharge</akn:heading><akn:content><akn:p>§ 20404. Selection of officers for early retirement or discharge(a) Consideration for Early Retirement.—The Secretary of the Air Force may convene selection boards under section 20211(b) of this title to consider for early retirement officers on the Space Force officer list as follows:(1) Officers in the grade of lieutenant colonel who have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion.
+
+(2) Officers in the grade of colonel who have served in that grade for at least two years and whose names are not on a list of officers recommended for promotion.
+
+(3) Officers, other than those described in paragraphs (1) and (2), holding a grade below the grade of colonel—(A) who are eligible for retirement under section 20601 of this title or who after two additional years or less of active service would be eligible for retirement under that section; and
+
+(B) whose names are not on a list of officers recommended for promotion.
+
+
+
+(b) Consideration for Discharge.—(1) The Secretary of the Air Force may convene selection boards under section 20211 of this title to consider for discharge officers on the Space Force officer list—(A) who have served at least one year of active status in the grade currently held;
+
+(B) whose names are not on a list of officers recommended for promotion; and
+
+(C) who are not eligible to be retired under any provision of law (other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993) and are not within two years of becoming so eligible.
+
+
+(2) An officer who is recommended for discharge by a selection board convened pursuant to the authority of paragraph (1) and whose discharge is approved by the Secretary of the Air Force shall be discharged on a date specified by the Secretary.
+
+(3) Selection of officers for discharge under paragraph (1) shall be based on the needs of the service.
+
+
+(c) Discharges and Retirements </akn:p></akn:content><akn:subsection eId="subsec_20404_a"><akn:num>(a)</akn:num><akn:heading>Consideration for Early Retirement.—</akn:heading><akn:content><akn:p>(a) The Secretary of the Air Force may convene selection boards under section 20211(b) of this title to consider for early retirement officers on the Space Force officer list as follows:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20404_b"><akn:num>(b)</akn:num><akn:heading>Consideration for Discharge.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_20404_c"><akn:num>(c)</akn:num><akn:heading>Discharges and Retirements Considered to Be Involuntary.—</akn:heading><akn:content><akn:p>(c) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

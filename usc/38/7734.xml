@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/7734" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/7734/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/7734/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7734"><akn:num>7734</akn:num><akn:heading>Annual report to Congress</akn:heading><akn:content><akn:p>§ 7734. Annual report to Congress
+The Secretary shall include in the annual report to the Congress required by section 529 of this title a report on the quality assurance activities carried out under this subchapter. Each such report shall include—(1) an appraisal of the quality of services provided by the Veterans Benefits Administration, including—(A) the number of decisions reviewed;
+
+(B) a summary of the findings on the decisions reviewed;
+
+(C) the number of full-time equivalent employees assigned to quality assurance in each division or entity;
+
+(D) specific documentation of compliance with the standards for independence and internal control required by section 7731(b) of this title; and
+
+(E) actions taken to improve the quality of services provided and the results obtained;
+
+
+(2) information with respect to the accuracy of decisions, including trends in that information; and
+
+(3) such other information as the Secretary considers appropriate.
+
+(Added Pub. L. 106–117, § 801(a)(1), Nov. 30, 1999, 113 Stat. 1585.)</akn:p></akn:content><akn:subsection eId="subsec_7734_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) an appraisal of the quality of services provided by the Veterans Benefits Administration, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7734_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) information with respect to the accuracy of decisions, including trends in that information; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7734_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) such other information as the Secretary considers appropriate.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

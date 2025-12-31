@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7501"><akn:num>7501</akn:num><akn:heading>National Nanotechnology Program</akn:heading><akn:content><akn:p>§ 7501. National Nanotechnology Program(a) National Nanotechnology ProgramThe President shall implement a National Nanotechnology Program. Through appropriate agencies, councils, and the National Nanotechnology Coordination Office established in section 7502 of this title, the Program shall—(1) establish the goals, priorities, and metrics for evaluation for Federal nanotechnology research, development, and other activities;
+
+(2) invest in Federal research and development programs in nanotechnology and related sciences to achieve those goals; and
+
+(3) provide for interagency coordination of Federal nanotechnology research, development, and other activities undertaken pursuant to the Program.
+
+
+(b) Program activitiesThe activities of the Program shall include—(1) developing a fundamental understanding of matter that enables control and manipulation at the nanoscale;
+
+(2) providing grants to individual investigators and interdisciplinary teams of investigators;
+
+(3) establishing a network of advanced technology user facilities and centers;
+
+(4) establishing, on a merit-reviewed and competitive basis, interdisciplinary nanotechnology research centers, which shall—(A) interact and collaborate to foster the exchange of technical information and best practices;
+
+(B) involve academic institutions or national laboratories and other partners, which may include States and industry;
+
+(C) make use of existing expertise in nanotechnology in their regions and nationally;
+
+(D) make use of ongoing research and development at the micrometer scale to support their work in nanotechnology; and
+
+(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located in States participating in the Experimental Program to Sti</akn:p></akn:content><akn:subsection eId="subsec_7501_a"><akn:num>(a)</akn:num><akn:heading>National Nanotechnology Program</akn:heading><akn:content><akn:p>(a) National Nanotechnology Program The President shall implement a National Nanotechnology Program. Through appropriate agencies, councils, and the National Nanotechnology Coordination Office established in section 7502 of this title, the Program shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7501_b"><akn:num>(b)</akn:num><akn:heading>Program activities</akn:heading><akn:content><akn:p>(b) Program activities The activities of the Program shall include—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7501_c"><akn:num>(c)</akn:num><akn:heading>Program management</akn:heading><akn:content><akn:p>(c) Program management The National Science and Technology Council shall oversee the planning, management, and coordination of the Program. The Council, itself or through an appropriate subgroup it designates or establishes, shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7501_d"><akn:num>(d)</akn:num><akn:heading>Annual report</akn:heading><akn:content><akn:p>(d) Annual report The Council shall prepare an annual report, to be submitted to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science, and other appropriate committees, at the time of the President’s budget request to Congress, that includes—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

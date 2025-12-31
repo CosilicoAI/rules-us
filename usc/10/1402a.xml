@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1402a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1402a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1402a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1402a"><akn:num>1402a</akn:num><akn:heading>Recomputation of retired or retainer pay to reflect later active duty of members who first became me</akn:heading><akn:content><akn:p>§ 1402a. Recomputation of retired or retainer pay to reflect later active duty of members who first became members after September 7, 1980(a) In General.—A member of an armed force—(1) who first became a member of a uniformed service after September 7, 1980;
+
+(2) who has become entitled to retired pay or retainer pay; and
+
+(3) who thereafter serves on active duty (other than for training),
+
+
+is entitled to recompute his retired pay or retainer pay upon release from that duty according to the following table.
+
+
+
+
+
+
+Column 1TakeColumn 2Multiply by
+
+
+Retired pay base or retainer pay base under section 1407 which he would be entitled to use if—The retired pay multiplier or retainer pay multiplier prescribed in section 1409 for the sum of—
+  (1) he were retiring upon release from that active duty; or   (1) the years of service that may be credited to him in computing retired pay or retainer pay; and
+  (2) he were transferring to the Fleet Reserve or Fleet Marine Corps Reserve upon that release from active duty.  (2) his years of active service after becoming entitled to retired pay or retainer pay.
+
+
+
+
+(b) New Disability Incurred During Later Active Duty.—A member of an armed force who first became a member of a uniformed service after September 7, 1980, who has been retired other than for physical disability and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
+
+(c) Additional or Aggravated Disability Incurred During Later Active Duty.—A member of an armed force who first became a member of a uniformed service after September 7, 1980, and who—(1) was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
+
+(2) incurs, while on active duty after retirement or after his name was plac</akn:p></akn:content><akn:subsection eId="subsec_1402a_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) A member of an armed force— is entitled to recompute his retired pay or retainer pay upon release from that duty according to the following table.
+
+
+
+
+
+
+Column 1TakeColumn 2Multiply by
+
+
+Retired pay base or retainer pay base under section 1407 which he would be entitled to use if—The retired pay multiplier or retainer pay multiplier prescribed in section 1409 for the sum of—
+  (1) he were retiring upon release from that active duty; or   (1) the years of service that may be credited to him in computing retired pay or retainer pay; and
+  (2) he were transferring to the Fleet Reserve or Fleet Marine Corps Reserve upon that release from active duty.  (2) his years of active service after becoming entitled to retired pay or retainer pay.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1402a_b"><akn:num>(b)</akn:num><akn:heading>New Disability Incurred During Later Active Duty.—</akn:heading><akn:content><akn:p>(b) A member of an armed force who first became a member of a uniformed service after September 7, 1980, who has been retired other than for physical disability and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1402a_c"><akn:num>(c)</akn:num><akn:heading>Additional or Aggravated Disability Incurred During Later Active Duty.—</akn:heading><akn:content><akn:p>(c) A member of an armed force who first became a member of a uniformed service after September 7, 1980, and who— is entitled, upon his release from active duty, to retired pay under subsection (d).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1402a_d"><akn:num>(d)</akn:num><akn:heading>Computation for Later Disability.—</akn:heading><akn:content><akn:p>(d) A member of an armed force covered by subsection (b) or (c) may elect to receive either (1) the retired pay to which he became entitled when he retired, increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay, or (2) retired pay computed according to the following table.
+
+
+
+
+
+
+
+Column 1 TakeColumn 2 Multiply byColumn 3 Add
+
+
+1 Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+
+
+
+The retired pay base computed under section 1407(b) of this title.As member elects—  (1) 2½ percent of years of service credited under section 1208 of this title; 1 or  (2) the highest percentage of disability, not to exceed 75 percent, attained while on active duty after retirement or after the date when his name was placed on temporary disability re</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1402a_e"><akn:num>(e)</akn:num><akn:heading>Alternative Recomputation to Subsection (a) Formula.—</akn:heading><akn:content><akn:p>(e) Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from that active duty, to have his retired pay or retainer pay—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1402a_f"><akn:num>(f)</akn:num><akn:heading>Additional 10 Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—</akn:heading><akn:content><akn:p>(f)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

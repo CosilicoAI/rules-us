@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/12303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/12303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/12303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12303"><akn:num>12303</akn:num><akn:heading>Exemption from numbering requirements</akn:heading><akn:content><akn:p>§ 12303. Exemption from numbering requirements(a) When the Secretary is the authority issuing a number under this chapter, the Secretary may exempt a vessel or class of vessels from the numbering requirements of this chapter under conditions the Secretary may prescribe.
+
+(b) When a State is the issuing authority, it may exempt from the numbering requirements of this chapter a vessel or class of vessels exempted under subsection (a) of this section or otherwise as permitted by the Secretary.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 591.)
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised sectionSource section (U.S. Code)
+
+
+1230346:1468
+
+
+Section 12303 permits the Secretary and any State, when it is the issuing authority, to exempt vessels from the numbering requirements.</akn:p></akn:content><akn:subsection eId="subsec_12303_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) When the Secretary is the authority issuing a number under this chapter, the Secretary may exempt a vessel or class of vessels from the numbering requirements of this chapter under conditions the Secretary may prescribe.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12303_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) When a State is the issuing authority, it may exempt from the numbering requirements of this chapter a vessel or class of vessels exempted under subsection (a) of this section or otherwise as permitted by the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

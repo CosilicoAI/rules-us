@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/13334" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/13334/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/13334/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13334"><akn:num>13334</akn:num><akn:heading>Nonfuel use of coal</akn:heading><akn:content><akn:p>§ 13334. Nonfuel use of coal(a) ProgramThe Secretary shall prepare a plan for and carry out a program of research, development, demonstration, and commercial application with respect to technologies for the nonfuel use of coal, including—(1) production of coke and other carbon products derived from coal;
+
+(2) production of coal-derived, carbon-based chemical intermediates that are precursors of value-added chemicals and polymers;
+
+(3) production of chemicals from coal-derived synthesis gas;
+
+(4) coal treatment processes, including methodologies such as solvent-extraction techniques that produce low ash, low sulfur, coal-based chemical feedstocks; and
+
+(5) waste utilization, including recovery, processing, and marketing of products derived from sulfur, carbon dioxide, nitrogen, and ash from coal.
+
+
+(b) Plan contentsThe plan described in subsection (a) shall address and evaluate—(1) the known and potential processes for using coal in the creation of products in the chemical, utility, fuel, and carbon-based materials industries;
+
+(2) the costs, benefits, and economic feasibility of using coal products in the chemical and materials industries, including value-added chemicals, carbon-based products, coke, and waste derived from coal;
+
+(3) the economics of coproduction of products from coal in conjunction with the production of electric power, thermal energy, and fuel;
+
+(4) the economics of the refining of coal and coal byproducts to produce nonfuel products;
+
+(5) the economics of coal utilization in comparison with other feedstocks that might be used for the same purposes;
+
+(6) the steps that can be taken by the public and private sectors to bring about commercialization of technologies developed under the program recommended; and
+
+(7) the past development, current status, and future potential of coal products and processes associated with nonfuel uses of coal.
+
+
+(Pub. L. 102–486, title XIII, § 1304, Oct. 24, 1992, 106 Stat. 2973.)</akn:p></akn:content><akn:subsection eId="subsec_13334_a"><akn:num>(a)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(a) Program The Secretary shall prepare a plan for and carry out a program of research, development, demonstration, and commercial application with respect to technologies for the nonfuel use of coal, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13334_b"><akn:num>(b)</akn:num><akn:heading>Plan contents</akn:heading><akn:content><akn:p>(b) Plan contents The plan described in subsection (a) shall address and evaluate—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

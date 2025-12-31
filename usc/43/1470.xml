@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/1470" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/1470/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/1470/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1470"><akn:num>1470</akn:num><akn:heading>Appropriations; availability for certain administrative expenses</akn:heading><akn:content><akn:p>§ 1470. Appropriations; availability for certain administrative expenses
+Appropriations for field work of the Department of the Interior shall be available for the hire, with or without personal services, of boats, work animals, and animal-drawn and motor-propelled vehicles and equipment.
+(June 25, 1946, ch. 472, § 1, 60 Stat. 306.)
+
+Editorial Notes
+Codification
+Section was formerly classified to section 692 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

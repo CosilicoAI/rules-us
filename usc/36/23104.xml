@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/23104" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/23104/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/23104/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_23104"><akn:num>23104</akn:num><akn:heading>Governing body</akn:heading><akn:content><akn:p>§ 23104. Governing body(a) Board of Trustees.—(1) The board of trustees is the governing body of the corporation. Between meetings of the members of the corporation, the board is responsible for the general policies and program of the corporation and for the control of all funds of the corporation.
+
+(2) The number of trustees, their manner of selection (including the filling of vacancies), and their term of office are as provided in the bylaws. However, the board shall have at least 18 members.
+
+(3) The board may appoint committees. Each committee has the powers provided in the bylaws or by resolution of the board. The powers of a committee may include all the powers of the board.
+
+
+(b) Officers.—(1) The officers of the corporation are a president, one or more vice presidents as provided in the bylaws, a secretary, a treasurer, and other officers as provided in the bylaws.
+
+(2) The manner of election, term of office, and duties of the officers are as provided in the bylaws.
+
+
+(c)(1) Board of Nominations.—The board of trustees shall appoint a board of nominations, consisting of at least 24 members, from members of the corporation not concurrently serving as members of the board of trustees. Those individuals serve for the term provided in the bylaws.
+
+(2) The board of nominations shall nominate United States citizens or residents to be honored by the corporation and recommend those persons to the board of trustees for consideration as provided in the bylaws.
+
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1312.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+23104(a)36:4307(a)–(c) (1st sentence, last sentence words after semicolon).July 14, 1964, Pub. L. 88–372, §§ 7–9, 78 Stat. 316.
+23104(b)36:4308. 
+23104(c)36:4307(c) (last sentence words before semicolon).36:4309.
+
+
+In subsection (a)(1), the text of 36:4307(a) is omitted as obsolete.
+In subsection (a)(3), the words “and exercise” are omitted as unnecessary.
+In </akn:p></akn:content><akn:subsection eId="subsec_23104_a"><akn:num>(a)</akn:num><akn:heading>Board of Trustees.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_23104_b"><akn:num>(b)</akn:num><akn:heading>Officers.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_23104_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

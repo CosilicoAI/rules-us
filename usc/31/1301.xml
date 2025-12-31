@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/31/1301" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/31/1301/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/31/1301/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1301"><akn:num>1301</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>§ 1301. Application(a) Appropriations shall be applied only to the objects for which the appropriations were made except as otherwise provided by law.
+
+(b) The reappropriation and diversion of the unexpended balance of an appropriation for a purpose other than that for which the appropriation originally was made shall be construed and accounted for as a new appropriation. The unexpended balance shall be reduced by the amount to be diverted.
+
+(c) An appropriation in a regular, annual appropriation law may be construed to be permanent or available continuously only if the appropriation—(1) is for rivers and harbors, lighthouses, public buildings, or the pay of the Navy and Marine Corps; or
+
+(2) expressly provides that it is available after the fiscal year covered by the law in which it appears.
+
+
+(d) A law may be construed to make an appropriation out of the Treasury or to authorize making a contract for the payment of money in excess of an appropriation only if the law specifically states that an appropriation is made or that such a contract may be made.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 917.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1301(a)31:628.R.S. § 3678.
+1301(b)31:717.Mar. 4, 1915, ch. 147, § 4, 38 Stat. 1161.
+1301(c)31:718.Aug. 24, 1912, ch. 355, § 7, 37 Stat. 487; Mar. 3, 1919, ch. 99, § 6(last sentence), 40 Stat. 1309.
+1301(d)31:627.June 30, 1906, ch. 3914, § 9, 34 Stat. 764.
+
+
+In subsection (a), the word “Appropriations” is substituted for “sums appropriated for the various branches of expenditure in the public service” to eliminate unnecessary words. The words “they are respectively” and “and for no others” are omitted as surplus. The words “except as otherwise provided by law” are substituted for “All” in section 3678 of the Revised Statutes to inform the reader that there are exceptions to the source provisions restated in the subsection.
+In subsection (c), before clause (1), the wo</akn:p></akn:content><akn:subsection eId="subsec_1301_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) Appropriations shall be applied only to the objects for which the appropriations were made except as otherwise provided by law.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1301_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The reappropriation and diversion of the unexpended balance of an appropriation for a purpose other than that for which the appropriation originally was made shall be construed and accounted for as a new appropriation. The unexpended balance shall be reduced by the amount to be diverted.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1301_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c) An appropriation in a regular, annual appropriation law may be construed to be permanent or available continuously only if the appropriation—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1301_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d) A law may be construed to make an appropriation out of the Treasury or to authorize making a contract for the payment of money in excess of an appropriation only if the law specifically states that an appropriation is made or that such a contract may be made.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/53202" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/53202/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/53202/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_53202"><akn:num>53202</akn:num><akn:heading>Establishment of the Cable Security Fleet</akn:heading><akn:content><akn:p>§ 53202. Establishment of the Cable Security Fleet(a) In General.—(1) The Secretary, in consultation with the Operating Agency, shall establish a fleet of active, commercially viable, cable vessels to meet national security requirements. The fleet shall consist of privately owned, United States-documented cable vessels for which there are in effect Operating Agreements under this chapter, and shall be known as the Cable Security Fleet.
+
+(2) The Fleet described under this section shall include two vessels.
+
+
+(b) Vessel Eligibility.—A cable vessel is eligible to be included in the Fleet if—(1) the vessel meets the requirements of paragraph (1), (2), (3), or (4) of subsection (c);
+
+(2) the vessel is operated (or in the case of a vessel to be constructed, will be operated) in commercial service providing cable services;
+
+(3) the vessel is 40 years of age or less on the date the vessel is included in the Fleet;
+
+(4) the vessel is—(A) determined by the Operating Agency to be suitable for engaging in cable services by the United States in the interest of national security; and
+
+(B) determined by the Secretary to be commercially viable, whether independently or taking any payments which are the consequence of participation in the Cable Fleet into account; and
+
+
+(5) the vessel—(A) is a United States-documented vessel; or
+
+(B) is not a United States-documented vessel, but—(i) the owner of the vessel has demonstrated an intent to have the vessel documented under chapter 121 of this title if it is included in the Cable Fleet; and
+
+(ii) at the time an Operating Agreement is entered into under this chapter, the vessel is eligible for documentation under chapter 121 of this title.
+
+
+
+
+(c) Requirements Regarding Citizenship of Owners and Operators.—(1) Vessels owned and operated by section 50501 citizens.—A vessel meets the requirements of this paragraph if, during the period of an Operating Agreement under this chapter that applies to the vessel, the vessel will be owned and opera</akn:p></akn:content><akn:subsection eId="subsec_53202_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53202_b"><akn:num>(b)</akn:num><akn:heading>Vessel Eligibility.—</akn:heading><akn:content><akn:p>(b) A cable vessel is eligible to be included in the Fleet if—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53202_c"><akn:num>(c)</akn:num><akn:heading>Requirements Regarding Citizenship of Owners and Operators.—</akn:heading><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53202_d"><akn:num>(d)</akn:num><akn:heading>Vessel Standards.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_53202_e"><akn:num>(e)</akn:num><akn:heading>Waiver of Age Registration.—</akn:heading><akn:content><akn:p>(e) The Secretary, in conjunction with the Operating Agency, may waive the application of the age restriction under subsection (b)(3) if they jointly determine that the waiver—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

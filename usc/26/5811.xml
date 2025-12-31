@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/5811" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/5811/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/5811/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5811"><akn:num>5811</akn:num><akn:heading>Transfer tax</akn:heading><akn:content><akn:p>§ 5811. Transfer tax(a) RateThere shall be levied, collected, and paid on firearms transferred a tax at the rate of—(1) $200 for each firearm transferred in the case of a machinegun or a destructive device, and
+
+(2) $0 for any firearm transferred which is not described in paragraph (1).
+
+
+(b) By whom paidThe tax imposed by subsection (a) of this section shall be paid by the transferor.
+
+
+(c) PaymentThe tax imposed by subsection (a) of this section shall be payable by the appropriate stamps prescribed for payment by the Secretary.
+
+
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1228; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 119–21, title VII, § 70436(a), July 4, 2025, 139 Stat. 247.)
+
+Editorial Notes
+Prior ProvisionsA prior section 5811, acts Aug. 16, 1954, ch. 736, 68A Stat. 722; Sept. 2, 1958, Pub. L. 85–859, title II, § 203(b), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, § 2, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
+
+Amendments2025—Subsec. (a). Pub. L. 119–21 amended subsec. (a) generally. Prior to amendment, text read as follows: “There shall be levied, collected, and paid on firearms transferred a tax at the rate of $200 for each firearm transferred, except, the transfer tax on any firearm classified as any other weapon under section 5845(e) shall be at the rate of $5 for each such firearm transferred.”
+1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+Statutory Notes and Related Subsidiaries
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–21 applicable to calendar quarters beginning more than 90 days after July 4, 2025, see section 70436(d) of Pub. L. 119–21, set out as a note under section 4182 of this title.
+
+Effective DateSection effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under </akn:p></akn:content><akn:subsection eId="subsec_5811_a"><akn:num>(a)</akn:num><akn:heading>Rate</akn:heading><akn:content><akn:p>(a) Rate There shall be levied, collected, and paid on firearms transferred a tax at the rate of—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5811_b"><akn:num>(b)</akn:num><akn:heading>By whom paid</akn:heading><akn:content><akn:p>(b) By whom paid The tax imposed by subsection (a) of this section shall be paid by the transferor.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5811_c"><akn:num>(c)</akn:num><akn:heading>Payment</akn:heading><akn:content><akn:p>(c) Payment The tax imposed by subsection (a) of this section shall be payable by the appropriate stamps prescribed for payment by the Secretary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

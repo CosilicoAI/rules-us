@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/679" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/679/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/679/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_679"><akn:num>679</akn:num><akn:heading>Foreign trusts having one or more United States beneficiaries</akn:heading><akn:content><akn:p>§ 679. Foreign trusts having one or more United States beneficiaries(a) Transferor treated as owner(1) In generalA United States person who directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
+
+
+(2) ExceptionsParagraph (1) shall not apply—(A) Transfers by reason of deathTo any transfer by reason of the death of the transferor.
+
+
+(B) Transfers at fair market valueTo any transfer of property to a trust in exchange for consideration of at least the fair market value of the transferred property. For purposes of the preceding sentence, consideration other than cash shall be taken into account at its fair market value.
+
+
+
+(3) Certain obligations not taken into account under fair market value exception(A) In generalIn determining whether paragraph (2)(B) applies to any transfer by a person described in clause (ii) or (iii) of subparagraph (C), there shall not be taken into account—(i) except as provided in regulations, any obligation of a person described in subparagraph (C), and
+
+(ii) to the extent provided in regulations, any obligation which is guaranteed by a person described in subparagraph (C).
+
+
+(B) Treatment of principal payments on obligationPrincipal payments by the trust on any obligation referred to in subparagraph (A) shall be taken into account on and after the date of the payment in determining the portion of the trust attributable to the property transferred.
+
+
+(C) Persons describedThe persons described in this subparagraph are—(i) the trust,
+
+(ii) any grantor, owner, or beneficiary of the trust, and
+
+(iii) any person who is related (within the meaning of section 643(i)(2)(B)) to any grantor, owner, or beneficiary of the trust.
+
+
+
+(4) Special rules applicable to foreign grantor who later becomes a Un</akn:p></akn:content><akn:subsection eId="subsec_679_a"><akn:num>(a)</akn:num><akn:heading>Transferor treated as owner</akn:heading><akn:content><akn:p>(a) Transferor treated as owner</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_679_b"><akn:num>(b)</akn:num><akn:heading>Trusts acquiring United States beneficiaries</akn:heading><akn:content><akn:p>(b) Trusts acquiring United States beneficiaries If— then, for purposes of this subtitle, the transferor shall be treated as having income for the taxable year (in addition to his other income for such year) equal to the undistributed net income (at the close of such immediately preceding taxable year) attributable to the portion of the trust referred to in subsection (a).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_679_c"><akn:num>(c)</akn:num><akn:heading>Trusts treated as having a United States beneficiary</akn:heading><akn:content><akn:p>(c) Trusts treated as having a United States beneficiary</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_679_d"><akn:num>(d)</akn:num><akn:heading>Presumption that foreign trust has United States beneficiary</akn:heading><akn:content><akn:p>(d) Presumption that foreign trust has United States beneficiary If a United States person directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)), the Secretary may treat such trust as having a United States beneficiary for purposes of applying this section to such transfer unless such person—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_679_e"><akn:num>(e)</akn:num><akn:heading>Regulations</akn:heading><akn:content><akn:p>(e) Regulations The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/5521" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/5521/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/5521/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5521"><akn:num>5521</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 5521. Definitions
+For the purpose of this subchapter—(1) “agency” means—(A) an Executive agency;
+
+(B) the judicial branch;
+
+(C) the Library of Congress;
+
+(D) the Government Publishing Office; and
+
+(E) the government of the District of Columbia;
+
+
+(2) “employee” means an individual employed in or under an agency;
+
+(3) “head of each agency” means—(A) the Director of the Administrative Office of the United States Courts with respect to the judicial branch; and
+
+(B) the Mayor of the District of Columbia with respect to the government of the District of Columbia; and
+
+
+(4) “United States”, when used in a geographical sense, means the several States and the District of Columbia.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 479; Pub. L. 90–623, § 1(10), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 96–54, § 2(a)(31), Aug. 14, 1979, 93 Stat. 383; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 3071.Sept. 26, 1961, Pub. L. 87–304, § 1, 75 Stat. 662.June 24, 1965, Pub. L. 89–47, 79 Stat. 171.
+
+
+In paragraph (1), the word “agency” is substituted for “department”. The term “Executive agency” is substituted for the reference to “each executive department of the Government of the United States of America; each agency or independent establishment in the executive branch of such Government; each corporation wholly owned or controlled by such Government” in former section 3071(1)(A)–(C).
+Paragraph (2) is added for clarity and in view of the fact that the definition of “employee” in section 2105 does not include individuals employed by the government of the District of Columbia.
+In paragraph (3), the term “department head” is omitted as unnecessary.
+In paragraph (4), the words “of the United States of America” are omitted as unnecessary.
+Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the pr</akn:p></akn:content><akn:subsection eId="subsec_5521_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) “agency” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5521_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) “employee” means an individual employed in or under an agency;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5521_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) “head of each agency” means—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5521_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) “United States”, when used in a geographical sense, means the several States and the District of Columbia.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/238" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/238/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/238/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_238"><akn:num>238</akn:num><akn:heading>Cyber mission forces: program elements</akn:heading><akn:content><akn:p>§ 238. Cyber mission forces: program elements(a) Budget Justification Display.—The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for fiscal year 2021 and each fiscal year thereafter, a budget justification display, in electronic and print formats, that includes—(1) a major force program category for the five-year defense plan of the Department of Defense for the training, manning, and equipping of the cyber mission forces and the cyberspace operations forces; and
+
+(2) program elements for the cyber mission forces and the cyberspace operations forces.
+
+
+(b) Waiver.—The Secretary may waive the requirement under subsection (a) for fiscal year 2021 if the Secretary—(1) determines the Secretary is unable to comply with such requirement for fiscal year 2021; and
+
+(2) establishes a plan to implement the requirement for fiscal year 2022.
+
+
+(c) Submission.—The Secretary shall provide the displays described in subsection (a)—(1) in electronic format not later than five days after the submission by the President under section 1105(a) of title 31 of the budget; and
+
+(2) in print format not later than 21 days after the submission by the President under section 1105(a) of title 31 of the budget.
+
+
+(Added Pub. L. 113–291, div. A, title XVI, § 1631(a)(1), Dec. 19, 2014, 128 Stat. 3637; amended Pub. L. 116–283, div. A, title XVII, § 1701(2), Jan. 1, 2021, 134 Stat. 4080.)
+
+Editorial Notes
+Amendments2021—Subsec. (a). Pub. L. 116–283, § 1701(2)(A)(i), substituted “2021” for “2017” and inserted “, in electronic and print formats,” after “display” in introductory provisions.
+Subsec. (a)(1). Pub. L. 116–283, § 1701(2)(A)(ii), inserted “and the cyberspace operations forces” before the semicolon.
+Subsec. (a)(2). Pub. L. 116–283, § 1701(2)(A)(iii), inserted “and the cyberspace operations forces” before period at end.
+Subsec. (b). Pub. L. 116–283, § 1701(2)(B)(i), substituted “2021” for “2017” in introductory provisions.
+Subsec. (b)(1). Pub. L. 116–</akn:p></akn:content><akn:subsection eId="subsec_238_a"><akn:num>(a)</akn:num><akn:heading>Budget Justification Display.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for fiscal year 2021 and each fiscal year thereafter, a budget justification display, in electronic and print formats, that includes—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_238_b"><akn:num>(b)</akn:num><akn:heading>Waiver.—</akn:heading><akn:content><akn:p>(b) The Secretary may waive the requirement under subsection (a) for fiscal year 2021 if the Secretary—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_238_c"><akn:num>(c)</akn:num><akn:heading>Submission.—</akn:heading><akn:content><akn:p>(c) The Secretary shall provide the displays described in subsection (a)—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

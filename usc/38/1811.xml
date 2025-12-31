@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1811" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1811/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1811/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1811"><akn:num>1811</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1811. Definitions
+In this subchapter:(1) The term “eligible child” means an individual who—(A) is the child (as defined in section 1831(1) of this title) of a woman Vietnam veteran; and
+
+(B) was born with one or more covered birth defects.
+
+
+(2) The term “covered birth defect” means a birth defect identified by the Secretary under section 1812 of this title.
+
+(Added Pub. L. 106–419, title IV, § 401(a), Nov. 1, 2000, 114 Stat. 1857; amended Pub. L. 108–183, title I, § 102(d)(1), Dec. 16, 2003, 117 Stat. 2654.)
+
+Editorial Notes
+Prior ProvisionsA prior section 1811 was renumbered section 3711 of this title.
+
+Amendments2003—Par. (1)(A). Pub. L. 108–183 substituted “section 1831(1)” for “section 1821(1)”.
+
+Statutory Notes and Related Subsidiaries
+Effective DatePub. L. 106–419, title IV, § 401(g), Nov. 1, 2000, 114 Stat. 1861, provided that:
+“(1) Except as provided in paragraph (2), the amendments made by this section [enacting this subchapter and subchapter III of this chapter, amending sections 1802 and 1805 of this title, and repealing sections 1801 and 1806 of this title] shall take effect on the first day of the first month beginning more than one year after the date of the enactment of this Act [Nov. 1, 2000].
+
+“(2) The Secretary of Veterans Affairs shall identify birth defects under section 1812 of title 38, United States Code (as added by subsection (a) of this section), and shall prescribe the regulations required by subchapter II of chapter 18 of that title (as so added), not later than the effective date specified in paragraph (1).”</akn:p></akn:content><akn:subsection eId="subsec_1811_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “eligible child” means an individual who—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1811_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “covered birth defect” means a birth defect identified by the Secretary under section 1812 of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

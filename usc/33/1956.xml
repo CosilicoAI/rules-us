@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/33/1956" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/33/1956/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/33/1956/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1956"><akn:num>1956</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1956. Definitions
+In this chapter:(1) AdministratorThe term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+
+
+(2) Interagency CommitteeThe term “Interagency Committee” means the Interagency Marine Debris Coordinating Committee established under section 1954 of this title.
+
+
+(3) Marine debrisThe term “marine debris” means any persistent solid material that is manufactured or processed and directly or indirectly, intentionally or unintentionally, disposed of or abandoned into the marine environment or the Great Lakes.
+
+
+(4) MARPOL; Annex V; ConventionThe terms “MARPOL”, “Annex V”, and “Convention” have the meaning given those terms under section 1901(a) of this title.
+
+
+(5) ProgramThe term “Program” means the Marine Debris Program established under section 1952 of this title.
+
+
+(6) Severe marine debris eventThe term “severe marine debris event” means atypically large amounts of marine debris caused by a natural disaster, including a tsunami, flood, landslide, or hurricane, or other source.
+
+
+(7) StateThe term “State” means—(A) any State of the United States that is impacted by marine debris within its seaward or Great Lakes boundaries;
+
+(B) the District of Columbia;
+
+(C) American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands; and
+
+(D) any other territory or possession of the United States, or separate sovereign in free association with the United States, that is impacted by marine debris within its seaward boundaries.
+
+
+(Pub. L. 109–449, § 7, Dec. 22, 2006, 120 Stat. 3338; Pub. L. 112–213, title VI, § 608, Dec. 20, 2012, 126 Stat. 1578.)
+
+Editorial Notes
+Amendments2012—Par. (2). Pub. L. 112–213, § 608(1), substituted “section 1954 of this title” for “section 1914 of this title”.
+Par. (3). Pub. L. 112–213, § 608(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘United States exclusive economic zone’ means the zone established by Presi</akn:p></akn:content><akn:subsection eId="subsec_1956_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1956_2"><akn:num>(2)</akn:num><akn:heading>Interagency Committee</akn:heading><akn:content><akn:p>(2) Interagency Committee The term “Interagency Committee” means the Interagency Marine Debris Coordinating Committee established under section 1954 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1956_3"><akn:num>(3)</akn:num><akn:heading>Marine debris</akn:heading><akn:content><akn:p>(3) Marine debris The term “marine debris” means any persistent solid material that is manufactured or processed and directly or indirectly, intentionally or unintentionally, disposed of or abandoned into the marine environment or the Great Lakes.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1956_4"><akn:num>(4)</akn:num><akn:heading>MARPOL; Annex V; Convention</akn:heading><akn:content><akn:p>(4) MARPOL; Annex V; Convention The terms “MARPOL”, “Annex V”, and “Convention” have the meaning given those terms under section 1901(a) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1956_5"><akn:num>(5)</akn:num><akn:heading>Program</akn:heading><akn:content><akn:p>(5) Program The term “Program” means the Marine Debris Program established under section 1952 of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1956_6"><akn:num>(6)</akn:num><akn:heading>Severe marine debris event</akn:heading><akn:content><akn:p>(6) Severe marine debris event The term “severe marine debris event” means atypically large amounts of marine debris caused by a natural disaster, including a tsunami, flood, landslide, or hurricane, or other source.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1956_7"><akn:num>(7)</akn:num><akn:heading>State</akn:heading><akn:content><akn:p>(7) State The term “State” means—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/15704" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/15704/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/15704/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_15704"><akn:num>15704</akn:num><akn:heading>National Advisory Committee on Windstorm Impact Reduction</akn:heading><akn:content><akn:p>§ 15704. National Advisory Committee on Windstorm Impact Reduction(a) In generalThe Director of the National Institute of Standards and Technology shall establish an Advisory Committee on Windstorm Impact Reduction, which shall be composed of at least 7 and not more than 15 members who are qualified to provide advice on windstorm impact reduction and represent related scientific, architectural, and engineering disciplines, none of whom may be employees of the Federal Government, including—(1) representatives of research and academic institutions;
+
+(2) industry standards development organizations;
+
+(3) emergency management agencies;
+
+(4) State and local government; and
+
+(5) business communities, including the insurance industry.
+
+
+(b) AssessmentsThe Advisory Committee on Windstorm Impact Reduction shall offer assessments and recommendations on—(1) trends and developments in the natural, engineering, and social sciences and practices of windstorm impact mitigation;
+
+(2) the priorities of the Program’s Strategic Plan;
+
+(3) the coordination of the Program;
+
+(4) the effectiveness of the Program in meeting its purposes; and
+
+(5) any revisions to the Program which may be necessary.
+
+
+(c) CompensationThe members of the Advisory Committee established under this section shall serve without compensation.
+
+
+(d) ReportsAt least every 2 years, the Advisory Committee shall report to the Director on the assessments carried out under subsection (b) and its recommendations for ways to improve the Program.
+
+
+(e) CharterNotwithstanding section 1013(b)(2) of title 5, the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 1008(c) of title 5, before the termination date specified in subsection (f) of this section.
+
+
+(f) TerminationThe Advisory Committee shall terminate on September 30, 2017.
+
+
+(g) Conflict of interestAn Advisory Committee member shall recuse himself from any Advisory Committee activity in which he has an actua</akn:p></akn:content><akn:subsection eId="subsec_15704_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Director of the National Institute of Standards and Technology shall establish an Advisory Committee on Windstorm Impact Reduction, which shall be composed of at least 7 and not more than 15 members who are qualified to provide advice on windstorm impact reduction and represent related scientific, architectural, and engineering disciplines, none of whom may be employees of the Federal Government, including—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_b"><akn:num>(b)</akn:num><akn:heading>Assessments</akn:heading><akn:content><akn:p>(b) Assessments The Advisory Committee on Windstorm Impact Reduction shall offer assessments and recommendations on—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_c"><akn:num>(c)</akn:num><akn:heading>Compensation</akn:heading><akn:content><akn:p>(c) Compensation The members of the Advisory Committee established under this section shall serve without compensation.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_d"><akn:num>(d)</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>(d) Reports At least every 2 years, the Advisory Committee shall report to the Director on the assessments carried out under subsection (b) and its recommendations for ways to improve the Program.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_e"><akn:num>(e)</akn:num><akn:heading>Charter</akn:heading><akn:content><akn:p>(e) Charter Notwithstanding section 1013(b)(2) of title 5, the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 1008(c) of title 5, before the termination date specified in subsection (f) of this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_f"><akn:num>(f)</akn:num><akn:heading>Termination</akn:heading><akn:content><akn:p>(f) Termination The Advisory Committee shall terminate on September 30, 2017.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_15704_g"><akn:num>(g)</akn:num><akn:heading>Conflict of interest</akn:heading><akn:content><akn:p>(g) Conflict of interest An Advisory Committee member shall recuse himself from any Advisory Committee activity in which he has an actual pecuniary interest.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

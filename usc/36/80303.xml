@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/80303" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/80303/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/80303/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_80303"><akn:num>80303</akn:num><akn:heading>Governing body</akn:heading><akn:content><akn:p>§ 80303. Governing body(a) National Council.—(1) There shall be a National Council of Girl Scouts. The number, qualifications, and term of office of members of the Council are as provided in the constitution of the corporation, except that members of the Council must be citizens of the United States.
+
+(2) The Council may adopt and amend a constitution and bylaws and elect a board of directors, officers, and agents.
+
+(3) The constitution may prescribe the number of members of the Council necessary for a quorum. That number may be less than a majority of the entire Council.
+
+(4) Meetings of the Council shall be held as provided in the constitution to hold elections and receive reports of the officers and board of directors. Special meetings may be called as provided in the constitution.
+
+
+(b) Board of Directors.—(1) To the extent provided in the constitution and bylaws, the board of directors shall have the powers of the Council and manage the activities of the corporation between meetings of the Council. The number, qualifications, and term of office of directors are as provided in the constitution.
+
+(2) The constitution may prescribe the number of directors necessary for a quorum. That number shall be at least 20 or two-fifths of the entire board.
+
+
+(c) Executive and Other Committees.—The bylaws may provide for—(1) an executive committee to carry out the powers of the board of directors between meetings of the board; and
+
+(2) other committees to operate under the general supervision of the board of directors.
+
+
+(d) Location of Meetings and Records.—The Council and the board of directors may hold meetings and keep the seal and records of the corporation in or outside the District of Columbia.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1361.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+80303(a)(1)36:34 (1st sentence words before 1st comma, 2d sentence).Mar. 16, 1950, ch. 62, §§ 4 (1st–7th sentences), 5, 64 S</akn:p></akn:content><akn:subsection eId="subsec_80303_a"><akn:num>(a)</akn:num><akn:heading>National Council.—</akn:heading><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80303_b"><akn:num>(b)</akn:num><akn:heading>Board of Directors.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80303_c"><akn:num>(c)</akn:num><akn:heading>Executive and Other Committees.—</akn:heading><akn:content><akn:p>(c) The bylaws may provide for—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_80303_d"><akn:num>(d)</akn:num><akn:heading>Location of Meetings and Records.—</akn:heading><akn:content><akn:p>(d) The Council and the board of directors may hold meetings and keep the seal and records of the corporation in or outside the District of Columbia.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

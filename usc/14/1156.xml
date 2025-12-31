@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/14/1156" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/14/1156/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/14/1156/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1156"><akn:num>1156</akn:num><akn:heading>Limitation on unmanned aircraft systems</akn:heading><akn:content><akn:p>§ 1156. Limitation on unmanned aircraft systems(a) In General.—During any fiscal year for which funds are appropriated for the design or construction of an Offshore Patrol Cutter, the Commandant—(1) may not award a contract for design of an unmanned aircraft system for use by the Coast Guard; and
+
+(2) may lease, acquire, or acquire the services of an unmanned aircraft system only if such system—(A) has been part of a program of record of, procured by, or used by a Federal entity (or funds for research, development, test, and evaluation have been received from a Federal entity with regard to such system) before the date on which the Commandant leases, acquires, or acquires the services of the system; and
+
+(B) is leased, acquired, or utilized by the Commandant through an agreement with a Federal entity, unless such an agreement is not practicable or would be less cost-effective than an independent contract action by the Coast Guard.
+
+
+
+(b) Small Unmanned Aircraft Exemption.—Subsection (a)(2) does not apply to small unmanned aircraft.
+
+(c) Definitions.—In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49.
+
+(Added Pub. L. 115–282, title III, § 304(b), Dec. 4, 2018, 132 Stat. 4244; amended Pub. L. 117–263, div. K, title CXVIII, § 11803(b), Dec. 23, 2022, 136 Stat. 4163.)
+
+Editorial Notes
+Amendments2022—Subsec. (c). Pub. L. 117–263 substituted “section 44801 of title 49” for “section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note)”.
+
+Statutory Notes and Related Subsidiaries
+Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft SystemsPub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 Stat. 4725, as amended by Pub. L. 117–263, div. K, title CXII, § 11255, Dec. 23, 2022, 136 Stat. 4055, provided that:
+“(a) Prohibition on Agency Operation or Procurement.—The Commandant [of the Coast Guard] may not operate or en</akn:p></akn:content><akn:subsection eId="subsec_1156_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) During any fiscal year for which funds are appropriated for the design or construction of an Offshore Patrol Cutter, the Commandant—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1156_b"><akn:num>(b)</akn:num><akn:heading>Small Unmanned Aircraft Exemption.—</akn:heading><akn:content><akn:p>(b) Subsection (a)(2) does not apply to small unmanned aircraft.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1156_c"><akn:num>(c)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(c) In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

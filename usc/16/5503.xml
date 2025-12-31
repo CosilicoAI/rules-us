@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/5503" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/5503/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/5503/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5503"><akn:num>5503</akn:num><akn:heading>Permitting</akn:heading><akn:content><akn:p>§ 5503. Permitting(a) In generalNo high seas fishing vessel shall engage in harvesting operations on the high seas unless the vessel has on board a valid permit issued under this section.
+
+
+(b) Eligibility(1) Any vessel of the United States is eligible to receive a permit under this section, unless the vessel was previously authorized to be used for fishing on the high seas by a foreign nation, and(A) the foreign nation suspended such authorization because the vessel undermined the effectiveness of international conservation and management measures, and the suspension has not expired; or
+
+(B) the foreign nation, within the last three years preceding application for a permit under this section, withdrew such authorization because the vessel undermined the effectiveness of international conservation and management measures.
+
+
+(2) The restriction in paragraph (1) does not apply if ownership of the vessel has changed since the vessel undermined the effectiveness of international conservation and management measures, and the new owner has provided sufficient evidence to the Secretary demonstrating that the previous owner or operator has no further legal, beneficial or financial interest in, or control of, the vessel.
+
+(3) The restriction in paragraph (1) does not apply if the Secretary makes a determination that issuing a permit would not subvert the purposes of the Agreement.
+
+(4) The Secretary may not issue a permit to a vessel unless the Secretary is satisfied that the United States will be able to exercise effectively its responsibilities under the Agreement with respect to that vessel.
+
+
+(c) Application(1) The owner or operator of a high seas fishing vessel may apply for a permit under this section by completing an application form prescribed by the Secretary.
+
+(2) The application form shall contain—(A) the vessel’s name, previous names (if known), official numbers, and port of record;
+
+(B) the vessel’s previous flags (if any);
+
+(C) the vessel’s International Radio </akn:p></akn:content><akn:subsection eId="subsec_5503_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general No high seas fishing vessel shall engage in harvesting operations on the high seas unless the vessel has on board a valid permit issued under this section.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5503_b"><akn:num>(b)</akn:num><akn:heading>Eligibility</akn:heading><akn:content><akn:p>(b) Eligibility</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5503_c"><akn:num>(c)</akn:num><akn:heading>Application</akn:heading><akn:content><akn:p>(c) Application</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5503_d"><akn:num>(d)</akn:num><akn:heading>Conditions</akn:heading><akn:content><akn:p>(d) Conditions The Secretary shall establish such conditions and restrictions on each permit issued under this section as are necessary and appropriate to carry out the obligations of the United States under the Agreement, including but not limited to the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5503_e"><akn:num>(e)</akn:num><akn:heading>Fees</akn:heading><akn:content><akn:p>(e) Fees</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5503_f"><akn:num>(f)</akn:num><akn:heading>Validity</akn:heading><akn:content><akn:p>(f) Validity A permit issued under this section for a vessel is void if—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

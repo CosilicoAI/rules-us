@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4064" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4064/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4064/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4064"><akn:num>4064</akn:num><akn:heading>Gas guzzler tax</akn:heading><akn:content><akn:p>§ 4064. Gas guzzler tax(a) Imposition of taxThere is hereby imposed on the sale by the manufacturer of each automobile a tax determined in accordance with the following table:
+
+
+
+
+
+
+If the fuel economy of the model type in which the automobile falls is:The tax is:
+
+
+At least 22.5$0  
+At least 21.5 but less than 22.51,000  
+At least 20.5 but less than 21.51,300  
+At least 19.5 but less than 20.51,700  
+At least 18.5 but less than 19.52,100  
+At least 17.5 but less than 18.52,600  
+At least 16.5 but less than 17.53,000  
+At least 15.5 but less than 16.53,700  
+At least 14.5 but less than 15.54,500  
+At least 13.5 but less than 14.55,400  
+At least 12.5 but less than 13.56,400  
+Less than 12.57,700.
+
+
+
+
+
+(b) DefinitionsFor purposes of this section—(1) Automobile(A) In generalThe term “automobile” means any 4-wheeled vehicle propelled by fuel—(i) which is manufactured primarily for use on public streets, roads, and highways (except any vehicle operated exclusively on a rail or rails), and
+
+(ii) which is rated at 6,000 pounds unloaded gross vehicle weight or less.
+
+
+(B) Exception for certain vehiclesThe term “automobile” does not include any vehicle which is treated as a nonpassenger automobile under the rules which were prescribed by the Secretary of Transportation for purposes of section 32901 of title 49, United States Code, and which were in effect on the date of the enactment of this section.
+
+
+(C) Exception for emergency vehiclesThe term “automobile” does not include any vehicle sold for use and used—(i) as an ambulance or combination ambulance-hearse,
+
+(ii) by the United States or by a State or local government for police or other law enforcement purposes, or
+
+(iii) for other emergency uses prescribed by the Secretary by regulations.
+
+
+
+(2) Fuel economyThe term “fuel economy” means the average number of miles traveled by an automobile per gallon of gasoline (or equivalent amount of other fuel) consumed, as determined by the EPA Administrator in accordance with pro</akn:p></akn:content><akn:subsection eId="subsec_4064_a"><akn:num>(a)</akn:num><akn:heading>Imposition of tax</akn:heading><akn:content><akn:p>(a) Imposition of tax There is hereby imposed on the sale by the manufacturer of each automobile a tax determined in accordance with the following table:
+
+
+
+
+
+
+If the fuel economy of the model type in which the automobile falls is:The tax is:
+
+
+At least 22.5$0  
+At least 21.5 but less than 22.51,000  
+At least 20.5 but less than 21.51,300  
+At least 19.5 but less than 20.51,700  
+At least 18.5 but less than 19.52,100  
+At least 17.5 but less than 18.52,600  
+At least 16.5 but less than 17.53,000  
+At least 15.5 but less than 16.53,700  
+At least 14.5 but less than 15.54,500  
+At least 13.5 but less than 14.55,400  
+At least 12.5 but less than 13.56,400  
+Less than 12.57,700.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4064_b"><akn:num>(b)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(b) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4064_c"><akn:num>(c)</akn:num><akn:heading>Determination of fuel economy</akn:heading><akn:content><akn:p>(c) Determination of fuel economy For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/4475" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/4475/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/4475/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4475"><akn:num>4475</akn:num><akn:heading>Imposition of tax</akn:heading><akn:content><akn:p>§ 4475. Imposition of tax(a) In generalThere is hereby imposed on any remittance transfer a tax equal to 1 percent of the amount of such transfer.
+
+
+(b) Payment of tax(1) In generalThe tax imposed by this section with respect to any remittance transfer shall be paid by the sender with respect to such transfer.
+
+
+(2) Collection of taxThe remittance transfer provider with respect to any remittance transfer shall collect the amount of the tax imposed under subsection (a) with respect to such transfer from the sender and remit such tax quarterly to the Secretary at such time and in such manner as provided by the Secretary,11 So in original. The comma probably should be a period.
+
+
+(3) Secondary liabilityWhere any tax imposed by subsection (a) is not paid at the time the transfer is made, then to the extent that such tax is not collected, such tax shall be paid by the remittance transfer provider.
+
+
+
+(c) Tax limited to cash and similar instrumentsThe tax imposed under subsection (a) shall apply only to any remittance transfer for which the sender provides cash, a money order, a cashier’s check, or any other similar physical instrument (as determined by the Secretary) to the remittance transfer provider.
+
+
+(d) Nonapplication to certain noncash remittance transfersSubsection (a) shall not apply to any remittance transfer for which the funds being transferred are—(1) withdrawn from an account held in or by a financial institution—(A) which is described in subparagraphs (A) through (H) of section 5312(a)(2) of title 31, United States Code, and
+
+(B) that is subject to the requirements under subchapter II of chapter 53 of such title, or
+
+
+(2) funded with a debit card or a credit card which is issued in the United States.
+
+
+(e) DefinitionsFor purposes of this section—(1) In generalThe terms “remittance transfer”, “remittance transfer provider”, and “sender” shall each have the respective meanings given such terms by section 919(g) of the Electronic Fund Transfer Act (15 U.S.C. </akn:p></akn:content><akn:subsection eId="subsec_4475_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general There is hereby imposed on any remittance transfer a tax equal to 1 percent of the amount of such transfer.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4475_b"><akn:num>(b)</akn:num><akn:heading>Payment of tax</akn:heading><akn:content><akn:p>(b) Payment of tax</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4475_c"><akn:num>(c)</akn:num><akn:heading>Tax limited to cash and similar instruments</akn:heading><akn:content><akn:p>(c) Tax limited to cash and similar instruments The tax imposed under subsection (a) shall apply only to any remittance transfer for which the sender provides cash, a money order, a cashier’s check, or any other similar physical instrument (as determined by the Secretary) to the remittance transfer provider.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4475_d"><akn:num>(d)</akn:num><akn:heading>Nonapplication to certain noncash remittance transfers</akn:heading><akn:content><akn:p>(d) Nonapplication to certain noncash remittance transfers Subsection (a) shall not apply to any remittance transfer for which the funds being transferred are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4475_e"><akn:num>(e)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(e) Definitions For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4475_f"><akn:num>(f)</akn:num><akn:heading>Application of anti-conduit rules</akn:heading><akn:content><akn:p>(f) Application of anti-conduit rules For purposes of section 7701(l), with respect to any multiple-party arrangements involving the sender, a remittance transfer shall be treated as a financing transaction.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

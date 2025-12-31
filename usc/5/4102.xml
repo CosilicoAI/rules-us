@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/4102" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/4102/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/4102/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4102"><akn:num>4102</akn:num><akn:heading>Exceptions; Presidential authority</akn:heading><akn:content><akn:p>§ 4102. Exceptions; Presidential authority(a)(1) This chapter does not apply to—(A) a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
+
+(B) the Tennessee Valley Authority; or
+
+(C) an individual (except a commissioned officer of the National Oceanic and Atmospheric Administration) who is a member of a uniformed service during a period in which he is entitled to pay under section 204 of title 37.
+
+
+(2) This chapter (except sections 4110 and 4111) does not apply to—(A) the Foreign Service of the United States; or
+
+(B) an individual appointed by the President, unless the individual is specifically designated by the President for training under this chapter.
+
+
+
+(b) The President, at any time in the public interest, may—(1) except an agency or part thereof, or an employee or group or class of employees therein, from this chapter or a provision thereof (except this section); and
+
+(2) withdraw an exception made under this subsection.
+
+
+However, the President may not except the Office of Personnel Management from a provision of this chapter which vests in or imposes on the Office a function, duty, or responsibility concerning any matter except the establishment, operation, and maintenance, in the same capacity as other agencies, of training programs and plans for its employees.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 433; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 94–183, § 2(11), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(15), (19), Aug. 14, 1979, 93 Stat. 382.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+DerivationU.S. CodeRevised Statutes andStatutes at Large
+
+
+ 5 U.S.C. 2303.July 7, 1958, Pub. L. 85–507, § 4, 72 Stat. 329.May 26, 1959, Pub. L. 86–33, 73 Stat. 62.Aug. 2, 1962, Pub. L. 87–566, 76 Stat. 264.
+
+
+In subsection (a)(1), the exception for the President and Vice President is omitted as su</akn:p></akn:content><akn:subsection eId="subsec_4102_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4102_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The President, at any time in the public interest, may— However, the President may not except the Office of Personnel Management from a provision of this chapter which vests in or imposes on the Office a function, duty, or responsibility concerning any matter except the establishment, operation, and maintenance, in the same capacity as other agencies, of training programs and plans for its employees.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

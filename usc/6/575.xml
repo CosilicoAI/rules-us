@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/6/575" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/6/575/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/6/575/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_575"><akn:num>575</akn:num><akn:heading>Regional emergency communications coordination</akn:heading><akn:content><akn:p>§ 575. Regional emergency communications coordination(a) In generalThere is established in each Regional Office a Regional Emergency Communications Coordination Working Group (in this section referred to as an “RECC Working Group”). Each RECC Working Group shall report to the relevant Regional Administrator and coordinate its activities with the relevant Regional Advisory Council.
+
+
+(b) MembershipEach RECC Working Group shall consist of the following:(1) Non-FederalOrganizations representing the interests of the following:(A) State officials.
+
+(B) Local government officials, including sheriffs.
+
+(C) State police departments.
+
+(D) Local police departments.
+
+(E) Local fire departments.
+
+(F) Public safety answering points (9–1–1 services).
+
+(G) State emergency managers, homeland security directors, or representatives of State Administrative Agencies.
+
+(H) Local emergency managers or homeland security directors.
+
+(I) Other emergency response providers as appropriate.
+
+
+(2) FederalRepresentatives from the Department, the Federal Communications Commission, and other Federal departments and agencies with responsibility for coordinating interoperable emergency communications with or providing emergency support services to State, local, and tribal governments.
+
+
+
+(c) CoordinationEach RECC Working Group shall coordinate its activities with the following:(1) Communications equipment manufacturers and vendors (including broadband data service providers).
+
+(2) Local exchange carriers.
+
+(3) Local broadcast media.
+
+(4) Wireless carriers.
+
+(5) Satellite communications services.
+
+(6) Cable operators.
+
+(7) Hospitals.
+
+(8) Public utility services.
+
+(9) Emergency evacuation transit services.
+
+(10) Ambulance services.
+
+(11) HAM and amateur radio operators.
+
+(12) Representatives from other private sector entities and nongovernmental organizations as the Regional Administrator determines appropriate.
+
+
+(d) DutiesThe duties of each RECC Working Group shall include—(1) assessing the surviva</akn:p></akn:content><akn:subsection eId="subsec_575_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general There is established in each Regional Office a Regional Emergency Communications Coordination Working Group (in this section referred to as an “RECC Working Group”). Each RECC Working Group shall report to the relevant Regional Administrator and coordinate its activities with the relevant Regional Advisory Council.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_575_b"><akn:num>(b)</akn:num><akn:heading>Membership</akn:heading><akn:content><akn:p>(b) Membership Each RECC Working Group shall consist of the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_575_c"><akn:num>(c)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(c) Coordination Each RECC Working Group shall coordinate its activities with the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_575_d"><akn:num>(d)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(d) Duties The duties of each RECC Working Group shall include—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

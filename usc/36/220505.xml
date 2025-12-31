@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/36/220505" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/36/220505/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/36/220505/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_220505"><akn:num>220505</akn:num><akn:heading>Powers and duties</akn:heading><akn:content><akn:p>§ 220505. Powers and duties(a) Constitution and Bylaws.—The corporation shall adopt a constitution and bylaws. The corporation may amend its constitution only if the corporation—(1) publishes, in its principal publication, a notice of the proposed amendment, including—(A) the substantive terms of the amendment;
+
+(B) the time and place of the corporation’s regular meeting at which adoption of the amendment is to be decided; and
+
+(C) a provision informing interested persons that they may submit materials as authorized in clause (2) of this subsection; and
+
+
+(2) gives all interested persons an opportunity to submit written comments and information for at least 60 days after publication of notice of the proposed amendment and before adoption of the amendment.
+
+
+(b) General Corporate Powers.—The corporation may—(1) adopt and alter a corporate seal;
+
+(2) establish and maintain offices to conduct the affairs of the corporation;
+
+(3) make contracts;
+
+(4) accept gifts, legacies, and devises in furtherance of its corporate purposes;
+
+(5) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation;
+
+(6) borrow money, issue instruments of indebtedness, and secure its obligations by granting security interests in its property;
+
+(7) publish a magazine, newspaper, and other publications consistent with its corporate purposes;
+
+(8) approve and revoke membership in the corporation;
+
+(9) sue and be sued, except that any civil action brought in a State court against the corporation and solely relating to the corporation’s responsibilities under this chapter shall be removed, at the request of the corporation, to the district court of the United States in the district in which the action was brought, and such district court shall have original jurisdiction over the action without regard to the amount in controversy or citizenship of the parties involved, and except that neither this paragraph nor any other provision of this chapter sha</akn:p></akn:content><akn:subsection eId="subsec_220505_a"><akn:num>(a)</akn:num><akn:heading>Constitution and Bylaws.—</akn:heading><akn:content><akn:p>(a) The corporation shall adopt a constitution and bylaws. The corporation may amend its constitution only if the corporation—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_220505_b"><akn:num>(b)</akn:num><akn:heading>General Corporate Powers.—</akn:heading><akn:content><akn:p>(b) The corporation may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_220505_c"><akn:num>(c)</akn:num><akn:heading>Powers Related to Amateur Athletics and the Olympic Games.—</akn:heading><akn:content><akn:p>(c) The corporation may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_220505_d"><akn:num>(d)</akn:num><akn:heading>Duties.—</akn:heading><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

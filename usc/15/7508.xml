@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/15/7508" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/15/7508/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/15/7508/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7508"><akn:num>7508</akn:num><akn:heading>Additional centers</akn:heading><akn:content><akn:p>§ 7508. Additional centers(a) American Nanotechnology Preparedness CenterThe Program shall provide for the establishment, on a merit-reviewed and competitive basis, of an American Nanotechnology Preparedness Center which shall—(1) conduct, coordinate, collect, and disseminate studies on the societal, ethical, environmental, educational, legal, and workforce implications of nanotechnology; and
+
+(2) identify anticipated issues related to the responsible research, development, and application of nanotechnology, as well as provide recommendations for preventing or addressing such issues.
+
+
+(b) Center for nanomaterials manufacturingThe Program shall provide for the establishment, on a merit reviewed and competitive basis, of a center to—(1) encourage, conduct, coordinate, commission, collect, and disseminate research on new manufacturing technologies for materials, devices, and systems with new combinations of characteristics, such as, but not limited to, strength, toughness, density, conductivity, flame resistance, and membrane separation characteristics; and
+
+(2) develop mechanisms to transfer such manufacturing technologies to United States industries.
+
+
+(c) ReportsThe Council, through the Director of the National Nanotechnology Coordination Office, shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science—(1) within 6 months after December 3, 2003, a report identifying which agency shall be the lead agency and which other agencies, if any, will be responsible for establishing the Centers described in this section; and
+
+(2) within 18 months after December 3, 2003, a report describing how the Centers described in this section have been established.
+
+
+(Pub. L. 108–153, § 9, Dec. 3, 2003, 117 Stat. 1930.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resol</akn:p></akn:content><akn:subsection eId="subsec_7508_a"><akn:num>(a)</akn:num><akn:heading>American Nanotechnology Preparedness Center</akn:heading><akn:content><akn:p>(a) American Nanotechnology Preparedness Center The Program shall provide for the establishment, on a merit-reviewed and competitive basis, of an American Nanotechnology Preparedness Center which shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7508_b"><akn:num>(b)</akn:num><akn:heading>Center for nanomaterials manufacturing</akn:heading><akn:content><akn:p>(b) Center for nanomaterials manufacturing The Program shall provide for the establishment, on a merit reviewed and competitive basis, of a center to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7508_c"><akn:num>(c)</akn:num><akn:heading>Reports</akn:heading><akn:content><akn:p>(c) Reports The Council, through the Director of the National Nanotechnology Coordination Office, shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

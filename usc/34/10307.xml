@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/34/10307" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/34/10307/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/34/10307/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10307"><akn:num>10307</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 10307. Definitions
+For purposes of this part:(1) The term “Attorney General” means the Attorney General of the United States.
+
+(2) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an eligible educational institution, which generally is accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. It includes course work for the attainment of more than one objective if in addition to the previous requirements, all the objectives generally are recognized as reasonably related to a single career field.
+
+(3) The term “eligible educational institution” means an institution which—(A) is an institution of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and
+
+(B) is eligible to participate in programs under title IV of such Act [20 U.S.C. 1070 et seq.].
+
+
+(Pub. L. 90–351, title I, § 1217, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3116; amended Pub. L. 105–390, § 2(6), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(K), Jan. 2, 2013, 126 Stat. 1968.)
+
+Editorial Notes
+
+References in TextThe Higher Education Act of 1965, referred to in par. (3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+Codification
+Section was formerly classified to section 3796d–6 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2013—Par. (3)(A). Pub. L. 112–239 substituted “an institution of higher education, as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and” for “described in section 481 of the Higher Educatio</akn:p></akn:content><akn:subsection eId="subsec_10307_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) The term “Attorney General” means the Attorney General of the United States.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10307_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an eligible educational institution, which generally is accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. It includes course work for the attainment of more than one objective if in addition to the previous requirements, all the objectives generally are recognized as reasonably related to a single career field.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10307_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) The term “eligible educational institution” means an institution which—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

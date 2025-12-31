@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/8281...8284" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/8281...8284/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/8281...8284/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8281___8284"><akn:num>8281...8284</akn:num><akn:heading>Repealed. Pub. L. 107–110, title X, § 1011(5)(A), Jan. 8, 2002, 115 Stat. 1986</akn:heading><akn:content><akn:p>§§ 8281 to 8284. Repealed. Pub. L. 107–110, title X, § 1011(5)(A), Jan. 8, 2002, 115 Stat. 1986
+
+Section 8281, Pub. L. 89–10, title X, § 10961, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3848, set forth findings.
+
+
+Section 8282, Pub. L. 89–10, title X, § 10962, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3849, set forth purpose of subpart.
+
+
+Section 8283, Pub. L. 89–10, title X, § 10963, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3849, authorized urban school grants.
+
+
+Section 8284, Pub. L. 89–10, title X, § 10964, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3852, set forth special rules.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

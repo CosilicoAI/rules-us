@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/1101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/1101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/1101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1101"><akn:num>1101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 1101. Definitions(a) In General.—In this chapter:(1) Accident.—The term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
+
+(2) State.—The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
+
+
+(b) Applicability of Other Definitions.—Section 2101(23) of title 46 and section 40102(a) of this title shall apply to this chapter.
+
+(Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, § 2, Nov. 1, 2000, 114 Stat. 1883; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(17), Aug. 13, 2018, 132 Stat. 2324; Pub. L. 118–63, title XII, § 1203, May 16, 2024, 138 Stat. 1422.)
+
+
+
+
+
+
+
+
+
+
+
+Historical and Revision Notes
+
+
+RevisedSectionSource (U.S. Code)Source (Statutes at Large)
+
+
+1101(no source)
+
+
+A number of the source provisions of the chapter are taken from 49 App.:ch. 20. The text of 49 App.:ch. 20 contains general definitions, some of which are used in those source provisions.
+This section is included to ensure that the identical definitions that are relevant are used without repeating them. The source provisions for the definitions are found in the revision note for section 40102(a) of the revised title.
+
+Editorial Notes
+Amendments2024—Pub. L. 118–63 amended section generally. Prior to amendment, text read as follows: “Section 2101(23) of title 46 and section 40102(a) of this title apply to this chapter. In this chapter, the term ‘accident’ includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.”
+2018—Pub. L. 115–232 substituted “Section 2101(23)” for “Section 2101(17a)”.
+2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “Section 40102(a) of this title applies to t</akn:p></akn:content><akn:subsection eId="subsec_1101_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) In this chapter:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1101_b"><akn:num>(b)</akn:num><akn:heading>Applicability of Other Definitions.—</akn:heading><akn:content><akn:p>(b) Section 2101(23) of title 46 and section 40102(a) of this title shall apply to this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

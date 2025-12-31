@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/3911" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/3911/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/3911/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3911"><akn:num>3911</akn:num><akn:heading>Congressional declaration of policy</akn:heading><akn:content><akn:p>§ 3911. Congressional declaration of policy(a) The Congress declares that the science and engineering education responsibilities of the National Science Foundation are—(1) to improve the quality of instruction in the fields of mathematics, science, and engineering;
+
+(2) to support research, fellowships, teacher-faculty-business exchange programs in mathematics, science, and engineering;
+
+(3) to improve the quality and availability of instrumentation for mathematics, science, and engineering instruction;
+
+(4) to encourage partnerships in education between local and State education agencies, business and industry, colleges and universities, and cultural and professional institutions and societies; and
+
+(5) to improve the quality of education at all levels in the fields of mathematics, science, and engineering.
+
+
+(b) In exercising its responsibilities to strengthen scientific and engineering research potential and science and engineering education programs at all levels, the Foundation shall avoid undue concentration of support for research and education activities.
+
+(Pub. L. 98–377, title I, § 101, as added Pub. L. 99–159, title II, § 201, Nov. 22, 1985, 99 Stat. 893.)
+
+Editorial Notes
+Prior ProvisionsA prior section 3911, Pub. L. 98–377, title I, § 101, Aug. 11, 1984, 98 Stat. 1268, related to grants for teacher institutes, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3913 of this title.
+
+Statutory Notes and Related Subsidiaries
+Undergraduate Science ImprovementPub. L. 100–570, title I, § 112, Oct. 31, 1988, 102 Stat. 2870, provided that:
+“(a) The Congress finds that the support of undergraduate science and engineering education is a critical component in a comprehensive national policy intended to ensure the Nation’s future supply of scientists and engineers.
+
+“(b) In accordance with the provisions of this Act [see Tables for classification], the Foundation shall support undergraduate science and engineering activiti</akn:p></akn:content><akn:subsection eId="subsec_3911_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Congress declares that the science and engineering education responsibilities of the National Science Foundation are—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3911_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) In exercising its responsibilities to strengthen scientific and engineering research potential and science and engineering education programs at all levels, the Foundation shall avoid undue concentration of support for research and education activities.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

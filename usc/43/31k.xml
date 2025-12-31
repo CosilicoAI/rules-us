@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/43/31k" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/43/31k/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/43/31k/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_31k"><akn:num>31k</akn:num><akn:heading>National Volcano Early Warning and Monitoring System</akn:heading><akn:content><akn:p>§ 31k. National Volcano Early Warning and Monitoring System(a) DefinitionsIn this section:(1) SecretaryThe term “Secretary” means the Secretary, acting through the Director of the United States Geological Survey.
+
+
+(2) Secretary of CommerceThe term “Secretary of Commerce” means the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere.
+
+
+(3) SystemThe term “System” means the National Volcano Early Warning and Monitoring System established under subsection (b)(1)(A).
+
+
+(4) Volcanic Ash Advisory CenterThe term “Volcanic Ash Advisory Center” means an entity designated by the International Civil Aviation Organization that is responsible for informing aviation interests about the presence of volcanic ash in the airspace.
+
+
+
+(b) National Volcano Early Warning and Monitoring System(1) Establishment(A) In generalThe Secretary shall establish within the United States Geological Survey a system, to be known as the “National Volcano Early Warning and Monitoring System”, to monitor, warn, and protect citizens of the United States from undue and avoidable harm from volcanic activity.
+
+
+(B) PurposesThe purposes of the System are—(i) to organize, modernize, standardize, and stabilize the monitoring systems of the volcano observatories in the United States, which includes the Alaska Volcano Observatory, California Volcano Observatory, Cascades Volcano Observatory, Hawaiian Volcano Observatory, and Yellowstone Volcano Observatory;
+
+(ii) to unify the monitoring systems of volcano observatories in the United States into a single interoperative system; and
+
+(iii) to strengthen the warning and monitoring systems of volcano observatories in the United States by integrating relevant capacities of the National Oceanic and Atmospheric Administration, including with the Volcanic Ash Advisory Centers located in Anchorage, Alaska, and Washington, D.C., to observe and model emissions of gases, aerosols, and ash, atmospheric dynamics and chemistry, and o</akn:p></akn:content><akn:subsection eId="subsec_31k_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31k_b"><akn:num>(b)</akn:num><akn:heading>National Volcano Early Warning and Monitoring System</akn:heading><akn:content><akn:p>(b) National Volcano Early Warning and Monitoring System</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_31k_c"><akn:num>(c)</akn:num><akn:heading>Funding</akn:heading><akn:content><akn:p>(c) Funding</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

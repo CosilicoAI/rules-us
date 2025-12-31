@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6991i" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6991i/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6991i/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6991i"><akn:num>6991i</akn:num><akn:heading>Operator training</akn:heading><akn:content><akn:p>§ 6991i. Operator training(a) Guidelines(1) In generalNot later than 2 years after August 8, 2005, in consultation and cooperation with States and after public notice and opportunity for comment, the Administrator shall publish guidelines that specify training requirements for—(A) persons having primary responsibility for on-site operation and maintenance of underground storage tank systems;
+
+(B) persons having daily on-site responsibility for the operation and maintenance of underground storage tanks systems; and
+
+(C) daily, on-site employees having primary responsibility for addressing emergencies presented by a spill or release from an underground storage tank system.
+
+
+(2) ConsiderationsThe guidelines described in paragraph (1) shall take into account—(A) State training programs in existence as of the date of publication of the guidelines;
+
+(B) training programs that are being employed by tank owners and tank operators as of August 8, 2005;
+
+(C) the high turnover rate of tank operators and other personnel;
+
+(D) the frequency of improvement in underground storage tank equipment technology;
+
+(E) the nature of the businesses in which the tank operators are engaged;
+
+(F) the substantial differences in the scope and length of training needed for the different classes of persons described in subparagraphs (A), (B), and (C) of paragraph (1); and
+
+(G) such other factors as the Administrator determines to be necessary to carry out this section.
+
+
+
+(b) State programs(1) In generalNot later than 2 years after the date on which the Administrator publishes the guidelines under subsection (a)(1), each State that receives funding under this subchapter shall develop State-specific training requirements that are consistent with the guidelines developed under subsection (a)(1).
+
+
+(2) RequirementsState requirements described in paragraph (1) shall—(A) be consistent with subsection (a);
+
+(B) be developed in cooperation with tank owners and tank operators;
+
+(C) take into considerati</akn:p></akn:content><akn:subsection eId="subsec_6991i_a"><akn:num>(a)</akn:num><akn:heading>Guidelines</akn:heading><akn:content><akn:p>(a) Guidelines</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6991i_b"><akn:num>(b)</akn:num><akn:heading>State programs</akn:heading><akn:content><akn:p>(b) State programs</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6991i_c"><akn:num>(c)</akn:num><akn:heading>Training</akn:heading><akn:content><akn:p>(c) Training All persons that are subject to the operator training requirements of subsection (a) shall—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

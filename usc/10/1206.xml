@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/1206" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/1206/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/1206/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1206"><akn:num>1206</akn:num><akn:heading>Members on active duty for 30 days or less or on inactive-duty training: separation</akn:heading><akn:content><akn:p>§ 1206. Members on active duty for 30 days or less or on inactive-duty training: separation
+Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—(1) the member has less than 20 years of service computed under section 1208 of this title;
+
+(2) the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty—(A) while—(i) performing active duty or inactive-duty training;
+
+(ii) traveling directly to or from the place at which such duty is performed; or
+
+(iii) remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member’s residence; or
+
+
+(B) while the member—(i) was serving on funeral honors duty under section 12503 of this title or section 115 of title 32;
+
+(ii) was traveling to or from the place at which the member was to so serve; or
+
+(iii) remained overnight at or in the vicinity of that place immediately before so serving;
+
+
+
+(3) the disability is not the result of the member’s intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;
+
+(4) based upon accepted medical principles, the disability is or may be of a permanent nature; and
+
+(5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999, was the proximate result of performing active duty or i</akn:p></akn:content><akn:subsection eId="subsec_1206_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) the member has less than 20 years of service computed under section 1208 of this title;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1206_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1206_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) the disability is not the result of the member’s intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1206_4"><akn:num>(4)</akn:num><akn:content><akn:p>(4) based upon accepted medical principles, the disability is or may be of a permanent nature; and</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1206_5"><akn:num>(5)</akn:num><akn:content><akn:p>(5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999, was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

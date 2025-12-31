@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/4125" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/4125/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/4125/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_4125"><akn:num>4125</akn:num><akn:heading>Functions of Defense research facilities</akn:heading><akn:content><akn:p>§ 4125. Functions of Defense research facilities(a) Functions of Defense Research Facilities.—The Secretary of Defense shall ensure, to the maximum extent practicable—(1) that Defense research facilities are assigned broad mission requirements rather than specific hardware needs;
+
+(2) that appropriate personnel of such facilities are assigned to serve as consultants on component and support system standardization;
+
+(3) that the managers of such facilities have broad latitude to choose research and development projects based on awareness of activities throughout the technology domain, including within the Federal Government, the Department of Defense, public and private research institutions and universities, and the global commercial marketplace;
+
+(4) that technology position and issue papers prepared by Defense research facilities are readily available to all components of the Department of Defense and to contractors who submit bids or proposals for Department of Defense contracts;
+
+(5) that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions; and
+
+(6) that, in light of Defense research facilities being funded by the public, Defense research facilities are broadly authorized and encouraged to support national technological development goals and support technological missions of other departments and agencies of the Federal Government, when such support is determined by the Secretary of Defense to be in the best interests of the Federal Government.
+
+
+(b) Definitions.—In this section, the term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—(1) basic research; or
+
+(2) applied research known as exploratory development.
+
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 18</akn:p></akn:content><akn:subsection eId="subsec_4125_a"><akn:num>(a)</akn:num><akn:heading>Functions of Defense Research Facilities.—</akn:heading><akn:content><akn:p>(a) The Secretary of Defense shall ensure, to the maximum extent practicable—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_4125_b"><akn:num>(b)</akn:num><akn:heading>Definitions.—</akn:heading><akn:content><akn:p>(b) In this section, the term “Defense research facility” means a Department of Defense facility which performs or contracts for the performance of—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

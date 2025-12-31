@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/10203" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/10203/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/10203/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_10203"><akn:num>10203</akn:num><akn:heading>Basic pay</akn:heading><akn:content><akn:p>§ 10203. Basic pay(a) In General.—The annual rates of basic pay of members of the United States Secret Service Uniformed Division shall be fixed in accordance with the following schedule of rates, except that the payable annual rate of basic pay for positions at the Lieutenant, Captain, and Inspector ranks is limited to 95 percent of the rate of pay for level V of the Executive Schedule under subchapter II of chapter 53.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RankStep 1Step 2Step 3Step 4Step 5Step 6Step 7Step 8Step 9Step 10Step 11Step 12Step 13
+
+
+1 So in original. Probably should be followed by “for”.
+
+
+
+Officer$44,000$46,640$49,280$51,920$54,560$57,200$59,840$62,480$65,120$67,760$70,400$73,040$75,680
+Sergeant..............................59,70862,74465,78068,81671,85274,88877,92480,96083,99687,032
+Lieutenant........................................69,01872,35875,69879,03882,37885,71889,05892,39895,738
+Captain..................................................79,59483,26886,94290,61694,29097,964101,638105,312
+Inspector..................................................91,53395,75899,983104,208108,433112,658116,883121,108
+Deputy ChiefThe rate of basic pay for Deputy Chief positions will be equal to 95 percent of the rate of pay for level V of the Executive Schedule.
+Assistant ChiefThe rate of basic pay 1 the Assistant Chief position will be equal to 95 percent of the rate of pay for level V of the Executive Schedule.
+ChiefThe rate of basic pay 1 the Chief position will be equal to the rate of pay for level V of the Executive Schedule.
+
+
+
+
+(b) Schedule Adjustment.—(1)(A) Effective at the beginning of the first pay period commencing on or after the first day of the month in which an adjustment in the rates of basic pay under the General Schedule takes effect under section 5303 or other authority, the schedule of annual rates of basic pay of members (except the Deputy Chiefs, Assistant Chief and Chief) shall be adjusted by the Secretary by a percentage amount corresponding to the percentage ad</akn:p></akn:content><akn:subsection eId="subsec_10203_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The annual rates of basic pay of members of the United States Secret Service Uniformed Division shall be fixed in accordance with the following schedule of rates, except that the payable annual rate of basic pay for positions at the Lieutenant, Captain, and Inspector ranks is limited to 95 percent of the rate of pay for level V of the Executive Schedule under subchapter II of chapter 53.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RankStep 1Step 2Step 3Step 4Step 5Step 6Step 7Step 8Step 9Step 10Step 11Step 12Step 13
+
+
+1 So in original. Probably should be followed by “for”.
+
+
+
+Officer$44,000$46,640$49,280$51,920$54,560$57,200$59,840$62,480$65,120$67,760$70,400$73,040$75,680
+Sergeant..............................59,70862,74465,78068,81671,85274,88877,92480,96083,99687,032
+Lieutenant........................................69,01872,35875,69879,03882,37885,71889,05892,39895,738
+Captain..................................................79,59483,26886,94290,61694,29097,964101,638105,312
+Inspector...................</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_10203_b"><akn:num>(b)</akn:num><akn:heading>Schedule Adjustment.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

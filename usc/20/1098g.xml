@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1098g" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1098g/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1098g/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1098g"><akn:num>1098g</akn:num><akn:heading>Exemption from State disclosure requirements</akn:heading><akn:content><akn:p>§ 1098g. Exemption from State disclosure requirements
+Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) shall not be subject to any disclosure requirements of any State law.
+(Pub. L. 97–320, title VII, § 701(b), Oct. 15, 1982, 96 Stat. 1538.)
+
+Editorial Notes
+
+References in TextThe Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+Codification
+Section was formerly classified to section 1099 of this title.
+Section was enacted as part of the Garn-St Germain Depository Institutions Act of 1982, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective both with respect to loans made prior to and after Oct. 15, 1982, see section 701(c) of Pub. L. 97–320, set out as an Effective Date of 1982 Amendment note under section 1603 of Title 15, Commerce and Trade.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

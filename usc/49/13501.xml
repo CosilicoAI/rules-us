@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/13501" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/13501/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/13501/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_13501"><akn:num>13501</akn:num><akn:heading>General jurisdiction</akn:heading><akn:content><akn:p>§ 13501. General jurisdiction
+The Secretary and the Board have jurisdiction, as specified in this part, over transportation by motor carrier and the procurement of that transportation, to the extent that passengers, property, or both, are transported by motor carrier—(1) between a place in—(A) a State and a place in another State;
+
+(B) a State and another place in the same State through another State;
+
+(C) the United States and a place in a territory or possession of the United States to the extent the transportation is in the United States;
+
+(D) the United States and another place in the United States through a foreign country to the extent the transportation is in the United States; or
+
+(E) the United States and a place in a foreign country to the extent the transportation is in the United States; and
+
+
+(2) in a reservation under the exclusive jurisdiction of the United States or on a public highway.
+
+(Added Pub. L. 104–88, title I, § 103, Dec. 29, 1995, 109 Stat. 859.)
+
+Editorial Notes
+Prior ProvisionsProvisions similar to those in this section were contained in section 10521 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.</akn:p></akn:content><akn:subsection eId="subsec_13501_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) between a place in—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_13501_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) in a reservation under the exclusive jurisdiction of the United States or on a public highway.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

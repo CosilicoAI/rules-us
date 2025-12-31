@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/1912" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/1912/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/1912/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1912"><akn:num>1912</akn:num><akn:heading>Unauthorized fees for inspection of vessels</akn:heading><akn:content><akn:p>§ 1912. Unauthorized fees for inspection of vessels
+Whoever, being an officer, employee, or agent of the United States or any agency thereof, engaged in inspection of vessels, upon any pretense, receives any fee or reward for his services, except what is allowed to him by law, shall be fined under this title or imprisoned not more than six months, or both; and shall forfeit his office.
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+
+Historical and Revision NotesBased on title 18, U.S.C., 1940 ed., § 196 (Mar. 4, 1909, ch. 321, § 107, 35 Stat. 1107).
+The phrase “officer or employee of the United States or any agency thereof” was substituted for the phrase “inspector of steamboats” in view of 1946 Reorganization Plan No. 3, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, abolishing inspectors and transferring their functions to the Coast Guard.
+Minor changes were made in phraseology.
+
+Editorial Notes
+Amendments1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

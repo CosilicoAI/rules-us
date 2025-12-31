@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/2009aa–1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/2009aa–1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/2009aa–1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2009aa_1"><akn:num>2009aa–1</akn:num><akn:heading>Delta Regional Authority</akn:heading><akn:content><akn:p>§ 2009aa–1. Delta Regional Authority(a) Establishment(1) In generalThere is established the Delta Regional Authority.
+
+
+(2) CompositionThe Authority shall be composed of—(A) a Federal member, to be appointed by the President, with the advice and consent of the Senate; and
+
+(B) the Governor (or a designee of the Governor) of each State in the region that elects to participate in the Authority.
+
+
+(3) CochairpersonsThe Authority shall be headed by—(A) the Federal member, who shall serve—(i) as the Federal cochairperson; and
+
+(ii) as a liaison between the Federal Government and the Authority; and
+
+
+(B) a State cochairperson, who—(i) shall be a Governor of a participating State in the region; and
+
+(ii) shall be elected by the State members for a term of not less than 1 year.
+
+
+
+
+(b) Alternate members(1) State alternatesThe State member of a participating State may have a single alternate, who shall be—(A) a resident of that State; and
+
+(B) appointed by the Governor of the State.
+
+
+(2) Alternate Federal cochairpersonThe President shall appoint an alternate Federal cochairperson.
+
+
+(3) QuorumA State alternate shall not be counted toward the establishment of a quorum of the Authority in any instance in which a quorum of the State members is required to be present.
+
+
+(4) Delegation of powerNo power or responsibility of the Authority specified in paragraphs (2) and (3) of subsection (c), and no voting right of any Authority member, shall be delegated to any person—(A) who is not an Authority member; or
+
+(B) who is not entitled to vote in Authority meetings.
+
+
+
+(c) Voting(1) In general—votingA decision by the Authority shall require the affirmative vote of the Federal cochairperson and a majority of the State members (not including any member representing a State that is delinquent under subsection (g)(2)(C)) to be effective.
+
+
+(2) QuorumA quorum of State members shall be required to be present for the Authority to make any policy decision, including—(A) a modification or revi</akn:p></akn:content><akn:subsection eId="subsec_2009aa_1_a"><akn:num>(a)</akn:num><akn:heading>Establishment</akn:heading><akn:content><akn:p>(a) Establishment</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_b"><akn:num>(b)</akn:num><akn:heading>Alternate members</akn:heading><akn:content><akn:p>(b) Alternate members</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_c"><akn:num>(c)</akn:num><akn:heading>Voting</akn:heading><akn:content><akn:p>(c) Voting</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_d"><akn:num>(d)</akn:num><akn:heading>Duties</akn:heading><akn:content><akn:p>(d) Duties The Authority shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_e"><akn:num>(e)</akn:num><akn:heading>Administration</akn:heading><akn:content><akn:p>(e) Administration In carrying out subsection (d), the Authority may—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_f"><akn:num>(f)</akn:num><akn:heading>Federal agency cooperation</akn:heading><akn:content><akn:p>(f) Federal agency cooperation A Federal agency shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_g"><akn:num>(g)</akn:num><akn:heading>Administrative expenses</akn:heading><akn:content><akn:p>(g) Administrative expenses</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_h"><akn:num>(h)</akn:num><akn:heading>Compensation</akn:heading><akn:content><akn:p>(h) Compensation</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_i"><akn:num>(i)</akn:num><akn:heading>Conflicts of interest</akn:heading><akn:content><akn:p>(i) Conflicts of interest</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2009aa_1_j"><akn:num>(j)</akn:num><akn:heading>Validity of contracts, loans, and grants</akn:heading><akn:content><akn:p>(j) Validity of contracts, loans, and grants The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4), subsection (i), or sections 202 through 209 of title 18.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

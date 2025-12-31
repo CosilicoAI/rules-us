@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/10/233a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/10/233a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/10/233a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_233a"><akn:num>233a</akn:num><akn:heading>Annual report on force structure changes exhibit for the defense budget</akn:heading><akn:content><akn:p>§ 233a. Annual report on force structure changes exhibit for the defense budget(a) Annual Report.—Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on any major weapon systems proposed to be divested, re-prioritized, or retired in such budget.
+
+(b) Contents.—Each report under subsection (a) shall include the following:(1) Identification of each major weapon system the Secretary of Defense proposes to divest, re-prioritize, or retire in the period of five fiscal years following the date of the report.
+
+(2) Budget line-item details related to each major weapon system identified under paragraph (1).
+
+(3) For each proposed divestment, re-prioritization, or retirement, an explanation of—(A) the timeline for the divestment, re-prioritization, or retirement, including any factors that may affect such timelines positively or negatively;
+
+(B) any cost savings associated with the divestment, re-prioritization, or retirement;
+
+(C) the rationale for the divestment, re-prioritization, or retirement, including a qualitative description of the risk associated with the divestment, re-prioritization, or retirement based on the most recent National Defense Strategy (as of the date of the report);
+
+(D) any critical dependencies with other program efforts that might affect the timeline for such divestment, reprioritization, or retirement;
+
+(E) the expected disposition of the weapon system after divestment, re-prioritization or retirement; and
+
+(F) identification of the system or systems that are expected to satisfy the military requirements that were fulfilled by the weapon system once the divestment, re-prioritization, or retirement of that weapon system is completed.
+
+
+
+(c) Relationship to Other Reports.—The Secretary of Defense shall ensure that the report required under subsection (a) is deco</akn:p></akn:content><akn:subsection eId="subsec_233a_a"><akn:num>(a)</akn:num><akn:heading>Annual Report.—</akn:heading><akn:content><akn:p>(a) Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a report on any major weapon systems proposed to be divested, re-prioritized, or retired in such budget.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_233a_b"><akn:num>(b)</akn:num><akn:heading>Contents.—</akn:heading><akn:content><akn:p>(b) Each report under subsection (a) shall include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_233a_c"><akn:num>(c)</akn:num><akn:heading>Relationship to Other Reports.—</akn:heading><akn:content><akn:p>(c) The Secretary of Defense shall ensure that the report required under subsection (a) is deconflicted with the report required under section 222e of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_233a_d"><akn:num>(d)</akn:num><akn:heading>Major Weapon System Defined.—</akn:heading><akn:content><akn:p>(d) In this section, the term “major weapon system” has the meaning given that term in section 3455(f) of this title.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

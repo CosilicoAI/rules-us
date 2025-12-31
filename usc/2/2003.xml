@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/2/2003" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/2/2003/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/2/2003/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2003"><akn:num>2003</akn:num><akn:heading>Speaker as member of House Office Building commission</akn:heading><akn:content><akn:p>§ 2003. Speaker as member of House Office Building commission
+The Speaker shall continue a member of the commission in control of said building until his successor as Speaker is elected or his term as a Representative in Congress shall have expired.
+(Mar. 4, 1911, ch. 240, 36 Stat. 1306.)
+
+Editorial Notes
+Codification
+Section was classified to section 176 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section is based on act Mar. 4, 1911, popularly known as the “Deficiency Appropriation Act, fiscal year 1911”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

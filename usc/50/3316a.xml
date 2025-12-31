@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/3316a" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/3316a/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/3316a/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_3316a"><akn:num>3316a</akn:num><akn:heading>Reports on intelligence community participation in vulnerabilities equities process of Federal Gover</akn:heading><akn:content><akn:p>§ 3316a. Reports on intelligence community participation in vulnerabilities equities process of Federal Government(a) DefinitionsIn this section:(1) Vulnerabilities Equities Policy and Process documentThe term “Vulnerabilities Equities Policy and Process document” means the executive branch document entitled “Vulnerabilities Equities Policy and Process” dated November 15, 2017.
+
+
+(2) Vulnerabilities Equities ProcessThe term “Vulnerabilities Equities Process” means the interagency review of vulnerabilities, pursuant to the Vulnerabilities Equities Policy and Process document or any successor document.
+
+
+(3) VulnerabilityThe term “vulnerability” means a weakness in an information system or its components (for example, system security procedures, hardware design, and internal controls) that could be exploited or could affect confidentiality, integrity, or availability of information.
+
+
+
+(b) Reports on process and criteria under Vulnerabilities Equities Policy and Process(1) In generalNot later than 90 days after December 20, 2019, the Director of National Intelligence shall submit to the congressional intelligence committees a written report describing—(A) with respect to each element of the intelligence community—(i) the title of the official or officials responsible for determining whether, pursuant to criteria contained in the Vulnerabilities Equities Policy and Process document or any successor document, a vulnerability must be submitted for review under the Vulnerabilities Equities Process; and
+
+(ii) the process used by such element to make such determination; and
+
+
+(B) the roles or responsibilities of that element during a review of a vulnerability submitted to the Vulnerabilities Equities Process.
+
+
+(2) Changes to process or criteriaNot later than 30 days after any significant change is made to the process and criteria used by any element of the intelligence community for determining whether to submit a vulnerability for review under the Vulnerabilities Equities</akn:p></akn:content><akn:subsection eId="subsec_3316a_a"><akn:num>(a)</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>(a) Definitions In this section:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3316a_b"><akn:num>(b)</akn:num><akn:heading>Reports on process and criteria under Vulnerabilities Equities Policy and Process</akn:heading><akn:content><akn:p>(b) Reports on process and criteria under Vulnerabilities Equities Policy and Process</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_3316a_c"><akn:num>(c)</akn:num><akn:heading>Annual reports</akn:heading><akn:content><akn:p>(c) Annual reports</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

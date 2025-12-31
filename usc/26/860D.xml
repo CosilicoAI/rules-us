@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/860D" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/860D/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/860D/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_860D"><akn:num>860D</akn:num><akn:heading>REMIC defined</akn:heading><akn:content><akn:p>§ 860D. REMIC defined(a) General ruleFor purposes of this title, the terms “real estate mortgage investment conduit” and “REMIC” mean any entity—(1) to which an election to be treated as a REMIC applies for the taxable year and all prior taxable years,
+
+(2) all of the interests in which are regular interests or residual interests,
+
+(3) which has 1 (and only 1) class of residual interests (and all distributions, if any, with respect to such interests are pro rata),
+
+(4) as of the close of the 3rd month beginning after the startup day and at all times thereafter, substantially all of the assets of which consist of qualified mortgages and permitted investments,
+
+(5) which has a taxable year which is a calendar year, and
+
+(6) with respect to which there are reasonable arrangements designed to ensure that—(A) residual interests in such entity are not held by disqualified organizations (as defined in section 860E(e)(5)), and
+
+(B) information necessary for the application of section 860E(e) will be made available by the entity.
+
+
+
+In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B)).
+
+(b) Election(1) In generalAn entity (otherwise meeting the requirements of subsection (a)) may elect to be treated as a REMIC for its 1st taxable year. Such an election shall be made on its return for such 1st taxable year. Except as provided in paragraph (2), such an election shall apply to the taxable year for which made and all subsequent taxable years.
+
+
+(2) Termination(A) In generalIf any entity ceases to be a REMIC at any time during the taxable year, such entity shall not be treated as a REMIC for such taxable year or any succeeding taxable year.
+
+
+(B) Inadvertent terminationsIf—(i) an entity ceases to be a REMIC,
+
+(ii) the Secretary determines that such cessation was inadvertent,
+
+(iii) no later than a reasonable time after the discovery of the event resulting in </akn:p></akn:content><akn:subsection eId="subsec_860D_a"><akn:num>(a)</akn:num><akn:heading>General rule</akn:heading><akn:content><akn:p>(a) General rule For purposes of this title, the terms “real estate mortgage investment conduit” and “REMIC” mean any entity— In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B)).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_860D_b"><akn:num>(b)</akn:num><akn:heading>Election</akn:heading><akn:content><akn:p>(b) Election</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

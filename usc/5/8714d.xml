@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/5/8714d" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/5/8714d/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/5/8714d/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8714d"><akn:num>8714d</akn:num><akn:heading>Option to receive “living benefits”</akn:heading><akn:content><akn:p>§ 8714d. Option to receive “living benefits”(a) For the purpose of this section, an individual shall be considered to be “terminally ill” if such individual has a medical prognosis that such individual’s life expectancy is 9 months or less.
+
+(b) The Office of Personnel Management shall prescribe regulations under which any individual covered by group life insurance under section 8704(a) may, if such individual is terminally ill, elect to receive a lump-sum payment equal to—(1) the full amount of insurance under section 8704(a) (or portion thereof designated for this purpose under subsection (d)(4)) which would otherwise be payable under this chapter (on the establishment of a valid claim)—(A) computed based on a date determined under regulations of the Office (but not later than 30 days after the date on which the individual’s application for benefits under this section is approved or deemed approved under subsection (d)(3)); and
+
+(B) assuming continued coverage under this chapter at that time;
+
+
+reduced by
+
+(2) an amount necessary to assure that there is no increase in the actuarial value of the benefit paid (as determined under regulations of the Office).
+
+
+(c)(1) If a lump-sum payment is taken under this section—(A) no insurance under the provisions of section 8704(a) or (b) shall be payable based on the death or any loss of the individual involved, unless the lump-sum payment represents only a portion of the total benefits which could have been taken, in which case benefits under those provisions shall remain in effect, except that the basic insurance amount on which they are based—(i) shall be reduced by the percentage which the designated portion comprised relative to the total benefits which could have been taken (rounding the result to the nearest multiple of $1,000 or, if midway between multiples of $1,000, to the next higher multiple of $1,000); and
+
+(ii) shall not be subject to further adjustment; and
+
+
+(B) deductions and withholdings under section 8707, </akn:p></akn:content><akn:subsection eId="subsec_8714d_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) For the purpose of this section, an individual shall be considered to be “terminally ill” if such individual has a medical prognosis that such individual’s life expectancy is 9 months or less.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8714d_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Office of Personnel Management shall prescribe regulations under which any individual covered by group life insurance under section 8704(a) may, if such individual is terminally ill, elect to receive a lump-sum payment equal to—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8714d_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8714d_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

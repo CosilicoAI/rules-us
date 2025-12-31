@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/7603" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/7603/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/7603/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_7603"><akn:num>7603</akn:num><akn:heading>Service of summons</akn:heading><akn:content><akn:p>§ 7603. Service of summons(a) In generalA summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be served by the Secretary, by an attested copy delivered in hand to the person to whom it is directed, or left at his last and usual place of abode; and the certificate of service signed by the person serving the summons shall be evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of books, papers, records, or other data, it shall be sufficient if such books, papers, rec­ords, or other data are described with reasonable certainty.
+
+
+(b) Service by mail to third-party recordkeepers(1) In generalA summons referred to in subsection (a) for the production of books, papers, records, or other data by a third-party recordkeeper may also be served by certified or registered mail to the last known address of such recordkeeper.
+
+
+(2) Third-party recordkeeperFor purposes of paragraph (1), the term “third-party recordkeeper” means—(A) any mutual savings bank, cooperative bank, domestic building and loan association, or other savings institution chartered and supervised as a savings and loan or similar association under Federal or State law, any bank (as defined in section 581), or any credit union (within the meaning of section 501(c)(14)(A)),
+
+(B) any consumer reporting agency (as defined under section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f))),
+
+(C) any person extending credit through the use of credit cards or similar devices,
+
+(D) any broker (as defined in section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4))),
+
+(E) any attorney,
+
+(F) any accountant,
+
+(G) any barter exchange (as defined in section 6045(c)(3)),
+
+(H) any regulated investment company (as defined in section 851) and any agent of such regulated investment company when acting as an agent thereof,
+
+(I) any enrolled agent, and
+
+(J) any owner or developer of a comput</akn:p></akn:content><akn:subsection eId="subsec_7603_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be served by the Secretary, by an attested copy delivered in hand to the person to whom it is directed, or left at his last and usual place of abode; and the certificate of service signed by the person serving the summons shall be evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of books, papers, records, or other data, it shall be sufficient if such books, papers, rec­ords, or other data are described with reasonable certainty.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_7603_b"><akn:num>(b)</akn:num><akn:heading>Service by mail to third-party recordkeepers</akn:heading><akn:content><akn:p>(b) Service by mail to third-party recordkeepers</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/18/911" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/18/911/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/18/911/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_911"><akn:num>911</akn:num><akn:heading>Citizen of the United States</akn:heading><akn:content><akn:p>§ 911. Citizen of the United States
+Whoever falsely and willfully represents himself to be a citizen of the United States shall be fined under this title or imprisoned not more than three years, or both.
+(June 25, 1948, ch. 645, 62 Stat. 742; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+
+Historical and Revision NotesBased on subsection (a), paragraph (18) and subsection (d), of section 746, title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, § 346(a), par. (18), and (d), 54 Stat. 1165, 1167).
+Section consolidates said provisions of section 746, title 8, U.S.C., 1940 ed., Aliens and Nationality. The word “willfully” was substituted for “knowingly”, “$1,000” for “$5,000”, and “three years” for “five years”, to harmonize with congressional intent evidenced by the other sections of this chapter.
+Minor changes were made in phraseology and unnecessary words were omitted.
+
+Editorial Notes
+Amendments1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

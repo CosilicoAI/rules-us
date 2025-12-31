@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/20/1161i–4" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/20/1161i–4/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/20/1161i–4/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1161i_4"><akn:num>1161i–4</akn:num><akn:heading>State Task Force activities</akn:heading><akn:content><akn:p>§ 1161i–4. State Task Force activities(a) ActivitiesThe State Task Force shall—(1) coordinate and communicate regularly with the State Advisory Council on Early Care and Education (hereafter in this part referred to as “State Advisory Council”) or a similar State entity charged with creating a comprehensive system of early care and education in the State, for the purposes of—(A) integrating recommendations for early childhood professional development and career activities into the plans of the State Advisory Council; and
+
+(B) assisting in the implementation of professional development and career activities that are consistent with the plans described in subparagraph (A);
+
+
+(2) conduct a review of opportunities for and barriers to high-quality professional development, training, and higher education degree programs, in early childhood development and learning, including a periodic statewide survey concerning the demographics of individuals working in early childhood education programs in the State, which survey shall include information disaggregated by—(A) race, gender, and ethnicity;
+
+(B) compensation levels;
+
+(C) type of early childhood education program setting;
+
+(D) specialized knowledge of child development;
+
+(E) years of experience in an early childhood education program;
+
+(F) attainment of—(i) academic credit for coursework;
+
+(ii) an academic degree;
+
+(iii) a credential;
+
+(iv) licensure; or
+
+(v) certification in early childhood education; and
+
+
+(G) specialized knowledge in the education of children with limited English proficiency and students with disabilities; and
+
+
+(3) develop a plan for a comprehensive statewide professional development and career system for individuals working in early childhood education programs or for early childhood education providers, which plan may include—(A) methods of providing outreach to early childhood education program staff, directors, and administrators, including methods for how outreach is provided to non-English speaki</akn:p></akn:content><akn:subsection eId="subsec_1161i_4_a"><akn:num>(a)</akn:num><akn:heading>Activities</akn:heading><akn:content><akn:p>(a) Activities The State Task Force shall—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1161i_4_b"><akn:num>(b)</akn:num><akn:heading>Public hearings</akn:heading><akn:content><akn:p>(b) Public hearings The State Task Force shall hold public hearings and provide an opportunity for public comment on the activities described in the statewide plan described in subsection (a)(3).</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1161i_4_c"><akn:num>(c)</akn:num><akn:heading>Periodic review</akn:heading><akn:content><akn:p>(c) Periodic review The State Task Force shall meet periodically to review implementation of the statewide plan and to recommend any changes to the statewide plan the State Task Force determines necessary.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

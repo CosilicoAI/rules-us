@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/38/1710B" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/38/1710B/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/38/1710B/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1710B"><akn:num>1710B</akn:num><akn:heading>Extended care services</akn:heading><akn:content><akn:p>§ 1710B. Extended care services(a) The Secretary (subject to section 1710(a)(4) of this title and subsection (c) of this section) shall operate and maintain a program to provide extended care services to eligible veterans in accordance with this section. Such services shall include the following:(1) Geriatric evaluation.
+
+(2) Nursing home care (A) in facilities operated by the Secretary, and (B) in community-based facilities through contracts under section 1720 of this title.
+
+(3) Domiciliary services under section 1710(b) of this title.
+
+(4) Adult day health care under section 1720(f) of this title.
+
+(5) Such other noninstitutional alternatives to nursing home care as the Secretary may furnish as medical services under section 1701(10) 11 See References in Text note below. of this title.
+
+(6) Respite care under section 1720B of this title.
+
+
+(b) The Secretary shall ensure that the staffing and level of extended care services provided by the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.
+
+(c)(1) Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless the veteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
+
+(2) Paragraph (1) shall not apply—(A) to a veteran whose annual income (determined under section 1503 of this title) is less than the amount in effect under section 1521(b) of this title;
+
+(B) to a veteran being furnished hospice care under this section;
+
+(C) with respect to an episode of extended care services that a veteran is being furnished by the Department on November </akn:p></akn:content><akn:subsection eId="subsec_1710B_a"><akn:num>(a)</akn:num><akn:content><akn:p>(a) The Secretary (subject to section 1710(a)(4) of this title and subsection (c) of this section) shall operate and maintain a program to provide extended care services to eligible veterans in accordance with this section. Such services shall include the following:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1710B_b"><akn:num>(b)</akn:num><akn:content><akn:p>(b) The Secretary shall ensure that the staffing and level of extended care services provided by the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1710B_c"><akn:num>(c)</akn:num><akn:content><akn:p>(c)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1710B_d"><akn:num>(d)</akn:num><akn:content><akn:p>(d)</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1710B_e"><akn:num>(e)</akn:num><akn:content><akn:p>(e)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/8101" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/8101/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/8101/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_8101"><akn:num>8101</akn:num><akn:heading>Definitions</akn:heading><akn:content><akn:p>§ 8101. Definitions
+Except as otherwise provided, in this chapter:(1) AdministratorThe term “Administrator” means the Administrator of the Environmental Protection Agency.
+
+
+(2) Advisory CommitteeThe term “Advisory Committee” means the Biomass Research and Development Technical Advisory Committee established by section 8108(d)(1) of this title.
+
+
+(3) Advanced biofuel(A) In generalThe term “advanced biofuel” means fuel derived from renewable biomass other than corn kernel starch.
+
+
+(B) InclusionsSubject to subparagraph (A), the term “advanced biofuel” includes—(i) biofuel derived from cellulose, hemicellulose, or lignin;
+
+(ii) biofuel derived from sugar and starch (other than ethanol derived from corn kernel starch);
+
+(iii) biofuel derived from waste material, including crop residue, other vegetative waste material, animal waste, food waste, and yard waste;
+
+(iv) diesel-equivalent fuel derived from renewable biomass, including vegetable oil and animal fat;
+
+(v) biogas (including landfill gas and sewage waste treatment gas) produced through the conversion of organic matter from renewable biomass;
+
+(vi) butanol or other alcohols produced through the conversion of organic matter from renewable biomass; and
+
+(vii) other fuel derived from cellulosic biomass.
+
+
+
+(4) Biobased productThe term “biobased product” means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is—(A) composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials, renewable chemicals, and forestry materials; or
+
+(B) an intermediate ingredient or feedstock.
+
+
+(5) BiofuelThe term “biofuel” means a fuel derived from renewable biomass.
+
+
+(6) Biomass conversion facilityThe term “biomass conversion facility” means a facility that converts or proposes to convert renewable biomass into—(A) heat;
+
+(B) power;
+
+(C) biobased products; or
+
+(D) advanced biofuels.
+
+
+(7) BiorefineryThe term “biorefinery” </akn:p></akn:content><akn:subsection eId="subsec_8101_1"><akn:num>(1)</akn:num><akn:heading>Administrator</akn:heading><akn:content><akn:p>(1) Administrator The term “Administrator” means the Administrator of the Environmental Protection Agency.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_2"><akn:num>(2)</akn:num><akn:heading>Advisory Committee</akn:heading><akn:content><akn:p>(2) Advisory Committee The term “Advisory Committee” means the Biomass Research and Development Technical Advisory Committee established by section 8108(d)(1) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_3"><akn:num>(3)</akn:num><akn:heading>Advanced biofuel</akn:heading><akn:content><akn:p>(3) Advanced biofuel</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_4"><akn:num>(4)</akn:num><akn:heading>Biobased product</akn:heading><akn:content><akn:p>(4) Biobased product The term “biobased product” means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_5"><akn:num>(5)</akn:num><akn:heading>Biofuel</akn:heading><akn:content><akn:p>(5) Biofuel The term “biofuel” means a fuel derived from renewable biomass.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_6"><akn:num>(6)</akn:num><akn:heading>Biomass conversion facility</akn:heading><akn:content><akn:p>(6) Biomass conversion facility The term “biomass conversion facility” means a facility that converts or proposes to convert renewable biomass into—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_7"><akn:num>(7)</akn:num><akn:heading>Biorefinery</akn:heading><akn:content><akn:p>(7) Biorefinery The term “biorefinery” means a facility (including equipment and processes) that—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_8"><akn:num>(8)</akn:num><akn:heading>Board</akn:heading><akn:content><akn:p>(8) Board The term “Board” means the Biomass Research and Development Board established by section 8108(c) of this title.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_9"><akn:num>(9)</akn:num><akn:heading>Forest product</akn:heading><akn:content><akn:p>(9) Forest product</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_8101_10"><akn:num>(10)</akn:num><akn:heading>Indian tribe</akn:heading><akn:content><akn:p>(10) Indian tribe The term “Indian tribe” has the meaning given the term in section 5304 of title 25.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

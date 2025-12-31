@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/460t–4" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/460t–4/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/460t–4/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_460t_4"><akn:num>460t–4</akn:num><akn:heading>Authorization of appropriations</akn:heading><akn:content><akn:p>§ 460t–4. Authorization of appropriations
+There is hereby authorized to be appropriated not more than $780,000 for the acquisition of land and interests in land pursuant to this subchapter.
+(Pub. L. 89–664, § 5, Oct. 15, 1966, 80 Stat. 914; Pub. L. 92–272, title I, § 101(3), Apr. 11, 1972, 86 Stat. 120.)
+
+Editorial Notes
+Amendments1972—Pub. L. 92–272 increased the authorization of appropriations from not more than $355,000 to not more than $780,000.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

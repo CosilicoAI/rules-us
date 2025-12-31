@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/6292" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/6292/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/6292/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_6292"><akn:num>6292</akn:num><akn:heading>Coverage</akn:heading><akn:content><akn:p>§ 6292. Coverage(a) In generalThe following consumer products, excluding those consumer products designed solely for use in recreational vehicles and other mobile equipment, are covered products:(1) Refrigerators, refrigerator-freezers, and freezers which can be operated by alternating current electricity, excluding—(A) any type designed to be used without doors; and
+
+(B) any type which does not include a compressor and condenser unit as an integral part of the cabinet assembly.
+
+
+(2) Room air conditioners.
+
+(3) Central air conditioners and central air conditioning heat pumps.
+
+(4) Water heaters.
+
+(5) Furnaces.
+
+(6) Dishwashers.
+
+(7) Clothes washers.
+
+(8) Clothes dryers.
+
+(9) Direct heating equipment.
+
+(10) Kitchen ranges and ovens.
+
+(11) Pool heaters.
+
+(12) Television sets.
+
+(13) Fluorescent lamp ballasts.
+
+(14) General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps.
+
+(15) Showerheads, except safety shower showerheads.
+
+(16) Faucets.
+
+(17) Water closets.
+
+(18) Urinals.
+
+(19) Metal halide lamp fixtures.
+
+(20) Any other type of consumer product which the Secretary classifies as a covered product under subsection (b).
+
+
+(b) Special classification of consumer product(1) The Secretary may classify a type of consumer product as a covered product if he determines that—(A) classifying products of such type as covered products is necessary or appropriate to carry out the purposes of this chapter, and
+
+(B) average annual per-household energy use by products of such type is likely to exceed 100 kilowatt-hours (or its Btu equivalent) per year.
+
+
+(2) For purposes of this subsection:(A) The term “average annual per-household energy use with respect to a type of product” means the estimated aggregate annual energy use (in kilowatt-hours or the Btu equivalent) of consumer products of such type which are used by households in the United States, divided by the number of such households which use products of such type.
+
+(B) The Btu equ</akn:p></akn:content><akn:subsection eId="subsec_6292_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The following consumer products, excluding those consumer products designed solely for use in recreational vehicles and other mobile equipment, are covered products:</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_6292_b"><akn:num>(b)</akn:num><akn:heading>Special classification of consumer product</akn:heading><akn:content><akn:p>(b) Special classification of consumer product</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

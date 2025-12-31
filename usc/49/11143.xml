@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/49/11143" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/49/11143/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/49/11143/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_11143"><akn:num>11143</akn:num><akn:heading>Depreciation charges</akn:heading><akn:content><akn:p>§ 11143. Depreciation charges
+The Board shall, for a class of rail carriers providing transportation subject to its jurisdiction under this part, prescribe, and change when necessary, those classes of property for which depreciation charges may be included under operating expenses and a rate of depreciation that may be charged to a class of property. The Board may classify those rail carriers for purposes of this section. A rail carrier for whom depreciation charges and rates of depreciation are in effect under this section for any class of property may not—(1) charge to operating expenses a depreciation charge on a class of property other than that prescribed by the Board;
+
+(2) charge another rate of depreciation; or
+
+(3) include other depreciation charges in operating expenses.
+
+(Added Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 834.)
+
+Editorial Notes
+Prior ProvisionsA prior section 11143, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426, related to depreciation charges, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+Statutory Notes and Related Subsidiaries
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.</akn:p></akn:content><akn:subsection eId="subsec_11143_1"><akn:num>(1)</akn:num><akn:content><akn:p>(1) charge to operating expenses a depreciation charge on a class of property other than that prescribed by the Board;</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11143_2"><akn:num>(2)</akn:num><akn:content><akn:p>(2) charge another rate of depreciation; or</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_11143_3"><akn:num>(3)</akn:num><akn:content><akn:p>(3) include other depreciation charges in operating expenses.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

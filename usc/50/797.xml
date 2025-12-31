@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/50/797" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/50/797/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/50/797/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_797"><akn:num>797</akn:num><akn:heading>Penalty for violation of security regulations and orders</akn:heading><akn:content><akn:p>§ 797. Penalty for violation of security regulations and orders(a) Misdemeanor violation of defense property security regulations(1) MisdemeanorWhoever willfully violates any defense property security regulation shall be fined under title 18 or imprisoned not more than one year, or both.
+
+
+(2) Defense property security regulation describedFor purposes of paragraph (1), a defense property security regulation is a property security regulation that, pursuant to lawful authority—(A) shall be or has been promulgated or approved by the Secretary of Defense (or by a military commander designated by the Secretary of Defense or by a military officer, or a civilian officer or employee of the Department of Defense, holding a senior Department of Defense director position designated by the Secretary of Defense) for the protection or security of Department of Defense property; or
+
+(B) shall be or has been promulgated or approved by the Administrator of the National Aeronautics and Space Administration for the protection or security of NASA property.
+
+
+(3) Property security regulation describedFor purposes of paragraph (2), a property security regulation, with respect to any property, is a regulation—(A) relating to fire hazards, fire protection, lighting, machinery, guard service, disrepair, disuse, or other unsatisfactory conditions on such property, or the ingress thereto or egress or removal of persons therefrom; or
+
+(B) otherwise providing for safeguarding such property against destruction, loss, or injury by accident or by enemy action, sabotage, or other subversive actions.
+
+
+(4) DefinitionsIn this subsection:(A) Department of Defense propertyThe term “Department of Defense property” means covered property subject to the jurisdiction, administration, or in the custody of the Department of Defense, any Department or agency of which that Department consists, or any officer or employee of that Department or agency.
+
+
+(B) NASA propertyThe term “NASA property” means covered pro</akn:p></akn:content><akn:subsection eId="subsec_797_a"><akn:num>(a)</akn:num><akn:heading>Misdemeanor violation of defense property security regulations</akn:heading><akn:content><akn:p>(a) Misdemeanor violation of defense property security regulations</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_797_b"><akn:num>(b)</akn:num><akn:heading>Posting</akn:heading><akn:content><akn:p>(b) Posting Any regulation or order covered by subsection (a) shall be posted in conspicuous and appropriate places.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

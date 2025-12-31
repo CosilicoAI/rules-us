@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/18725" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/18725/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/18725/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_18725"><akn:num>18725</akn:num><akn:heading>Cybersecurity plan</akn:heading><akn:content><akn:p>§ 18725. Cybersecurity plan(a) In generalThe Secretary may require, as the Secretary determines appropriate, a recipient of any award or other funding under this division—(1) to submit to the Secretary, prior to the issuance of the award or other funding, a cybersecurity plan that demonstrates the cybersecurity maturity of the recipient in the context of the project for which that award or other funding was provided; and
+
+(2) establish a plan for maintaining and improving cybersecurity throughout the life of the proposed solution of the project.
+
+
+(b) Contents of cybersecurity planA cybersecurity plan described in subsection (a) shall, at a minimum, describe how the recipient described in that subsection—(1) plans to maintain cybersecurity between networks, systems, devices, applications, or components—(A) within the proposed solution of the project; and
+
+(B) at the necessary external interfaces at the proposed solution boundaries;
+
+
+(2) will perform ongoing evaluation of cybersecurity risks to address issues as the issues arise throughout the life of the proposed solution;
+
+(3) will report known or suspected network or system compromises of the project to the Secretary; and
+
+(4) will leverage applicable cybersecurity programs of the Department, including cyber vulnerability testing and security engineering evaluations.
+
+
+(c) Additional guidanceEach recipient described in subsection (a) should—(1) maximize the use of open guidance and standards, including, wherever possible—(A) the Cybersecurity Capability Maturity Model of the Department (or a successor model); and
+
+(B) the Framework for Improving Critical Infrastructure Cybersecurity of the National Institute of Standards and Technology; and
+
+
+(2) document—(A) any deviation from open standards; and
+
+(B) the utilization of proprietary standards where the recipient determines that such deviation necessary.
+
+
+
+(d) CoordinationThe Office of Cybersecurity, Energy Security, and Emergency Response of the Department shall</akn:p></akn:content><akn:subsection eId="subsec_18725_a"><akn:num>(a)</akn:num><akn:heading>In general</akn:heading><akn:content><akn:p>(a) In general The Secretary may require, as the Secretary determines appropriate, a recipient of any award or other funding under this division—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18725_b"><akn:num>(b)</akn:num><akn:heading>Contents of cybersecurity plan</akn:heading><akn:content><akn:p>(b) Contents of cybersecurity plan A cybersecurity plan described in subsection (a) shall, at a minimum, describe how the recipient described in that subsection—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18725_c"><akn:num>(c)</akn:num><akn:heading>Additional guidance</akn:heading><akn:content><akn:p>(c) Additional guidance Each recipient described in subsection (a) should—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18725_d"><akn:num>(d)</akn:num><akn:heading>Coordination</akn:heading><akn:content><akn:p>(d) Coordination The Office of Cybersecurity, Energy Security, and Emergency Response of the Department shall review each cybersecurity plan submitted under subsection (a) to ensure integration with Department research, development, and demonstration programs.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_18725_e"><akn:num>(e)</akn:num><akn:heading>Protection of information</akn:heading><akn:content><akn:p>(e) Protection of information Information provided to, or collected by, the Federal Government pursuant to this section the disclosure of which the Secretary reasonably foresees could be detrimental to the physical security or cybersecurity of any electric utility or the bulk-power system—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

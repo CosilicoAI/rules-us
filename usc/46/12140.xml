@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/46/12140" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/46/12140/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/46/12140/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_12140"><akn:num>12140</akn:num><akn:heading>Investigations by Secretary</akn:heading><akn:content><akn:p>§ 12140. Investigations by Secretary(a) In General.—The Secretary may conduct investigations and inspections regarding compliance with this chapter and regulations prescribed under this chapter.
+
+(b) Authority To Obtain Evidence.—(1) In general.—For the purposes of any investigation conducted under this section, the Secretary may issue a subpoena to require the attendance of a witness or the production of documents or other evidence relevant to the matter under investigation if—(A) before the issuance of the subpoena, the Secretary requests a determination by the Attorney General as to whether the subpoena—(i) is reasonable; and
+
+(ii) will interfere with a criminal investigation; and
+
+
+(B) the Attorney General—(i) determines that the subpoena is reasonable and will not interfere with a criminal investigation; or
+
+(ii) fails to make a determination with respect to the subpoena before the date that is 30 days after the date on which the Secretary makes a request under subparagraph (A) with respect to the subpoena.
+
+
+
+(2) Enforcement.—In the case of a refusal to obey a subpoena issued to any person under this section, the Secretary may invoke the aid of the appropriate district court of the United States to compel compliance.
+
+
+(Added Pub. L. 112–213, title III, § 308(a), Dec. 20, 2012, 126 Stat. 1566.)</akn:p></akn:content><akn:subsection eId="subsec_12140_a"><akn:num>(a)</akn:num><akn:heading>In General.—</akn:heading><akn:content><akn:p>(a) The Secretary may conduct investigations and inspections regarding compliance with this chapter and regulations prescribed under this chapter.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_12140_b"><akn:num>(b)</akn:num><akn:heading>Authority To Obtain Evidence.—</akn:heading><akn:content><akn:p>(b)</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

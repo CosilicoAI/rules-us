@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/12/5007" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/12/5007/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/12/5007/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_5007"><akn:num>5007</akn:num><akn:heading>Expedited recredit procedures for banks</akn:heading><akn:content><akn:p>§ 5007. Expedited recredit procedures for banks(a) Recredit claims(1) In generalA bank may make a claim against an indemnifying bank for expedited recredit for which that bank is indemnified if—(A) the claimant bank (or a bank that the claimant bank has indemnified) has received a claim for expedited recredit from a consumer under section 5006 of this title with respect to a substitute check or would have been subject to such a claim had the consumer’s account been charged;
+
+(B) the claimant bank has suffered a resulting loss or is obligated to recredit a consumer account under section 5006 of this title with respect to such substitute check; and
+
+(C) production of the original check, another substitute check, or a better copy of the original check is necessary to determine the validity of the charge to the customer account or any warranty claim connected with such substitute check.
+
+
+(2) 120-day periodAny claim under paragraph (1) may be submitted by the claimant bank to an indemnifying bank before the end of the 120-day period beginning on the date of the transaction that gave rise to the claim.
+
+
+
+(b) Procedures for claims(1) In generalTo make a claim under subsection (a) for an expedited recredit relating to a substitute check, the claimant bank shall send to the indemnifying bank—(A) a description of—(i) the claim, including an explanation of why the substitute check cannot be properly charged to the consumer account; or
+
+(ii) the warranty claim;
+
+
+(B) a statement that the claimant bank has suffered a loss or is obligated to recredit the consumer’s account under section 5006 of this title, together with an estimate of the amount of the loss or recredit;
+
+(C) the reason why production of the original check, another substitute check, or a better copy of the original check is necessary to determine the validity of the charge to the consumer account or the warranty claim; and
+
+(D) information sufficient for the indemnifying bank to identify the substitute check and</akn:p></akn:content><akn:subsection eId="subsec_5007_a"><akn:num>(a)</akn:num><akn:heading>Recredit claims</akn:heading><akn:content><akn:p>(a) Recredit claims</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5007_b"><akn:num>(b)</akn:num><akn:heading>Procedures for claims</akn:heading><akn:content><akn:p>(b) Procedures for claims</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5007_c"><akn:num>(c)</akn:num><akn:heading>Recredit by indemnifying bank</akn:heading><akn:content><akn:p>(c) Recredit by indemnifying bank</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_5007_d"><akn:num>(d)</akn:num><akn:heading>Production of original check or a sufficient copy governed by section 5005(d)</akn:heading><akn:content><akn:p>(d) Production of original check or a sufficient copy governed by section 5005(d) If the indemnifying bank provides the claimant bank with the original check or a copy of the original check (including an image or a substitute check) under subsection (c)(1)(A), section 5005(d) of this title shall govern any right of the indemnifying bank to any repayment of any funds the indemnifying bank has recredited to the claimant bank pursuant to subsection (c).</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

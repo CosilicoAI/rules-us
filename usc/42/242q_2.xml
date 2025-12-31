@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/42/242q–2" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/42/242q–2/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/42/242q–2/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_242q_2"><akn:num>242q–2</akn:num><akn:heading>Administrative staff and support</akn:heading><akn:content><akn:p>§ 242q–2. Administrative staff and support
+The Secretary, acting through either the Assistant Secretary for Health or the Director of the National Institute on Aging, shall appoint an Executive Secretary for the Task Force and shall provide the Task Force with such administrative staff and support as may be necessary to enable the Task Force to carry out subsections (b) and (c) of section 242q of this title.
+(Pub. L. 101–557, title III, § 303, Nov. 15, 1990, 104 Stat. 2770.)
+
+Editorial Notes
+Codification
+Section was enacted as part of the Home Health Care and Alzheimer’s Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>

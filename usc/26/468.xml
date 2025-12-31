@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/468" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/468/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/468/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_468"><akn:num>468</akn:num><akn:heading>Special rules for mining and solid waste reclamation and closing costs</akn:heading><akn:content><akn:p>§ 468. Special rules for mining and solid waste reclamation and closing costs(a) Establishment of reserves for reclamation and closing costs(1) Allowance of deductionIf a taxpayer elects the application of this section with respect to any mining or solid waste disposal property, the amount of any deduction for qualified reclamation or closing costs for any taxable year to which such election applies shall be equal to the current reclamation or closing costs allocable to—(A) in the case of qualified reclamation costs, the portion of the reserve property which was disturbed during such taxable year, and
+
+(B) in the case of qualified closing costs, the production from the reserve property during such taxable year.
+
+
+(2) Opening balance and adjustments to reserve(A) Opening balanceThe opening balance of any reserve for its first taxable year shall be zero.
+
+
+(B) Increase for interestA reserve shall be increased each taxable year by an amount equal to the amount of interest which would have been earned during such taxable year on the opening balance of such reserve for such taxable year if such interest were computed—(i) at the Federal short-term rate or rates (determined under section 1274) in effect, and
+
+(ii) by compounding semiannually.
+
+
+(C) Reserve to be charged for amounts paidAny amount paid by the taxpayer during any taxable year for qualified reclamation or closing costs allocable to portions of the reserve property for which the election under paragraph (1) was in effect shall be charged to the appropriate reserve as of the close of the taxable year.
+
+
+(D) Reserve increased by amount deductedA reserve shall be increased each taxable year by the amount allowable as a deduction under paragraph (1) for such taxable year which is allocable to such reserve.
+
+
+
+(3) Allowance of deduction for excess amounts paidThere shall be allowed as a deduction for any taxable year the excess of—(A) the amounts described in paragraph (2)(C) paid during such taxable year, over
+
+(B</akn:p></akn:content><akn:subsection eId="subsec_468_a"><akn:num>(a)</akn:num><akn:heading>Establishment of reserves for reclamation and closing costs</akn:heading><akn:content><akn:p>(a) Establishment of reserves for reclamation and closing costs</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_468_b"><akn:num>(b)</akn:num><akn:heading>Allocation for property where election not in effect for all taxable years</akn:heading><akn:content><akn:p>(b) Allocation for property where election not in effect for all taxable years If the election under subsection (a)(1) is not in effect for 1 or more taxable years in which the reserved property is disturbed (or production occurs), items with respect to the reserve property shall be allocated to the reserve in such manner as the Secretary may prescribe by regulations.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_468_c"><akn:num>(c)</akn:num><akn:heading>Revocation of election; separate reserves</akn:heading><akn:content><akn:p>(c) Revocation of election; separate reserves</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_468_d"><akn:num>(d)</akn:num><akn:heading>Definitions and special rules relating to reclamation and closing costs</akn:heading><akn:content><akn:p>(d) Definitions and special rules relating to reclamation and closing costs For purposes of this section—</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/16/450ff–5" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/16/450ff–5/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/16/450ff–5/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_450ff_5"><akn:num>450ff–5</akn:num><akn:heading>Administrative jurisdiction of Federal lands</akn:heading><akn:content><akn:p>§ 450ff–5. Administrative jurisdiction of Federal lands
+The heads of executive departments may transfer to the Secretary of the Interior, without exchange of funds, administrative jurisdiction over such federally owned lands and other property under their administrative jurisdictions within the revised boundary as may become excess to the needs of their respective agencies, for inclusion in the Fort Vancouver National Historic Site.
+(Pub. L. 87–78, § 3, June 30, 1961, 75 Stat. 197.)
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name
+“National Historic Site” substituted in text for “National Monument” in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.</akn:p></akn:content></akn:section></akn:body></akn:act></akn:akomaNtoso>
