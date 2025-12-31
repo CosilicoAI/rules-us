@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/32" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/32/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/32/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_32"><akn:num>32</akn:num><akn:heading>Earned income</akn:heading><akn:content><akn:p>§ 32. Earned income(a) Allowance of credit(1) In generalIn the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer’s earned income for the taxable year as does not exceed the earned income amount.
+
+
+(2) LimitationThe amount of the credit allowable to a taxpayer under paragraph (1) for any taxable year shall not exceed the excess (if any) of—(A) the credit percentage of the earned income amount, over
+
+(B) the phaseout percentage of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.
+
+
+
+(b) Percentages and amountsFor purposes of subsection (a)—(1) PercentagesThe credit percentage and the phaseout percentage shall be determined as follows:
+
+
+
+
+
+
+
+In the case of an eligible individual with:The credit percentage is:Thephaseoutpercentageis:
+
+
+1 qualifying child3415.98
+2 qualifying children4021.06
+3 or more qualifying children4521.06
+No qualifying children7.65 7.65
+
+
+
+
+
+(2) Amounts(A) In generalSubject to subparagraph (B), the earned income amount and the phaseout amount shall be determined as follows:
+
+
+
+
+
+
+
+In the case of an eligible individual with:The earned income amount is:Thephaseoutamount is:
+
+
+1 qualifying child$6,330$11,610
+2 or more qualifying children$8,890$11,610
+No qualifying children$4,220 $5,280
+
+
+
+
+
+(B) Joint returnsIn the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $5,000.
+
+
+
+
+(c) Definitions and special rulesFor purposes of this section—(1) Eligible individual(A) In generalThe term “eligible individual” means—(i) any individual who has a qualifying child for the taxable year, or
+
+(ii) any other individual who does not have a qualifying child for the taxable year, if—(I) such individual’s principal place of ab</akn:p></akn:content><akn:subsection eId="subsec_32_a"><akn:num>(a)</akn:num><akn:heading>Allowance of credit</akn:heading><akn:content><akn:p>(a) Allowance of credit</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_b"><akn:num>(b)</akn:num><akn:heading>Percentages and amounts</akn:heading><akn:content><akn:p>(b) Percentages and amounts For purposes of subsection (a)—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_c"><akn:num>(c)</akn:num><akn:heading>Definitions and special rules</akn:heading><akn:content><akn:p>(c) Definitions and special rules For purposes of this section—</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_d"><akn:num>(d)</akn:num><akn:heading>Married individuals</akn:heading><akn:content><akn:p>(d) Married individuals</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_e"><akn:num>(e)</akn:num><akn:heading>Taxable year must be full taxable year</akn:heading><akn:content><akn:p>(e) Taxable year must be full taxable year Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_f"><akn:num>(f)</akn:num><akn:heading>Amount of credit to be determined under tables</akn:heading><akn:content><akn:p>(f) Amount of credit to be determined under tables</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_g"><akn:num>(g)</akn:num><akn:heading>Repealed. Pub. L. 111–226, title II, § 219(a)(2), Aug. 10, 2010, 124 Stat. 2403]</akn:heading><akn:content><akn:p>[(g) Repealed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_h"><akn:num>(h)</akn:num><akn:heading>Repealed. Pub. L. 107–16, title III, § 303(c), June 7, 2001, 115 Stat. 55]</akn:heading><akn:content><akn:p>[(h) Repealed.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_i"><akn:num>(i)</akn:num><akn:heading>Denial of credit for individuals having excessive investment income</akn:heading><akn:content><akn:p>(i) Denial of credit for individuals having excessive investment income</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_32_j"><akn:num>(j)</akn:num><akn:heading>Inflation adjustments</akn:heading><akn:content><akn:p>(j) Inflation adjustments</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>

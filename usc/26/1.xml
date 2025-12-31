@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/26/1" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/26/1/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/26/1/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_1"><akn:num>1</akn:num><akn:heading>Tax imposed</akn:heading><akn:content><akn:p>§ 1. Tax imposed(a) Married individuals filing joint returns and surviving spousesThere is hereby imposed on the taxable income of—(1) every married individual (as defined in section 7703) who makes a single return jointly with his spouse under section 6013, and
+
+(2) every surviving spouse (as defined in section 2(a)),
+
+
+a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $36,90015% of taxable income.
+Over $36,900 but not over $89,150$5,535, plus 28% of the excess over $36,900.
+Over $89,150 but not over $140,000$20,165, plus 31% of the excess over $89,150.
+Over $140,000 but not over $250,000$35,928.50, plus 36% of the excess over $140,000.
+Over $250,000$75,528.50, plus 39.6% of the excess over $250,000.
+
+
+
+
+(b) Heads of householdsThere is hereby imposed on the taxable income of every head of a household (as defined in section 2(b)) a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $29,60015% of taxable income.
+Over $29,600 but not over $76,400$4,440, plus 28% of the excess over $29,600.
+Over $76,400 but not over $127,500$17,544, plus 31% of the excess over $76,400.
+Over $127,500 but not over $250,000$33,385, plus 36% of the excess over $127,500.
+Over $250,000$77,485, plus 39.6% of the excess over $250,000.
+
+
+
+
+
+(c) Unmarried individuals (other than surviving spouses and heads of households)There is hereby imposed on the taxable income of every individual (other than a surviving spouse as defined in section 2(a) or the head of a household as defined in section 2(b)) who is not a married individual (as defined in section 7703) a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $22,10015% of taxable income.
+Over $22,100 but not over $53,500$3,315, plus 28% of the excess over $22,100.
+Over $53,500 but not over $115,000$12,107, plus 31% of the excess over $53,500.
+Over $115,000 but not over $250,000$31,172</akn:p></akn:content><akn:subsection eId="subsec_1_a"><akn:num>(a)</akn:num><akn:heading>Married individuals filing joint returns and surviving spouses</akn:heading><akn:content><akn:p>(a) Married individuals filing joint returns and surviving spouses There is hereby imposed on the taxable income of— a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $36,90015% of taxable income.
+Over $36,900 but not over $89,150$5,535, plus 28% of the excess over $36,900.
+Over $89,150 but not over $140,000$20,165, plus 31% of the excess over $89,150.
+Over $140,000 but not over $250,000$35,928.50, plus 36% of the excess over $140,000.
+Over $250,000$75,528.50, plus 39.6% of the excess over $250,000.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_b"><akn:num>(b)</akn:num><akn:heading>Heads of households</akn:heading><akn:content><akn:p>(b) Heads of households There is hereby imposed on the taxable income of every head of a household (as defined in section 2(b)) a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $29,60015% of taxable income.
+Over $29,600 but not over $76,400$4,440, plus 28% of the excess over $29,600.
+Over $76,400 but not over $127,500$17,544, plus 31% of the excess over $76,400.
+Over $127,500 but not over $250,000$33,385, plus 36% of the excess over $127,500.
+Over $250,000$77,485, plus 39.6% of the excess over $250,000.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_c"><akn:num>(c)</akn:num><akn:heading>Unmarried individuals (other than surviving spouses and heads of households)</akn:heading><akn:content><akn:p>(c) Unmarried individuals (other than surviving spouses and heads of households) There is hereby imposed on the taxable income of every individual (other than a surviving spouse as defined in section 2(a) or the head of a household as defined in section 2(b)) who is not a married individual (as defined in section 7703) a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $22,10015% of taxable income.
+Over $22,100 but not over $53,500$3,315, plus 28% of the excess over $22,100.
+Over $53,500 but not over $115,000$12,107, plus 31% of the excess over $53,500.
+Over $115,000 but not over $250,000$31,172, plus 36% of the excess over $115,000.
+Over $250,000$79,772, plus 39.6% of the excess over $250,000.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_d"><akn:num>(d)</akn:num><akn:heading>Married individuals filing separate returns</akn:heading><akn:content><akn:p>(d) Married individuals filing separate returns There is hereby imposed on the taxable income of every married individual (as defined in section 7703) who does not make a single return jointly with his spouse under section 6013, a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $18,45015% of taxable income.
+Over $18,450 but not over $44,575$2,767.50, plus 28% of the excess over $18,450.
+Over $44,575 but not over $70,000$10,082.50, plus 31% of the excess over $44,575.
+Over $70,000 but not over $125,000$17,964.25, plus 36% of the excess over $70,000.
+Over $125,000$37,764.25, plus 39.6% of the excess over $125,000.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_e"><akn:num>(e)</akn:num><akn:heading>Estates and trusts</akn:heading><akn:content><akn:p>(e) Estates and trusts There is hereby imposed on the taxable income of— taxable under this subsection a tax determined in accordance with the following table:
+
+
+
+
+
+
+If taxable income is:The tax is:
+
+
+Not over $1,50015% of taxable income.
+Over $1,500 but not over $3,500$225, plus 28% of the excess over $1,500.
+Over $3,500 but not over $5,500$785, plus 31% of the excess over $3,500.
+Over $5,500 but not over $7,500$1,405, plus 36% of the excess over $5,500.
+Over $7,500$2,125, plus 39.6% of the excess over $7,500.</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_f"><akn:num>(f)</akn:num><akn:heading>Phaseout of marriage penalty in 15-percent bracket; adjustments in tax tables so that inflation will not result in tax increases</akn:heading><akn:content><akn:p>(f) Phaseout of marriage penalty in 15-percent bracket; adjustments in tax tables so that inflation will not result in tax increases</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_g"><akn:num>(g)</akn:num><akn:heading>Certain unearned income of children taxed as if parent’s income</akn:heading><akn:content><akn:p>(g) Certain unearned income of children taxed as if parent’s income</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_h"><akn:num>(h)</akn:num><akn:heading>Maximum capital gains rate</akn:heading><akn:content><akn:p>(h) Maximum capital gains rate</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_i"><akn:num>(i)</akn:num><akn:heading>Rate reductions after 2000</akn:heading><akn:content><akn:p>(i) Rate reductions after 2000</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_1_j"><akn:num>(j)</akn:num><akn:heading>Modifications for taxable years beginning after 2017</akn:heading><akn:content><akn:p>(j) Modifications for taxable years beginning after 2017</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>
