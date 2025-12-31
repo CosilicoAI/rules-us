@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"><akn:act><akn:meta><akn:identification source="#cosilico"><akn:FRBRWork prescriptive="true" authoritative="true"><akn:FRBRuri value="/akn/us/usc/7/2032" /><akn:FRBRdate date="2025-12-31" name="retrieval" /><akn:FRBRauthor href="#us-congress" /><akn:FRBRcountry value="us" /></akn:FRBRWork><akn:FRBRExpression><akn:FRBRuri value="/akn/us/usc/7/2032/eng@2025" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /><akn:FRBRlanguage language="en" /></akn:FRBRExpression><akn:FRBRManifestation><akn:FRBRuri value="/akn/us/usc/7/2032/eng@2025/main.xml" /><akn:FRBRdate date="2025-12-31" /><akn:FRBRauthor href="#cosilico" /></akn:FRBRManifestation></akn:identification></akn:meta><akn:body><akn:section eId="sec_2032"><akn:num>2032</akn:num><akn:heading>Automated data processing and information retrieval systems</akn:heading><akn:content><akn:p>§ 2032. Automated data processing and information retrieval systems(a) Standards and procedures for reviews(1) Initial reviews(A) In generalNot later than 1 year after November 28, 1990, the Secretary shall complete a review of regulations and standards (in effect on November 28, 1990) for the approval of an automated data processing and information retrieval system maintained by a State (hereinafter in this section referred to as a “system”) to determine the extent to which the regulations and standards contribute to a more effective and efficient program.
+
+
+(B) Revision of regulationsThe Secretary shall revise regulations (in effect on November 28, 1990) to take into account the findings of the review conducted under subparagraph (A).
+
+
+(C) Incorporation of existing systemsThe regulations shall require States to incorporate all or part of systems in use elsewhere, unless a State documents that the design and operation of an alternative system would be less costly. The Secretary shall establish standards to define the extent of modification of the systems for which payments will be made under either section 2025(a) or 2025(g) of this title.
+
+
+(D) ImplementationProposed systems shall meet standards established by the Secretary for timely implementation of proper changes.
+
+
+(E) Cost effectivenessCriteria for the approval of a system under section 2025(g) of this title shall include the cost effectiveness of the proposed system. On implementation of the approved system, a State shall document the actual cost and benefits of the system.
+
+
+
+(2) Operational reviewsThe Secretary shall conduct such reviews as are necessary to ensure that systems—(A) comply with conditions of initial funding approvals; and
+
+(B) adequately support program delivery in compliance with this chapter and regulations issued under this chapter.
+
+
+
+(b) Standards for approval of systems(1) In generalAfter conducting the review required under subsection (a), the Secretary shall establish standards for</akn:p></akn:content><akn:subsection eId="subsec_2032_a"><akn:num>(a)</akn:num><akn:heading>Standards and procedures for reviews</akn:heading><akn:content><akn:p>(a) Standards and procedures for reviews</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2032_b"><akn:num>(b)</akn:num><akn:heading>Standards for approval of systems</akn:heading><akn:content><akn:p>(b) Standards for approval of systems</akn:p></akn:content></akn:subsection><akn:subsection eId="subsec_2032_c"><akn:num>(c)</akn:num><akn:heading>Report</akn:heading><akn:content><akn:p>(c) Report Not later than October 1, 1993, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effective systems that support supplemental nutrition assistance program delivery in compliance with this chapter and regulations issued under this chapter.</akn:p></akn:content></akn:subsection></akn:section></akn:body></akn:act></akn:akomaNtoso>
